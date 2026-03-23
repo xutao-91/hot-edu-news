@@ -1,0 +1,26 @@
+{
+  "source": "Brookings Institution - Education",
+  "source_url": "https://www.brookings.edu/topics/education-2/",
+  "crawled_at": "2026-03-23T10:21:44.275911",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action",
+      "url": "https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/",
+      "source": "Brookings Institution",
+      "category": "education"
+    },
+    {
+      "title": "The past, present, and future of the Public Service Loan Forgiveness program",
+      "url": "https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/",
+      "source": "Brookings Institution",
+      "category": "education"
+    },
+    {
+      "title": "Tips for parents: Raising resilient learners in an AI world",
+      "url": "https://www.brookings.edu/articles/tips-for-parents-raising-resilient-learners-in-an-ai-world/",
+      "source": "Brookings Institution",
+      "category": "education"
+    }
+  ]
+}

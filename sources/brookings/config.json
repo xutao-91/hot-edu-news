@@ -1,0 +1,45 @@
+{
+  "source_id": "brookings",
+  "source_name": "Brookings Institution - Education",
+  "source_url": "https://www.brookings.edu/topics/education-2/",
+  "source_type": "智库/研究机构",
+  "reliability": "高",
+  "update_frequency": "每周2-3次",
+  
+  "crawl_methods": {
+    "primary": "html_parse",
+    "url": "https://www.brookings.edu/topics/education-2/",
+    "article_list_selector": ".article-item, .post-item, .card-content",
+    "fallback": "rss"
+  },
+  
+  "extract_rules": {
+    "article_list": {
+      "container": ".article-listing, .post-list, .card-list",
+      "item": ".article-item, article.card, .post-preview"
+    },
+    "title": {
+      "selector": "h2 a, h3 a, .title a",
+      "attribute": "text"
+    },
+    "link": {
+      "selector": "h2 a, h3 a, .title a",
+      "attribute": "href",
+      "prefix": "https://www.brookings.edu"
+    },
+    "date": {
+      "selector": ".date, time, .published-date",
+      "attribute": "text"
+    },
+    "summary": {
+      "selector": ".excerpt, .summary, .description",
+      "attribute": "text"
+    }
+  },
+  
+  "date_patterns": [
+    "%B %d, %Y",
+    "%b %d, %Y",
+    "%Y-%m-%d"
+  ]
+}
