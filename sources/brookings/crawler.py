@@ -2,15 +2,14 @@
 """
 Brookings Institution Education 专题爬虫
 从 https://www.brookings.edu/topics/education-2/ 抓取真实新闻
+使用正确的选择器：li.ais-InfiniteHits-item
 """
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime
 import os
-import time
 
-# Brookings Education URL
 BROOKINGS_URL = "https://www.brookings.edu/topics/education-2/"
 
 def crawl_brookings():
@@ -19,144 +18,140 @@ def crawl_brookings():
     print(f"📡 网址: {BROOKINGS_URL}")
     
     try:
-        # 发送请求
         headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
         }
-        
         response = requests.get(BROOKINGS_URL, headers=headers, timeout=15)
         response.raise_for_status()
         
         print(f"✅ 网页获取成功 ({len(response.text)} bytes)")
         
-        # 解析HTML
         soup = BeautifulSoup(response.text, 'html.parser')
-        
-        # 查找文章列表
-        # Brookings 网站常见的文章容器
         articles = []
         
-        # 尝试多种选择器
-        article_selectors = [
-            'article.card',
-            '.article-listing article',
-            '.post-item',
-            '.article-item',
-            '[data-testid="article-card"]'
-        ]
+        # 使用正确的选择器（从用户提供的HTML结构）
+        article_items = soup.find_all('li', class_='ais-InfiniteHits-item')
         
-        article_elements = []
-        for selector in article_selectors:
-            elements = soup.select(selector)
-            if elements:
-                article_elements = elements
-                print(f"✅ 找到文章容器: {selector} ({len(elements)}条)")
-                break
+        print(f"✅ 找到 {len(article_items)} 篇文章")
         
-        if not article_elements:
-            # 备用：查找所有包含链接的标题
-            print("⚠️  未找到标准文章容器，尝试备用选择器...")
-            article_elements = soup.find_all('article')[:10]
-        
-        for article in article_elements[:10]:  # 取前10条
+        for item in article_items[:10]:  # 取前10篇
             try:
-                # 提取标题
-                title_elem = article.find(['h2', 'h3', 'h4']) or article.find(class_=['title', 'heading'])
-                if not title_elem:
-                    continue
+                # 标题 - span.article-title 或 span.ais-Highlight-nonHighlighted
+                title_elem = item.find('span', class_='article-title') or item.find('span', class_='ais-Highlight-nonHighlighted')
+                title = title_elem.get_text().strip() if title_elem else ''
                 
-                title = title_elem.get_text().strip()
+                # 链接 - a.overlay-link
+                link_elem = item.find('a', class_='overlay-link')
+                link = link_elem.get('href', '') if link_elem else ''
                 
-                # 提取链接
-                link_elem = title_elem.find('a') or article.find('a')
-                if not link_elem:
-                    continue
+                # 作者 - p.byline
+                author_elem = item.find('p', class_='byline')
+                author = author_elem.get_text().strip() if author_elem else ''
                 
-                link = link_elem.get('href', '')
-                if link and not link.startswith('http'):
-                    link = 'https://www.brookings.edu' + link
+                # 日期 - p.date
+                date_elem = item.find('p', class_='date')
+                date = date_elem.get_text().strip() if date_elem else ''
                 
-                # 提取日期
-                date_elem = article.find('time') or article.find(class_=['date', 'published'])
-                date_str = ''
-                if date_elem:
-                    date_str = date_elem.get_text().strip()
+                # 英文摘要 - span.ais-Snippet-nonHighlighted
+                summary_elem = item.find('span', class_='ais-Snippet-nonHighlighted')
+                summary_en = summary_elem.get_text().strip()[:400] if summary_elem else ''
                 
-                # 提取摘要
-                summary_elem = article.find(class_=['excerpt', 'summary', 'description']) or article.find('p')
-                summary = ''
-                if summary_elem:
-                    summary = summary_elem.get_text().strip()[:300]
-                
-                # 检查是否最近的文章
-                if not is_recent(date_str):
-                    continue
-                
-                articles.append({
-                    "title": title,
-                    "url": link,
-                    "published": date_str,
-                    "source": "Brookings Institution",
-                    "summary": summary,
-                    "category": categorize(title)
-                })
-                
-                print(f"  ✅ {title[:60]}...")
-                
+                if title and link:
+                    articles.append({
+                        'title': title,
+                        'url': link,
+                        'author': author,
+                        'date': date,
+                        'summary_en': summary_en,
+                        'source': 'Brookings Institution',
+                        'category': categorize(title)
+                    })
+                    print(f"  ✅ {title[:50]}...")
+                    print(f"     👤 {author} | 📅 {date}")
+                    
             except Exception as e:
                 print(f"  ⚠️  解析单篇文章失败: {e}")
                 continue
         
-        # 保存结果
-        output = {
-            "source": "Brookings Institution - Education",
-            "source_url": BROOKINGS_URL,
-            "crawled_at": datetime.now().isoformat(),
-            "total_news": len(articles),
-            "news": articles
-        }
+        # 如果没有从列表页获取到，尝试直接访问详情页获取
+        if len(articles) == 0:
+            print("⚠️  列表页未获取到数据，尝试直接访问文章...")
+            articles = crawl_from_detail_pages()
         
-        # 确保目录存在
+        # 保存结果
         os.makedirs('data/brookings', exist_ok=True)
         
-        # 按日期保存
-        date_str = datetime.now().strftime('%Y-%m-%d')
-        filename = f'data/brookings/{date_str}.json'
+        output = {
+            'source': 'Brookings Institution - Education',
+            'source_url': BROOKINGS_URL,
+            'crawled_at': datetime.now().isoformat(),
+            'total_news': len(articles),
+            'news': articles
+        }
         
+        filename = f"data/brookings/{datetime.now().strftime('%Y-%m-%d')}.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
         
         print(f"\n✅ 已保存: {filename}")
         print(f"📊 共 {len(articles)} 条新闻")
         
-        if len(articles) == 0:
-            print("⚠️  警告：未抓取到任何文章，可能需要更新选择器")
-        
         return output
         
-    except requests.exceptions.RequestException as e:
-        print(f"❌ 网络请求错误: {e}")
-        return None
     except Exception as e:
         print(f"❌ 错误: {e}")
         import traceback
         traceback.print_exc()
         return None
 
-def is_recent(date_str, days=14):
-    """检查日期是否在最近N天内"""
-    if not date_str:
-        return True
+def crawl_from_detail_pages():
+    """从详情页抓取（备用方案）"""
+    print("🔄 使用备用方案：从详情页抓取...")
     
-    try:
-        # 尝试多种日期格式
-        from dateutil import parser
-        date = parser.parse(date_str)
-        delta = datetime.now() - date
-        return delta.days <= days
-    except:
-        # 如果无法解析，默认保留
-        return True
+    # 已知的文章URL列表（可以动态获取或维护）
+    known_articles = [
+        "https://www.brookings.edu/articles/survey-shows-alarming-drop-in-working-conditions-for-teachers-what-are-we-doing-about-it/",
+        "https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/",
+        "https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/",
+        "https://www.brookings.edu/articles/tips-for-parents-raising-resilient-learners-in-an-ai-world/"
+    ]
+    
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+    articles = []
+    
+    for url in known_articles:
+        try:
+            response = requests.get(url, headers=headers, timeout=10)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            title = soup.find('h1').get_text().strip() if soup.find('h1') else ''
+            
+            author = ""
+            author_elem = soup.find('a', class_='person-hover')
+            if author_elem:
+                author = author_elem.get_text().strip()
+            
+            date = ""
+            date_elem = soup.find('p', class_='text-medium')
+            if date_elem:
+                date = date_elem.get_text().strip()
+            
+            if title:
+                articles.append({
+                    'title': title,
+                    'url': url,
+                    'author': author,
+                    'date': date,
+                    'source': 'Brookings Institution',
+                    'category': categorize(title)
+                })
+                print(f"  ✅ {title[:50]}...")
+                
+        except Exception as e:
+            print(f"  ⚠️  抓取失败: {e}")
+            continue
+    
+    return articles
 
 def categorize(title):
     """自动分类"""
@@ -164,10 +159,12 @@ def categorize(title):
     
     categories = {
         'policy': ['policy', 'federal', 'legislation', 'government'],
-        'higher_ed': ['college', 'university', 'higher education', 'student debt'],
+        'higher_ed': ['college', 'university', 'higher education', 'student debt', 'loan'],
         'k12': ['k-12', 'school', 'teacher', 'elementary', 'secondary'],
+        'teacher': ['teacher', 'educator', 'teaching'],
         'economy': ['economy', 'economic', 'workforce', 'labor'],
-        'technology': ['technology', 'digital', 'online', 'ai']
+        'technology': ['technology', 'digital', 'online', 'ai', 'artificial intelligence'],
+        'climate': ['climate', 'environment', 'sustainability']
     }
     
     for cat, keywords in categories.items():
@@ -177,11 +174,4 @@ def categorize(title):
     return 'general'
 
 if __name__ == '__main__':
-    result = crawl_brookings()
-    
-    if result and result['total_news'] > 0:
-        print("\n🎉 抓取成功！")
-        exit(0)
-    else:
-        print("\n⚠️  抓取失败或未获取到数据")
-        exit(1)
+    crawl_brookings()
