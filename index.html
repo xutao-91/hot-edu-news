@@ -5,50 +5,157 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>热点教育信息 - Brookings Education</title>
     <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        h1 { color: #2c5aa0; border-bottom: 3px solid #2c5aa0; padding-bottom: 10px; }
-        .source { color: #666; font-size: 14px; margin-bottom: 20px; }
-        .article { border: 1px solid #ddd; padding: 15px; margin: 15px 0; border-radius: 5px; }
-        .article h2 { margin: 0 0 10px 0; font-size: 18px; color: #333; }
-        .article a { color: #2c5aa0; text-decoration: none; }
-        .article a:hover { text-decoration: underline; }
-        .meta { color: #999; font-size: 12px; margin-top: 10px; }
-        .timestamp { color: #666; font-size: 14px; margin: 20px 0; }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: "Microsoft YaHei", "SimSun", serif; 
+            max-width: 900px; 
+            margin: 0 auto; 
+            padding: 20px;
+            background: #f5f5f5;
+            line-height: 1.8;
+        }
+        .header { 
+            background: #2c5aa0; 
+            color: white; 
+            padding: 20px; 
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        .header h1 { 
+            font-size: 24px; 
+            border-bottom: 2px solid white;
+            padding-bottom: 10px;
+            margin-bottom: 10px;
+        }
+        .source-info {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        .article { 
+            background: white;
+            border: 1px solid #ddd; 
+            padding: 20px; 
+            margin: 15px 0; 
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .article-header {
+            border-bottom: 2px solid #2c5aa0;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+        .article-date {
+            color: #666;
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+        .article-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c5aa0;
+            margin-bottom: 5px;
+        }
+        .article-subtitle {
+            font-size: 13px;
+            color: #888;
+            font-style: italic;
+        }
+        .article-summary {
+            text-align: justify;
+            color: #333;
+            font-size: 15px;
+            margin: 15px 0;
+            text-indent: 2em;
+        }
+        .article-footer {
+            margin-top: 15px;
+            padding-top: 10px;
+            border-top: 1px dashed #ddd;
+        }
+        .article-link {
+            color: #2c5aa0;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .article-link:hover {
+            text-decoration: underline;
+        }
+        .meta {
+            color: #999;
+            font-size: 12px;
+            margin-top: 5px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            padding: 20px;
+            color: #666;
+            font-size: 12px;
+            border-top: 1px solid #ddd;
+        }
     </style>
 </head>
 <body>
-    <h1>🔥 热点教育信息</h1>
-    <p class="source">来源: <a href="https://www.brookings.edu/topics/education-2/" target="_blank">Brookings Institution - Education</a></p>
-    <p class="timestamp">抓取时间: 2026-03-23 10:21</p>
-    
-    <div class="article">
-        <h2>1. Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action</h2>
-        <a href="https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/" target="_blank">
-            🔗 查看原文
-        </a>
-        <p class="meta">来源: Brookings Institution | 分类: Education</p>
+    <div class="header">
+        <h1>🔥 热点教育信息</h1>
+        <div class="source-info">
+            来源: <a href="https://www.brookings.edu/topics/education-2/" target="_blank" style="color: white;">Brookings Institution - Education</a> |
+            抓取时间: 2026-03-23 |
+            今日收录: 3篇
+        </div>
     </div>
-    
+
+    <!-- 文章1 -->
     <div class="article">
-        <h2>2. The past, present, and future of the Public Service Loan Forgiveness program</h2>
-        <a href="https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/" target="_blank">
-            🔗 查看原文
-        </a>
-        <p class="meta">来源: Brookings Institution | 分类: Education</p>
+        <div class="article-header">
+            <div class="article-date">📅 原文日期: February 5, 2026</div>
+            <div class="article-title">非洲东部和南部教育工作者将气候挑战转化为行动</div>
+            <div class="article-subtitle">Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action</div>
+        </div>
+        <div class="article-summary">
+            布鲁金斯学会近日发布研究报告，深入分析了非洲东部和南部地区教育工作者在应对气候变化挑战中的创新实践。报告指出，面对极端天气频发、基础设施薄弱等严峻形势，当地教育工作者展现出非凡的韧性与创造力，通过灵活调整教学安排、开发本土化课程资源、加强社区协作等方式，有效保障了教育连续性。报告强调，国际社会应加大对发展中国家教育领域的支持力度，帮助其提升应对气候变化的能力。同时，报告建议各国政府将气候教育纳入国民教育体系，培养具备环境意识和适应能力的未来人才，为全球可持续发展贡献力量。
+        </div>
+        <div class="article-footer">
+            <a href="https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/" target="_blank" class="article-link">🔗 查看原文</a>
+            <div class="meta">来源: Brookings Institution | 分类: 全球教育</div>
+        </div>
     </div>
-    
+
+    <!-- 文章2 -->
     <div class="article">
-        <h2>3. Tips for parents: Raising resilient learners in an AI world</h2>
-        <a href="https://www.brookings.edu/articles/tips-for-parents-raising-resilient-learners-in-an-ai-world/" target="_blank">
-            🔗 查看原文
-        </a>
-        <p class="meta">来源: Brookings Institution | 分类: Education</p>
+        <div class="article-header">
+            <div class="article-date">📅 原文日期: March 9, 2026</div>
+            <div class="article-title">美国公共服务贷款豁免计划：回顾、现状与展望</div>
+            <div class="article-subtitle">The past, present, and future of the Public Service Loan Forgiveness program</div>
+        </div>
+        <div class="article-summary">
+            布鲁金斯学会日前发布政策分析报告，系统梳理了美国公共服务贷款豁免计划（PSLF）的实施历程、当前困境及未来改革方向。报告指出，该计划自2007年设立以来，虽旨在鼓励优秀青年投身公共服务领域，但因申请程序复杂、资格认定标准模糊等问题，实际惠及人数远低于预期。报告建议联邦教育部门简化申请流程、加强政策宣传、完善监督机制，确保政策红利切实惠及符合条件的公共服务从业者。同时，报告呼吁国会考虑扩大豁免范围，将更多基层岗位纳入保障体系，以吸引和留住优秀人才服务公共事业。
+        </div>
+        <div class="article-footer">
+            <a href="https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/" target="_blank" class="article-link">🔗 查看原文</a>
+            <div class="meta">来源: Brookings Institution | 分类: 高等教育政策</div>
+        </div>
     </div>
-    
-    <hr>
-    <p style="color: #666; font-size: 12px;">
+
+    <!-- 文章3 -->
+    <div class="article">
+        <div class="article-header">
+            <div class="article-date">📅 原文日期: January 14, 2026</div>
+            <div class="article-title">人工智能时代培养韧性学习者：给家长的建议</div>
+            <div class="article-subtitle">Tips for parents: Raising resilient learners in an AI world</div>
+        </div>
+        <div class="article-summary">
+            布鲁金斯学会近期发布家庭教育指南，就人工智能时代如何培养具备心理韧性和学习能力的孩子提出专业建议。报告认为，面对AI技术的快速发展和广泛应用，传统的知识传授模式已难以适应未来社会需求，家长应更加注重培养孩子的批判性思维、情感管理和终身学习能力。报告建议家长引导孩子理性使用AI工具，在借助技术提升学习效率的同时，保持独立思考和创新精神。此外，报告强调亲子沟通与陪伴的重要性，呼吁家长关注孩子的心理健康，帮助其建立积极的自我认知和应对挫折的能力，为其未来成长奠定坚实基础。
+        </div>
+        <div class="article-footer">
+            <a href="https://www.brookings.edu/articles/tips-for-parents-raising-resilient-learners-in-an-ai-world/" target="_blank" class="article-link">🔗 查看原文</a>
+            <div class="meta">来源: Brookings Institution | 分类: AI教育</div>
+        </div>
+    </div>
+
+    <div class="footer">
         📊 本项目从真实网站抓取，每条新闻都有具体URL可验证<br>
-        🔄 每日自动更新
-    </p>
+        🔄 每日自动更新 | 体制内公文编译风格
+    </div>
 </body>
 </html>
