@@ -44,16 +44,34 @@
             padding-bottom: 10px;
             margin-bottom: 15px;
         }
+        .article-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        .article-author {
+            color: #2c5aa0;
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .article-author::before {
+            content: "👤 ";
+        }
         .article-date {
             color: #666;
             font-size: 14px;
-            margin-bottom: 8px;
+        }
+        .article-date::before {
+            content: "📅 ";
         }
         .article-title {
             font-size: 18px;
             font-weight: bold;
             color: #2c5aa0;
-            margin-bottom: 5px;
+            margin: 10px 0 5px 0;
         }
         .article-subtitle {
             font-size: 13px;
@@ -108,7 +126,10 @@
     <!-- 文章1 -->
     <div class="article">
         <div class="article-header">
-            <div class="article-date">📅 原文日期: February 5, 2026</div>
+            <div class="article-meta">
+                <span class="article-author">Ellen Chigwanda</span>
+                <span class="article-date">March 20, 2026</span>
+            </div>
             <div class="article-title">非洲东部和南部教育工作者将气候挑战转化为行动</div>
             <div class="article-subtitle">Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action</div>
         </div>
@@ -124,7 +145,10 @@
     <!-- 文章2 -->
     <div class="article">
         <div class="article-header">
-            <div class="article-date">📅 原文日期: March 9, 2026</div>
+            <div class="article-meta">
+                <span class="article-author">Sarah Reber</span>
+                <span class="article-date">March 19, 2026</span>
+            </div>
             <div class="article-title">美国公共服务贷款豁免计划：回顾、现状与展望</div>
             <div class="article-subtitle">The past, present, and future of the Public Service Loan Forgiveness program</div>
         </div>
@@ -140,7 +164,10 @@
     <!-- 文章3 -->
     <div class="article">
         <div class="article-header">
-            <div class="article-date">📅 原文日期: January 14, 2026</div>
+            <div class="article-meta">
+                <span class="article-author">Rebecca Winthrop</span>
+                <span class="article-date">March 13, 2026</span>
+            </div>
             <div class="article-title">人工智能时代培养韧性学习者：给家长的建议</div>
             <div class="article-subtitle">Tips for parents: Raising resilient learners in an AI world</div>
         </div>
