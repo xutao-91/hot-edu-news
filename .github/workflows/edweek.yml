@@ -1,0 +1,30 @@
+name: EdWeek News Crawler
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+  workflow_dispatch:
+
+jobs:
+  crawl-edweek:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: pip install requests feedparser beautifulsoup4
+    
+    - name: Crawl Education Week RSS
+      run: python3 sources/edweek/crawler.py
+    
+    - name: Commit and push
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add data/
+        git commit -m "📰 EdWeek: $(date +%Y-%m-%d-%H:%M)" || true
+        git push
