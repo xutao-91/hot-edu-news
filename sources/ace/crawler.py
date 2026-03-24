@@ -2,19 +2,46 @@
 """
 ACE (American Council on Education) 新闻爬虫
 从 https://www.acenet.edu/News-Room/Pages/default.aspx 抓取新闻
+只抓取最近7天内的文章，排除播客
 """
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
+import re
 
 ACE_URL = "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))"
 
+def parse_date(date_str):
+    """解析日期字符串为datetime对象"""
+    date_formats = [
+        '%B %d, %Y',      # March 23, 2026
+        '%b %d, %Y',      # Mar 23, 2026
+        '%Y-%m-%d',       # 2026-03-23
+    ]
+    
+    for fmt in date_formats:
+        try:
+            return datetime.strptime(date_str.strip(), fmt)
+        except:
+            continue
+    return None
+
+def is_within_days(date_str, days=7):
+    """检查日期是否在指定天数内"""
+    article_date = parse_date(date_str)
+    if not article_date:
+        return True  # 如果解析失败，默认保留
+    
+    cutoff_date = datetime.now() - timedelta(days=days)
+    return article_date >= cutoff_date
+
 def crawl_ace():
-    """从ACE抓取新闻"""
+    """从ACE抓取新闻（最近7天）"""
     print("🚀 开始抓取 ACE (American Council on Education)...")
     print(f"📡 网址: {ACE_URL}")
+    print(f"📅 只抓取最近7天内的文章")
     
     try:
         headers = {
@@ -27,13 +54,15 @@ def crawl_ace():
         
         soup = BeautifulSoup(response.text, 'html.parser')
         articles = []
+        skipped_count = 0
+        podcast_count = 0
         
         # 查找所有文章卡片
         post_items = soup.find_all('div', class_='rollup-result')
         
-        print(f"✅ 找到 {len(post_items)} 篇文章")
+        print(f"✅ 找到 {len(post_items)} 篇文章，开始过滤...")
         
-        for post in post_items[:10]:  # 取前10篇
+        for post in post_items[:30]:  # 检查前30篇
             try:
                 # 标题
                 title_elem = post.find('div', class_='rollup-title')
@@ -61,10 +90,17 @@ def crawl_ace():
                 
                 # 过滤掉Podcast类型
                 if article_type.lower() == 'podcast':
-                    print(f"\n  ⏭️  跳过Podcast: {title[:40]}...")
+                    podcast_count += 1
+                    print(f"  ⏭️  跳过Podcast: {title[:40]}...")
                     continue
                 
-                # 摘要（在rollover中）
+                # 检查日期是否在7天内
+                if not is_within_days(date, days=7):
+                    skipped_count += 1
+                    print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {date}")
+                    continue
+                
+                # 摘要
                 summary = ""
                 desc_elem = post.find('div', class_='rollup-desc')
                 if desc_elem:
@@ -87,6 +123,10 @@ def crawl_ace():
                 print(f"  ⚠️  解析失败: {e}")
                 continue
         
+        print(f"\n📊 过滤结果: {len(articles)} 篇在7天内")
+        print(f"   跳过 {skipped_count} 篇（超过7天）")
+        print(f"   跳过 {podcast_count} 篇（播客）")
+        
         # 保存
         os.makedirs('data/ace', exist_ok=True)
         
@@ -94,7 +134,7 @@ def crawl_ace():
             'source': 'ACE - American Council on Education',
             'source_url': ACE_URL,
             'crawled_at': datetime.now().isoformat(),
-            'crawl_method': 'requests',
+            'filter_days': 7,
             'total_news': len(articles),
             'news': articles
         }
@@ -104,7 +144,7 @@ def crawl_ace():
             json.dump(output, f, indent=2, ensure_ascii=False)
         
         print(f"\n✅ 已保存: {filename}")
-        print(f"📊 共 {len(articles)} 条新闻")
+        print(f"📊 共 {len(articles)} 条新闻（最近7天）")
         
         return output
         
@@ -131,7 +171,7 @@ def categorize(title):
 
 if __name__ == '__main__':
     print("="*60)
-    print("🚀 ACE爬虫启动")
+    print("🚀 ACE爬虫启动（最近7天）")
     print("="*60)
     result = crawl_ace()
     if result:

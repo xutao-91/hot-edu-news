@@ -1,9 +1,10 @@
 #!/bin/bash
-# 本地爬虫主控制脚本
+# 本地爬虫主控制脚本 - 只抓取最近7天的文章
 # 定时运行：每天 12:00 和 20:00
 
 echo "========================================"
 echo "🚀 热点教育信息 - 本地爬虫启动"
+echo "📅 只抓取最近7天内的文章"
 echo "时间: $(date)"
 echo "========================================"
 
@@ -39,18 +40,28 @@ else
     echo "⚠️  White House 失败，继续..."
 fi
 
-# 4. 同步docs目录
+# 4. 运行ACE爬虫
 echo ""
-echo "📂 [4/4] 同步 docs 目录..."
+echo "📰 [4/4] 运行 ACE 爬虫..."
+python3 sources/ace/crawler.py
+if [ $? -eq 0 ]; then
+    echo "✅ ACE 完成"
+else
+    echo "⚠️  ACE 失败，继续..."
+fi
+
+# 5. 同步docs目录
+echo ""
+echo "📂 [5/5] 同步 docs 目录..."
 cp index.html docs/
 cp -r data/ docs/
 echo "✅ docs目录已同步"
 
-# 5. 推送到GitHub
+# 6. 推送到GitHub
 echo ""
 echo "📤 推送到 GitHub..."
 git add docs/ index.html README.md sources/ data/
-git commit -m "📰 本地爬虫更新: $(date +'%Y-%m-%d %H:%M')" || echo "无变更"
+git commit -m "📰 本地爬虫更新: $(date +'%Y-%m-%d %H:%M') - 只抓取最近7天" || echo "无变更"
 
 # 使用token推送
 if [ -n "$GITHUB_TOKEN" ]; then

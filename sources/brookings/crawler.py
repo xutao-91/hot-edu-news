@@ -2,20 +2,50 @@
 """
 Brookings Institution Education 专题爬虫
 从 https://www.brookings.edu/topics/education-2/ 抓取真实新闻
-使用正确的选择器：li.ais-InfiniteHits-item
+只抓取最近7天内的文章
 """
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
+import re
 
 BROOKINGS_URL = "https://www.brookings.edu/topics/education-2/"
 
+def parse_date(date_str):
+    """解析日期字符串为datetime对象"""
+    date_formats = [
+        '%B %d, %Y',      # March 23, 2026
+        '%b %d, %Y',      # Mar 23, 2026
+        '%Y-%m-%d',       # 2026-03-23
+        '%B %d, %Y',      # Updated: March 23, 2026
+    ]
+    
+    # 清理字符串
+    date_str = re.sub(r'Updated:\s*', '', date_str).strip()
+    
+    for fmt in date_formats:
+        try:
+            return datetime.strptime(date_str, fmt)
+        except:
+            continue
+    return None
+
+def is_within_days(date_str, days=7):
+    """检查日期是否在指定天数内"""
+    article_date = parse_date(date_str)
+    if not article_date:
+        return True  # 如果解析失败，默认保留
+    
+    cutoff_date = datetime.now() - timedelta(days=days)
+    return article_date >= cutoff_date
+
 def crawl_brookings():
-    """从 Brookings Education 抓取新闻"""
+    """从 Brookings Education 抓取新闻（最近7天）"""
     print("🚀 开始抓取 Brookings Institution - Education...")
     print(f"📡 网址: {BROOKINGS_URL}")
+    print(f"📅 只抓取最近7天内的文章")
     
     try:
         headers = {
@@ -28,31 +58,38 @@ def crawl_brookings():
         
         soup = BeautifulSoup(response.text, 'html.parser')
         articles = []
+        skipped_count = 0
         
-        # 使用正确的选择器（从用户提供的HTML结构）
+        # 使用正确的选择器
         article_items = soup.find_all('li', class_='ais-InfiniteHits-item')
         
-        print(f"✅ 找到 {len(article_items)} 篇文章")
+        print(f"✅ 找到 {len(article_items)} 篇文章，开始过滤...")
         
-        for item in article_items[:10]:  # 取前10篇
+        for item in article_items[:20]:  # 检查前20篇
             try:
-                # 标题 - span.article-title 或 span.ais-Highlight-nonHighlighted
+                # 标题
                 title_elem = item.find('span', class_='article-title') or item.find('span', class_='ais-Highlight-nonHighlighted')
                 title = title_elem.get_text().strip() if title_elem else ''
                 
-                # 链接 - a.overlay-link
+                # 链接
                 link_elem = item.find('a', class_='overlay-link')
                 link = link_elem.get('href', '') if link_elem else ''
                 
-                # 作者 - p.byline
+                # 作者
                 author_elem = item.find('p', class_='byline')
                 author = author_elem.get_text().strip() if author_elem else ''
                 
-                # 日期 - p.date
+                # 日期
                 date_elem = item.find('p', class_='date')
                 date = date_elem.get_text().strip() if date_elem else ''
                 
-                # 英文摘要 - span.ais-Snippet-nonHighlighted
+                # 检查日期是否在7天内
+                if not is_within_days(date, days=7):
+                    skipped_count += 1
+                    print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {date}")
+                    continue
+                
+                # 英文摘要
                 summary_elem = item.find('span', class_='ais-Snippet-nonHighlighted')
                 summary_en = summary_elem.get_text().strip()[:400] if summary_elem else ''
                 
@@ -73,6 +110,8 @@ def crawl_brookings():
                 print(f"  ⚠️  解析单篇文章失败: {e}")
                 continue
         
+        print(f"\n📊 过滤结果: {len(articles)} 篇在7天内，跳过 {skipped_count} 篇")
+        
         # 如果没有从列表页获取到，尝试直接访问详情页获取
         if len(articles) == 0:
             print("⚠️  列表页未获取到数据，尝试直接访问文章...")
@@ -85,6 +124,7 @@ def crawl_brookings():
             'source': 'Brookings Institution - Education',
             'source_url': BROOKINGS_URL,
             'crawled_at': datetime.now().isoformat(),
+            'filter_days': 7,
             'total_news': len(articles),
             'news': articles
         }
@@ -94,7 +134,7 @@ def crawl_brookings():
             json.dump(output, f, indent=2, ensure_ascii=False)
         
         print(f"\n✅ 已保存: {filename}")
-        print(f"📊 共 {len(articles)} 条新闻")
+        print(f"📊 共 {len(articles)} 条新闻（最近7天）")
         
         return output
         
@@ -108,7 +148,6 @@ def crawl_from_detail_pages():
     """从详情页抓取（备用方案）"""
     print("🔄 使用备用方案：从详情页抓取...")
     
-    # 已知的文章URL列表（可以动态获取或维护）
     known_articles = [
         "https://www.brookings.edu/articles/survey-shows-alarming-drop-in-working-conditions-for-teachers-what-are-we-doing-about-it/",
         "https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/",
@@ -135,6 +174,11 @@ def crawl_from_detail_pages():
             date_elem = soup.find('p', class_='text-medium')
             if date_elem:
                 date = date_elem.get_text().strip()
+            
+            # 检查日期
+            if not is_within_days(date, days=7):
+                print(f"  ⏭️  跳过（超过7天）: {title[:40]}...")
+                continue
             
             if title:
                 articles.append({

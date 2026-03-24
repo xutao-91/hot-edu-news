@@ -2,19 +2,46 @@
 """
 White House 新闻爬虫
 从 https://www.whitehouse.gov/news/ 抓取新闻
+只抓取最近7天内的文章
 """
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
+import re
 
 WHITEHOUSE_URL = "https://www.whitehouse.gov/news/"
 
+def parse_date(date_str):
+    """解析日期字符串为datetime对象"""
+    date_formats = [
+        '%B %d, %Y',      # March 23, 2026
+        '%b %d, %Y',      # Mar 23, 2026
+        '%Y-%m-%d',       # 2026-03-23
+    ]
+    
+    for fmt in date_formats:
+        try:
+            return datetime.strptime(date_str.strip(), fmt)
+        except:
+            continue
+    return None
+
+def is_within_days(date_str, days=7):
+    """检查日期是否在指定天数内"""
+    article_date = parse_date(date_str)
+    if not article_date:
+        return True  # 如果解析失败，默认保留
+    
+    cutoff_date = datetime.now() - timedelta(days=days)
+    return article_date >= cutoff_date
+
 def crawl_whitehouse():
-    """从White House抓取新闻"""
+    """从White House抓取新闻（最近7天）"""
     print("🚀 开始抓取 White House...")
     print(f"📡 网址: {WHITEHOUSE_URL}")
+    print(f"📅 只抓取最近7天内的文章")
     
     try:
         headers = {
@@ -27,13 +54,14 @@ def crawl_whitehouse():
         
         soup = BeautifulSoup(response.text, 'html.parser')
         articles = []
+        skipped_count = 0
         
         # 查找所有文章 - li.wp-block-post
         posts = soup.find_all('li', class_='wp-block-post')
         
-        print(f"✅ 找到 {len(posts)} 篇文章")
+        print(f"✅ 找到 {len(posts)} 篇文章，开始过滤...")
         
-        for post in posts[:10]:  # 取前10篇
+        for post in posts[:20]:  # 检查前20篇
             try:
                 # 标题和链接
                 title_elem = post.find('h2', class_='wp-block-post-title')
@@ -53,6 +81,12 @@ def crawl_whitehouse():
                     time_elem = date_elem.find('time')
                     if time_elem:
                         date = time_elem.get_text().strip()
+                
+                # 检查日期是否在7天内
+                if not is_within_days(date, days=7):
+                    skipped_count += 1
+                    print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {date}")
+                    continue
                 
                 # 分类
                 category = ""
@@ -77,6 +111,8 @@ def crawl_whitehouse():
                 print(f"  ⚠️  解析失败: {e}")
                 continue
         
+        print(f"\n📊 过滤结果: {len(articles)} 篇在7天内，跳过 {skipped_count} 篇")
+        
         # 保存
         os.makedirs('data/whitehouse', exist_ok=True)
         
@@ -84,7 +120,7 @@ def crawl_whitehouse():
             'source': 'The White House',
             'source_url': WHITEHOUSE_URL,
             'crawled_at': datetime.now().isoformat(),
-            'crawl_method': 'requests',
+            'filter_days': 7,
             'total_news': len(articles),
             'news': articles
         }
@@ -94,7 +130,7 @@ def crawl_whitehouse():
             json.dump(output, f, indent=2, ensure_ascii=False)
         
         print(f"\n✅ 已保存: {filename}")
-        print(f"📊 共 {len(articles)} 条新闻")
+        print(f"📊 共 {len(articles)} 条新闻（最近7天）")
         
         return output
         
@@ -121,7 +157,7 @@ def categorize(title):
 
 if __name__ == '__main__':
     print("="*60)
-    print("🚀 White House爬虫启动")
+    print("🚀 White House爬虫启动（最近7天）")
     print("="*60)
     result = crawl_whitehouse()
     if result:
