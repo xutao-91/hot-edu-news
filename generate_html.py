@@ -250,7 +250,7 @@ def generate_html():
         </div>
     </div>
 '''
-        for i, article in enumerate(data['ace']['news'][:4], 1):
+        for i, article in enumerate(data['ace']['news'][:8], 1):
             highlight = '<span class="highlight">' if i == 1 else ''
             highlight_end = '</span>' if i == 1 else ''
             new_badge = ' | 🆕 今日最新' if i == 1 else ''
