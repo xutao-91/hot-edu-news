@@ -1,7 +1,7 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-24T14:30:00",
+  "crawled_at": "2026-03-24T15:40:00",
   "total_news": 8,
   "news": [
     {
@@ -17,7 +17,7 @@
     {
       "title": "随着ACE及其他协会支持立法修正，ACTS截止日期延后",
       "original_title": "ACTS Deadline Shifts as ACE, Other Associations Support Legislation to Make Technical Changes to the Law",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-as-ACE-Other-Associations-Support-Legal-Challenge.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx",
       "date": "March 20, 2026",
       "type": "News",
       "source": "ACE",
@@ -27,7 +27,7 @@
     {
       "title": "ACE摘要详述教育部提出的劳动力佩尔助学金法规",
       "original_title": "ACE Summary Details ED's Proposed Workforce Pell Regulations",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Summary-Details-EDs-Proposed-Workforce-Pell-Regulations.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/Summary-Workforce-Pell-Regulations.aspx",
       "date": "March 9, 2026",
       "type": "News",
       "source": "ACE",
@@ -37,7 +37,7 @@
     {
       "title": "ACE与Pearson发布关于重新吸引辍学学习者的简报",
       "original_title": "ACE, Pearson Release Brief on Reengaging Stopped-out Learners",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Pearson-Release-Brief-on-Reengaging-Stopped-out-Learners.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/Pearson-Brief-Stopped-Out-Learners.aspx",
       "date": "March 5, 2026",
       "type": "Press Release",
       "source": "ACE",
@@ -47,7 +47,7 @@
     {
       "title": "ACE及协会警告教育部对'专业'的狭义定义将损害高等教育",
       "original_title": "ACE, Associations Warn ED's Narrow 'Professional' Definition Would Harm Higher Education",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Warn-EDs-Narrow-Professional-Definition.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/Associations-Warn-EDs-Professional-Definition-Limits-Grad-Access-.aspx",
       "date": "March 3, 2026",
       "type": "News",
       "source": "ACE",
@@ -57,7 +57,7 @@
     {
       "title": "高等教育领导者在ACEx2026上应对关键挑战",
       "original_title": "Higher Ed Leaders Confront Critical Challenges at ACEx2026",
-      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Confront-Critical-Challenges-at-ACEx2026.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Critical-Challenges-ACEx2026.aspx",
       "date": "March 2, 2026",
       "type": "News",
       "source": "ACE",
@@ -67,22 +67,22 @@
     {
       "title": "匹兹堡大学校长Joan Gabel被任命为2026年ACE年会主持人",
       "original_title": "University of Pittsburgh Chancellor Joan Gabel Named 2026 Convocation Chair",
-      "url": "https://www.acenet.edu/News-Room/Pages/University-of-Pittsburgh-Chancellor-Joan-Gabel-Named-2026-Convocation-Chair.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/Council-Fellows-Mentor-Award-2026.aspx",
       "date": "February 27, 2026",
       "type": "Press Release",
       "source": "ACE",
       "category": "higher_ed",
-      "summary": "美国教育委员会（ACE）宣布，匹兹堡大学校长琼·加贝尔（Joan Gabel）将担任2026年ACE年会主持人。加贝尔校长自2023年上任以来，在扩大教育机会、促进研究创新、加强社区联系等方面取得显著成就。ACE表示，加贝尔的领导力与ACE推动高等教育卓越发展的使命高度契合。"
+      "summary": "美国教育委员会（ACE）宣布，匹兹堡大学校长琼·加贝尔（Joan Gabel）将担任2026年ACE年会主持人。加贝尔校长自2023年上任以来，在扩大教育机会、促进研究创新、加强社区联系等方面取得显著成就。ACE表示，加贝尔的领导力与ACE推动高等教育卓越发展的使命高度契合。作为年会主持人，她将负责引导会议议程，促进与会者之间的对话与合作。加贝尔表示，期待与全国高等教育同仁分享经验，共同探讨行业未来的发展方向。"
     },
     {
       "title": "Gloria Thomas荣获2026年ACE Donna Shavlik奖",
       "original_title": "Gloria Thomas Receives 2026 ACE Donna Shavlik Award",
-      "url": "https://www.acenet.edu/News-Room/Pages/Gloria-Thomas-Receives-2026-ACE-Donna-Shavlik-Award.aspx",
+      "url": "https://www.acenet.edu/News-Room/Pages/Shavlik-State-Network-Award-2026.aspx",
       "date": "February 27, 2026",
       "type": "Press Release",
       "source": "ACE",
       "category": "higher_ed",
-      "summary": "美国教育委员会（ACE）宣布，格洛丽亚·托马斯（Gloria Thomas）荣获2026年ACE Donna Shavlik奖，该奖项旨在表彰在促进女性高等教育领导力方面做出杰出贡献的个人。托马斯女士长期从事高等教育管理工作，在多个大学担任高级领导职务，并积极参与推动性别平等和领导力发展项目。"
+      "summary": "美国教育委员会（ACE）宣布，格洛丽亚·托马斯（Gloria Thomas）荣获2026年ACE Donna Shavlik奖，该奖项旨在表彰在促进女性高等教育领导力方面做出杰出贡献的个人。托马斯女士长期从事高等教育管理工作，在多个大学担任高级领导职务，并积极参与推动性别平等和领导力发展项目。她还在指导年轻女性领导者方面投入大量精力，帮助她们在学术界和行政岗位上取得成功。ACE表示，托马斯的成就充分体现了该奖项所倡导的精神，是高等教育界的楷模。"
     }
   ]
 }
