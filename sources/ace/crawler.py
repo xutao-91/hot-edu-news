@@ -59,6 +59,11 @@ def crawl_ace():
                 if type_elem:
                     article_type = type_elem.get_text().strip()
                 
+                # 过滤掉Podcast类型
+                if article_type.lower() == 'podcast':
+                    print(f"\n  ⏭️  跳过Podcast: {title[:40]}...")
+                    continue
+                
                 # 摘要（在rollover中）
                 summary = ""
                 desc_elem = post.find('div', class_='rollup-desc')
