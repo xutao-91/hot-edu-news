@@ -9,6 +9,7 @@
 | ✅ **第一个** | **Brookings Institution** | 智库/研究机构 | ⭐⭐⭐⭐⭐ | 4篇 |
 | ✅ **第二个** | **U.S. Department of Education** | 政府官方 | ⭐⭐⭐⭐⭐ | 10篇 |
 | ✅ **第三个** | **The White House** | 政府官方 | ⭐⭐⭐⭐⭐ | 10篇 |
+| ✅ **第四个** | **ACE** | 高等教育协会 | ⭐⭐⭐⭐⭐ | 10篇 |
 | ⏳ 待添加 | Education Week | 教育新闻媒体 | ⭐⭐⭐⭐⭐ | - |
 
 ## ✅ 核心原则
@@ -20,56 +21,43 @@
 
 ## 🚀 当前进度
 
-### ✅ Brookings Institution（已完成）
+### ✅ Brookings Institution
 **网址**: https://www.brookings.edu/topics/education-2/
-- [x] 分析网站结构
-- [x] 编写HTML爬虫
-- [x] 配置GitHub Actions
-- [x] 抓取4篇真实文章
-- [x] 生成体制内风格中文摘要
 
-### ✅ U.S. Department of Education（已完成）
+### ✅ U.S. Department of Education
 **网址**: https://www.ed.gov/about/news
-- [x] 分析网站结构
-- [x] 编写HTML爬虫
-- [x] 配置GitHub Actions
-- [x] 抓取10篇真实文章
-- [x] 生成体制内风格中文摘要
 
-### ✅ The White House（已完成）
+### ✅ The White House
 **网址**: https://www.whitehouse.gov/news/
-- [x] 分析网站结构
-- [x] 编写HTML爬虫
-- [x] 配置GitHub Actions
-- [x] 抓取10篇真实文章
-- [x] 生成体制内风格中文摘要
+
+### ✅ ACE (American Council on Education)
+**网址**: https://www.acenet.edu/News-Room/Pages/default.aspx
+
+**总计：34篇真实新闻**
 
 ## 📁 项目结构
 
 ```
 hot-edu-news/
-├── README.md                          # 项目说明
-├── index.html                         # 展示页面
-├── .github/workflows/
-│   ├── brookings.yml                  # Brookings自动爬虫
-│   ├── edgov.yml                      # ED.gov自动爬虫
-│   └── whitehouse.yml                 # White House自动爬虫
-├── sources/
-│   ├── brookings/                     # Brookings配置+爬虫
-│   ├── edgov/                         # ED.gov配置+爬虫
-│   └── whitehouse/                    # White House配置+爬虫
-├── data/
-│   ├── brookings/                     # Brookings数据
-│   ├── edgov/                         # ED.gov数据
-│   └── whitehouse/                    # White House数据
-└── docs/                              # GitHub Pages部署目录
+├── README.md
+├── index.html
+├── .github/workflows/          # 自动爬虫配置
+│   ├── brookings.yml
+│   ├── edgov.yml
+│   ├── whitehouse.yml
+│   └── ace.yml
+├── sources/                    # 爬虫脚本
+│   ├── brookings/
+│   ├── edgov/
+│   ├── whitehouse/
+│   └── ace/
+├── data/                       # 抓取数据
+│   ├── brookings/
+│   ├── edgov/
+│   ├── whitehouse/
+│   └── ace/
+└── docs/                       # GitHub Pages部署
 ```
-
-## 🎯 下一步
-
-1. 监控三个来源的自动爬虫运行
-2. 根据运行情况优化爬虫
-3. 确认稳定后添加第四个来源
 
 ---
 
