@@ -1,4 +1,4 @@
-name: CSIS Analysis Crawler
+name: CSIS Analysis Crawler (Playwright)
 
 on:
   schedule:
@@ -16,7 +16,9 @@ jobs:
         python-version: '3.11'
     
     - name: Install dependencies
-      run: pip install requests beautifulsoup4
+      run: |
+        pip install playwright beautifulsoup4 requests
+        playwright install chromium
     
     - name: Crawl CSIS Analysis
       run: python3 sources/csis/crawler.py
