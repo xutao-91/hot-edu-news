@@ -1,0 +1,17 @@
+{
+  "source": "CSIS - Center for Strategic and International Studies",
+  "source_url": "https://www.csis.org",
+  "crawled_at": "2026-03-23T23:20:54.210003",
+  "crawl_method": "playwright",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "China’s Solar Industry Is in Upheaval—The Effects Will Be Global",
+      "url": "https://www.csis.org/analysis/chinas-solar-industry-upheaval-effects-will-be-global",
+      "author": "Michael Davidson \nand \n              Sandy Qian, Michael Davidson, Sandy Qian",
+      "date": "March 23, 2026",
+      "source": "CSIS",
+      "category": "china"
+    }
+  ]
+}
