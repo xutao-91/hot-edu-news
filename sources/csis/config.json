@@ -1,0 +1,42 @@
+{
+  "source_id": "csis",
+  "source_name": "CSIS - Center for Strategic and International Studies",
+  "source_url": "https://www.csis.org/search?archive=0&sort_by=relevance&f%5B0%5D=content_type%3Aarticle&f%5B1%5D=content_type%3Areport&f%5B2%5D=regions%3A801&keyword=",
+  "source_type": "智库/研究机构",
+  "reliability": "高",
+  "update_frequency": "每日",
+  
+  "crawl_methods": {
+    "primary": "html_parse",
+    "url": "https://www.csis.org/search?archive=0&sort_by=relevance&f%5B0%5D=content_type%3Aarticle&f%5B1%5D=content_type%3Areport&f%5B2%5D=regions%3A801&keyword=",
+    "article_container": "div.views-row"
+  },
+  
+  "extract_rules": {
+    "article_item": "div.views-row",
+    "article_inner": "article.report-search-listing",
+    "title": {
+      "selector": "h3.headline-sm a span",
+      "attribute": "text"
+    },
+    "link": {
+      "selector": "h3.headline-sm a",
+      "attribute": "href",
+      "prefix": "https://www.csis.org"
+    },
+    "summary": {
+      "selector": "div.search-listing--summary p",
+      "attribute": "text"
+    },
+    "author": {
+      "selector": "span.contributor--item",
+      "attribute": "text",
+      "multiple": true
+    },
+    "date": {
+      "selector": "div.contributors",
+      "attribute": "text",
+      "pattern": "([A-Z][a-z]+ \d{1,2}, \d{4})"
+    }
+  }
+}
