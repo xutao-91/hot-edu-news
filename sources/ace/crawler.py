@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import os
 
-ACE_URL = "https://www.acenet.edu/News-Room/Pages/default.aspx"
+ACE_URL = "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))"
 
 def crawl_ace():
     """从ACE抓取新闻"""

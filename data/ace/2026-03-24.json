@@ -1,108 +1,99 @@
 {
   "source": "ACE - American Council on Education",
-  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx",
-  "crawled_at": "2026-03-24T11:00:00",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-03-24T14:24:53.248510",
+  "crawl_method": "requests",
   "total_news": 10,
   "news": [
     {
-      "title": "ACE及其他协会敦促总务管理局撤销关于'非法DEI'等问题的认证要求提案",
-      "original_title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on \"Unlawful DEI\" and Other Issues",
+      "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
       "date": "March 23, 2026",
       "type": "News",
+      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
       "source": "ACE",
-      "category": "federal_policy",
-      "summary": "美国教育委员会（ACE）联合其他高等教育协会近日致函美国总务管理局（GSA），敦促其撤销一项拟议的认证要求。该提案要求所有接受联邦资助的机构必须证明其不存在'非法的多元、公平与包容（DEI）'项目和相关做法。ACE指出，该提案措辞模糊、标准不明，将给高等院校带来重大不确定性，并可能严重限制高校在招生、学生服务等方面的正常运作。协会强调，此举将干扰学校的教育使命，影响校园多元化建设，并可能对依赖联邦资助的研究项目和学生资助造成负面影响。"
+      "category": "federal_policy"
     },
     {
-      "title": "随着ACE及其他协会支持立法修正，ACTS截止日期延后",
-      "original_title": "ACTS Deadline Shifts as ACE, Other Associations Support Legislation to Make Technical Changes to the Law",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-as-ACE-Other-Associations-Support-Legal-Challenge.aspx",
+      "title": "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx",
       "date": "March 20, 2026",
       "type": "News",
+      "summary_en": "ACE and 10 other higher education associations submitted an amicus brief yesterday supporting a motion brought by the plaintiffs for a stay of the IPEDS Admissions and Consumer Transparency Supplement while the court considers and decides the case.",
       "source": "ACE",
-      "category": "federal_policy",
-      "summary": "美国教育委员会（ACE）宣布支持国会正在审议的一项立法修正案，该法案旨在对《美国残疾人教育法》（ACTS）进行技术性修订。由于现行法律中的某些条款在实施过程中暴露出操作困难，ACE与其他教育组织共同推动此次修正，以简化合规流程、减轻高校行政负担。修正案还将适当延长相关合规期限，为高校提供更充足的调整时间。ACE表示，这一立法努力体现了国会对高等教育界关切的重视，有助于确保法律的有效实施。"
+      "category": "federal_policy"
     },
     {
-      "title": "workforce Pell、专业学位与复杂的春季议程",
-      "original_title": "Workforce Pell, Professional Degrees, and a Complicated Spring Agenda",
-      "url": "https://www.acenet.edu/Pages/dotedu/152-A-Complicated-Spring-Agenda.aspx",
+      "title": "Workforce Pell, Professional Degrees, and a Complicated Spring in Washington",
+      "url": "https://www.acenet.edu/Pages/dotedu/152-A-Complicated-Spring-in-DC.aspx",
       "date": "March 19, 2026",
       "type": "Podcast",
+      "summary_en": "The hosts are joined by ACE’s Emmanual Guillory to break down key federal rulemaking shaping student aid.",
       "source": "ACE",
-      "category": "student_aid",
-      "summary": "美国教育委员会（ACE）最新一期播客节目深入探讨了当前国会春季议程中与高等教育相关的关键议题。节目重点讨论了'劳动力佩尔助学金'（Workforce Pell）扩展计划的立法进展，该计划旨在将佩尔助学金的适用范围扩大至短期职业培训项目。此外，节目还分析了专业学位认证、学生贷款政策调整等热点问题。ACE专家表示，春季议程复杂多变，教育界需要密切关注国会动态，积极参与政策讨论，以确保高等教育利益得到充分体现。"
+      "category": "general"
     },
     {
-      "title": "ACEx2026现场直播",
-      "original_title": "dotEDU Live at ACEx2026",
+      "title": "dotEDU Live at ACEx2026",
       "url": "https://www.acenet.edu/Pages/dotedu/151-dotEDU-at-ACEx2026.aspx",
       "date": "March 9, 2026",
       "type": "Podcast",
+      "summary_en": "Recorded live at ACEx2026 in Washington, DC, this special episode featured the hosts asking each other questions about what to expect for federal higher education policy in 2026.",
       "source": "ACE",
-      "category": "higher_ed",
-      "summary": "美国教育委员会（ACE）在ACEx2026年度会议期间推出特别播客节目，为无法亲临现场的观众提供会议精彩内容。节目涵盖高等教育领域的最新政策动态、创新实践案例以及行业领袖的前瞻性观点。嘉宾包括多位大学校长、联邦教育政策制定者以及教育技术专家，就当前高校面临的挑战与机遇展开深入讨论。ACE表示，此类直播活动旨在扩大会议影响力，促进全国高等教育界的交流与合作。"
+      "category": "general"
     },
     {
-      "title": "ACE摘要详述教育部提出的劳动力佩尔助学金法规",
-      "original_title": "ACE Summary Details ED's Proposed Workforce Pell Regulations",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Summary-Details-EDs-Proposed-Workforce-Pell-Regulations.aspx",
+      "title": "ACE Summary Details ED’s Proposed Workforce Pell Regulations",
+      "url": "https://www.acenet.edu/News-Room/Pages/Summary-Workforce-Pell-Regulations.aspx",
       "date": "March 9, 2026",
       "type": "News",
+      "summary_en": "ACE has released a detailed summary of the Department of Education’s proposed rule to implement the new Workforce Pell Grant program, which goes into effect July 1, 2026.",
       "source": "ACE",
-      "category": "student_aid",
-      "summary": "美国教育委员会（ACE）发布详细摘要，解读美国教育部最近提出的劳动力佩尔助学金（Workforce Pell）实施条例草案。该草案旨在将传统的佩尔助学金扩展至符合资格的短期职业培训项目，帮助更多学生获得职业技能教育机会。ACE摘要分析了草案中的资格条件、资金分配机制、学校认证要求等关键内容，并指出其中可能对高校造成影响的条款。协会呼吁会员单位认真研究草案内容，在征求意见期内积极反馈，以确保最终法规能够切实惠及学生和 institutions。"
+      "category": "general"
     },
     {
-      "title": "ACE与Pearson发布关于重新吸引辍学学习者的简报",
-      "original_title": "ACE, Pearson Release Brief on Reengaging Stopped-out Learners",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Pearson-Release-Brief-on-Reengaging-Stopped-out-Learners.aspx",
+      "title": "ACE, Pearson Release Brief on Reengaging Stopped-out Learners",
+      "url": "https://www.acenet.edu/News-Room/Pages/Pearson-Brief-Stopped-Out-Learners.aspx",
       "date": "March 5, 2026",
       "type": "Press Release",
+      "summary_en": "ACE, in collaboration with Pearson, has released a new brief examining how colleges and universities can better support stopped-out learners in returning to complete their degrees.",
       "source": "ACE",
-      "category": "higher_ed",
-      "summary": "美国教育委员会（ACE）与培生教育集团（Pearson）联合发布研究报告，探讨如何有效重新吸引已辍学的学生重返校园完成学业。简报指出，美国高等教育系统中存在大量'学分离学习者'（stopped-out learners），即曾经入学但未完成学位便离开的学生群体。研究分析了这一群体面临的共同障碍，包括经济压力、家庭责任、学业困难等，并提出了一系列针对性干预措施。报告建议高校建立专门的支持体系，提供灵活的学业安排和财务援助，帮助这些学生克服障碍、顺利完成学业。"
+      "category": "general"
     },
     {
-      "title": "ACE及协会警告教育部对'专业'的狭义定义将损害高等教育",
-      "original_title": "ACE, Associations Warn ED's Narrow 'Professional' Definition Would Harm Higher Education",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Warn-EDs-Narrow-Professional-Definition.aspx",
+      "title": "ACE, Associations Warn ED’s Narrow ‘Professional’ Definition Would Limit Graduate Access",
+      "url": "https://www.acenet.edu/News-Room/Pages/Associations-Warn-EDs-Professional-Definition-Limits-Grad-Access-.aspx",
       "date": "March 3, 2026",
       "type": "News",
+      "summary_en": "ACE and 40 associations urged ED to broaden its proposed definition of “professional” programs, warning it could limit access to graduate education in critical workforce fields.",
       "source": "ACE",
-      "category": "federal_policy",
-      "summary": "美国教育委员会（ACE）联合多家高等教育协会向教育部提交意见，对拟议的'专业'（Professional）学位定义表示严重关切。协会指出，教育部草案中对'专业学位'的界定过于狭窄，可能将许多现有的专业学位项目排除在联邦资助范围之外，严重影响高校的招生和专业设置。ACE强调，这一变化将对法律、医学、工程等领域的专业教育造成冲击，损害美国高等教育的多样性和竞争力。协会敦促教育部重新审视定义标准，广泛听取高等教育界的意见。"
+      "category": "general"
     },
     {
-      "title": "高等教育领导者在ACEx2026上应对关键挑战",
-      "original_title": "Higher Ed Leaders Confront Critical Challenges at ACEx2026",
-      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Confront-Critical-Challenges-at-ACEx2026.aspx",
+      "title": "Higher Ed Leaders Confront Critical Challenges at ACEx2026",
+      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Critical-Challenges-ACEx2026.aspx",
       "date": "March 2, 2026",
       "type": "News",
+      "summary_en": "Hundreds of higher education leaders gathered in Washington last week for ACEx2026, confronting the sector’s most urgent challenges at a moment of profound consequence for colleges, universities, and the communities they serve.",
       "source": "ACE",
-      "category": "higher_ed",
-      "summary": "ACEx2026年度会议在华盛顿特区成功举办，来自全美各地的高等教育领导者齐聚一堂，共同探讨当前高校面临的重大挑战。会议议题涵盖招生危机、资金压力、政策变化、技术创新等多个方面。与会校长和专家们分享了各自学校的应对策略和创新实践，并就联邦教育政策走向进行了深入讨论。ACE主席在致辞中强调，高等教育界需要团结一致，积极应对外部环境的快速变化，同时坚守教育使命，为学生提供高质量的教育体验。"
+      "category": "general"
     },
     {
-      "title": "匹兹堡大学校长Joan Gabel被任命为2026年ACE年会主持人",
-      "original_title": "University of Pittsburgh Chancellor Joan Gabel Named 2026 Convocation Chair",
-      "url": "https://www.acenet.edu/News-Room/Pages/University-of-Pittsburgh-Chancellor-Joan-Gabel-Named-2026-Convocation-Chair.aspx",
+      "title": "University of Pittsburgh Chancellor Joan Gabel Named 2026 Council of Fellows Mentor Award Recipient",
+      "url": "https://www.acenet.edu/News-Room/Pages/Council-Fellows-Mentor-Award-2026.aspx",
       "date": "February 27, 2026",
       "type": "Press Release",
+      "summary_en": "ACE awarded Joan Gabel, chancellor of the University of Pittsburgh, with the 2026 ACE Council of Fellows/Fidelity Investments Mentor Award.",
       "source": "ACE",
-      "category": "higher_ed",
-      "summary": "美国教育委员会（ACE）宣布，匹兹堡大学校长琼·加贝尔（Joan Gabel）将担任2026年ACE年会主持人。加贝尔校长自2023年上任以来，在扩大教育机会、促进研究创新、加强社区联系等方面取得显著成就。ACE表示，加贝尔的领导力与ACE推动高等教育卓越发展的使命高度契合。作为年会主持人，她将负责引导会议议程，促进与会者之间的对话与合作。加贝尔表示，期待与全国高等教育同仁分享经验，共同探讨行业未来的发展方向。"
+      "category": "higher_ed"
     },
     {
-      "title": "Gloria Thomas荣获2026年ACE Donna Shavlik奖",
-      "original_title": "Gloria Thomas Receives 2026 ACE Donna Shavlik Award",
-      "url": "https://www.acenet.edu/News-Room/Pages/Gloria-Thomas-Receives-2026-ACE-Donna-Shavlik-Award.aspx",
+      "title": "Gloria Thomas Receives 2026 ACE Donna Shavlik Award",
+      "url": "https://www.acenet.edu/News-Room/Pages/Shavlik-State-Network-Award-2026.aspx",
       "date": "February 27, 2026",
       "type": "Press Release",
+      "summary_en": "ACE is proud to announce that Gloria D. Thomas, president of Higher Education Resource Services, has been selected to receive the 2026 ACE Donna Shavlik Award.",
       "source": "ACE",
-      "category": "higher_ed",
-      "summary": "美国教育委员会（ACE）宣布，格洛丽亚·托马斯（Gloria Thomas）荣获2026年ACE Donna Shavlik奖，该奖项旨在表彰在促进女性高等教育领导力方面做出杰出贡献的个人。托马斯女士长期从事高等教育管理工作，在多个大学担任高级领导职务，并积极参与推动性别平等和领导力发展项目。她还在指导年轻女性领导者方面投入大量精力，帮助她们在学术界和行政岗位上取得成功。ACE表示，托马斯的成就充分体现了该奖项所倡导的精神，是高等教育界的楷模。"
+      "category": "general"
     }
   ]
 }

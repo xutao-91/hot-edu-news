@@ -1,7 +1,7 @@
 {
   "source_id": "ace",
   "source_name": "ACE - American Council on Education",
-  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
   "source_type": "高等教育协会",
   "reliability": "⭐⭐⭐⭐⭐",
   "update_frequency": "每周"
