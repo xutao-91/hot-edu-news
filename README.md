@@ -28,15 +28,19 @@
 - [x] 抓取4篇真实文章
 - [x] 生成体制内风格中文摘要
 
-### ✅ CSIS（已完成）
+### ✅ CSIS（Playwright方案测试中）
 **网址**: https://www.csis.org
 - [x] 分析网站结构
-- [x] 编写HTML爬虫
-- [x] 配置GitHub Actions
+- [x] **Playwright浏览器自动化**（绕过反爬虫）
+- [x] 配置GitHub Actions（含Playwright安装）
 - [x] 抓取1篇真实文章
 - [x] 生成体制内风格中文摘要
 
-**注意**: CSIS搜索页有反爬虫保护，采用详情页直接访问方式
+**技术方案**: 
+- CSIS搜索页有严格反爬虫保护（Varnish 403）
+- 采用 **Playwright浏览器自动化** 执行JavaScript、模拟真实用户
+- 备用方案：详情页直接访问
+- 自动运行：每天UTC 13:00
 
 ## 📁 项目结构
 
