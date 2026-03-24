@@ -1,18 +1,18 @@
 {
   "source": "CSIS - Center for Strategic and International Studies",
   "source_url": "https://www.csis.org",
-  "crawled_at": "2026-03-23T21:45:00",
+  "crawled_at": "2026-03-23T23:18:17.350990",
+  "crawl_method": "local_requests",
   "total_news": 1,
   "news": [
     {
-      "title": "中国光伏产业剧变：全球影响深远",
-      "original_title": "China's Solar Industry Is in Upheaval—The Effects Will Be Global",
+      "title": "China’s Solar Industry Is in Upheaval—The Effects Will Be Global",
       "url": "https://www.csis.org/analysis/chinas-solar-industry-upheaval-effects-will-be-global",
-      "author": "Michael Davidson, Ilaria Mazzocco, Ryan Featherston",
+      "author": "Michael Davidson \nand \n              Sandy Qian, Michael Davidson, Sandy Qian",
       "date": "March 23, 2026",
+      "summary_en": "Rather than opening space for rivals, China’s solar industry shakeout is forging a more resilient core — embedding deeper into global value chains, securing a technological lead, and reshaping the industry’s future trajectory to its own long-term advantage.",
       "source": "CSIS",
-      "category": "能源/中国研究",
-      "summary": "美国战略与国际研究中心（CSIS）日前发布研究报告，深入分析了中国光伏产业当前面临的深度调整及其对全球产业链的深远影响。报告指出，中国光伏行业正经历一轮剧烈洗牌，部分企业面临经营困境，但这并未为国际竞争者创造替代空间，反而促使行业核心企业更加坚韧。报告认为，中国光伏产业通过深度融入全球价值链、巩固技术领先优势，正在重塑行业发展轨迹，进一步巩固其在全球清洁能源转型中的主导地位。报告建议有关国家应审慎评估对中国光伏产品的依赖风险，同时加强本土产业能力建设，以应对全球能源格局的深刻变化。"
+      "category": "china"
     }
   ]
 }
