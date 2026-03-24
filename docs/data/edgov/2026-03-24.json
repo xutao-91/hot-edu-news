@@ -1,0 +1,89 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-03-24T12:00:07.730123",
+  "crawl_method": "requests",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at “History Rocks!” Events in Tennessee and Missouri",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus",
+      "date": "March 23, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S. Department of Education Leaders Highlight Civics Education at “History Rocks!” Events in Vermont and West Virginia",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia",
+      "date": "March 20, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-treasury-announce-historic-federal-student-assistance-partnership",
+      "date": "March 19, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "grants"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Concludes D.C. Public Schools Discriminates Against Students with Disabilities",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-concludes-dc-public-schools-discriminates-against-students-disabilities",
+      "date": "March 18, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "Victories for Higher Education: Keeping Men Out of Women’s Sports",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-keeping-men-out-of-womens-sports",
+      "date": "March 18, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
+    {
+      "title": "U.S. Department of Education Deputy Assistant Secretary for Elementary and Secondary Education Sarah Wilson Highlights Civics Education at 'History Rocks!' Event in Ohio",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-deputy-assistant-secretary-elementary-and-secondary-education-sarah-wilson-highlights-civics-education-history-rocks-event",
+      "date": "March 17, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "k12"
+    },
+    {
+      "title": "U.S. Department of Education and U.S. Department of Labor Announce First Grant Competition Under Postsecondary Education Partnership",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-first-grant-competition-under-postsecondary-education-partnership",
+      "date": "March 17, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "k12"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Concludes Jefferson County Public Schools in Colorado Has Violated Title IX",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-concludes-jefferson-county-public-schools-colorado-has-violated-title-ix",
+      "date": "March 13, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Massachusetts",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-massachusetts",
+      "date": "March 12, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    }
+  ]
+}
