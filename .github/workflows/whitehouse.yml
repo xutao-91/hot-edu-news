@@ -1,0 +1,29 @@
+name: White House News Crawler
+
+on:
+  schedule:
+    - cron: '0 15 * * *'  # 每天UTC 15:00运行（北京时间23:00）
+  workflow_dispatch:
+
+jobs:
+  crawl-whitehouse:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    
+    - name: Crawl White House News
+      run: python3 sources/whitehouse/crawler.py
+    
+    - name: Commit results
+      run: |
+        git config user.email "action@github.com"
+        git config user.name "GitHub Action"
+        git add data/
+        git diff --staged --quiet || (git commit -m "📰 White House: $(date +%Y-%m-%d-%H:%M)" && git push)

@@ -8,8 +8,8 @@
 |:---:|:---|:---|:---:|:---:|
 | ✅ **第一个** | **Brookings Institution** | 智库/研究机构 | ⭐⭐⭐⭐⭐ | 4篇 |
 | ✅ **第二个** | **U.S. Department of Education** | 政府官方 | ⭐⭐⭐⭐⭐ | 10篇 |
+| ✅ **第三个** | **The White House** | 政府官方 | ⭐⭐⭐⭐⭐ | 10篇 |
 | ⏳ 待添加 | Education Week | 教育新闻媒体 | ⭐⭐⭐⭐⭐ | - |
-| ⏳ 待添加 | Chronicle | 高等教育 | ⭐⭐⭐⭐⭐ | - |
 
 ## ✅ 核心原则
 
@@ -36,7 +36,13 @@
 - [x] 抓取10篇真实文章
 - [x] 生成体制内风格中文摘要
 
-**特点**: 政府官方来源，内容权威可靠，结构清晰易抓取
+### ✅ The White House（已完成）
+**网址**: https://www.whitehouse.gov/news/
+- [x] 分析网站结构
+- [x] 编写HTML爬虫
+- [x] 配置GitHub Actions
+- [x] 抓取10篇真实文章
+- [x] 生成体制内风格中文摘要
 
 ## 📁 项目结构
 
@@ -46,25 +52,24 @@ hot-edu-news/
 ├── index.html                         # 展示页面
 ├── .github/workflows/
 │   ├── brookings.yml                  # Brookings自动爬虫
-│   └── edgov.yml                      # ED.gov自动爬虫
+│   ├── edgov.yml                      # ED.gov自动爬虫
+│   └── whitehouse.yml                 # White House自动爬虫
 ├── sources/
-│   ├── brookings/
-│   │   ├── config.json                # Brookings配置
-│   │   └── crawler.py                 # Brookings爬虫
-│   └── edgov/
-│       ├── config.json                # ED.gov配置
-│       └── crawler.py                 # ED.gov爬虫
+│   ├── brookings/                     # Brookings配置+爬虫
+│   ├── edgov/                         # ED.gov配置+爬虫
+│   └── whitehouse/                    # White House配置+爬虫
 ├── data/
 │   ├── brookings/                     # Brookings数据
-│   └── edgov/                         # ED.gov数据
-└── ...
+│   ├── edgov/                         # ED.gov数据
+│   └── whitehouse/                    # White House数据
+└── docs/                              # GitHub Pages部署目录
 ```
 
 ## 🎯 下一步
 
-1. 监控两个来源的自动爬虫运行
+1. 监控三个来源的自动爬虫运行
 2. 根据运行情况优化爬虫
-3. 确认稳定后添加第三个来源（Education Week）
+3. 确认稳定后添加第四个来源
 
 ---
 
