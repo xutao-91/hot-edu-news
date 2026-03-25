@@ -1,0 +1,79 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-03-25T10:24:11.149829",
+  "filter_days": 7,
+  "total_news": 10,
+  "news": [
+    {
+      "title": "President Trump Announces Appointments to President’s Council of Advisors on Science and Technology",
+      "url": "https://www.whitehouse.gov/articles/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
+      "date": "March 25, 2026",
+      "category": "Articles",
+      "source": "The White House"
+    },
+    {
+      "title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump’s Agenda",
+      "url": "https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
+      "date": "March 24, 2026",
+      "category": "Articles",
+      "source": "The White House"
+    },
+    {
+      "title": "Further Continuance of the Federal Emergency Management Agency Review Council",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "National Agriculture Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/",
+      "date": "March 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Anniversary of Patrick Henry’s “Give Me Liberty, Or Give Me Death!” Speech",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/",
+      "date": "March 23, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s ‘Memphis Safe Task Force’ Delivers Crushing Blow to Crime",
+      "url": "https://www.whitehouse.gov/articles/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/",
+      "date": "March 23, 2026",
+      "category": "Articles",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bill S. 4138 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bill-s-4138-signed-into-law/",
+      "date": "March 20, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Democrats’ DHS Shutdown Enters 35th Day as Airports Plunge into Chaos, Frontline Workers Suffer",
+      "url": "https://www.whitehouse.gov/articles/2026/03/democrats-dhs-shutdown-enters-35th-day-as-airports-plunge-into-chaos-frontline-workers-suffer/",
+      "date": "March 20, 2026",
+      "category": "Articles",
+      "source": "The White House"
+    }
+  ]
+}

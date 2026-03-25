@@ -1,0 +1,57 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-03-25T10:24:09.861375",
+  "filter_days": 7,
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Secretary McMahon’s Commencement Address for The Apprentice School at Newport News Shipbuilding",
+      "url": "https://www.ed.gov/about/news/speech/secretary-mcmahons-commencement-address-apprentice-school-newport-news-shipbuilding",
+      "date": "March 25, 2026",
+      "type": "Speech",
+      "source": "U.S. Department of Education",
+      "category": "k12"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at “History Rocks!” Events in Tennessee and Missouri",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus",
+      "date": "March 23, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S. Department of Education Leaders Highlight Civics Education at “History Rocks!” Events in Vermont and West Virginia",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia",
+      "date": "March 20, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-treasury-announce-historic-federal-student-assistance-partnership",
+      "date": "March 19, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "grants"
+    }
+  ]
+}
