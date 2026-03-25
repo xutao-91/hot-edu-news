@@ -1,79 +1,65 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-03-24T17:05:00",
+  "crawled_at": "2026-03-24T20:00:09.150653",
   "filter_days": 7,
   "total_news": 7,
   "news": [
     {
-      "title": "美国教育部民权办公室对哈佛大学开启两项新的歧视调查",
-      "original_title": "U.S. Department of Education's Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
+      "title": "U.S. Department of Education’s Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at “History Rocks!” Events in Tennessee and Missouri",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus",
-      "date": "March 24, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "民权",
-      "summary": "美国教育部民权办公室日前宣布，针对哈佛大学校园内持续存在的歧视问题启动两项新的调查。调查显示，该校在招生录取、奖学金评定及校园生活等方面涉嫌对特定群体学生存在系统性歧视行为。教育部表示，将严格依据《民权法》等相关法律法规，深入调查有关指控，确保所有学生在高等教育阶段享有平等的受教育权利。此举体现了联邦政府维护教育公平的坚定决心，对全国高等院校具有重要警示意义。"
-    },
-    {
-      "title": "美国教育部官员与教育工作者探讨学生心理健康问题",
-      "original_title": "U.S. Department of Education Officials and Educators Convene on Student Mental Health",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-education-officials-and-educators-convene-student-mental-health",
-      "date": "March 24, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "心理健康",
-      "summary": "美国教育部近日举办全国教育工作者会议，专题讨论学生心理健康问题。会议指出，受疫情和社会变革影响，美国学生心理健康问题日益突出，亟需教育系统的关注和干预。教育部宣布将增加对学校心理健康服务的拨款，支持各州建立校园心理咨询体系，培训专业心理健康教师。与会专家建议学校应与家庭、社区医疗机构建立联动机制，形成全方位的心理健康支持网络，为学生创造安全、健康的学习环境。"
-    },
-    {
-      "title": "美国教育部民权办公室对常春藤盟校启动反歧视调查",
-      "original_title": "U.S. Department of Education's Office for Civil Rights Launches Anti-Discrimination Investigations into Ivy League Schools",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-educations-office-civil-rights-launches-anti-discrimination-investigations",
       "date": "March 23, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "民权",
-      "summary": "美国教育部民权办公室宣布对多所常春藤盟校启动反歧视调查，涉及招生录取、奖学金分配、校园生活等多个方面。教育部指出，近期收到多份投诉，指控这些名校在录取过程中对特定群体存在歧视性做法。民权办公室将依法进行全面调查，确保高等教育机会平等。教育部强调，无论学校声誉如何，都必须遵守联邦民权法律，保障所有学生的合法权益。"
+      "category": "civil_rights"
     },
     {
-      "title": "美国教育部领导人在佛蒙特州和西弗吉尼亚州强调公民教育重要性",
-      "original_title": "U.S. Department of Education Leaders Highlight Civics Education at \"History Rocks!\" Events in Vermont and West Virginia",
+      "title": "U.S. Department of Education Leaders Highlight Civics Education at “History Rocks!” Events in Vermont and West Virginia",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia",
       "date": "March 20, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "公民教育",
-      "summary": "美国教育部高级官员近日赴佛蒙特州和西弗吉尼亚州出席\"历史闪耀\"系列活动，就公民教育的重要性发表演讲。活动旨在通过创新教学方式，激发中小学生对美国历史和宪政制度的兴趣，培养学生的公民责任感。教育部领导强调，公民教育是培养负责任公民的基础，各地学校应加强相关课程建设，帮助学生深入理解美国民主制度的核心理念。联邦政府将继续支持各州开展公民教育项目，为国家未来发展储备人才。"
+      "category": "civics"
     },
     {
-      "title": "美国教育部与财政部宣布历史性的联邦学生援助合作伙伴关系",
-      "original_title": "U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership",
+      "title": "U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-treasury-announce-historic-federal-student-assistance-partnership",
       "date": "March 19, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "高等教育",
-      "summary": "美国教育部与财政部日前联合宣布建立历史性的联邦学生援助合作伙伴关系，旨在简化学生资助申请流程，提高资金使用效率。根据协议，两部门将整合信息系统，实现数据共享，为大学生提供更加便捷的助学金和贷款服务。教育部表示，此次合作将显著降低学生及家庭的行政负担，确保资助资金及时到位。财政部强调，这一创新举措体现了联邦政府致力于促进教育机会均等的承诺，将惠及数百万美国大学生。"
+      "category": "grants"
     },
     {
-      "title": "美国教育部认定华盛顿特区公立学校歧视残疾学生",
-      "original_title": "U.S. Department of Education's Office for Civil Rights Concludes D.C. Public Schools Discriminates Against Students with Disabilities",
+      "title": "U.S. Department of Education’s Office for Civil Rights Concludes D.C. Public Schools Discriminates Against Students with Disabilities",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-concludes-dc-public-schools-discriminates-against-students-disabilities",
       "date": "March 18, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "民权",
-      "summary": "美国教育部民权办公室经调查认定，华盛顿特区公立学校系统在残疾学生教育方面存在系统性歧视行为。调查发现，该校未能为残疾学生提供必要的辅助服务和合理便利，违反了《康复法》和《残疾人教育法》相关规定。教育部要求特区教育部门立即制定整改方案，确保残疾学生享有平等的受教育机会。民权办公室表示将持续监督整改进展，必要时采取进一步执法措施，切实维护残疾学生的合法权益。"
+      "category": "civil_rights"
     },
     {
-      "title": "高等教育领域重要胜利：禁止男性参加女子体育比赛",
-      "original_title": "Victories for Higher Education: Keeping Men Out of Women's Sports",
+      "title": "Victories for Higher Education: Keeping Men Out of Women’s Sports",
       "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-keeping-men-out-of-womens-sports",
       "date": "March 18, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "民权",
-      "summary": "美国教育部近日就保护女子体育比赛公平性发布重要政策指引，明确禁止生理男性参加女子竞技体育项目。教育部指出，此举旨在维护《教育法修正案第九条》确立的性别平等原则，保障女性运动员的公平竞争权益。相关部门将加强对高校体育项目的监督，确保政策落实到位。教育部强调，保护女子体育是促进教育公平的重要组成部分，各高校应严格执行相关规定，为女性学生创造公正、安全的体育竞技环境。"
+      "category": "higher_ed"
     }
   ]
 }

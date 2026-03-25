@@ -1,39 +1,33 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-03-24T17:05:00",
+  "crawled_at": "2026-03-24T20:00:07.531877",
   "filter_days": 7,
   "total_news": 3,
   "news": [
     {
-      "title": "调查显示教师工作条件显著恶化：应对之策何在",
-      "original_title": "Survey shows alarming drop in working conditions for teachers: What are we doing about it?",
+      "title": "Survey shows alarming drop in working conditions for teachers: What are we doing about it?",
       "url": "https://www.brookings.edu/articles/survey-shows-alarming-drop-in-working-conditions-for-teachers-what-are-we-doing-about-it/",
-      "author": "Sofia P. Baker, Cory Koedel",
+      "author": "Sofia P. Baker",
       "date": "March 23, 2026",
       "source": "Brookings Institution",
-      "category": "教师政策",
-      "summary": "布鲁金斯学会日前发布最新调查报告，揭示了美国教师工作条件持续恶化的严峻现状。报告指出，受新冠疫情影响，教师面临的职业压力显著上升，工作满意度创历史新低。调查显示，超过半数受访教师表示工作压力过大，职业倦怠现象普遍，导致师资流失率持续攀升。报告深入分析了造成这一困境的多重因素，包括薪酬待遇偏低、行政负担过重、学生行为管理困难以及缺乏专业支持等。报告建议教育主管部门应采取综合性措施，切实改善教师工作环境，提高薪酬福利待遇，简化行政程序，加强心理健康支持，以稳定教师队伍，保障教育质量。"
+      "category": "k12"
     },
     {
-      "title": "非洲东部和南部教育工作者将气候挑战转化为行动",
-      "original_title": "Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action",
+      "title": "Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action",
       "url": "https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/",
       "author": "Ellen Chigwanda",
       "date": "March 20, 2026",
       "source": "Brookings Institution",
-      "category": "全球教育",
-      "summary": "布鲁金斯学会近日发布研究报告，深入分析了非洲东部和南部地区教育工作者在应对气候变化挑战中的创新实践。报告指出，面对极端天气频发、基础设施薄弱等严峻形势，当地教育工作者展现出非凡的韧性与创造力，通过灵活调整教学安排、开发本土化课程资源、加强社区协作等方式，有效保障了教育连续性。报告强调，国际社会应加大对发展中国家教育领域的支持力度，帮助其提升应对气候变化的能力。同时，报告建议各国政府将气候教育纳入国民教育体系，培养具备环境意识和适应能力的未来人才，为全球可持续发展贡献力量。"
+      "category": "teacher"
     },
     {
-      "title": "美国公共服务贷款豁免计划：回顾、现状与展望",
-      "original_title": "The past, present, and future of the Public Service Loan Forgiveness program",
+      "title": "The past, present, and future of the Public Service Loan Forgiveness program",
       "url": "https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/",
       "author": "Sarah Reber",
       "date": "March 19, 2026",
       "source": "Brookings Institution",
-      "category": "高等教育政策",
-      "summary": "布鲁金斯学会日前发布政策分析报告，系统梳理了美国公共服务贷款豁免计划（PSLF）的实施历程、当前困境及未来改革方向。报告指出，该计划自2007年设立以来，虽旨在鼓励优秀青年投身公共服务领域，但因申请程序复杂、资格认定标准模糊等问题，实际惠及人数远低于预期。报告建议联邦教育部门简化申请流程、加强政策宣传、完善监督机制，确保政策红利切实惠及符合条件的公共服务从业者。同时，报告呼吁国会考虑扩大豁免范围，将更多基层岗位纳入保障体系，以吸引和留住优秀人才服务公共事业。"
+      "category": "higher_ed"
     }
   ]
 }

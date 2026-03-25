@@ -1,10 +1,38 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-24T12:00:09.049874",
-  "crawl_method": "requests",
+  "crawled_at": "2026-03-24T20:00:10.446184",
+  "filter_days": 7,
   "total_news": 10,
   "news": [
+    {
+      "title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump’s Agenda",
+      "url": "https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
+      "date": "March 24, 2026",
+      "category": "Articles",
+      "source": "The White House"
+    },
+    {
+      "title": "Further Continuance of the Federal Emergency Management Agency Review Council",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "National Agriculture Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/",
@@ -45,34 +73,6 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-nowruz/",
       "date": "March 20, 2026",
       "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Preserving America’s Game",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/preserving-americas-game/",
-      "date": "March 20, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "First Lady Melania Trump Announces 2026 Spring Garden Tours",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-announces-2026-spring-garden-tours/",
-      "date": "March 20, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "President Donald J. Trump Unveils National AI Legislative Framework",
-      "url": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
-      "date": "March 20, 2026",
-      "category": "Articles",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Strengthens U.S.-Japan Alliance for the Benefit of All Americans",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-strengthens-u-s-japan-alliance-for-the-benefit-of-all-americans/",
-      "date": "March 19, 2026",
-      "category": "Fact Sheets",
       "source": "The White House"
     }
   ]

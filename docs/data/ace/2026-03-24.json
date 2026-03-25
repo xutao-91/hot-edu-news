@@ -1,9 +1,9 @@
 {
   "source": "ACE - American Council on Education",
-  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx",
-  "crawled_at": "2026-03-24T11:27:04.257211",
-  "crawl_method": "requests",
-  "total_news": 10,
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-03-24T20:00:14.810177",
+  "filter_days": 7,
+  "total_news": 2,
   "news": [
     {
       "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
@@ -22,78 +22,6 @@
       "summary_en": "ACE and 10 other higher education associations submitted an amicus brief yesterday supporting a motion brought by the plaintiffs for a stay of the IPEDS Admissions and Consumer Transparency Supplement while the court considers and decides the case.",
       "source": "ACE",
       "category": "federal_policy"
-    },
-    {
-      "title": "Workforce Pell, Professional Degrees, and a Complicated Spring in Washington",
-      "url": "https://www.acenet.edu/Pages/dotedu/152-A-Complicated-Spring-in-DC.aspx",
-      "date": "March 19, 2026",
-      "type": "Podcast",
-      "summary_en": "The hosts are joined by ACE’s Emmanual Guillory to break down key federal rulemaking shaping student aid.",
-      "source": "ACE",
-      "category": "general"
-    },
-    {
-      "title": "dotEDU Live at ACEx2026",
-      "url": "https://www.acenet.edu/Pages/dotedu/151-dotEDU-at-ACEx2026.aspx",
-      "date": "March 9, 2026",
-      "type": "Podcast",
-      "summary_en": "Recorded live at ACEx2026 in Washington, DC, this special episode featured the hosts asking each other questions about what to expect for federal higher education policy in 2026.",
-      "source": "ACE",
-      "category": "general"
-    },
-    {
-      "title": "ACE Summary Details ED’s Proposed Workforce Pell Regulations",
-      "url": "https://www.acenet.edu/News-Room/Pages/Summary-Workforce-Pell-Regulations.aspx",
-      "date": "March 9, 2026",
-      "type": "News",
-      "summary_en": "ACE has released a detailed summary of the Department of Education’s proposed rule to implement the new Workforce Pell Grant program, which goes into effect July 1, 2026.",
-      "source": "ACE",
-      "category": "general"
-    },
-    {
-      "title": "ACE, Pearson Release Brief on Reengaging Stopped-out Learners",
-      "url": "https://www.acenet.edu/News-Room/Pages/Pearson-Brief-Stopped-Out-Learners.aspx",
-      "date": "March 5, 2026",
-      "type": "Press Release",
-      "summary_en": "ACE, in collaboration with Pearson, has released a new brief examining how colleges and universities can better support stopped-out learners in returning to complete their degrees.",
-      "source": "ACE",
-      "category": "general"
-    },
-    {
-      "title": "ACE, Associations Warn ED’s Narrow ‘Professional’ Definition Would Limit Graduate Access",
-      "url": "https://www.acenet.edu/News-Room/Pages/Associations-Warn-EDs-Professional-Definition-Limits-Grad-Access-.aspx",
-      "date": "March 3, 2026",
-      "type": "News",
-      "summary_en": "ACE and 40 associations urged ED to broaden its proposed definition of “professional” programs, warning it could limit access to graduate education in critical workforce fields.",
-      "source": "ACE",
-      "category": "general"
-    },
-    {
-      "title": "Higher Ed Leaders Confront Critical Challenges at ACEx2026",
-      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Critical-Challenges-ACEx2026.aspx",
-      "date": "March 2, 2026",
-      "type": "News",
-      "summary_en": "Hundreds of higher education leaders gathered in Washington last week for ACEx2026, confronting the sector’s most urgent challenges at a moment of profound consequence for colleges, universities, and the communities they serve.",
-      "source": "ACE",
-      "category": "general"
-    },
-    {
-      "title": "University of Pittsburgh Chancellor Joan Gabel Named 2026 Council of Fellows Mentor Award Recipient",
-      "url": "https://www.acenet.edu/News-Room/Pages/Council-Fellows-Mentor-Award-2026.aspx",
-      "date": "February 27, 2026",
-      "type": "Press Release",
-      "summary_en": "ACE awarded Joan Gabel, chancellor of the University of Pittsburgh, with the 2026 ACE Council of Fellows/Fidelity Investments Mentor Award.",
-      "source": "ACE",
-      "category": "higher_ed"
-    },
-    {
-      "title": "Gloria Thomas Receives 2026 ACE Donna Shavlik Award",
-      "url": "https://www.acenet.edu/News-Room/Pages/Shavlik-State-Network-Award-2026.aspx",
-      "date": "February 27, 2026",
-      "type": "Press Release",
-      "summary_en": "ACE is proud to announce that Gloria D. Thomas, president of Higher Education Resource Services, has been selected to receive the 2026 ACE Donna Shavlik Award.",
-      "source": "ACE",
-      "category": "general"
     }
   ]
 }

@@ -1,29 +1,27 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-24T17:05:00",
+  "crawled_at": "2026-03-24T20:00:14.810177",
   "filter_days": 7,
   "total_news": 2,
   "news": [
     {
-      "title": "ACE及其他协会敦促总务管理局撤销关于'非法DEI'等问题的认证要求提案",
-      "original_title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on \"Unlawful DEI\" and Other Issues",
+      "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
       "date": "March 23, 2026",
       "type": "News",
+      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
       "source": "ACE",
-      "category": "federal_policy",
-      "summary": "美国教育委员会（ACE）联合其他高等教育协会近日致函美国总务管理局（GSA），敦促其撤销一项拟议的认证要求。该提案要求所有接受联邦资助的机构必须证明其不存在'非法的多元、公平与包容（DEI）'项目和相关做法。ACE指出，该提案措辞模糊、标准不明，将给高等院校带来重大不确定性，并可能严重限制高校在招生、学生服务等方面的正常运作。协会强调，此举将干扰学校的教育使命，影响校园多元化建设，并可能对依赖联邦资助的研究项目和学生资助造成负面影响。"
+      "category": "federal_policy"
     },
     {
-      "title": "随着ACE及其他协会支持立法修正，ACTS截止日期延后",
-      "original_title": "ACTS Deadline Shifts as ACE, Other Associations Support Legislation to Make Technical Changes to the Law",
+      "title": "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge",
       "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx",
       "date": "March 20, 2026",
       "type": "News",
+      "summary_en": "ACE and 10 other higher education associations submitted an amicus brief yesterday supporting a motion brought by the plaintiffs for a stay of the IPEDS Admissions and Consumer Transparency Supplement while the court considers and decides the case.",
       "source": "ACE",
-      "category": "federal_policy",
-      "summary": "美国教育委员会（ACE）宣布支持国会正在审议的一项立法修正案，该法案旨在对《美国残疾人教育法》（ACTS）进行技术性修订。由于现行法律中的某些条款在实施过程中暴露出操作困难，ACE与其他教育组织共同推动此次修正，以简化合规流程、减轻高校行政负担。修正案还将适当延长相关合规期限，为高校提供更充足的调整时间。ACE表示，这一立法努力体现了国会对高等教育界关切的重视，有助于确保法律的有效实施。"
+      "category": "federal_policy"
     }
   ]
 }

@@ -1,99 +1,79 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-24T17:05:00",
+  "crawled_at": "2026-03-24T20:00:10.446184",
   "filter_days": 7,
   "total_news": 10,
   "news": [
     {
-      "title": "第一夫人梅拉尼娅·特朗普启动'共同培育未来'倡议，45国出席首届联盟峰会",
-      "original_title": "First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit",
+      "title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump’s Agenda",
+      "url": "https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
+      "date": "March 24, 2026",
+      "category": "Articles",
+      "source": "The White House"
+    },
+    {
+      "title": "Further Continuance of the Federal Emergency Management Agency Review Council",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "National Agriculture Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/",
       "date": "March 24, 2026",
       "category": "Briefings & Statements",
-      "source": "The White House",
-      "summary": "第一夫人梅拉尼娅·特朗普近日在白宫宣布启动'共同培育未来'全球倡议，旨在促进儿童福祉和青少年发展。来自45个国家的代表出席了首届联盟峰会，共同探讨国际合作应对儿童贫困、教育不平等和心理健康等挑战。第一夫人强调，儿童是国家的未来，国际社会应携手为下一代创造更好的成长环境。该倡议将推动跨国界的教育资源共享、儿童保护政策协调以及青少年领导力培养项目。"
+      "source": "The White House"
     },
     {
-      "title": "总统就帕特里克·亨利'不自由毋宁死'演讲周年发表致辞",
-      "original_title": "Presidential Message on the Anniversary of Patrick Henry's \"Give Me Liberty, Or Give Me Death!\" Speech",
+      "title": "Presidential Message on the Anniversary of Patrick Henry’s “Give Me Liberty, Or Give Me Death!” Speech",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/",
       "date": "March 23, 2026",
       "category": "Briefings & Statements",
-      "source": "The White House",
-      "summary": "美国总统特朗普日前发表致辞，纪念美国独立战争时期著名政治家帕特里克·亨利发表'不自由毋宁死'演讲250周年。致辞强调，亨利的演讲至今仍激励着美国人民捍卫自由、反抗暴政的精神。总统表示，当前美国面临着国内外诸多挑战，更需要传承和弘扬这种爱国精神，维护美国的核心价值观。致辞呼吁全体国民团结一致，共同应对威胁美国国家安全和公民自由的各项挑战，确保美国继续作为自由世界的领袖。"
+      "source": "The White House"
     },
     {
-      "title": "特朗普总统'孟菲斯安全工作组'在打击犯罪方面取得重大成果",
-      "original_title": "President Trump's 'Memphis Safe Task Force' Delivers Crushing Blow to Crime",
+      "title": "President Trump’s ‘Memphis Safe Task Force’ Delivers Crushing Blow to Crime",
       "url": "https://www.whitehouse.gov/articles/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/",
       "date": "March 23, 2026",
       "category": "Articles",
-      "source": "The White House",
-      "summary": "白宫宣布，特朗普总统成立的'孟菲斯安全工作组'在打击田纳西州孟菲斯市犯罪活动方面取得显著成效。工作组由联邦执法机构与地方警察部门联合组成，通过情报共享和联合行动，成功破获多起重大刑事案件，逮捕多名暴力犯罪嫌疑人。统计数据显示，孟菲斯市暴力犯罪率在工作组介入后出现明显下降。白宫强调，这一成功模式将为其他面临类似问题的城市提供借鉴，联邦政府将继续支持地方执法部门维护社区安全。"
+      "source": "The White House"
     },
     {
-      "title": "S. 4138号国会法案经总统签署成为法律",
-      "original_title": "Congressional Bill S. 4138 Signed into Law",
+      "title": "Congressional Bill S. 4138 Signed into Law",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bill-s-4138-signed-into-law/",
       "date": "March 20, 2026",
       "category": "Briefings & Statements",
-      "source": "The White House",
-      "summary": "特朗普总统日前签署声明，宣布S. 4138号国会法案经其签署正式成为法律。该法案涉及联邦预算拨款和多项国内政策的调整，旨在优化政府支出结构，提高行政效率。白宫表示，这项法律的通过体现了行政与立法部门在国家治理重要议题上的合作精神。总统强调，法案的实施将有助于推动美国经济持续增长，改善民生福祉。相关部门将根据法案要求，制定具体的实施细则，确保各项政策目标如期实现。"
+      "source": "The White House"
     },
     {
-      "title": "民主党导致国土安全部停摆进入第35天，机场陷入混乱",
-      "original_title": "Democrats' DHS Shutdown Enters 35th Day as Airports Plunge into Chaos",
-      "url": "https://www.whitehouse.gov/articles/2026/03/democrats-dhs-shutdown-enters-35th-day-as-airports-plunge-into-chaos/",
+      "title": "Democrats’ DHS Shutdown Enters 35th Day as Airports Plunge into Chaos, Frontline Workers Suffer",
+      "url": "https://www.whitehouse.gov/articles/2026/03/democrats-dhs-shutdown-enters-35th-day-as-airports-plunge-into-chaos-frontline-workers-suffer/",
       "date": "March 20, 2026",
       "category": "Articles",
-      "source": "The White House",
-      "summary": "白宫批评称，由于民主党在国会阻挠拨款法案通过，美国国土安全部停摆已进入第35天，导致全国多个主要机场出现严重运营混乱。声明指出，运输安全管理局（TSA）和海关与边境保护局（CBP）人员短缺，造成航班延误、安检排队时间过长等问题，严重影响旅客出行。白宫敦促民主党尽快与共和党达成协议，恢复国土安全部正常运作。总统表示，政府已采取临时措施缓解危机，但根本解决仍需国会两党合作。"
+      "source": "The White House"
     },
     {
-      "title": "总统就诺鲁孜节发表致辞",
-      "original_title": "Presidential Message on Nowruz",
+      "title": "Presidential Message on Nowruz",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-nowruz/",
       "date": "March 20, 2026",
       "category": "Briefings & Statements",
-      "source": "The White House",
-      "summary": "特朗普总统发表致辞，向全球庆祝诺鲁孜节（波斯新年）的民众致以节日问候。致辞表示，诺鲁孜节象征着新生与希望，在这个充满挑战的时代更具特殊意义。总统赞扬了伊朗、阿富汗及中亚各国移民对美国社会的贡献，强调美国将继续支持这些地区人民追求自由与繁荣的努力。致辞同时呼吁伊朗政府尊重本国人民的基本权利，停止压迫性政策。白宫表示，美国愿与所有爱好和平的国家合作，共同促进地区稳定与繁荣。"
-    },
-    {
-      "title": "保护美国的国球",
-      "original_title": "Preserving America's Game",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/preserving-americas-game/",
-      "date": "March 20, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House",
-      "summary": "特朗普总统签署行政令，宣布采取措施'保护美国的国球'——棒球。行政令要求相关部门审查影响职业棒球联赛公平竞争的政策，调查外国资本对美国棒球队的不当影响，并确保美国运动员的权益得到充分保障。白宫声明强调，棒球是美国文化的重要组成部分，政府有责任保护这一传统体育项目免受外部势力干预。总统还表示将支持青少年棒球发展项目，培养下一代棒球人才，延续美国在这一运动领域的领先地位。"
-    },
-    {
-      "title": "第一夫人梅拉尼娅·特朗普宣布2026年春季白宫花园参观活动",
-      "original_title": "First Lady Melania Trump Announces 2026 Spring Garden Tours",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-announces-2026-spring-garden-tours/",
-      "date": "March 20, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House",
-      "summary": "第一夫人梅拉尼娅·特朗普宣布，2026年白宫春季花园参观活动将于4月12日和13日向公众开放。届时，游客将有机会参观白宫南草坪、玫瑰园和第一夫人花园等标志性景观。第一夫人表示，白宫花园承载着丰富的历史传统，是向美国人民展示总统官邸独特魅力的重要窗口。参观活动免费，但需提前在线预约。这是特朗普政府恢复的传统活动之一，旨在增强总统与民众的联系，展示白宫作为'人民之家'的开放精神。"
-    },
-    {
-      "title": "特朗普总统公布国家人工智能立法框架",
-      "original_title": "President Donald J. Trump Unveils National AI Legislative Framework",
-      "url": "https://www.whitehouse.gov/articles/2026/03/president-donald-j-trump-unveils-national-ai-legislative-framework/",
-      "date": "March 20, 2026",
-      "category": "Articles",
-      "source": "The White House",
-      "summary": "特朗普总统在白宫发布美国国家人工智能立法框架，旨在确保美国在AI技术领域保持全球领先地位。框架提出五大核心原则：促进创新、保护国家安全、维护个人隐私、确保算法公平、增强国际竞争力。总统呼吁国会尽快通过相关立法，为AI发展提供明确的法律规范。白宫强调，美国必须在AI治理标准制定上发挥主导作用，防止其他国家特别是中国在这一关键领域超越。政府将设立专项基金，支持AI基础研究和人才培养。"
-    },
-    {
-      "title": "情况说明书：特朗普总统加强美日同盟关系",
-      "original_title": "Fact Sheet: President Donald J. Trump Strengthens U.S.-Japan Alliance for the Benefit of All Americans",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-strengthens-u-s-japan-alliance-for-the-benefit-of-all-americans/",
-      "date": "March 19, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House",
-      "summary": "白宫发布情况说明书，详述特朗普政府为加强美日同盟关系所采取的多项举措。双方就扩大经贸合作、加强防务协调、共同应对地区安全挑战等议题达成重要共识。美国承诺继续为日本提供安全保障，日本则同意增加防务开支，深化双边军事合作。两国领导人还讨论了联合应对中国影响力扩张的策略。白宫表示，美日同盟是印太地区稳定的基石，美国将与日本一道维护基于规则的国际秩序，促进地区和平与繁荣。"
+      "source": "The White House"
     }
   ]
 }
