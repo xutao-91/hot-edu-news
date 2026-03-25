@@ -4,15 +4,33 @@
 禁止手动修改链接！
 """
 import json
-from datetime import datetime
+import os
+from datetime import datetime, timedelta
+
+def get_latest_json(directory):
+    """自动找到目录下最新的JSON文件"""
+    json_files = [f for f in os.listdir(directory) if f.endswith('.json')]
+    if not json_files:
+        return None
+    json_files.sort(reverse=True)  # 文件名按日期倒序
+    return os.path.join(directory, json_files[0])
+
+def is_within_days(date_str, days=7):
+    """检查日期是否在指定天数内"""
+    try:
+        article_date = datetime.strptime(date_str, '%B %d, %Y')
+        cutoff_date = datetime.now() - timedelta(days=days)
+        return article_date >= cutoff_date
+    except:
+        return True  # 解析失败默认保留
 
 def generate_html():
-    # 读取所有数据文件
+    # 自动找到最新的数据文件
     sources = {
-        'brookings': 'data/brookings/2026-03-23.json',
-        'edgov': 'data/edgov/2026-03-23.json',
-        'whitehouse': 'data/whitehouse/2026-03-24.json',
-        'ace': 'data/ace/2026-03-24.json'
+        'brookings': get_latest_json('data/brookings'),
+        'edgov': get_latest_json('data/edgov'),
+        'whitehouse': get_latest_json('data/whitehouse'),
+        'ace': get_latest_json('data/ace')
     }
     
     data = {}
@@ -142,16 +160,18 @@ def generate_html():
     
     # Brookings
     if data.get('brookings'):
+        # 只显示7天内的文章
+        brookings_news = [a for a in data['brookings']['news'] if is_within_days(a['date'], days=7)]
         html += f'''
     <div class="header">
         <h1>🔥 {data['brookings']['source']}</h1>
         <div class="source-info">
             来源: <a href="{data['brookings']['source_url']}" target="_blank" style="color: white;">Brookings Institution - Education</a> |
-            今日收录: {len(data['brookings']['news'])}篇
+            今日收录: {len(brookings_news)}篇
         </div>
     </div>
 '''
-        for i, article in enumerate(data['brookings']['news'][:4], 1):
+        for i, article in enumerate(brookings_news[:4], 1):
             highlight = '<span class="highlight">' if i == 1 else ''
             highlight_end = '</span>' if i == 1 else ''
             new_badge = ' | 🆕 今日最新' if i == 1 else ''
@@ -175,16 +195,18 @@ def generate_html():
     
     # ED.gov
     if data.get('edgov'):
+        # 只显示7天内的文章
+        edgov_news = [a for a in data['edgov']['news'] if is_within_days(a['date'], days=7)]
         html += f'''
     <div class="header" style="margin-top: 30px; background: #1a4480;">
         <h1>🇺🇸 美国教育部 ED.gov</h1>
         <div class="source-info">
             来源: <a href="{data['edgov']['source_url']}" target="_blank" style="color: white;">U.S. Department of Education</a> |
-            今日收录: {len(data['edgov']['news'])}篇
+            今日收录: {len(edgov_news)}篇
         </div>
     </div>
 '''
-        for i, article in enumerate(data['edgov']['news'][:4], 1):
+        for i, article in enumerate(edgov_news[:4], 1):
             highlight = '<span class="highlight">' if i == 1 else ''
             highlight_end = '</span>' if i == 1 else ''
             new_badge = ' | 🆕 今日最新' if i == 1 else ''
@@ -208,16 +230,18 @@ def generate_html():
     
     # White House
     if data.get('whitehouse'):
+        # 只显示7天内的文章
+        whitehouse_news = [a for a in data['whitehouse']['news'] if is_within_days(a['date'], days=7)]
         html += f'''
     <div class="header" style="margin-top: 30px; background: #b22234;">
         <h1>🏛️ 白宫 The White House</h1>
         <div class="source-info">
             来源: <a href="{data['whitehouse']['source_url']}" target="_blank" style="color: white;">The White House</a> |
-            今日收录: {len(data['whitehouse']['news'])}篇
+            今日收录: {len(whitehouse_news)}篇
         </div>
     </div>
 '''
-        for i, article in enumerate(data['whitehouse']['news'][:4], 1):
+        for i, article in enumerate(whitehouse_news[:4], 1):
             highlight = '<span class="highlight">' if i == 1 else ''
             highlight_end = '</span>' if i == 1 else ''
             new_badge = ' | 🆕 今日最新' if i == 1 else ''
@@ -241,16 +265,18 @@ def generate_html():
     
     # ACE
     if data.get('ace'):
+        # 只显示7天内的文章
+        ace_news = [a for a in data['ace']['news'] if is_within_days(a['date'], days=7)]
         html += f'''
     <div class="header" style="margin-top: 30px; background: #003366;">
         <h1>🎓 ACE 美国教育委员会</h1>
         <div class="source-info">
             来源: <a href="{data['ace']['source_url']}" target="_blank" style="color: white;">American Council on Education</a> |
-            今日收录: {len(data['ace']['news'])}篇
+            今日收录: {len(ace_news)}篇
         </div>
     </div>
 '''
-        for i, article in enumerate(data['ace']['news'][:8], 1):
+        for i, article in enumerate(ace_news[:8], 1):
             highlight = '<span class="highlight">' if i == 1 else ''
             highlight_end = '</span>' if i == 1 else ''
             new_badge = ' | 🆕 今日最新' if i == 1 else ''
