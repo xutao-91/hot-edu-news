@@ -30,7 +30,8 @@ def generate_html():
         'brookings': get_latest_json('data/brookings'),
         'edgov': get_latest_json('data/edgov'),
         'whitehouse': get_latest_json('data/whitehouse'),
-        'ace': get_latest_json('data/ace')
+        'ace': get_latest_json('data/ace'),
+        'nsf_ncses': get_latest_json('data/nsf_ncses')
     }
     
     data = {}
@@ -291,6 +292,41 @@ def generate_html():
             <div class="article-subtitle">{article.get('original_title', '')}</div>
         </div>
         <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
+        <div class="article-footer">
+            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
+            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
+        </div>
+    </div>
+'''
+    
+    # NSF NCSES
+    if data.get('nsf_ncses'):
+        # 只显示7天内的文章
+        nsf_news = [a for a in data['nsf_ncses']['news'] if is_within_days(a['date'], days=7)]
+        html += f'''
+    <div class="header" style="margin-top: 30px; background: #1e4d2b;">
+        <h1>🔬 NSF NCSES 科学与工程统计中心</h1>
+        <div class="source-info">
+            来源: <a href="{data['nsf_ncses']['source_url']}" target="_blank" style="color: white;">National Center for Science and Engineering Statistics</a> |
+            今日收录: {len(nsf_news)}篇
+        </div>
+    </div>
+'''
+        for i, article in enumerate(nsf_news[:6], 1):
+            highlight = '<span class="highlight">' if i == 1 else ''
+            highlight_end = '</span>' if i == 1 else ''
+            new_badge = ' | 🆕 今日最新' if i == 1 else ''
+            html += f'''
+    <div class="article">
+        <div class="article-header">
+            <div class="article-meta">
+                <span class="article-author">NSF NCSES</span>
+                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
+            </div>
+            <div class="article-title">{article['title']}</div>
+            <div class="article-subtitle">{article.get('type', 'Report')}</div>
+        </div>
+        <div class="article-summary">{article.get('summary_cn', article.get('summary_en', ''))}</div>
         <div class="article-footer">
             <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
             <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>

@@ -42,7 +42,7 @@ fi
 
 # 4. 运行ACE爬虫
 echo ""
-echo "📰 [4/4] 运行 ACE 爬虫..."
+echo "📰 [4/5] 运行 ACE 爬虫..."
 python3 sources/ace/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ ACE 完成"
@@ -50,9 +50,19 @@ else
     echo "⚠️  ACE 失败，继续..."
 fi
 
-# 5. 同步docs目录
+# 5. 运行NSF NCSES爬虫
 echo ""
-echo "📂 [5/5] 同步 docs 目录..."
+echo "📰 [5/5] 运行 NSF NCSES 爬虫..."
+python3 sources/nsf_ncses/crawler.py
+if [ $? -eq 0 ]; then
+    echo "✅ NSF NCSES 完成"
+else
+    echo "⚠️  NSF NCSES 失败，继续..."
+fi
+
+# 6. 同步docs目录
+echo ""
+echo "📂 [6/6] 同步 docs 目录..."
 cp index.html docs/
 cp -r data/ docs/
 echo "✅ docs目录已同步"
