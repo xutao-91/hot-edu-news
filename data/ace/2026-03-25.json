@@ -1,27 +1,29 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-25T12:00:14.483837",
+  "crawled_at": "2026-03-25T10:24:14.099899",
   "filter_days": 7,
   "total_news": 2,
   "news": [
     {
-      "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
+      "title": "ACE联合多协会呼吁撤销联邦资助DEI认证要求",
+      "original_title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on 'Unlawful DEI' and Other Issues",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
       "date": "March 23, 2026",
       "type": "News",
-      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
       "source": "ACE",
-      "category": "federal_policy"
+      "category": "federal_policy",
+      "summary_cn": "美国教育委员会（ACE）联合其他高等教育协会，近日致函联邦总务管理局（GSA），呼吁撤销一项关于'非法多元化、公平与包容（DEI）'的拟议认证要求。特朗普政府此前提议，所有接受联邦资助的机构须认证其不存在'非法DEI项目'，方可继续获得联邦资金。ACE表示，该要求界定模糊、标准不清，将给高校合规带来重大不确定性，可能严重影响正常教学科研活动。ACE强调，高校应继续致力于营造包容性校园环境，同时呼吁政府明确合规标准，避免对高等教育发展造成不必要的干扰。"
     },
     {
-      "title": "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge",
+      "title": "ACE支持法律挑战 ACTS截止日期延后",
+      "original_title": "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge",
       "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx",
       "date": "March 20, 2026",
       "type": "News",
-      "summary_en": "ACE and 10 other higher education associations submitted an amicus brief yesterday supporting a motion brought by the plaintiffs for a stay of the IPEDS Admissions and Consumer Transparency Supplement while the court considers and decides the case.",
       "source": "ACE",
-      "category": "federal_policy"
+      "category": "federal_policy",
+      "summary_cn": "美国教育委员会（ACE）联合其他10个高等教育协会，日前向法院提交法庭之友意见书，支持对教育部IPEDS招生与消费者透明度补充调查（ACTS）的法律挑战。原告方请求法院在案件审理期间暂缓执行ACTS要求，ACE对此表示支持。ACE指出，ACTS对高校数据报送提出了过于繁重的额外要求，将显著增加学校行政负担，且可能涉及学生隐私保护问题。法院已批准将ACTS执行截止日期延后，为案件审理留出时间。此事反映了高等教育界对联邦数据收集政策的关切。"
     }
   ]
 }

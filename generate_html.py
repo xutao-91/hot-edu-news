@@ -185,7 +185,7 @@ def generate_html():
             <div class="article-title">{article['title']}</div>
             <div class="article-subtitle">{article.get('original_title', '')}</div>
         </div>
-        <div class="article-summary">{article.get('summary', article.get('summary_en', ''))}</div>
+        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
         <div class="article-footer">
             <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
             <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
@@ -220,7 +220,7 @@ def generate_html():
             <div class="article-title">{article['title']}</div>
             <div class="article-subtitle">{article.get('original_title', '')}</div>
         </div>
-        <div class="article-summary">{article.get('summary', article.get('summary_en', ''))}</div>
+        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
         <div class="article-footer">
             <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
             <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
@@ -255,7 +255,7 @@ def generate_html():
             <div class="article-title">{article['title']}</div>
             <div class="article-subtitle">{article.get('original_title', '')}</div>
         </div>
-        <div class="article-summary">{article.get('summary', article.get('summary_en', ''))}</div>
+        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
         <div class="article-footer">
             <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
             <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
@@ -290,7 +290,7 @@ def generate_html():
             <div class="article-title">{article['title']}</div>
             <div class="article-subtitle">{article.get('original_title', '')}</div>
         </div>
-        <div class="article-summary">{article.get('summary', article.get('summary_en', ''))}</div>
+        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
         <div class="article-footer">
             <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
             <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
