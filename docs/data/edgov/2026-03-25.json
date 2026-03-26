@@ -1,10 +1,26 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-03-25T12:00:07.730521",
+  "crawled_at": "2026-03-25T20:00:06.070004",
   "filter_days": 7,
-  "total_news": 6,
+  "total_news": 8,
   "news": [
+    {
+      "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Kansas",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-kansas",
+      "date": "March 25, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "FACT SHEET: Victories for Higher Education, Making College More Affordable and Expediting Workforce Readiness",
+      "url": "https://www.ed.gov/about/news/press-release/fact-sheet-victories-higher-education-making-college-more-affordable-and-expediting-workforce-readiness",
+      "date": "March 25, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
     {
       "title": "Secretary McMahon’s Commencement Address for The Apprentice School at Newport News Shipbuilding",
       "url": "https://www.ed.gov/about/news/speech/secretary-mcmahons-commencement-address-apprentice-school-newport-news-shipbuilding",
