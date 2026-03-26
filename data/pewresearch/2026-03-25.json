@@ -1,0 +1,117 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-03-25T23:44:08.532242",
+  "filter_days": 7,
+  "total_news": 9,
+  "news": [
+    {
+      "title": "全球同性婚姻立法进展：荷兰开创先河25周年",
+      "original_title": "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/25/key-facts-about-same-sex-marriage-around-the-world-25-years-after-the-netherlands-legalized-it/",
+      "date": "Mar 25, 2026",
+      "type": "short reads",
+      "categories": ["Lgbtq Acceptance", "Marriage Divorce", "Same Sex Marriage"],
+      "summary_en": "Twenty-five years after the first nationally recognized same-sex marriages, nearly 40 places now allow them. But their prevalence varies, as do public attitudes.",
+      "summary_cn": "皮尤研究中心发布最新调查，回顾荷兰成为全球首个承认同性婚姻国家25周年以来的全球立法进展。数据显示，目前已有近40个国家和地区立法承认同性婚姻，但各国普及程度和公众态度差异显著。报告分析了不同地区在婚姻平权方面的政策取向和社会接受度，反映了全球范围内对这一议题的多元态度。",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "多数美国民众反对对伊朗采取军事行动",
+      "original_title": "Americans Broadly Disapprove of U.S. Military Action in Iran",
+      "url": "https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/",
+      "date": "Mar 25, 2026",
+      "type": "report",
+      "categories": ["Donald Trump", "Politics Policy", "War International Conflict"],
+      "summary_en": "Most Americans say striking Iran was the wrong decision and disapprove of Trump's handling of the conflict, with stark partisan divides.",
+      "summary_cn": "皮尤研究中心最新民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满。调查显示，在此议题上党派分歧明显，民主党与共和党支持者立场差异悬殊。该民调反映了当前美国国内对中东政策的民意走向，值得持续关注其外交政策调整动向。",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "美国建国250周年：过去50年的社会变迁",
+      "original_title": "The United States at 250: How the Country Has Changed in the Past 50 Years",
+      "url": "https://www.pewresearch.org/social-trends/2026/03/25/the-united-states-at-250-how-the-country-has-changed-in-the-past-50-years/",
+      "date": "Mar 25, 2026",
+      "type": "data essay",
+      "categories": ["Age", "Economics Work Gender", "Economy Work", "U S Census", "U S Democracy"],
+      "summary_en": "As America turns 250, explore how demographics, work, family and economics have shifted since 1976, based on 50 years of Census data.",
+      "summary_cn": "皮尤研究中心发布数据专题，基于美国人口普查局50年数据，系统梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态和经济状况等方面的深刻变化。报告指出，美国正经历人口老龄化、家庭结构多元化、收入差距扩大等重大社会转型，这些趋势对理解当前美国政治生态和社会治理挑战具有重要参考价值。",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "美国民众对种族多元化的态度调查",
+      "original_title": "How Americans view racial diversity ahead of the country's 250th anniversary",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/25/how-americans-value-racial-diversity-ahead-of-the-countrys-250th-anniversary/",
+      "date": "Mar 25, 2026",
+      "type": "short reads",
+      "categories": ["Race Relations", "Racial Bias Discrimination", "U S Democracy"],
+      "summary_en": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country's culture.",
+      "summary_cn": "皮尤研究中心最新调查显示，75%的美国成年人认为种族多元化对国家是好事，但民主党与共和党支持者对多元化如何影响美国文化存在显著分歧。在建国250周年之际，该调查反映了美国社会对身份认同和文化认同的深层张力，对理解当前美国社会撕裂现象具有重要参考价值。",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "美国民众突发新闻获取渠道调查",
+      "original_title": "Where do Americans turn first for information about breaking news?",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/",
+      "date": "Mar 24, 2026",
+      "type": "short reads",
+      "categories": ["Digital News Landscape", "Media Society", "News Habits Media", "Social Media News"],
+      "summary_en": "When a breaking news event happens, 36% of U.S. adults say they typically turn first to their preferred news organization to get more information.",
+      "summary_cn": "皮尤研究中心调查显示，当突发新闻事件发生时，36%的美国成年人表示会首选其信赖的新闻机构获取信息，另有相当比例民众转向社交媒体平台。报告指出，数字化时代美国民众的新闻消费习惯正在深刻变化，传统媒体与新兴平台的竞争格局持续演变，对理解美国舆论生态和信息传播机制具有参考意义。",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "美国民众对安乐死道德观念调查",
+      "original_title": "About 6 in 10 Americans don't have moral objections to medical aid in dying",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/",
+      "date": "Mar 23, 2026",
+      "type": "short reads",
+      "categories": ["Death Dying", "Health Care", "Religion Social Values"],
+      "summary_en": "Republicans are twice as likely as Democrats to call physician-assisted death morally wrong (48% vs. 23%).",
+      "summary_cn": "皮尤研究中心调查显示，约六成美国民众对医疗辅助死亡没有道德上的反对意见，但党派分歧明显：共和党支持者认为医师协助死亡在道德上是错误的比例为48%，是民主党支持者（23%）的两倍多。该调查反映了美国在生命伦理议题上的社会态度分化，对理解美国社会价值观变迁具有参考价值。",
+      "source": "Pew Research Center",
+      "category": "social_trends"
+    },
+    {
+      "title": "美国黑人移民群体特征研究",
+      "original_title": "Key findings about Black immigrants in the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/20/key-findings-about-black-immigrants-in-the-us/",
+      "date": "Mar 20, 2026",
+      "type": "short reads",
+      "categories": ["Black Americans", "Immigrant Populations", "Immigration Migration", "Race Ethnicity"],
+      "summary_en": "The U.S. Black immigrant population has more than doubled since 2000, reaching 5.6 million in 2024 and now making up 11.4% of the total Black population.",
+      "summary_cn": "皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。报告指出，该群体主要来源于非洲和加勒比地区，教育程度和就业状况呈现多元化特征。这一人口结构变化对美国种族关系和政治格局具有深远影响。",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "美国民众居住偏好调查：大房子还是便利设施",
+      "original_title": "Majority of Americans prefer spread-out communities with big houses",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/19/majority-of-americans-prefer-spread-out-communities-with-big-houses/",
+      "date": "Mar 19, 2026",
+      "type": "short reads",
+      "categories": ["Homeownership Renting", "Rural Urban Suburban Communities"],
+      "summary_en": "55% of Americans say they would prefer to live in a community where houses are larger and farther away from amenities – compared to 44% who say the opposite.",
+      "summary_cn": "皮尤研究中心调查显示，55%的美国民众表示更愿意居住在房屋较大、与商业设施距离较远的社区，44%的人则偏好相反。报告分析了年龄、收入、党派等因素对居住偏好的影响，指出美国人对郊区生活方式的偏好持续存在，对理解美国城市发展模式和房地产政策具有参考意义。",
+      "source": "Pew Research Center",
+      "category": "social_trends"
+    },
+    {
+      "title": "美国人的道德观念调查",
+      "original_title": "What Do Americans Consider Immoral?",
+      "url": "https://www.pewresearch.org/religion/2026/03/19/what-do-americans-consider-immoral/",
+      "date": "Mar 19, 2026",
+      "type": "report",
+      "categories": ["Religion Abortion", "Religion Lgbtq Acceptance", "Religion Social Values"],
+      "summary_en": "Nine-in-ten Americans say having an affair is wrong. Republicans and Democrats differ sharply on the morality of abortion and homosexuality.",
+      "summary_cn": "皮尤研究中心调查显示，九成美国民众认为婚外情是不道德的，但在堕胎和同性恋的道德评判上，民主党与共和党支持者存在显著分歧。报告系统梳理了美国社会在不同议题上的道德观念分布，反映了宗教、政治立场与价值观之间的复杂关联，对理解美国社会文化分歧具有重要参考价值。",
+      "source": "Pew Research Center",
+      "category": "religion"
+    }
+  ]
+}

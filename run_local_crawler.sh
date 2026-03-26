@@ -52,7 +52,7 @@ fi
 
 # 5. 运行NSF NCSES爬虫
 echo ""
-echo "📰 [5/5] 运行 NSF NCSES 爬虫..."
+echo "📰 [5/6] 运行 NSF NCSES 爬虫..."
 python3 sources/nsf_ncses/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ NSF NCSES 完成"
@@ -60,9 +60,19 @@ else
     echo "⚠️  NSF NCSES 失败，继续..."
 fi
 
-# 6. 同步docs目录
+# 6. 运行Pew Research爬虫
 echo ""
-echo "📂 [6/6] 同步 docs 目录..."
+echo "📰 [6/6] 运行 Pew Research 爬虫..."
+python3 sources/pewresearch/crawler.py
+if [ $? -eq 0 ]; then
+    echo "✅ Pew Research 完成"
+else
+    echo "⚠️  Pew Research 失败，继续..."
+fi
+
+# 7. 同步docs目录
+echo ""
+echo "📂 [7/7] 同步 docs 目录..."
 cp index.html docs/
 cp -r data/ docs/
 echo "✅ docs目录已同步"
