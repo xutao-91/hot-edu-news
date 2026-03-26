@@ -12,6 +12,7 @@ import os
 import re
 
 WHITEHOUSE_URL = "https://www.whitehouse.gov/news/"
+RAW_DIR = "data/raw/whitehouse"
 
 def parse_date(date_str):
     """解析日期字符串为datetime对象"""
@@ -113,24 +114,23 @@ def crawl_whitehouse():
         
         print(f"\n📊 过滤结果: {len(articles)} 篇在7天内，跳过 {skipped_count} 篇")
         
-        # 保存
-        os.makedirs('data/whitehouse', exist_ok=True)
+        # 保存到 raw 目录
+        os.makedirs(RAW_DIR, exist_ok=True)
         
         output = {
             'source': 'The White House',
             'source_url': WHITEHOUSE_URL,
             'crawled_at': datetime.now().isoformat(),
-            'filter_days': 7,
             'total_news': len(articles),
             'news': articles
         }
         
-        filename = f"data/whitehouse/{datetime.now().strftime('%Y-%m-%d')}.json"
+        filename = f"{RAW_DIR}/{datetime.now().strftime('%Y-%m-%d')}.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
         
-        print(f"\n✅ 已保存: {filename}")
-        print(f"📊 共 {len(articles)} 条新闻（最近7天）")
+        print(f"\n✅ 原始数据已保存: {filename}")
+        print(f"📊 共 {len(articles)} 条新闻")
         
         return output
         

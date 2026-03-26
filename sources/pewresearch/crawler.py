@@ -12,6 +12,7 @@ import os
 import re
 
 PEW_URL = "https://www.pewresearch.org/publications/"
+RAW_DIR = "data/raw/pewresearch"
 
 def parse_date(date_str):
     """解析日期字符串"""
@@ -173,24 +174,23 @@ def crawl_pewresearch():
         
         print(f"\n📊 过滤结果: {len(articles)} 篇在7天内，跳过 {skipped_count} 篇")
         
-        # 保存结果
-        os.makedirs('data/pewresearch', exist_ok=True)
+        # 保存到 raw 目录
+        os.makedirs(RAW_DIR, exist_ok=True)
         
         output = {
             'source': 'Pew Research Center',
             'source_url': PEW_URL,
             'crawled_at': datetime.now().isoformat(),
-            'filter_days': 7,
             'total_news': len(articles),
             'news': articles
         }
         
-        filename = f"data/pewresearch/{datetime.now().strftime('%Y-%m-%d')}.json"
+        filename = f"{RAW_DIR}/{datetime.now().strftime('%Y-%m-%d')}.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
         
-        print(f"\n✅ 已保存: {filename}")
-        print(f"📊 共 {len(articles)} 条新闻（最近7天）")
+        print(f"\n✅ 原始数据已保存: {filename}")
+        print(f"📊 共 {len(articles)} 条新闻")
         
         return output
         

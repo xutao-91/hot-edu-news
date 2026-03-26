@@ -12,6 +12,7 @@ import os
 import re
 
 ACE_URL = "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))"
+RAW_DIR = "data/raw/ace"
 
 def parse_date(date_str):
     """解析日期字符串为datetime对象"""
@@ -127,24 +128,23 @@ def crawl_ace():
         print(f"   跳过 {skipped_count} 篇（超过7天）")
         print(f"   跳过 {podcast_count} 篇（播客）")
         
-        # 保存
-        os.makedirs('data/ace', exist_ok=True)
+        # 保存到 raw 目录
+        os.makedirs(RAW_DIR, exist_ok=True)
         
         output = {
             'source': 'ACE - American Council on Education',
             'source_url': ACE_URL,
             'crawled_at': datetime.now().isoformat(),
-            'filter_days': 7,
             'total_news': len(articles),
             'news': articles
         }
         
-        filename = f"data/ace/{datetime.now().strftime('%Y-%m-%d')}.json"
+        filename = f"{RAW_DIR}/{datetime.now().strftime('%Y-%m-%d')}.json"
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(output, f, indent=2, ensure_ascii=False)
         
-        print(f"\n✅ 已保存: {filename}")
-        print(f"📊 共 {len(articles)} 条新闻（最近7天）")
+        print(f"\n✅ 原始数据已保存: {filename}")
+        print(f"📊 共 {len(articles)} 条新闻")
         
         return output
         

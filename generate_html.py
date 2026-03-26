@@ -25,14 +25,14 @@ def is_within_days(date_str, days=7):
         return True  # 解析失败默认保留
 
 def generate_html():
-    # 自动找到最新的数据文件
+    # 自动找到最新的翻译后数据文件
     sources = {
-        'brookings': get_latest_json('data/brookings'),
-        'edgov': get_latest_json('data/edgov'),
-        'whitehouse': get_latest_json('data/whitehouse'),
-        'ace': get_latest_json('data/ace'),
-        'nsf_ncses': get_latest_json('data/nsf_ncses'),
-        'pewresearch': get_latest_json('data/pewresearch')
+        'brookings': get_latest_json('data/translated/brookings'),
+        'edgov': get_latest_json('data/translated/edgov'),
+        'whitehouse': get_latest_json('data/translated/whitehouse'),
+        'ace': get_latest_json('data/translated/ace'),
+        'nsf_ncses': get_latest_json('data/translated/nsf_ncses'),
+        'pewresearch': get_latest_json('data/translated/pewresearch')
     }
 
     data = {}
