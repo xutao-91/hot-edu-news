@@ -3,31 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>热点教育信息 - 按日期聚合</title>
+    <title>热点教育信息 - 双栏布局</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         body { 
             font-family: "Microsoft YaHei", "SimSun", serif; 
-            max-width: 900px; 
-            margin: 0 auto; 
+            margin: 0;
             padding: 20px;
-            background: #f8f9fa;
-            line-height: 1.8;
+            background: #f0f2f5;
+            line-height: 1.7;
         }
         
         /* 头部 */
         .header { 
             background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
             color: white; 
-            padding: 30px 25px; 
+            padding: 25px 30px; 
             border-radius: 12px;
-            margin-bottom: 30px;
+            margin-bottom: 25px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
         }
         .header h1 { 
-            font-size: 28px; 
-            margin-bottom: 10px;
-            letter-spacing: 1px;
+            font-size: 26px; 
+            margin-bottom: 12px;
         }
         .header-stats {
             font-size: 14px;
@@ -42,86 +43,130 @@
             border-radius: 20px;
         }
         
-        /* 日期分组 */
-        .date-section {
-            margin-bottom: 35px;
+        /* 主内容区 - 两栏布局 */
+        .main-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
         }
+        
+        @media (max-width: 1000px) {
+            .main-container {
+                grid-template-columns: 1fr;
+            }
+        }
+        
+        /* 日期区块 */
+        .date-block {
+            background: white;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        
+        .date-block.today {
+            border: 2px solid #e74c3c;
+        }
+        
         .date-header {
             display: flex;
             align-items: center;
-            gap: 12px;
-            margin-bottom: 20px;
-            padding-bottom: 10px;
-            border-bottom: 2px solid #dee2e6;
-        }
-        .date-badge {
-            background: #495057;
-            color: white;
-            padding: 6px 16px;
-            border-radius: 20px;
-            font-size: 15px;
-            font-weight: bold;
-        }
-        .date-count {
-            color: #6c757d;
-            font-size: 14px;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            padding-bottom: 12px;
+            border-bottom: 2px solid #e9ecef;
         }
         
-        /* 文章卡片 */
-        .article { 
-            background: white;
-            border-left: 4px solid #dee2e6;
-            padding: 20px 25px; 
-            margin: 12px 0; 
-            border-radius: 0 8px 8px 0;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-            transition: transform 0.2s, box-shadow 0.2s;
+        .date-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
         }
+        
+        .date-block.today .date-title {
+            color: #e74c3c;
+        }
+        
+        .date-count {
+            background: #6c757d;
+            color: white;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 13px;
+        }
+        
+        /* 文章卡片 - 紧凑版 */
+        .article {
+            background: #f8f9fa;
+            border-left: 4px solid #dee2e6;
+            padding: 14px 16px;
+            margin: 10px 0;
+            border-radius: 0 8px 8px 0;
+            transition: all 0.2s;
+        }
+        
         .article:hover {
-            transform: translateX(4px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            background: #e9ecef;
+            transform: translateX(3px);
         }
         
         /* 来源标签 */
         .source-tag {
             display: inline-flex;
             align-items: center;
-            gap: 6px;
-            padding: 3px 10px;
+            gap: 4px;
+            padding: 2px 8px;
             border-radius: 4px;
-            font-size: 12px;
+            font-size: 11px;
             font-weight: bold;
             color: white;
-            margin-bottom: 10px;
+            margin-bottom: 8px;
         }
         
-        /* 文章头部 */
-        .article-header {
-            margin-bottom: 12px;
+        /* 标题区域 */
+        .article-title-wrap {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
+            margin-bottom: 6px;
         }
+        
         .article-title {
-            font-size: 17px;
+            font-size: 15px;
             font-weight: bold;
             color: #212529;
             line-height: 1.5;
+            flex: 1;
         }
+        
+        .new-badge {
+            background: #e74c3c;
+            color: white;
+            font-size: 10px;
+            padding: 2px 6px;
+            border-radius: 4px;
+            flex-shrink: 0;
+            white-space: nowrap;
+        }
+        
         .article-subtitle {
-            font-size: 13px;
-            color: #6c757d;
-            margin-top: 6px;
+            font-size: 12px;
+            color: #868e96;
             font-style: italic;
+            margin-bottom: 8px;
+            line-height: 1.4;
         }
         
         /* 摘要 */
         .article-summary {
             color: #495057;
-            font-size: 14.5px;
-            line-height: 1.9;
+            font-size: 13px;
+            line-height: 1.7;
             text-align: justify;
-            margin: 15px 0;
-            padding: 15px;
-            background: #f8f9fa;
-            border-radius: 6px;
+            margin: 8px 0;
         }
         
         /* 底部 */
@@ -129,50 +174,36 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-top: 15px;
-            padding-top: 12px;
-            border-top: 1px dashed #dee2e6;
+            margin-top: 10px;
+            padding-top: 8px;
+            border-top: 1px dashed #ced4da;
         }
+        
         .article-link {
             color: #495057;
             text-decoration: none;
-            font-size: 13px;
-            display: flex;
-            align-items: center;
-            gap: 5px;
+            font-size: 12px;
         }
+        
         .article-link:hover {
             color: #212529;
         }
+        
         .article-meta {
             color: #adb5bd;
-            font-size: 12px;
+            font-size: 11px;
         }
         
         /* 页脚 */
         .footer {
             text-align: center;
-            margin-top: 40px;
-            padding: 25px;
+            margin-top: 30px;
+            padding: 20px;
             color: #6c757d;
             font-size: 13px;
-            border-top: 1px solid #dee2e6;
-        }
-        
-        /* 今日高亮 */
-        .date-section.today .date-badge {
-            background: #dc3545;
-        }
-        .article.is-new {
-            border-left-width: 5px;
-        }
-        .new-indicator {
-            background: #dc3545;
-            color: white;
-            font-size: 11px;
-            padding: 2px 8px;
-            border-radius: 10px;
-            margin-left: 10px;
+            max-width: 1400px;
+            margin-left: auto;
+            margin-right: auto;
         }
     </style>
 </head>
@@ -185,525 +216,564 @@
             <span>🔢 6 个来源</span>
         </div>
     </div>
+    
+    <div class="main-container">
+        <div class="column left">
 
-    <div class="date-section ">
-        <div class="date-header">
-            <span class="date-badge">2026年03月25日</span>
-            <span class="date-count">8 篇文章</span>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
+        <div class="date-block ">
+            <div class="date-header">
+                <span class="date-title">2026年03月25日</span>
+                <span class="date-count">8 篇</span>
             </div>
-            <div class="article-header">
-                <div class="article-title">教育部公民教育高级顾问出席堪萨斯州'历史闪耀'活动</div>
+
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">教育部公民教育高级顾问出席堪萨斯州'历史闪耀'活动</span>
+                    
+                </div>
                 <div class="article-subtitle">U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at 'History Rocks!' Event in Kansas</div>
+                <div class="article-summary">美国教育部公民教育高级顾问凯蒂·戈尔卡近日出席堪萨斯州'历史闪耀'活动，就公民教育重要性发表演讲。戈尔卡强调，培养学生对美国历史和宪政制度的理解是教育的重要使命，学校应加强公民教育课程建设，帮助学生成为负责任的公民。此次活动系特朗普政府推动公民教育系列举措的一部分，体现了联邦政府对强化国民教育的重视。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-kansas" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">civics</span>
+                </div>
             </div>
-            <div class="article-summary">美国教育部公民教育高级顾问凯蒂·戈尔卡近日出席堪萨斯州'历史闪耀'活动，就公民教育重要性发表演讲。戈尔卡强调，培养学生对美国历史和宪政制度的理解是教育的重要使命，学校应加强公民教育课程建设，帮助学生成为负责任的公民。此次活动系特朗普政府推动公民教育系列举措的一部分，体现了联邦政府对强化国民教育的重视。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-kansas" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: civics</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
-            </div>
-            <div class="article-header">
-                <div class="article-title">高等教育政策成果：降低学费成本、加速劳动力准备</div>
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">高等教育政策成果：降低学费成本、加速劳动力准备</span>
+                    
+                </div>
                 <div class="article-subtitle">FACT SHEET: Victories for Higher Education, Making College More Affordable and Expediting Workforce Readiness</div>
+                <div class="article-summary">美国教育部发布情况说明书，总结近期在高等教育领域取得的政策成果。文件指出，通过简化学生资助申请流程、扩大职业培训项目、加强与产业界合作等举措，有效降低了高等教育成本，提升了学生就业准备度。教育部表示，将继续推动高等教育改革，确保更多美国青年能够负担得起大学教育并获得市场所需技能。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/fact-sheet-victories-higher-education-making-college-more-affordable-and-expediting-workforce-readiness" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">higher_ed</span>
+                </div>
             </div>
-            <div class="article-summary">美国教育部发布情况说明书，总结近期在高等教育领域取得的政策成果。文件指出，通过简化学生资助申请流程、扩大职业培训项目、加强与产业界合作等举措，有效降低了高等教育成本，提升了学生就业准备度。教育部表示，将继续推动高等教育改革，确保更多美国青年能够负担得起大学教育并获得市场所需技能。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/fact-sheet-victories-higher-education-making-college-more-affordable-and-expediting-workforce-readiness" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: higher_ed</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
-            </div>
-            <div class="article-header">
-                <div class="article-title">麦克马洪部长出席纽波特纽斯造船厂学徒学校毕业典礼并发表演讲</div>
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">麦克马洪部长出席纽波特纽斯造船厂学徒学校毕业典礼并发表演讲</span>
+                    
+                </div>
                 <div class="article-subtitle">Secretary McMahon's Commencement Address for The Apprentice School at Newport News Shipbuilding</div>
+                <div class="article-summary">美国教育部长琳达·麦克马洪今日出席纽波特纽斯造船厂学徒学校毕业典礼并发表演讲。麦克马洪部长在致辞中强调了职业教育和学徒培训对美国制造业振兴的重要意义，指出培养高技能产业工人是增强国家竞争力的关键举措。她表示，特朗普政府将持续推动职业教育改革，扩大学徒制培训规模，为美国青年提供更多元化的成才路径。此次演讲体现了联邦政府对职业教育的高度重视，值得我有关方面关注美国职业教育政策走向。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/speech/secretary-mcmahons-commencement-address-apprentice-school-newport-news-shipbuilding" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">k12</span>
+                </div>
             </div>
-            <div class="article-summary">美国教育部长琳达·麦克马洪今日出席纽波特纽斯造船厂学徒学校毕业典礼并发表演讲。麦克马洪部长在致辞中强调了职业教育和学徒培训对美国制造业振兴的重要意义，指出培养高技能产业工人是增强国家竞争力的关键举措。她表示，特朗普政府将持续推动职业教育改革，扩大学徒制培训规模，为美国青年提供更多元化的成才路径。此次演讲体现了联邦政府对职业教育的高度重视，值得我有关方面关注美国职业教育政策走向。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/speech/secretary-mcmahons-commencement-address-apprentice-school-newport-news-shipbuilding" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: k12</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统宣布任命总统科技顾问委员会新成员</div>
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统宣布任命总统科技顾问委员会新成员</span>
+                    
+                </div>
                 <div class="article-subtitle">President Trump Announces Appointments to President's Council of Advisors on Science and Technology</div>
+                <div class="article-summary">美国总统特朗普今日宣布任命多位知名科学家和工程师加入总统科技顾问委员会（PCAST）。新任命的成员涵盖人工智能、量子计算、生物技术等前沿领域，体现了政府对保持美国科技领先地位的高度重视。特朗普总统表示，这些杰出专家将为政府制定科技政策提供重要咨询，确保美国在全球科技竞争中保持优势。此举系特朗普政府强化科技治理、推动关键技术发展的重要部署，值得持续关注其后续政策走向。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/articles/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Articles</span>
+                </div>
             </div>
-            <div class="article-summary">美国总统特朗普今日宣布任命多位知名科学家和工程师加入总统科技顾问委员会（PCAST）。新任命的成员涵盖人工智能、量子计算、生物技术等前沿领域，体现了政府对保持美国科技领先地位的高度重视。特朗普总统表示，这些杰出专家将为政府制定科技政策提供重要咨询，确保美国在全球科技竞争中保持优势。此举系特朗普政府强化科技治理、推动关键技术发展的重要部署，值得持续关注其后续政策走向。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/articles/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Articles</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">全球同性婚姻立法进展：荷兰开创先河25周年</div>
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">全球同性婚姻立法进展：荷兰开创先河25周年</span>
+                    
+                </div>
                 <div class="article-subtitle">Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it</div>
+                <div class="article-summary">皮尤研究中心发布最新调查，回顾荷兰成为全球首个承认同性婚姻国家25周年以来的全球立法进展。数据显示，目前已有近40个国家和地区立法承认同性婚姻，但各国普及程度和公众态度差异显著。报告分析了不同地区在婚姻平权方面的政策取向和社会接受度，反映了全球范围内对这一议题的多元态度。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/short-reads/2026/03/25/key-facts-about-same-sex-marriage-around-the-world-25-years-after-the-netherlands-legalized-it/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">demographics</span>
+                </div>
             </div>
-            <div class="article-summary">皮尤研究中心发布最新调查，回顾荷兰成为全球首个承认同性婚姻国家25周年以来的全球立法进展。数据显示，目前已有近40个国家和地区立法承认同性婚姻，但各国普及程度和公众态度差异显著。报告分析了不同地区在婚姻平权方面的政策取向和社会接受度，反映了全球范围内对这一议题的多元态度。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/short-reads/2026/03/25/key-facts-about-same-sex-marriage-around-the-world-25-years-after-the-netherlands-legalized-it/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: demographics</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">多数美国民众反对对伊朗采取军事行动</div>
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">多数美国民众反对对伊朗采取军事行动</span>
+                    
+                </div>
                 <div class="article-subtitle">Americans Broadly Disapprove of U.S. Military Action in Iran</div>
+                <div class="article-summary">皮尤研究中心最新民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满。调查显示，在此议题上党派分歧明显，民主党与共和党支持者立场差异悬殊。该民调反映了当前美国国内对中东政策的民意走向，值得持续关注其外交政策调整动向。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">politics</span>
+                </div>
             </div>
-            <div class="article-summary">皮尤研究中心最新民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满。调查显示，在此议题上党派分歧明显，民主党与共和党支持者立场差异悬殊。该民调反映了当前美国国内对中东政策的民意走向，值得持续关注其外交政策调整动向。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: politics</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国建国250周年：过去50年的社会变迁</div>
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国建国250周年：过去50年的社会变迁</span>
+                    
+                </div>
                 <div class="article-subtitle">The United States at 250: How the Country Has Changed in the Past 50 Years</div>
+                <div class="article-summary">皮尤研究中心发布数据专题，基于美国人口普查局50年数据，系统梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态和经济状况等方面的深刻变化。报告指出，美国正经历人口老龄化、家庭结构多元化、收入差距扩大等重大社会转型，这些趋势对理解当前美国政治生态和社会治理挑战具有重要参考价值。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/social-trends/2026/03/25/the-united-states-at-250-how-the-country-has-changed-in-the-past-50-years/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">demographics</span>
+                </div>
             </div>
-            <div class="article-summary">皮尤研究中心发布数据专题，基于美国人口普查局50年数据，系统梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态和经济状况等方面的深刻变化。报告指出，美国正经历人口老龄化、家庭结构多元化、收入差距扩大等重大社会转型，这些趋势对理解当前美国政治生态和社会治理挑战具有重要参考价值。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/social-trends/2026/03/25/the-united-states-at-250-how-the-country-has-changed-in-the-past-50-years/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: demographics</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国民众对种族多元化的态度调查</div>
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国民众对种族多元化的态度调查</span>
+                    
+                </div>
                 <div class="article-subtitle">How Americans view racial diversity ahead of the country's 250th anniversary</div>
-            </div>
-            <div class="article-summary">皮尤研究中心最新调查显示，75%的美国成年人认为种族多元化对国家是好事，但民主党与共和党支持者对多元化如何影响美国文化存在显著分歧。在建国250周年之际，该调查反映了美国社会对身份认同和文化认同的深层张力，对理解当前美国社会撕裂现象具有重要参考价值。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/short-reads/2026/03/25/how-americans-value-racial-diversity-ahead-of-the-countrys-250th-anniversary/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: demographics</span>
-            </div>
-        </div>
-    </div>
-
-    <div class="date-section ">
-        <div class="date-header">
-            <span class="date-badge">2026年03月24日</span>
-            <span class="date-count">8 篇文章</span>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国教育部民权办公室就第九条规定向圣何塞州立大学发出执法预警</div>
-                <div class="article-subtitle">U.S. Department of Education's Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance</div>
-            </div>
-            <div class="article-summary">美国教育部民权办公室日前向圣何塞州立大学发出第九条规定执法预警函，指出该校在遵守联邦性别平等法规方面存在严重问题。教育部表示，经调查发现该校未能有效保护女性运动员权益，在体育资源配置、奖学金分配等方面存在性别歧视现象。民权办公室要求该校在规定期限内提交整改方案，否则将面临执法措施。此举反映了联邦政府强化高等教育机构民权合规监管的决心，对我高校开展性别平等工作具有参照意义。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: civil_rights</span>
+                <div class="article-summary">皮尤研究中心最新调查显示，75%的美国成年人认为种族多元化对国家是好事，但民主党与共和党支持者对多元化如何影响美国文化存在显著分歧。在建国250周年之际，该调查反映了美国社会对身份认同和文化认同的深层张力，对理解当前美国社会撕裂现象具有重要参考价值。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/short-reads/2026/03/25/how-americans-value-racial-diversity-ahead-of-the-countrys-250th-anniversary/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">demographics</span>
+                </div>
             </div>
         </div>
 
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
+        <div class="date-block ">
+            <div class="date-header">
+                <span class="date-title">2026年03月23日</span>
+                <span class="date-count">6 篇</span>
             </div>
-            <div class="article-header">
-                <div class="article-title">美国教育部官员赴田纳西州和密苏里州出席'历史闪耀'公民教育活动</div>
-                <div class="article-subtitle">U.S. Department of Education Officials and Education Leaders Highlight Civics Education at 'History Rocks!' Events in Tennessee and Missouri</div>
-            </div>
-            <div class="article-summary">美国教育部高级官员近日赴田纳西州和密苏里州出席'历史闪耀'系列公民教育活动。活动期间，教育部官员与地方教育界人士就加强中小学公民教育、培养学生宪政意识等议题深入交流。官员强调，公民教育是培养负责任公民的基础工程，各校应创新教学方式，激发学生对美国历史和民主制度的兴趣。此次活动系特朗普政府推动公民教育系列举措的一部分，反映其重塑美国公民教育的政策取向。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: civics</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">马克韦恩·马林部长表示将全力落实特朗普总统施政议程</div>
-                <div class="article-subtitle">Secretary Markwayne Mullin Is Ready to Deliver on President Trump's Agenda</div>
-            </div>
-            <div class="article-summary">白宫今日发布消息称，新任内阁部长马克韦恩·马林表示将全力落实特朗普总统的施政议程。马林部长强调，将严格执行总统指示，推动各项政策目标如期实现。他表示，当前美国面临诸多挑战，需要政府各部门协同配合，以高效务实的作风服务美国人民。此次表态体现了特朗普政府内部团结一致、推进改革的政策基调，反映了其强化行政执行力的施政特点。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Articles</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统延长联邦应急管理局审查委员会任期</div>
-                <div class="article-subtitle">Further Continuance of the Federal Emergency Management Agency Review Council</div>
-            </div>
-            <div class="article-summary">美国总统特朗普签署行政命令，延长联邦应急管理局（FEMA）审查委员会的任期。该委员会负责评估FEMA的运作效率和政策执行情况，向总统提供改进建议。特朗普总统表示，延长委员会任期有助于深化对联邦应急管理工作的监督，提升灾害应对能力。此举体现了特朗普政府强化联邦机构问责、提高行政效能的改革取向。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Presidential Actions</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统发表希腊独立日贺词</div>
-                <div class="article-subtitle">Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026</div>
-            </div>
-            <div class="article-summary">美国总统特朗普发表公告，宣布3月25日为希腊独立日全国庆祝日。总统在公告中回顾了希腊作为西方民主发源地的重要历史地位，强调美希两国在民主价值观上的深厚纽带。他表示，希腊独立日不仅是希腊人民的节日，也是美国人民共同庆祝的日子，两国友谊历经百年风雨仍历久弥坚。此举体现了美国对传统盟友关系的重视及对民主价值观的强调。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Presidential Actions</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统发表全国农业日致辞</div>
-                <div class="article-subtitle">National Agriculture Day, 2026</div>
-            </div>
-            <div class="article-summary">美国总统特朗普发表全国农业日致辞，向全美农民和农业工作者致敬。总统在致辞中高度赞扬了美国农业对国家经济和安全的重要贡献，强调农业是美国的重要战略资源。他表示，政府将继续支持农业发展，保护农民利益，确保美国农业在全球保持竞争力。此举体现了特朗普政府对农业传统和农民群体的重视。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Presidential Actions</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">第一夫人梅拉尼娅·特朗普启动'共创未来'倡议 45国出席首届联盟峰会</div>
-                <div class="article-subtitle">First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit</div>
-            </div>
-            <div class="article-summary">第一夫人梅拉尼娅·特朗普近日在白宫宣布启动'共创未来'全球倡议，来自45个国家的代表出席了首届联盟峰会。该倡议聚焦儿童福祉和青少年发展，旨在促进国际社会在儿童保护、教育公平、心理健康等领域的合作。第一夫人强调，儿童是国家的未来，国际社会应携手为下一代创造更好的成长环境。此次峰会彰显了美国在国际儿童权益保护领域的领导作用，对全球教育合作具有积极意义。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Briefings & Statements</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国民众突发新闻获取渠道调查</div>
-                <div class="article-subtitle">Where do Americans turn first for information about breaking news?</div>
-            </div>
-            <div class="article-summary">皮尤研究中心调查显示，当突发新闻事件发生时，36%的美国成年人表示会首选其信赖的新闻机构获取信息，另有相当比例民众转向社交媒体平台。报告指出，数字化时代美国民众的新闻消费习惯正在深刻变化，传统媒体与新兴平台的竞争格局持续演变，对理解美国舆论生态和信息传播机制具有参考意义。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: technology</span>
-            </div>
-        </div>
-    </div>
-
-    <div class="date-section ">
-        <div class="date-header">
-            <span class="date-badge">2026年03月23日</span>
-            <span class="date-count">6 篇文章</span>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #2c5aa0;">
-            <div class="source-tag" style="background: #2c5aa0;">
-                🔥 布鲁金斯学会
-            </div>
-            <div class="article-header">
-                <div class="article-title">调查显示教师工作条件显著恶化：应对之策何在</div>
+            <div class="article" style="border-left-color: #2c5aa0;">
+                <div class="source-tag" style="background: #2c5aa0;">
+                    🔥 布鲁金斯学会
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">调查显示教师工作条件显著恶化：应对之策何在</span>
+                    
+                </div>
                 <div class="article-subtitle">Survey shows alarming drop in working conditions for teachers: What are we doing about it?</div>
+                <div class="article-summary">布鲁金斯学会日前发布最新调查报告，揭示了美国教师工作条件持续恶化的严峻现状。报告指出，受新冠疫情影响，教师面临的职业压力显著上升，工作满意度创历史新低。调查显示，超过半数受访教师表示工作压力过大，职业倦怠现象普遍，导致师资流失率持续攀升。报告深入分析了造成这一困境的多重因素，包括薪酬待遇偏低、行政负担过重、学生行为管理困难以及缺乏专业支持等。报告建议教育主管部门应采取综合性措施，切实改善教师工作环境，提高薪酬福利待遇，简化行政程序，加强心理健康支持，以稳定教师队伍，保障教育质量。</div>
+                <div class="article-footer">
+                    <a href="https://www.brookings.edu/articles/survey-shows-alarming-drop-in-working-conditions-for-teachers-what-are-we-doing-about-it/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">k12</span>
+                </div>
             </div>
-            <div class="article-summary">布鲁金斯学会日前发布最新调查报告，揭示了美国教师工作条件持续恶化的严峻现状。报告指出，受新冠疫情影响，教师面临的职业压力显著上升，工作满意度创历史新低。调查显示，超过半数受访教师表示工作压力过大，职业倦怠现象普遍，导致师资流失率持续攀升。报告深入分析了造成这一困境的多重因素，包括薪酬待遇偏低、行政负担过重、学生行为管理困难以及缺乏专业支持等。报告建议教育主管部门应采取综合性措施，切实改善教师工作环境，提高薪酬福利待遇，简化行政程序，加强心理健康支持，以稳定教师队伍，保障教育质量。</div>
-            <div class="article-footer">
-                <a href="https://www.brookings.edu/articles/survey-shows-alarming-drop-in-working-conditions-for-teachers-what-are-we-doing-about-it/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: k12</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国教育部民权办公室对哈佛大学开启两项新的歧视调查</div>
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国教育部民权办公室对哈佛大学开启两项新的歧视调查</span>
+                    
+                </div>
                 <div class="article-subtitle">U.S. Department of Education's Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus</div>
+                <div class="article-summary">美国教育部民权办公室日前宣布，针对哈佛大学校园内持续存在的歧视问题启动两项新的调查。调查显示，该校在招生录取、奖学金评定及校园生活等方面涉嫌对特定群体学生存在系统性歧视行为。教育部表示，将严格依据《民权法》等相关法律法规，深入调查有关指控，确保所有学生在高等教育阶段享有平等的受教育权利。此举体现了联邦政府维护教育公平的坚定决心，对全国高等院校具有重要警示意义。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">civil_rights</span>
+                </div>
             </div>
-            <div class="article-summary">美国教育部民权办公室日前宣布，针对哈佛大学校园内持续存在的歧视问题启动两项新的调查。调查显示，该校在招生录取、奖学金评定及校园生活等方面涉嫌对特定群体学生存在系统性歧视行为。教育部表示，将严格依据《民权法》等相关法律法规，深入调查有关指控，确保所有学生在高等教育阶段享有平等的受教育权利。此举体现了联邦政府维护教育公平的坚定决心，对全国高等院校具有重要警示意义。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: civil_rights</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统就帕特里克·亨利'不自由毋宁死'演讲周年发表致辞</div>
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统就帕特里克·亨利'不自由毋宁死'演讲周年发表致辞</span>
+                    
+                </div>
                 <div class="article-subtitle">Presidential Message on the Anniversary of Patrick Henry's 'Give Me Liberty, Or Give Me Death!' Speech</div>
+                <div class="article-summary">美国总统特朗普日前发表致辞，纪念美国独立战争时期著名政治家帕特里克·亨利发表'不自由毋宁死'演讲250周年。致辞强调，亨利的演讲至今仍激励着美国人民捍卫自由、反抗暴政的精神。总统表示，当前美国面临着国内外诸多挑战，更需要传承和弘扬这种爱国精神，维护美国的核心价值观。致辞呼吁全体国民团结一致，共同应对威胁美国国家安全和公民自由的各项挑战，确保美国继续作为自由世界的领袖。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Briefings & Statements</span>
+                </div>
             </div>
-            <div class="article-summary">美国总统特朗普日前发表致辞，纪念美国独立战争时期著名政治家帕特里克·亨利发表'不自由毋宁死'演讲250周年。致辞强调，亨利的演讲至今仍激励着美国人民捍卫自由、反抗暴政的精神。总统表示，当前美国面临着国内外诸多挑战，更需要传承和弘扬这种爱国精神，维护美国的核心价值观。致辞呼吁全体国民团结一致，共同应对威胁美国国家安全和公民自由的各项挑战，确保美国继续作为自由世界的领袖。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Briefings & Statements</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统'孟菲斯安全特遣队'打击犯罪取得重大成果</div>
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统'孟菲斯安全特遣队'打击犯罪取得重大成果</span>
+                    
+                </div>
                 <div class="article-subtitle">President Trump's 'Memphis Safe Task Force' Delivers Crushing Blow to Crime</div>
+                <div class="article-summary">白宫今日宣布，特朗普总统部署的'孟菲斯安全特遣队'在打击当地犯罪活动中取得重大成果。特遣队由联邦执法部门与当地警方联合组成，针对孟菲斯市高发犯罪区域开展专项行动。据报道，行动开展以来，当地暴力犯罪率显著下降，多个贩毒团伙被成功打掉。特朗普总统表示，这一成功经验将推广至其他犯罪高发城市，展现联邦政府维护社会治安的决心和能力。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/articles/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Articles</span>
+                </div>
             </div>
-            <div class="article-summary">白宫今日宣布，特朗普总统部署的'孟菲斯安全特遣队'在打击当地犯罪活动中取得重大成果。特遣队由联邦执法部门与当地警方联合组成，针对孟菲斯市高发犯罪区域开展专项行动。据报道，行动开展以来，当地暴力犯罪率显著下降，多个贩毒团伙被成功打掉。特朗普总统表示，这一成功经验将推广至其他犯罪高发城市，展现联邦政府维护社会治安的决心和能力。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/articles/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Articles</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #003366;">
-            <div class="source-tag" style="background: #003366;">
-                🎓 ACE教育委员会
-            </div>
-            <div class="article-header">
-                <div class="article-title">ACE联合多协会呼吁撤销联邦资助DEI认证要求</div>
+            <div class="article" style="border-left-color: #003366;">
+                <div class="source-tag" style="background: #003366;">
+                    🎓 ACE教育委员会
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">ACE联合多协会呼吁撤销联邦资助DEI认证要求</span>
+                    
+                </div>
                 <div class="article-subtitle">ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on 'Unlawful DEI' and Other Issues</div>
+                <div class="article-summary">美国教育委员会（ACE）联合其他高等教育协会，近日致函联邦总务管理局（GSA），呼吁撤销一项关于'非法多元化、公平与包容（DEI）'的拟议认证要求。特朗普政府此前提议，所有接受联邦资助的机构须认证其不存在'非法DEI项目'，方可继续获得联邦资金。ACE表示，该要求界定模糊、标准不清，将给高校合规带来重大不确定性，可能严重影响正常教学科研活动。ACE强调，高校应继续致力于营造包容性校园环境，同时呼吁政府明确合规标准，避免对高等教育发展造成不必要的干扰。</div>
+                <div class="article-footer">
+                    <a href="https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">federal_policy</span>
+                </div>
             </div>
-            <div class="article-summary">美国教育委员会（ACE）联合其他高等教育协会，近日致函联邦总务管理局（GSA），呼吁撤销一项关于'非法多元化、公平与包容（DEI）'的拟议认证要求。特朗普政府此前提议，所有接受联邦资助的机构须认证其不存在'非法DEI项目'，方可继续获得联邦资金。ACE表示，该要求界定模糊、标准不清，将给高校合规带来重大不确定性，可能严重影响正常教学科研活动。ACE强调，高校应继续致力于营造包容性校园环境，同时呼吁政府明确合规标准，避免对高等教育发展造成不必要的干扰。</div>
-            <div class="article-footer">
-                <a href="https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: federal_policy</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国民众对安乐死道德观念调查</div>
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国民众对安乐死道德观念调查</span>
+                    
+                </div>
                 <div class="article-subtitle">About 6 in 10 Americans don't have moral objections to medical aid in dying</div>
-            </div>
-            <div class="article-summary">皮尤研究中心调查显示，约六成美国民众对医疗辅助死亡没有道德上的反对意见，但党派分歧明显：共和党支持者认为医师协助死亡在道德上是错误的比例为48%，是民主党支持者（23%）的两倍多。该调查反映了美国在生命伦理议题上的社会态度分化，对理解美国社会价值观变迁具有参考价值。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: social_trends</span>
-            </div>
-        </div>
-    </div>
-
-    <div class="date-section ">
-        <div class="date-header">
-            <span class="date-badge">2026年03月20日</span>
-            <span class="date-count">6 篇文章</span>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #2c5aa0;">
-            <div class="source-tag" style="background: #2c5aa0;">
-                🔥 布鲁金斯学会
-            </div>
-            <div class="article-header">
-                <div class="article-title">非洲东部和南部教育工作者将气候挑战转化为行动</div>
-                <div class="article-subtitle">Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action</div>
-            </div>
-            <div class="article-summary">布鲁金斯学会近日发布研究报告，深入分析了非洲东部和南部地区教育工作者在应对气候变化挑战中的创新实践。报告指出，面对极端天气频发、基础设施薄弱等严峻形势，当地教育工作者展现出非凡的韧性与创造力，通过灵活调整教学安排、开发本土化课程资源、加强社区协作等方式，有效保障了教育连续性。报告强调，国际社会应加大对发展中国家教育领域的支持力度，帮助其提升应对气候变化的能力。同时，报告建议各国政府将气候教育纳入国民教育体系，培养具备环境意识和适应能力的未来人才，为全球可持续发展贡献力量。</div>
-            <div class="article-footer">
-                <a href="https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: teacher</span>
+                <div class="article-summary">皮尤研究中心调查显示，约六成美国民众对医疗辅助死亡没有道德上的反对意见，但党派分歧明显：共和党支持者认为医师协助死亡在道德上是错误的比例为48%，是民主党支持者（23%）的两倍多。该调查反映了美国在生命伦理议题上的社会态度分化，对理解美国社会价值观变迁具有参考价值。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">social_trends</span>
+                </div>
             </div>
         </div>
 
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
+        <div class="date-block ">
+            <div class="date-header">
+                <span class="date-title">2026年03月19日</span>
+                <span class="date-count">4 篇</span>
             </div>
-            <div class="article-header">
-                <div class="article-title">美国教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'公民教育活动</div>
-                <div class="article-subtitle">U.S. Department of Education Leaders Highlight Civics Education at 'History Rocks!' Events in Vermont and West Virginia</div>
-            </div>
-            <div class="article-summary">美国教育部高级官员近日赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'系列活动，就公民教育的重要性发表演讲。活动旨在通过创新教学方式，激发中小学生对美国历史和宪政制度的兴趣，培养学生的公民责任感。教育部领导强调，公民教育是培养负责任公民的基础，各地学校应加强相关课程建设，帮助学生深入理解美国民主制度的核心理念。联邦政府将继续支持各州开展公民教育项目，为国家未来发展储备人才。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: civics</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">特朗普总统签署S.4138号国会法案</div>
-                <div class="article-subtitle">Congressional Bill S. 4138 Signed into Law</div>
-            </div>
-            <div class="article-summary">美国总统特朗普签署S.4138号国会法案，使其正式成为法律。白宫声明表示，该法案的通过体现了府会合作推进国家治理的积极成果。特朗普总统感谢国会两党议员的支持，强调该法案对促进美国人民福祉具有重要意义。此举反映了特朗普政府与国会合作推进立法议程的政策特点。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bill-s-4138-signed-into-law/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Briefings & Statements</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #b22234;">
-            <div class="source-tag" style="background: #b22234;">
-                🏛️ 白宫
-            </div>
-            <div class="article-header">
-                <div class="article-title">白宫就国土安全部停摆发表声明</div>
-                <div class="article-subtitle">Democrats' DHS Shutdown Enters 35th Day as Airports Plunge into Chaos, Frontline Workers Suffer</div>
-            </div>
-            <div class="article-summary">白宫发表声明，就国土安全部预算僵局导致部门停摆进入第35天表示关切。声明指出，停摆已导致全国多个机场陷入混乱，一线工作人员深受其害。白宫将责任归于国会民主党人，称其对边境安全拨款持阻挠态度。特朗普总统呼吁国会尽快通过相关拨款法案，结束这场'人为制造的危机'，恢复国土安全部的正常运作。此事反映了当前府会之间在移民和边境政策上的深刻分歧。</div>
-            <div class="article-footer">
-                <a href="https://www.whitehouse.gov/articles/2026/03/democrats-dhs-shutdown-enters-35th-day-as-airports-plunge-into-chaos-frontline-workers-suffer/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: Articles</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #003366;">
-            <div class="source-tag" style="background: #003366;">
-                🎓 ACE教育委员会
-            </div>
-            <div class="article-header">
-                <div class="article-title">ACE支持法律挑战 ACTS截止日期延后</div>
-                <div class="article-subtitle">ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge</div>
-            </div>
-            <div class="article-summary">美国教育委员会（ACE）联合其他10个高等教育协会，日前向法院提交法庭之友意见书，支持对教育部IPEDS招生与消费者透明度补充调查（ACTS）的法律挑战。原告方请求法院在案件审理期间暂缓执行ACTS要求，ACE对此表示支持。ACE指出，ACTS对高校数据报送提出了过于繁重的额外要求，将显著增加学校行政负担，且可能涉及学生隐私保护问题。法院已批准将ACTS执行截止日期延后，为案件审理留出时间。此事反映了高等教育界对联邦数据收集政策的关切。</div>
-            <div class="article-footer">
-                <a href="https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: federal_policy</span>
-            </div>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国黑人移民群体特征研究</div>
-                <div class="article-subtitle">Key findings about Black immigrants in the U.S.</div>
-            </div>
-            <div class="article-summary">皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。报告指出，该群体主要来源于非洲和加勒比地区，教育程度和就业状况呈现多元化特征。这一人口结构变化对美国种族关系和政治格局具有深远影响。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/short-reads/2026/03/20/key-findings-about-black-immigrants-in-the-us/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: demographics</span>
-            </div>
-        </div>
-    </div>
-
-    <div class="date-section ">
-        <div class="date-header">
-            <span class="date-badge">2026年03月19日</span>
-            <span class="date-count">4 篇文章</span>
-        </div>
-
-        <div class="article is-new" style="border-left-color: #2c5aa0;">
-            <div class="source-tag" style="background: #2c5aa0;">
-                🔥 布鲁金斯学会
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国公共服务贷款豁免计划：回顾、现状与展望</div>
+            <div class="article" style="border-left-color: #2c5aa0;">
+                <div class="source-tag" style="background: #2c5aa0;">
+                    🔥 布鲁金斯学会
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国公共服务贷款豁免计划：回顾、现状与展望</span>
+                    
+                </div>
                 <div class="article-subtitle">The past, present, and future of the Public Service Loan Forgiveness program</div>
+                <div class="article-summary">布鲁金斯学会日前发布政策分析报告，系统梳理了美国公共服务贷款豁免计划（PSLF）的实施历程、当前困境及未来改革方向。报告指出，该计划自2007年设立以来，虽旨在鼓励优秀青年投身公共服务领域，但因申请程序复杂、资格认定标准模糊等问题，实际惠及人数远低于预期。报告建议联邦教育部门简化申请流程、加强政策宣传、完善监督机制，确保政策红利切实惠及符合条件的公共服务从业者。同时，报告呼吁国会考虑扩大豁免范围，将更多基层岗位纳入保障体系，以吸引和留住优秀人才服务公共事业。</div>
+                <div class="article-footer">
+                    <a href="https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">higher_ed</span>
+                </div>
             </div>
-            <div class="article-summary">布鲁金斯学会日前发布政策分析报告，系统梳理了美国公共服务贷款豁免计划（PSLF）的实施历程、当前困境及未来改革方向。报告指出，该计划自2007年设立以来，虽旨在鼓励优秀青年投身公共服务领域，但因申请程序复杂、资格认定标准模糊等问题，实际惠及人数远低于预期。报告建议联邦教育部门简化申请流程、加强政策宣传、完善监督机制，确保政策红利切实惠及符合条件的公共服务从业者。同时，报告呼吁国会考虑扩大豁免范围，将更多基层岗位纳入保障体系，以吸引和留住优秀人才服务公共事业。</div>
-            <div class="article-footer">
-                <a href="https://www.brookings.edu/articles/the-past-present-and-future-of-the-public-service-loan-forgiveness-program/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: higher_ed</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #1a4480;">
-            <div class="source-tag" style="background: #1a4480;">
-                🇺🇸 美国教育部
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国教育部与财政部宣布建立历史性联邦学生援助合作伙伴关系</div>
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国教育部与财政部宣布建立历史性联邦学生援助合作伙伴关系</span>
+                    
+                </div>
                 <div class="article-subtitle">U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership</div>
+                <div class="article-summary">美国教育部与财政部日前联合宣布建立历史性的联邦学生援助合作伙伴关系，旨在简化学生资助申请流程，提高资金使用效率。根据协议，两部门将整合信息系统，实现数据共享，为大学生提供更加便捷的助学金和贷款服务。教育部表示，此次合作将显著降低学生及家庭的行政负担，确保资助资金及时到位。财政部强调，这一创新举措体现了联邦政府致力于促进教育机会均等的承诺，将惠及数百万美国大学生。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-treasury-announce-historic-federal-student-assistance-partnership" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">grants</span>
+                </div>
             </div>
-            <div class="article-summary">美国教育部与财政部日前联合宣布建立历史性的联邦学生援助合作伙伴关系，旨在简化学生资助申请流程，提高资金使用效率。根据协议，两部门将整合信息系统，实现数据共享，为大学生提供更加便捷的助学金和贷款服务。教育部表示，此次合作将显著降低学生及家庭的行政负担，确保资助资金及时到位。财政部强调，这一创新举措体现了联邦政府致力于促进教育机会均等的承诺，将惠及数百万美国大学生。</div>
-            <div class="article-footer">
-                <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-treasury-announce-historic-federal-student-assistance-partnership" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: grants</span>
-            </div>
-        </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
-            </div>
-            <div class="article-header">
-                <div class="article-title">美国民众居住偏好调查：大房子还是便利设施</div>
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国民众居住偏好调查：大房子还是便利设施</span>
+                    
+                </div>
                 <div class="article-subtitle">Majority of Americans prefer spread-out communities with big houses</div>
+                <div class="article-summary">皮尤研究中心调查显示，55%的美国民众表示更愿意居住在房屋较大、与商业设施距离较远的社区，44%的人则偏好相反。报告分析了年龄、收入、党派等因素对居住偏好的影响，指出美国人对郊区生活方式的偏好持续存在，对理解美国城市发展模式和房地产政策具有参考意义。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/short-reads/2026/03/19/majority-of-americans-prefer-spread-out-communities-with-big-houses/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">social_trends</span>
+                </div>
             </div>
-            <div class="article-summary">皮尤研究中心调查显示，55%的美国民众表示更愿意居住在房屋较大、与商业设施距离较远的社区，44%的人则偏好相反。报告分析了年龄、收入、党派等因素对居住偏好的影响，指出美国人对郊区生活方式的偏好持续存在，对理解美国城市发展模式和房地产政策具有参考意义。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/short-reads/2026/03/19/majority-of-americans-prefer-spread-out-communities-with-big-houses/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: social_trends</span>
+
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国人的道德观念调查</span>
+                    
+                </div>
+                <div class="article-subtitle">What Do Americans Consider Immoral?</div>
+                <div class="article-summary">皮尤研究中心调查显示，九成美国民众认为婚外情是不道德的，但在堕胎和同性恋的道德评判上，民主党与共和党支持者存在显著分歧。报告系统梳理了美国社会在不同议题上的道德观念分布，反映了宗教、政治立场与价值观之间的复杂关联，对理解美国社会文化分歧具有重要参考价值。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/religion/2026/03/19/what-do-americans-consider-immoral/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">religion</span>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="column right">
+
+        <div class="date-block ">
+            <div class="date-header">
+                <span class="date-title">2026年03月24日</span>
+                <span class="date-count">8 篇</span>
+            </div>
+
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国教育部民权办公室就第九条规定向圣何塞州立大学发出执法预警</span>
+                    
+                </div>
+                <div class="article-subtitle">U.S. Department of Education's Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance</div>
+                <div class="article-summary">美国教育部民权办公室日前向圣何塞州立大学发出第九条规定执法预警函，指出该校在遵守联邦性别平等法规方面存在严重问题。教育部表示，经调查发现该校未能有效保护女性运动员权益，在体育资源配置、奖学金分配等方面存在性别歧视现象。民权办公室要求该校在规定期限内提交整改方案，否则将面临执法措施。此举反映了联邦政府强化高等教育机构民权合规监管的决心，对我高校开展性别平等工作具有参照意义。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">civil_rights</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国教育部官员赴田纳西州和密苏里州出席'历史闪耀'公民教育活动</span>
+                    
+                </div>
+                <div class="article-subtitle">U.S. Department of Education Officials and Education Leaders Highlight Civics Education at 'History Rocks!' Events in Tennessee and Missouri</div>
+                <div class="article-summary">美国教育部高级官员近日赴田纳西州和密苏里州出席'历史闪耀'系列公民教育活动。活动期间，教育部官员与地方教育界人士就加强中小学公民教育、培养学生宪政意识等议题深入交流。官员强调，公民教育是培养负责任公民的基础工程，各校应创新教学方式，激发学生对美国历史和民主制度的兴趣。此次活动系特朗普政府推动公民教育系列举措的一部分，反映其重塑美国公民教育的政策取向。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">civics</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">马克韦恩·马林部长表示将全力落实特朗普总统施政议程</span>
+                    
+                </div>
+                <div class="article-subtitle">Secretary Markwayne Mullin Is Ready to Deliver on President Trump's Agenda</div>
+                <div class="article-summary">白宫今日发布消息称，新任内阁部长马克韦恩·马林表示将全力落实特朗普总统的施政议程。马林部长强调，将严格执行总统指示，推动各项政策目标如期实现。他表示，当前美国面临诸多挑战，需要政府各部门协同配合，以高效务实的作风服务美国人民。此次表态体现了特朗普政府内部团结一致、推进改革的政策基调，反映了其强化行政执行力的施政特点。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Articles</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统延长联邦应急管理局审查委员会任期</span>
+                    
+                </div>
+                <div class="article-subtitle">Further Continuance of the Federal Emergency Management Agency Review Council</div>
+                <div class="article-summary">美国总统特朗普签署行政命令，延长联邦应急管理局（FEMA）审查委员会的任期。该委员会负责评估FEMA的运作效率和政策执行情况，向总统提供改进建议。特朗普总统表示，延长委员会任期有助于深化对联邦应急管理工作的监督，提升灾害应对能力。此举体现了特朗普政府强化联邦机构问责、提高行政效能的改革取向。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Presidential Actions</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统发表希腊独立日贺词</span>
+                    
+                </div>
+                <div class="article-subtitle">Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026</div>
+                <div class="article-summary">美国总统特朗普发表公告，宣布3月25日为希腊独立日全国庆祝日。总统在公告中回顾了希腊作为西方民主发源地的重要历史地位，强调美希两国在民主价值观上的深厚纽带。他表示，希腊独立日不仅是希腊人民的节日，也是美国人民共同庆祝的日子，两国友谊历经百年风雨仍历久弥坚。此举体现了美国对传统盟友关系的重视及对民主价值观的强调。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Presidential Actions</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统发表全国农业日致辞</span>
+                    
+                </div>
+                <div class="article-subtitle">National Agriculture Day, 2026</div>
+                <div class="article-summary">美国总统特朗普发表全国农业日致辞，向全美农民和农业工作者致敬。总统在致辞中高度赞扬了美国农业对国家经济和安全的重要贡献，强调农业是美国的重要战略资源。他表示，政府将继续支持农业发展，保护农民利益，确保美国农业在全球保持竞争力。此举体现了特朗普政府对农业传统和农民群体的重视。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Presidential Actions</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">第一夫人梅拉尼娅·特朗普启动'共创未来'倡议 45国出席首届联盟峰会</span>
+                    
+                </div>
+                <div class="article-subtitle">First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit</div>
+                <div class="article-summary">第一夫人梅拉尼娅·特朗普近日在白宫宣布启动'共创未来'全球倡议，来自45个国家的代表出席了首届联盟峰会。该倡议聚焦儿童福祉和青少年发展，旨在促进国际社会在儿童保护、教育公平、心理健康等领域的合作。第一夫人强调，儿童是国家的未来，国际社会应携手为下一代创造更好的成长环境。此次峰会彰显了美国在国际儿童权益保护领域的领导作用，对全球教育合作具有积极意义。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Briefings & Statements</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国民众突发新闻获取渠道调查</span>
+                    
+                </div>
+                <div class="article-subtitle">Where do Americans turn first for information about breaking news?</div>
+                <div class="article-summary">皮尤研究中心调查显示，当突发新闻事件发生时，36%的美国成年人表示会首选其信赖的新闻机构获取信息，另有相当比例民众转向社交媒体平台。报告指出，数字化时代美国民众的新闻消费习惯正在深刻变化，传统媒体与新兴平台的竞争格局持续演变，对理解美国舆论生态和信息传播机制具有参考意义。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">technology</span>
+                </div>
             </div>
         </div>
 
-        <div class="article is-new" style="border-left-color: #233656;">
-            <div class="source-tag" style="background: #233656;">
-                📊 皮尤研究中心
+        <div class="date-block ">
+            <div class="date-header">
+                <span class="date-title">2026年03月20日</span>
+                <span class="date-count">6 篇</span>
             </div>
-            <div class="article-header">
-                <div class="article-title">美国人的道德观念调查</div>
-                <div class="article-subtitle">What Do Americans Consider Immoral?</div>
+
+            <div class="article" style="border-left-color: #2c5aa0;">
+                <div class="source-tag" style="background: #2c5aa0;">
+                    🔥 布鲁金斯学会
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">非洲东部和南部教育工作者将气候挑战转化为行动</span>
+                    
+                </div>
+                <div class="article-subtitle">Chalk, courage, and climate change: How educators in eastern and southern Africa are transforming challenges into action</div>
+                <div class="article-summary">布鲁金斯学会近日发布研究报告，深入分析了非洲东部和南部地区教育工作者在应对气候变化挑战中的创新实践。报告指出，面对极端天气频发、基础设施薄弱等严峻形势，当地教育工作者展现出非凡的韧性与创造力，通过灵活调整教学安排、开发本土化课程资源、加强社区协作等方式，有效保障了教育连续性。报告强调，国际社会应加大对发展中国家教育领域的支持力度，帮助其提升应对气候变化的能力。同时，报告建议各国政府将气候教育纳入国民教育体系，培养具备环境意识和适应能力的未来人才，为全球可持续发展贡献力量。</div>
+                <div class="article-footer">
+                    <a href="https://www.brookings.edu/articles/chalk-courage-and-climate-change-how-educators-in-eastern-and-southern-africa-are-transforming-challenges-into-action/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">teacher</span>
+                </div>
             </div>
-            <div class="article-summary">皮尤研究中心调查显示，九成美国民众认为婚外情是不道德的，但在堕胎和同性恋的道德评判上，民主党与共和党支持者存在显著分歧。报告系统梳理了美国社会在不同议题上的道德观念分布，反映了宗教、政治立场与价值观之间的复杂关联，对理解美国社会文化分歧具有重要参考价值。</div>
-            <div class="article-footer">
-                <a href="https://www.pewresearch.org/religion/2026/03/19/what-do-americans-consider-immoral/" target="_blank" class="article-link">🔗 查看原文</a>
-                <span class="article-meta">分类: religion</span>
+
+            <div class="article" style="border-left-color: #1a4480;">
+                <div class="source-tag" style="background: #1a4480;">
+                    🇺🇸 美国教育部
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'公民教育活动</span>
+                    
+                </div>
+                <div class="article-subtitle">U.S. Department of Education Leaders Highlight Civics Education at 'History Rocks!' Events in Vermont and West Virginia</div>
+                <div class="article-summary">美国教育部高级官员近日赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'系列活动，就公民教育的重要性发表演讲。活动旨在通过创新教学方式，激发中小学生对美国历史和宪政制度的兴趣，培养学生的公民责任感。教育部领导强调，公民教育是培养负责任公民的基础，各地学校应加强相关课程建设，帮助学生深入理解美国民主制度的核心理念。联邦政府将继续支持各州开展公民教育项目，为国家未来发展储备人才。</div>
+                <div class="article-footer">
+                    <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">civics</span>
+                </div>
             </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">特朗普总统签署S.4138号国会法案</span>
+                    
+                </div>
+                <div class="article-subtitle">Congressional Bill S. 4138 Signed into Law</div>
+                <div class="article-summary">美国总统特朗普签署S.4138号国会法案，使其正式成为法律。白宫声明表示，该法案的通过体现了府会合作推进国家治理的积极成果。特朗普总统感谢国会两党议员的支持，强调该法案对促进美国人民福祉具有重要意义。此举反映了特朗普政府与国会合作推进立法议程的政策特点。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bill-s-4138-signed-into-law/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Briefings & Statements</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #b22234;">
+                <div class="source-tag" style="background: #b22234;">
+                    🏛️ 白宫
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">白宫就国土安全部停摆发表声明</span>
+                    
+                </div>
+                <div class="article-subtitle">Democrats' DHS Shutdown Enters 35th Day as Airports Plunge into Chaos, Frontline Workers Suffer</div>
+                <div class="article-summary">白宫发表声明，就国土安全部预算僵局导致部门停摆进入第35天表示关切。声明指出，停摆已导致全国多个机场陷入混乱，一线工作人员深受其害。白宫将责任归于国会民主党人，称其对边境安全拨款持阻挠态度。特朗普总统呼吁国会尽快通过相关拨款法案，结束这场'人为制造的危机'，恢复国土安全部的正常运作。此事反映了当前府会之间在移民和边境政策上的深刻分歧。</div>
+                <div class="article-footer">
+                    <a href="https://www.whitehouse.gov/articles/2026/03/democrats-dhs-shutdown-enters-35th-day-as-airports-plunge-into-chaos-frontline-workers-suffer/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">Articles</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #003366;">
+                <div class="source-tag" style="background: #003366;">
+                    🎓 ACE教育委员会
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">ACE支持法律挑战 ACTS截止日期延后</span>
+                    
+                </div>
+                <div class="article-subtitle">ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge</div>
+                <div class="article-summary">美国教育委员会（ACE）联合其他10个高等教育协会，日前向法院提交法庭之友意见书，支持对教育部IPEDS招生与消费者透明度补充调查（ACTS）的法律挑战。原告方请求法院在案件审理期间暂缓执行ACTS要求，ACE对此表示支持。ACE指出，ACTS对高校数据报送提出了过于繁重的额外要求，将显著增加学校行政负担，且可能涉及学生隐私保护问题。法院已批准将ACTS执行截止日期延后，为案件审理留出时间。此事反映了高等教育界对联邦数据收集政策的关切。</div>
+                <div class="article-footer">
+                    <a href="https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">federal_policy</span>
+                </div>
+            </div>
+
+            <div class="article" style="border-left-color: #233656;">
+                <div class="source-tag" style="background: #233656;">
+                    📊 皮尤研究中心
+                </div>
+                <div class="article-title-wrap">
+                    <span class="article-title">美国黑人移民群体特征研究</span>
+                    
+                </div>
+                <div class="article-subtitle">Key findings about Black immigrants in the U.S.</div>
+                <div class="article-summary">皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。报告指出，该群体主要来源于非洲和加勒比地区，教育程度和就业状况呈现多元化特征。这一人口结构变化对美国种族关系和政治格局具有深远影响。</div>
+                <div class="article-footer">
+                    <a href="https://www.pewresearch.org/short-reads/2026/03/20/key-findings-about-black-immigrants-in-the-us/" target="_blank" class="article-link">🔗 查看原文</a>
+                    <span class="article-meta">demographics</span>
+                </div>
+            </div>
+        </div>
         </div>
     </div>
-
+    
     <div class="footer">
         📊 本项目从真实网站抓取，每条新闻都有具体URL可验证<br>
-        🔄 每日自动更新 | 📝 体制内公文编译风格 | 📅 按日期聚合展示
+        🔄 每日自动更新 | 📝 体制内公文编译风格 | 📺 双栏布局
     </div>
 </body>
 </html>
