@@ -1,0 +1,27 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-03-26T12:00:16.811549",
+  "filter_days": 7,
+  "total_news": 2,
+  "news": [
+    {
+      "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
+      "date": "March 23, 2026",
+      "type": "News",
+      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
+    {
+      "title": "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx",
+      "date": "March 20, 2026",
+      "type": "News",
+      "summary_en": "ACE and 10 other higher education associations submitted an amicus brief yesterday supporting a motion brought by the plaintiffs for a stay of the IPEDS Admissions and Consumer Transparency Supplement while the court considers and decides the case.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
+}
