@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-自动生成展示页面 - 确保链接100%来自原始数据文件
-禁止手动修改链接！
+自动生成展示页面 - 按日期聚合所有来源
+所有文章按日期倒序排列，不再按来源分组
 """
 import json
 import os
@@ -9,385 +9,339 @@ from datetime import datetime, timedelta
 
 def get_latest_json(directory):
     """自动找到目录下最新的JSON文件"""
+    if not os.path.exists(directory):
+        return None
     json_files = [f for f in os.listdir(directory) if f.endswith('.json')]
     if not json_files:
         return None
-    json_files.sort(reverse=True)  # 文件名按日期倒序
+    json_files.sort(reverse=True)
     return os.path.join(directory, json_files[0])
 
-def is_within_days(date_str, days=7):
-    """检查日期是否在指定天数内"""
-    try:
-        article_date = datetime.strptime(date_str, '%B %d, %Y')
-        cutoff_date = datetime.now() - timedelta(days=days)
-        return article_date >= cutoff_date
-    except:
-        return True  # 解析失败默认保留
+def parse_date(date_str):
+    """解析各种日期格式"""
+    formats = [
+        '%B %d, %Y',      # March 25, 2026
+        '%b %d, %Y',      # Mar 25, 2026
+        '%Y-%m-%d',       # 2026-03-25
+    ]
+    for fmt in formats:
+        try:
+            return datetime.strptime(date_str.strip(), fmt)
+        except:
+            continue
+    return None
+
+def format_date_key(date_str):
+    """将日期字符串转为排序键"""
+    parsed = parse_date(date_str)
+    if parsed:
+        return parsed.strftime('%Y-%m-%d')
+    return date_str
+
+def get_display_date(date_str):
+    """转为中文显示格式"""
+    parsed = parse_date(date_str)
+    if parsed:
+        return parsed.strftime('%Y年%m月%d日')
+    return date_str
 
 def generate_html():
-    # 自动找到最新的翻译后数据文件
+    # 读取所有来源的翻译后数据
     sources = {
-        'brookings': get_latest_json('data/translated/brookings'),
-        'edgov': get_latest_json('data/translated/edgov'),
-        'whitehouse': get_latest_json('data/translated/whitehouse'),
-        'ace': get_latest_json('data/translated/ace'),
-        'nsf_ncses': get_latest_json('data/translated/nsf_ncses'),
-        'pewresearch': get_latest_json('data/translated/pewresearch')
+        'brookings': {'name': '布鲁金斯学会', 'color': '#2c5aa0', 'icon': '🔥'},
+        'edgov': {'name': '美国教育部', 'color': '#1a4480', 'icon': '🇺🇸'},
+        'whitehouse': {'name': '白宫', 'color': '#b22234', 'icon': '🏛️'},
+        'ace': {'name': 'ACE教育委员会', 'color': '#003366', 'icon': '🎓'},
+        'nsf_ncses': {'name': 'NSF NCSES', 'color': '#1e4d2b', 'icon': '🔬'},
+        'pewresearch': {'name': '皮尤研究中心', 'color': '#233656', 'icon': '📊'}
     }
-
-    data = {}
-    for name, filepath in sources.items():
-        try:
-            with open(filepath, 'r', encoding='utf-8') as f:
-                data[name] = json.load(f)
-            print(f"✅ 读取 {name}: {len(data[name]['news'])} 篇文章")
-        except Exception as e:
-            print(f"❌ 读取 {name} 失败: {e}")
-            data[name] = {'source': name, 'news': []}
-
-    # HTML头部
+    
+    all_articles = []
+    
+    for source_key, source_info in sources.items():
+        filepath = get_latest_json(f'data/translated/{source_key}')
+        if filepath and os.path.exists(filepath):
+            try:
+                with open(filepath, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                for article in data.get('news', []):
+                    article['_source_key'] = source_key
+                    article['_source_name'] = source_info['name']
+                    article['_source_color'] = source_info['color']
+                    article['_source_icon'] = source_info['icon']
+                    article['_sort_date'] = format_date_key(article.get('date', ''))
+                    all_articles.append(article)
+            except Exception as e:
+                print(f"❌ 读取 {source_key} 失败: {e}")
+    
+    # 按日期倒序排列
+    all_articles.sort(key=lambda x: x['_sort_date'], reverse=True)
+    
+    # 按日期分组
+    articles_by_date = {}
+    for article in all_articles:
+        date_key = article['_sort_date']
+        if date_key not in articles_by_date:
+            articles_by_date[date_key] = []
+        articles_by_date[date_key].append(article)
+    
+    # 生成HTML
     html = '''<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>热点教育信息 - 多来源聚合</title>
+    <title>热点教育信息 - 按日期聚合</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: "Microsoft YaHei", "SimSun", serif;
-            max-width: 900px;
-            margin: 0 auto;
+        body { 
+            font-family: "Microsoft YaHei", "SimSun", serif; 
+            max-width: 900px; 
+            margin: 0 auto; 
             padding: 20px;
-            background: #f5f5f5;
+            background: #f8f9fa;
             line-height: 1.8;
         }
-        .header {
-            background: #2c5aa0;
-            color: white;
-            padding: 20px;
-            border-radius: 5px;
-            margin-bottom: 20px;
+        
+        /* 头部 */
+        .header { 
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: white; 
+            padding: 30px 25px; 
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
         }
-        .header h1 {
-            font-size: 24px;
-            border-bottom: 2px solid white;
-            padding-bottom: 10px;
+        .header h1 { 
+            font-size: 28px; 
             margin-bottom: 10px;
+            letter-spacing: 1px;
         }
-        .source-info { font-size: 14px; opacity: 0.9; }
-        .article {
-            background: white;
-            border: 1px solid #ddd;
-            padding: 20px;
-            margin: 15px 0;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-        }
-        .article-header {
-            border-bottom: 2px solid #2c5aa0;
-            padding-bottom: 10px;
-            margin-bottom: 15px;
-        }
-        .article-meta {
+        .header-stats {
+            font-size: 14px;
+            opacity: 0.9;
             display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 10px;
+            gap: 20px;
             flex-wrap: wrap;
-            gap: 10px;
         }
-        .article-author {
-            color: #2c5aa0;
-            font-size: 14px;
+        .header-stats span {
+            background: rgba(255,255,255,0.1);
+            padding: 4px 12px;
+            border-radius: 20px;
+        }
+        
+        /* 日期分组 */
+        .date-section {
+            margin-bottom: 35px;
+        }
+        .date-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+        }
+        .date-badge {
+            background: #495057;
+            color: white;
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 15px;
             font-weight: bold;
         }
-        .article-author::before { content: "👤 "; }
-        .article-date {
-            color: #666;
+        .date-count {
+            color: #6c757d;
             font-size: 14px;
         }
-        .article-date::before { content: "📅 "; }
+        
+        /* 文章卡片 */
+        .article { 
+            background: white;
+            border-left: 4px solid #dee2e6;
+            padding: 20px 25px; 
+            margin: 12px 0; 
+            border-radius: 0 8px 8px 0;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .article:hover {
+            transform: translateX(4px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        
+        /* 来源标签 */
+        .source-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+            color: white;
+            margin-bottom: 10px;
+        }
+        
+        /* 文章头部 */
+        .article-header {
+            margin-bottom: 12px;
+        }
         .article-title {
-            font-size: 18px;
+            font-size: 17px;
             font-weight: bold;
-            color: #2c5aa0;
-            margin: 10px 0 5px 0;
+            color: #212529;
+            line-height: 1.5;
         }
         .article-subtitle {
             font-size: 13px;
-            color: #888;
+            color: #6c757d;
+            margin-top: 6px;
             font-style: italic;
         }
+        
+        /* 摘要 */
         .article-summary {
+            color: #495057;
+            font-size: 14.5px;
+            line-height: 1.9;
             text-align: justify;
-            color: #333;
-            font-size: 15px;
             margin: 15px 0;
-            text-indent: 2em;
+            padding: 15px;
+            background: #f8f9fa;
+            border-radius: 6px;
         }
+        
+        /* 底部 */
         .article-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
             margin-top: 15px;
-            padding-top: 10px;
-            border-top: 1px dashed #ddd;
+            padding-top: 12px;
+            border-top: 1px dashed #dee2e6;
         }
         .article-link {
-            color: #2c5aa0;
+            color: #495057;
             text-decoration: none;
-            font-size: 14px;
+            font-size: 13px;
+            display: flex;
+            align-items: center;
+            gap: 5px;
         }
-        .article-link:hover { text-decoration: underline; }
-        .meta {
-            color: #999;
+        .article-link:hover {
+            color: #212529;
+        }
+        .article-meta {
+            color: #adb5bd;
             font-size: 12px;
-            margin-top: 5px;
         }
+        
+        /* 页脚 */
         .footer {
             text-align: center;
-            margin-top: 30px;
-            padding: 20px;
-            color: #666;
-            font-size: 12px;
-            border-top: 1px solid #ddd;
+            margin-top: 40px;
+            padding: 25px;
+            color: #6c757d;
+            font-size: 13px;
+            border-top: 1px solid #dee2e6;
         }
-        .highlight {
-            background: #fff3cd;
-            padding: 2px 5px;
-            border-radius: 3px;
+        
+        /* 今日高亮 */
+        .date-section.today .date-badge {
+            background: #dc3545;
+        }
+        .article.is-new {
+            border-left-width: 5px;
+        }
+        .new-indicator {
+            background: #dc3545;
+            color: white;
+            font-size: 11px;
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-left: 10px;
         }
     </style>
 </head>
 <body>
-'''
-
-    # Brookings
-    if data.get('brookings'):
-        # 只显示7天内的文章
-        brookings_news = [a for a in data['brookings']['news'] if is_within_days(a['date'], days=7)]
-        html += f'''
     <div class="header">
-        <h1>🔥 {data['brookings']['source']}</h1>
-        <div class="source-info">
-            来源: <a href="{data['brookings']['source_url']}" target="_blank" style="color: white;">Brookings Institution - Education</a> |
-            今日收录: {len(brookings_news)}篇
+        <h1>📰 热点教育信息聚合</h1>
+        <div class="header-stats">
+            <span>📊 共 ''' + str(len(all_articles)) + ''' 篇文章</span>
+            <span>📅 ''' + str(len(articles_by_date)) + ''' 个日期</span>
+            <span>🔢 6 个来源</span>
         </div>
     </div>
 '''
-        for i, article in enumerate(brookings_news[:4], 1):
-            highlight = '<span class="highlight">' if i == 1 else ''
-            highlight_end = '</span>' if i == 1 else ''
-            new_badge = ' | 🆕 今日最新' if i == 1 else ''
-            html += f'''
-    <div class="article">
-        <div class="article-header">
-            <div class="article-meta">
-                <span class="article-author">{article.get('author', 'Brookings')}</span>
-                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
-            </div>
-            <div class="article-title">{article['title']}</div>
-            <div class="article-subtitle">{article.get('original_title', '')}</div>
-        </div>
-        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
-        <div class="article-footer">
-            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
-            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
-        </div>
-    </div>
-'''
-
-    # ED.gov
-    if data.get('edgov'):
-        # 只显示7天内的文章
-        edgov_news = [a for a in data['edgov']['news'] if is_within_days(a['date'], days=7)]
+    
+    today_str = datetime.now().strftime('%Y-%m-%d')
+    
+    # 按日期输出
+    for date_key in sorted(articles_by_date.keys(), reverse=True):
+        articles = articles_by_date[date_key]
+        display_date = get_display_date(articles[0].get('date', date_key))
+        is_today = (date_key == today_str)
+        today_class = 'today' if is_today else ''
+        
         html += f'''
-    <div class="header" style="margin-top: 30px; background: #1a4480;">
-        <h1>🇺🇸 美国教育部 ED.gov</h1>
-        <div class="source-info">
-            来源: <a href="{data['edgov']['source_url']}" target="_blank" style="color: white;">U.S. Department of Education</a> |
-            今日收录: {len(edgov_news)}篇
+    <div class="date-section {today_class}">
+        <div class="date-header">
+            <span class="date-badge">{display_date}</span>
+            <span class="date-count">{len(articles)} 篇文章</span>
         </div>
-    </div>
 '''
-        for i, article in enumerate(edgov_news[:4], 1):
-            highlight = '<span class="highlight">' if i == 1 else ''
-            highlight_end = '</span>' if i == 1 else ''
-            new_badge = ' | 🆕 今日最新' if i == 1 else ''
+        
+        for article in articles:
+            source_color = article.get('_source_color', '#666')
+            source_name = article.get('_source_name', '')
+            source_icon = article.get('_source_icon', '')
+            title = article.get('title', '')
+            original_title = article.get('original_title', '')
+            summary = article.get('summary_cn', article.get('summary_en', ''))
+            url = article.get('url', '')
+            category = article.get('category', 'general')
+            
+            # 检查是否今日最新（第一篇）
+            new_badge = '<span class="new-indicator">最新</span>' if is_today and article == articles[0] else ''
+            
             html += f'''
-    <div class="article">
-        <div class="article-header">
-            <div class="article-meta">
-                <span class="article-author">{article.get('author', 'U.S. Department of Education')}</span>
-                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
+        <div class="article is-new" style="border-left-color: {source_color};">
+            <div class="source-tag" style="background: {source_color};">
+                {source_icon} {source_name}
             </div>
-            <div class="article-title">{article['title']}</div>
-            <div class="article-subtitle">{article.get('original_title', '')}</div>
-        </div>
-        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
-        <div class="article-footer">
-            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
-            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
-        </div>
-    </div>
-'''
-
-    # White House
-    if data.get('whitehouse'):
-        # 只显示7天内的文章
-        whitehouse_news = [a for a in data['whitehouse']['news'] if is_within_days(a['date'], days=7)]
-        html += f'''
-    <div class="header" style="margin-top: 30px; background: #b22234;">
-        <h1>🏛️ 白宫 The White House</h1>
-        <div class="source-info">
-            来源: <a href="{data['whitehouse']['source_url']}" target="_blank" style="color: white;">The White House</a> |
-            今日收录: {len(whitehouse_news)}篇
-        </div>
-    </div>
-'''
-        for i, article in enumerate(whitehouse_news[:4], 1):
-            highlight = '<span class="highlight">' if i == 1 else ''
-            highlight_end = '</span>' if i == 1 else ''
-            new_badge = ' | 🆕 今日最新' if i == 1 else ''
-            html += f'''
-    <div class="article">
-        <div class="article-header">
-            <div class="article-meta">
-                <span class="article-author">{article.get('author', 'The White House')}</span>
-                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
+            <div class="article-header">
+                <div class="article-title">{title}{new_badge}</div>
+                <div class="article-subtitle">{original_title}</div>
             </div>
-            <div class="article-title">{article['title']}</div>
-            <div class="article-subtitle">{article.get('original_title', '')}</div>
-        </div>
-        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
-        <div class="article-footer">
-            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
-            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
-        </div>
-    </div>
-'''
-
-    # ACE
-    if data.get('ace'):
-        # 只显示7天内的文章
-        ace_news = [a for a in data['ace']['news'] if is_within_days(a['date'], days=7)]
-        html += f'''
-    <div class="header" style="margin-top: 30px; background: #003366;">
-        <h1>🎓 ACE 美国教育委员会</h1>
-        <div class="source-info">
-            来源: <a href="{data['ace']['source_url']}" target="_blank" style="color: white;">American Council on Education</a> |
-            今日收录: {len(ace_news)}篇
-        </div>
-    </div>
-'''
-        for i, article in enumerate(ace_news[:8], 1):
-            highlight = '<span class="highlight">' if i == 1 else ''
-            highlight_end = '</span>' if i == 1 else ''
-            new_badge = ' | 🆕 今日最新' if i == 1 else ''
-            html += f'''
-    <div class="article">
-        <div class="article-header">
-            <div class="article-meta">
-                <span class="article-author">{article.get('author', 'ACE')}</span>
-                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
+            <div class="article-summary">{summary}</div>
+            <div class="article-footer">
+                <a href="{url}" target="_blank" class="article-link">🔗 查看原文</a>
+                <span class="article-meta">分类: {category}</span>
             </div>
-            <div class="article-title">{article['title']}</div>
-            <div class="article-subtitle">{article.get('original_title', '')}</div>
         </div>
-        <div class="article-summary">{article.get('summary_cn', article.get('summary', article.get('summary_en', '')))}</div>
-        <div class="article-footer">
-            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
-            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
-        </div>
-    </div>
 '''
-
-    # NSF NCSES
-    if data.get('nsf_ncses'):
-        # 只显示7天内的文章
-        nsf_news = [a for a in data['nsf_ncses']['news'] if is_within_days(a['date'], days=7)]
-        html += f'''
-    <div class="header" style="margin-top: 30px; background: #1e4d2b;">
-        <h1>🔬 NSF NCSES 科学与工程统计中心</h1>
-        <div class="source-info">
-            来源: <a href="{data['nsf_ncses']['source_url']}" target="_blank" style="color: white;">National Center for Science and Engineering Statistics</a> |
-            今日收录: {len(nsf_news)}篇
-        </div>
-    </div>
-'''
-        for i, article in enumerate(nsf_news[:6], 1):
-            highlight = '<span class="highlight">' if i == 1 else ''
-            highlight_end = '</span>' if i == 1 else ''
-            new_badge = ' | 🆕 今日最新' if i == 1 else ''
-            html += f'''
-    <div class="article">
-        <div class="article-header">
-            <div class="article-meta">
-                <span class="article-author">NSF NCSES</span>
-                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
-            </div>
-            <div class="article-title">{article['title']}</div>
-            <div class="article-subtitle">{article.get('type', 'Report')}</div>
-        </div>
-        <div class="article-summary">{article.get('summary_cn', article.get('summary_en', ''))}</div>
-        <div class="article-footer">
-            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
-            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
-        </div>
-    </div>
-'''
-
-    # Pew Research Center
-    if data.get('pewresearch'):
-        # 只显示7天内的文章
-        pew_news = [a for a in data['pewresearch']['news'] if is_within_days(a['date'], days=7)]
-        html += f'''
-    <div class="header" style="margin-top: 30px; background: #233656;">
-        <h1>📊 Pew Research Center 皮尤研究中心</h1>
-        <div class="source-info">
-            来源: <a href="{data['pewresearch']['source_url']}" target="_blank" style="color: white;">Pew Research Center</a> |
-            今日收录: {len(pew_news)}篇
-        </div>
-    </div>
-'''
-        for i, article in enumerate(pew_news[:6], 1):
-            highlight = '<span class="highlight">' if i == 1 else ''
-            highlight_end = '</span>' if i == 1 else ''
-            new_badge = ' | 🆕 今日最新' if i == 1 else ''
-            html += f'''
-    <div class="article">
-        <div class="article-header">
-            <div class="article-meta">
-                <span class="article-author">Pew Research Center</span>
-                <span class="article-date">{highlight}{article['date']}{highlight_end}</span>
-            </div>
-            <div class="article-title">{article['title']}</div>
-            <div class="article-subtitle">{article.get('type', 'Report')}</div>
-        </div>
-        <div class="article-summary">{article.get('summary_cn', article.get('summary_en', ''))}</div>
-        <div class="article-footer">
-            <a href="{article['url']}" target="_blank" class="article-link">🔗 查看原文</a>
-            <div class="meta">来源: {article['source']} | 分类: {article.get('category', 'general')}{new_badge}</div>
-        </div>
-    </div>
-'''
-
+        
+        html += '    </div>\n'
+    
     # 页脚
     html += '''
     <div class="footer">
         📊 本项目从真实网站抓取，每条新闻都有具体URL可验证<br>
-        🔄 每日自动更新 | 体制内公文编译风格
+        🔄 每日自动更新 | 📝 体制内公文编译风格 | 📅 按日期聚合展示
     </div>
 </body>
 </html>
 '''
-
+    
     # 保存
     with open('docs/index.html', 'w', encoding='utf-8') as f:
         f.write(html)
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(html)
-
-    print("\n✅ 展示页面已重新生成！")
-    print("✅ 所有链接100%来自原始数据文件！")
+    
+    print(f"\n✅ 展示页面已生成！共 {len(all_articles)} 篇文章，{len(articles_by_date)} 个日期")
+    print("✅ 按日期倒序排列，所有来源混排")
 
 if __name__ == '__main__':
     generate_html()
