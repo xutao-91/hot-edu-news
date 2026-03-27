@@ -163,5 +163,43 @@
             "title_cn": "驳斥亚利桑那州学校选择项目中的欺诈虚假指控",
             "summary_cn": "传统基金会发表评论文章，驳斥针对亚利桑那州学校选择项目提出的欺诈指控。文章指出，这些指控缺乏事实依据，是对学校选择项目的误解和误导性攻击。亚利桑那州的学校选择项目，即教育储蓄账户（ESA）计划，允许家庭将公共教育资金用于私立学校学费、家庭教育、在线教育、辅导服务和其他获批的教育费用。批评者声称该项目存在广泛的欺诈和滥用行为，但传统基金会的分析显示，这些指控往往基于个别案例或未经证实的传闻，而非系统的实证证据。实际上，亚利桑那州对学校选择资金的使用有严格的监管和问责机制，包括定期审计、费用报销审核和违规处罚措施。研究表明，大多数参与学校选择项目的家庭都合法合规地使用资金为子女提供优质教育。文章强调，学校选择项目实际上为学生和家庭提供了更多教育机会，特别是对于那些传统公立学校无法满足其特殊需求的学生。批评者散布欺诈指控的真正目的可能是为了削弱公众对学校选择的支持，而非真正关心项目完整性。传统基金会呼吁政策制定者基于事实而非误导性言论来评估学校选择政策，并继续扩大教育选择机会，让更多家庭能够选择最适合子女需求的教育途径。"
         }
+    },
+    "rand": {
+        "Standards-Aligned Instructional Materials Use and Science Practices in K–12 Schools: Findings from the Spring 2025 American Instructional Resources Survey": {
+            "title_cn": "K-12学校课程标准教学材料使用与科学实践：2025年春季美国教学资源调查结果",
+            "summary_cn": "兰德公司发布研究报告，基于2025年春季美国教学资源调查数据，分析幼儿园至12年级科学教师使用教学材料的情况。报告强调了采用和实施符合课程标准的教学材料的机会，为改进科学教育提供了实证依据。"
+        },
+        "Implications of Chinese Influence Operations for South Korea and the US-ROK Alliance": {
+            "title_cn": "中国影响力行动对韩国及美韩联盟的影响",
+            "summary_cn": "兰德公司研究报告分析中国影响力行动对韩国及美韩联盟的影响，探讨地缘政治变化对地区安全格局的影响。"
+        },
+        "Open Models, Soft Power, and the Spectrum of U.S.-China Artificial Intelligence Competition": {
+            "title_cn": "开放模型、软实力与美人工智能竞争谱系",
+            "summary_cn": "兰德公司专家洞见文章，探讨开放AI模型、软实力在美中人工智能竞争中的作用，分析两国在AI领域竞争的不同层面和战略影响。"
+        },
+        "Toward a Grand Strategy for AI Resilience": {
+            "title_cn": "迈向人工智能韧性的大战略",
+            "summary_cn": "兰德公司专家洞见文章，提出建立人工智能韧性大战略的框架，探讨如何增强AI系统面对各种威胁和干扰的抵御能力。"
+        },
+        "Internet Cutoff Switches as a Local Emergency Response for Damaging Artificial Intelligence Incidents": {
+            "title_cn": "互联网切断开关作为应对有害人工智能事件的地方应急响应手段",
+            "summary_cn": "兰德公司研究报告，探讨在发生有害AI事件时使用互联网切断开关作为地方应急响应手段的可行性和影响。"
+        },
+        "Legal and Policy Approaches to Mitigate Catastrophic Harms from AI": {
+            "title_cn": "减轻人工智能灾难性危害的法律与政策途径",
+            "summary_cn": "兰德公司研究报告，分析减轻人工智能可能带来的灾难性危害的法律和政策途径，为政策制定者提供应对AI风险的框架建议。"
+        },
+        "Technical Documentation for the Twelfth American School District Panel Survey": {
+            "title_cn": "第十二次美国学区委员会调查技术文档",
+            "summary_cn": "兰德公司发布第十二次美国学区委员会调查的技术文档，详细说明调查方法、数据收集过程和技术规格。"
+        },
+        "Educator Turnover Rates Stabilize After the Pandemic: Findings from the American School District Panel": {
+            "title_cn": "疫情后教育工作者流动率趋于稳定：美国学区委员会调查结果",
+            "summary_cn": "兰德公司基于美国学区委员会调查数据发布报告，显示疫情后教育工作者流动率已趋于稳定，为理解教育劳动力市场变化提供了重要数据。"
+        },
+        "Artificial General Intelligence Forecasting and Scenario Analysis: State of the Field, Methodological Gaps, and Strategic Implications": {
+            "title_cn": "通用人工智能预测与情景分析：领域现状、方法论空白与战略影响",
+            "summary_cn": "兰德公司研究报告，全面评估通用人工智能（AGI）预测和情景分析领域的现状，识别人工智能预测中的方法论空白，并探讨其对战略决策的影响。"
+        }
     }
 }
