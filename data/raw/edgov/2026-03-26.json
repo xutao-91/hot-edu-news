@@ -1,0 +1,88 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-03-26T20:00:07.106813",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-downsize-footprint-washington-dc-and-save-taxpayers-over-48-million-annually",
+      "date": "March 26, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "U.S. Department of Education Celebrates More Than 10 Million FAFSA® Forms Complete and Additional Transparency Measures",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-celebrates-more-10-million-fafsar-forms-complete-and-additional-transparency-measures",
+      "date": "March 26, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "Indiana First Lady Maureen Braun Highlights Civics Education at “History Rocks!” Event",
+      "url": "https://www.ed.gov/about/news/press-release/indiana-first-lady-maureen-braun-highlights-civics-education-history-rocks-event",
+      "date": "March 26, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Kansas",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-kansas",
+      "date": "March 25, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "FACT SHEET: Victories for Higher Education, Making College More Affordable and Expediting Workforce Readiness",
+      "url": "https://www.ed.gov/about/news/press-release/fact-sheet-victories-higher-education-making-college-more-affordable-and-expediting-workforce-readiness",
+      "date": "March 25, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Secretary McMahon’s Commencement Address for The Apprentice School at Newport News Shipbuilding",
+      "url": "https://www.ed.gov/about/news/speech/secretary-mcmahons-commencement-address-apprentice-school-newport-news-shipbuilding",
+      "date": "March 25, 2026",
+      "type": "Speech",
+      "source": "U.S. Department of Education",
+      "category": "k12"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at “History Rocks!” Events in Tennessee and Missouri",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri",
+      "date": "March 24, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education’s Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus",
+      "date": "March 23, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    },
+    {
+      "title": "U.S. Department of Education Leaders Highlight Civics Education at “History Rocks!” Events in Vermont and West Virginia",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-leaders-highlight-civics-education-history-rocks-events-vermont-and-west-virginia",
+      "date": "March 20, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    }
+  ]
+}

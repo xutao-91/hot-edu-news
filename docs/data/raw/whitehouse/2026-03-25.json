@@ -1,0 +1,99 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-03-25T10:24:11.149829",
+  "filter_days": 7,
+  "total_news": 10,
+  "news": [
+    {
+      "title": "特朗普总统宣布任命总统科技顾问委员会新成员",
+      "original_title": "President Trump Announces Appointments to President's Council of Advisors on Science and Technology",
+      "url": "https://www.whitehouse.gov/articles/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
+      "date": "March 25, 2026",
+      "category": "Articles",
+      "source": "The White House",
+      "summary_cn": "美国总统特朗普今日宣布任命多位知名科学家和工程师加入总统科技顾问委员会（PCAST）。新任命的成员涵盖人工智能、量子计算、生物技术等前沿领域，体现了政府对保持美国科技领先地位的高度重视。特朗普总统表示，这些杰出专家将为政府制定科技政策提供重要咨询，确保美国在全球科技竞争中保持优势。此举系特朗普政府强化科技治理、推动关键技术发展的重要部署，值得持续关注其后续政策走向。"
+    },
+    {
+      "title": "马克韦恩·马林部长表示将全力落实特朗普总统施政议程",
+      "original_title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump's Agenda",
+      "url": "https://www.whitehouse.gov/articles/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
+      "date": "March 24, 2026",
+      "category": "Articles",
+      "source": "The White House",
+      "summary_cn": "白宫今日发布消息称，新任内阁部长马克韦恩·马林表示将全力落实特朗普总统的施政议程。马林部长强调，将严格执行总统指示，推动各项政策目标如期实现。他表示，当前美国面临诸多挑战，需要政府各部门协同配合，以高效务实的作风服务美国人民。此次表态体现了特朗普政府内部团结一致、推进改革的政策基调，反映了其强化行政执行力的施政特点。"
+    },
+    {
+      "title": "特朗普总统延长联邦应急管理局审查委员会任期",
+      "original_title": "Further Continuance of the Federal Emergency Management Agency Review Council",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "summary_cn": "美国总统特朗普签署行政命令，延长联邦应急管理局（FEMA）审查委员会的任期。该委员会负责评估FEMA的运作效率和政策执行情况，向总统提供改进建议。特朗普总统表示，延长委员会任期有助于深化对联邦应急管理工作的监督，提升灾害应对能力。此举体现了特朗普政府强化联邦机构问责、提高行政效能的改革取向。"
+    },
+    {
+      "title": "特朗普总统发表希腊独立日贺词",
+      "original_title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "summary_cn": "美国总统特朗普发表公告，宣布3月25日为希腊独立日全国庆祝日。总统在公告中回顾了希腊作为西方民主发源地的重要历史地位，强调美希两国在民主价值观上的深厚纽带。他表示，希腊独立日不仅是希腊人民的节日，也是美国人民共同庆祝的日子，两国友谊历经百年风雨仍历久弥坚。此举体现了美国对传统盟友关系的重视及对民主价值观的强调。"
+    },
+    {
+      "title": "特朗普总统发表全国农业日致辞",
+      "original_title": "National Agriculture Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/national-agriculture-day-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "summary_cn": "美国总统特朗普发表全国农业日致辞，向全美农民和农业工作者致敬。总统在致辞中高度赞扬了美国农业对国家经济和安全的重要贡献，强调农业是美国的重要战略资源。他表示，政府将继续支持农业发展，保护农民利益，确保美国农业在全球保持竞争力。此举体现了特朗普政府对农业传统和农民群体的重视。"
+    },
+    {
+      "title": "第一夫人梅拉尼娅·特朗普启动'共创未来'倡议 45国出席首届联盟峰会",
+      "original_title": "First Lady Melania Trump Launches Fostering the Future Together, 45 Member Nations Attend the Inaugural Coalition Summit",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-launches-fostering-the-future-together-45-member-nations-attend-the-inaugural-coalition-summit/",
+      "date": "March 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "summary_cn": "第一夫人梅拉尼娅·特朗普近日在白宫宣布启动'共创未来'全球倡议，来自45个国家的代表出席了首届联盟峰会。该倡议聚焦儿童福祉和青少年发展，旨在促进国际社会在儿童保护、教育公平、心理健康等领域的合作。第一夫人强调，儿童是国家的未来，国际社会应携手为下一代创造更好的成长环境。此次峰会彰显了美国在国际儿童权益保护领域的领导作用，对全球教育合作具有积极意义。"
+    },
+    {
+      "title": "特朗普总统就帕特里克·亨利'不自由毋宁死'演讲周年发表致辞",
+      "original_title": "Presidential Message on the Anniversary of Patrick Henry's 'Give Me Liberty, Or Give Me Death!' Speech",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-the-anniversary-of-patrick-henrys-give-me-liberty-or-give-me-death-speech/",
+      "date": "March 23, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "summary_cn": "美国总统特朗普日前发表致辞，纪念美国独立战争时期著名政治家帕特里克·亨利发表'不自由毋宁死'演讲250周年。致辞强调，亨利的演讲至今仍激励着美国人民捍卫自由、反抗暴政的精神。总统表示，当前美国面临着国内外诸多挑战，更需要传承和弘扬这种爱国精神，维护美国的核心价值观。致辞呼吁全体国民团结一致，共同应对威胁美国国家安全和公民自由的各项挑战，确保美国继续作为自由世界的领袖。"
+    },
+    {
+      "title": "特朗普总统'孟菲斯安全特遣队'打击犯罪取得重大成果",
+      "original_title": "President Trump's 'Memphis Safe Task Force' Delivers Crushing Blow to Crime",
+      "url": "https://www.whitehouse.gov/articles/2026/03/president-trumps-memphis-safe-task-force-delivers-crushing-blow-to-crime/",
+      "date": "March 23, 2026",
+      "category": "Articles",
+      "source": "The White House",
+      "summary_cn": "白宫今日宣布，特朗普总统部署的'孟菲斯安全特遣队'在打击当地犯罪活动中取得重大成果。特遣队由联邦执法部门与当地警方联合组成，针对孟菲斯市高发犯罪区域开展专项行动。据报道，行动开展以来，当地暴力犯罪率显著下降，多个贩毒团伙被成功打掉。特朗普总统表示，这一成功经验将推广至其他犯罪高发城市，展现联邦政府维护社会治安的决心和能力。"
+    },
+    {
+      "title": "特朗普总统签署S.4138号国会法案",
+      "original_title": "Congressional Bill S. 4138 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bill-s-4138-signed-into-law/",
+      "date": "March 20, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "summary_cn": "美国总统特朗普签署S.4138号国会法案，使其正式成为法律。白宫声明表示，该法案的通过体现了府会合作推进国家治理的积极成果。特朗普总统感谢国会两党议员的支持，强调该法案对促进美国人民福祉具有重要意义。此举反映了特朗普政府与国会合作推进立法议程的政策特点。"
+    },
+    {
+      "title": "白宫就国土安全部停摆发表声明",
+      "original_title": "Democrats' DHS Shutdown Enters 35th Day as Airports Plunge into Chaos, Frontline Workers Suffer",
+      "url": "https://www.whitehouse.gov/articles/2026/03/democrats-dhs-shutdown-enters-35th-day-as-airports-plunge-into-chaos-frontline-workers-suffer/",
+      "date": "March 20, 2026",
+      "category": "Articles",
+      "source": "The White House",
+      "summary_cn": "白宫发表声明，就国土安全部预算僵局导致部门停摆进入第35天表示关切。声明指出，停摆已导致全国多个机场陷入混乱，一线工作人员深受其害。白宫将责任归于国会民主党人，称其对边境安全拨款持阻挠态度。特朗普总统呼吁国会尽快通过相关拨款法案，结束这场'人为制造的危机'，恢复国土安全部的正常运作。此事反映了当前府会之间在移民和边境政策上的深刻分歧。"
+    }
+  ]
+}

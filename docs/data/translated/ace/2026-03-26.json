@@ -1,0 +1,31 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-03-25T10:24:14.099899",
+  "filter_days": 7,
+  "total_news": 2,
+  "news": [
+    {
+      "title": "ACE联合多协会呼吁撤销联邦资助DEI认证要求",
+      "original_title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on 'Unlawful DEI' and Other Issues",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
+      "date": "March 23, 2026",
+      "type": "News",
+      "source": "ACE",
+      "category": "federal_policy",
+      "summary_cn": "美国教育委员会（ACE）联合其他主要高等教育协会，近日正式致函联邦总务管理局（GSA），强烈呼吁撤销一项关于'非法多元化、公平与包容（DEI）'的拟议认证要求，维护高校合法权益。特朗普政府此前提议，所有接受联邦资助的高等教育机构须认证其不存在'非法DEI项目'，方可继续获得联邦资金支持。ACE表示，该要求界定模糊、标准不清、范围不明，缺乏明确的法律定义和操作指引，将给高校合规带来重大不确定性和法律风险，可能严重影响正常教学科研活动、学术自由和学生权益保护。ACE强调，高校应继续致力于营造包容性校园环境，促进教育公平，同时呼吁政府明确合规标准，提供清晰指导，避免对高等教育发展造成不必要的干扰和损害，维护高等教育的独立性和多样性。"
+    },
+    {
+      "title": "ACE支持法律挑战 ACTS截止日期延后",
+      "original_title": "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACTS-Deadline-Shifts-ACE-Associations-Support-Legal-Challenge.aspx",
+      "date": "March 20, 2026",
+      "type": "News",
+      "source": "ACE",
+      "category": "federal_policy",
+      "summary_cn": "美国教育委员会（ACE）联合其他10个主要高等教育协会，日前正式向法院提交法庭之友意见书，明确支持对教育部IPEDS招生与消费者透明度补充调查（ACTS）的法律挑战，维护高校利益。原告方请求法院在案件审理期间暂缓执行ACTS要求，ACE对此表示坚定支持。ACE指出，ACTS对高校数据报送提出了过于繁重、成本高昂的额外要求，涉及大量敏感学生信息，将显著增加学校行政负担和合规成本，且可能涉及学生隐私保护和数据安全问题，缺乏充分的法律依据和必要性论证。法院已批准将ACTS执行截止日期延后，为案件审理留出充分时间。"
+    }
+  ],
+  "translated_count": 2,
+  "missing_count": 0
+}
