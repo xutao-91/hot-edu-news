@@ -1,7 +1,17 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-27T07:48:15.699601",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-03-27T07:55:49.474921",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
+      "date": "March 23, 2026",
+      "type": "News",
+      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
 }

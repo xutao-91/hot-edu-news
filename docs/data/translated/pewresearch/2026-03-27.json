@@ -1,0 +1,27 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-03-27T07:48:19.609206",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "约六成美国人对医疗辅助死亡没有道德异议",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/",
+      "date": "Mar 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Death Dying",
+        "Health Care",
+        "Medicine Health",
+        "Religion Social Values"
+      ],
+      "summary_en": "Republicans are twice as likely as Democrats to call physician-assisted death morally wrong (48% vs. 23%).",
+      "source": "Pew Research Center",
+      "category": "technology",
+      "original_title": "About 6 in 10 Americans don’t have moral objections to medical aid in dying",
+      "summary_cn": "皮尤研究中心调查显示，约60%的美国民众对医疗辅助死亡没有道德上的反对意见。但党派分歧明显：48%的共和党支持者认为医师协助死亡在道德上是错误的，而民主党支持者中这一比例仅为23%。"
+    }
+  ],
+  "translated_count": 1,
+  "missing_count": 0
+}
