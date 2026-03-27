@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Brookings Institution Education 专题爬虫
-抓取原始英文数据，保存到 data/raw/brookings/
+只抓取与关键词相关的文章
 """
 import json
 import requests
@@ -12,6 +12,20 @@ import re
 
 BROOKINGS_URL = "https://www.brookings.edu/topics/education-2/"
 RAW_DIR = "data/raw/brookings"
+
+# 关键词列表
+KEYWORDS = [
+    # 英文关键词
+    'education', 'educational', 'talent', 'AI', 'STEM', 'university', 'universities',
+    'higher education', 'college', 'colleges', 'Chinese', 'China', 'artificial intelligence',
+    'training', 'cultivate', 'innovate', 'innovation', 'innovative', 'teacher', 'teachers',
+    'faculty', 'apprentice', 'apprenticeship', 'curriculum', 'teaching', 'school', 'schools',
+    'quantum', 'workforce', 'student', 'students', 'learning', 'academic', 'research',
+    'scholar', 'scholarship', 'degree', 'graduate', 'graduation', 'enrollment',
+    # 中文关键词（如果原文有中文）
+    '教育', '人才', '大学', '高校', '中国', '人工智能', '培养', '创新', '教师', '师资',
+    '学徒', '课程', '教学', '学校', '量子'
+]
 
 def parse_date(date_str):
     date_formats = ['%B %d, %Y', '%b %d, %Y', '%Y-%m-%d']
@@ -28,6 +42,16 @@ def is_within_days(date_str, days=7):
         return True
     cutoff_date = datetime.now() - timedelta(days=days)
     return article_date >= cutoff_date
+
+def matches_keywords(text):
+    """检查文本是否包含关键词"""
+    if not text:
+        return False
+    text_lower = text.lower()
+    for keyword in KEYWORDS:
+        if keyword.lower() in text_lower:
+            return True
+    return False
 
 def categorize(title):
     title_lower = title.lower()
@@ -48,6 +72,7 @@ def categorize(title):
 def crawl_brookings():
     print("🚀 开始抓取 Brookings Institution - Education...")
     print(f"📡 网址: {BROOKINGS_URL}")
+    print(f"🔍 关键词过滤: {', '.join(KEYWORDS[:10])}...")
     
     try:
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
@@ -58,15 +83,22 @@ def crawl_brookings():
         
         soup = BeautifulSoup(response.text, 'html.parser')
         articles = []
+        filtered_count = 0
         
         # 尝试从列表页获取
         article_items = soup.find_all('li', class_='ais-InfiniteHits-item')
-        print(f"✅ 找到 {len(article_items)} 篇文章")
+        print(f"✅ 找到 {len(article_items)} 篇文章，开始关键词过滤...")
         
         for item in article_items[:20]:
             try:
                 title_elem = item.find('span', class_='article-title') or item.find('span', class_='ais-Highlight-nonHighlighted')
                 title = title_elem.get_text().strip() if title_elem else ''
+                
+                # 关键词过滤
+                if not matches_keywords(title):
+                    filtered_count += 1
+                    print(f"  ⏭️  跳过（无关键词）: {title[:50]}...")
+                    continue
                 
                 link_elem = item.find('a', class_='overlay-link')
                 link = link_elem.get('href', '') if link_elem else ''
@@ -90,6 +122,8 @@ def crawl_brookings():
                         'source': 'Brookings Institution',
                         'category': categorize(title)
                     })
+                    print(f"  ✅ {title[:60]}...")
+                    
             except Exception as e:
                 continue
         
@@ -97,6 +131,8 @@ def crawl_brookings():
         if len(articles) == 0:
             print("⚠️  列表页未获取到数据，使用备用URL...")
             articles = crawl_from_detail_pages()
+        
+        print(f"\n📊 过滤结果: {len(articles)} 篇匹配关键词，跳过 {filtered_count} 篇")
         
         # 保存原始数据
         os.makedirs(RAW_DIR, exist_ok=True)
@@ -141,6 +177,11 @@ def crawl_from_detail_pages():
             soup = BeautifulSoup(response.text, 'html.parser')
             
             title = soup.find('h1').get_text().strip() if soup.find('h1') else ''
+            
+            # 关键词过滤
+            if not matches_keywords(title):
+                print(f"  ⏭️  跳过（无关键词）: {title[:50]}...")
+                continue
             
             author = ""
             author_elem = soup.find('a', class_='person-hover')

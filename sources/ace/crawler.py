@@ -14,6 +14,28 @@ import re
 ACE_URL = "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))"
 RAW_DIR = "data/raw/ace"
 
+# 关键词列表
+KEYWORDS = [
+    'education', 'educational', 'talent', 'AI', 'STEM', 'university', 'universities',
+    'higher education', 'college', 'colleges', 'Chinese', 'China', 'artificial intelligence',
+    'training', 'cultivate', 'innovate', 'innovation', 'innovative', 'teacher', 'teachers',
+    'faculty', 'apprentice', 'apprenticeship', 'curriculum', 'teaching', 'school', 'schools',
+    'quantum', 'workforce', 'student', 'students', 'learning', 'academic', 'research',
+    'scholar', 'scholarship', 'degree', 'graduate', 'graduation', 'enrollment',
+    '教育', '人才', '大学', '高校', '中国', '人工智能', '培养', '创新', '教师', '师资',
+    '学徒', '课程', '教学', '学校', '量子'
+]
+
+def matches_keywords(text):
+    """检查文本是否包含关键词"""
+    if not text:
+        return False
+    text_lower = text.lower()
+    for keyword in KEYWORDS:
+        if keyword.lower() in text_lower:
+            return True
+    return False
+
 def parse_date(date_str):
     """解析日期字符串为datetime对象"""
     date_formats = [
@@ -43,6 +65,7 @@ def crawl_ace():
     print("🚀 开始抓取 ACE (American Council on Education)...")
     print(f"📡 网址: {ACE_URL}")
     print(f"📅 只抓取最近7天内的文章")
+    print(f"🔍 关键词过滤: education, talent, AI, STEM, university, teacher...")
     
     try:
         headers = {
@@ -101,6 +124,12 @@ def crawl_ace():
                     print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {date}")
                     continue
                 
+                # 关键词过滤
+                if not matches_keywords(title):
+                    skipped_count += 1
+                    print(f"  ⏭️  跳过（无关键词）: {title[:40]}...")
+                    continue
+                
                 # 摘要
                 summary = ""
                 desc_elem = post.find('div', class_='rollup-desc')
@@ -124,7 +153,7 @@ def crawl_ace():
                 print(f"  ⚠️  解析失败: {e}")
                 continue
         
-        print(f"\n📊 过滤结果: {len(articles)} 篇在7天内")
+        print(f"\n📊 过滤结果: {len(articles)} 篇匹配（7天内+关键词），跳过 {skipped_count} 篇（超期+无关键词），跳过 {podcast_count} 篇（播客）")
         print(f"   跳过 {skipped_count} 篇（超过7天）")
         print(f"   跳过 {podcast_count} 篇（播客）")
         
