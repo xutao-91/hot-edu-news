@@ -5,13 +5,13 @@
   "total_news": 10,
   "news": [
     {
-      "title": "Addressing DEI Discrimination by Federal Contractors",
+      "title": "解决联邦承包商DEI歧视问题",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-dei-discrimination-by-federal-contractors/",
       "date": "March 26, 2026",
       "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Addressing DEI Discrimination by Federal Contractors",
-      "summary_cn": ""
+      "summary_cn": "特朗普总统签署行政命令，要求联邦机构终止与从事非法歧视的承包商的合同。命令要求总务管理局修改联邦采购法规，禁止联邦承包商在就业和人事决策中进行歧视。"
     },
     {
       "title": "Congressional Bills H.R. 3377, H.R. 7194, H.R. 7211 Signed into Law",
@@ -23,13 +23,13 @@
       "summary_cn": ""
     },
     {
-      "title": "Fact Sheet: President Donald J. Trump Addresses DEI Discrimination by Federal Contractors",
+      "title": "情况说明书：特朗普总统解决联邦承包商DEI歧视问题",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-addresses-dei-discrimination-by-federal-contractors/",
       "date": "March 26, 2026",
       "category": "Fact Sheets",
       "source": "The White House",
       "original_title": "Fact Sheet: President Donald J. Trump Addresses DEI Discrimination by Federal Contractors",
-      "summary_cn": ""
+      "summary_cn": "白宫发布情况说明书，介绍特朗普总统签署的行政命令，要求终止与从事非法歧视的联邦承包商的合同，修改联邦采购法规，禁止就业歧视。"
     },
     {
       "title": "America First in Action: U.S. Records Net Negative Migration Across Every Metro Area",
@@ -77,24 +77,24 @@
       "summary_cn": ""
     },
     {
-      "title": "特朗普总统延长联邦应急管理局审查委员会任期",
+      "title": "延长联邦应急管理局审查委员会任期",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
       "date": "March 24, 2026",
       "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Further Continuance of the Federal Emergency Management Agency Review Council",
-      "summary_cn": "美国总统特朗普日前签署行政命令，正式延长联邦应急管理局（FEMA）审查委员会的任期，继续加强对该机构的监督评估。该委员会负责对FEMA的运作效率、政策执行、资源配置和灾害应对情况进行全面、深入的评估，并向总统提供改进建议和政策方案，以提高应急管理效能。特朗普总统表示，延长委员会任期有助于深化对联邦应急管理工作的持续监督和评估，提升灾害应对能力和救援效率，确保联邦应急管理资源得到合理有效利用，更好地保护人民生命财产安全。"
+      "summary_cn": "特朗普总统签署行政命令，延长联邦应急管理局（FEMA）审查委员会任期。该委员会负责评估FEMA运作效率，向总统提供改进建议。"
     },
     {
-      "title": "特朗普总统发表希腊独立日贺词",
+      "title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
       "date": "March 24, 2026",
       "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
-      "summary_cn": "美国总统特朗普日前发表公告，正式宣布3月25日为希腊独立日全国庆祝日，向希腊人民致以诚挚祝贺。总统在公告中深情回顾了希腊作为西方民主发源地的重要历史地位，深刻阐述了希腊文明对西方政治思想、民主制度、哲学文化的深远影响，强调美希两国在民主价值观、法治精神、人权理念上的深厚纽带与共同追求，两国友谊建立在共同的价值基础之上。他表示，希腊独立日不仅是希腊人民的重要节日，也是美国人民共同庆祝的日子，两国友谊历经百年风雨仍历久弥坚，在国际事务中保持密切合作。"
+      "summary_cn": ""
     }
   ],
-  "translated_count": 2,
-  "missing_count": 8
+  "translated_count": 3,
+  "missing_count": 7
 }
