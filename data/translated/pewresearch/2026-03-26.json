@@ -1,45 +1,83 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-03-25T23:44:08.532242",
-  "filter_days": 7,
+  "crawled_at": "2026-03-26T20:00:24.232984",
   "total_news": 9,
   "news": [
     {
+      "title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/26/many-latin-americans-especially-protestants-see-a-role-for-religion-in-national-leadership-identity-and-laws/",
+      "date": "Mar 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Race Ethnicity Religion",
+        "Religion Government 2",
+        "Religion Government 1",
+        "Religion",
+        "Religion Politics 3",
+        "Religion Politics 1",
+        "Religious Identity Affiliation"
+      ],
+      "summary_en": "Majorities in Brazil, Colombia and Peru want leaders who stand up for their religious beliefs. Protestants are especially supportive of Christianity in public life.",
+      "source": "Pew Research Center",
+      "category": "international",
+      "original_title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "summary_cn": "Majorities in Brazil, Colombia and Peru want leaders who stand up for their religious beliefs. Protestants are especially supportive of Christianity in public life."
+    },
+    {
+      "title": "Religious Radio Across America",
+      "url": "https://www.pewresearch.org/data-labs/2026/03/26/religious-radio-across-america/",
+      "date": "Mar 26, 2026",
+      "type": "report",
+      "categories": [
+        "Audio Radio Podcasts",
+        "Data Science",
+        "Religion",
+        "Religion Politics 1",
+        "Religion Social Values"
+      ],
+      "summary_en": "Almost all U.S. adults live in range of a religious radio station, most commonly Christian radio. Stations tend to broadcast either mostly music or mostly talk.",
+      "source": "Pew Research Center",
+      "category": "religion",
+      "original_title": "Religious Radio Across America",
+      "summary_cn": "Almost all U.S. adults live in range of a religious radio station, most commonly Christian radio. Stations tend to broadcast either mostly music or mostly talk."
+    },
+    {
       "title": "全球同性婚姻立法进展：荷兰开创先河25周年",
-      "original_title": "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it",
       "url": "https://www.pewresearch.org/short-reads/2026/03/25/key-facts-about-same-sex-marriage-around-the-world-25-years-after-the-netherlands-legalized-it/",
       "date": "Mar 25, 2026",
       "type": "short reads",
       "categories": [
         "Lgbtq Acceptance",
         "Marriage Divorce",
-        "Same Sex Marriage"
+        "Same Sex Marriage 2",
+        "Same Sex Marriage 1"
       ],
       "summary_en": "Twenty-five years after the first nationally recognized same-sex marriages, nearly 40 places now allow them. But their prevalence varies, as do public attitudes.",
-      "summary_cn": "皮尤研究中心发布最新调查报告，全面回顾荷兰成为全球首个全国性立法承认同性婚姻国家25周年以来的全球立法进展、社会变迁与趋势演变。调查数据显示，截至目前已有近40个国家和地区通过立法承认同性婚姻合法地位，覆盖人口持续扩大，涉及各大洲不同发展水平的国家，但各国普及程度和公众接受度差异显著，反映了文化、宗教、政治因素的深刻影响。报告深入分析了不同地区在婚姻平权方面的政策取向、立法进程和社会接受度演变，揭示了推动因素与阻碍因素。报告指出，尽管进展明显，但全球多数国家仍不允许同性婚姻，该议题在国际社会仍存在较大争议和分歧，一些国家甚至出现回潮现象。报告对理解全球婚姻制度变迁、社会价值观演进和人权发展具有重要参考价值。",
       "source": "Pew Research Center",
-      "category": "demographics"
+      "category": "demographics",
+      "original_title": "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it",
+      "summary_cn": "皮尤研究中心发布最新调查报告，全面回顾荷兰成为全球首个全国性立法承认同性婚姻国家25周年以来的全球立法进展、社会变迁与趋势演变。调查数据显示，截至目前已有近40个国家和地区通过立法承认同性婚姻合法地位，覆盖人口持续扩大，涉及各大洲不同发展水平的国家，但各国普及程度和公众接受度差异显著，反映了文化、宗教、政治因素的深刻影响。报告深入分析了不同地区在婚姻平权方面的政策取向、立法进程和社会接受度演变，揭示了推动因素与阻碍因素。报告指出，尽管进展明显，但全球多数国家仍不允许同性婚姻，该议题在国际社会仍存在较大争议和分歧，一些国家甚至出现回潮现象。报告对理解全球婚姻制度变迁、社会价值观演进和人权发展具有重要参考价值。"
     },
     {
       "title": "多数美国民众反对对伊朗采取军事行动",
-      "original_title": "Americans Broadly Disapprove of U.S. Military Action in Iran",
       "url": "https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/",
       "date": "Mar 25, 2026",
       "type": "report",
       "categories": [
         "Donald Trump",
         "Politics Policy",
-        "War International Conflict"
+        "War International Conflict 1"
       ],
-      "summary_en": "Most Americans say striking Iran was the wrong decision and disapprove of Trump's handling of the conflict, with stark partisan divides.",
-      "summary_cn": "皮尤研究中心最新民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满和担忧，反映公众对军事干预的审慎态度。调查显示，在此议题上党派分歧明显，民主党与共和党支持者立场差异悬殊，反映出美国社会在外交政策上的深刻分裂和政治极化。民调还发现，年轻群体和受过高等教育的受访者更倾向于反对军事干预，而年长群体则相对支持强硬政策，代际差异显著。此外，地区因素也对态度产生影响，不同地区的受访者基于当地经济联系和安全关切表现出不同倾向。",
+      "summary_en": "Most Americans say striking Iran was the wrong decision and disapprove of Trump’s handling of the conflict, with stark partisan divides.",
       "source": "Pew Research Center",
-      "category": "politics"
+      "category": "general",
+      "original_title": "Americans Broadly Disapprove of U.S. Military Action in Iran",
+      "summary_cn": "皮尤研究中心最新民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满和担忧，反映公众对军事干预的审慎态度。调查显示，在此议题上党派分歧明显，民主党与共和党支持者立场差异悬殊，反映出美国社会在外交政策上的深刻分裂和政治极化。民调还发现，年轻群体和受过高等教育的受访者更倾向于反对军事干预，而年长群体则相对支持强硬政策，代际差异显著。此外，地区因素也对态度产生影响，不同地区的受访者基于当地经济联系和安全关切表现出不同倾向。"
     },
     {
       "title": "美国建国250周年：过去50年的社会变迁",
-      "original_title": "The United States at 250: How the Country Has Changed in the Past 50 Years",
       "url": "https://www.pewresearch.org/social-trends/2026/03/25/the-united-states-at-250-how-the-country-has-changed-in-the-past-50-years/",
       "date": "Mar 25, 2026",
       "type": "data essay",
@@ -47,66 +85,71 @@
         "Age",
         "Economics Work Gender",
         "Economy Work",
+        "Income Wealth Poverty",
         "U S Census",
         "U S Democracy"
       ],
       "summary_en": "As America turns 250, explore how demographics, work, family and economics have shifted since 1976, based on 50 years of Census data.",
-      "summary_cn": "皮尤研究中心发布大型数据专题报告，基于美国人口普查局50年来的权威数据，系统梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态和经济状况等方面的深刻变化与演进趋势。报告指出，美国正经历人口老龄化加速、家庭结构多元化、收入差距持续扩大、种族构成深刻变化等重大社会转型，这些结构性变化对理解当前美国政治生态、社会撕裂和治理挑战具有重要参考价值。报告还发现，教育水平、地域和种族因素对社会经济地位的影响日益显著，美国梦的实现路径变得更加多元和复杂。移民结构的变化、女性劳动参与率的提升、技术变革对就业的影响等趋势，共同塑造了今日美国社会的面貌，对政策制定和社会治理提出了新的要求和挑战。",
       "source": "Pew Research Center",
-      "category": "demographics"
+      "category": "international",
+      "original_title": "The United States at 250: How the Country Has Changed in the Past 50 Years",
+      "summary_cn": "皮尤研究中心发布大型数据专题报告，基于美国人口普查局50年来的权威数据，系统梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态和经济状况等方面的深刻变化与演进趋势。报告指出，美国正经历人口老龄化加速、家庭结构多元化、收入差距持续扩大、种族构成深刻变化等重大社会转型，这些结构性变化对理解当前美国政治生态、社会撕裂和治理挑战具有重要参考价值。报告还发现，教育水平、地域和种族因素对社会经济地位的影响日益显著，美国梦的实现路径变得更加多元和复杂。移民结构的变化、女性劳动参与率的提升、技术变革对就业的影响等趋势，共同塑造了今日美国社会的面貌，对政策制定和社会治理提出了新的要求和挑战。"
     },
     {
-      "title": "美国民众对种族多元化的态度调查",
-      "original_title": "How Americans view racial diversity ahead of the country's 250th anniversary",
+      "title": "How Americans view racial diversity ahead of the country’s 250th anniversary",
       "url": "https://www.pewresearch.org/short-reads/2026/03/25/how-americans-value-racial-diversity-ahead-of-the-countrys-250th-anniversary/",
       "date": "Mar 25, 2026",
       "type": "short reads",
       "categories": [
         "Race Relations",
+        "Race Ethnicity Politics 2",
         "Racial Bias Discrimination",
         "U S Democracy"
       ],
-      "summary_en": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country's culture.",
-      "summary_cn": "皮尤研究中心最新大型调查显示，75%的美国成年人认为种族多元化对国家是好事，但民主党与共和党支持者对多元化如何影响美国文化、社会凝聚力和国家认同存在显著分歧，反映政治极化。在建国250周年之际，该调查深刻反映了美国社会对身份认同、文化认同和国家认同的深层张力与焦虑。调查发现，教育程度、年龄和居住地区对多元化态度影响显著，年轻群体和受过高等教育的受访者更倾向于积极看待多元化，而年长者和农村居民则相对保守。种族因素也对态度产生影响，不同族裔群体对多元化的感受和期待存在差异。报告基于全国代表性样本，采用严谨的调查方法，数据具有较高的可信度和参考价值。",
+      "summary_en": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country’s culture.",
       "source": "Pew Research Center",
-      "category": "demographics"
+      "category": "international",
+      "original_title": "How Americans view racial diversity ahead of the country’s 250th anniversary",
+      "summary_cn": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country’s culture."
     },
     {
       "title": "美国民众突发新闻获取渠道调查",
-      "original_title": "Where do Americans turn first for information about breaking news?",
       "url": "https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/",
       "date": "Mar 24, 2026",
       "type": "short reads",
       "categories": [
-        "Digital News Landscape",
+        "Digital News Landscape 2",
         "Media Society",
         "News Habits Media",
+        "News Media Trends",
+        "Social Media",
         "Social Media News"
       ],
       "summary_en": "When a breaking news event happens, 36% of U.S. adults say they typically turn first to their preferred news organization to get more information.",
-      "summary_cn": "皮尤研究中心调查显示，当突发新闻事件发生时，36%的美国成年人表示会首选其信赖的新闻机构获取信息，另有相当比例民众转向社交媒体平台获取即时资讯，新闻消费习惯正在变化。报告指出，数字化时代美国民众的新闻消费习惯正在深刻变化，传统媒体与新兴平台的竞争格局持续演变，新闻获取渠道日益多元化和个性化，算法推荐对信息选择的影响日益加深。调查还发现，年龄、教育程度和政治倾向对新闻渠道选择影响显著，不同群体存在明显的信息茧房效应，加剧了社会观点的分化。社交媒体在年轻群体中的影响力持续上升，而传统媒体在中老年群体中仍保持优势。",
       "source": "Pew Research Center",
-      "category": "technology"
+      "category": "general",
+      "original_title": "Where do Americans turn first for information about breaking news?",
+      "summary_cn": "皮尤研究中心调查显示，当突发新闻事件发生时，36%的美国成年人表示会首选其信赖的新闻机构获取信息，另有相当比例民众转向社交媒体平台获取即时资讯，新闻消费习惯正在变化。报告指出，数字化时代美国民众的新闻消费习惯正在深刻变化，传统媒体与新兴平台的竞争格局持续演变，新闻获取渠道日益多元化和个性化，算法推荐对信息选择的影响日益加深。调查还发现，年龄、教育程度和政治倾向对新闻渠道选择影响显著，不同群体存在明显的信息茧房效应，加剧了社会观点的分化。社交媒体在年轻群体中的影响力持续上升，而传统媒体在中老年群体中仍保持优势。"
     },
     {
-      "title": "美国民众对安乐死道德观念调查",
-      "original_title": "About 6 in 10 Americans don't have moral objections to medical aid in dying",
+      "title": "About 6 in 10 Americans don’t have moral objections to medical aid in dying",
       "url": "https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/",
       "date": "Mar 23, 2026",
       "type": "short reads",
       "categories": [
         "Death Dying",
         "Health Care",
+        "Medicine Health",
         "Religion Social Values"
       ],
       "summary_en": "Republicans are twice as likely as Democrats to call physician-assisted death morally wrong (48% vs. 23%).",
-      "summary_cn": "皮尤研究中心最新调查显示，约六成美国民众对医疗辅助死亡没有道德上的反对意见，认为个人应有权选择有尊严地结束生命，但党派分歧明显且深刻。共和党支持者认为医师协助死亡在道德上是错误的比例高达48%，是民主党支持者（23%）的两倍多，显示价值观的深刻分裂。调查还发现，宗教信仰、年龄和教育程度对该议题态度影响显著，无宗教信仰者和年轻群体更倾向于支持安乐死合法化，而虔诚的宗教信徒则多持反对态度。地区差异也存在，不同州的受访者基于当地法律和文化背景表现出不同倾向。",
       "source": "Pew Research Center",
-      "category": "social_trends"
+      "category": "technology",
+      "original_title": "About 6 in 10 Americans don’t have moral objections to medical aid in dying",
+      "summary_cn": "Republicans are twice as likely as Democrats to call physician-assisted death morally wrong (48% vs. 23%)."
     },
     {
       "title": "美国黑人移民群体特征研究",
-      "original_title": "Key findings about Black immigrants in the U.S.",
       "url": "https://www.pewresearch.org/short-reads/2026/03/20/key-findings-about-black-immigrants-in-the-us/",
       "date": "Mar 20, 2026",
       "type": "short reads",
@@ -114,45 +157,16 @@
         "Black Americans",
         "Immigrant Populations",
         "Immigration Migration",
-        "Race Ethnicity"
+        "Race Ethnicity",
+        "Race Ethnicity Politics 2"
       ],
       "summary_en": "The U.S. Black immigrant population has more than doubled since 2000, reaching 5.6 million in 2024 and now making up 11.4% of the total Black population.",
-      "summary_cn": "皮尤研究中心发布最新研究报告显示，美国黑人移民群体自2000年以来增长逾一倍，2024年已达到560万人，占美国黑人总人口的11.4%，成为美国黑人社区中日益重要的组成部分。报告指出，该群体主要来源于非洲和加勒比地区，教育程度和就业状况呈现多元化特征，整体教育水平高于美国本土黑人，在科技、医疗、教育等领域表现突出。这一人口结构变化对美国种族关系、政治格局、社会融合和文化多样性具有深远影响，丰富了美国黑人社区的内涵和构成。报告还发现，黑人移民与本土黑人在身份认同、政治参与和社会经济地位方面存在差异，也对相关政策制定和社会服务提出了新的要求和挑战。",
       "source": "Pew Research Center",
-      "category": "demographics"
-    },
-    {
-      "title": "美国民众居住偏好调查：大房子还是便利设施",
-      "original_title": "Majority of Americans prefer spread-out communities with big houses",
-      "url": "https://www.pewresearch.org/short-reads/2026/03/19/majority-of-americans-prefer-spread-out-communities-with-big-houses/",
-      "date": "Mar 19, 2026",
-      "type": "short reads",
-      "categories": [
-        "Homeownership Renting",
-        "Rural Urban Suburban Communities"
-      ],
-      "summary_en": "55% of Americans say they would prefer to live in a community where houses are larger and farther away from amenities – compared to 44% who say the opposite.",
-      "summary_cn": "皮尤研究中心最新调查显示，55%的美国民众表示更愿意居住在房屋较大、空间开阔、与商业设施距离较远的社区，仅有44%的人偏好设施便利但居住空间较小的社区，郊区生活方式偏好依然强烈。报告深入分析了年龄、收入、党派归属和家庭结构等因素对居住偏好的影响，指出美国人对郊区生活方式的偏好持续存在且根深蒂固，这一趋势对城市规划和住房政策具有重要影响。调查还发现，种族和族裔背景对居住偏好也有一定影响，不同群体的居住选择反映了其生活方式和价值取向的多元化。随着远程工作的普及，这种偏好可能进一步增强，对城市发展模式、交通规划和环境保护都提出了新的思考。",
-      "source": "Pew Research Center",
-      "category": "social_trends"
-    },
-    {
-      "title": "美国人的道德观念调查",
-      "original_title": "What Do Americans Consider Immoral?",
-      "url": "https://www.pewresearch.org/religion/2026/03/19/what-do-americans-consider-immoral/",
-      "date": "Mar 19, 2026",
-      "type": "report",
-      "categories": [
-        "Religion Abortion",
-        "Religion Lgbtq Acceptance",
-        "Religion Social Values"
-      ],
-      "summary_en": "Nine-in-ten Americans say having an affair is wrong. Republicans and Democrats differ sharply on the morality of abortion and homosexuality.",
-      "summary_cn": "皮尤研究中心发布最新道德观念调查报告显示，九成美国民众认为婚外情是不道德的，但在堕胎和同性恋的道德评判上，民主党与共和党支持者存在显著且深刻的分歧，反映了价值观的极化和代际变化。报告系统梳理了美国社会在婚姻、家庭、生命伦理、性行为等不同议题上的道德观念分布和演变趋势，揭示了宗教虔诚度、政治立场、教育程度和代际差异对道德判断的深刻影响。年轻一代在多项议题上表现出更加开放的态度，而年长者则更倾向于传统价值观。报告数据来源于全国代表性样本调查，采用科学的抽样方法和严谨的数据分析，结果具有较高的可靠性和参考价值。",
-      "source": "Pew Research Center",
-      "category": "religion"
+      "category": "general",
+      "original_title": "Key findings about Black immigrants in the U.S.",
+      "summary_cn": "皮尤研究中心发布最新研究报告显示，美国黑人移民群体自2000年以来增长逾一倍，2024年已达到560万人，占美国黑人总人口的11.4%，成为美国黑人社区中日益重要的组成部分。报告指出，该群体主要来源于非洲和加勒比地区，教育程度和就业状况呈现多元化特征，整体教育水平高于美国本土黑人，在科技、医疗、教育等领域表现突出。这一人口结构变化对美国种族关系、政治格局、社会融合和文化多样性具有深远影响，丰富了美国黑人社区的内涵和构成。报告还发现，黑人移民与本土黑人在身份认同、政治参与和社会经济地位方面存在差异，也对相关政策制定和社会服务提出了新的要求和挑战。"
     }
   ],
-  "translated_count": 9,
-  "missing_count": 0
+  "translated_count": 5,
+  "missing_count": 4
 }
