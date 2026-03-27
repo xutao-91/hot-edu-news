@@ -5,24 +5,24 @@
   "total_news": 10,
   "news": [
     {
-      "title": "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually",
+      "title": "美国教育部将缩减华盛顿办公规模 每年为纳税人节省超过480万美元",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-downsize-footprint-washington-dc-and-save-taxpayers-over-48-million-annually",
       "date": "March 26, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "general",
       "original_title": "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually",
-      "summary_cn": ""
+      "summary_cn": "美国教育部宣布将缩减在华盛顿特区的办公规模，预计每年可为纳税人节省超过480万美元。教育部计划减少办公空间并优化人员配置，以提高运营效率。"
     },
     {
-      "title": "U.S. Department of Education Celebrates More Than 10 Million FAFSA® Forms Complete and Additional Transparency Measures",
+      "title": "美国教育部庆祝超过1000万份FAFSA表格完成及额外透明度措施",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-celebrates-more-10-million-fafsar-forms-complete-and-additional-transparency-measures",
       "date": "March 26, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "general",
       "original_title": "U.S. Department of Education Celebrates More Than 10 Million FAFSA® Forms Complete and Additional Transparency Measures",
-      "summary_cn": ""
+      "summary_cn": "美国教育部宣布，已有超过1000万份联邦学生资助免费申请表（FAFSA）完成提交。同时，教育部推出了额外的透明度措施，帮助学生和家庭更清楚地了解资助申请流程和资金分配情况。"
     },
     {
       "title": "Indiana First Lady Maureen Braun Highlights Civics Education at “History Rocks!” Event",
@@ -45,14 +45,14 @@
       "summary_cn": ""
     },
     {
-      "title": "FACT SHEET: Victories for Higher Education, Making College More Affordable and Expediting Workforce Readiness",
+      "title": "情况说明书：高等教育成果 让大学更负担得起并加快劳动力准备",
       "url": "https://www.ed.gov/about/news/press-release/fact-sheet-victories-higher-education-making-college-more-affordable-and-expediting-workforce-readiness",
       "date": "March 25, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "higher_ed",
       "original_title": "FACT SHEET: Victories for Higher Education, Making College More Affordable and Expediting Workforce Readiness",
-      "summary_cn": ""
+      "summary_cn": "美国教育部发布情况说明书，总结近期在高等教育领域取得的成果。文件指出，通过简化学生资助申请流程、扩大职业培训项目、加强与产业界合作等举措，有效降低了高等教育成本，提升了学生就业准备度。"
     },
     {
       "title": "Secretary McMahon’s Commencement Address for The Apprentice School at Newport News Shipbuilding",
@@ -105,6 +105,6 @@
       "summary_cn": ""
     }
   ],
-  "translated_count": 0,
-  "missing_count": 10
+  "translated_count": 3,
+  "missing_count": 7
 }

@@ -5,7 +5,7 @@
   "total_news": 9,
   "news": [
     {
-      "title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "title": "许多拉丁美洲人——尤其是新教徒——认为宗教在国家领导、身份认同和法律中应发挥作用",
       "url": "https://www.pewresearch.org/short-reads/2026/03/26/many-latin-americans-especially-protestants-see-a-role-for-religion-in-national-leadership-identity-and-laws/",
       "date": "Mar 26, 2026",
       "type": "short reads",
@@ -23,10 +23,10 @@
       "source": "Pew Research Center",
       "category": "international",
       "original_title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
-      "summary_cn": "Majorities in Brazil, Colombia and Peru want leaders who stand up for their religious beliefs. Protestants are especially supportive of Christianity in public life."
+      "summary_cn": "皮尤研究中心调查显示，许多拉丁美洲人，特别是新教徒，认为宗教应在国家领导、身份认同和法律中发挥作用。调查在多个国家进行，反映了宗教信仰与对时局看法的关联。"
     },
     {
-      "title": "美国宗教广播现状",
+      "title": "美国宗教广播",
       "url": "https://www.pewresearch.org/data-labs/2026/03/26/religious-radio-across-america/",
       "date": "Mar 26, 2026",
       "type": "report",
@@ -41,10 +41,10 @@
       "source": "Pew Research Center",
       "category": "religion",
       "original_title": "Religious Radio Across America",
-      "summary_cn": "皮尤研究中心报告分析美国宗教广播电台的现状。研究显示，宗教广播在美国仍广泛存在，是许多人获取宗教内容和社区信息的重要渠道。"
+      "summary_cn": "皮尤研究中心报告分析美国宗教广播电台的现状。研究显示，几乎所有美国成年人都处于宗教广播电台覆盖范围内，最常见的是基督教广播。"
     },
     {
-      "title": "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it",
+      "title": "同性婚姻在全球的关键事实：荷兰合法化25年后",
       "url": "https://www.pewresearch.org/short-reads/2026/03/25/key-facts-about-same-sex-marriage-around-the-world-25-years-after-the-netherlands-legalized-it/",
       "date": "Mar 25, 2026",
       "type": "short reads",
@@ -58,10 +58,10 @@
       "source": "Pew Research Center",
       "category": "demographics",
       "original_title": "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it",
-      "summary_cn": "Twenty-five years after the first nationally recognized same-sex marriages, nearly 40 places now allow them. But their prevalence varies, as do public attitudes."
+      "summary_cn": "皮尤研究中心调查报告，回顾荷兰成为全球首个全国性立法承认同性婚姻国家25周年以来的全球立法进展。调查数据显示，截至目前已有近40个国家和地区通过立法承认同性婚姻合法地位，但各国普及程度和公众接受度差异显著。"
     },
     {
-      "title": "Americans Broadly Disapprove of U.S. Military Action in Iran",
+      "title": "美国人普遍不赞成美国对伊朗采取军事行动",
       "url": "https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/",
       "date": "Mar 25, 2026",
       "type": "report",
@@ -74,10 +74,10 @@
       "source": "Pew Research Center",
       "category": "general",
       "original_title": "Americans Broadly Disapprove of U.S. Military Action in Iran",
-      "summary_cn": "Most Americans say striking Iran was the wrong decision and disapprove of Trump’s handling of the conflict, with stark partisan divides."
+      "summary_cn": "皮尤研究中心民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满。民调显示党派分歧明显。"
     },
     {
-      "title": "美国建国250周年：过去50年的变化",
+      "title": "建国250周年的美国：过去50年国家的变化",
       "url": "https://www.pewresearch.org/social-trends/2026/03/25/the-united-states-at-250-how-the-country-has-changed-in-the-past-50-years/",
       "date": "Mar 25, 2026",
       "type": "data essay",
@@ -113,7 +113,7 @@
       "summary_cn": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country’s culture."
     },
     {
-      "title": "美国人突发新闻获取渠道",
+      "title": "美国人首先从哪里获取突发新闻信息",
       "url": "https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/",
       "date": "Mar 24, 2026",
       "type": "short reads",
@@ -149,7 +149,7 @@
       "summary_cn": "Republicans are twice as likely as Democrats to call physician-assisted death morally wrong (48% vs. 23%)."
     },
     {
-      "title": "美国黑人移民群体主要发现",
+      "title": "关于美国黑人移民的主要发现",
       "url": "https://www.pewresearch.org/short-reads/2026/03/20/key-findings-about-black-immigrants-in-the-us/",
       "date": "Mar 20, 2026",
       "type": "short reads",
@@ -167,6 +167,6 @@
       "summary_cn": "皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。该群体主要来源于非洲和加勒比地区。"
     }
   ],
-  "translated_count": 4,
-  "missing_count": 5
+  "translated_count": 7,
+  "missing_count": 2
 }

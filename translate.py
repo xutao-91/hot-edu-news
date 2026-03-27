@@ -31,136 +31,136 @@ translations_db = {
         }
     },
     "edgov": {
-        "U.S. Department of Education to Downsize Footprint and Relocate to Suitland, Maryland": {
-            "title_cn": "美国教育部将迁往马里兰州Suitland并缩减规模",
-            "summary_cn": "美国教育部宣布，将于2026年夏季从华盛顿特区总部迁往马里兰州Suitland，同时将办公空间从超过14.5万平方英尺缩减至不到5万平方英尺，并减少约50%的人员编制。教育部表示，此次搬迁是为了提高效率、减少开支，并利用现代化设施更好地服务美国人民。"
+        "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually": {
+            "title_cn": "美国教育部将缩减华盛顿办公规模 每年为纳税人节省超过480万美元",
+            "summary_cn": "美国教育部宣布将缩减在华盛顿特区的办公规模，预计每年可为纳税人节省超过480万美元。教育部计划减少办公空间并优化人员配置，以提高运营效率。"
         },
-        "U.S. Department of Education Celebrates More Than 12 Million Students Supported by Federal Student Aid This Academic Year": {
-            "title_cn": "美国教育部：本学年联邦学生资助惠及超过1200万学生",
-            "summary_cn": "美国教育部宣布，在2025-2026学年，联邦学生资助办公室已为超过1200万名学生提供资助，总额超过300亿美元。教育部表示，这体现了联邦政府对扩大高等教育机会、减轻学生经济负担的承诺。"
+        "U.S. Department of Education Celebrates More Than 10 Million FAFSA® Forms Complete and Additional Transparency Measures": {
+            "title_cn": "美国教育部庆祝超过1000万份FAFSA表格完成及额外透明度措施",
+            "summary_cn": "美国教育部宣布，已有超过1000万份联邦学生资助免费申请表（FAFSA）完成提交。同时，教育部推出了额外的透明度措施，帮助学生和家庭更清楚地了解资助申请流程和资金分配情况。"
         },
         "Indiana First Lady Maureen Braun Highlights Civics Education at 'History Rocks!' Event": {
-            "title_cn": "印第安纳州第一夫人出席'历史闪耀'公民教育活动",
-            "summary_cn": "印第安纳州第一夫人莫林·布劳恩出席'历史闪耀'公民教育活动，强调公民教育的重要性。该活动是美国教育部推动公民教育系列举措的一部分，旨在通过创新教学方式激发学生对美国历史和宪政制度的兴趣。"
+            "title_cn": "印第安纳州第一夫人莫琳·布劳恩在'历史闪耀'活动中强调公民教育",
+            "summary_cn": "印第安纳州第一夫人莫琳·布劳恩出席'历史闪耀'公民教育活动，强调公民教育的重要性。该活动是美国教育部推动公民教育系列举措的一部分，旨在通过创新教学方式激发学生对美国历史和宪政制度的兴趣。"
         },
         "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at 'History Rocks!' Event in Kansas": {
-            "title_cn": "教育部公民教育高级顾问出席堪萨斯州'历史闪耀'活动",
+            "title_cn": "教育部公民教育高级顾问凯蒂·戈尔卡在堪萨斯州'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部公民教育高级顾问凯蒂·戈尔卡出席堪萨斯州'历史闪耀'活动，就公民教育发表演讲。她强调培养学生对美国历史和宪政制度理解的重要性，鼓励学校加强公民教育课程建设。"
         },
+        "FACT SHEET: Victories for Higher Education, Making College More Affordable and Expediting Workforce Readiness": {
+            "title_cn": "情况说明书：高等教育成果 让大学更负担得起并加快劳动力准备",
+            "summary_cn": "美国教育部发布情况说明书，总结近期在高等教育领域取得的成果。文件指出，通过简化学生资助申请流程、扩大职业培训项目、加强与产业界合作等举措，有效降低了高等教育成本，提升了学生就业准备度。"
+        },
         "Secretary McMahon's Commencement Address for The Apprentice School at Newport News Shipbuilding": {
-            "title_cn": "教育部长麦克马洪在纽波特纽斯造船厂学徒学校毕业典礼致辞",
+            "title_cn": "麦克马洪部长在纽波特纽斯造船厂学徒学校的毕业典礼致辞",
             "summary_cn": "教育部长琳达·麦克马洪出席纽波特纽斯造船厂学徒学校毕业典礼并发表演讲。她强调了职业教育和学徒培训对美国制造业的重要性，表示政府将持续推动职业教育改革，为青年提供多元化成才路径。"
         },
         "U.S. Department of Education's Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance": {
-            "title_cn": "教育部民权办公室就第九条规定向圣何塞州立大学发出执法预警",
-            "summary_cn": "美国教育部民权办公室向圣何塞州立大学发出执法预警函，指出该校在遵守联邦性别平等法规方面存在问题。调查发现该校在体育资源配置、奖学金分配等方面涉嫌性别歧视，违反《教育法修正案第九条》。民权办公室要求该校限期提交整改方案。"
+            "title_cn": "教育部民权办公室就第九条规定向圣何塞州立大学发出执法预告函",
+            "summary_cn": "美国教育部民权办公室向圣何塞州立大学发出执法预告函，指出该校在遵守联邦性别平等法规方面存在问题。调查发现该校在体育资源配置、奖学金分配等方面涉嫌性别歧视，违反《教育法修正案第九条》。民权办公室要求该校限期提交整改方案。"
         },
         "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at 'History Rocks!' Events in Tennessee and Missouri": {
-            "title_cn": "教育部官员赴田纳西州和密苏里州出席'历史闪耀'公民教育活动",
+            "title_cn": "教育部官员和教育领袖在田纳西州和密苏里州的'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部官员赴田纳西州和密苏里州出席'历史闪耀'系列公民教育活动，与地方教育界人士就加强中小学公民教育进行交流。"
         },
         "U.S. Department of Education's Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus": {
-            "title_cn": "教育部民权办公室对哈佛大学开启两项新的歧视调查",
+            "title_cn": "教育部民权办公室对哈佛大学开启两项新的调查",
             "summary_cn": "美国教育部民权办公室宣布，针对哈佛大学校园内存在的歧视问题启动两项新调查。调查显示该校在招生录取、奖学金评定等方面涉嫌对特定群体学生存在系统性歧视行为。民权办公室将依据《民权法》等相关法规进行调查。"
         },
         "U.S. Department of Education Leaders Highlight Civics Education at 'History Rocks!' Events in Vermont and West Virginia": {
-            "title_cn": "教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'公民教育活动",
+            "title_cn": "教育部领导人在佛蒙特州和西弗吉尼亚州的'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'系列活动，就公民教育发表演讲。活动旨在通过创新教学方式，激发学生对美国历史和宪政制度的兴趣。"
-        },
-        "U.S. Department of Education and U.S. Department of the Treasury Announce Historic Federal Student Assistance Partnership": {
-            "title_cn": "美国教育部与财政部宣布建立联邦学生援助合作伙伴关系",
-            "summary_cn": "美国教育部与财政部宣布建立合作伙伴关系，旨在简化学生资助申请流程，提高资金使用效率。根据协议，两部门将整合信息系统，实现数据共享，为大学生提供更便捷的助学金和贷款服务。"
         }
     },
     "whitehouse": {
         "Addressing DEI Discrimination by Federal Contractors": {
-            "title_cn": "解决联邦承包商DEI歧视问题",
+            "title_cn": "解决联邦承包商的DEI歧视问题",
             "summary_cn": "特朗普总统签署行政命令，要求联邦机构终止与从事非法歧视的承包商的合同。命令要求总务管理局修改联邦采购法规，禁止联邦承包商在就业和人事决策中进行歧视。"
         },
-        "Congressional Bills H.R. 3377, H.R. 7194, H.R. 7215, H.R. 7220, H.R. 7228, H.R. 7233, S. 1425, S. 1427 Signed into Law": {
-            "title_cn": "特朗普总统签署多项国会法案",
-            "summary_cn": "特朗普总统签署H.R. 3377、H.R. 7194、H.R. 7215、H.R. 7220、H.R. 7228、H.R. 7233、S. 1425、S. 1427等多项国会法案，使其成为联邦法律。这些法案涉及退伍军人事务、自然资源管理等领域。"
+        "Congressional Bills H.R. 3377, H.R. 7194, H.R. 7211 Signed into Law": {
+            "title_cn": "国会法案H.R. 3377、H.R. 7194、H.R. 7211签署成为法律",
+            "summary_cn": "特朗普总统签署H.R. 3377、H.R. 7194、H.R. 7211等多项国会法案，使其成为联邦法律。"
         },
         "Fact Sheet: President Donald J. Trump Addresses DEI Discrimination by Federal Contractors": {
-            "title_cn": "情况说明书：特朗普总统解决联邦承包商DEI歧视问题",
+            "title_cn": "情况说明书：特朗普总统解决联邦承包商的DEI歧视问题",
             "summary_cn": "白宫发布情况说明书，介绍特朗普总统签署的行政命令，要求终止与从事非法歧视的联邦承包商的合同，修改联邦采购法规，禁止就业歧视。"
         },
-        "America First in Action: U.S. Records Net Negative Illegal Immigration in Historic Turnaround": {
-            "title_cn": "美国实现净负非法移民的历史性转变",
-            "summary_cn": "白宫宣布，美国实现净负非法移民，即离境人数超过入境人数。这是特朗普政府实施强有力边境政策的结果。"
+        "America First in Action: U.S. Records Net Negative Migration Across Every Metro Area": {
+            "title_cn": "美国优先行动：美国每个大都市区都记录净负移民",
+            "summary_cn": "白宫宣布，美国在所有大都市区都实现了净负移民。这是特朗普政府实施强有力边境政策的结果。"
         },
-        "Promise Made, Promise Kept: President Trump Brings American Hostages Home from Iran": {
-            "title_cn": "特朗普总统促成美国人质从伊朗获释回国",
-            "summary_cn": "特朗普总统宣布，被伊朗扣押的多名美国人质已获释并返回美国。白宫称这是通过外交谈判实现的人道主义成果。"
+        "Promise Made, Promise Kept: President Trump Brings Another American Home": {
+            "title_cn": "承诺兑现：特朗普总统又带回一名美国人",
+            "summary_cn": "特朗普总统宣布，又一名在海外被扣押的美国人获释并返回美国。白宫称这是通过外交谈判实现的人道主义成果。"
         },
-        "First Lady Melania Trump Convenes Record 45 Nation Coalition to Support Children and Families": {
-            "title_cn": "第一夫人梅拉尼娅·特朗普召集45国联盟支持儿童和家庭",
-            "summary_cn": "第一夫人梅拉尼娅·特朗普宣布启动'共创未来'全球倡议，来自45个国家的代表出席首届联盟峰会。该倡议聚焦儿童福祉、青少年发展等领域，促进国际合作。"
+        "First Lady Melania Trump Convenes Record 45 Nations at the White House and Introduces American-Built Humanoid": {
+            "title_cn": "第一夫人梅拉尼娅·特朗普在白宫召集创纪录的45个国家并介绍美国制造的人形机器人",
+            "summary_cn": "第一夫人梅拉尼娅·特朗普在白宫召集45个国家代表出席活动，并介绍了美国制造的人形机器人。"
         },
         "President Trump Announces Appointments to President's Council of Advisors on Science and Technology": {
-            "title_cn": "特朗普总统宣布任命总统科技顾问委员会新成员",
+            "title_cn": "特朗普总统宣布任命总统科技顾问委员会成员",
             "summary_cn": "特朗普总统宣布任命多位科学家和工程师加入总统科技顾问委员会（PCAST）。新成员涵盖人工智能、量子计算、生物技术等领域，将为政府科技政策提供咨询。"
         },
         "Secretary Markwayne Mullin Is Ready to Deliver on President Trump's Agenda": {
-            "title_cn": "马林部长表示将落实特朗普总统的施政议程",
+            "title_cn": "马克韦恩·马林部长准备落实特朗普总统的议程",
             "summary_cn": "新任内阁部长马克韦恩·马林表示将全力落实特朗普总统的施政议程，强调政府各部门将协同配合，以高效务实的作风服务美国人民。"
         },
-        "Congressional Bill S. 4138 Signed into Law": {
-            "title_cn": "特朗普总统签署S.4138号国会法案",
-            "summary_cn": "特朗普总统于2026年3月20日签署S.4138号国会法案。该法案免除陆军上尉Cody Khork追授荣誉晋升的60天通知期要求。"
-        },
         "Further Continuance of the Federal Emergency Management Agency Review Council": {
-            "title_cn": "延长联邦应急管理局审查委员会任期",
+            "title_cn": "延长联邦应急管理局审查委员会的任期",
             "summary_cn": "特朗普总统签署行政命令，延长联邦应急管理局（FEMA）审查委员会任期。该委员会负责评估FEMA运作效率，向总统提供改进建议。"
+        },
+        "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026": {
+            "title_cn": "希腊独立日：庆祝希腊和美国民主的全国日",
+            "summary_cn": "特朗普总统发表公告，宣布3月25日为希腊独立日全国庆祝日。总统在公告中回顾了希腊作为西方民主发源地的重要历史地位，强调美希两国在民主价值观上的深厚纽带。"
         }
     },
     "ace": {
         "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on 'Unlawful DEI' and Other Issues": {
-            "title_cn": "ACE联合多协会呼吁撤销联邦资助DEI认证要求",
+            "title_cn": "ACE联合其他协会敦促GSA撤销关于'非法DEI'的拟议认证要求",
             "summary_cn": "美国教育委员会（ACE）联合其他高等教育协会致函联邦总务管理局（GSA），呼吁撤销关于'非法多元化、公平与包容（DEI）'的拟议认证要求。ACE表示，该要求界定模糊，将给高校合规带来不确定性。"
         },
         "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge": {
-            "title_cn": "ACE支持法律挑战 ACTS截止日期延后",
+            "title_cn": "ACTS截止日期变更 ACE和其他协会支持法律挑战",
             "summary_cn": "美国教育委员会（ACE）联合其他10个高等教育协会向法院提交法庭之友意见书，支持对教育部IPEDS招生与消费者透明度补充调查（ACTS）的法律挑战。法院已批准将ACTS执行截止日期延后。"
         }
     },
     "nsf_ncses": {},
     "pewresearch": {
-        "Many Latin Americans – especially Protestants – see signs of the end times in current events": {
-            "title_cn": "许多拉丁美洲人——尤其是新教徒——从时事中看到末日征兆",
-            "summary_cn": "皮尤研究中心调查显示，许多拉丁美洲人，特别是新教徒，认为当前时事显示出圣经预言的末日征兆。调查在多个国家进行，反映了宗教信仰与对时局看法的关联。"
+        "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws": {
+            "title_cn": "许多拉丁美洲人——尤其是新教徒——认为宗教在国家领导、身份认同和法律中应发挥作用",
+            "summary_cn": "皮尤研究中心调查显示，许多拉丁美洲人，特别是新教徒，认为宗教应在国家领导、身份认同和法律中发挥作用。调查在多个国家进行，反映了宗教信仰与对时局看法的关联。"
         },
         "Religious Radio Across America": {
-            "title_cn": "美国宗教广播现状",
-            "summary_cn": "皮尤研究中心报告分析美国宗教广播电台的现状。研究显示，宗教广播在美国仍广泛存在，是许多人获取宗教内容和社区信息的重要渠道。"
+            "title_cn": "美国宗教广播",
+            "summary_cn": "皮尤研究中心报告分析美国宗教广播电台的现状。研究显示，几乎所有美国成年人都处于宗教广播电台覆盖范围内，最常见的是基督教广播。"
+        },
+        "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it": {
+            "title_cn": "同性婚姻在全球的关键事实：荷兰合法化25年后",
+            "summary_cn": "皮尤研究中心调查报告，回顾荷兰成为全球首个全国性立法承认同性婚姻国家25周年以来的全球立法进展。调查数据显示，截至目前已有近40个国家和地区通过立法承认同性婚姻合法地位，但各国普及程度和公众接受度差异显著。"
+        },
+        "Americans Broadly Disapprove of U.S. Military Action in Iran": {
+            "title_cn": "美国人普遍不赞成美国对伊朗采取军事行动",
+            "summary_cn": "皮尤研究中心民调显示，多数美国民众认为对伊朗采取军事行动是错误决定，并对特朗普政府处理中东冲突的方式表示不满。民调显示党派分歧明显。"
+        },
+        "The United States at 250: How the Country Has Changed in the Past 50 Years": {
+            "title_cn": "建国250周年的美国：过去50年国家的变化",
+            "summary_cn": "皮尤研究中心基于美国人口普查局数据，梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态等方面的变化。报告显示美国正经历人口老龄化、家庭结构多元化、收入差距扩大等转型。"
         },
         "How Americans view racial diversity ahead of the country's 250th anniversary": {
-            "title_cn": "美国民众对种族多元化的态度调查",
+            "title_cn": "在美国建国250周年之际美国人如何看待种族多元化",
             "summary_cn": "皮尤研究中心调查显示，75%的美国成年人认为种族多元化对国家是好事，但民主党与共和党支持者在多元化对文化影响方面存在显著分歧。"
         },
+        "Where do Americans turn first for information about breaking news?": {
+            "title_cn": "美国人首先从哪里获取突发新闻信息",
+            "summary_cn": "皮尤研究中心调查显示，36%的美国成年人表示在突发新闻发生时会首选其信赖的新闻机构获取信息。社交媒体也是重要的新闻来源渠道。"
+        },
         "About 6 in 10 Americans don't have moral objections to medical aid in dying": {
-            "title_cn": "约六成美国民众对安乐死无道德异议",
+            "title_cn": "约六成美国人对医疗辅助死亡没有道德异议",
             "summary_cn": "皮尤研究中心调查显示，约60%的美国民众对医疗辅助死亡没有道德上的反对意见。但党派分歧明显：48%的共和党支持者认为医师协助死亡在道德上是错误的，而民主党支持者中这一比例仅为23%。"
         },
         "Key findings about Black immigrants in the U.S.": {
-            "title_cn": "美国黑人移民群体主要发现",
+            "title_cn": "关于美国黑人移民的主要发现",
             "summary_cn": "皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。该群体主要来源于非洲和加勒比地区。"
-        },
-        "Majority of Americans prefer spread-out communities with big houses": {
-            "title_cn": "多数美国人偏好大面积住宅社区",
-            "summary_cn": "皮尤研究中心调查显示，55%的美国民众表示更愿意居住在房屋较大、与商业设施距离较远的社区，44%的人偏好设施便利但居住空间较小的社区。"
-        },
-        "What Do Americans Consider Immoral?": {
-            "title_cn": "美国人认为什么是不道德的",
-            "summary_cn": "皮尤研究中心调查显示，九成美国民众认为婚外情是不道德的。但在堕胎和同性恋问题上，民主党与共和党支持者存在显著分歧。"
-        },
-        "Where do Americans turn first for information about breaking news?": {
-            "title_cn": "美国人突发新闻获取渠道",
-            "summary_cn": "皮尤研究中心调查显示，36%的美国成年人表示在突发新闻发生时会首选其信赖的新闻机构获取信息。社交媒体也是重要的新闻来源渠道。"
-        },
-        "The United States at 250: How the Country Has Changed in the Past 50 Years": {
-            "title_cn": "美国建国250周年：过去50年的变化",
-            "summary_cn": "皮尤研究中心基于美国人口普查局数据，梳理1976年以来美国社会在人口结构、劳动力市场、家庭形态等方面的变化。报告显示美国正经历人口老龄化、家庭结构多元化、收入差距扩大等转型。"
         }
     }
 }
