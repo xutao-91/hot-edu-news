@@ -12,7 +12,7 @@ cd /root/.openclaw/workspace/hot-edu-news
 
 # 1. 运行Brookings爬虫
 echo ""
-echo "📰 [1/4] 运行 Brookings 爬虫..."
+echo "📰 [1/8] 运行 Brookings 爬虫..."
 python3 sources/brookings/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Brookings 完成"
@@ -22,7 +22,7 @@ fi
 
 # 2. 运行ED.gov爬虫
 echo ""
-echo "📰 [2/4] 运行 ED.gov 爬虫..."
+echo "📰 [2/8] 运行 ED.gov 爬虫..."
 python3 sources/edgov/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ ED.gov 完成"
@@ -32,7 +32,7 @@ fi
 
 # 3. 运行White House爬虫
 echo ""
-echo "📰 [3/4] 运行 White House 爬虫..."
+echo "📰 [3/8] 运行 White House 爬虫..."
 python3 sources/whitehouse/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ White House 完成"
@@ -42,7 +42,7 @@ fi
 
 # 4. 运行ACE爬虫
 echo ""
-echo "📰 [4/5] 运行 ACE 爬虫..."
+echo "📰 [4/8] 运行 ACE 爬虫..."
 python3 sources/ace/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ ACE 完成"
@@ -52,7 +52,7 @@ fi
 
 # 5. 运行NSF NCSES爬虫
 echo ""
-echo "📰 [5/7] 运行 NSF NCSES 爬虫..."
+echo "📰 [5/8] 运行 NSF NCSES 爬虫..."
 python3 sources/nsf_ncses/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ NSF NCSES 完成"
@@ -62,7 +62,7 @@ fi
 
 # 6. 运行Heritage爬虫
 echo ""
-echo "📰 [6/7] 运行 Heritage Foundation 爬虫..."
+echo "📰 [6/8] 运行 Heritage Foundation 爬虫..."
 python3 sources/heritage/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Heritage 完成"
@@ -72,7 +72,7 @@ fi
 
 # 6. 运行Pew Research爬虫
 echo ""
-echo "📰 [6/6] 运行 Pew Research 爬虫..."
+echo "📰 [7/8] 运行 Pew Research 爬虫..."
 python3 sources/pewresearch/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Pew Research 完成"
