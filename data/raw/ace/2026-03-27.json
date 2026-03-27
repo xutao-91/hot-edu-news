@@ -1,9 +1,18 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-27T07:55:49.474921",
-  "total_news": 1,
+  "crawled_at": "2026-03-27T12:00:10.654094",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Court Order Delaying ACTS Deadline Applies Only to Public Institutions in 17 States",
+      "url": "https://www.acenet.edu/News-Room/Pages/Court-Order-Delaying-ACTS-Deadline-Applies-Only-Public-Institutions-17-States.aspx",
+      "date": "March 27, 2026",
+      "type": "News",
+      "summary_en": "In a mixed result, a Massachusetts federal district court judge again pushed back the deadline for some institutions to meet the Department of Education’s IPEDS Admissions and Consumer Transparency Supplement (ACTS) reporting requirements.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
     {
       "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",

@@ -1,9 +1,21 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-27T07:48:15.699601",
-  "total_news": 0,
-  "news": [],
-  "translated_count": 0,
+  "crawled_at": "2026-03-27T07:55:49.474921",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE联合其他协会敦促GSA撤销关于'非法DEI'的拟议认证要求",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
+      "date": "March 23, 2026",
+      "type": "News",
+      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
+      "source": "ACE",
+      "category": "federal_policy",
+      "original_title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
+      "summary_cn": "美国教育委员会（ACE）及其他高等教育协会表示，特朗普政府要求所有联邦资助接受者认证其不存在非法多元化、公平与包容（DEI）项目和实践的提议，将给高校带来重大不确定性。"
+    }
+  ],
+  "translated_count": 1,
   "missing_count": 0
 }

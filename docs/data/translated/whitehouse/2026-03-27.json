@@ -1,9 +1,100 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-27T07:48:12.751570",
-  "total_news": 0,
-  "news": [],
-  "translated_count": 0,
+  "crawled_at": "2026-03-27T07:55:46.133464",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "解决联邦承包商的DEI歧视问题",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-dei-discrimination-by-federal-contractors/",
+      "date": "March 26, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Addressing DEI Discrimination by Federal Contractors",
+      "summary_cn": "特朗普总统签署行政命令，要求联邦机构终止与从事非法歧视的承包商的合同。命令要求总务管理局修改联邦采购法规，禁止联邦承包商在就业和人事决策中进行歧视。这一举措旨在确保联邦资金的公平使用，防止基于种族、性别、宗教等因素的就业歧视，维护所有工人的平等权利。行政命令还建立了举报机制，允许员工举报歧视行为，并要求承包商提供合规证明，以确保其雇佣实践符合联邦法律要求。"
+    },
+    {
+      "title": "国会法案H.R. 3377、H.R. 7194、H.R. 7211签署成为法律",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bills-h-r-3377-h-r-7194-h-r-7211-signed-into-law/",
+      "date": "March 26, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Congressional Bills H.R. 3377, H.R. 7194, H.R. 7211 Signed into Law",
+      "summary_cn": "特朗普总统签署H.R. 3377、H.R. 7194、H.R. 7211等多项国会法案，使其成为联邦法律。这些法案涉及退伍军人事务、自然资源管理等领域，旨在改善相关领域的政策执行和服务质量。白宫声明表示，这些法案的通过体现了府会合作推进国家治理的积极成果，将为美国人民带来实实在在的利益。特朗普总统感谢国会两党议员的支持与合作，强调这些法案对促进经济社会发展具有重要意义。"
+    },
+    {
+      "title": "情况说明书：特朗普总统解决联邦承包商的DEI歧视问题",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-addresses-dei-discrimination-by-federal-contractors/",
+      "date": "March 26, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House",
+      "original_title": "Fact Sheet: President Donald J. Trump Addresses DEI Discrimination by Federal Contractors",
+      "summary_cn": "白宫发布情况说明书，详细介绍特朗普总统签署的行政命令，要求终止与从事非法歧视的联邦承包商的合同，修改联邦采购法规，禁止就业歧视。说明书解释了行政命令的背景、目标和具体措施，包括建立新的合规审查机制、加强对承包商的监督、设立举报渠道等。说明书强调，这些措施旨在确保联邦资金的公平使用，维护所有工人的平等权利，促进公平就业环境。"
+    },
+    {
+      "title": "美国优先行动：美国每个大都市区都记录净负移民",
+      "url": "https://www.whitehouse.gov/releases/2026/03/america-first-in-action-u-s-records-net-negative-migration-across-every-metro-area/",
+      "date": "March 26, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "America First in Action: U.S. Records Net Negative Migration Across Every Metro Area",
+      "summary_cn": "白宫宣布，美国在所有大都市区都实现了净负移民，即离境人数超过入境人数。这是特朗普政府实施强有力边境政策的结果，包括加强边境执法、限制非法移民、加快驱逐程序等措施。白宫表示，这一成果证明了政府边境政策的有效性，有助于维护国家安全、保护美国工人就业机会、减少公共服务负担。政府将继续推进移民改革，确保边境安全，建立更加公平和有序的移民体系。"
+    },
+    {
+      "title": "承诺兑现：特朗普总统又带回一名美国人",
+      "url": "https://www.whitehouse.gov/releases/2026/03/promise-made-promise-kept-president-trump-brings-another-american-home/",
+      "date": "March 25, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "Promise Made, Promise Kept: President Trump Brings Another American Home",
+      "summary_cn": "特朗普总统宣布，又一名在海外被扣押的美国人获释并返回美国。白宫称这是通过外交谈判实现的人道主义成果，体现了政府保护海外公民权益的决心和能力。总统表示，政府将继续努力，通过外交渠道和国际合作，争取所有在海外被不公正扣押的美国人的释放。白宫强调，保护美国公民的安全和权益是政府的首要职责，将采取一切必要措施实现这一目标。"
+    },
+    {
+      "title": "第一夫人梅拉尼娅·特朗普在白宫召集创纪录的45个国家并介绍美国制造的人形机器人",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/first-lady-melania-trump-convenes-record-45-nations-at-the-white-house-and-introduces-american-built-humanoid/",
+      "date": "March 25, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "First Lady Melania Trump Convenes Record 45 Nations at the White House and Introduces American-Built Humanoid",
+      "summary_cn": "第一夫人梅拉尼娅·特朗普在白宫召集45个国家代表出席活动，并介绍了美国制造的人形机器人。该活动旨在展示美国在人工智能和机器人技术领域的创新成果，促进国际科技交流与合作。第一夫人强调了科技创新对改善人类生活、解决全球挑战的重要作用，呼吁各国加强合作，共同推动人工智能技术的负责任发展，确保技术进步造福全人类。"
+    },
+    {
+      "title": "特朗普总统宣布任命总统科技顾问委员会成员",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
+      "date": "March 25, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump Announces Appointments to President’s Council of Advisors on Science and Technology",
+      "summary_cn": "特朗普总统宣布任命多位科学家和工程师加入总统科技顾问委员会（PCAST）。新任命的成员涵盖人工智能、量子计算、生物技术、先进制造、清洁能源等前沿科技领域，均为各自领域的顶尖专家。这些专家将为政府制定科技政策、优化科研投入、推动技术转化提供重要咨询。"
+    },
+    {
+      "title": "马克韦恩·马林部长准备落实特朗普总统的议程",
+      "url": "https://www.whitehouse.gov/releases/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
+      "date": "March 24, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump’s Agenda",
+      "summary_cn": "新任内阁部长马克韦恩·马林表示将全力落实特朗普总统的施政议程，强调政府各部门将协同配合，以高效务实的作风服务美国人民。马林部长表示，将严格执行总统指示，推动各项政策目标如期实现，回应选民期待。他强调，当前美国面临诸多内外挑战，需要政府各部门紧密协同配合，打破官僚壁垒，形成政策合力，提高政府运作效率，为美国人民提供更好的服务。"
+    },
+    {
+      "title": "延长联邦应急管理局审查委员会的任期",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Further Continuance of the Federal Emergency Management Agency Review Council",
+      "summary_cn": "特朗普总统签署行政命令，延长联邦应急管理局（FEMA）审查委员会任期。该委员会负责评估FEMA运作效率，向总统提供改进建议，以提高应急管理效能。委员会将重点审查FEMA在灾害应对、资源分配、协调机制等方面的表现，提出改进建议。总统表示，延长委员会任期有助于深化对联邦应急管理工作的持续监督和评估，提升灾害应对能力和救援效率，确保联邦应急管理资源得到合理有效利用。"
+    },
+    {
+      "title": "希腊独立日：庆祝希腊和美国民主的全国日",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
+      "date": "March 24, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
+      "summary_cn": "特朗普总统发表公告，宣布3月25日为希腊独立日全国庆祝日。总统在公告中回顾了希腊作为西方民主发源地的重要历史地位，深刻阐述了希腊文明对西方政治思想、民主制度、哲学文化的深远影响，强调美希两国在民主价值观、法治精神、人权理念上的深厚纽带与共同追求。他表示，希腊独立日不仅是希腊人民的重要节日，也是美国人民共同庆祝的日子，两国友谊历经百年风雨仍历久弥坚。"
+    }
+  ],
+  "translated_count": 10,
   "missing_count": 0
 }

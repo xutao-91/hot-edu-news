@@ -1,9 +1,136 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-03-27T07:48:19.609206",
-  "total_news": 1,
+  "crawled_at": "2026-03-27T07:55:53.149062",
+  "total_news": 8,
   "news": [
+    {
+      "title": "许多拉丁美洲人——尤其是新教徒——认为宗教在国家领导、身份认同和法律中应发挥作用",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/26/many-latin-americans-especially-protestants-see-a-role-for-religion-in-national-leadership-identity-and-laws/",
+      "date": "Mar 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Race Ethnicity Religion",
+        "Religion Government 1",
+        "Religion Government 2",
+        "Religion",
+        "Religion Politics 3",
+        "Religion Politics 1",
+        "Religious Identity Affiliation"
+      ],
+      "summary_en": "Majorities in Brazil, Colombia and Peru want leaders who stand up for their religious beliefs. Protestants are especially supportive of Christianity in public life.",
+      "source": "Pew Research Center",
+      "category": "international",
+      "original_title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "summary_cn": "皮尤研究中心调查显示，巴西、哥伦比亚和秘鲁的大多数民众希望领导人捍卫其宗教信仰。新教徒尤其支持基督教在公共生活中发挥作用。"
+    },
+    {
+      "title": "美国宗教广播",
+      "url": "https://www.pewresearch.org/data-labs/2026/03/26/religious-radio-across-america/",
+      "date": "Mar 26, 2026",
+      "type": "report",
+      "categories": [
+        "Audio Radio Podcasts",
+        "Data Science",
+        "Religion",
+        "Religion Politics 1",
+        "Religion Social Values"
+      ],
+      "summary_en": "Almost all U.S. adults live in range of a religious radio station, most commonly Christian radio. Stations tend to broadcast either mostly music or mostly talk.",
+      "source": "Pew Research Center",
+      "category": "religion",
+      "original_title": "Religious Radio Across America",
+      "summary_cn": "皮尤研究中心报告显示，几乎所有美国成年人都处于宗教广播电台覆盖范围内，最常见的是基督教广播电台。这些电台通常主要播放音乐或谈话节目。"
+    },
+    {
+      "title": "同性婚姻在全球的关键事实：荷兰合法化25年后",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/25/key-facts-about-same-sex-marriage-around-the-world-25-years-after-the-netherlands-legalized-it/",
+      "date": "Mar 25, 2026",
+      "type": "short reads",
+      "categories": [
+        "Lgbtq Acceptance",
+        "Marriage Divorce",
+        "Same Sex Marriage 2",
+        "Same Sex Marriage 1"
+      ],
+      "summary_en": "Twenty-five years after the first nationally recognized same-sex marriages, nearly 40 places now allow them. But their prevalence varies, as do public attitudes.",
+      "source": "Pew Research Center",
+      "category": "demographics",
+      "original_title": "Key facts about same-sex marriage around the world, 25 years after the Netherlands legalized it",
+      "summary_cn": "皮尤研究中心调查显示，在荷兰成为全球首个承认同性婚姻的国家25年后，近40个国家和地区现在允许同性婚姻。但同性婚姻的普及程度各异，公众态度也不尽相同。"
+    },
+    {
+      "title": "美国人普遍不赞成美国对伊朗采取军事行动",
+      "url": "https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/",
+      "date": "Mar 25, 2026",
+      "type": "report",
+      "categories": [
+        "Donald Trump",
+        "Politics Policy",
+        "War International Conflict 1"
+      ],
+      "summary_en": "Most Americans say striking Iran was the wrong decision and disapprove of Trump’s handling of the conflict, with stark partisan divides.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Americans Broadly Disapprove of U.S. Military Action in Iran",
+      "summary_cn": "皮尤研究中心民调显示，大多数美国人认为对伊朗采取军事行动是错误的决定，不赞成特朗普对冲突的处理方式，党派分歧明显。"
+    },
+    {
+      "title": "建国250周年的美国：过去50年国家的变化",
+      "url": "https://www.pewresearch.org/social-trends/2026/03/25/the-united-states-at-250-how-the-country-has-changed-in-the-past-50-years/",
+      "date": "Mar 25, 2026",
+      "type": "data essay",
+      "categories": [
+        "Age",
+        "Economics Work Gender",
+        "Economy Work",
+        "Income Wealth Poverty",
+        "U S Census",
+        "U S Democracy"
+      ],
+      "summary_en": "As America turns 250, explore how demographics, work, family and economics have shifted since 1976, based on 50 years of Census data.",
+      "source": "Pew Research Center",
+      "category": "international",
+      "original_title": "The United States at 250: How the Country Has Changed in the Past 50 Years",
+      "summary_cn": "皮尤研究中心基于50年的人口普查数据，展示美国人口结构、劳动力市场、家庭形态和经济状况自1976年以来的变化。"
+    },
+    {
+      "title": "在美国建国250周年之际美国人如何看待种族多元化",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/25/how-americans-value-racial-diversity-ahead-of-the-countrys-250th-anniversary/",
+      "date": "Mar 25, 2026",
+      "type": "short reads",
+      "categories": [
+        "Race Relations",
+        "Race Ethnicity Politics 2",
+        "Racial Bias Discrimination",
+        "U S Democracy"
+      ],
+      "summary_en": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country’s culture.",
+      "source": "Pew Research Center",
+      "category": "international",
+      "original_title": "How Americans view racial diversity ahead of the country’s 250th anniversary",
+      "summary_cn": "皮尤研究中心调查显示，75%的美国成年人认为多元化对国家是好事，但民主党人和共和党人对多元化如何影响美国文化存在严重分歧。"
+    },
+    {
+      "title": "美国人首先从哪里获取突发新闻信息",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/",
+      "date": "Mar 24, 2026",
+      "type": "short reads",
+      "categories": [
+        "Digital News Landscape 2",
+        "Media Society",
+        "News Habits Media",
+        "News Media Trends",
+        "Social Media",
+        "Social Media News"
+      ],
+      "summary_en": "When a breaking news event happens, 36% of U.S. adults say they typically turn first to their preferred news organization to get more information.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Where do Americans turn first for information about breaking news?",
+      "summary_cn": "皮尤研究中心调查显示，当突发新闻事件发生时，36%的美国成年人表示通常会首选其信赖的新闻机构获取更多信息。"
+    },
     {
       "title": "约六成美国人对医疗辅助死亡没有道德异议",
       "url": "https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/",
@@ -19,9 +146,9 @@
       "source": "Pew Research Center",
       "category": "technology",
       "original_title": "About 6 in 10 Americans don’t have moral objections to medical aid in dying",
-      "summary_cn": "皮尤研究中心调查显示，约60%的美国民众对医疗辅助死亡没有道德上的反对意见。但党派分歧明显：48%的共和党支持者认为医师协助死亡在道德上是错误的，而民主党支持者中这一比例仅为23%。"
+      "summary_cn": "皮尤研究中心调查显示，约六成美国人对医疗辅助死亡没有道德异议。共和党人认为医师协助死亡在道德上是错误的比例（48%）是民主党人（23%）的两倍多。"
     }
   ],
-  "translated_count": 1,
+  "translated_count": 8,
   "missing_count": 0
 }
