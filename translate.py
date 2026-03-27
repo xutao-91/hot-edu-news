@@ -39,11 +39,11 @@ translations_db = {
             "title_cn": "美国教育部庆祝超过1000万份FAFSA表格完成及额外透明度措施",
             "summary_cn": "美国教育部宣布，已有超过1000万份联邦学生资助免费申请表（FAFSA）完成提交。同时，教育部推出了额外的透明度措施，帮助学生和家庭更清楚地了解资助申请流程和资金分配情况。"
         },
-        "Indiana First Lady Maureen Braun Highlights Civics Education at 'History Rocks!' Event": {
+        "Indiana First Lady Maureen Braun Highlights Civics Education at \"History Rocks!\" Event": {
             "title_cn": "印第安纳州第一夫人莫琳·布劳恩在'历史闪耀'活动中强调公民教育",
             "summary_cn": "印第安纳州第一夫人莫琳·布劳恩出席'历史闪耀'公民教育活动，强调公民教育的重要性。该活动是美国教育部推动公民教育系列举措的一部分，旨在通过创新教学方式激发学生对美国历史和宪政制度的兴趣。"
         },
-        "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at 'History Rocks!' Event in Kansas": {
+        "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at \"History Rocks!\" Event in Kansas": {
             "title_cn": "教育部公民教育高级顾问凯蒂·戈尔卡在堪萨斯州'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部公民教育高级顾问凯蒂·戈尔卡出席堪萨斯州'历史闪耀'活动，就公民教育发表演讲。她强调培养学生对美国历史和宪政制度理解的重要性，鼓励学校加强公民教育课程建设。"
         },
@@ -59,7 +59,7 @@ translations_db = {
             "title_cn": "教育部民权办公室就第九条规定向圣何塞州立大学发出执法预告函",
             "summary_cn": "美国教育部民权办公室向圣何塞州立大学发出执法预告函，指出该校在遵守联邦性别平等法规方面存在问题。调查发现该校在体育资源配置、奖学金分配等方面涉嫌性别歧视，违反《教育法修正案第九条》。民权办公室要求该校限期提交整改方案。"
         },
-        "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at 'History Rocks!' Events in Tennessee and Missouri": {
+        "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at \"History Rocks!\" Events in Tennessee and Missouri": {
             "title_cn": "教育部官员和教育领袖在田纳西州和密苏里州的'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部官员赴田纳西州和密苏里州出席'历史闪耀'系列公民教育活动，与地方教育界人士就加强中小学公民教育进行交流。"
         },
@@ -67,7 +67,7 @@ translations_db = {
             "title_cn": "教育部民权办公室对哈佛大学开启两项新的调查",
             "summary_cn": "美国教育部民权办公室宣布，针对哈佛大学校园内存在的歧视问题启动两项新调查。调查显示该校在招生录取、奖学金评定等方面涉嫌对特定群体学生存在系统性歧视行为。民权办公室将依据《民权法》等相关法规进行调查。"
         },
-        "U.S. Department of Education Leaders Highlight Civics Education at 'History Rocks!' Events in Vermont and West Virginia": {
+        "U.S. Department of Education Leaders Highlight Civics Education at \"History Rocks!\" Events in Vermont and West Virginia": {
             "title_cn": "教育部领导人在佛蒙特州和西弗吉尼亚州的'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'系列活动，就公民教育发表演讲。活动旨在通过创新教学方式，激发学生对美国历史和宪政制度的兴趣。"
         }
@@ -115,7 +115,7 @@ translations_db = {
         }
     },
     "ace": {
-        "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on 'Unlawful DEI' and Other Issues": {
+        "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on \"Unlawful DEI\" and Other Issues": {
             "title_cn": "ACE联合其他协会敦促GSA撤销关于'非法DEI'的拟议认证要求",
             "summary_cn": "美国教育委员会（ACE）联合其他高等教育协会致函联邦总务管理局（GSA），呼吁撤销关于'非法多元化、公平与包容（DEI）'的拟议认证要求。ACE表示，该要求界定模糊，将给高校合规带来不确定性。"
         },
