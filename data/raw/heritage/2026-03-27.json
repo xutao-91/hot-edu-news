@@ -1,0 +1,35 @@
+{
+  "source": "Heritage Foundation - Education",
+  "source_url": "https://www.heritage.org/education",
+  "crawled_at": "2026-03-27T14:13:38.834399",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "The Promise and Peril of Artificial Intelligence in Education",
+      "url": "https://www.heritage.org/education/report/the-promise-and-peril-artificial-intelligence-education",
+      "date": "Mar 26, 2026",
+      "type": "Backgrounder",
+      "read_time": "23 min",
+      "source": "Heritage Foundation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Kentucky Legislature Overrides Beshear Veto To Join Trump School-Choice Program",
+      "url": "https://www.heritage.org/education/commentary/kentucky-legislature-overrides-beshear-veto-join-trump-school-choice-program",
+      "date": "Mar 23, 2026",
+      "type": "Commentary",
+      "read_time": "1 min",
+      "source": "Heritage Foundation",
+      "category": "general"
+    },
+    {
+      "title": "Refuting False Claims of Fraud in Arizona’s School Choice Program",
+      "url": "https://www.heritage.org/education/commentary/refuting-false-claims-fraud-arizonas-school-choice-program",
+      "date": "Mar 23, 2026",
+      "type": "Commentary",
+      "read_time": "3 min",
+      "source": "Heritage Foundation",
+      "category": "ai_technology"
+    }
+  ]
+}

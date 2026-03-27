@@ -1,0 +1,43 @@
+{
+  "source": "Heritage Foundation - Education",
+  "source_url": "https://www.heritage.org/education",
+  "crawled_at": "2026-03-27T14:13:38.834399",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "人工智能在教育中的前景与风险",
+      "url": "https://www.heritage.org/education/report/the-promise-and-peril-artificial-intelligence-education",
+      "date": "Mar 26, 2026",
+      "type": "Backgrounder",
+      "read_time": "23 min",
+      "source": "Heritage Foundation",
+      "category": "ai_technology",
+      "original_title": "The Promise and Peril of Artificial Intelligence in Education",
+      "summary_cn": "传统基金会发布报告，探讨人工智能在教育领域的应用前景与潜在风险。报告分析了AI技术如何改变教学方式、个性化学习体验，同时也指出了数据隐私、算法偏见等挑战。"
+    },
+    {
+      "title": "肯塔基州议会推翻贝希尔否决 加入特朗普学校选择倡议",
+      "url": "https://www.heritage.org/education/commentary/kentucky-legislature-overrides-beshear-veto-join-trump-school-choice-program",
+      "date": "Mar 23, 2026",
+      "type": "Commentary",
+      "read_time": "1 min",
+      "source": "Heritage Foundation",
+      "category": "general",
+      "original_title": "Kentucky Legislature Overrides Beshear Veto To Join Trump School-Choice Program",
+      "summary_cn": "肯塔基州议会投票推翻州长贝希尔对一项学校选择法案的否决，使该州加入特朗普政府推动的学校选择倡议。该法案将为更多家庭提供教育选择权。"
+    },
+    {
+      "title": "Refuting False Claims of Fraud in Arizona’s School Choice Program",
+      "url": "https://www.heritage.org/education/commentary/refuting-false-claims-fraud-arizonas-school-choice-program",
+      "date": "Mar 23, 2026",
+      "type": "Commentary",
+      "read_time": "3 min",
+      "source": "Heritage Foundation",
+      "category": "ai_technology",
+      "original_title": "Refuting False Claims of Fraud in Arizona’s School Choice Program",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 2,
+  "missing_count": 1
+}

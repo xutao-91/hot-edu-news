@@ -145,5 +145,19 @@
             "title_cn": "关于美国黑人移民的主要发现",
             "summary_cn": "皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。该群体主要来源于非洲和加勒比地区。"
         }
+    },
+    "heritage": {
+        "The Promise and Peril of Artificial Intelligence in Education": {
+            "title_cn": "人工智能在教育中的前景与风险",
+            "summary_cn": "传统基金会发布报告，探讨人工智能在教育领域的应用前景与潜在风险。报告分析了AI技术如何改变教学方式、个性化学习体验，同时也指出了数据隐私、算法偏见等挑战。"
+        },
+        "Kentucky Legislature Overrides Beshear Veto To Join Trump School-Choice Program": {
+            "title_cn": "肯塔基州议会推翻贝希尔否决 加入特朗普学校选择倡议",
+            "summary_cn": "肯塔基州议会投票推翻州长贝希尔对一项学校选择法案的否决，使该州加入特朗普政府推动的学校选择倡议。该法案将为更多家庭提供教育选择权。"
+        },
+        "Refuting False Claims of Fraud in Arizona's School Choice Program": {
+            "title_cn": "驳斥亚利桑那州学校选择项目中的欺诈虚假指控",
+            "summary_cn": "传统基金会发表评论，驳斥针对亚利桑那州学校选择项目的欺诈指控。文章指出这些指控缺乏事实依据，学校选择项目实际上为学生和家庭提供了更多教育机会。"
+        }
     }
 }

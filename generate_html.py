@@ -74,7 +74,8 @@ def generate_html():
         'whitehouse': {'name': '白宫', 'color': '#b22234'},
         'ace': {'name': 'ACE', 'color': '#003366'},
         'nsf_ncses': {'name': 'NSF NCSES', 'color': '#1e4d2b'},
-        'pewresearch': {'name': '皮尤', 'color': '#233656'}
+        'pewresearch': {'name': '皮尤', 'color': '#233656'},
+        'heritage': {'name': '传统基金会', 'color': '#8B0000'}
     }
     
     all_articles = []
