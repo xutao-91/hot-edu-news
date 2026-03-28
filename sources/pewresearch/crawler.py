@@ -147,7 +147,7 @@ def crawl_pewresearch():
                 if not is_within_days(date_str, days=3):
                     skipped_count += 1
                     display_date = date_elem.get_text(strip=True) if date_elem else date_str
-                    print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {display_date}")
+                    print(f"  ⏭️  跳过（超过3天）: {title[:40]}... | {display_date}")
                     continue
                 
                 # 提取分类

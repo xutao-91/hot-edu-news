@@ -98,7 +98,7 @@ def crawl_ace():
                 # 检查日期是否在7天内
                 if not is_within_days(date, days=3):
                     skipped_count += 1
-                    print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {date}")
+                    print(f"  ⏭️  跳过（超过3天）: {title[:40]}... | {date}")
                     continue
                 
                 # 摘要
@@ -125,7 +125,7 @@ def crawl_ace():
                 continue
         
         print(f"\n📊 过滤结果: {len(articles)} 篇在7天内")
-        print(f"   跳过 {skipped_count} 篇（超过7天）")
+        print(f"   跳过 {skipped_count} 篇（超过3天）")
         print(f"   跳过 {podcast_count} 篇（播客）")
         
         # 保存到 raw 目录

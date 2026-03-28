@@ -117,7 +117,7 @@ def crawl_ncses():
                 # 检查日期是否在7天内
                 if date_str and not is_within_days(date_str, days=3):
                     skipped_count += 1
-                    print(f"  ⏭️  跳过（超过7天）: {title[:40]}... | {date_str}")
+                    print(f"  ⏭️  跳过（超过3天）: {title[:40]}... | {date_str}")
                     continue
                 
                 if title and url:
