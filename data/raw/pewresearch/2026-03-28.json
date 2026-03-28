@@ -1,0 +1,43 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-03-28T12:00:20.596925",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/26/many-latin-americans-especially-protestants-see-a-role-for-religion-in-national-leadership-identity-and-laws/",
+      "date": "Mar 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Race Ethnicity Religion",
+        "Religion Government 1",
+        "Religion Government 2",
+        "Religion",
+        "Religion Politics 3",
+        "Religion Politics 1",
+        "Religious Identity Affiliation"
+      ],
+      "summary_en": "Majorities in Brazil, Colombia and Peru want leaders who stand up for their religious beliefs. Protestants are especially supportive of Christianity in public life.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "Religious Radio Across America",
+      "url": "https://www.pewresearch.org/data-labs/2026/03/26/religious-radio-across-america/",
+      "date": "Mar 26, 2026",
+      "type": "report",
+      "categories": [
+        "Audio Radio Podcasts",
+        "Data Science",
+        "Religion",
+        "Religion Politics 1",
+        "Religion Social Values"
+      ],
+      "summary_en": "Almost all U.S. adults live in range of a religious radio station, most commonly Christian radio. Stations tend to broadcast either mostly music or mostly talk.",
+      "source": "Pew Research Center",
+      "category": "religion"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-03-28T12:00:07.685085",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
+      "url": "https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/",
+      "date": "March 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Paying Our Great Transportation Security Administration Officers and Employees",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/",
+      "date": "March 27, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Addressing DEI Discrimination by Federal Contractors",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-dei-discrimination-by-federal-contractors/",
+      "date": "March 26, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bills H.R. 3377, H.R. 7194, H.R. 7211 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bills-h-r-3377-h-r-7194-h-r-7211-signed-into-law/",
+      "date": "March 26, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Addresses DEI Discrimination by Federal Contractors",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-addresses-dei-discrimination-by-federal-contractors/",
+      "date": "March 26, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "America First in Action: U.S. Records Net Negative Migration Across Every Metro Area",
+      "url": "https://www.whitehouse.gov/releases/2026/03/america-first-in-action-u-s-records-net-negative-migration-across-every-metro-area/",
+      "date": "March 26, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}
