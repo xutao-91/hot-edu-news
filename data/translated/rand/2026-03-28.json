@@ -1,0 +1,43 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-03-28T16:39:11.890666",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "K-12学校课程标准教学材料使用与科学实践：2025年春季美国教学资源调查结果",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4594-3.html",
+      "date": "Mar 27, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors take stock of the use of instructional materials among kindergarten through grade 12 science teachers. The authors highlight the opportunities for adoption and implementation of standards-aligned instructional materials.",
+      "source": "Rand Corporation",
+      "category": "teachers",
+      "original_title": "Standards-Aligned Instructional Materials Use and Science Practices in K–12 Schools: Findings from the Spring 2025 American Instructional Resources Survey",
+      "summary_cn": "兰德公司发布研究报告，基于2025年春季美国教学资源调查数据，分析幼儿园至12年级科学教师使用教学材料的情况。报告强调了采用和实施符合课程标准的教学材料的机会，为改进科学教育提供了实证依据。"
+    },
+    {
+      "title": "中国影响力行动对韩国及美韩联盟的影响",
+      "url": "https://www.rand.org/pubs/external_publications/EP71288.html",
+      "date": "Mar 27, 2026",
+      "type": "Research",
+      "summary_en": "Considering Chinese influence operations and their impacts on South Korean security and society.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "Implications of Chinese Influence Operations for South Korea and the US-ROK Alliance",
+      "summary_cn": "兰德公司研究报告分析中国影响力行动对韩国及美韩联盟的影响，探讨地缘政治变化对地区安全格局的影响。"
+    },
+    {
+      "title": "开放模型、软实力与美人工智能竞争谱系",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4686-1.html",
+      "date": "Mar 26, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors analyze the United States' and China's respective artificial intelligence (AI) action plans, how AI companies in both countries approach open-source AI models, and the implications for U.S. soft power.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "Open Models, Soft Power, and the Spectrum of U.S.-China Artificial Intelligence Competition",
+      "summary_cn": "兰德公司专家洞见文章，探讨开放AI模型、软实力在美中人工智能竞争中的作用，分析两国在AI领域竞争的不同层面和战略影响。"
+    }
+  ],
+  "translated_count": 3,
+  "missing_count": 0
+}

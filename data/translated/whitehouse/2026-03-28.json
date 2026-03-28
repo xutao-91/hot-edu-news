@@ -1,0 +1,64 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-03-28T16:38:58.261983",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
+      "url": "https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/",
+      "date": "March 27, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "New White House App Delivers Unparalleled Access to the Trump Administration",
+      "summary_cn": ""
+    },
+    {
+      "title": "Paying Our Great Transportation Security Administration Officers and Employees",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/",
+      "date": "March 27, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Paying Our Great Transportation Security Administration Officers and Employees",
+      "summary_cn": ""
+    },
+    {
+      "title": "解决联邦承包商的DEI歧视问题",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-dei-discrimination-by-federal-contractors/",
+      "date": "March 26, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Addressing DEI Discrimination by Federal Contractors",
+      "summary_cn": "特朗普总统签署行政命令，要求联邦机构终止与从事非法歧视的承包商的合同。命令要求总务管理局修改联邦采购法规，禁止联邦承包商在就业和人事决策中进行歧视。这一举措旨在确保联邦资金的公平使用，防止基于种族、性别、宗教等因素的就业歧视，维护所有工人的平等权利。行政命令还建立了举报机制，允许员工举报歧视行为，并要求承包商提供合规证明，以确保其雇佣实践符合联邦法律要求。"
+    },
+    {
+      "title": "国会法案H.R. 3377、H.R. 7194、H.R. 7211签署成为法律",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/congressional-bills-h-r-3377-h-r-7194-h-r-7211-signed-into-law/",
+      "date": "March 26, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Congressional Bills H.R. 3377, H.R. 7194, H.R. 7211 Signed into Law",
+      "summary_cn": "特朗普总统签署H.R. 3377、H.R. 7194、H.R. 7211等多项国会法案，使其成为联邦法律。这些法案涉及退伍军人事务、自然资源管理等领域，旨在改善相关领域的政策执行和服务质量。白宫声明表示，这些法案的通过体现了府会合作推进国家治理的积极成果，将为美国人民带来实实在在的利益。特朗普总统感谢国会两党议员的支持与合作，强调这些法案对促进经济社会发展具有重要意义。"
+    },
+    {
+      "title": "情况说明书：特朗普总统解决联邦承包商的DEI歧视问题",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-addresses-dei-discrimination-by-federal-contractors/",
+      "date": "March 26, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House",
+      "original_title": "Fact Sheet: President Donald J. Trump Addresses DEI Discrimination by Federal Contractors",
+      "summary_cn": "白宫发布情况说明书，详细介绍特朗普总统签署的行政命令，要求终止与从事非法歧视的联邦承包商的合同，修改联邦采购法规，禁止就业歧视。说明书解释了行政命令的背景、目标和具体措施，包括建立新的合规审查机制、加强对承包商的监督、设立举报渠道等。说明书强调，这些措施旨在确保联邦资金的公平使用，维护所有工人的平等权利，促进公平就业环境。"
+    },
+    {
+      "title": "美国优先行动：美国每个大都市区都记录净负移民",
+      "url": "https://www.whitehouse.gov/releases/2026/03/america-first-in-action-u-s-records-net-negative-migration-across-every-metro-area/",
+      "date": "March 26, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "America First in Action: U.S. Records Net Negative Migration Across Every Metro Area",
+      "summary_cn": "白宫宣布，美国在所有大都市区都实现了净负移民，即离境人数超过入境人数。这是特朗普政府实施强有力边境政策的结果，包括加强边境执法、限制非法移民、加快驱逐程序等措施。白宫表示，这一成果证明了政府边境政策的有效性，有助于维护国家安全、保护美国工人就业机会、减少公共服务负担。政府将继续推进移民改革，确保边境安全，建立更加公平和有序的移民体系。"
+    }
+  ],
+  "translated_count": 4,
+  "missing_count": 2
+}

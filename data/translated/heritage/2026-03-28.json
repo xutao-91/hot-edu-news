@@ -1,0 +1,21 @@
+{
+  "source": "Heritage Foundation - Education",
+  "source_url": "https://www.heritage.org/education",
+  "crawled_at": "2026-03-28T16:39:08.936813",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "人工智能在教育中的前景与风险",
+      "url": "https://www.heritage.org/education/report/the-promise-and-peril-artificial-intelligence-education",
+      "date": "Mar 26, 2026",
+      "type": "Backgrounder",
+      "read_time": "23 min",
+      "source": "Heritage Foundation",
+      "category": "ai_technology",
+      "original_title": "The Promise and Peril of Artificial Intelligence in Education",
+      "summary_cn": "传统基金会发布报告，深入探讨人工智能在教育领域应用的前景与潜在风险。报告指出，特朗普政府正在加速推动AI在K-12教育中的应用，并于2026年3月发布《人工智能国家政策框架》，呼吁国会保护儿童并赋予家长监控子女使用AI的权限。报告认为，AI技术确实可能为教育带来益处，如帮助教师制定个性化学习计划、更快地回应学生需求、减轻教师行政工作负担，让他们有更多时间关注学生。AI在财务检测系统方面也显示出潜力，能够快速扫描费用报告、识别异常、消除低效并检测欺诈。然而，报告强调教育的目标始终是帮助学生在学业和生活中取得成功，AI工具必须服务于这一目标。报告警示，从社交媒体和Chromebooks在教育中的广泛采用可以看出，缺乏明确限制的技术引入往往带来意想不到的负面后果。研究表明，青少年每天使用社交媒体超过三小时会面临两倍的心理健康风险，而AI系统——尤其是互动式、对话式或游戏化系统——使用与社交媒体类似的令人上瘾的设计特征。报告还指出，AI可能对学生的大脑发育和认知能力产生负面影响，麻省理工学院的研究发现使用ChatGPT的学生大脑连通性下降。此外，AI系统存在\"幻觉\"问题，可能产生有偏见、不准确或完全虚假的信息，且可能收集和滥用学生个人数据。报告建议，AI在教育中的应用应采取谨慎态度，优先考虑技术教育（tech ed）而非教育技术（ed tech），保护家长权利，限制聊天机器人教学助手，并在扩大资金或使用之前建立基于证据的保障措施和适当限制。"
+    }
+  ],
+  "translated_count": 1,
+  "missing_count": 0
+}
