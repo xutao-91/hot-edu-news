@@ -1,10 +1,10 @@
 #!/bin/bash
-# 本地爬虫主控制脚本 - 只抓取最近7天的文章
+# 本地爬虫主控制脚本 - 只抓取最近3天的文章
 # 定时运行：每天 12:00 和 20:00
 
 echo "========================================"
 echo "🚀 热点教育信息 - 本地爬虫启动"
-echo "📅 只抓取最近7天内的文章"
+echo "📅 只抓取最近3天内的文章"
 echo "时间: $(date)"
 echo "========================================"
 
@@ -101,7 +101,7 @@ echo "✅ docs目录已同步"
 echo ""
 echo "📤 推送到 GitHub..."
 git add docs/ index.html README.md sources/ data/
-git commit -m "📰 本地爬虫更新: $(date +'%Y-%m-%d %H:%M') - 只抓取最近7天" || echo "无变更"
+git commit -m "📰 本地爬虫更新: $(date +'%Y-%m-%d %H:%M') - 只抓取最近3天" || echo "无变更"
 
 # 使用token推送
 if [ -n "$GITHUB_TOKEN" ]; then
