@@ -1,8 +1,8 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-03-27T20:00:22.719797",
-  "total_news": 8,
+  "crawled_at": "2026-03-27T21:46:58.848485",
+  "total_news": 6,
   "news": [
     {
       "title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
@@ -99,38 +99,6 @@
       "summary_en": "75% of U.S. adults see diversity as a good thing for the country, but Democrats and Republicans differ sharply on how diversity impacts the country’s culture.",
       "source": "Pew Research Center",
       "category": "international"
-    },
-    {
-      "title": "Where do Americans turn first for information about breaking news?",
-      "url": "https://www.pewresearch.org/short-reads/2026/03/24/where-do-americans-turn-first-for-information-about-breaking-news/",
-      "date": "Mar 24, 2026",
-      "type": "short reads",
-      "categories": [
-        "Digital News Landscape 2",
-        "Media Society",
-        "News Habits Media",
-        "News Media Trends",
-        "Social Media",
-        "Social Media News"
-      ],
-      "summary_en": "When a breaking news event happens, 36% of U.S. adults say they typically turn first to their preferred news organization to get more information.",
-      "source": "Pew Research Center",
-      "category": "general"
-    },
-    {
-      "title": "About 6 in 10 Americans don’t have moral objections to medical aid in dying",
-      "url": "https://www.pewresearch.org/short-reads/2026/03/23/about-6-in-10-americans-dont-have-moral-objections-to-medical-aid-in-dying/",
-      "date": "Mar 23, 2026",
-      "type": "short reads",
-      "categories": [
-        "Death Dying",
-        "Health Care",
-        "Medicine Health",
-        "Religion Social Values"
-      ],
-      "summary_en": "Republicans are twice as likely as Democrats to call physician-assisted death morally wrong (48% vs. 23%).",
-      "source": "Pew Research Center",
-      "category": "technology"
     }
   ]
 }

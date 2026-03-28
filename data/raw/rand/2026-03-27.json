@@ -1,8 +1,8 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-03-27T20:00:21.382929",
-  "total_news": 9,
+  "crawled_at": "2026-03-27T21:46:57.531369",
+  "total_news": 6,
   "news": [
     {
       "title": "Standards-Aligned Instructional Materials Use and Science Practices in K–12 Schools: Findings from the Spring 2025 American Instructional Resources Survey",
@@ -57,33 +57,6 @@
       "summary_en": "A Delphi study with 24 experts found few viable policies to curb catastrophic artificial intelligence risks. Experts favored risk disclosure incentives and voluntary safety standards, with near-term progress likely from state and industry action.",
       "source": "Rand Corporation",
       "category": "ai_technology"
-    },
-    {
-      "title": "Technical Documentation for the Twelfth American School District Panel Survey",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4737-2.html",
-      "date": "Mar 24, 2026",
-      "type": "Research",
-      "summary_en": "This report presents technical information about the fall 2025 survey of the American School District Panel. The authors describe the survey administration and weighting processes that they used to produce nationally representative estimates.",
-      "source": "Rand Corporation",
-      "category": "students"
-    },
-    {
-      "title": "Educator Turnover Rates Stabilize After the Pandemic: Findings from the American School District Panel",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4737-1.html",
-      "date": "Mar 24, 2026",
-      "type": "Research",
-      "summary_en": "The authors add a fifth school year (2024–2025) to the American School District Panel’s annual tracking of educator turnover rates. Estimates from district leaders suggest a continued downward trend in turnover rates among teachers and principals.",
-      "source": "Rand Corporation",
-      "category": "students"
-    },
-    {
-      "title": "Artificial General Intelligence Forecasting and Scenario Analysis: State of the Field, Methodological Gaps, and Strategic Implications",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4692-1.html",
-      "date": "Mar 24, 2026",
-      "type": "Research",
-      "summary_en": "The authors synthesize diverse artificial general intelligence forecasting methodologies to help decisionmakers navigate uncertainty about both the timing and nature of advanced artificial intelligence capabilities.",
-      "source": "Rand Corporation",
-      "category": "general"
     }
   ]
 }

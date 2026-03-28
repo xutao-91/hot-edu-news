@@ -1,8 +1,8 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-03-27T20:00:06.995692",
-  "total_news": 10,
+  "crawled_at": "2026-03-27T21:46:43.847588",
+  "total_news": 8,
   "news": [
     {
       "title": "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan",
@@ -67,22 +67,6 @@
       "type": "Speech",
       "source": "U.S. Department of Education",
       "category": "k12"
-    },
-    {
-      "title": "U.S. Department of Education’s Office for Civil Rights Issues Letter of Impending Enforcement to San Jose State University on Title IX Compliance",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-issues-letter-of-impending-enforcement-san-jose-state-university-title-ix-compliance",
-      "date": "March 24, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "civil_rights"
-    },
-    {
-      "title": "U.S. Department of Education Officials and Education Leaders Highlight Civics Education at “History Rocks!” Events in Tennessee and Missouri",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-officials-and-education-leaders-highlight-civics-education-history-rocks-events-tennessee-and-missouri",
-      "date": "March 24, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "civics"
     }
   ]
 }

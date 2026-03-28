@@ -1,8 +1,8 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-03-27T20:00:12.460599",
-  "total_news": 2,
+  "crawled_at": "2026-03-27T21:46:49.352093",
+  "total_news": 1,
   "news": [
     {
       "title": "Court Order Delaying ACTS Deadline Applies Only to Public Institutions in 17 States",
@@ -10,15 +10,6 @@
       "date": "March 27, 2026",
       "type": "News",
       "summary_en": "In a mixed result, a Massachusetts federal district court judge again pushed back the deadline for some institutions to meet the Department of Education’s IPEDS Admissions and Consumer Transparency Supplement (ACTS) reporting requirements.",
-      "source": "ACE",
-      "category": "federal_policy"
-    },
-    {
-      "title": "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Associations-Urge-GSA-to-Rescind-Proposed-Certification-Requirements.aspx",
-      "date": "March 23, 2026",
-      "type": "News",
-      "summary_en": "ACE, other associations say a Trump administration proposal to require all federal funding recipients to certify they do not have unlawful DEI programs and practices would create significant uncertainty for institutions.",
       "source": "ACE",
       "category": "federal_policy"
     }

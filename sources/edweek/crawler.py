@@ -75,7 +75,7 @@ def crawl_edweek():
         traceback.print_exc()
         return None
 
-def is_recent(date_str, days=7):
+def is_recent(date_str, days=3):
     """检查日期是否在最近N天内"""
     try:
         from dateutil import parser

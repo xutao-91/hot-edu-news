@@ -1,8 +1,8 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-27T20:00:08.281250",
-  "total_news": 10,
+  "crawled_at": "2026-03-27T21:46:45.154008",
+  "total_news": 9,
   "news": [
     {
       "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
@@ -64,13 +64,6 @@
       "title": "President Trump Announces Appointments to President’s Council of Advisors on Science and Technology",
       "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-announces-appointments-to-presidents-council-of-advisors-on-science-and-technology/",
       "date": "March 25, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Secretary Markwayne Mullin Is Ready to Deliver on President Trump’s Agenda",
-      "url": "https://www.whitehouse.gov/releases/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
-      "date": "March 24, 2026",
       "category": "Releases",
       "source": "The White House"
     }
