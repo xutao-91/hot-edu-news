@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-27T12:00:08.508763",
+  "crawled_at": "2026-03-27T20:00:08.281250",
   "total_news": 10,
   "news": [
+    {
+      "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
+      "url": "https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/",
+      "date": "March 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Paying Our Great Transportation Security Administration Officers and Employees",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/",
+      "date": "March 27, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "Addressing DEI Discrimination by Federal Contractors",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/03/addressing-dei-discrimination-by-federal-contractors/",
@@ -58,20 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/03/secretary-markwayne-mullin-is-ready-to-deliver-on-president-trumps-agenda/",
       "date": "March 24, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Further Continuance of the Federal Emergency Management Agency Review Council",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/further-continuance-of-the-federal-emergency-management-agency-review-council/",
-      "date": "March 24, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2026/",
-      "date": "March 24, 2026",
-      "category": "Presidential Actions",
       "source": "The White House"
     }
   ]

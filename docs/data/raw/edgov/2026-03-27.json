@@ -1,9 +1,25 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-03-27T12:00:07.209055",
-  "total_news": 9,
+  "crawled_at": "2026-03-27T20:00:06.995692",
+  "total_news": 10,
   "news": [
+    {
+      "title": "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-next-steps-borrowers-enrolled-unlawful-save-plan",
+      "date": "March 27, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-raising-academic-standards-and-ensuring-admissions-transparency",
+      "date": "March 27, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
     {
       "title": "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-downsize-footprint-washington-dc-and-save-taxpayers-over-48-million-annually",
@@ -67,14 +83,6 @@
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "civics"
-    },
-    {
-      "title": "U.S. Department of Education’s Office for Civil Rights Opens Two New Probes into Harvard University for Continued Discrimination on Campus",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-educations-office-civil-rights-opens-two-new-probes-harvard-university-continued-discrimination-campus",
-      "date": "March 23, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "civil_rights"
     }
   ]
 }
