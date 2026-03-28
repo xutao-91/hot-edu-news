@@ -5,24 +5,24 @@
   "total_news": 5,
   "news": [
     {
-      "title": "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan",
+      "title": "美国教育部宣布针对参与非法SAVE计划借款人的后续措施",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-next-steps-borrowers-enrolled-unlawful-save-plan",
       "date": "March 27, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "general",
       "original_title": "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan",
-      "summary_cn": ""
+      "summary_cn": "美国教育部宣布针对参与被法院裁定非法的SAVE（学生贷款还款）计划借款人的后续措施。教育部表示将依法处理相关贷款，确保借款人权益的同时遵守法院判决。"
     },
     {
-      "title": "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency",
+      "title": "高等教育成果：提高学术标准并确保招生透明度",
       "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-raising-academic-standards-and-ensuring-admissions-transparency",
       "date": "March 27, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "higher_ed",
       "original_title": "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency",
-      "summary_cn": ""
+      "summary_cn": "美国教育部发布高等教育政策成果，强调提高学术标准和确保招生透明度的重要性。这些举措旨在维护高等教育质量，为学生提供公平竞争环境。"
     },
     {
       "title": "美国教育部将缩减华盛顿办公规模 每年为纳税人节省超过480万美元",
@@ -55,6 +55,6 @@
       "summary_cn": "印第安纳州第一夫人莫琳·布劳恩出席'历史闪耀'公民教育活动，强调公民教育的重要性。她在活动中分享了对美国历史和宪政制度的看法，鼓励学生们积极参与公民事务，培养批判性思维能力。该活动是美国教育部推动公民教育系列举措的一部分，旨在通过创新教学方式激发学生对美国历史和宪政制度的兴趣，培养下一代负责任的公民。布劳恩夫人强调了公民教育在维护民主制度和促进社会参与方面的重要作用。"
     }
   ],
-  "translated_count": 3,
-  "missing_count": 2
+  "translated_count": 5,
+  "missing_count": 0
 }

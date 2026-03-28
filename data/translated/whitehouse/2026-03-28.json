@@ -5,22 +5,22 @@
   "total_news": 6,
   "news": [
     {
-      "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
+      "title": "新白宫应用程序提供前所未有的特朗普政府资讯获取渠道",
       "url": "https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/",
       "date": "March 27, 2026",
       "category": "Releases",
       "source": "The White House",
       "original_title": "New White House App Delivers Unparalleled Access to the Trump Administration",
-      "summary_cn": ""
+      "summary_cn": "白宫推出新应用程序，为公众提供前所未有的特朗普政府资讯获取渠道。该应用将发布总统声明、政策更新和白宫活动信息，加强与公众的直接沟通。"
     },
     {
-      "title": "Paying Our Great Transportation Security Administration Officers and Employees",
+      "title": "向伟大的运输安全管理局官员和员工支付薪酬",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/",
       "date": "March 27, 2026",
       "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Paying Our Great Transportation Security Administration Officers and Employees",
-      "summary_cn": ""
+      "summary_cn": "特朗普总统宣布为运输安全管理局（TSA）官员和员工提供薪酬保障。这一举措体现了政府对保障航空安全工作人员权益的重视。"
     },
     {
       "title": "解决联邦承包商的DEI歧视问题",
@@ -59,6 +59,6 @@
       "summary_cn": "白宫宣布，美国在所有大都市区都实现了净负移民，即离境人数超过入境人数。这是特朗普政府实施强有力边境政策的结果，包括加强边境执法、限制非法移民、加快驱逐程序等措施。白宫表示，这一成果证明了政府边境政策的有效性，有助于维护国家安全、保护美国工人就业机会、减少公共服务负担。政府将继续推进移民改革，确保边境安全，建立更加公平和有序的移民体系。"
     }
   ],
-  "translated_count": 4,
-  "missing_count": 2
+  "translated_count": 6,
+  "missing_count": 0
 }

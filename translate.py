@@ -70,6 +70,14 @@ translations_db = {
         "U.S. Department of Education Leaders Highlight Civics Education at “History Rocks!” Events in Vermont and West Virginia": {
             "title_cn": "教育部领导人在佛蒙特州和西弗吉尼亚州的'历史闪耀'活动中强调公民教育",
             "summary_cn": "美国教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'系列活动，就公民教育发表演讲。活动旨在通过创新教学方式，激发学生对美国历史和宪政制度的兴趣。"
+        },
+        "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan": {
+            "title_cn": "美国教育部宣布针对参与非法SAVE计划借款人的后续措施",
+            "summary_cn": "美国教育部宣布针对参与被法院裁定非法的SAVE（学生贷款还款）计划借款人的后续措施。教育部表示将依法处理相关贷款，确保借款人权益的同时遵守法院判决。"
+        },
+        "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency": {
+            "title_cn": "高等教育成果：提高学术标准并确保招生透明度",
+            "summary_cn": "美国教育部发布高等教育政策成果，强调提高学术标准和确保招生透明度的重要性。这些举措旨在维护高等教育质量，为学生提供公平竞争环境。"
         }
     },
     "whitehouse": {
@@ -112,6 +120,14 @@ translations_db = {
         "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2026": {
             "title_cn": "希腊独立日：庆祝希腊和美国民主的全国日",
             "summary_cn": "特朗普总统发表公告，宣布3月25日为希腊独立日全国庆祝日。总统在公告中回顾了希腊作为西方民主发源地的重要历史地位，深刻阐述了希腊文明对西方政治思想、民主制度、哲学文化的深远影响，强调美希两国在民主价值观、法治精神、人权理念上的深厚纽带与共同追求。他表示，希腊独立日不仅是希腊人民的重要节日，也是美国人民共同庆祝的日子，两国友谊历经百年风雨仍历久弥坚。"
+        },
+        "New White House App Delivers Unparalleled Access to the Trump Administration": {
+            "title_cn": "新白宫应用程序提供前所未有的特朗普政府资讯获取渠道",
+            "summary_cn": "白宫推出新应用程序，为公众提供前所未有的特朗普政府资讯获取渠道。该应用将发布总统声明、政策更新和白宫活动信息，加强与公众的直接沟通。"
+        },
+        "Paying Our Great Transportation Security Administration Officers and Employees": {
+            "title_cn": "向伟大的运输安全管理局官员和员工支付薪酬",
+            "summary_cn": "特朗普总统宣布为运输安全管理局（TSA）官员和员工提供薪酬保障。这一举措体现了政府对保障航空安全工作人员权益的重视。"
         }
     },
     "ace": {
@@ -122,6 +138,10 @@ translations_db = {
         "ACTS Deadline Shifts as ACE, Other Associations Support Legal Challenge": {
             "title_cn": "ACTS截止日期变更 ACE和其他协会支持法律挑战",
             "summary_cn": "美国教育委员会（ACE）联合其他10个高等教育协会向法院提交法庭之友意见书，支持对教育部IPEDS招生与消费者透明度补充调查（ACTS）的法律挑战。法院已批准将ACTS执行截止日期延后。"
+        },
+        "Court Order Delaying ACTS Deadline Applies Only to Public Institutions in 17 States": {
+            "title_cn": "法院推迟ACTS截止日期的命令仅适用于17个州的公立院校",
+            "summary_cn": "美国教育委员会（ACE）说明，法院推迟ACTS（招生与消费者透明度补充调查）截止日期的命令仅适用于17个州的公立高等院校，其他地区仍需按原计划执行。"
         }
     },
     "nsf_ncses": {},

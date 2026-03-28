@@ -5,7 +5,7 @@
   "total_news": 1,
   "news": [
     {
-      "title": "Court Order Delaying ACTS Deadline Applies Only to Public Institutions in 17 States",
+      "title": "法院推迟ACTS截止日期的命令仅适用于17个州的公立院校",
       "url": "https://www.acenet.edu/News-Room/Pages/Court-Order-Delaying-ACTS-Deadline-Applies-Only-Public-Institutions-17-States.aspx",
       "date": "March 27, 2026",
       "type": "News",
@@ -13,9 +13,9 @@
       "source": "ACE",
       "category": "federal_policy",
       "original_title": "Court Order Delaying ACTS Deadline Applies Only to Public Institutions in 17 States",
-      "summary_cn": "In a mixed result, a Massachusetts federal district court judge again pushed back the deadline for some institutions to meet the Department of Education’s IPEDS Admissions and Consumer Transparency Supplement (ACTS) reporting requirements."
+      "summary_cn": "美国教育委员会（ACE）说明，法院推迟ACTS（招生与消费者透明度补充调查）截止日期的命令仅适用于17个州的公立高等院校，其他地区仍需按原计划执行。"
     }
   ],
-  "translated_count": 0,
-  "missing_count": 1
+  "translated_count": 1,
+  "missing_count": 0
 }
