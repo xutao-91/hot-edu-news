@@ -128,6 +128,10 @@ translations_db = {
         "Paying Our Great Transportation Security Administration Officers and Employees": {
             "title_cn": "向伟大的运输安全管理局官员和员工支付薪酬",
             "summary_cn": "特朗普总统宣布为运输安全管理局（TSA）官员和员工提供薪酬保障的重要措施。这一举措体现了政府对保障航空安全一线工作人员权益的重视。TSA官员每天在美国各地机场执行安检任务，保护数百万旅客的航空旅行安全。总统指出，这些敬业的公务员 deserve fair compensation for their critical work in protecting the nation's transportation infrastructure. 此次薪酬保障措施将确保TSA员工获得与其职责相称的报酬，有助于提高员工士气、降低人员流失率，并最终提升航空安全检查质量。政府还将评估TSA工作条件，考虑提供更多支持措施，包括改善工作环境、增加培训机会和职业发展空间，以吸引和留住优秀的航空安全专业人才。"
+        },
+        "Education and Sharing Day, U.S.A., 2026": {
+            "title_cn": "2026年美国教育与分享日",
+            "summary_cn": "特朗普总统发布公告，宣布2026年美国教育与分享日。该纪念日旨在强调教育的重要性，鼓励美国人分享知识和资源，促进社区学习和教育公平。总统在公告中强调了教育对个人发展、国家繁荣和社会进步的关键作用，呼吁全美各地学校、家庭和社区共同参与教育活动，分享学习资源，为下一代创造更好的教育环境。"
         }
     },
     "ace": {
