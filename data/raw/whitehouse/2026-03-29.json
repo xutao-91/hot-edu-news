@@ -1,0 +1,29 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-03-29T12:00:07.235835",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Education and Sharing Day, U.S.A., 2026",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/education-and-sharing-day-u-s-a-2026/",
+      "date": "March 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
+      "url": "https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/",
+      "date": "March 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Paying Our Great Transportation Security Administration Officers and Employees",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/memorandum-for-the-secretary-of-homeland-security-and-the-director-of-the-office-of-management-and-budget/",
+      "date": "March 27, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}

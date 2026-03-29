@@ -1,0 +1,24 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-03-29T12:00:05.947795",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-next-steps-borrowers-enrolled-unlawful-save-plan",
+      "date": "March 27, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-raising-academic-standards-and-ensuring-admissions-transparency",
+      "date": "March 27, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    }
+  ]
+}
