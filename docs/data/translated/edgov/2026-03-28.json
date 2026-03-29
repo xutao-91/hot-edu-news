@@ -1,0 +1,60 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-03-28T16:38:56.978408",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "美国教育部宣布针对参与非法SAVE计划借款人的后续措施",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-next-steps-borrowers-enrolled-unlawful-save-plan",
+      "date": "March 27, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general",
+      "original_title": "U.S. Department of Education Announces Next Steps for Borrowers Enrolled in the Unlawful SAVE Plan",
+      "summary_cn": "美国教育部宣布针对参与被法院裁定非法的SAVE（学生贷款还款）计划借款人的后续措施。教育部表示将依法处理相关贷款，确保借款人权益的同时遵守法院判决。"
+    },
+    {
+      "title": "高等教育成果：提高学术标准并确保招生透明度",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-raising-academic-standards-and-ensuring-admissions-transparency",
+      "date": "March 27, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed",
+      "original_title": "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency",
+      "summary_cn": "美国教育部发布高等教育政策成果，强调提高学术标准和确保招生透明度的重要性。这些举措旨在维护高等教育质量，为学生提供公平竞争环境。"
+    },
+    {
+      "title": "美国教育部将缩减华盛顿办公规模 每年为纳税人节省超过480万美元",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-downsize-footprint-washington-dc-and-save-taxpayers-over-48-million-annually",
+      "date": "March 26, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general",
+      "original_title": "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually",
+      "summary_cn": "美国教育部宣布将缩减在华盛顿特区的办公规模，预计每年可为纳税人节省超过480万美元。教育部计划减少办公空间并优化人员配置，以提高运营效率。这一举措是特朗普政府推动联邦机构精简、减少政府开支的系列措施之一，旨在将更多资源用于直接服务学生和教育机构，而非维持庞大的行政体系。教育部表示，将通过数字化转型和流程优化，确保在减少办公空间的同时不影响服务质量和效率，继续履行其支持美国教育发展的核心使命。"
+    },
+    {
+      "title": "美国教育部庆祝超过1000万份FAFSA表格完成及额外透明度措施",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-celebrates-more-10-million-fafsar-forms-complete-and-additional-transparency-measures",
+      "date": "March 26, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general",
+      "original_title": "U.S. Department of Education Celebrates More Than 10 Million FAFSA® Forms Complete and Additional Transparency Measures",
+      "summary_cn": "美国教育部宣布，已有超过1000万份联邦学生资助免费申请表（FAFSA）完成提交，显示出学生和家庭对高等教育资助的强烈需求。同时，教育部推出了额外的透明度措施，帮助学生和家庭更清楚地了解资助申请流程、资金分配情况和预期获得资助的时间表。这些措施旨在简化复杂的资助申请程序，减少申请过程中的障碍，确保更多符合条件的学生能够及时获得所需的经济支持，顺利完成高等教育学业，实现个人发展和职业目标。"
+    },
+    {
+      "title": "印第安纳州第一夫人莫琳·布劳恩在'历史闪耀'活动中强调公民教育",
+      "url": "https://www.ed.gov/about/news/press-release/indiana-first-lady-maureen-braun-highlights-civics-education-history-rocks-event",
+      "date": "March 26, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics",
+      "original_title": "Indiana First Lady Maureen Braun Highlights Civics Education at “History Rocks!” Event",
+      "summary_cn": "印第安纳州第一夫人莫琳·布劳恩出席'历史闪耀'公民教育活动，强调公民教育的重要性。她在活动中分享了对美国历史和宪政制度的看法，鼓励学生们积极参与公民事务，培养批判性思维能力。该活动是美国教育部推动公民教育系列举措的一部分，旨在通过创新教学方式激发学生对美国历史和宪政制度的兴趣，培养下一代负责任的公民。布劳恩夫人强调了公民教育在维护民主制度和促进社会参与方面的重要作用。"
+    }
+  ],
+  "translated_count": 5,
+  "missing_count": 0
+}

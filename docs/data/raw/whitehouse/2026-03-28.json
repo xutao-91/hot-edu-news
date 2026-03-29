@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-28T16:38:58.261983",
-  "total_news": 6,
+  "crawled_at": "2026-03-28T20:00:11.107258",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Education and Sharing Day, U.S.A., 2026",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/education-and-sharing-day-u-s-a-2026/",
+      "date": "March 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "New White House App Delivers Unparalleled Access to the Trump Administration",
       "url": "https://www.whitehouse.gov/releases/2026/03/new-white-house-app-delivers-unparalleled-access-to-the-trump-administration/",

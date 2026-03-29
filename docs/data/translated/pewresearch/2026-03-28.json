@@ -1,11 +1,11 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-03-28T20:00:23.238791",
+  "crawled_at": "2026-03-28T16:39:13.292128",
   "total_news": 2,
   "news": [
     {
-      "title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "title": "许多拉丁美洲人——尤其是新教徒——认为宗教在国家领导、身份认同和法律中应发挥作用",
       "url": "https://www.pewresearch.org/short-reads/2026/03/26/many-latin-americans-especially-protestants-see-a-role-for-religion-in-national-leadership-identity-and-laws/",
       "date": "Mar 26, 2026",
       "type": "short reads",
@@ -21,10 +21,12 @@
       ],
       "summary_en": "Majorities in Brazil, Colombia and Peru want leaders who stand up for their religious beliefs. Protestants are especially supportive of Christianity in public life.",
       "source": "Pew Research Center",
-      "category": "international"
+      "category": "international",
+      "original_title": "Many Latin Americans – especially Protestants – see a role for religion in national leadership, identity and laws",
+      "summary_cn": "皮尤研究中心调查显示，巴西、哥伦比亚和秘鲁的大多数民众希望领导人捍卫其宗教信仰。新教徒尤其支持基督教在公共生活中发挥作用。"
     },
     {
-      "title": "Religious Radio Across America",
+      "title": "美国宗教广播",
       "url": "https://www.pewresearch.org/data-labs/2026/03/26/religious-radio-across-america/",
       "date": "Mar 26, 2026",
       "type": "report",
@@ -37,7 +39,11 @@
       ],
       "summary_en": "Almost all U.S. adults live in range of a religious radio station, most commonly Christian radio. Stations tend to broadcast either mostly music or mostly talk.",
       "source": "Pew Research Center",
-      "category": "religion"
+      "category": "religion",
+      "original_title": "Religious Radio Across America",
+      "summary_cn": "皮尤研究中心报告显示，几乎所有美国成年人都处于宗教广播电台覆盖范围内，最常见的是基督教广播电台。这些电台通常主要播放音乐或谈话节目。"
     }
-  ]
+  ],
+  "translated_count": 2,
+  "missing_count": 0
 }
