@@ -1,0 +1,62 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-03-30T11:12:44.250401",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Purdue, ARCS Foundation agreement expands national science scholar program to Indiana",
+      "url": "https://www.purdue.edu/newsroom/2026/Q1/purdue-arcs-foundation-agreement-expands-national-science-scholar-program-to-indiana",
+      "date": "March 30, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research"
+    },
+    {
+      "title": "Spring Fling volunteer registration closes April 9",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/spring-fling-volunteer-registration-closes-april-9",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "In Print: ‘Destination Experience Design: Practices and Management’",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/in-print-destination-experience-design-practices-and-management",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "Celebrate America’s birthday in Ross-Ade Stadium",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/celebrate-americas-birthday-in-ross-ade-stadium",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "CHL’s ‘Full Plate Living’ series helps transform eating habits, improve health",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/chls-full-plate-living-series-helps-transform-eating-habits-improve-health",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "This week’s ‘Thumbs Up’ recipients",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/this-weeks-thumbs-up-recipients-110",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    }
+  ]
+}
