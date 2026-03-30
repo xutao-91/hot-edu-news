@@ -374,6 +374,48 @@ translations_db = {
             "title_cn": "研究生在冷弯钢结构全国竞赛中获胜",
             "summary_cn": "密尔沃基工程学院（MSOE）研究生在冷弯钢结构全国设计竞赛中荣获佳绩。该竞赛要求学生运用结构工程原理和创新设计方法，开发高效、可持续的钢结构解决方案。MSOE学生的获胜作品展示了他们在结构分析、材料科学和工程设计方面的扎实功底。这一成就体现了MSOE在工程教育领域的实力，以及学生将理论知识应用于实际工程挑战的能力，为学校在结构工程领域赢得了全国认可。"
         }
+    },
+    "marquette": {
+        "Margaret Nettesheim Hoffmann named director of Marquette’s Center for Humanities": {
+            "title_cn": "Margaret Nettesheim Hoffmann被任命为马凯特大学人文中心主任",
+            "summary_cn": "马凯特大学宣布任命Margaret Nettesheim Hoffmann为人文中心主任。Hoffmann将领导该中心推进人文学科的教学、研究和社区参与工作。她在人文领域拥有丰富的学术和行政经验，将致力于促进跨学科合作，提升人文学科在大学和社区中的影响力。"
+        },
+        "“Democracy at Close Range” keynote on political difference headlines annual College of Communication Scholarship Week": {
+            "title_cn": "'近距离观察民主'主题演讲聚焦政治分歧，拉开传播学院年度奖学金周序幕",
+            "summary_cn": "马凯特大学传播学院举办年度奖学金周活动，'近距离观察民主'主题演讲成为亮点。活动探讨了当前政治环境中的分歧与对话，邀请专家学者就如何促进建设性的政治交流进行深入讨论，体现了传播学院在促进公共话语和民主参与方面的使命。"
+        },
+        "Take part in soundbaths meditation with Parisa Shirazi Chavoya": {
+            "title_cn": "与Parisa Shirazi Chavoya一起参加声波浴冥想活动",
+            "summary_cn": "马凯特大学邀请学生参加由Parisa Shirazi Chavoya主持的声波浴冥想活动。声波浴是一种通过声音振动促进放松和身心健康的冥想形式。该活动体现了大学对学生心理健康和全面发展的关注，提供了减轻压力、增强专注力的机会。"
+        },
+        "Black Mindz, LLC business launch party, April 10": {
+            "title_cn": "Black Mindz, LLC商业发布会，4月10日",
+            "summary_cn": "马凯特大学将举办Black Mindz, LLC商业发布会。该活动支持学生创业和少数族裔商业发展，展示了大学在培养创新精神和促进商业多样性方面的努力。活动将为参与者提供网络交流和商业机会。"
+        },
+        "Marquette Central information session on federal student aid changes, April 8": {
+            "title_cn": "马凯特中心关于联邦学生援助变化的信息发布会，4月8日",
+            "summary_cn": "马凯特大学马凯特中心将于4月8日举办关于联邦学生援助变化的信息发布会。顾问Fatima Castillo和Cassandra Calderon-Castro将主持该会议，向当前研究生介绍联邦学生援助政策的最新变化和申请流程。"
+        },
+        "Backpack Program food drive ends April 3; Post-Pi Day Party, April 8": {
+            "title_cn": "背包计划食品捐赠活动4月3日截止；Pi日后派对，4月8日",
+            "summary_cn": "马凯特大学宣布背包计划食品捐赠活动将于4月3日截止，同时将于4月8日举办Pi日后派对。背包计划旨在为有需要的学生提供食品援助，体现了大学社区互助精神。Pi日后派对则为师生提供了一个轻松交流的机会。"
+        },
+        "2026 faculty promotions announced": {
+            "title_cn": "2026年教师晋升名单公布",
+            "summary_cn": "马凯特大学公布了2026年教师晋升名单，表彰在教学、研究和服务方面表现卓越的教师。晋升是对教师学术成就和专业贡献的认可，体现了大学对学术卓越和师资队伍建设的重视。"
+        },
+        "Join the Blue and Gold Walk to welcome Provost Tahmassebi, April 1": {
+            "title_cn": "参加蓝金步行活动欢迎教务长Tahmassebi，4月1日",
+            "summary_cn": "马凯特大学邀请师生参加4月1日的蓝金步行活动，欢迎新任教务长Tahmassebi。该活动是大学社区表达对新领导欢迎的方式，也体现了马凯特大学的校园精神和社区凝聚力。"
+        },
+        "President Ah Yun hosting faculty and staff for lunch, conversation": {
+            "title_cn": "Ah Yun校长邀请教职员工共进午餐交流",
+            "summary_cn": "马凯特大学校长Ah Yun邀请教职员工参加午餐交流会，就大学发展、教学研究和校园建设等议题进行对话。这一活动体现了大学领导层对教职员工声音的重视，以及促进校园沟通的开放态度。"
+        },
+        "Spotlight on graduate research: Six students recognized for outstanding posters": {
+            "title_cn": "聚焦研究生研究：六名学生获杰出海报奖",
+            "summary_cn": "马凯特大学表彰六名研究生在学术海报展示中的杰出表现。这些学生通过海报展示了各自领域的创新研究成果，体现了大学在培养研究生科研能力和学术交流技巧方面的成效。"
+        }
     }
 }
 def translate_source(source_name):
@@ -442,7 +484,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette']
     
     for source in sources:
         translate_source(source)
