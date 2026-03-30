@@ -94,6 +94,16 @@ def crawl_purdue():
                 # 链接
                 url = item.get('href', '')
                 
+                # 类型标签 - 只保留 Purdue News
+                type_elem = item.find('span', class_='purdue-tax-tag')
+                content_type = type_elem.get_text(strip=True) if type_elem else ''
+                
+                # 只筛选 Purdue News，排除 Purdue Today
+                if content_type != 'Purdue News':
+                    skipped_count += 1
+                    print(f"  ⏭️  跳过（非Purdue News）: {title[:40]}... | 类型: {content_type}")
+                    continue
+                
                 # 日期
                 date_elem = item.find('span', class_='purdue-date-tag')
                 date_str = date_elem.get_text(strip=True) if date_elem else ''
@@ -103,10 +113,6 @@ def crawl_purdue():
                     skipped_count += 1
                     print(f"  ⏭️  跳过（超过4天）: {title[:40]}... | {date_str}")
                     continue
-                
-                # 类型标签
-                type_elem = item.find('span', class_='purdue-tax-tag')
-                content_type = type_elem.get_text(strip=True) if type_elem else 'News'
                 
                 if title and url:
                     articles.append({
