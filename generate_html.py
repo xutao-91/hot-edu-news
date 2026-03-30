@@ -103,7 +103,8 @@ def generate_html():
         'mpr_education': {'name': 'MPR Education', 'color': '#0084A8'},
         'umn_cse': {'name': 'UMN CSE', 'color': '#7A0019'},
         'washu_source': {'name': 'WashU Source', 'color': '#A51417'},
-        'studlife': {'name': 'Student Life', 'color': '#154734'}
+        'studlife': {'name': 'Student Life', 'color': '#154734'},
+        'washu_engineering': {'name': 'WashU Engineering', 'color': '#A51417'}
     }
     
     all_articles = []

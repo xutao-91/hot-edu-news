@@ -1,0 +1,44 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-03-30T17:56:01.849572",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Kraus named executive director of finance and budgeting for McKelvey Engineering",
+      "url": "https://engineering.washu.edu/news/2026/Kraus-named-executive-director-of-finance-and-budgeting-for-McKelvey-Engineering.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "She has more than 30 years of experience at WashU.",
+      "source": "WashU McKelvey Engineering",
+      "category": "administration"
+    },
+    {
+      "title": "WashU launches doctoral program in neuroengineering",
+      "url": "https://engineering.washu.edu/news/2026/WashU-launches-doctoral-program-in-neuroengineering.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The program, to begin in 2027, is among only a few in the United States.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Three McKelvey faculty elected to AAAS",
+      "url": "https://engineering.washu.edu/news/2026/Three-McKelvey-faculty-elected-to-AAAS.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Yixin Chen, Lori Setton and Joshua Yuan were among eleven WashU faculty members elected.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty"
+    },
+    {
+      "title": "New research on cellular redox reactions sheds light on the path to neurodegenerative diseases",
+      "url": "https://engineering.washu.edu/news/2026/New-research-on-cellular-redox-reactions-sheds-light-on-the-path-to-neurodegenerative-diseases.html",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Yifan Dai and colleagues are reshaping our understanding of disease origins and revealing how these condensates can tip cells from normal behavior to dysfunction.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    }
+  ]
+}
