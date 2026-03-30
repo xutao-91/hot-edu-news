@@ -1,0 +1,38 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-03-30T16:54:06.673013",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "CEO of The Atlantic encourages “engaged optimism” about AI in WashU talk",
+      "url": "https://www.studlife.com/news/2026/03/29/ceo-of-the-atlantic-encourages-engaged-optimism-about-ai-in-washu-talk",
+      "date": "2026-03-29",
+      "type": "News",
+      "summary_en": "Nicholas Thompson, former Editor-in-Chief of WIRED and now CEO of The Atlantic, has reported on artificial intelligence since 2017. As part of WashU’s +AI Perspectives Week, Thompson reflected on what he’s learned about AI and his advice for college students to a packed crowd of WashU students and community members on March 25.",
+      "author": "Zach Trabitz, Riley Herron",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "‘Why now?’: Professor Krister Knapp discusses the nuance of conflict in Iran",
+      "url": "https://www.studlife.com/news/2026/03/28/why-now-professor-krister-knapp-discusses-the-nuance-of-conflict-in-iran",
+      "date": "2026-03-28",
+      "type": "News",
+      "summary_en": "Professor Krister Knapp spoke on the ongoing war in Iran, assessing and explaining both the origins and possible outcomes of the conflict, March 19.",
+      "author": "Zoe Rhodes",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Spring 2026 Student Union election names new leadership and denies EST block funding",
+      "url": "https://www.studlife.com/news/2026/03/27/spring-2026-student-union-election-names-new-leadership-and-denies-est-block-funding",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Student Union (SU) announced the results of its spring 2026 elections via Instagram on March 26, naming a new executive board and legislative body following a multi-day voting period that began Tuesday at 9 p.m. CST and concluded Thursday at 9 p.m. CST.",
+      "author": "Victor Huang",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}

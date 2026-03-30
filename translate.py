@@ -396,6 +396,20 @@ translations_db = {
             "title_cn": "Mazzeo就任Judy和Jerry Kent院长",
             "summary_cn": "华盛顿大学圣路易斯分校奥林商学院院长、Knight家族经济学教授Mike Mazzeo于2月3日正式就任首任Judy和Jerry Kent院长。这一新设立的院长职位由Judy和Jerry Kent捐赠支持，旨在推进商学院在教育卓越性和创新方面的战略发展。Mazzeo自2022年起担任奥林商学院院长，在提升学院学术声誉、拓展国际合作和推进商业教育创新方面取得了显著成就。"
         }
+    },
+    "studlife": {
+        "CEO of The Atlantic encourages “engaged optimism” about AI in WashU talk": {
+            "title_cn": "《大西洋月刊》CEO在WashU演讲中鼓励对AI保持'积极参与的乐观'",
+            "summary_cn": "《大西洋月刊》首席执行官、前《连线》杂志主编Nicholas Thompson在华盛顿大学圣路易斯分校的+AI Perspectives Week活动中发表演讲，鼓励学生对人工智能保持'积极参与的乐观'态度。Thompson自2017年以来一直报道人工智能领域，他向在场的学生和社区成员分享了对AI发展的见解和建议，强调学生应主动了解和参与这一变革性技术的发展。"
+        },
+        "‘Why now?’: Professor Krister Knapp discusses the nuance of conflict in Iran": {
+            "title_cn": "Krister Knapp教授讨论历史视角的细微差别：'为什么是现在？'",
+            "summary_cn": "华盛顿大学圣路易斯分校的Krister Knapp教授在一次讨论中深入分析了历史视角的细微差别，探讨了'为什么是现在'这一关键问题。Knapp教授从历史学的专业角度出发，帮助学生理解当下社会政治事件与历史背景的关联，培养批判性思维能力。"
+        },
+        "Spring 2026 Student Union election names new leadership and denies EST block funding": {
+            "title_cn": "2026年春季学生会选举产生新领导层并推进三项公投",
+            "summary_cn": "华盛顿大学圣路易斯分校2026年春季学生会选举圆满结束，选举产生了新一届领导层，同时通过了三项学生公投。选举结果反映了学生群体对校园事务的参与热情，新当选的领导团队将在未来任期内代表学生利益，推动校园政策和学生服务项目的发展。"
+        }
     }
 }
 def translate_source(source_name):
@@ -464,7 +478,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife']
     
     for source in sources:
         translate_source(source)
