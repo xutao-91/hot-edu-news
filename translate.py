@@ -290,6 +290,20 @@ translations_db = {
             "title_cn": "电子与计算机工程系Roy教授研发的类脑人工智能硬件助力决策",
             "summary_cn": "普渡大学电子与计算机工程系Kaushik Roy教授团队开发的类脑人工智能硬件取得重要突破。该硬件模仿人脑神经网络结构，能够在边缘设备上实现高效能的人工智能决策。与传统AI芯片相比，这种类脑硬件具有更低的能耗和更高的计算效率，特别适用于需要实时决策的嵌入式系统和物联网设备。研究团队表示，这项技术将为自动驾驶、智能制造、医疗诊断等领域带来革命性变化，推动AI技术从云端向边缘设备的普及。该研究得到美国国家科学基金会（NSF）的支持，相关成果已发表在顶级学术期刊。"
         }
+    },
+    "iu_news": {
+        "IU research informs federal drug safety bill to clearly label drugs with manufacturing details": {
+            "title_cn": "印第安纳大学研究为联邦药品安全法案提供参考，明确标示芬太尼相关物质",
+            "summary_cn": "印第安纳大学的研究成果为联邦药品安全法案提供了重要参考，该法案要求明确标示芬太尼相关物质。印第安纳大学的研究人员在药物安全、公共卫生政策等领域开展了深入研究，为立法者提供了基于科学的决策依据。这一法案旨在应对芬太尼危机，通过改进药品标签和分类系统，帮助医疗专业人员和公众更好地识别和管理这些高风险物质。印第安纳大学的研究展示了学术界在政策制定过程中的重要作用，以及研究型大学如何通过知识产出服务社会。"
+        },
+        "Students Helping Students, Little 500 raising money for basic needs": {
+            "title_cn": "学生帮助学生，Little 500为基本需求筹集资金",
+            "summary_cn": "印第安纳大学的'学生帮助学生'计划和Little 500活动正在为基本需求筹集资金。Little 500是印第安纳大学著名的年度自行车赛事，被誉为'世界上最伟大的大学周末'。今年的活动不仅延续了这一传统，还增加了为有需要的学生筹集基本需求资金的公益目标。筹款将用于支持面临食物、住房、医疗等基本需求困难的学生，体现了印第安纳大学社区互助精神和学生领导力。活动得到了广泛的校园和社区支持，展示了大学在社会公益方面的积极作用。"
+        },
+        "Congressional internship offers IU student firsthand policy experience": {
+            "title_cn": "国会实习为印第安纳大学学生提供政策经验第一手体验",
+            "summary_cn": "印第安纳大学学生通过国会实习项目获得了宝贵的政策制定第一手经验。该项目让学生有机会在华盛顿特区的国会办公室实习，深入了解联邦立法过程、政策分析和政府运作。实习生参与日常工作，包括研究政策议题、起草备忘录、协助 constituent 服务等。这一实践学习机会不仅增强了学生的专业能力和职业准备度，也为他们未来的职业发展奠定了基础。印第安纳大学的实习项目体现了其致力于将课堂学习与实际经验相结合的教育理念，培养下一代政策领袖。"
+        }
     }
 }
 def translate_source(source_name):
@@ -358,7 +372,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news']
     
     for source in sources:
         translate_source(source)

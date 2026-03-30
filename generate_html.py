@@ -87,7 +87,8 @@ def generate_html():
         'purdue': {'name': '普渡大学', 'color': '#CEB888'},
         'purdue_engineering': {'name': '普渡工程学院', 'color': '#8E6F3E'},
         'purdue_polytechnic': {'name': '普渡理工学院', 'color': '#B8860B'},
-        'purdue_education': {'name': '普渡教育学院', 'color': '#4B0082'}
+        'purdue_education': {'name': '普渡教育学院', 'color': '#4B0082'},
+        'iu_news': {'name': '印第安纳大学', 'color': '#990000'}
     }
     
     all_articles = []

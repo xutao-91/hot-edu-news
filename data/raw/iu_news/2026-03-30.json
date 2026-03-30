@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-03-30T12:26:03.217877",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU research informs federal drug safety bill to clearly label drugs with manufacturing details",
+      "url": "https://news.iu.edu/live/news/49410-iu-research-informs-federal-drug-safety-bill-to",
+      "date": "Mar 31, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Students Helping Students, Little 500 raising money for basic needs",
+      "url": "https://iufoundation.iu.edu/about/news/2026-students-helping-students-campaign.html",
+      "date": "Mar 30, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Congressional internship offers IU student firsthand policy experience",
+      "url": "https://news.iu.edu/college/live/news/49405-from-bloomington-to-capitol-hill-political-science",
+      "date": "Mar 27, 2026",
+      "type": "Law and Policy",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}
