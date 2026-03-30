@@ -211,6 +211,13 @@ def generate_html():
         }
         
         /* 各列样式 */
+        .col-index {
+            width: 50px;
+            text-align: center;
+            font-weight: bold;
+            color: #495057;
+        }
+        
         .col-date {
             width: 70px;
             white-space: nowrap;
@@ -300,6 +307,9 @@ def generate_html():
         }
         
         @media (max-width: 600px) {
+            .col-index {
+                display: none;
+            }
             .col-category {
                 display: none;
             }
@@ -322,6 +332,7 @@ def generate_html():
         <table>
             <thead>
                 <tr>
+                    <th class="col-index">序号</th>
                     <th class="col-date">日期</th>
                     <th class="col-category">分类</th>
                     <th class="col-source">来源</th>
@@ -333,7 +344,7 @@ def generate_html():
 '''
     
     # 生成表格行
-    for article in all_articles:
+    for index, article in enumerate(all_articles, 1):
         date_short = get_display_date_short(article.get('date', ''))
         category = get_category_name(article.get('category', 'general'))
         source_name = article.get('_source_name', '')
@@ -345,6 +356,7 @@ def generate_html():
         
         html += f'''
                 <tr>
+                    <td class="col-index">{index}</td>
                     <td class="col-date">{date_short}</td>
                     <td class="col-category"><span class="category-tag">{category}</span></td>
                     <td class="col-source"><span class="source-tag" style="background: {source_color};">{source_name}</span></td>

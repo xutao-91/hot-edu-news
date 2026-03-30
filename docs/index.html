@@ -84,6 +84,13 @@
         }
         
         /* 各列样式 */
+        .col-index {
+            width: 50px;
+            text-align: center;
+            font-weight: bold;
+            color: #495057;
+        }
+        
         .col-date {
             width: 70px;
             white-space: nowrap;
@@ -173,6 +180,9 @@
         }
         
         @media (max-width: 600px) {
+            .col-index {
+                display: none;
+            }
             .col-category {
                 display: none;
             }
@@ -195,6 +205,7 @@
         <table>
             <thead>
                 <tr>
+                    <th class="col-index">序号</th>
                     <th class="col-date">日期</th>
                     <th class="col-category">分类</th>
                     <th class="col-source">来源</th>
@@ -205,6 +216,7 @@
             <tbody>
 
                 <tr>
+                    <td class="col-index">1</td>
                     <td class="col-date">03-31</td>
                     <td class="col-category"><span class="category-tag">science</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #990000;">印第安纳大学</span></td>
@@ -216,6 +228,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">2</td>
                     <td class="col-date">03-31</td>
                     <td class="col-category"><span class="category-tag">research</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #5D0000;">IU凯利商学院</span></td>
@@ -227,6 +240,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">3</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">research</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #CEB888;">普渡大学</span></td>
@@ -238,6 +252,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">4</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #8E6F3E;">普渡工程学院</span></td>
@@ -249,6 +264,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">5</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">education</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #8E6F3E;">普渡工程学院</span></td>
@@ -260,6 +276,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">6</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #8E6F3E;">普渡工程学院</span></td>
@@ -271,6 +288,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">7</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #8E6F3E;">普渡工程学院</span></td>
@@ -282,6 +300,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">8</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">education</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #990000;">印第安纳大学</span></td>
@@ -293,6 +312,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">9</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">leadership</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #0C2340;">圣母大学</span></td>
@@ -304,6 +324,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">10</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">宗教</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #C99700;">圣母大学新闻</span></td>
@@ -315,6 +336,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">11</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">health</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #6B8E23;">圣母大学理学院</span></td>
@@ -326,6 +348,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">12</td>
                     <td class="col-date">03-30</td>
                     <td class="col-category"><span class="category-tag">science</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #6B8E23;">圣母大学理学院</span></td>
@@ -337,6 +360,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">13</td>
                     <td class="col-date">03-29</td>
                     <td class="col-category"><span class="category-tag">Briefings & Statements</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #b22234;">白宫</span></td>
@@ -348,6 +372,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">14</td>
                     <td class="col-date">03-29</td>
                     <td class="col-category"><span class="category-tag">social_impact</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #00843D;">圣母大学门多萨商学院</span></td>
@@ -359,6 +384,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">15</td>
                     <td class="col-date">03-28</td>
                     <td class="col-category"><span class="category-tag">Briefings & Statements</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #b22234;">白宫</span></td>
@@ -370,6 +396,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">16</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #1a4480;">教育部</span></td>
@@ -381,6 +408,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">17</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">高等教育</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #1a4480;">教育部</span></td>
@@ -392,6 +420,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">18</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">Releases</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #b22234;">白宫</span></td>
@@ -403,6 +432,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">19</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">Presidential Actions</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #b22234;">白宫</span></td>
@@ -414,6 +444,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">20</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">联邦政策</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #003366;">ACE</span></td>
@@ -425,6 +456,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">21</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">teachers</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #0066CC;">兰德公司</span></td>
@@ -436,6 +468,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">22</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #0066CC;">兰德公司</span></td>
@@ -447,6 +480,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">23</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">teacher_education</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #9B0000;">UW-Madison教育学院</span></td>
@@ -458,6 +492,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">24</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">teacher_education</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #9B0000;">UW-Madison教育学院</span></td>
@@ -469,6 +504,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">25</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">research</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #9B0000;">UW-Madison教育学院</span></td>
@@ -480,6 +516,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">26</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">research</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #0055A4;">UW-Madison工程学院</span></td>
@@ -491,6 +528,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">27</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">education</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #990000;">印第安纳大学</span></td>
@@ -502,6 +540,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">28</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">faculty</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #7A0019;">印第安纳大学教育学院</span></td>
@@ -513,6 +552,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">29</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">career</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #5D0000;">IU凯利商学院</span></td>
@@ -524,6 +564,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">30</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">peace</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #0C2340;">圣母大学</span></td>
@@ -535,6 +576,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">31</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">宗教</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #C99700;">圣母大学新闻</span></td>
@@ -546,6 +588,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">32</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #C99700;">圣母大学新闻</span></td>
@@ -557,6 +600,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">33</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #00843D;">圣母大学门多萨商学院</span></td>
@@ -568,6 +612,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">34</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">cancer</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #0057B8;">F&MCW癌症网络</span></td>
@@ -579,6 +624,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">35</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">policy</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #1E5288;">Bridge Michigan</span></td>
@@ -590,6 +636,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">36</td>
                     <td class="col-date">03-27</td>
                     <td class="col-category"><span class="category-tag">policy</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #1E5288;">Bridge Michigan</span></td>
@@ -601,6 +648,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">37</td>
                     <td class="col-date">03.30.2026</td>
                     <td class="col-category"><span class="category-tag">faculty</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #C41E3A;">密尔沃基工程学院</span></td>
@@ -612,6 +660,7 @@
                 </tr>
 
                 <tr>
+                    <td class="col-index">38</td>
                     <td class="col-date">03.27.2026</td>
                     <td class="col-category"><span class="category-tag">综合</span></td>
                     <td class="col-source"><span class="source-tag" style="background: #C41E3A;">密尔沃基工程学院</span></td>
