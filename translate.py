@@ -432,104 +432,6 @@ translations_db = {
             "title_cn": "观看：Bridge Listens与WJRT合作关注学校和识字教育",
             "summary_cn": "Bridge Michigan的Bridge Listens项目与WJRT电视台合作，聚焦密歇根州的教育和识字问题。该项目旨在促进社区对话，探讨如何改善该州的教育系统，特别是早期识字教育。通过与地方媒体合作，Bridge Listens为公众提供了一个讨论和了解教育政策影响的平台，邀请教育工作者、政策制定者和家长共同探讨解决方案。"
         }
-    },
-    "freep_education": {
-        "MHSAA boys basketball: Free Press 2026 All-East teams": {
-            "title_cn": "MHSAA男子篮球：自由报2026年全明星东部阵容",
-            "summary_cn": "《底特律自由报》公布2026年MHSAA男子篮球全明星东部阵容，表彰底特律东部地区最优秀的高中篮球运动员。"
-        },
-        "MHSAA boys basketball: Free Press 2026 All-Detroit team": {
-            "title_cn": "MHSAA男子篮球：自由报2026年全明星底特律阵容",
-            "summary_cn": "《底特律自由报》公布2026年MHSAA男子篮球全明星底特律阵容，表彰底特律市区最杰出的高中篮球运动员。"
-        },
-        "The future of one of Michigan’s oldest charter schools is uncertain": {
-            "title_cn": "密歇根州最古老特许学校之一前途未卜",
-            "summary_cn": "密歇根州历史最悠久的特许学校之一面临严重财务困难，其未来发展前景存在不确定性。"
-        },
-        "Ishpeming's Mya Hemmer voted the Freep Buffalo Wild Wings Girls Athlete of the Week": {
-            "title_cn": "Ishpeming的Mya Hemmer当选为自由报Buffalo Wild Wings本周女子运动员",
-            "summary_cn": "Ishpeming高中的Mya Hemmer被读者投票选为Buffalo Wild Wings本周女子运动员。"
-        },
-        "Here's who Freep readers voted the MHSAA boys basketball player of the year": {
-            "title_cn": "自由报读者投票选出的MHSAA年度男子篮球运动员",
-            "summary_cn": "《底特律自由报》公布读者投票选出的MHSAA年度男子篮球运动员。"
-        },
-        "Whitmer’s inaction has real consequences": {
-            "title_cn": "Whitmer的不作为产生实际后果",
-            "summary_cn": "美国教育部长Linda McMahon和国会议员批评密歇根州州长Whitmer在教育政策上的不作为。"
-        },
-        "Grosse Pointe North grad wins 'Jeopardy!' for 10th time. When he plays": {
-            "title_cn": "Grosse Pointe North毕业生第10次赢得《危险边缘！》，何时播出？",
-            "summary_cn": "来自Grosse Pointe North高中的毕业生在《危险边缘！》中连续第十次获胜。"
-        },
-        "Rare mural peeling off wall of Dearborn's Fordson High": {
-            "title_cn": "Dearborn Fordson高中珍贵壁画从墙面剥落",
-            "summary_cn": "位于Dearborn市Fordson高中的珍贵历史壁画正面临剥落的危险。"
-        },
-        "Plymouth Canton Educational Park students walk out to oppose ICE": {
-            "title_cn": "Plymouth Canton教育园区学生罢课反对ICE",
-            "summary_cn": "Plymouth Canton教育园区的学生举行罢课活动，抗议移民和海关执法局(ICE)政策。"
-        },
-        "U-M president to testify on Capitol Hill over alleged Chinese espionage": {
-            "title_cn": "密歇根大学校长将就所谓中国间谍问题在国会作证",
-            "summary_cn": "密歇根大学校长将赴美国国会就有关中国间谍活动的指控作证。"
-        },
-        "Parent sues Grosse Pointe schools over ban tied to LGBTQ+ flag post": {
-            "title_cn": "家长就LGBTQ+旗帜禁令起诉Grosse Pointe学区",
-            "summary_cn": "一位家长对Grosse Pointe公立学校系统提起诉讼，质疑禁止展示LGBTQ+旗帜的政策。"
-        },
-        "Detroit woman pleads guilty to $2.5 million student aid scam": {
-            "title_cn": "底特律女子承认参与250万美元学生援助诈骗案",
-            "summary_cn": "一名底特律女子在联邦法庭承认参与一项涉及250万美元的学生财政援助诈骗计划。"
-        },
-        "Goodrich turns belief into reality with dominant undefeated season": {
-            "title_cn": "Goodrich将信念转化为现实，创造完美不败赛季",
-            "summary_cn": "Goodrich高中女子篮球队以完美的不败战绩结束赛季。"
-        },
-        "Goodrich girls basketball receives MHSAA Division 2 state title medals": {
-            "title_cn": "Goodrich女子篮球队领取MHSAA第二分区州冠军奖牌",
-            "summary_cn": "Goodrich高中女子篮球队在夺得州冠军后正式领取冠军奖牌。"
-        },
-        "Goodrich girls basketball finishes perfect season with MHSAA D-2 title": {
-            "title_cn": "Goodrich女子篮球队以MHSAA第二分区冠军完美结束赛季",
-            "summary_cn": "Goodrich高中女子篮球队以完美的赛季战绩夺得MHSAA第二分区州冠军。"
-        },
-        "Young star takes over D-3 title game for Lumen Christi's first trophy": {
-            "title_cn": "新星主宰第三分区冠军赛，助Lumen Christi首夺奖杯",
-            "summary_cn": "一位年轻球员在第三分区冠军赛中发挥关键作用，带领Lumen Christi高中夺得首个冠军。"
-        },
-        "Jackson Lumen Christi receives MHSAA Division 3 state title trophies": {
-            "title_cn": "Jackson Lumen Christi领取MHSAA第三分区州冠军奖杯",
-            "summary_cn": "Jackson Lumen Christi高中正式领取MHSAA第三分区州冠军奖杯。"
-        },
-        "Autry's heroic Detroit Renaissance run ends with heartbreak": {
-            "title_cn": "Autry的英雄之旅以心碎结束",
-            "summary_cn": "Detroit Renaissance高中的Autry在州锦标赛中展现了英雄般的表现，但球队最终遗憾落败。"
-        },
-        "Muskegon girls basketball receives MHSAA Division 1 state title medals": {
-            "title_cn": "Muskegon女子篮球队领取MHSAA第一分区州冠军奖牌",
-            "summary_cn": "Muskegon高中女子篮球队正式领取MHSAA第一分区州冠军奖牌。"
-        },
-        "Muskegon outlasts Detroit Renaissance for MHSAA D-1 girls basketball title": {
-            "title_cn": "Muskegon击败Detroit Renaissance夺得MHSAA第一分区女子篮球冠军",
-            "summary_cn": "Muskegon高中女子篮球队击败Detroit Renaissance高中，夺得MHSAA第一分区州冠军。"
-        },
-        "UP community travels 6 hours to watch Ishpeming girls basketball win D-4 title": {
-            "title_cn": "上半岛社区驱车6小时观看Ishpeming女子篮球队夺冠",
-            "summary_cn": "密歇根州上半岛社区的球迷们驱车六小时前往观看Ishpeming高中女子篮球队的州冠军赛。"
-        },
-        "Macomb school employees accused of misconduct in bus parked at Walmart": {
-            "title_cn": "Macomb学校员工被指控在沃尔玛停车场的校车内行为不当",
-            "summary_cn": "Macomb County学区多名员工被指控在校车内有不当行为。"
-        },
-        "Ishpeming basketball presented with MHSAA Division 4 title medals": {
-            "title_cn": "Ishpeming篮球队被授予MHSAA第四分区冠军奖牌",
-            "summary_cn": "Ishpeming高中篮球队正式被授予MHSAA第四分区州冠军奖牌。"
-        },
-        "Mya Hemmer's historic game anchors Ishpeming to MHSAA girls D-4 title": {
-            "title_cn": "Mya Hemmer的历史性表现带领Ishpeming夺得MHSAA女子第四分区冠军",
-            "summary_cn": "Mya Hemmer在州冠军赛中创造了历史性表现，带领Ishpeming高中夺得州冠军。"
-        }
     }
 }
 def translate_source(source_name):
@@ -598,7 +500,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette', 'mcw_cancer', 'bridgemi', 'freep_education']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette', 'mcw_cancer', 'bridgemi']
     
     for source in sources:
         translate_source(source)
