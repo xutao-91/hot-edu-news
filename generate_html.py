@@ -85,7 +85,8 @@ def generate_html():
         'uw_socwork': {'name': 'UW-Madison社会工作学院', 'color': '#8B4513'},
         'uw_news': {'name': 'UW-Madison新闻', 'color': '#C41E3A'},
         'purdue': {'name': '普渡大学', 'color': '#CEB888'},
-        'purdue_engineering': {'name': '普渡工程学院', 'color': '#8E6F3E'}
+        'purdue_engineering': {'name': '普渡工程学院', 'color': '#8E6F3E'},
+        'purdue_polytechnic': {'name': '普渡理工学院', 'color': '#B8860B'}
     }
     
     all_articles = []
