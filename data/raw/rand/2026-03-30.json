@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-03-30T10:24:12.417187",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Standards-Aligned Instructional Materials Use and Science Practices in K–12 Schools: Findings from the Spring 2025 American Instructional Resources Survey",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4594-3.html",
+      "date": "Mar 27, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors take stock of the use of instructional materials among kindergarten through grade 12 science teachers. The authors highlight the opportunities for adoption and implementation of standards-aligned instructional materials.",
+      "source": "Rand Corporation",
+      "category": "teachers"
+    },
+    {
+      "title": "Implications of Chinese Influence Operations for South Korea and the US-ROK Alliance",
+      "url": "https://www.rand.org/pubs/external_publications/EP71288.html",
+      "date": "Mar 27, 2026",
+      "type": "Research",
+      "summary_en": "Considering Chinese influence operations and their impacts on South Korean security and society.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

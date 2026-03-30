@@ -29,7 +29,7 @@ def parse_date(date_str):
             continue
     return None
 
-def is_within_days(date_str, days=3):
+def is_within_days(date_str, days=4):
     """检查日期是否在指定天数内"""
     article_date = parse_date(date_str)
     if not article_date:
@@ -144,7 +144,7 @@ def crawl_pewresearch():
                 content_type = type_elem.get_text(strip=True) if type_elem else ''
                 
                 # 检查日期是否在7天内
-                if not is_within_days(date_str, days=3):
+                if not is_within_days(date_str, days=4):
                     skipped_count += 1
                     display_date = date_elem.get_text(strip=True) if date_elem else date_str
                     print(f"  ⏭️  跳过（超过3天）: {title[:40]}... | {display_date}")

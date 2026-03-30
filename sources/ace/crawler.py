@@ -29,7 +29,7 @@ def parse_date(date_str):
             continue
     return None
 
-def is_within_days(date_str, days=3):
+def is_within_days(date_str, days=4):
     """检查日期是否在指定天数内"""
     article_date = parse_date(date_str)
     if not article_date:
@@ -96,7 +96,7 @@ def crawl_ace():
                     continue
                 
                 # 检查日期是否在7天内
-                if not is_within_days(date, days=3):
+                if not is_within_days(date, days=4):
                     skipped_count += 1
                     print(f"  ⏭️  跳过（超过3天）: {title[:40]}... | {date}")
                     continue

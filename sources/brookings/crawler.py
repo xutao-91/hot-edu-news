@@ -22,7 +22,7 @@ def parse_date(date_str):
             continue
     return None
 
-def is_within_days(date_str, days=3):
+def is_within_days(date_str, days=4):
     article_date = parse_date(date_str)
     if not article_date:
         return True
