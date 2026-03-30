@@ -81,6 +81,9 @@ def crawl_brookings():
                 summary_en = summary_elem.get_text().strip()[:400] if summary_elem else ''
                 
                 if title and link:
+                    # 检查日期是否在4天内
+                    if date and not is_within_days(date, days=4):
+                        continue
                     articles.append({
                         'title': title,
                         'url': link,
@@ -153,6 +156,9 @@ def crawl_from_detail_pages():
                 date = date_elem.get_text().strip()
             
             if title:
+                # 检查日期是否在4天内
+                if date and not is_within_days(date, days=4):
+                    continue
                 articles.append({
                     'title': title,
                     'url': url,

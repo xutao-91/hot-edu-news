@@ -1,9 +1,21 @@
 {
   "source": "UW-Madison College of Engineering",
   "source_url": "https://engineering.wisc.edu/news/",
-  "crawled_at": "2026-03-30T10:22:11.505237",
-  "total_news": 0,
-  "news": [],
+  "crawled_at": "2026-03-30T10:29:35.148505",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Algorithm increases the chance that we’re counting nanoplastic concentrations correctly",
+      "url": "https://engineering.wisc.edu/news/algorithm-increases-the-chance-that-were-counting-nanoplastic-concentrations-correctly/",
+      "date": "March 27, 2026",
+      "type": "News",
+      "summary_en": "A growing environmental concern, nanoplastics have been found in water around the world—from the deep oceans to Arctic ice. New University of Wisconsin-Madison research, published in the August 2025 issue of the journal Environmental Science…",
+      "source": "UW-Madison College of Engineering",
+      "category": "research",
+      "original_title": "Algorithm increases the chance that we’re counting nanoplastic concentrations correctly",
+      "summary_cn": "A growing environmental concern, nanoplastics have been found in water around the world—from the deep oceans to Arctic ice. New University of Wisconsin-Madison research, published in the August 2025 issue of the journal Environmental Science…"
+    }
+  ],
   "translated_count": 0,
-  "missing_count": 0
+  "missing_count": 1
 }
