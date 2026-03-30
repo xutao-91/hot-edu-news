@@ -416,6 +416,12 @@ translations_db = {
             "title_cn": "聚焦研究生研究：六名学生获杰出海报奖",
             "summary_cn": "马凯特大学表彰六名研究生在学术海报展示中的杰出表现。这些学生通过海报展示了各自领域的创新研究成果，体现了大学在培养研究生科研能力和学术交流技巧方面的成效。"
         }
+    },
+    "mcw_cancer": {
+        "Froedtert & the Medical College of Wisconsin Cancer Network is First to Offer Proton Therapy in Wisconsin": {
+            "title_cn": "Froedtert与威斯康星医学院癌症网络成为威斯康星州首家提供质子治疗的机构",
+            "summary_cn": "Froedtert与威斯康星医学院（F&MCW）癌症网络宣布成为威斯康星州首家提供质子治疗的医疗机构。质子治疗是一种革命性的癌症治疗方法，利用质子束精准靶向肿瘤，最大限度地减少对周围健康组织的损伤。这一先进治疗技术的引入将为威斯康星州的癌症患者提供更为精准和有效的治疗选择，特别是对于儿童癌症、眼部肿瘤和靠近重要器官的肿瘤患者。F&MCW癌症网络继续在癌症治疗创新方面引领地区发展。"
+        }
     }
 }
 def translate_source(source_name):
@@ -484,7 +490,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette', 'mcw_cancer']
     
     for source in sources:
         translate_source(source)
