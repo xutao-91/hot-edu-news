@@ -79,7 +79,8 @@ def generate_html():
         'rand': {'name': '兰德公司', 'color': '#0066CC'},
         'aei': {'name': 'AEI', 'color': '#CC5500'},
         'uw_cdis': {'name': 'UW-Madison CDIS', 'color': '#C5050C'},
-        'uw_education': {'name': 'UW-Madison教育学院', 'color': '#9B0000'}
+        'uw_education': {'name': 'UW-Madison教育学院', 'color': '#9B0000'},
+        'uw_engineering': {'name': 'UW-Madison工程学院', 'color': '#0055A4'}
     }
     
     all_articles = []
