@@ -390,6 +390,12 @@ translations_db = {
             "title_cn": "观看：Bridge Listens与WJRT合作关注学校和识字教育",
             "summary_cn": "Bridge Michigan的Bridge Listens项目与WJRT电视台合作，聚焦密歇根州的教育和识字问题。该项目旨在促进社区对话，探讨如何改善该州的教育系统，特别是早期识字教育。通过与地方媒体合作，Bridge Listens为公众提供了一个讨论和了解教育政策影响的平台，邀请教育工作者、政策制定者和家长共同探讨解决方案。"
         }
+    },
+    "washu_source": {
+        "Mazzeo installed as Judy and Jerry Kent Dean": {
+            "title_cn": "Mazzeo就任Judy和Jerry Kent院长",
+            "summary_cn": "华盛顿大学圣路易斯分校奥林商学院院长、Knight家族经济学教授Mike Mazzeo于2月3日正式就任首任Judy和Jerry Kent院长。这一新设立的院长职位由Judy和Jerry Kent捐赠支持，旨在推进商学院在教育卓越性和创新方面的战略发展。Mazzeo自2022年起担任奥林商学院院长，在提升学院学术声誉、拓展国际合作和推进商业教育创新方面取得了显著成就。"
+        }
     }
 }
 def translate_source(source_name):
@@ -458,7 +464,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source']
     
     for source in sources:
         translate_source(source)
