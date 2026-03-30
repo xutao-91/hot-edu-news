@@ -390,116 +390,6 @@ translations_db = {
             "title_cn": "观看：Bridge Listens与WJRT合作关注学校和识字教育",
             "summary_cn": "Bridge Michigan的Bridge Listens项目与WJRT电视台合作，聚焦密歇根州的教育和识字问题。该项目旨在促进社区对话，探讨如何改善该州的教育系统，特别是早期识字教育。通过与地方媒体合作，Bridge Listens为公众提供了一个讨论和了解教育政策影响的平台，邀请教育工作者、政策制定者和家长共同探讨解决方案。"
         }
-    },
-    "twincities_education": {
-        "Student loans are headed to the Treasury Department. Here’s what to know if you have student debt": {
-            "title_cn": "学生贷款将移交财政部，有学生债务者需了解的事项",
-            "summary_cn": "美国教育部正在 dismantle，学生贷款管理将移交财政部。有联邦学生贷款的借款人应了解这一变化可能带来的影响，包括还款流程和服务提供商的变更。"
-        },
-        "Treasury Department begins taking over student loans as the Education Department gets dismantled": {
-            "title_cn": "财政部开始接管学生贷款，教育部逐步 dismantle",
-            "summary_cn": "随着特朗普政府 dismantle 教育部，财政部已开始接管联邦学生贷款项目。这一转变标志着联邦学生资助体系的重大重组。"
-        },
-        "States’ lawsuit argues Trump’s college data mandate threatens student privacy": {
-            "title_cn": "各州诉讼称特朗普的大学数据授权令威胁学生隐私",
-            "summary_cn": "多个州对特朗普政府提起诉讼，质疑其要求大学收集和报告学生数据的新规定。诉讼认为该授权令侵犯了学生的隐私权。"
-        },
-        "State lawmakers push to expand laws allowing guns on college campuses": {
-            "title_cn": "州议员推动扩大允许大学校园持枪的法律",
-            "summary_cn": "多个州的立法者正在推动扩大允许 concealed carry 枪支进入大学校园的法律范围。这一议题引发了关于校园安全和个人权利的激烈辩论。"
-        },
-        "Judge strikes down Arkansas law mandating schools display the Ten Commandments. Here’s what to know": {
-            "title_cn": "法官推翻阿肯色州要求学校展示十诫的法律",
-            "summary_cn": "联邦法官裁定阿肯色州要求公立学校展示十诫的法律违宪。这一裁决对宗教与公立学校分离原则具有重要意义。"
-        },
-        "College Republicans sue University of Florida’s president over deactivation of its chapter": {
-            "title_cn": "大学共和党人就分会注销起诉佛罗里达大学校长",
-            "summary_cn": "佛罗里达大学共和党学生组织对该校校长提起诉讼，指控其不当注销该学生组织分会。案件涉及学生组织权利和大学管理权限。"
-        },
-        "Pentagon’s break with Ivy League leaves colleges bracing for further changes to military programs": {
-            "title_cn": "五角大楼与常春藤联盟决裂，高校为军事项目进一步变化做准备",
-            "summary_cn": "五角大楼宣布与多所常春藤盟校断绝关系，引发高校对军事 ROTC 项目和研究合作可能发生变化的担忧。"
-        },
-        "Families turn to states for civil rights support as Trump dismantles the Education Department": {
-            "title_cn": "家庭向州寻求民权支持，特朗普 dismantle 教育部",
-            "summary_cn": "随着特朗普政府 dismantle 联邦教育部，越来越多家庭转向州政府寻求民权保护和教育支持，特别是在特殊教育和平等教育机会方面。"
-        },
-        "Pentagon to cut ties with Columbia, Yale, Brown and others Hegseth accuses of ‘wokeness’": {
-            "title_cn": "五角大楼将切断与哥伦比亚、耶鲁、布朗等Hegseth指责为觉醒的高校关系",
-            "summary_cn": "国防部长Hegseth宣布将终止五角大楼与多所知名大学的合作关系，指责这些学校过于觉醒，影响军事人才培养。"
-        },
-        "As literacy rates lag, a pediatric hospital is screening for reading ability": {
-            "title_cn": "识字率落后，儿科医院开始筛查阅读能力",
-            "summary_cn": "面对儿童识字率下降的挑战，一些儿科医院开始在常规体检中筛查儿童阅读能力，以早期发现和干预学习困难。"
-        },
-        "Wisconsin schools, teachers file lawsuit against GOP-led Legislature seeking more funding": {
-            "title_cn": "威斯康星州学校和教师起诉共和党领导的立法机构寻求更多资金",
-            "summary_cn": "威斯康星州的学区和教师对州立法机构提起诉讼，指控其教育拨款不足，违反州宪法对公共教育的保障。"
-        },
-        "Education Department hands off more of its responsibilities to other US agencies": {
-            "title_cn": "教育部将更多职责移交给其他联邦机构",
-            "summary_cn": "随着 dismantle 进程推进，教育部正在将其职责转移给其他联邦机构，包括财政部、卫生与公众服务部等。"
-        },
-        "Kentucky Supreme Court rules that charter schools law is unconstitutional": {
-            "title_cn": "肯塔基州最高法院裁定特许学校法违宪",
-            "summary_cn": "肯塔基州最高法院裁定该州特许学校法律违宪，认为其将公共教育资金转移到私立机构违反了州宪法。"
-        },
-        "White House pressure leads universities to cut ties with nonprofit that helps racial minorities": {
-            "title_cn": "白宫压力导致大学切断与帮助少数族裔的非营利组织关系",
-            "summary_cn": "在白宫压力下，多所美国大学终止了与帮助少数族裔学生的非营利组织的合作关系，引发关于高等教育多样性的争议。"
-        },
-        "Students Across the U.S. Are Protesting ICE. Texas Wants to Punish Their Schools.": {
-            "title_cn": "美国学生抗议ICE，德州欲惩罚其所在学校",
-            "summary_cn": "美国多地学生举行抗议移民和海关执法局(ICE)的活动，德克萨斯州立法者提议对允许学生抗议的学校进行惩罚。"
-        },
-        "Teachers describe immigration enforcement’s impact on classrooms in challenge of Trump policy": {
-            "title_cn": "教师描述移民执法对课堂的影响，挑战特朗普政策",
-            "summary_cn": "教育工作者在法庭文件中描述移民执法行动对课堂环境的负面影响，特别是对学生心理健康和学习氛围的冲击。"
-        },
-        "Kindergarten readiness varies widely by income, new data shows. Cities are stepping in to help": {
-            "title_cn": "数据显示幼儿园入学准备程度因收入差异很大，城市介入提供帮助",
-            "summary_cn": "新数据显示低收入家庭儿童在幼儿园入学准备方面明显落后于高收入家庭儿童。多个城市正在启动项目帮助弱势儿童做好准备。"
-        },
-        "Trump demands $1 billion from Harvard as a prolonged standoff appears to deepen": {
-            "title_cn": "特朗普要求哈佛支付10亿美元，长期对峙似乎加深",
-            "summary_cn": "特朗普政府要求哈佛大学支付10亿美元并改变其政策，作为恢复联邦资助的条件。双方的僵局仍在持续。"
-        },
-        "New York school violated civil rights law by changing name from ‘Thunderbirds’ to ‘T-Birds,’ US says": {
-            "title_cn": "美国称纽约学校将名称从雷鸟改为T鸟违反民权法",
-            "summary_cn": "联邦教育部门裁定纽约一所学校在更改吉祥物名称时违反了民权法，认为该决定涉及歧视因素。"
-        },
-        "Conservative group says Los Angeles school policy hurts white students in federal lawsuit": {
-            "title_cn": "保守团体在联邦诉讼中称洛杉矶学校政策损害白人学生利益",
-            "summary_cn": "保守派法律团体对洛杉矶联合学区提起诉讼，指控其多样性政策歧视白人学生。此案引发关于教育平等政策的广泛讨论。"
-        },
-        "The Education Department is opening fewer sexual violence investigations as Trump dismantles it": {
-            "title_cn": "随着特朗普 dismantle 教育部，该部门开立的性暴力调查减少",
-            "summary_cn": "联邦教育部正在减少校园性暴力调查的数量，引发对校园安全和受害者权益保护的担忧。"
-        },
-        "Trump signs a law returning whole milk to school lunches": {
-            "title_cn": "特朗普签署法律将全脂牛奶重新纳入学校午餐",
-            "summary_cn": "特朗普总统签署法案，取消奥巴马时期学校午餐营养标准中对牛奶脂肪含量的限制，允许全脂牛奶重返学校午餐。"
-        },
-        "Tennessee university reinstates professor fired for Charlie Kirk post and settles for $500k": {
-            "title_cn": "田纳西大学恢复因Charlie Kirk帖子被解雇的教授职务，和解金50万美元",
-            "summary_cn": "田纳西州立大学与一名被解雇的教授达成50万美元和解协议，并恢复其教职。该教授因转发Turning Point USA创始人Charlie Kirk的帖子而被解雇。"
-        },
-        "Judge blocks Trump administration from purging DEI-related terms from Head Start grant applications": {
-            "title_cn": "法官阻止特朗普政府从Head Start拨款申请中删除DEI相关术语",
-            "summary_cn": "联邦法官发布禁令，阻止特朗普政府要求Head Start项目在拨款申请中删除多元化、公平和包容性(DEI)相关内容。"
-        },
-        "Trump administration funding threats set child care providers and parents on edge": {
-            "title_cn": "特朗普政府资金威胁让 childcare 提供者和家长感到不安",
-            "summary_cn": "特朗普政府威胁削减儿童早期教育项目资金，让全国范围内的 childcare 提供者和依赖这些服务的家庭感到担忧。"
-        },
-        "Homeless youth say they need more from schools, social services": {
-            "title_cn": "无家可归青少年表示需要学校和社會服务提供更多帮助",
-            "summary_cn": "无家可归的青少年呼吁学校和社會服务机构提供更多支持，包括稳定住所、心理健康服务和教育连续性保障。"
-        },
-        "Trump officials bar Head Start providers from using ‘women’ and ‘race’ in grant applications": {
-            "title_cn": "特朗普官员禁止Head Start提供者在拨款申请中使用女性和种族等词汇",
-            "summary_cn": "特朗普政府发布指令，要求Head Start早期教育项目在联邦拨款申请中避免使用女性、种族等涉及性别和种族认同的词汇。"
-        }
     }
 }
 def translate_source(source_name):
@@ -568,7 +458,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'twincities_education']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education']
     
     for source in sources:
         translate_source(source)
