@@ -76,7 +76,9 @@ def generate_html():
         'nsf_ncses': {'name': 'NSF NCSES', 'color': '#1e4d2b'},
         'pewresearch': {'name': '皮尤', 'color': '#233656'},
         'heritage': {'name': '传统基金会', 'color': '#8B0000'},
-        'rand': {'name': '兰德公司', 'color': '#0066CC'}
+        'rand': {'name': '兰德公司', 'color': '#0066CC'},
+        'aei': {'name': 'AEI', 'color': '#CC5500'},
+        'uw_cdis': {'name': 'UW-Madison CDIS', 'color': '#C5050C'}
     }
     
     all_articles = []
