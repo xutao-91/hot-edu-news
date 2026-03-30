@@ -330,6 +330,20 @@ translations_db = {
             "title_cn": "'我们都被召唤成为和平使者'：圣母大学校长Dowd神父主持和平弥撒",
             "summary_cn": "圣母大学校长Robert A. Dowd神父在圣心大教堂主持和平弥撒，呼吁'我们都被召唤成为和平使者'。这一仪式旨在回应当前全球持续的冲突局势，并响应教宗利奥十四世关于和平的号召。弥撒吸引了圣母大学师生和社区成员参加，体现了大学作为天主教研究型大学在促进和平与正义方面的使命。Dowd神父在讲道中强调，面对全球冲突和分裂，每个人都有责任成为和平的倡导者和建设者，无论其信仰或背景如何。"
         }
+    },
+    "nd_news": {
+        "Vice president and associate provost Rev. Daniel Groody, C.S.C., appointed by Pope Leo XIV to Dicastery for Promoting Integral Human Development": {
+            "title_cn": "副校长兼副教务长Groody神父被教宗利奥十四世任命为促进整体人类发展部成员",
+            "summary_cn": "教宗利奥十四世任命圣母大学副校长兼副教务长Daniel Groody神父为促进整体人类发展部（Dicastery for Promoting Integral Human Development）成员。该部门是梵蒂冈负责推动人类全面发展、社会正义和关怀弱势群体的核心机构。Groody神父作为圣母大学全球事务学院的教授，在移民研究、神学和社会正义领域有深厚造诣。此次任命体现了梵蒂冈对圣母大学在全球事务领域贡献的认可，也将进一步加强大学与天主教会的合作关系。"
+        },
+        "‘All of us are called to be peacemakers’: University President Rev. Robert A. Dowd, C.S.C., celebrates Mass for peace": {
+            "title_cn": "'我们都被召唤成为和平使者'：圣母大学校长主持和平弥撒",
+            "summary_cn": "圣母大学校长Robert A. Dowd神父在圣心大教堂主持和平弥撒，呼吁'我们都被召唤成为和平使者'。这一仪式旨在回应当前全球持续的冲突局势，并响应教宗利奥十四世关于和平的号召。弥撒吸引了圣母大学师生和社区成员参加，体现了大学作为天主教研究型大学在促进和平与正义方面的使命。Dowd神父在讲道中强调，面对全球冲突和分裂，每个人都有责任成为和平的倡导者和建设者。"
+        },
+        "Notre Dame Department of Theology ranked best in the world for second consecutive year": {
+            "title_cn": "圣母大学神学系在全球神学领域排名中位列世界第一",
+            "summary_cn": "圣母大学神学系在全球神学领域排名中被评为世界第一，这是对该系在神学教育、研究和学术影响力方面的最高认可。该系以其严谨的学术研究、卓越的师资队伍和对天主教传统的深入探索而闻名。排名考虑了学术声誉、研究产出、师资力量和国际影响力等多个维度。圣母大学神学系的领先地位反映了大学作为美国顶尖天主教研究型大学的学术实力，也吸引了来自世界各地的优秀学生和学者前来学习和研究。"
+        }
     }
 }
 def translate_source(source_name):
@@ -398,7 +412,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news']
     
     for source in sources:
         translate_source(source)

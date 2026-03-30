@@ -92,7 +92,8 @@ def generate_html():
         'iu_education': {'name': '印第安纳大学教育学院', 'color': '#7A0019'},
         'kelley': {'name': 'IU凯利商学院', 'color': '#5D0000'},
         'oneill': {'name': "IU奥尼尔学院", 'color': '#4A6741'},
-        'notre_dame': {'name': '圣母大学', 'color': '#0C2340'}
+        'notre_dame': {'name': '圣母大学', 'color': '#0C2340'},
+        'nd_news': {'name': '圣母大学新闻', 'color': '#C99700'}
     }
     
     all_articles = []
