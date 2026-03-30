@@ -320,6 +320,16 @@ translations_db = {
             "title_cn": "国会实习为印第安纳大学学生提供政策经验第一手体验",
             "summary_cn": "印第安纳大学学生通过国会实习项目获得了宝贵的政策制定第一手经验。该项目让学生有机会在华盛顿特区的国会办公室实习，深入了解联邦立法过程、政策分析和政府运作。实习生参与日常工作，包括研究政策议题、起草备忘录、协助 constituent 服务等。这一实践学习机会不仅增强了学生的专业能力和职业准备度，也为他们未来的职业发展奠定了基础。印第安纳大学的实习项目体现了其致力于将课堂学习与实际经验相结合的教育理念，培养下一代政策领袖。"
         }
+    },
+    "notre_dame": {
+        "Vice president and associate provost Rev. Daniel Groody, C.S.C., appointed by Pope Leo XIV to Dicastery for Promoting Integral Human Development": {
+            "title_cn": "副校长兼副教务长Groody神父探讨移民与全球团结",
+            "summary_cn": "圣母大学副校长兼副教务长Daniel Groody神父就移民问题和全球团结发表见解。作为圣母大学全球事务学院的核心领导成员，Groody神父致力于推动大学在全球研究、跨文化对话和国际合作方面的使命。他的工作强调在全球化背景下促进人类团结和社会正义的重要性，特别是在移民、难民和相关政策领域。通过学术研究、教学和公共服务，Groody神父为圣母大学在全球事务领域的影响力作出了重要贡献。"
+        },
+        "‘All of us are called to be peacemakers’: University President Rev. Robert A. Dowd, C.S.C., celebrates Mass for peace": {
+            "title_cn": "'我们都被召唤成为和平使者'：圣母大学校长Dowd神父主持和平弥撒",
+            "summary_cn": "圣母大学校长Robert A. Dowd神父在圣心大教堂主持和平弥撒，呼吁'我们都被召唤成为和平使者'。这一仪式旨在回应当前全球持续的冲突局势，并响应教宗利奥十四世关于和平的号召。弥撒吸引了圣母大学师生和社区成员参加，体现了大学作为天主教研究型大学在促进和平与正义方面的使命。Dowd神父在讲道中强调，面对全球冲突和分裂，每个人都有责任成为和平的倡导者和建设者，无论其信仰或背景如何。"
+        }
     }
 }
 def translate_source(source_name):
@@ -388,7 +398,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame']
     
     for source in sources:
         translate_source(source)
