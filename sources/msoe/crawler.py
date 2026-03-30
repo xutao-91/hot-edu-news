@@ -94,9 +94,18 @@ def crawl_msoe():
                 label_elem = item.find('span', class_='news_list_item_label')
                 label = label_elem.get_text(strip=True) if label_elem else ''
                 
-                # 日期
+                # 日期 - 转换为标准格式
                 date_elem = item.find('time', class_='news_list_item_date')
-                date_str = date_elem.get_text(strip=True) if date_elem else ''
+                raw_date = date_elem.get_text(strip=True) if date_elem else ''
+                
+                # 将 MM.DD.YYYY 转换为 YYYY-MM-DD
+                date_str = ""
+                if raw_date:
+                    try:
+                        parsed = datetime.strptime(raw_date, '%m.%d.%Y')
+                        date_str = parsed.strftime('%Y-%m-%d')
+                    except:
+                        date_str = raw_date
                 
                 # 标题和链接
                 title_elem = item.find('span', class_='news_list_item_title_label')
