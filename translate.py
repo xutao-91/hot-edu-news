@@ -432,6 +432,104 @@ translations_db = {
             "title_cn": "观看：Bridge Listens与WJRT合作关注学校和识字教育",
             "summary_cn": "Bridge Michigan的Bridge Listens项目与WJRT电视台合作，聚焦密歇根州的教育和识字问题。该项目旨在促进社区对话，探讨如何改善该州的教育系统，特别是早期识字教育。通过与地方媒体合作，Bridge Listens为公众提供了一个讨论和了解教育政策影响的平台，邀请教育工作者、政策制定者和家长共同探讨解决方案。"
         }
+    },
+    "freep_education": {
+        "MHSAA boys basketball: Free Press 2026 All-East teams": {
+            "title_cn": "MHSAA男子篮球：自由报2026年全明星东部阵容",
+            "summary_cn": "《底特律自由报》公布2026年MHSAA男子篮球全明星东部阵容，表彰底特律东部地区最优秀的高中篮球运动员。入选球员在本赛季展现出卓越的技术、领导力和运动精神。"
+        },
+        "MHSAA boys basketball: Free Press 2026 All-Detroit team": {
+            "title_cn": "MHSAA男子篮球：自由报2026年全明星底特律阵容",
+            "summary_cn": "《底特律自由报》公布2026年MHSAA男子篮球全明星底特律阵容，表彰底特律市区最杰出的高中篮球运动员。这些球员在赛季中表现出色，为各自球队做出重要贡献。"
+        },
+        "The future of one of Michigan's oldest charter schools is uncertain after financial woes": {
+            "title_cn": "密歇根州最古老特许学校之一因财务困境前途未卜",
+            "summary_cn": "密歇根州历史最悠久的特许学校之一因面临严重财务困难，其未来发展前景存在不确定性。学校管理层正在寻求解决方案以确保学校能够继续为学生提供教育服务。"
+        },
+        "Ishpeming's Mya Hemmer voted the Freep Buffalo Wild Wings Girls Basketball Player of the Year": {
+            "title_cn": "Ishpeming的Mya Hemmer当选为自由报Buffalo Wild Wings年度女子篮球运动员",
+            "summary_cn": "Ishpeming高中的Mya Hemmer被《底特律自由报》读者投票选为Buffalo Wild Wings年度女子篮球运动员。Hemmer在本赛季表现出色，带领球队取得优异成绩，展现了卓越的篮球天赋和领导力。"
+        },
+        "Here's who Freep readers voted the MHSAA boys basketball player of the year": {
+            "title_cn": "自由报读者投票选出的MHSAA年度男子篮球运动员",
+            "summary_cn": "《底特律自由报》公布读者投票选出的MHSAA年度男子篮球运动员。获奖者在本赛季表现出色，不仅技术精湛，还展现了出色的领导力和体育精神，获得广大读者认可。"
+        },
+        "Whitmer's inaction has real consequences": {
+            "title_cn": "Whitmer的不作为产生实际后果",
+            "summary_cn": "美国教育部长Linda McMahon和国会议员Tim Walberg发表观点文章，批评密歇根州州长Gretchen Whitmer在教育政策上的不作为对州内学生和家庭产生了实际负面影响。"
+        },
+        "Grosse Pointe North grad wins 'Jeopardy!' for 10th time. When is her next episode?": {
+            "title_cn": "Grosse Pointe North毕业生第10次赢得《危险边缘！》，下一集何时播出？",
+            "summary_cn": "来自Grosse Pointe North高中的毕业生在知名智力竞赛节目《危险边缘！》中连续第十次获胜。这位选手展现了广博的知识面和快速反应能力，成为该节目历史上表现最出色的选手之一。"
+        },
+        "Rare mural peeling off wall of Dearborn's Fordson High": {
+            "title_cn": "Dearborn Fordson高中珍贵壁画从墙面剥落",
+            "summary_cn": "位于Dearborn市Fordson高中的珍贵历史壁画正面临剥落的危险。这幅壁画具有重要的文化和历史价值，学校社区正在寻求保护和修复方案，以保存这一珍贵的艺术遗产。"
+        },
+        "Plymouth Canton Educational Park students walk out to oppose staffing cuts": {
+            "title_cn": "Plymouth Canton教育园区学生罢课反对裁员",
+            "summary_cn": "Plymouth Canton教育园区的学生举行罢课活动，抗议学校计划进行的教职员工裁员。学生们认为裁员将损害教育质量，影响学生的学习体验和大学申请准备。"
+        },
+        "U-M president to testify on Capitol Hill over alleged Chinese funding influence": {
+            "title_cn": "密歇根大学校长将就所谓中国资金影响问题在国会作证",
+            "summary_cn": "密歇根大学校长将赴美国国会就有关中国资金可能影响大学研究和学术自由的指控作证。这一事件反映了中美学术交流面临的政治压力和审查。"
+        },
+        "Parent sues Grosse Pointe schools over ban tied to LGBTQ+ flags": {
+            "title_cn": "家长就LGBTQ+旗帜禁令起诉Grosse Pointe学区",
+            "summary_cn": "一位家长对Grosse Pointe公立学校系统提起诉讼，质疑该学区禁止在学校展示LGBTQ+相关旗帜和标志的政策。此案引发关于学校环境中言论自由和包容性政策的法律辩论。"
+        },
+        "Detroit woman pleads guilty to $2.5 million student aid scam": {
+            "title_cn": "底特律女子承认参与250万美元学生援助诈骗案",
+            "summary_cn": "一名底特律女子在联邦法庭承认参与一项涉及250万美元的学生财政援助诈骗计划。该诈骗涉及虚假申请和身份盗用，损害了联邦学生援助项目的完整性。"
+        },
+        "Goodrich turns belief into reality with dominant undefeated season": {
+            "title_cn": "Goodrich将信念转化为现实，创造完美不败赛季",
+            "summary_cn": "Goodrich高中女子篮球队以完美的不败战绩结束赛季，展现了团队的信念、努力和卓越表现。球队在整个赛季中保持连胜，最终夺得州冠军。"
+        },
+        "Goodrich girls basketball receives MHSAA Division 2 state title medals": {
+            "title_cn": "Goodrich女子篮球队领取MHSAA第二分区州冠军奖牌",
+            "summary_cn": "Goodrich高中女子篮球队在夺得MHSAA第二分区州冠军后正式领取冠军奖牌。这是该校篮球队历史上的重要成就，表彰了球员们整个赛季的出色表现。"
+        },
+        "Goodrich girls basketball finishes perfect season with MHSAA Division 2 title": {
+            "title_cn": "Goodrich女子篮球队以MHSAA第二分区冠军完美结束赛季",
+            "summary_cn": "Goodrich高中女子篮球队以完美的赛季战绩夺得MHSAA第二分区州冠军。球队在整个赛季中保持不败，展现了卓越的团队合作和竞技水平。"
+        },
+        "Young star takes over D-3 title game for Lumen Christi's first championship": {
+            "title_cn": "新星主宰第三分区冠军赛，助Lumen Christi首夺冠军",
+            "summary_cn": "一位年轻球员在MHSAA第三分区冠军赛中发挥关键作用，带领Jackson Lumen Christi高中夺得该校历史上首个州冠军。这位新星的出色表现成为比赛的转折点。"
+        },
+        "Jackson Lumen Christi receives MHSAA Division 3 state title medals": {
+            "title_cn": "Jackson Lumen Christi领取MHSAA第三分区州冠军奖牌",
+            "summary_cn": "Jackson Lumen Christi高中正式领取MHSAA第三分区州冠军奖牌，庆祝该校历史上首个篮球州冠军。这一成就标志着学校体育项目的重要里程碑。"
+        },
+        "Autry's heroic Detroit Renaissance run ends with heartbreak": {
+            "title_cn": "Autry的英雄之旅以心碎结束",
+            "summary_cn": "Detroit Renaissance高中的Autry在州锦标赛中展现了英雄般的表现，但球队最终遗憾落败。尽管未能夺冠，Autry的出色表现赢得了广泛赞誉。"
+        },
+        "Muskegon girls basketball receives MHSAA Division 1 state title medals": {
+            "title_cn": "Muskegon女子篮球队领取MHSAA第一分区州冠军奖牌",
+            "summary_cn": "Muskegon高中女子篮球队正式领取MHSAA第一分区州冠军奖牌。这是该校女子篮球项目的重要成就，表彰了球队在整个赛季中的卓越表现。"
+        },
+        "Muskegon outlasts Detroit Renaissance for MHSAA D-1 girls basketball title": {
+            "title_cn": "Muskegon击败Detroit Renaissance夺得MHSAA第一分区女子篮球冠军",
+            "summary_cn": "Muskegon高中女子篮球队在激烈的比赛中击败Detroit Renaissance高中，夺得MHSAA第一分区州冠军。比赛异常激烈，Muskegon展现了顽强的意志力和出色的团队合作。"
+        },
+        "UP community travels 6 hours to watch Ishpeming girls basketball team": {
+            "title_cn": "上半岛社区驱车6小时观看Ishpeming女子篮球队比赛",
+            "summary_cn": "密歇根州上半岛社区的球迷们驱车六小时前往观看Ishpeming高中女子篮球队的比赛，展现了社区对学校的强力支持和高中体育在当地文化中的重要地位。"
+        },
+        "Macomb school employees accused of misconduct in bus parked in school lot": {
+            "title_cn": "Macomb学校员工被指控在学校停车场校车内行为不当",
+            "summary_cn": "Macomb County学区多名员工被指控在学校停车场的校车内有不当行为。学区已展开调查，并承诺将采取适当纪律措施。此案引发了对学校员工行为规范和监督机制的讨论。"
+        },
+        "Ishpeming basketball presented with MHSAA Division 4 title medals": {
+            "title_cn": "Ishpeming篮球队被授予MHSAA第四分区冠军奖牌",
+            "summary_cn": "Ishpeming高中篮球队正式被授予MHSAA第四分区州冠军奖牌，庆祝该校在小型学校分区中取得的卓越成就。这枚奖牌代表了球队整个赛季的努力和成功。"
+        },
+        "Mya Hemmer's historic game anchors Ishpeming to MHSAA girls basketball title": {
+            "title_cn": "Mya Hemmer的历史性表现带领Ishpeming夺得MHSAA女子篮球冠军",
+            "summary_cn": "Mya Hemmer在MHSAA女子篮球州冠军赛中创造了历史性表现，带领Ishpeming高中夺得州冠军。Hemmer的出色发挥成为比赛的决定性因素，她也因此成为球队英雄。"
+        }
     }
 }
 def translate_source(source_name):
@@ -500,7 +598,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette', 'mcw_cancer', 'bridgemi']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'marquette', 'mcw_cancer', 'bridgemi', 'freep_education']
     
     for source in sources:
         translate_source(source)
