@@ -95,7 +95,8 @@ def generate_html():
         'notre_dame': {'name': '圣母大学', 'color': '#0C2340'},
         'nd_news': {'name': '圣母大学新闻', 'color': '#C99700'},
         'mendoza': {'name': '圣母大学门多萨商学院', 'color': '#00843D'},
-        'nd_science': {'name': '圣母大学理学院', 'color': '#6B8E23'}
+        'nd_science': {'name': '圣母大学理学院', 'color': '#6B8E23'},
+        'msoe': {'name': '密尔沃基工程学院', 'color': '#C41E3A'}
     }
     
     all_articles = []
