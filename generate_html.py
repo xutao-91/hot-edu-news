@@ -99,7 +99,8 @@ def generate_html():
         'msoe': {'name': '密尔沃基工程学院', 'color': '#C41E3A'},
         'marquette': {'name': '马凯特大学', 'color': '#003366'},
         'mcw_cancer': {'name': 'F&MCW癌症网络', 'color': '#0057B8'},
-        'bridgemi': {'name': 'Bridge Michigan', 'color': '#1E5288'}
+        'bridgemi': {'name': 'Bridge Michigan', 'color': '#1E5288'},
+        'education_minnesota': {'name': 'Education Minnesota', 'color': '#005596'}
     }
     
     all_articles = []
