@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-03-30T11:21:32.378781",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Melissa Riegle: Driven by legacy, defined by determination",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0323-Melissa-Riegle-Driven-by-legacy-defined-by-determination",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "From the very beginning, Melissa Riegle was surrounded by a powerful legacy of engineering excellence.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "EPICS has been impacting students, communities for 30 years",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0330-EPICS-has-been-impacting-students-communities-for-30-years",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "Engineering Projects in Community Service — now called simply EPICS — is a transformative program that meets an industry need by equipping students with more than just technical skills but also the crucial professional skills that companies desperately seek.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "March Edition: Newly Issued Patents",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0324-March-Edition-Newly-Issued-Patents",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "Congratulations to Purdue Engineers who recently receive patents on their intellectual property from the U.S. Patent and Trademark Office.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Brain-inspired AI hardware by ECE's Roy helps with decision-making for autonomous devices",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0330-Purdue-Engineering-professors-brain-inspired-AI-hardware-helps-with-decision-making-for-autonomous-devices",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "A Purdue University engineer uses the brain's efficiency as inspiration to help autonomous vehicles, such as drones and robots, make crucial, time-sensitive decisions while operating in the field.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

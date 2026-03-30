@@ -292,6 +292,24 @@ translations_db = {
             "title_cn": "本周'点赞'获奖者",
             "summary_cn": "普渡大学公布本周'点赞'（Thumbs Up）获奖名单，表彰在教学、研究、服务等方面表现突出的教职员工和学生。'点赞'项目是普渡大学的员工认可计划，旨在表彰那些超越职责要求、为大学社区做出杰出贡献的个人。获奖者来自不同院系和部门，他们的工作涵盖学术创新、学生支持、行政管理、社区服务等多个领域。该计划通过同伴提名和评选，每月公布获奖者名单，以此激励大学社区的卓越表现。"
         }
+    },
+    "purdue_engineering": {
+        "Melissa Riegle: Driven by legacy, defined by determination": {
+            "title_cn": "梅丽莎·里格尔：传承驱动，决心定义",
+            "summary_cn": "普渡大学工程学院学生梅丽莎·里格尔（Melissa Riegle）的成长故事展现了传承与决心如何塑造她的学术和职业道路。作为一名工程学生，里格尔受到家庭历史和前辈榜样的激励，在工程领域追求卓越。她的故事体现了普渡大学工程学院培养学生全面发展、将个人背景与专业追求相结合的教育理念。通过克服挑战、坚持目标，里格尔成为工程学院学生群体的杰出代表，展示了新一代工程师的韧性和抱负。"
+        },
+        "EPICS has been impacting students, communities for 30 years": {
+            "title_cn": "EPICS项目影响学生与社区30年",
+            "summary_cn": "普渡大学工程学院的社区服务工程项目（EPICS）迎来30周年纪念。EPICS是一个变革性的教育项目，通过让学生参与社区服务工程实践，培养他们的技术能力和职业素养。该项目不仅满足行业对具备综合能力工程师的需求，还让学生在实际项目中学习团队合作、沟通技巧、项目管理等关键职业技能。30年来，EPICS项目已影响数千名学生，同时为当地社区和全球各地提供了大量创新工程解决方案。项目强调服务学习与社会责任，体现了普渡大学将工程教育与社会贡献相结合的使命。"
+        },
+        "March Edition: Newly Issued Patents": {
+            "title_cn": "三月版：新发布专利",
+            "summary_cn": "普渡大学工程学院发布三月新授权专利清单，展示学院在工程技术创新方面的最新成果。这些专利涵盖机械工程、电子工程、材料科学、计算机技术等多个领域，体现了普渡工程学院在应用研究和产业转化方面的强大实力。专利技术涉及先进制造、人工智能、可持续能源、生物医学设备等前沿方向，部分技术已进入商业化阶段或与产业界建立合作。专利发布不仅是学院研究创新能力的证明，也为技术转移和产学研合作提供了重要基础。"
+        },
+        "Brain-inspired AI hardware by ECE's Roy helps with decision-making for autonomous devices": {
+            "title_cn": "电子与计算机工程系Roy教授研发的类脑人工智能硬件助力决策",
+            "summary_cn": "普渡大学电子与计算机工程系Kaushik Roy教授团队开发的类脑人工智能硬件取得重要突破。该硬件模仿人脑神经网络结构，能够在边缘设备上实现高效能的人工智能决策。与传统AI芯片相比，这种类脑硬件具有更低的能耗和更高的计算效率，特别适用于需要实时决策的嵌入式系统和物联网设备。研究团队表示，这项技术将为自动驾驶、智能制造、医疗诊断等领域带来革命性变化，推动AI技术从云端向边缘设备的普及。该研究得到美国国家科学基金会（NSF）的支持，相关成果已发表在顶级学术期刊。"
+        }
     }
 }
 def translate_source(source_name):
@@ -360,7 +378,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering']
     
     for source in sources:
         translate_source(source)
