@@ -98,7 +98,8 @@ def generate_html():
         'nd_science': {'name': '圣母大学理学院', 'color': '#6B8E23'},
         'msoe': {'name': '密尔沃基工程学院', 'color': '#C41E3A'},
         'marquette': {'name': '马凯特大学', 'color': '#003366'},
-        'mcw_cancer': {'name': 'F&MCW癌症网络', 'color': '#0057B8'}
+        'mcw_cancer': {'name': 'F&MCW癌症网络', 'color': '#0057B8'},
+        'bridgemi': {'name': 'Bridge Michigan', 'color': '#1E5288'}
     }
     
     all_articles = []
