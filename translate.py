@@ -310,6 +310,16 @@ translations_db = {
             "title_cn": "Peterson当选美国咨询心理学会会士",
             "summary_cn": "印第安纳大学教育学院应用心理学与教育研究方法系教授Zoë Peterson最近当选为美国咨询心理学会（Society of Counseling Psychology）会士。这一荣誉是对她在咨询心理学领域杰出贡献的认可。Peterson教授表示，能够被该学会认可感到非常荣幸。作为会士，她将在学会中发挥更重要的作用，参与学会治理、政策制定和专业发展等工作。Peterson教授的研究和教学工作专注于咨询心理学领域，她的当选反映了印第安纳大学教育学院在该领域的学术影响力和专业声誉。"
         }
+    },
+    "kelley": {
+        "IU research informs federal drug safety bill to clearly label drugs with manufacturing details": {
+            "title_cn": "印第安纳大学研究为联邦药品安全法案提供参考，明确标示芬太尼相关物质",
+            "summary_cn": "印第安纳大学的研究成果为联邦药品安全法案提供了重要参考，该法案要求明确标示芬太尼相关物质。印第安纳大学的研究人员在药物安全、公共卫生政策等领域开展了深入研究，为立法者提供了基于科学的决策依据。这一法案旨在应对芬太尼危机，通过改进药品标签和分类系统，帮助医疗专业人员和公众更好地识别和管理这些高风险物质。印第安纳大学的研究展示了学术界在政策制定过程中的重要作用，以及研究型大学如何通过知识产出服务社会。"
+        },
+        "Congressional internship offers IU student firsthand policy experience": {
+            "title_cn": "国会实习为印第安纳大学学生提供政策经验第一手体验",
+            "summary_cn": "印第安纳大学学生通过国会实习项目获得了宝贵的政策制定第一手经验。该项目让学生有机会在华盛顿特区的国会办公室实习，深入了解联邦立法过程、政策分析和政府运作。实习生参与日常工作，包括研究政策议题、起草备忘录、协助 constituent 服务等。这一实践学习机会不仅增强了学生的专业能力和职业准备度，也为他们未来的职业发展奠定了基础。印第安纳大学的实习项目体现了其致力于将课堂学习与实际经验相结合的教育理念，培养下一代政策领袖。"
+        }
     }
 }
 def translate_source(source_name):
@@ -378,7 +388,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley']
     
     for source in sources:
         translate_source(source)
