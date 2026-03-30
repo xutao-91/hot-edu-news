@@ -1,0 +1,278 @@
+{
+  "source": "Twin Cities Education",
+  "source_url": "https://www.twincities.com/news/education/",
+  "crawled_at": "2026-03-30T16:13:25.108549",
+  "total_news": 27,
+  "news": [
+    {
+      "title": "Student loans are headed to the Treasury Department. Here’s what to know if you have student debt",
+      "url": "https://www.twincities.com/2026/03/20/student-debt-treasury-explainer/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Borrowers do not need to do anything as the change goes through, the administration says.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Treasury Department begins taking over student loans as the Education Department gets dismantled",
+      "url": "https://www.twincities.com/2026/03/19/trump-education-department-student-loans/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Eventually, the Treasury Department is to take responsibility for all student loans.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "States’ lawsuit argues Trump’s college data mandate threatens student privacy",
+      "url": "https://www.twincities.com/2026/03/19/college-data-mandate-ipeds/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The mandate is an expansion of a 40-year-old system known as IPEDS.",
+      "author": "Tribune News Service",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "State lawmakers push to expand laws allowing guns on college campuses",
+      "url": "https://www.twincities.com/2026/03/18/guns-college-campuses-push/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The push comes amid another year of intense debate over gun policy in state legislatures.",
+      "author": "Tribune News Service",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Judge strikes down Arkansas law mandating schools display the Ten Commandments. Here’s what to know",
+      "url": "https://www.twincities.com/2026/03/17/ten-commandments-schools-what-to-know/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Arkansas isn't the only state where Republican-led legislatures have enacted such law.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "College Republicans sue University of Florida’s president over deactivation of its chapter",
+      "url": "https://www.twincities.com/2026/03/17/florida-republicans-offensive-chat/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Officials cited an alleged antisemitic gesture.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Pentagon’s break with Ivy League leaves colleges bracing for further changes to military programs",
+      "url": "https://www.twincities.com/2026/03/06/pentagon-ivy-league/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Some believe the Trump administration is sacrificing technical expertise in the name of ideology.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Families turn to states for civil rights support as Trump dismantles the Education Department",
+      "url": "https://www.twincities.com/2026/03/05/education-civil-rights/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Families say they’ve had nowhere else to turn.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Pentagon to cut ties with Columbia, Yale, Brown and others Hegseth accuses of ‘wokeness’",
+      "url": "https://www.twincities.com/2026/02/27/education-pentagon/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Hegseth said the universities have become “breeding grounds of toxic indoctrination” that undermine military values.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "As literacy rates lag, a pediatric hospital is screening for reading ability",
+      "url": "https://www.twincities.com/2026/02/25/education-literacy-screening/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The program focuses on clinics near schools where kindergarten readiness scores run low.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Wisconsin schools, teachers file lawsuit against GOP-led Legislature seeking more funding",
+      "url": "https://www.twincities.com/2026/02/24/wisconsin-school-funding-lawsuit/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The lawsuit argues that schools are in crisis, with high-needs students facing the greatest risk.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "ai"
+    },
+    {
+      "title": "Education Department hands off more of its responsibilities to other US agencies",
+      "url": "https://www.twincities.com/2026/02/23/trump-education-department-hhs-state-department/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "A pair of new agreements move closer to the goal of shutting down the department.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Kentucky Supreme Court rules that charter schools law is unconstitutional",
+      "url": "https://www.twincities.com/2026/02/19/charter-schools-kentucky/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Charter schools have been legal in Kentucky since 2017.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "White House pressure leads universities to cut ties with nonprofit that helps racial minorities",
+      "url": "https://www.twincities.com/2026/02/19/trump-higher-education/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The PhD Project helps racial minorities earn doctorate degrees.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Students Across the U.S. Are Protesting ICE. Texas Wants to Punish Their Schools.",
+      "url": "https://www.twincities.com/2026/02/15/students-across-the-u-s-are-protesting-ice-texas-wants-to-punish-their-schools-2/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Students Across the U.S. Are Protesting ICE. Texas Wants to Punish Their Schools.",
+      "author": "The New York Times News Service Syndicate",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Teachers describe immigration enforcement’s impact on classrooms in challenge of Trump policy",
+      "url": "https://www.twincities.com/2026/02/13/trump-education-immigration-enforcement-ice/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Educators around the country described rumors of immigration raids that scared away students.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Kindergarten readiness varies widely by income, new data shows. Cities are stepping in to help",
+      "url": "https://www.twincities.com/2026/02/05/education-kindergarten-readiness/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The first five years of a child’s life are among the most critical for development.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Trump demands $1 billion from Harvard as a prolonged standoff appears to deepen",
+      "url": "https://www.twincities.com/2026/02/03/trump-harvard-demands/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Trump’s latest escalation comes as other parts of his higher education campaign are teetering.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "New York school violated civil rights law by changing name from ‘Thunderbirds’ to ‘T-Birds,’ US says",
+      "url": "https://www.twincities.com/2026/01/23/native-americans-mascot-fight/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The government now says the state mandate against Native American mascots violates federal law.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Conservative group says Los Angeles school policy hurts white students in federal lawsuit",
+      "url": "https://www.twincities.com/2026/01/21/los-angeles-schools-discrimination-lawsuit/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The lawsuit targets a policy that provides benefits to schools with predominantly non-white students.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "The Education Department is opening fewer sexual violence investigations as Trump dismantles it",
+      "url": "https://www.twincities.com/2026/01/16/education-department-sexual-violence/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Investigations into allegations schools mishandled sexual assault complaints have dropped dramatically.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Trump signs a law returning whole milk to school lunches",
+      "url": "https://www.twincities.com/2026/01/14/trump-whole-milk-school-lunch/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Nondairy drinks such as fortified soy milk may also be on the menu in the...",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Tennessee university reinstates professor fired for Charlie Kirk post and settles for $500k",
+      "url": "https://www.twincities.com/2026/01/08/professor-fired-charlie-kirk/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Darren Michael returned to his position as a tenured faculty member effective Dec. 30.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Judge blocks Trump administration from purging DEI-related terms from Head Start grant applications",
+      "url": "https://www.twincities.com/2026/01/08/trump-head-start-grant-apps/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The directive on the forbidden words raised confusion for Head Start directors.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Trump administration funding threats set child care providers and parents on edge",
+      "url": "https://www.twincities.com/2026/01/07/trump-child-care-funding/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "It’s unclear if or when child care providers and families will feel the pinch.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Homeless youth say they need more from schools, social services",
+      "url": "https://www.twincities.com/2026/01/06/homeless-youth-say-they-need-more-from-schools-social-services/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Research suggests the U.S. is missing its biggest opportunity to prevent youth homelessness.",
+      "author": "Tribune News Service",
+      "source": "Twin Cities",
+      "category": "general"
+    },
+    {
+      "title": "Trump officials bar Head Start providers from using ‘women’ and ‘race’ in grant applications",
+      "url": "https://www.twincities.com/2026/01/05/education-head-start/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The directive could reshape the early education program.",
+      "author": "Associated Press",
+      "source": "Twin Cities",
+      "category": "general"
+    }
+  ]
+}
