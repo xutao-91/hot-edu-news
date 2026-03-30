@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-03-30T18:54:34.967513",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Surviving the Age of Digital Deception",
+      "url": "https://news.uchicago.edu/surviving-age-digital-deception",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "technology"
+    },
+    {
+      "title": "To teach social-emotional skills, does a robot need to pretend to be human?",
+      "url": "https://news.uchicago.edu/story/teach-social-emotional-skills-does-robot-need-pretend-be-human",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "UChicago scientists team up with Chicago Public Schools to test if robots need fictional personalities to teach effectively",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "God and bitcoin: Why some Christians are going all in on cryptocurrency",
+      "url": "https://www.nbcnews.com/tech/crypto/god-bitcoin-christians-pitch-crypto-church-rcna264787",
+      "date": "2026-03-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "No clear endgame to U.S. operation in Iran, UChicago experts say",
+      "url": "https://news.uchicago.edu/story/no-clear-endgame-us-operation-iran-uchicago-experts-say",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "A Harris panel weighed the costs of the Iran conflict, from oil disruptions to strained alliances, and questioned what success would look like",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The secret ingredient in a new biomedical device? Lithium-ion battery tech",
+      "url": "https://news.uchicago.edu/story/secret-ingredient-new-biomedical-device-lithium-ion-battery-tech",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "UChicago scientists team up to deliver lithium with fewer side effects in innovative biomedical patch",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

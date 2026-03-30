@@ -411,5 +411,27 @@
             "title_cn": "细胞氧化还原反应新研究揭示铁死亡机制",
             "summary_cn": "华盛顿大学McKelvey工程学院的研究人员在细胞氧化还原反应方面取得新进展，揭示了铁死亡(ferroptosis)的分子机制。铁死亡是一种与铁依赖的脂质过氧化相关的细胞死亡方式，在癌症治疗和神经退行性疾病研究中具有重要意义。这项研究为开发新的治疗策略提供了理论基础。"
         }
+    },
+    "uchicago_news": {
+        "Surviving the Age of Digital Deception": {
+            "title_cn": "在数字欺骗时代生存",
+            "summary_cn": "芝加哥大学学者探讨如何在数字欺骗和信息过载的时代保持批判性思维。文章分析了当前数字环境中虚假信息泛滥的现象，并提供了识别和应对数字欺骗的实用策略。"
+        },
+        "To teach social-emotional skills, does a robot need to pretend to be human?": {
+            "title_cn": "教授社交情感技能，机器人需要假装是人类吗？",
+            "summary_cn": "芝加哥大学科学家与芝加哥公立学校合作开展研究，测试机器人在教学过程中是否需要虚构人格才能有效教授社交情感技能。研究发现，具有拟人化特征的机器人可能更有利于学生参与和情感连接，但也引发了关于人工智能在教育中角色的伦理讨论。"
+        },
+        "God and bitcoin: Why some Christians are going all in on cryptocurrency": {
+            "title_cn": "上帝与比特币：为什么一些基督徒全力投资加密货币",
+            "summary_cn": "芝加哥大学研究探讨了宗教信仰与加密货币投资之间的有趣关联。研究发现，部分基督徒将比特币等加密货币视为对抗传统金融体系的工具，体现了宗教理念与金融科技交汇的复杂社会现象。"
+        },
+        "No clear endgame to U.S. operation in Iran, UChicago experts say": {
+            "title_cn": "美国对伊朗行动没有明确的终局，芝加哥大学专家称",
+            "summary_cn": "芝加哥大学专家分析当前美国对伊朗军事行动，指出该行动缺乏清晰的战略终局。专家们从国际关系、地缘政治和历史经验角度评估了军事干预的风险与后果，强调了制定明确战略目标的重要性。"
+        },
+        "The secret ingredient in a new biomedical device? Lithium-ion battery tech": {
+            "title_cn": "新型生物医学设备的秘密成分？锂离子电池",
+            "summary_cn": "芝加哥大学研究人员开发出一种创新的生物医学设备，巧妙地将锂离子电池技术应用于医疗领域。这项突破性的研究展示了跨学科合作的力量，可能为未来的医疗设备和植入式技术开辟新的发展方向。"
+        }
     }
 }
