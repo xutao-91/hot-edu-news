@@ -83,7 +83,8 @@ def generate_html():
         'uw_engineering': {'name': 'UW-Madison工程学院', 'color': '#0055A4'},
         'uw_gradschool': {'name': 'UW-Madison研究生院', 'color': '#4A90E2'},
         'uw_socwork': {'name': 'UW-Madison社会工作学院', 'color': '#8B4513'},
-        'uw_news': {'name': 'UW-Madison新闻', 'color': '#C41E3A'}
+        'uw_news': {'name': 'UW-Madison新闻', 'color': '#C41E3A'},
+        'purdue': {'name': '普渡大学', 'color': '#CEB888'}
     }
     
     all_articles = []

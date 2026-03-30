@@ -1,0 +1,76 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-03-30T11:12:44.250401",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "普渡大学与ARCS基金会协议将全国科学学者计划扩展至印第安纳州",
+      "url": "https://www.purdue.edu/newsroom/2026/Q1/purdue-arcs-foundation-agreement-expands-national-science-scholar-program-to-indiana",
+      "date": "March 30, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research",
+      "original_title": "Purdue, ARCS Foundation agreement expands national science scholar program to Indiana",
+      "summary_cn": "普渡大学与ARCS（研究成就认可）基金会达成协议，将全国科学学者计划扩展至印第安纳州。该计划将为印第安纳州的科学、工程、医学等STEM领域的研究生提供奖学金支持。ARCS基金会是一个全国性的非营利组织，致力于支持美国最优秀的研究生。通过此次合作，普渡大学的优秀研究生将有机会获得ARCS奖学金，支持他们在科学研究领域的深造。这一举措体现了普渡大学在STEM教育和研究领域的领导地位，以及其致力于培养下一代科学领袖的承诺。"
+    },
+    {
+      "title": "春季狂欢志愿者报名4月9日截止",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/spring-fling-volunteer-registration-closes-april-9",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "Spring Fling volunteer registration closes April 9",
+      "summary_cn": "普渡大学年度春季狂欢活动（Spring Fling）志愿者注册将于4月9日截止。春季狂欢是普渡大学校园的一项传统活动，旨在庆祝春季学期的结束，为师生提供放松和娱乐的机会。活动组织者呼吁学生、教职员工和社区成员积极参与志愿服务，帮助确保活动的顺利进行。志愿者将有机会参与活动的各个方面，包括活动设置、引导接待、安全保障等。报名截止日期临近，有意向的志愿者需尽快完成注册。"
+    },
+    {
+      "title": "In Print: ‘Destination Experience Design: Practices and Management’",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/in-print-destination-experience-design-practices-and-management",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "In Print: ‘Destination Experience Design: Practices and Management’",
+      "summary_cn": ""
+    },
+    {
+      "title": "Celebrate America’s birthday in Ross-Ade Stadium",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/celebrate-americas-birthday-in-ross-ade-stadium",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "Celebrate America’s birthday in Ross-Ade Stadium",
+      "summary_cn": ""
+    },
+    {
+      "title": "CHL’s ‘Full Plate Living’ series helps transform eating habits, improve health",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/chls-full-plate-living-series-helps-transform-eating-habits-improve-health",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "CHL’s ‘Full Plate Living’ series helps transform eating habits, improve health",
+      "summary_cn": ""
+    },
+    {
+      "title": "This week’s ‘Thumbs Up’ recipients",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q1/this-weeks-thumbs-up-recipients-110",
+      "date": "March 30, 2026",
+      "type": "Purdue Today",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "This week’s ‘Thumbs Up’ recipients",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 2,
+  "missing_count": 4
+}
