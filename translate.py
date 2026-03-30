@@ -354,6 +354,16 @@ translations_db = {
             "title_cn": "新驻校高管计划架起课堂与董事会的桥梁",
             "summary_cn": "圣母大学门多萨商学院推出新的驻校高管（Executive in Residence）计划，旨在加强课堂学习与企业实践之间的联系。该计划邀请经验丰富的高管进入校园，与学生分享实际商业经验、行业洞察和领导智慧。驻校高管参与课程教学、学生指导和商业案例分析，帮助学生更好地理解理论概念在实际商业环境中的应用。这一举措体现了门多萨商学院致力于培养具有实践能力和领导力的商业人才的教育理念，为学生提供了宝贵的职业发展机会和行业网络资源。"
         }
+    },
+    "nd_science": {
+        "A Notre Dame Senior’s Commitment to Community Health: Mason Cohen": {
+            "title_cn": "圣母大学大四学生对社区健康的承诺：Mason Cohen",
+            "summary_cn": "圣母大学理学院大四学生Mason Cohen致力于社区健康服务。他积极参与'覆盖物狂热'（Mulch Madness）等年度铅中毒预防项目，为南本德社区的居民提供帮助。Cohen的工作体现了圣母大学学生将科学知识与社会服务相结合的精神，通过实际行动改善社区健康状况。他的故事展示了理学院学生在课堂学习之外，如何通过志愿服务和公民参与来回馈社会，践行圣母大学'培养心灵、心智和双手'的教育使命。"
+        },
+        "Beyond the Minor: Finding Purpose in Research Through Patient Advocacy": {
+            "title_cn": "超越辅修：通过患者互动在研究中寻找目标",
+            "summary_cn": "圣母大学理学院学生分享通过辅修课程和患者互动在研究中找到人生目标的经历。文章探讨了如何将学术研究与实际患者护理相结合，如何在科学探索中发现个人使命。学生们通过参与临床研究、与患者交流，不仅深化了对科学知识的理解，也培养了同理心和社会责任感。这种跨学科的学习体验帮助学生明确职业方向，将个人发展与服务他人相结合，体现了圣母大学理学院在培养全面发展科学家方面的教育理念。"
+        }
     }
 }
 def translate_source(source_name):
@@ -422,7 +432,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science']
     
     for source in sources:
         translate_source(source)

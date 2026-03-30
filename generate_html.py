@@ -94,7 +94,8 @@ def generate_html():
         'oneill': {'name': "IU奥尼尔学院", 'color': '#4A6741'},
         'notre_dame': {'name': '圣母大学', 'color': '#0C2340'},
         'nd_news': {'name': '圣母大学新闻', 'color': '#C99700'},
-        'mendoza': {'name': '圣母大学门多萨商学院', 'color': '#00843D'}
+        'mendoza': {'name': '圣母大学门多萨商学院', 'color': '#00843D'},
+        'nd_science': {'name': '圣母大学理学院', 'color': '#6B8E23'}
     }
     
     all_articles = []
