@@ -80,7 +80,8 @@ def generate_html():
         'aei': {'name': 'AEI', 'color': '#CC5500'},
         'uw_cdis': {'name': 'UW-Madison CDIS', 'color': '#C5050C'},
         'uw_education': {'name': 'UW-Madison教育学院', 'color': '#9B0000'},
-        'uw_engineering': {'name': 'UW-Madison工程学院', 'color': '#0055A4'}
+        'uw_engineering': {'name': 'UW-Madison工程学院', 'color': '#0055A4'},
+        'uw_gradschool': {'name': 'UW-Madison研究生院', 'color': '#4A90E2'}
     }
     
     all_articles = []
