@@ -133,7 +133,8 @@ def generate_html():
         'uillinois_news': {'name': 'UIllinois News', 'color': '#13294B'},
         'edsurge_news': {'name': 'EdSurge', 'color': '#00A4E4'},
         'pie_news': {'name': 'The PIE News', 'color': '#F26522'},
-        'edtech_hub': {'name': 'EdTech Innovation Hub', 'color': '#6B46C1'}
+        'edtech_hub': {'name': 'EdTech Innovation Hub', 'color': '#6B46C1'},
+        'nea_news': {'name': 'NEA News', 'color': '#7B1FA2'}
     }
     
     all_articles = []

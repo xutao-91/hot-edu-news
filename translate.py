@@ -726,6 +726,12 @@ translations_db = {
             "title_cn": "Anthropic Institute launched to address AI risks and public understanding",
             "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
         }
+    },
+    "nea_news": {
+        "NEA names Washington’s Stanley Calhoun 2026 Education Support Professional of the Year": {
+            "title_cn": "NEA命名华盛顿州Stanley Calhoun为2026年度教育支持专业人员",
+            "summary_cn": "美国国家教育协会(NEA)宣布命名华盛顿州的Stanley Calhoun为2026年度教育支持专业人员。该奖项表彰了Calhoun在教育领域的杰出贡献，他为学生和学校提供了卓越的支持服务，体现了NEA对教育支持专业人员的重视和认可。"
+        }
     }
 }
 def translate_source(source_name):
@@ -794,7 +800,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'edsurge_news', 'pie_news', 'edtech_hub']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'edsurge_news', 'pie_news', 'edtech_hub', 'nea_news']
     
     for source in sources:
         translate_source(source)
