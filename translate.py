@@ -468,6 +468,12 @@ translations_db = {
             "title_cn": "品牌和姐妹会致力于扩大校园影响力",
             "summary_cn": "各大品牌和希腊生活组织（姐妹会）正在努力扩大其在伊利诺伊大学校园的影响力。这些组织通过举办活动、提供赞助和建立合作伙伴关系，积极吸引学生参与。这一现象反映了商业利益与校园文化的深度交织，引发了关于学生消费主义和校园文化商业化的讨论。"
         }
+    },
+    "slu_news": {
+        "SLU Research: Turmeric May Reduce Inflammation for Diabetic Patients": {
+            "title_cn": "SLU研究：姜黄素可能减轻糖尿病患者的炎症反应",
+            "summary_cn": "圣路易斯大学研究人员发现，姜黄中的主要生物活性化合物姜黄素可能有助于减轻糖尿病前期和2型糖尿病患者的炎症和氧化应激。这项研究发表在《炎症药理学》期刊上，为糖尿病管理提供了新的天然治疗选择。研究人员指出，姜黄素具有抗炎和抗氧化特性，可能有助于改善糖尿病患者的代谢健康。"
+        }
     }
 }
 def translate_source(source_name):
@@ -536,7 +542,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news']
     
     for source in sources:
         translate_source(source)
