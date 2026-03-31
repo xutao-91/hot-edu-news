@@ -638,6 +638,12 @@ translations_db = {
             "title_cn": "超越诊所支持学生健康：社会处方干预的兴起",
             "summary_cn": "随着高等教育机构认识到学生福祉的复杂性，社会处方作为一种创新干预方式正在校园中获得关注。这种方法通过将学生与非医疗资源和社区支持联系起来，帮助解决孤独、焦虑和其他心理健康挑战，补充传统医疗服务。"
         }
+    },
+    "uillinois_news": {
+        "$50,000 to support life-changing work? Here’s how.": {
+            "title_cn": "5万美元支持改变生活的工作？伊利诺伊大学系统研究员竞赛",
+            "summary_cn": "伊利诺伊大学系统举办研究员竞赛，为具有潜在重大影响的研究项目提供最高5万美元的种子资金。该竞赛旨在支持能够改变生活、推动科学发现或解决社会挑战的创新研究，体现了大学系统对研究卓越和社会影响力的承诺。"
+        }
     }
 }
 def translate_source(source_name):
@@ -706,7 +712,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news']
     
     for source in sources:
         translate_source(source)
