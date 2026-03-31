@@ -118,7 +118,8 @@ def generate_html():
         'kstate_news': {'name': 'K-State News', 'color': '#512888'},
         'mtu_news': {'name': 'MTU News', 'color': '#FFCD00'},
         'unl_news': {'name': 'UNL News', 'color': '#D00000'},
-        'wayne_news': {'name': 'Wayne State News', 'color': '#00594C'}
+        'wayne_news': {'name': 'Wayne State News', 'color': '#00594C'},
+        'udmercy_news': {'name': 'Detroit Mercy News', 'color': '#A6093D'}
     }
     
     all_articles = []
