@@ -1,0 +1,44 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-03-30T21:44:26.892131",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Mizzou team discovers what makes all-female fish species a scientific ‘miracle’",
+      "url": "https://showme.missouri.edu/2026/mizzou-team-discovers-what-makes-all-female-fish-species-a-scientific-miracle/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Amazon molly fish reproduce asexually yet somehow avoid the genetic mutations that could lead to extinction. Researchers are discovering why.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Alpha-gal syndrome changes how we socialize",
+      "url": "https://showme.missouri.edu/2026/alpha-gal-syndrome-changes-how-we-socialize/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Red meat allergy can be triggered by cross-contaminated products, making dining out difficult.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Adventure Club extends learning beyond the classroom for Columbia and Mizzou",
+      "url": "https://showme.missouri.edu/2026/adventure-club-extends-learning-beyond-the-classroom-for-columbia-and-mizzou/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Program serves area school children while preparing the next generation of educators",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Eichman credits Mizzou's Springfield Clinical Campus for residency at pediatric unit",
+      "url": "https://showme.missouri.edu/2026/eichman-credits-springfield-clinical-campus-for-residency-at-pediatric-unit/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "More than 99% of the School of Medicine's class of 2026 received a residency program match during ‘Match Day.'",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}
