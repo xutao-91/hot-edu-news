@@ -1,0 +1,28 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-03-31T00:38:38.431343",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Watch: a video platform elevating admissions and student support",
+      "url": "https://thepienews.com/category/watch-listen/",
+      "date": "2026-03-30",
+      "type": "Watch & Listen",
+      "summary_en": "Explore the latest video platform from When in Culture, empowering international students to feel confident and connected to their university.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "No rebound for the US as F-1 visa slump deepens",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-03-30",
+      "type": "Immigration",
+      "summary_en": "After dramatic declines during peak visa issuance months, September 2025 saw no relief for US colleges and prospective students, as stakeholders warn of severe and uneven sector impacts.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    }
+  ]
+}

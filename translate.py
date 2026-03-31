@@ -650,6 +650,16 @@ translations_db = {
             "title_cn": "从\"Hello World\"到AI：真正为学生未来做好准备的是什么技能",
             "summary_cn": "随着人工智能日益成为职场必备技能，教育者正在重新思考计算机科学教育的目标。文章探讨了从基础编程到AI素养的技能转变，以及学校如何调整课程以更好地为学生的未来职业做准备，强调了批判性思维和问题解决能力的重要性。"
         }
+    },
+    "pie_news": {
+        "Watch: a video platform elevating admissions and student support": {
+            "title_cn": "视频平台提升招生和学生支持服务",
+            "summary_cn": "一款创新的视频平台正在改变国际教育机构与潜在学生和在读学生的互动方式。该平台通过个性化的视频内容提升招生体验，同时为学生提供更高效的支持服务，帮助院校建立更强的全球连接。"
+        },
+        "No rebound for the US as F-1 visa slump deepens": {
+            "title_cn": "美国F-1签证持续下滑未见反弹，国际教育界担忧加剧",
+            "summary_cn": "美国F-1学生签证发放量持续下降，即使在传统签证发放高峰期也未出现反弹。国际教育利益相关者警告称，这种趋势将对美国高等教育产生严重且不均衡的影响，可能导致部分院校面临财政压力和国际学生多元化程度下降。"
+        }
     }
 }
 def translate_source(source_name):
@@ -718,7 +728,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'edsurge_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'edsurge_news', 'pie_news']
     
     for source in sources:
         translate_source(source)
