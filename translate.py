@@ -660,6 +660,72 @@ translations_db = {
             "title_cn": "美国F-1签证持续下滑未见反弹，国际教育界担忧加剧",
             "summary_cn": "美国F-1学生签证发放量持续下降，即使在传统签证发放高峰期也未出现反弹。国际教育利益相关者警告称，这种趋势将对美国高等教育产生严重且不均衡的影响，可能导致部分院校面临财政压力和国际学生多元化程度下降。"
         }
+    },
+    "edtech_hub": {
+        "University of Kent rolls out ChatGPT Edu access to all staff and students": {
+            "title_cn": "肯特大学向全体师生推出ChatGPT Edu访问权限",
+            "summary_cn": "英国肯特大学成为首批全面整合ChatGPT Edu的高等教育机构之一，为全体师生提供这一AI工具的访问权限。此举旨在提升教学体验、支持学术研究，并帮助学生为未来AI驱动的职场做好准备。"
+        },
+        "Overdeck Family Foundation appoints Emily Hanno to research and impact role": {
+            "title_cn": "Overdeck Family Foundation appoints Emily Hanno to research and impact role",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "London School of Innovation granted degree awarding powers for AI-led university model": {
+            "title_cn": "伦敦创新学院获授学位授予权，推进AI驱动的大学模式",
+            "summary_cn": "伦敦创新学院成为英国首家获授学位授予权的AI原生高等教育机构。该学院将采用人工智能驱动的个性化学习模式，挑战传统大学教育范式，为学生提供更灵活、更具针对性的学习体验。"
+        },
+        "Ali Farhadi joins Microsoft SuperIntelligence team after stepping down from AI2": {
+            "title_cn": "Ali Farhadi joins Microsoft SuperIntelligence team after stepping down from AI2",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "NSF opens funding call to build AI-ready workforce across all US states": {
+            "title_cn": "NSF opens funding call to build AI-ready workforce across all US states",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Amazon opens Spring 2026 research awards across agentic AI, robotics, security, and Trainium": {
+            "title_cn": "Amazon opens Spring 2026 research awards across agentic AI, robotics, security, and Trainium",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Microsoft expands quantum footprint in Denmark as Europe looks to close innovation gap": {
+            "title_cn": "Microsoft expands quantum footprint in Denmark as Europe looks to close innovation gap",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "OpenAI Academy session shares district-led approaches to ChatGPT rollout in schools": {
+            "title_cn": "OpenAI Academy session shares district-led approaches to ChatGPT rollout in schools",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Interledger Foundation partners with universities to embed open payments in higher education": {
+            "title_cn": "Interledger Foundation partners with universities to embed open payments in higher education",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Learning experience leader Stacey Marshall says goodbye to UK grocery giant Tesco": {
+            "title_cn": "Learning experience leader Stacey Marshall says goodbye to UK grocery giant Tesco",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Microsoft introduces AI training and credential program for nonprofit leaders": {
+            "title_cn": "Microsoft introduces AI training and credential program for nonprofit leaders",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Raspberry Pi Foundation secures $4.6m to scale AI education across Latin America": {
+            "title_cn": "Raspberry Pi Foundation secures $4.6m to scale AI education across Latin America",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "New European Student Robotics Association connects university robotics talent across borders": {
+            "title_cn": "New European Student Robotics Association connects university robotics talent across borders",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Angeliki Galanopoulou leaves Google after 7.5 years to focus on podcast and career break": {
+            "title_cn": "Angeliki Galanopoulou leaves Google after 7.5 years to focus on podcast and career break",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills": {
+            "title_cn": "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        },
+        "Anthropic Institute launched to address AI risks and public understanding": {
+            "title_cn": "Anthropic Institute launched to address AI risks and public understanding",
+            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+        }
     }
 }
 def translate_source(source_name):
@@ -728,7 +794,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'edsurge_news', 'pie_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'edsurge_news', 'pie_news', 'edtech_hub']
     
     for source in sources:
         translate_source(source)
