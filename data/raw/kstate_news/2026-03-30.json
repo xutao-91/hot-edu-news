@@ -1,0 +1,80 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-03-30T23:08:07.191935",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Selling hope",
+      "url": "https://www.k-state.edu/news/articles/2026/03/selling-hope-jonathan-maka.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Maka, a third-year student at Kansas State University, is pursuing a degree in marketing and a minor in agricultural sales. He aims to make a difference through connection and purpose.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Documentary highlights food insecurity in Garden City, premiere set for May 1",
+      "url": "https://www.k-state.edu/news/articles/2026/03/sharing-the-harvest-documentary-premiere-screening.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "A new documentary from Kansas State University's award-winning Hungry Heartland Project and Engaged Stories Lab examines issues of food access in Garden City, and a free public premiere...",
+      "source": "K-State News",
+      "category": "documentary"
+    },
+    {
+      "title": "The power of place",
+      "url": "https://www.k-state.edu/news/articles/2026/03/outdoor-study-space-bluemont-justin-halls.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "A newly renovated outdoor space between Justin and Bluemont halls offers hammocks, picnic tables and a place for K-State students to relax, study and connect. Join the College of Health...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Fly through summer vacation with interactive youth camps at K-State Salina",
+      "url": "https://www.k-state.edu/news/articles/2026/03/youth-summer-camps-at-kstate-salina.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "This summer, students have the opportunity to explore the exciting world of STEM with Kansas State University Salina aviation and technology experts at the campus's youth summer camps.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Shirley Tung",
+      "url": "https://www.k-state.edu/news/articles/2026/03/shirley-tung-connects-literature-and-life.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Shirley Tung uses age-old literature to help students interpret today's world, encouraging connection and self-discovery through the power of shared human experience.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Aiming for the win",
+      "url": "https://www.k-state.edu/news/articles/2026/03/aiming-for-the-win.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Early mornings workouts, late night games and busy weekends may be the typical routine for a student-athlete, but for out-of-state student Olivia Burstad her sport looks a little...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Data, disease and the future of livestock: Statewide summit April 29 to unite leaders in animal health",
+      "url": "https://www.k-state.edu/news/articles/2026/03/animal-health-intelligence-summit.html",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Experts from across Kansas — including the state’s top veterinarian and researchers focused on emerging threats and advanced analytics — will gather April 29 in Council Grove...",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "Good for the steer, great for the rooster",
+      "url": "https://www.k-state.edu/news/articles/2026/03/poultry-bird-flu-vaccine-research.html",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "A team of researchers in K‑State's College of Veterinary Medicine is leveraging successful bovine vaccine technology to create a new line of defense against Highly Pathogenic Avian...",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}
