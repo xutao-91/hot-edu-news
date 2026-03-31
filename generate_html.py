@@ -120,7 +120,8 @@ def generate_html():
         'unl_news': {'name': 'UNL News', 'color': '#D00000'},
         'wayne_news': {'name': 'Wayne State News', 'color': '#00594C'},
         'udmercy_news': {'name': 'Detroit Mercy News', 'color': '#A6093D'},
-        'butler_stories': {'name': 'Butler Stories', 'color': '#13294B'}
+        'butler_stories': {'name': 'Butler Stories', 'color': '#13294B'},
+        'dordt_news': {'name': 'Dordt News', 'color': '#EFAA2E'}
     }
     
     all_articles = []
