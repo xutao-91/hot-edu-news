@@ -112,7 +112,8 @@ def generate_html():
         'slu_news': {'name': 'SLU News', 'color': '#003DA5'},
         'uiowa_now': {'name': 'UIowa Now', 'color': '#FFCD00'},
         'showme_mizzou': {'name': 'Show Me Mizzou', 'color': '#F1B82D'},
-        'iit_news': {'name': 'IIT News', 'color': '#CC0000'}
+        'iit_news': {'name': 'IIT News', 'color': '#CC0000'},
+        'iastate_news': {'name': 'Iowa State News', 'color': '#C8102E'}
     }
     
     all_articles = []
