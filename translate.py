@@ -931,64 +931,68 @@ translations_db = {
             "summary_cn": "英国肯特大学成为首批全面整合ChatGPT Edu的高等教育机构之一，为全体师生提供这一AI工具的访问权限。此举旨在提升教学体验、支持学术研究，并帮助学生为未来AI驱动的职场做好准备。"
         },
         "Overdeck Family Foundation appoints Emily Hanno to research and impact role": {
-            "title_cn": "Overdeck Family Foundation appoints Emily Hanno to research and impact role",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "Overdeck家族基金会任命Emily Hanno担任研究与影响力职位",
+            "summary_cn": "专注于教育创新的Overdeck家族基金会宣布任命Emily Hanno为研究与影响力职位负责人。她将在基金会推动教育研究议程，支持基于证据的教育改革和创新项目。"
         },
         "London School of Innovation granted degree awarding powers for AI-led university model": {
             "title_cn": "伦敦创新学院获授学位授予权，推进AI驱动的大学模式",
             "summary_cn": "伦敦创新学院成为英国首家获授学位授予权的AI原生高等教育机构。该学院将采用人工智能驱动的个性化学习模式，挑战传统大学教育范式，为学生提供更灵活、更具针对性的学习体验。"
         },
         "Ali Farhadi joins Microsoft SuperIntelligence team after stepping down from AI2": {
-            "title_cn": "Ali Farhadi joins Microsoft SuperIntelligence team after stepping down from AI2",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "Ali Farhadi卸任AI2后加入微软超级智能团队",
+            "summary_cn": "著名AI研究者Ali Farhadi在卸任艾伦人工智能研究所(AI2)职位后，加入微软超级智能团队。这一人事变动凸显了科技巨头在争夺顶尖AI人才方面的激烈竞争。"
         },
         "NSF opens funding call to build AI-ready workforce across all US states": {
-            "title_cn": "NSF opens funding call to build AI-ready workforce across all US states",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "美国国家科学基金会开放资助计划，在全美各州培养AI就绪人才",
+            "summary_cn": "美国国家科学基金会(NSF)启动新的资助计划，旨在全美各州培养具备AI技能的劳动力队伍。该计划支持开发AI教育项目、培训计划和课程体系，帮助美国劳动力适应AI驱动的经济转型。"
         },
         "Amazon opens Spring 2026 research awards across agentic AI, robotics, security, and Trainium": {
-            "title_cn": "Amazon opens Spring 2026 research awards across agentic AI, robotics, security, and Trainium",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "亚马逊开放2026年春季研究奖项，涵盖代理型AI、机器人、安全和Trainium",
+            "summary_cn": "亚马逊宣布开放2026年春季研究奖项申请，重点支持代理型AI、机器人技术、安全研究和Trainium芯片等领域。该计划将为全球学者和研究机构提供资金支持，推动AI技术的创新发展。"
         },
         "Microsoft expands quantum footprint in Denmark as Europe looks to close innovation gap": {
-            "title_cn": "Microsoft expands quantum footprint in Denmark as Europe looks to close innovation gap",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "微软扩大丹麦量子计算布局，欧洲寻求缩小创新差距",
+            "summary_cn": "微软宣布在丹麦扩大其量子计算业务布局，建设新的量子研究设施。此举正值欧洲寻求在量子技术领域缩小与美国和亚洲的差距之际，丹麦凭借其强大的量子研究基础成为微软欧洲战略的重要枢纽。"
         },
         "OpenAI Academy session shares district-led approaches to ChatGPT rollout in schools": {
-            "title_cn": "OpenAI Academy session shares district-led approaches to ChatGPT rollout in schools",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "OpenAI学院分享学区主导的ChatGPT校园推广方案",
+            "summary_cn": "OpenAI学院举办专题会议，分享美国各学区在课堂中实施ChatGPT的成功经验和最佳实践。这些学区主导的方案展示了如何在保障学生安全的前提下，有效整合生成式AI工具以提升教学质量。"
         },
         "Interledger Foundation partners with universities to embed open payments in higher education": {
-            "title_cn": "Interledger Foundation partners with universities to embed open payments in higher education",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "Interledger基金会与大学合作，将开放支付纳入高等教育",
+            "summary_cn": "Interledger基金会宣布与多所大学建立合作伙伴关系，将开放支付技术和金融创新纳入课程体系。该项目旨在培养下一代金融科技人才，推动跨境支付和数字货币领域的创新发展。"
         },
         "Learning experience leader Stacey Marshall says goodbye to UK grocery giant Tesco": {
-            "title_cn": "Learning experience leader Stacey Marshall says goodbye to UK grocery giant Tesco",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "学习体验负责人Stacey Marshall告别英国零售巨头Tesco",
+            "summary_cn": "著名学习体验设计专家Stacey Marshall宣布离开英国零售巨头Tesco。在她的领导下，Tesco在员工培训和发展方面取得了显著进展，她的下一步动向备受教育科技界关注。"
         },
         "Microsoft introduces AI training and credential program for nonprofit leaders": {
-            "title_cn": "Microsoft introduces AI training and credential program for nonprofit leaders",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "微软推出面向非营利组织领导者的AI培训和认证项目",
+            "summary_cn": "微软推出专门针对非营利组织领导者设计的AI培训与认证项目。该项目旨在帮助非营利机构领导者深入理解AI技术的战略意义，制定有效的AI整合策略，提升组织运营效率。"
         },
         "Raspberry Pi Foundation secures $4.6m to scale AI education across Latin America": {
-            "title_cn": "Raspberry Pi Foundation secures $4.6m to scale AI education across Latin America",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "树莓派基金会获得460万美元，在拉丁美洲扩展AI教育",
+            "summary_cn": "树莓派基金会成功筹集460万美元资金，用于在拉丁美洲范围内扩展其AI教育项目。该计划将为更多学校和社区提供可负担的AI学习工具和课程，帮助青少年掌握AI技能。"
         },
         "New European Student Robotics Association connects university robotics talent across borders": {
-            "title_cn": "New European Student Robotics Association connects university robotics talent across borders",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "新成立的欧洲学生机器人协会跨境连接大学机器人人才",
+            "summary_cn": "欧洲学生机器人协会正式成立，旨在促进大学与机器人产业之间的跨境合作。该协会将为学生提供实践机会、行业导师和职业发展资源，培养欧洲机器人领域的下一代人才。"
         },
         "Angeliki Galanopoulou leaves Google after 7.5 years to focus on podcast and career break": {
-            "title_cn": "Angeliki Galanopoulou leaves Google after 7.5 years to focus on podcast and career break",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "Angeliki Galanopoulou在谷歌工作7.5年后离职，专注播客和职业休整",
+            "summary_cn": "谷歌前产品经理Angeliki Galanopoulou宣布离开公司，计划专注播客创作和职业休整。她在谷歌期间参与了多个AI产品的开发，现在将探索教育科技领域的新机遇。"
         },
         "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills": {
-            "title_cn": "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "Handshake与OpenAI联合推出Codex Creator Challenge，扩展学生AI技能",
+            "summary_cn": "求职平台Handshake与OpenAI合作推出Codex Creator Challenge，旨在发掘和培养新一代AI编程人才。该挑战赛将为参与者提供使用OpenAI Codex的机会，帮助他们开发创新项目。"
+        },
+        "Anthropic launches AI safety research grants for university-based researchers": {
+            "title_cn": "Anthropic推出面向高校研究人员的AI安全研究资助计划",
+            "summary_cn": "AI公司Anthropic宣布推出专门面向高校研究人员的AI安全研究资助计划。该计划将资助关于AI对齐、可解释性和风险评估等关键安全领域的学术研究，推动负责任的AI发展。"
         },
         "Anthropic Institute launched to address AI risks and public understanding": {
-            "title_cn": "Anthropic Institute launched to address AI risks and public understanding",
-            "summary_cn": "EdTech Innovation Hub报道的教育科技最新动态。"
+            "title_cn": "Anthropic研究所成立，应对AI风险并提升公众理解",
+            "summary_cn": "AI公司Anthropic宣布成立专门的研究所，专注于研究AI技术带来的风险以及提升公众对AI的理解。该研究所将汇聚跨学科专家，为政府和企业提供关于AI治理、安全和伦理的政策建议。"
         }
     },
     "nea_news": {
