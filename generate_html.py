@@ -122,7 +122,8 @@ def generate_html():
         'udmercy_news': {'name': 'Detroit Mercy News', 'color': '#A6093D'},
         'butler_stories': {'name': 'Butler Stories', 'color': '#13294B'},
         'dordt_news': {'name': 'Dordt News', 'color': '#EFAA2E'},
-        'rockhurst_news': {'name': 'Rockhurst News', 'color': '#003366'}
+        'rockhurst_news': {'name': 'Rockhurst News', 'color': '#003366'},
+        'augie_news': {'name': 'Augustana News', 'color': '#002F87'}
     }
     
     all_articles = []

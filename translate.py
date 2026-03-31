@@ -620,6 +620,12 @@ translations_db = {
             "title_cn": "红翼队捐赠为韦恩州立大学研究提供新工具",
             "summary_cn": "底特律红翼队向韦恩州立大学捐赠，用于购买新的研究设备和工具。这项捐赠将支持该校在相关领域的研究工作，为学生和教职员工提供更好的科研条件，体现了社区合作伙伴对高等教育的支持。"
         }
+    },
+    "augie_news": {
+        "Building Belonging: 2025-26 ASA President, Vice President Let Community Guide Strategic Plan": {
+            "title_cn": "建立归属感：2025-26学年ASA主席、副主席领导团队",
+            "summary_cn": "奥古斯塔纳大学学生协会(ASA)新一届主席和副主席将带领学生政府在2025-26学年开展工作。他们将致力于在校园内建立更强的归属感，促进学生参与和社区建设，为代表学生利益发声，推动校园生活的积极变革。"
+        }
     }
 }
 def translate_source(source_name):
@@ -688,7 +694,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news']
     
     for source in sources:
         translate_source(source)
