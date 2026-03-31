@@ -450,6 +450,24 @@ translations_db = {
             "title_cn": "新型生物医学设备的秘密成分？锂离子电池",
             "summary_cn": "芝加哥大学研究人员开发出一种创新的生物医学设备，巧妙地将锂离子电池技术应用于医疗领域。这项突破性的研究展示了跨学科合作的力量，可能为未来的医疗设备和植入式技术开辟新的发展方向。"
         }
+    },
+    "daily_illini": {
+        "TPUSA to host conservative comedian Alex Stein at Illini Union": {
+            "title_cn": "TPUSA将在伊利尼联盟举办保守派喜剧演员Alex Stein活动",
+            "summary_cn": "Turning Point USA (TPUSA) 宣布将在伊利诺伊大学伊利尼联盟举办保守派喜剧演员Alex Stein的专场活动。Stein以其政治讽刺和保守派观点而闻名，此次活动预计将吸引大量学生参与，同时也可能引发校园内的政治讨论和争议。"
+        },
+        "Direct Action Everywhere calls for UI to drop animal research programs": {
+            "title_cn": "Direct Action Everywhere呼吁UI放弃动物研究项目",
+            "summary_cn": "动物权益组织Direct Action Everywhere在伊利诺伊大学Swanlund行政大楼外举行示威活动，要求该校停止在研究和实验中使用动物。该组织认为动物实验在道德上存在问题，并呼吁大学采用替代研究方法。这一诉求在校园内引发了关于科研伦理和动物权益的辩论。"
+        },
+        "UI researchers use AI to combat neurological disorders": {
+            "title_cn": "UI研究人员利用AI对抗神经系统疾病",
+            "summary_cn": "伊利诺伊大学研究人员正在开发基于人工智能的新方法来诊断和治疗神经系统疾病。这项跨学科研究结合了神经科学、计算机科学和医学，旨在利用机器学习技术分析脑部扫描数据，从而更准确地识别疾病模式并开发个性化治疗方案。"
+        },
+        "Brands, sororities work to expand campus influence": {
+            "title_cn": "品牌和姐妹会致力于扩大校园影响力",
+            "summary_cn": "各大品牌和希腊生活组织（姐妹会）正在努力扩大其在伊利诺伊大学校园的影响力。这些组织通过举办活动、提供赞助和建立合作伙伴关系，积极吸引学生参与。这一现象反映了商业利益与校园文化的深度交织，引发了关于学生消费主义和校园文化商业化的讨论。"
+        }
     }
 }
 def translate_source(source_name):
@@ -518,7 +536,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini']
     
     for source in sources:
         translate_source(source)
