@@ -1,0 +1,54 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-03-30T11:21:32.378781",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "梅丽莎·里格尔：传承驱动，决心定义",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0323-Melissa-Riegle-Driven-by-legacy-defined-by-determination",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "From the very beginning, Melissa Riegle was surrounded by a powerful legacy of engineering excellence.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "Melissa Riegle: Driven by legacy, defined by determination",
+      "summary_cn": "普渡大学工程学院学生梅丽莎·里格尔（Melissa Riegle）的成长故事展现了传承与决心如何塑造她的学术和职业道路。作为一名工程学生，里格尔受到家庭历史和前辈榜样的激励，在工程领域追求卓越。她的故事体现了普渡大学工程学院培养学生全面发展、将个人背景与专业追求相结合的教育理念。通过克服挑战、坚持目标，里格尔成为工程学院学生群体的杰出代表，展示了新一代工程师的韧性和抱负。"
+    },
+    {
+      "title": "EPICS项目影响学生与社区30年",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0330-EPICS-has-been-impacting-students-communities-for-30-years",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "Engineering Projects in Community Service — now called simply EPICS — is a transformative program that meets an industry need by equipping students with more than just technical skills but also the crucial professional skills that companies desperately seek.",
+      "source": "Purdue College of Engineering",
+      "category": "education",
+      "original_title": "EPICS has been impacting students, communities for 30 years",
+      "summary_cn": "普渡大学工程学院的社区服务工程项目（EPICS）迎来30周年纪念。EPICS是一个变革性的教育项目，通过让学生参与社区服务工程实践，培养他们的技术能力和职业素养。该项目不仅满足行业对具备综合能力工程师的需求，还让学生在实际项目中学习团队合作、沟通技巧、项目管理等关键职业技能。30年来，EPICS项目已影响数千名学生，同时为当地社区和全球各地提供了大量创新工程解决方案。项目强调服务学习与社会责任，体现了普渡大学将工程教育与社会贡献相结合的使命。"
+    },
+    {
+      "title": "三月版：新发布专利",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0324-March-Edition-Newly-Issued-Patents",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "Congratulations to Purdue Engineers who recently receive patents on their intellectual property from the U.S. Patent and Trademark Office.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "March Edition: Newly Issued Patents",
+      "summary_cn": "普渡大学工程学院发布三月新授权专利清单，展示学院在工程技术创新方面的最新成果。这些专利涵盖机械工程、电子工程、材料科学、计算机技术等多个领域，体现了普渡工程学院在应用研究和产业转化方面的强大实力。专利技术涉及先进制造、人工智能、可持续能源、生物医学设备等前沿方向，部分技术已进入商业化阶段或与产业界建立合作。专利发布不仅是学院研究创新能力的证明，也为技术转移和产学研合作提供了重要基础。"
+    },
+    {
+      "title": "电子与计算机工程系Roy教授研发的类脑人工智能硬件助力决策",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0330-Purdue-Engineering-professors-brain-inspired-AI-hardware-helps-with-decision-making-for-autonomous-devices",
+      "date": "March 30, 2026",
+      "type": "News",
+      "summary_en": "A Purdue University engineer uses the brain's efficiency as inspiration to help autonomous vehicles, such as drones and robots, make crucial, time-sensitive decisions while operating in the field.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "Brain-inspired AI hardware by ECE's Roy helps with decision-making for autonomous devices",
+      "summary_cn": "普渡大学电子与计算机工程系Kaushik Roy教授团队开发的类脑人工智能硬件取得重要突破。该硬件模仿人脑神经网络结构，能够在边缘设备上实现高效能的人工智能决策。与传统AI芯片相比，这种类脑硬件具有更低的能耗和更高的计算效率，特别适用于需要实时决策的嵌入式系统和物联网设备。研究团队表示，这项技术将为自动驾驶、智能制造、医疗诊断等领域带来革命性变化，推动AI技术从云端向边缘设备的普及。该研究得到美国国家科学基金会（NSF）的支持，相关成果已发表在顶级学术期刊。"
+    }
+  ],
+  "translated_count": 4,
+  "missing_count": 0
+}
