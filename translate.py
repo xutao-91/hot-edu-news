@@ -498,6 +498,36 @@ translations_db = {
             "title_cn": "伊利诺伊理工学院教授钟庆昌当选美国科学促进会会士",
             "summary_cn": "伊利诺伊理工学院工程学教授钟庆昌(Qing-Chang Zhong)当选美国科学促进会(AAAS)会士，这是科学界最崇高的荣誉之一。AAAS会士的评选表彰在科学研究、教育和社会服务方面做出杰出贡献的科学家。钟教授在电气工程领域的研究成果获得了广泛认可，为相关领域的发展做出了重要贡献。"
         }
+    },
+    "ku_news": {
+        "KU Law to honor distinguished alumni": {
+            "title_cn": "堪萨斯大学法学院表彰杰出校友",
+            "summary_cn": "堪萨斯大学法学院将举行年度颁奖典礼，表彰在法律领域做出杰出贡献的校友。这一传统活动旨在认可校友们在法律实践、公共服务和学术研究方面的卓越成就，同时激励在校学生追求法律职业的卓越。"
+        },
+        "Inaugural Hanzlik Memorial Lecture set for April 2 at KU School of Pharmacy": {
+            "title_cn": "首届Hanzlik纪念讲座定于4月2日在KU药学院举行",
+            "summary_cn": "堪萨斯大学药学院将举办首届Robert P. Hanzlik纪念讲座，特邀前KU教职员工Gunda Georg主讲。讲座将于4月2日下午4点举行，旨在纪念Hanzlik教授在药学教育和研究领域的贡献。"
+        },
+        "With history standards prone to politicization, ‘minimalism’ approach would benefit teachers, scholar argues": {
+            "title_cn": "面对历史课程标准政治化，'极简主义'是更好的替代方案",
+            "summary_cn": "堪萨斯大学研究人员探讨了历史教育标准制定中的政治化问题，提出'极简主义'方法作为更好的替代方案。该研究认为，精简和聚焦核心内容的历史教育标准能够更好地服务于学生的学习需求，减少政治争议对教育内容的影响。"
+        },
+        "KU Debate coach wins National Coach of the Year Award": {
+            "title_cn": "KU辩论教练荣获全国年度教练奖",
+            "summary_cn": "堪萨斯大学辩论队教练荣获全国年度教练奖，表彰其在辩论教育领域的杰出贡献。该教练带领KU辩论队在多项全国性比赛中取得优异成绩，展现了KU在辩论教育方面的卓越水平。"
+        },
+        "‘Human Dimensions of AI’ topic of KU Self Graduate Fellowship 2026 Symposium Lecture": {
+            "title_cn": "'人工智能的人文维度'成为KU Self研究生奖学金研讨会主题",
+            "summary_cn": "堪萨斯大学Self研究生奖学金项目将举办以'人工智能的人文维度'为主题的研讨会。该研讨会将探讨AI技术对社会、伦理和人文领域的影响，促进跨学科对话，帮助学生全面理解AI发展的人文意义。"
+        },
+        "Office of Faculty Affairs to host third annual KU Faculty Development Academies Week": {
+            "title_cn": "教职员工事务办公室将举办第三届年度KU教职员工发展研讨会",
+            "summary_cn": "堪萨斯大学教职员工事务办公室将举办第三届年度教职员工发展研讨会，旨在提升教职员工的教学和研究能力。研讨会将提供多种专业发展机会，促进教职员工的职业成长和学术交流。"
+        },
+        "KU Staff Senate announces inaugural awards": {
+            "title_cn": "KU教职员工参议院宣布首届奖项",
+            "summary_cn": "堪萨斯大学教职员工参议院宣布将设立首届奖项，表彰在各自岗位上做出杰出贡献的教职员工。这一新设立的奖项计划旨在认可和支持KU员工群体的努力和成就，提升校园社区的凝聚力。"
+        }
     }
 }
 def translate_source(source_name):
@@ -566,7 +596,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news']
     
     for source in sources:
         translate_source(source)
