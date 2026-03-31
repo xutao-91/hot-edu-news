@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-03-31T00:22:19.898359",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Supporting student health beyond the clinic: Social prescribing in higher ed",
+      "url": "https://www.ecampusnews.com/student-wellbeing/2026/03/30/supporting-student-well-being-social-prescribing-higher-ed/",
+      "date": "2026-03-30",
+      "type": "Student Mental Health",
+      "summary_en": "A student visits the campus counseling center for the third time this semester. She’s not in crisis. She’s lonely, overwhelmed, and unsure where she fits.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

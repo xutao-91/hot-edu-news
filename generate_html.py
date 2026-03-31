@@ -128,7 +128,8 @@ def generate_html():
         'uni_news': {'name': 'UNI News', 'color': '#4B116F'},
         'kettering_news': {'name': 'Kettering News', 'color': '#FDB813'},
         'hanover_research': {'name': 'Hanover Research', 'color': '#006747'},
-        'the74_news': {'name': 'The 74 Million', 'color': '#E31937'}
+        'the74_news': {'name': 'The 74 Million', 'color': '#E31937'},
+        'ecampus_news': {'name': 'eCampus News', 'color': '#005A8C'}
     }
     
     all_articles = []
