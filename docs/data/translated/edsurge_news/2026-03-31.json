@@ -1,0 +1,22 @@
+{
+  "source": "EdSurge News",
+  "source_url": "https://www.edsurge.com/news",
+  "crawled_at": "2026-03-31T00:35:16.297009",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "从\"Hello World\"到AI：真正为学生未来做好准备的是什么技能",
+      "url": "https://www.edsurge.com/news/2026-03-30-from-hello-world-to-ai-what-skills-actually-prepare-students-for-the-future",
+      "date": "2026-03-30",
+      "type": "Research Commentary | Artificial Intelligence",
+      "summary_en": "",
+      "source": "EdSurge",
+      "category": "ai",
+      "author": "",
+      "original_title": "From “Hello, World!” to AI: What Skills Actually Prepare Students for the Future?",
+      "summary_cn": "随着人工智能日益成为职场必备技能，教育者正在重新思考计算机科学教育的目标。文章探讨了从基础编程到AI素养的技能转变，以及学校如何调整课程以更好地为学生的未来职业做准备，强调了批判性思维和问题解决能力的重要性。"
+    }
+  ],
+  "translated_count": 1,
+  "missing_count": 0
+}

@@ -1,0 +1,36 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-03-31T12:00:11.422254",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "President Trump’s Working Families Tax Cuts (Which Every Democrat Opposed) Is Delivering Historic Relief",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trumps-working-families-tax-cuts-which-every-democrat-opposed-is-delivering-historic-relief/",
+      "date": "March 31, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Acts Where Democrats Refused — Bringing Relief to TSA Workers and Travelers",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-acts-where-democrats-refused-bringing-relief-to-tsa-workers-and-travelers/",
+      "date": "March 30, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Vietnam War Veterans Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-national-vietnam-war-veterans-day/",
+      "date": "March 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Education and Sharing Day, U.S.A., 2026",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/education-and-sharing-day-u-s-a-2026/",
+      "date": "March 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}

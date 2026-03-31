@@ -1,0 +1,58 @@
+{
+  "source": "The Daily Illini",
+  "source_url": "https://dailyillini.com/news-stories/university-news/",
+  "crawled_at": "2026-03-30T20:31:03.856001",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "TPUSA将在伊利尼联盟举办保守派喜剧演员Alex Stein活动",
+      "url": "https://dailyillini.com/news-stories/university-news/campus-events/2026/03/30/alex-stein-illini-union/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "author": "Mary Piacente",
+      "source": "Daily Illini",
+      "category": "general",
+      "original_title": "TPUSA to host conservative comedian Alex Stein at Illini Union",
+      "summary_cn": "Turning Point USA (TPUSA) 宣布将在伊利诺伊大学伊利尼联盟举办保守派喜剧演员Alex Stein的专场活动。Stein以其政治讽刺和保守派观点而闻名，此次活动预计将吸引大量学生参与，同时也可能引发校园内的政治讨论和争议。"
+    },
+    {
+      "title": "Direct Action Everywhere呼吁UI放弃动物研究项目",
+      "url": "https://dailyillini.com/news-stories/university-news/research/2026/03/30/direct-action-everywhere-animal-research/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "author": "Annisyn Krebs-Carr, Adam Edwards, Aidan Miller-Hisgen, Patrick Herr",
+      "source": "Daily Illini",
+      "category": "research",
+      "original_title": "Direct Action Everywhere calls for UI to drop animal research programs",
+      "summary_cn": "动物权益组织Direct Action Everywhere在伊利诺伊大学Swanlund行政大楼外举行示威活动，要求该校停止在研究和实验中使用动物。该组织认为动物实验在道德上存在问题，并呼吁大学采用替代研究方法。这一诉求在校园内引发了关于科研伦理和动物权益的辩论。"
+    },
+    {
+      "title": "UI研究人员利用AI对抗神经系统疾病",
+      "url": "https://dailyillini.com/news-stories/university-news/research/2026/03/29/ui-researchers-ai-neurological-disorders/",
+      "date": "2026-03-29",
+      "type": "News",
+      "summary_en": "",
+      "author": "Daniel Zamora, Ruby Devaisher, Sahaana Sathyaraj",
+      "source": "Daily Illini",
+      "category": "research",
+      "original_title": "UI researchers use AI to combat neurological disorders",
+      "summary_cn": "伊利诺伊大学研究人员正在开发基于人工智能的新方法来诊断和治疗神经系统疾病。这项跨学科研究结合了神经科学、计算机科学和医学，旨在利用机器学习技术分析脑部扫描数据，从而更准确地识别疾病模式并开发个性化治疗方案。"
+    },
+    {
+      "title": "品牌和姐妹会致力于扩大校园影响力",
+      "url": "https://dailyillini.com/life_and_culture-stories/education-campus-life/2026/03/27/brands-sororities-expand-campus-influence/",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "",
+      "author": "Sofía Boddy",
+      "source": "Daily Illini",
+      "category": "campus",
+      "original_title": "Brands, sororities work to expand campus influence",
+      "summary_cn": "各大品牌和希腊生活组织（姐妹会）正在努力扩大其在伊利诺伊大学校园的影响力。这些组织通过举办活动、提供赞助和建立合作伙伴关系，积极吸引学生参与。这一现象反映了商业利益与校园文化的深度交织，引发了关于学生消费主义和校园文化商业化的讨论。"
+    }
+  ],
+  "translated_count": 4,
+  "missing_count": 0
+}

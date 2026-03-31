@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-03-30T20:49:14.864077",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SLU Research: Turmeric May Reduce Inflammation for Diabetic Patients",
+      "url": "https://www.slu.edu/news/2026/march/turmeric-research-diabetic-patients.php",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "A compound found in turmeric may help reduce inflammation and oxidative stress in people with prediabetes and type 2 diabetes. In a recent paper published in Inflammopharmacology, Saint Louis University researchers and colleagues have found that curcumin, the main bioactive compound found in turmeric, could help reduce inflammation and harmful oxidative stress in people with prediabetes and type 2",
+      "source": "SLU News",
+      "category": "research"
+    }
+  ]
+}

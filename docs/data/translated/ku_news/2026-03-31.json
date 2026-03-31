@@ -1,0 +1,87 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-03-30T22:58:11.474144",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "堪萨斯大学法学院表彰杰出校友",
+      "url": "https://news.ku.edu/news/article/ku-law-to-honor-distinguished-alumni-2026",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The University of Kansas School of Law will recognize Judge Dan Crabtree, Steve Leben and Diane Parrish with its 2026 Distinguished Alumni Award",
+      "source": "KU News",
+      "category": "general",
+      "original_title": "KU Law to honor distinguished alumni",
+      "summary_cn": "堪萨斯大学法学院将举行年度颁奖典礼，表彰在法律领域做出杰出贡献的校友。这一传统活动旨在认可校友们在法律实践、公共服务和学术研究方面的卓越成就，同时激励在校学生追求法律职业的卓越。"
+    },
+    {
+      "title": "首届Hanzlik纪念讲座定于4月2日在KU药学院举行",
+      "url": "https://news.ku.edu/news/article/inaugural-hanzlik-memorial-lecture-set-for-april-2-at-ku-school-of-pharmacy",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The University of Kansas School of Pharmacy's Robert P. Hanzlik Memorial Lecture will feature former KU faculty member Gunda Georg, who will speak at 4 p.m. April 2.",
+      "source": "KU News",
+      "category": "academic",
+      "original_title": "Inaugural Hanzlik Memorial Lecture set for April 2 at KU School of Pharmacy",
+      "summary_cn": "堪萨斯大学药学院将举办首届Robert P. Hanzlik纪念讲座，特邀前KU教职员工Gunda Georg主讲。讲座将于4月2日下午4点举行，旨在纪念Hanzlik教授在药学教育和研究领域的贡献。"
+    },
+    {
+      "title": "面对历史课程标准政治化，'极简主义'是更好的替代方案",
+      "url": "https://news.ku.edu/news/article/with-history-standards-prone-to-politicization-minimalism-approach-would-benefit-teachers-scholar-argues",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Stephen Jackson, education scholar at the University of Kansas, writes in a new article that history education standards are prone to politicization and only stoke the culture wars without improving what students learn. He instead proposes \"standards minimalism” and points to Kansas and Maine as two states with exemplary standards.",
+      "source": "KU News",
+      "category": "general",
+      "original_title": "With history standards prone to politicization, ‘minimalism’ approach would benefit teachers, scholar argues",
+      "summary_cn": "堪萨斯大学研究人员探讨了历史教育标准制定中的政治化问题，提出'极简主义'方法作为更好的替代方案。该研究认为，精简和聚焦核心内容的历史教育标准能够更好地服务于学生的学习需求，减少政治争议对教育内容的影响。"
+    },
+    {
+      "title": "KU辩论教练荣获全国年度教练奖",
+      "url": "https://news.ku.edu/news/article/ku-debate-coach-wins-national-coach-of-the-year-award",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Brett Bricker, KU’s head debate coach, was awarded the Ross K. Smith Debate Coach of the Year award at the 2026 National Debate Tournament in recognition of his career achievements in coaching. Bricker is the third KU coach to win the prestigious award",
+      "source": "KU News",
+      "category": "general",
+      "original_title": "KU Debate coach wins National Coach of the Year Award",
+      "summary_cn": "堪萨斯大学辩论队教练荣获全国年度教练奖，表彰其在辩论教育领域的杰出贡献。该教练带领KU辩论队在多项全国性比赛中取得优异成绩，展现了KU在辩论教育方面的卓越水平。"
+    },
+    {
+      "title": "'人工智能的人文维度'成为KU Self研究生奖学金研讨会主题",
+      "url": "https://news.ku.edu/news/article/human-dimensions-of-ai-topic-of-ku-self-graduate-fellowship-2026-symposium-lecture",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Poppy Crum, a leader and innovator at the forefront of artificial intelligence, machine learning and human-computer interaction, will present the KU Self Graduate Fellowship 2026 Symposium Lecture on April 24 at the University of Kansas.",
+      "source": "KU News",
+      "category": "academic",
+      "original_title": "‘Human Dimensions of AI’ topic of KU Self Graduate Fellowship 2026 Symposium Lecture",
+      "summary_cn": "堪萨斯大学Self研究生奖学金项目将举办以'人工智能的人文维度'为主题的研讨会。该研讨会将探讨AI技术对社会、伦理和人文领域的影响，促进跨学科对话，帮助学生全面理解AI发展的人文意义。"
+    },
+    {
+      "title": "教职员工事务办公室将举办第三届年度KU教职员工发展研讨会",
+      "url": "https://news.ku.edu/news/article/office-of-faculty-affairs-to-host-third-annual-ku-faculty-development-academies-week",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "University of Kansas Lawrence and Edwards faculty are invited to participate in the third annual KU Faculty Development Academies Week, which takes place May 18-22.",
+      "source": "KU News",
+      "category": "academic",
+      "original_title": "Office of Faculty Affairs to host third annual KU Faculty Development Academies Week",
+      "summary_cn": "堪萨斯大学教职员工事务办公室将举办第三届年度教职员工发展研讨会，旨在提升教职员工的教学和研究能力。研讨会将提供多种专业发展机会，促进教职员工的职业成长和学术交流。"
+    },
+    {
+      "title": "KU教职员工参议院宣布首届奖项",
+      "url": "https://news.ku.edu/news/article/ku-staff-senate-announces-inaugural-awards",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Two KU staff members will be recognized for service to the university during the 2026 Staff Professional Development Conference on April 8.",
+      "source": "KU News",
+      "category": "general",
+      "original_title": "KU Staff Senate announces inaugural awards",
+      "summary_cn": "堪萨斯大学教职员工参议院宣布将设立首届奖项，表彰在各自岗位上做出杰出贡献的教职员工。这一新设立的奖项计划旨在认可和支持KU员工群体的努力和成就，提升校园社区的凝聚力。"
+    }
+  ],
+  "translated_count": 7,
+  "missing_count": 0
+}

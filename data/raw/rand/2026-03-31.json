@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-03-31T12:00:23.293274",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "National Guard Youth ChalleNGe: Program Progress in 2024–2025",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2120-3.html",
+      "date": "Mar 31, 2026",
+      "type": "Research",
+      "summary_en": "The National Guard Youth ChalleNGe program serves young people ages 16 to 18 who risk not completing a high school credential. This report, the tenth in a series of annual updates, covers the program and the participants who entered during 2024.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Research Security in Science and Technology",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4104-1.html",
+      "date": "Mar 31, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This paper describes research security and provides a framework to aid researchers, research institutions, and research funders in identifying, assessing, and managing risks associated with global scientific collaborations.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
