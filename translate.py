@@ -492,6 +492,12 @@ translations_db = {
             "title_cn": "Eichman归功于密苏里大学斯普林菲尔德临床校区帮助其确定职业方向",
             "summary_cn": "密苏里大学医学院学生Eichman表示，斯普林菲尔德临床校区的学习经历对其职业选择产生了重要影响。在该校区的临床实习让Eichman有机会接触到真实的医疗环境，从而确定了自己的专业方向，体现了临床教育在医学人才培养中的关键作用。"
         }
+    },
+    "iit_news": {
+        "Engineering Professor Qing-Chang Zhong Elected as AAAS Fellow": {
+            "title_cn": "伊利诺伊理工学院教授钟庆昌当选美国科学促进会会士",
+            "summary_cn": "伊利诺伊理工学院工程学教授钟庆昌(Qing-Chang Zhong)当选美国科学促进会(AAAS)会士，这是科学界最崇高的荣誉之一。AAAS会士的评选表彰在科学研究、教育和社会服务方面做出杰出贡献的科学家。钟教授在电气工程领域的研究成果获得了广泛认可，为相关领域的发展做出了重要贡献。"
+        }
     }
 }
 def translate_source(source_name):
@@ -560,7 +566,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news']
     
     for source in sources:
         translate_source(source)
