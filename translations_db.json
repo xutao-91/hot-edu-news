@@ -11,6 +11,18 @@
         "The past, present, and future of the Public Service Loan Forgiveness program": {
             "title_cn": "美国公共服务贷款豁免计划的回顾与展望",
             "summary_cn": "布鲁金斯学会发布政策分析报告，系统梳理美国公共服务贷款豁免计划（PSLF）自2007年设立以来的实施历程、政策演变、当前面临的困境及未来可能的改革方向。报告指出，该计划作为联邦政府鼓励优秀青年投身教育、医疗、法律等公共服务领域的重要激励机制，其政策初衷良好、设计意图明确，旨在为从事公共服务满10年的借款人提供剩余学生贷款豁免。但因申请程序复杂繁琐、资格认定标准模糊不清、部门间信息共享不畅、监督机制不健全等执行层面问题，实际惠及人数远低于预期，许多符合条件的公共服务从业者未能获得应有的贷款豁免，政策效果和公信力大打折扣。报告分析了该计划在拜登政府和特朗普政府时期的政策变化，讨论了当前存在的挑战，并提出了简化申请流程、明确资格标准、加强跨部门协调、完善监督机制等改革建议，以确保政策红利切实惠及符合条件的公共服务从业者，吸引和留住优秀人才服务公共事业。"
+        },
+        "Survey Shows Teacher Working Conditions Have Deteriorated Significantly: What Can Be Done?": {
+            "title_cn": "调查显示教师工作条件显著恶化：应对之策何在",
+            "summary_cn": "布鲁金斯学会最新调查研究显示，美国教师的工作条件在过去几年中显著恶化，包括工作压力增加、薪酬停滞、资源不足等问题。报告分析了导致这一趋势的根本原因，并提出了改善教师工作环境、提高职业吸引力的政策建议，以确保教育体系的可持续发展。"
+        },
+        "Educators in Eastern and Southern Africa Are Turning Climate Challenges Into Action": {
+            "title_cn": "非洲东部和南部教育工作者将气候挑战转化为行动",
+            "summary_cn": "面对日益严峻的气候变化挑战，非洲东部和南部的教育工作者正在创新教学方法，将气候教育纳入课程体系。布鲁金斯学会的研究展示了这些地区如何通过教育赋能年轻一代，培养应对气候危机的能力和意识，为全球南方国家提供了宝贵的经验。"
+        },
+        "The Public Service Loan Forgiveness Program: Looking Back, Looking Ahead": {
+            "title_cn": "美国公共服务贷款豁免计划：回顾、现状与展望",
+            "summary_cn": "布鲁金斯学会对公共服务贷款豁免计划（PSLF）进行全面评估，回顾该计划自实施以来的成效与挑战。研究分析了计划对吸引人才进入公共服务领域的影响，并就如何改进政策设计、提高执行效率提出了具体建议，以确保这一重要政策工具能够更好地服务于公共利益。"
         }
     },
     "edgov": {
@@ -61,6 +73,38 @@
         "Victories for Higher Education: Raising Academic Standards and Ensuring Admissions Transparency": {
             "title_cn": "高等教育成果：提高学术标准并确保招生透明度",
             "summary_cn": "美国教育部发布高等教育政策成果报告，强调提高学术标准和确保招生透明度的重要性。报告指出，近期实施的一系列政策改革旨在维护高等教育质量，为学生提供公平竞争环境，并确保高等教育机构对其招生决策负责。具体措施包括加强对高校招生流程的联邦监督、要求更详细的招生数据披露、推动标准化测试在招生决策中的合理使用、以及审查高校在招生中考虑种族因素的合规性。教育部认为，这些举措有助于恢复公众对高等教育招生公平性的信心，确保所有合格学生不论背景如何都能获得公平的入学机会。报告还强调了维护学术严谨性的重要性，反对为追求多样性而降低学术标准，主张通过提升教育质量而非降低门槛来实现教育公平。此外，报告还提到了加强对高等教育机构的财务监管，确保联邦学生资助资金的合理使用，以及推动高校提高毕业率和就业 outcomes。这些政策反映了特朗普政府对高等教育改革的整体思路，即强调个人努力、标准化评估和透明问责。"
+        },
+        "Department of Education Senior Advisor for Civic Education Attends 'History Shines' Event in Kansas": {
+            "title_cn": "教育部公民教育高级顾问出席堪萨斯州'历史闪耀'活动",
+            "summary_cn": "美国教育部公民教育高级顾问前往堪萨斯州出席'历史闪耀'教育活动，旨在推广公民教育，增强学生对美国历史和民主制度的理解。该活动是教育部推动全国范围内公民教育的一部分。"
+        },
+        "Higher Education Policy Outcomes: Lowering College Costs, Accelerating Workforce Readiness": {
+            "title_cn": "高等教育政策成果：降低学费成本、加速劳动力准备",
+            "summary_cn": "美国教育部发布高等教育政策成果报告，重点介绍在降低大学学费成本和加速学生劳动力准备方面的进展。报告展示了多项政策工具如何帮助学生获得更经济实惠的高等教育，并更快适应职场需求。"
+        },
+        "Secretary McMahon to Deliver Commencement Address at Newport News Shipbuilding Apprentice School": {
+            "title_cn": "麦克马洪部长将出席纽波特纽斯造船厂学徒学校毕业典礼并发表演讲",
+            "summary_cn": "教育部长麦克马洪宣布将在纽波特纽斯造船厂学徒学校毕业典礼上发表主题演讲。该学校是美国历史最悠久的学徒培训机构之一，此次活动凸显了教育部对职业技术教育和学徒制的重视。"
+        },
+        "U.S. Department of Education's Office for Civil Rights Issues Title IX Enforcement Warning to San José State University": {
+            "title_cn": "美国教育部民权办公室就第九条规定向圣何塞州立大学发出执法预警",
+            "summary_cn": "教育部民权办公室向圣何塞州立大学发出正式警告，要求该校遵守第九条规定，确保性别平等和防止性骚扰。此举反映了联邦政府对高校合规性的严格监督，以及对维护学生权益的承诺。"
+        },
+        "U.S. Department of Education Officials Travel to Tennessee and Missouri for 'History Shines' Civic Education Events": {
+            "title_cn": "美国教育部官员赴田纳西州和密苏里州出席'历史闪耀'公民教育活动",
+            "summary_cn": "教育部官员前往田纳西州和密苏里州参与'历史闪耀'系列公民教育活动。这些活动旨在通过互动式学习提升学生的公民意识，帮助年轻一代理解美国民主制度和公民责任。"
+        },
+        "U.S. Department of Education's Office for Civil Rights Opens Two New Investigations Into Harvard University for Discrimination": {
+            "title_cn": "美国教育部民权办公室对哈佛大学开启两项新的歧视调查",
+            "summary_cn": "教育部民权办公室宣布对哈佛大学展开两项新的歧视调查，涉及招生政策和校园环境中的潜在歧视行为。调查将评估该校是否遵守联邦反歧视法律，确保所有学生享有平等的教育机会。"
+        },
+        "U.S. Department of Education Officials Travel to Vermont and West Virginia for 'History Shines' Civic Education Events": {
+            "title_cn": "美国教育部官员赴佛蒙特州和西弗吉尼亚州出席'历史闪耀'公民教育活动",
+            "summary_cn": "教育部官员前往佛蒙特州和西弗吉尼亚州推广'历史闪耀'公民教育项目。这些活动通过地方历史故事和互动体验，帮助学生建立对美国民主传统的认同感和参与度。"
+        },
+        "U.S. Department of Education and Department of the Treasury Announce Historic Partnership on Federal Student Aid": {
+            "title_cn": "美国教育部与财政部宣布建立历史性联邦学生援助合作伙伴关系",
+            "summary_cn": "教育部与财政部宣布建立新的合作伙伴关系，旨在简化和优化联邦学生援助项目。双方将共享资源和数据，提高援助发放的透明度和效率，确保符合条件的学生能够及时获得经济支持。"
         }
     },
     "whitehouse": {
@@ -119,6 +163,50 @@
         "Presidential Message on National Vietnam War Veterans Day": {
             "title_cn": "总统关于全国越南战争退伍军人日的致辞",
             "summary_cn": "特朗普总统发表致辞，纪念全国越南战争退伍军人日，向在越南战争中服役的退伍军人致敬。总统在致辞中感谢这些退伍军人为国家做出的牺牲和贡献，强调他们在美国历史中的重要地位。"
+        },
+        "President Trump Announces Appointments to the President's Council of Advisors on Science and Technology": {
+            "title_cn": "特朗普总统宣布任命总统科技顾问委员会新成员",
+            "summary_cn": "特朗普总统宣布任命多位杰出科学家和工程师加入总统科技顾问委员会（PCAST）。这些新成员将在人工智能、量子计算、生物技术等前沿领域为政府提供科学政策建议，推动美国科技创新领先地位。"
+        },
+        "Secretary Marlinde 'Mullin' Says She Will Fully Implement President Trump's Agenda": {
+            "title_cn": "马克韦恩·马林部长表示将全力落实特朗普总统施政议程",
+            "summary_cn": "新任命的教育部长马克韦恩·马林发表声明，承诺将全面执行特朗普总统的教育政策议程。她强调将重点关注学校选择、课程内容和教育效率，确保联邦教育资源更好地服务于学生和家长。"
+        },
+        "President Trump Extends Term of Federal Emergency Management Agency Review Board": {
+            "title_cn": "特朗普总统延长联邦应急管理局审查委员会任期",
+            "summary_cn": "特朗普总统签署行政命令，延长联邦应急管理局（FEMA）审查委员会的任期。该委员会负责评估和改进国家灾害应对机制，确保美国能够更有效地应对自然灾害和其他紧急情况。"
+        },
+        "President Trump's Message on Greek Independence Day": {
+            "title_cn": "特朗普总统发表希腊独立日贺词",
+            "summary_cn": "特朗普总统在希腊独立日发表贺词，祝贺希腊人民庆祝国家独立，并强调美希两国之间深厚的历史纽带和共同价值观。贺词中提到希腊民主传统对美国建国理念的重要影响。"
+        },
+        "President Trump's Message on National Agriculture Day": {
+            "title_cn": "特朗普总统发表全国农业日致辞",
+            "summary_cn": "特朗普总统在全国农业日发表致辞，感谢美国农民和农业从业者的辛勤工作。他强调了农业对国民经济和食品安全的重要性，并承诺政府将继续支持农村社区和农业发展。"
+        },
+        "First Lady Melania Trump Launches 'Building the Future' Initiative With 45 Nations at First Alliance Summit": {
+            "title_cn": "第一夫人梅拉尼娅·特朗普启动'共创未来'倡议 45国出席首届联盟峰会",
+            "summary_cn": "第一夫人梅拉尼娅·特朗普正式启动'共创未来'全球倡议，旨在支持儿童福祉和教育发展。首届联盟峰会吸引了45个国家代表出席，共同探讨国际合作改善儿童生活质量的路径。"
+        },
+        "President Trump's Message on the Anniversary of Patrick Henry's 'Give Me Liberty or Give Me Death' Speech": {
+            "title_cn": "特朗普总统就帕特里克·亨利'不自由毋宁死'演讲周年发表致辞",
+            "summary_cn": "特朗普总统在帕特里克·亨利著名演讲发表周年纪念之际发表致辞，回顾这一美国历史上的重要时刻。他强调了亨利演讲中所体现的自由精神对美国建国和持续发展的深远意义。"
+        },
+        "President Trump's 'Operation Memphis Safe Streets' Achieves Major Results in Fighting Crime": {
+            "title_cn": "特朗普总统'孟菲斯安全街道行动'打击犯罪取得重大成果",
+            "summary_cn": "白宫宣布'孟菲斯安全街道行动'取得显著成效，联邦和地方执法部门合作成功打击多项犯罪活动。该行动是特朗普政府减少暴力犯罪、恢复社区安全承诺的具体体现。"
+        },
+        "President Trump Signs S. 4138 Into Law": {
+            "title_cn": "特朗普总统签署S.4138号国会法案",
+            "summary_cn": "特朗普总统签署S.4138号法案成为法律。该法案涉及重要的联邦政策和支出调整，体现了国会两党合作推动立法进程的成果，将对相关领域产生直接影响。"
+        },
+        "Statement from the White House on the Department of Homeland Security Shutdown": {
+            "title_cn": "白宫就国土安全部停摆发表声明",
+            "summary_cn": "白宫就国土安全部资金问题发表声明，解释当前政府立场和应对措施。声明强调了维护国家安全部门正常运作的重要性，并表示正在努力解决资金争议以确保部门服务不中断。"
+        },
+        "President Trump Acts Where Democrats Refused — Bringing Relief to TSA Officers and Airline Travelers": {
+            "title_cn": "特朗普总统在民主党拒绝之处采取行动——为TSA官员和航空旅客带来 relief",
+            "summary_cn": "特朗普总统签署行政命令，为运输安全管理局（TSA）工作人员和航空旅客提供 relief 措施。白宫声明批评民主党在此问题上的不作为，强调总统通过行政手段确保航空安全和旅客便利的决心。"
         }
     },
     "ace": {
@@ -133,6 +221,14 @@
         "Court Order Delaying ACTS Deadline Applies Only to Public Institutions in 17 States": {
             "title_cn": "法院推迟ACTS截止日期的命令仅适用于17个州的公立院校",
             "summary_cn": "美国教育委员会（ACE）就法院推迟ACTS（招生与消费者透明度补充调查）截止日期的命令发布详细说明。ACE明确指出，该法院命令仅适用于17个州的公立高等院校，其他地区的高等教育机构仍需按原计划执行ACTS要求。ACTS是教育部IPEDS系统的补充调查，旨在收集更详细的招生和消费者透明度数据，包括学费、学生贷款、毕业率和就业结果等关键信息。法院此次限制性的裁决反映了法律挑战的复杂性，以及联邦教育数据收集政策在不同州面临的差异化执行环境。这一裁决源于部分州对联邦教育数据收集范围提出的法律质疑，认为某些数据要求超出了联邦法定权限。ACE建议各院校密切关注本州法律动态，在确保合规操作的同时，继续履行教育数据报告的基本义务。对于受影响的17个州公立院校，ACE建议与法律顾问合作，评估具体影响并制定应对策略。"
+        },
+        "ACE Joins Coalition Letter Calling for Repeal of Accreditation Requirement for Federal Funds Related to DEI": {
+            "title_cn": "ACE联合多协会呼吁撤销联邦资助DEI认证要求",
+            "summary_cn": "美国教育委员会（ACE）联合多个高等教育协会致函国会，呼吁撤销对多元化、公平和包容（DEI）倡议相关联邦资助的认证要求。各协会认为该要求侵犯了学术自由，限制了高校自主制定教育政策的权利，并可能对校园多元化努力产生寒蝉效应。"
+        },
+        "ACE Supports Legal Challenge to Extend ACTS Deadline": {
+            "title_cn": "ACE支持法律挑战以延长ACTS截止日期",
+            "summary_cn": "美国教育委员会（ACE）宣布支持针对ACTS（美国社区学院信托基金）认证截止日期延长的法律挑战。ACE认为当前截止日期过于紧迫，给许多社区学院带来了不必要的合规压力，呼吁给予更多时间来满足新的认证标准。"
         }
     },
     "nsf_ncses": {},
@@ -172,6 +268,42 @@
         "Key findings about Black immigrants in the U.S.": {
             "title_cn": "关于美国黑人移民的主要发现",
             "summary_cn": "皮尤研究中心研究显示，美国黑人移民群体自2000年以来增长逾一倍，2024年达到560万人，占美国黑人总人口的11.4%。该群体主要来源于非洲和加勒比地区。"
+        },
+        "Same-Sex Marriage Around the World: Netherlands Marks 25 Years Since First Legalization": {
+            "title_cn": "全球同性婚姻立法进展：荷兰开创先河25周年",
+            "summary_cn": "皮尤研究中心回顾全球同性婚姻合法化进程，纪念荷兰成为首个通过同性婚姻法律的国家25周年。研究分析了这一里程碑事件对全球LGBTQ+权利运动的影响，以及各国在婚姻平等方面取得的不同进展，反映了社会态度的深刻变迁。"
+        },
+        "Most Americans Oppose Military Action Against Iran": {
+            "title_cn": "多数美国民众反对对伊朗采取军事行动",
+            "summary_cn": "皮尤研究中心最新民调显示，大多数美国民众反对对伊朗采取军事打击。调查分析了民众对中东政策的态度，以及党派、年龄、教育背景等因素如何影响公众对军事行动的支持度，为理解美国外交政策的民意基础提供了重要参考。"
+        },
+        "America at 250: How the Country Has Changed Over 50 Years": {
+            "title_cn": "美国建国250周年：过去50年的社会变迁",
+            "summary_cn": "在美国即将迎来建国250周年之际，皮尤研究中心系统梳理了过去半个世纪美国社会、经济、文化的深刻变化。研究涵盖了人口结构、教育水平、技术普及、价值观念等多个维度，展现了一个国家如何在保持核心认同的同时经历转型。"
+        },
+        "Americans' Views on Racial Diversity": {
+            "title_cn": "美国民众对种族多元化的态度调查",
+            "summary_cn": "皮尤研究中心深入调查美国民众对种族多元化的看法和态度。研究发现不同族裔、党派、年龄群体对多元化的接受程度存在显著差异，反映了美国社会在种族关系问题上的复杂性和多样性，对理解当代美国社会分歧具有重要意义。"
+        },
+        "How Americans Get Their Breaking News": {
+            "title_cn": "美国民众突发新闻获取渠道调查",
+            "summary_cn": "皮尤研究中心调查分析了美国民众获取突发新闻的主要渠道。研究显示社交媒体已成为越来越多人的首选信息来源，但传统媒体仍保持重要地位。不同年龄、教育背景的群体在新闻消费习惯上存在明显差异，这对新闻传播策略具有重要启示。"
+        },
+        "Americans' Views on the Morality of Doctor-Assisted Suicide": {
+            "title_cn": "美国民众对安乐死道德观念调查",
+            "summary_cn": "皮尤研究中心就医生协助自杀的道德问题展开调查。结果显示美国民众在这一敏感议题上意见分歧，宗教信仰、政治倾向、个人经历等因素显著影响人们的道德判断。这一调查反映了美国社会在生命伦理问题上的复杂态度。"
+        },
+        "Key Facts About Black Immigrants in the U.S.": {
+            "title_cn": "美国黑人移民群体特征研究",
+            "summary_cn": "皮尤研究中心发布关于美国黑人移民群体的最新研究报告。该群体在教育水平、职业分布、地理分布等方面呈现出独特特征。研究揭示了黑人移民对美国多元文化社会的贡献，以及他们在融入过程中面临的机遇与挑战。"
+        },
+        "Do Americans Prefer a Bigger House or Better Neighborhood Amenities?": {
+            "title_cn": "美国民众居住偏好调查：大房子还是便利设施",
+            "summary_cn": "皮尤研究中心调查美国民众在住房选择上的偏好：是选择更大的居住空间，还是更看重社区配套设施。研究发现不同收入、年龄、家庭结构的人群存在显著差异，这些偏好也反映了美国人生活方式和价值观念的多元化。"
+        },
+        "Americans' Views on the Morality of Various Issues": {
+            "title_cn": "美国人的道德观念调查",
+            "summary_cn": "皮尤研究中心就一系列社会议题的道德性对美国民众进行调查。涵盖堕胎、死刑、同性婚姻、药物使用等多个敏感话题。结果显示美国社会在道德观念上日益多元化，宗教、政治、代际等因素深刻影响人们的道德判断标准。"
         }
     },
     "heritage": {
