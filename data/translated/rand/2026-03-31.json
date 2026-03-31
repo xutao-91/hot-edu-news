@@ -1,32 +1,32 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-03-30T20:00:29.831633",
+  "crawled_at": "2026-03-31T12:00:23.293274",
   "total_news": 2,
   "news": [
     {
-      "title": "K-12学校课程标准教学材料使用与科学实践：2025年春季美国教学资源调查结果",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4594-3.html",
-      "date": "Mar 27, 2026",
+      "title": "National Guard Youth ChalleNGe: Program Progress in 2024–2025",
+      "url": "https://www.rand.org/pubs/research_reports/RRA2120-3.html",
+      "date": "Mar 31, 2026",
       "type": "Research",
-      "summary_en": "In this report, the authors take stock of the use of instructional materials among kindergarten through grade 12 science teachers. The authors highlight the opportunities for adoption and implementation of standards-aligned instructional materials.",
-      "source": "Rand Corporation",
-      "category": "teachers",
-      "original_title": "Standards-Aligned Instructional Materials Use and Science Practices in K–12 Schools: Findings from the Spring 2025 American Instructional Resources Survey",
-      "summary_cn": "兰德公司发布基于2025年春季美国教学资源调查的重要研究报告，深入分析幼儿园至12年级科学教师使用符合课程标准的教学材料的情况。研究揭示了当前科学教育领域在采用和实施符合国家标准教学材料方面的现状、挑战和机遇。报告发现，尽管《下一代科学标准》等课程标准已明确，但许多学校在实际教学中仍面临教学材料选择困难、教师培训不足、资源配置不均、以及缺乏有效评估工具等问题。研究强调了采用高质量、符合标准的教学材料对提升学生科学素养、批判性思维能力和STEM职业准备的关键作用。调查数据来自全国数千名科学教师，涵盖不同地区、学校类型和学生群体的代表性样本。研究发现，使用标准一致教学材料的学校，学生在科学评估中表现更好，教师的教学信心也更高。报告还提出了改善教学材料使用、加强教师专业发展、优化资源配置、建立更有效的课程评估机制的政策建议，以及联邦和州政府在此过程中的角色定位。这些发现对推动美国K-12科学教育改革、提升STEM教育质量、培养未来科技创新人才具有重要参考价值，也为政策制定者提供了基于实证的决策依据。"
-    },
-    {
-      "title": "中国影响力行动对韩国及美韩联盟的影响",
-      "url": "https://www.rand.org/pubs/external_publications/EP71288.html",
-      "date": "Mar 27, 2026",
-      "type": "Research",
-      "summary_en": "Considering Chinese influence operations and their impacts on South Korean security and society.",
+      "summary_en": "The National Guard Youth ChalleNGe program serves young people ages 16 to 18 who risk not completing a high school credential. This report, the tenth in a series of annual updates, covers the program and the participants who entered during 2024.",
       "source": "Rand Corporation",
       "category": "general",
-      "original_title": "Implications of Chinese Influence Operations for South Korea and the US-ROK Alliance",
-      "summary_cn": "兰德公司研究报告深入分析中国影响力行动对韩国及美韩联盟的战略影响。研究指出，中国通过经济依赖、文化交流、网络舆论操控、精英渗透等多种渠道在韩国开展系统性的影响力行动，旨在削弱美韩联盟凝聚力、塑造有利于中国的地区舆论环境、阻止韩国部署萨德等美国军事资产、并在关键问题上影响韩国政策取向。这些行动包括利用中韩贸易关系施加政治压力、通过文化交流项目传播亲华叙事、在社交媒体上开展虚假信息战、以及培养亲华政商界人士。报告评估了这些影响力行动对美韩联盟安全、地区稳定和美国印太战略的潜在威胁，分析了韩国社会各界对中国影响力的不同反应和抵抗能力。研究发现，韩国年轻一代对中国的看法相对复杂，既重视经济合作又警惕安全威胁。报告还为美韩两国政府提出了加强联盟韧性、提升公众媒体素养、强化网络安全、以及协调应对外部影响力挑战的具体政策建议。研究对理解亚太地区地缘政治竞争、维护美国同盟体系、制定有效的对华政策具有重要意义，也为其他面临类似挑战的美国盟友提供了参考经验。"
+      "original_title": "National Guard Youth ChalleNGe: Program Progress in 2024–2025",
+      "summary_cn": "The National Guard Youth ChalleNGe program serves young people ages 16 to 18 who risk not completing a high school credential. This report, the tenth in a series of annual updates, covers the program and the participants who entered during 2024."
+    },
+    {
+      "title": "Research Security in Science and Technology",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4104-1.html",
+      "date": "Mar 31, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This paper describes research security and provides a framework to aid researchers, research institutions, and research funders in identifying, assessing, and managing risks associated with global scientific collaborations.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "Research Security in Science and Technology",
+      "summary_cn": "This paper describes research security and provides a framework to aid researchers, research institutions, and research funders in identifying, assessing, and managing risks associated with global scientific collaborations."
     }
   ],
-  "translated_count": 2,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 2
 }

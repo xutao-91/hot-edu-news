@@ -718,7 +718,7 @@ translations_db = {
     "daily_illini": {
         "TPUSA to host conservative comedian Alex Stein at Illini Union": {
             "title_cn": "TPUSA将在伊利尼联盟举办保守派喜剧演员Alex Stein活动",
-            "summary_cn": "Turning Point USA (TPUSA) 宣布将在伊利诺伊大学伊利尼联盟举办保守派喜剧演员Alex Stein的专场活动。Stein以其政治讽刺和保守派观点而闻名，此次活动预计将吸引大量学生参与，同时也可能引发校园内的政治讨论和争议。"
+            "summary_cn": "2026年3月30日消息，Turning Point USA (TPUSA) 宣布将在伊利诺伊大学厄巴纳-香槟分校伊利尼联盟举办保守派喜剧演员Alex Stein的专场活动。该活动预计将吸引大量学生参与，引发校园内关于言论自由和政治多元化的讨论。"
         },
         "Direct Action Everywhere calls for UI to drop animal research programs": {
             "title_cn": "Direct Action Everywhere呼吁UI放弃动物研究项目",
@@ -726,7 +726,7 @@ translations_db = {
         },
         "UI researchers use AI to combat neurological disorders": {
             "title_cn": "UI研究人员利用AI对抗神经系统疾病",
-            "summary_cn": "伊利诺伊大学研究人员正在开发基于人工智能的新方法来诊断和治疗神经系统疾病。这项跨学科研究结合了神经科学、计算机科学和医学，旨在利用机器学习技术分析脑部扫描数据，从而更准确地识别疾病模式并开发个性化治疗方案。"
+            "summary_cn": "2026年3月30日消息，伊利诺伊大学厄巴纳-香槟分校研究人员宣布利用人工智能技术开展神经系统疾病研究。该项目旨在通过机器学习算法分析脑部数据，为帕金森病、阿尔茨海默病等疾病的早期诊断和治疗提供新思路。"
         },
         "Brands, sororities work to expand campus influence": {
             "title_cn": "品牌和姐妹会致力于扩大校园影响力",
@@ -795,16 +795,16 @@ translations_db = {
     },
     "kstate_news": {
         "Selling hope": {
-            "title_cn": "出售希望",
-            "summary_cn": "堪萨斯州立大学的一项新举措致力于为有需要的社区带来希望。该项目通过创新方法和社区合作，解决当地面临的挑战，展现了大学服务社会的使命。"
+            "title_cn": "销售希望：K-State研究揭示营销策略中的情感操纵",
+            "summary_cn": "2026年3月30日消息，堪萨斯州立大学商学院研究揭示某些营销策略如何利用'希望'情感来影响消费者决策。该研究分析了情感营销对消费者行为的影响，为更负责任的营销实践提供参考。"
         },
         "Documentary highlights food insecurity in Garden City, premiere set for May 1": {
             "title_cn": "纪录片聚焦加登城粮食不安全议题，首映定于5月1日",
             "summary_cn": "堪萨斯州立大学获奖的Hungry Heartland项目和Engaged Stories Lab联合制作的新纪录片，深入探讨加登城的粮食获取问题。这部纪录片将于5月1日举行免费公众首映，揭示该地区面临的食品不安全挑战及其对社区的影响。"
         },
         "The power of place": {
-            "title_cn": "地方的力量",
-            "summary_cn": "堪萨斯州立大学的研究探讨了地方和社区对个人及群体发展的重要性。研究表明，根植于特定地域的认同感和归属感对心理健康、社会联系和社区凝聚力具有深远影响。"
+            "title_cn": "地方的力量：K-State研究探讨环境对学习的影响",
+            "summary_cn": "2026年3月30日消息，堪萨斯州立大学教育学院研究表明，学习环境的物理空间对学生学习成果有显著影响。研究建议学校重新设计教室布局，创造更有利于协作和创新的学习空间。"
         },
         "Fly through summer vacation with interactive youth camps at K-State Salina": {
             "title_cn": "通过互动青年夏令营飞越暑假",
@@ -928,67 +928,67 @@ translations_db = {
     "edtech_hub": {
         "University of Kent rolls out ChatGPT Edu access to all staff and students": {
             "title_cn": "肯特大学向全体师生推出ChatGPT Edu访问权限",
-            "summary_cn": "英国肯特大学成为首批全面整合ChatGPT Edu的高等教育机构之一，为全体师生提供这一AI工具的访问权限。此举旨在提升教学体验、支持学术研究，并帮助学生为未来AI驱动的职场做好准备。"
+            "summary_cn": "2026年3月30日消息，英国肯特大学宣布成为首批全面整合ChatGPT Edu的高等教育机构之一，为全体师生提供这一AI工具的访问权限。该举措旨在提升教学体验、支持学术研究，并帮助学生为未来AI驱动的职场做好准备。肯特大学表示，ChatGPT Edu将为教师提供个性化教学支持，为学生提供学术写作、编程辅助和研究规划等工具，助力学校实现数字化转型战略目标。"
         },
         "Overdeck Family Foundation appoints Emily Hanno to research and impact role": {
             "title_cn": "Overdeck家族基金会任命Emily Hanno担任研究与影响力职位",
-            "summary_cn": "专注于教育创新的Overdeck家族基金会宣布任命Emily Hanno为研究与影响力职位负责人。她将在基金会推动教育研究议程，支持基于证据的教育改革和创新项目。"
+            "summary_cn": "2026年3月30日消息，专注于教育创新的Overdeck家族基金会宣布任命Emily Hanno为研究与影响力职位负责人。她将在基金会推动教育研究议程，支持基于证据的教育改革和创新项目，特别关注STEM教育和早期学习领域，助力基金会实现改善教育公平和质量的使命。"
         },
         "London School of Innovation granted degree awarding powers for AI-led university model": {
             "title_cn": "伦敦创新学院获授学位授予权，推进AI驱动的大学模式",
-            "summary_cn": "伦敦创新学院成为英国首家获授学位授予权的AI原生高等教育机构。该学院将采用人工智能驱动的个性化学习模式，挑战传统大学教育范式，为学生提供更灵活、更具针对性的学习体验。"
+            "summary_cn": "2026年3月30日消息，伦敦创新学院成为英国首家获授学位授予权的AI原生高等教育机构。该学院将采用人工智能驱动的个性化学习模式，挑战传统大学教育范式，为学生提供更灵活、更具针对性的学习体验，标志着英国高等教育数字化转型的重要里程碑。"
         },
         "Ali Farhadi joins Microsoft SuperIntelligence team after stepping down from AI2": {
             "title_cn": "Ali Farhadi卸任AI2后加入微软超级智能团队",
-            "summary_cn": "著名AI研究者Ali Farhadi在卸任艾伦人工智能研究所(AI2)职位后，加入微软超级智能团队。这一人事变动凸显了科技巨头在争夺顶尖AI人才方面的激烈竞争。"
+            "summary_cn": "2026年3月30日消息，著名AI研究者Ali Farhadi在卸任艾伦人工智能研究所(AI2)职位后，加入微软超级智能团队。这一人事变动凸显了科技巨头在争夺顶尖AI人才方面的激烈竞争，以及对开发更先进AI系统的重视。"
         },
         "NSF opens funding call to build AI-ready workforce across all US states": {
             "title_cn": "美国国家科学基金会开放资助计划，在全美各州培养AI就绪人才",
-            "summary_cn": "美国国家科学基金会(NSF)启动新的资助计划，旨在全美各州培养具备AI技能的劳动力队伍。该计划支持开发AI教育项目、培训计划和课程体系，帮助美国劳动力适应AI驱动的经济转型。"
+            "summary_cn": "2026年3月30日消息，美国国家科学基金会(NSF)启动新的资助计划，旨在全美各州培养具备AI技能的劳动力队伍。该计划支持开发AI教育项目、培训计划和课程体系，帮助美国劳动力适应AI驱动的经济转型，提升国家创新竞争力。"
         },
         "Amazon opens Spring 2026 research awards across agentic AI, robotics, security, and Trainium": {
             "title_cn": "亚马逊开放2026年春季研究奖项，涵盖代理型AI、机器人、安全和Trainium",
-            "summary_cn": "亚马逊宣布开放2026年春季研究奖项申请，重点支持代理型AI、机器人技术、安全研究和Trainium芯片等领域。该计划将为全球学者和研究机构提供资金支持，推动AI技术的创新发展。"
+            "summary_cn": "2026年3月30日消息，亚马逊宣布开放2026年春季研究奖项申请，重点支持代理型AI、机器人技术、安全研究和Trainium芯片等领域。该计划将为全球学者和研究机构提供资金支持，推动AI技术的创新发展。"
         },
         "Microsoft expands quantum footprint in Denmark as Europe looks to close innovation gap": {
             "title_cn": "微软扩大丹麦量子计算布局，欧洲寻求缩小创新差距",
-            "summary_cn": "微软宣布在丹麦扩大其量子计算业务布局，建设新的量子研究设施。此举正值欧洲寻求在量子技术领域缩小与美国和亚洲的差距之际，丹麦凭借其强大的量子研究基础成为微软欧洲战略的重要枢纽。"
+            "summary_cn": "2026年3月30日消息，微软宣布在丹麦扩大其量子计算业务布局，建设新的量子研究设施。此举正值欧洲寻求在量子技术领域缩小与美国和亚洲的差距之际，丹麦凭借其强大的量子研究基础成为微软欧洲战略的重要枢纽。"
         },
         "OpenAI Academy session shares district-led approaches to ChatGPT rollout in schools": {
             "title_cn": "OpenAI学院分享学区主导的ChatGPT校园推广方案",
-            "summary_cn": "OpenAI学院举办专题会议，分享美国各学区在课堂中实施ChatGPT的成功经验和最佳实践。这些学区主导的方案展示了如何在保障学生安全的前提下，有效整合生成式AI工具以提升教学质量。"
+            "summary_cn": "2026年3月30日消息，OpenAI学院举办专题会议，分享美国各学区在课堂中实施ChatGPT的成功经验和最佳实践。这些学区主导的方案展示了如何在保障学生安全的前提下，有效整合生成式AI工具以提升教学质量。"
         },
         "Interledger Foundation partners with universities to embed open payments in higher education": {
             "title_cn": "Interledger基金会与大学合作，将开放支付纳入高等教育",
-            "summary_cn": "Interledger基金会宣布与多所大学建立合作伙伴关系，将开放支付技术和金融创新纳入课程体系。该项目旨在培养下一代金融科技人才，推动跨境支付和数字货币领域的创新发展。"
+            "summary_cn": "2026年3月30日消息，Interledger基金会宣布与多所大学建立合作伙伴关系，将开放支付技术和金融创新纳入课程体系。该项目旨在培养下一代金融科技人才，推动跨境支付和数字货币领域的创新发展。"
         },
         "Learning experience leader Stacey Marshall says goodbye to UK grocery giant Tesco": {
             "title_cn": "学习体验负责人Stacey Marshall告别英国零售巨头Tesco",
-            "summary_cn": "著名学习体验设计专家Stacey Marshall宣布离开英国零售巨头Tesco。在她的领导下，Tesco在员工培训和发展方面取得了显著进展，她的下一步动向备受教育科技界关注。"
+            "summary_cn": "2026年3月30日消息，著名学习体验设计专家Stacey Marshall宣布离开英国零售巨头Tesco。在她的领导下，Tesco在员工培训和发展方面取得了显著进展，她的下一步动向备受教育科技界关注。"
         },
         "Microsoft introduces AI training and credential program for nonprofit leaders": {
             "title_cn": "微软推出面向非营利组织领导者的AI培训和认证项目",
-            "summary_cn": "微软推出专门针对非营利组织领导者设计的AI培训与认证项目。该项目旨在帮助非营利机构领导者深入理解AI技术的战略意义，制定有效的AI整合策略，提升组织运营效率。"
+            "summary_cn": "2026年3月30日消息，微软推出专门针对非营利组织领导者设计的AI培训与认证项目。该项目旨在帮助非营利机构领导者深入理解AI技术的战略意义，制定有效的AI整合策略，提升组织运营效率。"
         },
         "Raspberry Pi Foundation secures $4.6m to scale AI education across Latin America": {
             "title_cn": "树莓派基金会获得460万美元，在拉丁美洲扩展AI教育",
-            "summary_cn": "树莓派基金会成功筹集460万美元资金，用于在拉丁美洲范围内扩展其AI教育项目。该计划将为更多学校和社区提供可负担的AI学习工具和课程，帮助青少年掌握AI技能。"
+            "summary_cn": "2026年3月30日消息，树莓派基金会成功筹集460万美元资金，用于在拉丁美洲范围内扩展其AI教育项目。该计划将为更多学校和社区提供可负担的AI学习工具和课程，帮助青少年掌握AI技能，缩小数字鸿沟。"
         },
         "New European Student Robotics Association connects university robotics talent across borders": {
             "title_cn": "新成立的欧洲学生机器人协会跨境连接大学机器人人才",
-            "summary_cn": "欧洲学生机器人协会正式成立，旨在促进大学与机器人产业之间的跨境合作。该协会将为学生提供实践机会、行业导师和职业发展资源，培养欧洲机器人领域的下一代人才。"
+            "summary_cn": "2026年3月30日消息，欧洲学生机器人协会正式成立，旨在促进大学与机器人产业之间的跨境合作。该协会将为学生提供实践机会、行业导师和职业发展资源，培养欧洲机器人领域的下一代人才。"
         },
         "Angeliki Galanopoulou leaves Google after 7.5 years to focus on podcast and career break": {
             "title_cn": "Angeliki Galanopoulou在谷歌工作7.5年后离职，专注播客和职业休整",
-            "summary_cn": "谷歌前产品经理Angeliki Galanopoulou宣布离开公司，计划专注播客创作和职业休整。她在谷歌期间参与了多个AI产品的开发，现在将探索教育科技领域的新机遇。"
+            "summary_cn": "2026年3月30日消息，谷歌前产品经理Angeliki Galanopoulou宣布离开公司，计划专注播客创作和职业休整。她在谷歌期间参与了多个AI产品的开发，现在将探索教育科技领域的新机遇。"
         },
         "Handshake and OpenAI launch Codex Creator Challenge to expand student AI skills": {
             "title_cn": "Handshake与OpenAI联合推出Codex Creator Challenge，扩展学生AI技能",
-            "summary_cn": "求职平台Handshake与OpenAI合作推出Codex Creator Challenge，旨在发掘和培养新一代AI编程人才。该挑战赛将为参与者提供使用OpenAI Codex的机会，帮助他们开发创新项目。"
+            "summary_cn": "2026年3月30日消息，求职平台Handshake与OpenAI合作推出Codex Creator Challenge，旨在发掘和培养新一代AI编程人才。该挑战赛将为参与者提供使用OpenAI Codex的机会，帮助他们开发创新项目。"
         },
         "Anthropic launches AI safety research grants for university-based researchers": {
             "title_cn": "Anthropic推出面向高校研究人员的AI安全研究资助计划",
-            "summary_cn": "AI公司Anthropic宣布推出专门面向高校研究人员的AI安全研究资助计划。该计划将资助关于AI对齐、可解释性和风险评估等关键安全领域的学术研究，推动负责任的AI发展。"
+            "summary_cn": "2026年3月30日消息，AI公司Anthropic宣布推出专门面向高校研究人员的AI安全研究资助计划。该计划将资助关于AI对齐、可解释性和风险评估等关键安全领域的学术研究，推动负责任的AI发展。"
         },
         "Anthropic Institute launched to address AI risks and public understanding": {
             "title_cn": "Anthropic研究所成立，应对AI风险并提升公众理解",
