@@ -562,6 +562,12 @@ translations_db = {
             "title_cn": "对牛有益，对公鸡更好",
             "summary_cn": "堪萨斯州立大学的研究揭示了畜牧管理实践如何同时惠及不同种类的农场动物。这一发现对可持续农业和动物福利具有重要启示，展示了综合农业系统的潜在优势。"
         }
+    },
+    "mtu_news": {
+        "A Place To Grow: MTU Biomedical Micro-Devices Lab Asks Simple Questions, Makes Big Connections": {
+            "title_cn": "成长之地：MTU生物医学微器件实验室提出简单问题",
+            "summary_cn": "密歇根理工大学生物医学微器件实验室致力于通过提出简单但深刻的问题来推动科研创新。该实验室的研究人员相信，有时最基本的疑问能够引导出最突破性的发现，这种方法论在生物医学工程领域已取得显著成果。"
+        }
     }
 }
 def translate_source(source_name):
@@ -630,7 +636,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news']
     
     for source in sources:
         translate_source(source)
