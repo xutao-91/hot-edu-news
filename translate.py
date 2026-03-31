@@ -614,6 +614,12 @@ translations_db = {
             "title_cn": "四名Huskers赢得Roper体育写作奖",
             "summary_cn": "内布拉斯加大学林肯分校的四名学生赢得Roper体育写作奖，表彰他们在体育新闻写作方面的卓越才能。这一荣誉展示了大学在培养体育传媒人才方面的成功。"
         }
+    },
+    "wayne_news": {
+        "Red Wings donation powers new research tools for Wayne State physical therapy program": {
+            "title_cn": "红翼队捐赠为韦恩州立大学研究提供新工具",
+            "summary_cn": "底特律红翼队向韦恩州立大学捐赠，用于购买新的研究设备和工具。这项捐赠将支持该校在相关领域的研究工作，为学生和教职员工提供更好的科研条件，体现了社区合作伙伴对高等教育的支持。"
+        }
     }
 }
 def translate_source(source_name):
@@ -682,7 +688,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news']
     
     for source in sources:
         translate_source(source)
