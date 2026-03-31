@@ -109,7 +109,8 @@ def generate_html():
         'northwestern_news': {'name': 'Northwestern News', 'color': '#4E2A84'},
         'daily_illini': {'name': 'Daily Illini', 'color': '#13294B'},
         'uic_today': {'name': 'UIC Today', 'color': '#001E62'},
-        'slu_news': {'name': 'SLU News', 'color': '#003DA5'}
+        'slu_news': {'name': 'SLU News', 'color': '#003DA5'},
+        'uiowa_now': {'name': 'UIowa Now', 'color': '#FFCD00'}
     }
     
     all_articles = []
