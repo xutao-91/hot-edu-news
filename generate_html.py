@@ -105,7 +105,8 @@ def generate_html():
         'washu_source': {'name': 'WashU Source', 'color': '#A51417'},
         'studlife': {'name': 'Student Life', 'color': '#154734'},
         'washu_engineering': {'name': 'WashU Engineering', 'color': '#A51417'},
-        'uchicago_news': {'name': 'UChicago News', 'color': '#800000'}
+        'uchicago_news': {'name': 'UChicago News', 'color': '#800000'},
+        'northwestern_news': {'name': 'Northwestern News', 'color': '#4E2A84'}
     }
     
     all_articles = []

@@ -1,9 +1,18 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-30T12:00:09.919992",
-  "total_news": 4,
+  "crawled_at": "2026-03-30T20:00:15.990236",
+  "total_news": 5,
   "news": [
+    {
+      "title": "President Trump Acts Where Democrats Refused — Bringing Relief to TSA Workers and Travelers",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-acts-where-democrats-refused-bringing-relief-to-tsa-workers-and-travelers/",
+      "date": "March 30, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump Acts Where Democrats Refused — Bringing Relief to TSA Workers and Travelers",
+      "summary_cn": ""
+    },
     {
       "title": "总统关于全国越南战争退伍军人日的致辞",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-national-vietnam-war-veterans-day/",
@@ -42,5 +51,5 @@
     }
   ],
   "translated_count": 4,
-  "missing_count": 0
+  "missing_count": 1
 }
