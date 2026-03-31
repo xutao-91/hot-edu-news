@@ -1,0 +1,26 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-03-30T14:13:55.731063",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "A Notre Dame Senior’s Commitment to Community Health: Mason Cohen",
+      "url": "https://science.nd.edu/news-and-media/news/a-notre-dame-seniors-commitment-to-community-health-mason-cohen/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "health"
+    },
+    {
+      "title": "Beyond the Minor: Finding Purpose in Research Through Patient Advocacy",
+      "url": "https://science.nd.edu/news-and-media/news/beyond-the-minor-finding-purpose-in-research-through-patient-advocacy/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    }
+  ]
+}

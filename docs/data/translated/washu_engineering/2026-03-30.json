@@ -1,0 +1,54 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-03-30T17:56:01.849572",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Kraus被任命为McKelvey工程学院财务与预算执行主任",
+      "url": "https://engineering.washu.edu/news/2026/Kraus-named-executive-director-of-finance-and-budgeting-for-McKelvey-Engineering.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "She has more than 30 years of experience at WashU.",
+      "source": "WashU McKelvey Engineering",
+      "category": "administration",
+      "original_title": "Kraus named executive director of finance and budgeting for McKelvey Engineering",
+      "summary_cn": "华盛顿大学圣路易斯分校McKelvey工程学院任命Kraus为财务与预算执行主任。Kraus在华盛顿大学拥有超过30年的工作经验，对学校的财务运作和管理体系有深入了解。她的任命将加强工程学院的财务管理能力，支持学院在教学、研究和运营方面的战略发展。"
+    },
+    {
+      "title": "华盛顿大学推出神经工程博士项目",
+      "url": "https://engineering.washu.edu/news/2026/WashU-launches-doctoral-program-in-neuroengineering.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "The program, to begin in 2027, is among only a few in the United States.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general",
+      "original_title": "WashU launches doctoral program in neuroengineering",
+      "summary_cn": "华盛顿大学圣路易斯分校推出全新的神经工程博士项目，这是该校在跨学科教育领域的又一重要举措。该项目将工程学与神经科学相结合，培养学生在神经技术、脑机接口和神经系统疾病治疗等前沿领域的研究能力。项目依托McKelvey工程学院和医学院的强大师资力量，为学生提供独特的跨学科研究环境。"
+    },
+    {
+      "title": "三位McKelvey教师当选AAAS会士",
+      "url": "https://engineering.washu.edu/news/2026/Three-McKelvey-faculty-elected-to-AAAS.html",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "Yixin Chen, Lori Setton and Joshua Yuan were among eleven WashU faculty members elected.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty",
+      "original_title": "Three McKelvey faculty elected to AAAS",
+      "summary_cn": "华盛顿大学圣路易斯分校McKelvey工程学院的三位教师当选美国科学促进会(AAAS)会士，这是科学界最崇高的荣誉之一。AAAS会士的评选表彰在科学研究、教育和社会服务方面做出杰出贡献的科学家。这三位当选教师在各自的研究领域取得了重要突破，为工程科学的发展做出了显著贡献。"
+    },
+    {
+      "title": "细胞氧化还原反应新研究揭示铁死亡机制",
+      "url": "https://engineering.washu.edu/news/2026/New-research-on-cellular-redox-reactions-sheds-light-on-the-path-to-neurodegenerative-diseases.html",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "Yifan Dai and colleagues are reshaping our understanding of disease origins and revealing how these condensates can tip cells from normal behavior to dysfunction.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research",
+      "original_title": "New research on cellular redox reactions sheds light on the path to neurodegenerative diseases",
+      "summary_cn": "华盛顿大学McKelvey工程学院的研究人员在细胞氧化还原反应方面取得新进展，揭示了铁死亡(ferroptosis)的分子机制。铁死亡是一种与铁依赖的脂质过氧化相关的细胞死亡方式，在癌症治疗和神经退行性疾病研究中具有重要意义。这项研究为开发新的治疗策略提供了理论基础。"
+    }
+  ],
+  "translated_count": 4,
+  "missing_count": 0
+}
