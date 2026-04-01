@@ -795,28 +795,28 @@ translations_db = {
     },
     "kstate_news": {
         "Selling hope": {
-            "title_cn": "销售希望：K-State研究揭示情感营销策略",
-            "summary_cn": "2026年3月30日消息，堪萨斯州立大学商学院市场营销系教授Lisa Smith在《消费者研究杂志》发表研究，揭示某些营销策略如何利用'希望'情感来影响消费者决策。研究通过5项实验发现，当消费者感到无助时，含有希望元素的广告更能促使他们购买产品。Smith教授指出，这种'希望营销'在保健品和金融服务领域尤为常见。研究建议消费者提高警惕，营销从业者应更负责任地使用情感诉求。"
+            "title_cn": "销售希望",
+            "summary_cn": "2026年3月30日消息，堪萨斯州立大学大三学生Jonathan Maka主修市场营销，辅修农业销售。作为一名来自刚果民主共和国的孤儿，他的梦想是为孤儿和低收入家庭儿童建立非营利学校。2022年，Maka被选为曼德拉华盛顿奖学金获得者，在K-State学习公民参与六周。在校期间他结识了曾在金沙萨美国学校任教的Karen和Rod Friends夫妇。回到刚果后，Maka开展了免费英语课程项目，为期三个月教授了数十名学生。Maka表示：'有效的销售始于相信你销售的东西。对我来说，这种信念不是关于产品或利润率，而是关于销售希望。'他现在学习的销售技能将帮助他未来为非营利学校筹集支持和资源，他还希望将农业培训融入学校，教授学生通过食品生产和社区农业实现自给自足。"
         },
         "Documentary highlights food insecurity in Garden City, premiere set for May 1": {
-            "title_cn": "纪录片聚焦加登城粮食不安全议题，首映定于5月1日",
-            "summary_cn": "2026年3月消息，堪萨斯州立大学获奖的Hungry Heartland项目和Engaged Stories Lab联合制作的新纪录片，深入探讨加登城的粮食获取问题。这部纪录片将于5月1日举行免费公众首映，揭示该地区面临的食品不安全挑战及其对社区的影响。"
+            "title_cn": "纪录片聚焦Garden City粮食不安全问题，首映定于5月1日",
+            "summary_cn": "2026年3月30日消息，堪萨斯州立大学获奖项目Hungry Heartland Project和Engaged Stories Lab制作的新纪录片《Sharing the Harvest》聚焦于Garden City的粮食获取问题。该纪录片重点介绍了当地组织和社区领袖如何努力弥合面临粮食不安全的家庭的差距，包括Emmaus House（当地食品储藏室、庇护所和施粥所）、La Comunidad教堂的移动食品储藏室和Kansas Food Bank。该片由传媒学院副教授Tom Hallaq和社会转型研究系教授Valerie Padilla Carroll联合制作，三名由Chapman农村研究中心资助的学生实习生提供了研究和制作支持。Hallaq表示：'这个项目代表了跨学科叙事的力量。'免费首映式将于5月1日下午1点在Hale Library 581室举行，随后将进行问答环节。"
         },
         "The power of place": {
-            "title_cn": "地方的力量：K-State研究探讨物理环境对学习的影响",
-            "summary_cn": "2026年3月30日消息，堪萨斯州立大学教育学院教授Rachel Adams在《学习环境杂志》发表研究，表明学习环境的物理空间对学生学习成果有显著影响。研究对比了传统教室与创新学习空间的效果，发现自然采光、灵活布局和协作区域能提升学生参与度和学业表现。Adams建议学校投资教室 redesign，创造更有利于21世纪技能培养的学习环境。该研究获得堪萨斯州教育委员会资助。"
+            "title_cn": "场所的力量",
+            "summary_cn": "2026年3月30日消息，堪萨斯州立大学Justin Hall和Bluemont Hall之间新装修的户外空间为学生提供了吊床、野餐桌以及放松、学习和社交的场所。健康与人类科学学院院长Brad Behnke表示：'当我们考虑为学生创造校园空间时，我们必须有目的地思考场所的理念。'该空间由Behnke和教育学院院长Debbie Mercer合作开发，得到了校园修复计划以及捐赠者Carl和Mary Ice、Steve和Cathy Lacy的支持。新装修的户外空间现设有带三张桌子的碎石野餐露台，以及可悬挂多达10个吊床的柱子。学生可以在Bluemont和Justin Hall的前台借用吊床和毯子。春季晚些时候，该空间还将增设一个石灰岩'自拍椅'。启动活动将于3月31日下午2点至3点30分举行，提供免费Kona Ice雪锥、Lacy's Fresh Fare and Catering美食和K-State Day of Giving周边商品。"
         },
         "Fly through summer vacation with interactive youth camps at K-State Salina": {
-            "title_cn": "通过互动青年夏令营飞越暑假",
-            "summary_cn": "2026年3月消息，堪萨斯州立大学将在暑假期间举办一系列互动青年夏令营活动。这些营地项目为学生提供了探索科学、技术、工程和数学(STEM)领域的机会，通过动手实践和趣味活动激发年轻人的学习兴趣。"
+            "title_cn": "在K-State Salina互动青年营地度过暑假",
+            "summary_cn": "2026年3月30日消息，今年夏天，青少年有机会与堪萨斯州立大学Salina分校的航空和技术专家一起探索令人兴奋的STEM世界。K-State Salina大学前路径主任Monte Couchman表示：'这些暑期项目以有趣和互动的环境教育和激励青少年。'三个营地包括：Wildcat Explorers Camp（5月26日，四年级至六年级学生，限20人，报名截止5月1日）；Wildcat Innovators Camp（5月27-29日，七年级至八年级学生，三天STEM和航空沉浸式体验，限20人，报名截止5月1日）；K-State Aviation Academy（6月21-27日，15-17岁对航空感兴趣的学生，限10人，报名截止5月15日）。参与者的活动包括学习无人机日常应用、使用3D模拟工具构建游戏、设计和构建工程项目、学习飞行基础知识、使用飞行模拟器、参观航空维护机库，以及在Stearman Field体验越野飞行。"
         },
         "People with Purpose: Shirley Tung": {
             "title_cn": "有目标的人：Shirley Tung",
-            "summary_cn": "2026年3月消息，堪萨斯州立大学人物专栏介绍了Shirley Tung的故事，她通过自己的工作展现了目标和热情如何推动个人成就和社区贡献。Tung的经历激励着校园内外的其他人追求自己的使命。"
+            "summary_cn": "2026年3月30日消息，Shirley Tung是堪萨斯州立大学英语系副教授、大学杰出学者，她研究当今的文化动态如何反映在数百年前的文学作品中。Tung表示：'我希望更多人知道，当教授至少是三个不同工作的综合体。'这些'三份工作'都需要不同的技能组合，有时还相互矛盾。研究工作涉及长时间独自搜寻历史档案和深入参与专业学术研究；教学工作则需要精力、创造力和亲和力，使小众话题对普通观众变得易懂、有趣和难忘；服务工作还需要组织和行政技能进行战略规划、问题解决和政策制定。她通过创建尊重的和社区导向的课堂环境与学生的建立联系。Tung获得Big 12教师奖学金资助她关于17和18世纪文学的研究。她还与全球学者合作，从牛津大学Keio大学。她认为，在政治分裂和人工智能崛起的时代，文学让我们重新接触到超越文化和时间的普遍人性。"
         },
         "Aiming for the win": {
             "title_cn": "瞄准胜利",
-            "summary_cn": "2026年3月消息，堪萨斯州立大学的体育团队和学生运动员正在为即将到来的比赛做准备，展现了对卓越的追求和团队精神。文章探讨了竞技体育如何培养学生运动员的领导力、韧性和团队合作能力。"
+            "summary_cn": "2026年3月30日消息，对于来自威斯康星州Menomonie的堪萨斯州立大学学生Olivia Burstad来说，她的运动看起来与大多数学生运动员不同——没有球、没有场地或球场，而是有她的马和 firearm 的竞技场。Burstad参加的是马术射击比赛，这是一项计时赛事，要求骑手在极速穿越赛道的同时向气球目标射击。她的祖父已参赛超过20年，Burstad从13岁开始参赛。今年，Burstad和她的新马Ninja赢得了Western North Central Regionals的Limited Champion头衔，以48.949秒的最快时间和最佳准确率获胜。Cowboy Mounted Shooting Association负责监督计分和级别晋升，骑手从一级开始，通过获得合格胜利晋升。作为动物科学与产业专业的学生，Burstad将课程安排在周二和周四，以便周末参加比赛。她还在暑假期间获得了K-State校友、马术射击教练Dave Hassett的实习机会。"
         },
         "Data, disease and the future of livestock: Statewide summit April 29 to unite leaders in animal health": {
             "title_cn": "数据、疾病与牲畜的未来：全州峰会探讨动物健康问题",
