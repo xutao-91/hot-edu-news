@@ -5,7 +5,7 @@
   "total_news": 5,
   "news": [
     {
-      "title": "在数字欺骗时代生存",
+      "title": "在数字欺骗时代生存：识别深度伪造与虚假信息",
       "url": "https://news.uchicago.edu/surviving-age-digital-deception",
       "date": "2026-03-30",
       "type": "News",
@@ -13,7 +13,7 @@
       "source": "UChicago News",
       "category": "technology",
       "original_title": "Surviving the Age of Digital Deception",
-      "summary_cn": "2026年3月30日消息，芝加哥大学研究人员探讨在深度伪造和数字操纵技术日益普及的时代，如何识别和应对虚假信息。研究建议加强媒体素养教育，培养批判性思维能力。"
+      "summary_cn": "2026年3月30日消息，芝加哥大学计算机科学系与新闻学院联合发布研究报告，探讨在深度伪造（deepfake）和AI生成内容泛滥的时代如何识别虚假信息。研究负责人、芝加哥大学麦考密克工程学院教授Ben Zhao指出，当前技术已能生成几乎无法分辨的假视频和假音频。报告建议加强媒体素养教育，开发AI检测工具，并建立数字内容认证标准。该研究获得美国国家科学基金会（NSF）120万美元资助。"
     },
     {
       "title": "教授社交情感技能，机器人需要假装是人类吗？",
@@ -24,7 +24,7 @@
       "source": "UChicago News",
       "category": "ai",
       "original_title": "To teach social-emotional skills, does a robot need to pretend to be human?",
-      "summary_cn": "2026年3月消息，芝加哥大学科学家与芝加哥公立学校合作开展研究，测试机器人在教学过程中是否需要虚构人格才能有效教授社交情感技能。研究发现，具有拟人化特征的机器人可能更有利于学生参与和情感连接，但也引发了关于人工智能在教育中角色的伦理讨论。"
+      "summary_cn": "2026年3月30日消息，芝加哥大学发展心理学教授Daphna Buchsbaum与芝加哥公立学校合作开展研究，测试机器人在教学过程中是否需要虚构人格才能有效教授儿童社交情感技能。研究发现，具有拟人化特征的机器人（如能表达'情感'、使用第一人称）更有利于学生参与和学习。该研究发表在《儿童发展》期刊，为教育机器人设计提供了重要参考。"
     },
     {
       "title": "上帝与比特币：为什么一些基督徒全力投资加密货币",
