@@ -1,0 +1,36 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-01T12:00:24.405520",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "U.S.-style birthright citizenship is uncommon around the world",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/31/us-style-birthright-citizenship-is-uncommon-around-the-world/",
+      "date": "Mar 31, 2026",
+      "type": "short reads",
+      "categories": [
+        "Citizenship",
+        "Immigration Migration",
+        "Legal Immigration"
+      ],
+      "summary_en": "32 other countries around the world have birthright citizenship laws that are substantially similar to the U.S. Another 50 or so countries have more limited variations of birthright citizenship.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "About 9% of U.S. births in 2023 were to unauthorized or temporary legal immigrant mothers",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/31/about-9-of-us-births-in-2023-were-to-unauthorized-or-temporary-legal-immigrant-mothers/",
+      "date": "Mar 31, 2026",
+      "type": "short reads",
+      "categories": [
+        "Citizenship",
+        "Immigration Issues",
+        "Racial Ethnic Groups"
+      ],
+      "summary_en": "Generally, the trends in births to unauthorized immigrants follow the growth and decline of the unauthorized immigrant population.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

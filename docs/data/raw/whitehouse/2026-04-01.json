@@ -1,0 +1,50 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-04-01T12:00:10.121342",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-ensures-citizenship-verification-and-voter-eligibility-in-federal-elections/",
+      "date": "March 31, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/",
+      "date": "March 31, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Ended Democrats’ “Transgender for Everybody” Insanity",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-ended-democrats-transgender-for-everybody-insanity/",
+      "date": "March 31, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Working Families Tax Cuts (Which Every Democrat Opposed) Is Delivering Historic Relief",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trumps-working-families-tax-cuts-which-every-democrat-opposed-is-delivering-historic-relief/",
+      "date": "March 31, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Acts Where Democrats Refused — Bringing Relief to TSA Workers and Travelers",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-acts-where-democrats-refused-bringing-relief-to-tsa-workers-and-travelers/",
+      "date": "March 30, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Vietnam War Veterans Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/03/presidential-message-on-national-vietnam-war-veterans-day/",
+      "date": "March 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}
