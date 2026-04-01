@@ -765,12 +765,12 @@ translations_db = {
     },
     "ku_news": {
         "KU Law to honor distinguished alumni": {
-            "title_cn": "堪萨斯大学法学院表彰杰出校友",
-            "summary_cn": "2026年3月消息，堪萨斯大学法学院将举行年度颁奖典礼，表彰在法律领域做出杰出贡献的校友。这一传统活动旨在认可校友们在法律实践、公共服务和学术研究方面的卓越成就，同时激励在校学生追求法律职业的卓越。"
+            "title_cn": "KU法学院将表彰杰出校友",
+            "summary_cn": "2026年3月30日消息，堪萨斯大学法学院将于4月18日在劳伦斯举行私人晚宴，授予Judge Dan Crabtree、Steve Leben和Diane Parrish 2026年杰出校友奖。该奖项表彰毕业生的专业成就、对法律领域的贡献以及对社区和大学的服务。Dan Crabtree（1981届）在Stinson LLP执业32年，2013年经奥巴马总统提名担任堪萨斯州联邦地区法院法官，2014年确认，2025年获得高级法官资格。Steve Leben（1982届）现任密苏里大学堪萨斯城分校法学院Douglas R. Stripp密苏里杰出法学教授，2007-2020年担任堪萨斯州上诉法院法官，撰写了超过1000份意见书，曾获William H. Rehnquist司法卓越奖。Diane Parrish（1979届）职业生涯始于Shook, Hardy & Bacon律所，后投身非营利组织，2024年出版首部小说《Something Better》，获Pacific Book Awards女性小说一等奖。"
         },
         "Inaugural Hanzlik Memorial Lecture set for April 2 at KU School of Pharmacy": {
             "title_cn": "首届Hanzlik纪念讲座定于4月2日在KU药学院举行",
-            "summary_cn": "2026年3月消息，堪萨斯大学药学院将举办首届Robert P. Hanzlik纪念讲座，特邀前KU教职员工Gunda Georg主讲。讲座将于4月2日下午4点举行，旨在纪念Hanzlik教授在药学教育和研究领域的贡献。"
+            "summary_cn": "2026年3月30日消息，堪萨斯大学药学院将于4月2日下午4点举办首届Robert P. Hanzlik纪念讲座，纪念2025年去世的药物化学系长期 faculty member Hanzlik。讲座将在药学院1020室举行，也可通过Microsoft Teams在线参加，下午3:30开始提供茶点。主讲人是Gunda Georg，她是前KU教职员工（1983-2006），国际知名研究人员。Georg将发表题为'YCT-529的发现与开发：靶向视黄酸信号通路实现有效可逆口服避孕'的演讲，基于2025年发表在《自然》期刊的研究。该讲座系列旨在纪念Hanzlik近五十年来对KU的服务，以及他在药物化学、化学毒理学领域的广泛影响。Hanzlik深受尊敬，作为导师和教育者培养了几代药剂师、医生、研究生和青年教师。"
         },
         "With history standards prone to politicization, ‘minimalism’ approach would benefit teachers, scholar argues": {
             "title_cn": "面对历史课程标准政治化，'极简主义'是更好的替代方案",
@@ -791,6 +791,10 @@ translations_db = {
         "KU Staff Senate announces inaugural awards": {
             "title_cn": "KU教职员工参议院宣布首届奖项",
             "summary_cn": "2026年3月消息，堪萨斯大学教职员工参议院宣布将设立首届奖项，表彰在各自岗位上做出杰出贡献的教职员工。这一新设立的奖项计划旨在认可和支持KU员工群体的努力和成就，提升校园社区的凝聚力。"
+        },
+        "With history standards prone to politicization, 'minimalism' approach would benefit teachers, scholar argues": {
+            "title_cn": "学者认为，面对历史标准易受政治化影响，'极简主义'方法将使教师受益",
+            "summary_cn": "2026年3月30日消息，堪萨斯大学教育领导与政策研究助理教授Stephen Jackson在《美国历史期刊》发表新研究，认为历史教育标准容易受到公开政治化影响，最好的处理方式是'标准极简主义'。Jackson指出，自1980年代以来，美国教育问责运动推动各州制定教学标准，但历史学科难以标准化，更容易被政治化。他表示：'没有太多证据表明自80年代以来这些标准改善了历史教育，却有很多证据表明它们让文化战争变得更糟。'教师尤其是职业生涯早期或需要教授非专业科目的教师，依赖这些标准指导教学内容。然而，政治家和特殊利益集团越来越多地制定边缘化专家意见的标准。Jackson认为堪萨斯州和缅因州提供了最佳范例。堪萨斯州的标准仅包含五项简单标准，包括'选择有后果'和'个人有权利和责任'。缅因州的标准则侧重于帮助学生成为'自主终身学习者'和'负责任积极参与的公民'。"
         }
     },
     "kstate_news": {
