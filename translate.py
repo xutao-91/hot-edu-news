@@ -587,8 +587,8 @@ translations_db = {
     },
     "notre_dame": {
         "Vice president and associate provost Rev. Daniel Groody, C.S.C., appointed by Pope Leo XIV to Dicastery for Promoting Integral Human Development": {
-            "title_cn": "副校长兼副教务长Groody神父探讨移民与全球团结",
-            "summary_cn": "2026年3月消息，圣母大学副校长兼副教务长Daniel Groody神父就移民问题和全球团结发表见解。作为圣母大学全球事务学院的核心领导成员，Groody神父致力于推动大学在全球研究、跨文化对话和国际合作方面的使命。他的工作强调在全球化背景下促进人类团结和社会正义的重要性，特别是在移民、难民和相关政策领域。通过学术研究、教学和公共服务，Groody神父为圣母大学在全球事务领域的影响力作出了重要贡献。"
+            "title_cn": "副校长兼副教务长Daniel Groody神父被教宗利奥十四世任命为促进整体人类发展部成员",
+            "summary_cn": "2026年3月30日消息，教宗利奥十四世任命圣母大学负责本科教育的副校长兼副教务长、神学与全球事务教授Daniel Groody神父为促进整体人类发展部成员。该部门由已故教宗方济各于2016年建立，支持教会在人类尊严与人权、经济正义、关爱受造界、移民与流离失所以及和平、冲突和人道主义危机等领域的全球努力。圣母大学校长Robert A. Dowd神父表示：'被圣座召叫以这种身份服务，证明了Groody神父对服务最弱势群体的深刻承诺。'Groody是移民问题国际知名专家，著有四本书，作品被翻译成九种语言。他最近的书《移民神学：难民的身体与基督的身体》获得天主教新闻协会一等奖。"
         },
         "‘All of us are called to be peacemakers’: University President Rev. Robert A. Dowd, C.S.C., celebrates Mass for peace": {
             "title_cn": "'我们都被召唤成为和平使者'：圣母大学校长Dowd神父主持和平弥撒",
@@ -611,8 +611,8 @@ translations_db = {
     },
     "mendoza": {
         "Handpumps bring water to rural African communities, but many are broken – study models how best to maintain them": {
-            "title_cn": "手压水泵为非洲农村社区供水，但许多已损坏——研究建模如何最佳维护",
-            "summary_cn": "2026年3月消息，圣母大学门多萨商学院运营管理研究团队开展了一项关于非洲农村供水系统维护的研究。研究发现，尽管手压水泵为农村社区提供了重要的饮用水源，但由于缺乏有效的维护机制，许多水泵已经损坏或无法正常工作。研究团队开发了数学模型，分析非政府组织（NGO）如何最优地管理和维护这些农村供水系统，以确保水资源的可持续供应。该研究为改善发展中国家农村地区的基础设施管理提供了重要见解，展示了商学院研究在解决全球社会挑战方面的应用价值。"
+            "title_cn": "手摇泵为非洲农村社区供水，但许多已损坏——研究模拟如何最好地维护",
+            "summary_cn": "2026年3月29日消息，圣母大学门多萨商学院运营管理研究团队调查非政府组织如何管理和维护非洲农村水系统。撒哈拉以南非洲的手摇泵为超过1.84亿人提供地下水，但研究发现在使用的50万至130万台手摇泵中至少有10万台无法运行。研究团队分析了埃塞俄比亚、马拉维和中非共和国的3584台手摇泵数据，发现定期维护可将停机时间减少多达60%。研究人员使用动态数学优化模型，利用过去十年的47000条记录来预测泵何时可能故障。研究表明，定期维护不会比不维护花费更多，因为预防性维护可防止未来难以修复且成本更高的大故障。"
         },
         "New Executive in Residence program bridges classroom and boardroom": {
             "title_cn": "新驻校高管项目架起课堂与董事会的桥梁",
@@ -625,14 +625,18 @@ translations_db = {
             "summary_cn": "2026年3月消息，圣母大学理学院大四学生Mason Cohen致力于社区健康服务。他积极参与'覆盖物狂热'（Mulch Madness）等年度铅中毒预防项目，为南本德社区的居民提供帮助。Cohen的工作体现了圣母大学学生将科学知识与社会服务相结合的精神，通过实际行动改善社区健康状况。他的故事展示了理学院学生在课堂学习之外，如何通过志愿服务和公民参与来回馈社会，践行圣母大学'培养心灵、心智和双手'的教育使命。"
         },
         "Beyond the Minor: Finding Purpose in Research Through Patient Advocacy": {
-            "title_cn": "超越辅修：通过患者互动在研究中寻找目标",
-            "summary_cn": "2026年3月消息，圣母大学理学院学生分享通过辅修课程和患者互动在研究中找到人生目标的经历。文章探讨了如何将学术研究与实际患者护理相结合，如何在科学探索中发现个人使命。学生们通过参与临床研究、与患者交流，不仅深化了对科学知识的理解，也培养了同理心和社会责任感。这种跨学科的学习体验帮助学生明确职业方向，将个人发展与服务他人相结合，体现了圣母大学理学院在培养全面发展科学家方面的教育理念。"
+            "title_cn": "超越辅修：通过患者倡导在研究中找到目标",
+            "summary_cn": "2026年3月27日消息，圣母大学理学院2025届毕业生Mackenzie Kelleher在哈佛大学生物与生物医学科学博士项目开始前，分享了她在科学与患者倡导辅修项目中的经历。Kelleher在大二时加入该项目，当时她刚接触本科生研究。她通过MSPA课程了解罕见病社区，学习与患者直接互动。她最喜欢的课程之一是与患者配对，了解他们的故事并以创意方式分享。她在大四担任MSPA同伴领袖，负责社交媒体宣传。Kelleher表示：'我与患者和家庭的对话每天激励我在罕见病的生物学理解上继续前进。'她目前在哈佛进行实验室轮转，其中两个实验室专注于罕见病或罕见癌症研究。"
+        },
+        "A Notre Dame Senior's Commitment to Community Health: Mason Cohen": {
+            "title_cn": "圣母大学大四学生对社区健康的承诺：Mason Cohen",
+            "summary_cn": "2026年3月30日消息，圣母大学理学院大四学生Mason Cohen主修神经科学与行为学和拉丁裔研究，他致力于社区健康服务，领导'Mulch Madness'年度铅中毒预防项目。该项目于2026年3月28日在Back the Bend期间举行，为South Bend近西北社区居民提供免费覆盖物服务，帮助缓解铅暴露。Cohen还参与多项研究：大一在心理学教授Bradley Gibson的注意、记忆与感知实验室工作；后加入心理学助理教授Jenny Padilla的拉丁裔青少年、兄弟姐妹与家庭实验室；大二暑假在宾夕法尼亚大学生物统计学研究项目中受2013届圣母大学毕业生Nicholas Seewald教授指导；大三暑假在Weill Cornell Medicine生物精神病学实验室完成研究实习，导师Conor Liston博士邀请他毕业后回实验室担任全职研究技术员。Cohen毕业后将在康奈尔做博士后工作，目标是上医学院。"
         }
     },
     "msoe": {
         "MSOE names Dr. Joe Tranquillo as Executive Vice President of Academics": {
             "title_cn": "MSOE任命Joe Tranquillo博士为学术执行副校长",
-            "summary_cn": "2026年3月30日消息，密尔沃基工程学院（MSOE）宣布任命Joe Tranquillo博士为学术执行副校长。Tranquillo此前在巴克内尔大学担任工程学院院长，拥有生物医学工程背景，发表超过100篇学术论文。他将负责监督MSOE全部学术项目，包括工程、护理和商业学院。MSOE校长John Walz表示，Tranquillo的研究型大学经验将助力MSOE提升研究水平，同时保持其以实践为导向的教育特色。"
+            "summary_cn": "2026年3月30日消息，密尔沃基工程学院（MSOE）任命Joe Tranquillo博士为学术执行副校长，于2026年7月1日生效。Tranquillo来自巴克内尔大学，现任变革性教学与学习副教务长和生物医学工程教授。他是巴克内尔生物医学工程项目的第一位直接聘用人员，该项目已发展到9名教师和约120名学生，五次被《美国新闻与世界报道》评为本科生物医学工程项目第一名。Tranquillo是美国工程教育学会（ASEE）、美国医学与生物工程学会（AIMBE）和生物医学工程学会（BMES）会士，IEEE高级会员。他获得多项荣誉，包括国家生物医学工程教学奖、ASEE Theo Pilkington杰出教育家奖。他撰写了五本书，发表超过200篇文章，与本科生合作的工作曾被Discovery Channel、TEDx、盖茨基金会、谷歌、LinkedIn和CNN Health报道。"
         },
         "Graduate student wins national competition in Cold-Formed Steel Design": {
             "title_cn": "研究生在冷弯型钢设计全国竞赛中获胜",
@@ -673,6 +677,10 @@ translations_db = {
         "Spring 2026 Student Union election names new leadership and denies EST block funding": {
             "title_cn": "2026年春季学生会选举产生新领导层并推进三项公投",
             "summary_cn": "2026年3月消息，华盛顿大学圣路易斯分校2026年春季学生会选举圆满结束，选举产生了新一届领导层，同时通过了三项学生公投。选举结果反映了学生群体对校园事务的参与热情，新当选的领导团队将在未来任期内代表学生利益，推动校园政策和学生服务项目的发展。"
+        },
+        "CEO of The Atlantic encourages 'engaged optimism' about AI in WashU talk": {
+            "title_cn": "《大西洋月刊》首席执行官在WashU演讲中鼓励对AI保持'积极乐观的参与态度'",
+            "summary_cn": "2026年3月29日消息，《大西洋月刊》首席执行官、前《连线》杂志主编Nicholas Thompson作为WashU +AI Perspectives Week的一部分，于3月25日向满座的WashU学生和社区成员分享了他对AI的看法。Thompson通过11个关于AI的问题和六项原则框架进行分析，既表达了对AI的乐观态度，也提出了警告。他鼓励学生使用AI工具，但提醒不要用它取代重要的人类技能。他说：'每次你将任务卸载给AI，你都在削弱自己身体的肌肉。如果你削弱的技能实际上是思考、解决逻辑问题和处理重要事务呢？'他还表达了对AI开发者不完全理解其模型运作方式的担忧。他采访了Sam Altman和Dario Amodei，他们承认不知道AI模型如何产生智能。尽管承认AI带来的焦虑，他鼓励听众不要成为'悲观者'，20多岁的年轻人将成为AI时代的主宰。"
         }
     },
     "washu_engineering": {
