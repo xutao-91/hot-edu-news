@@ -1,9 +1,36 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-03-31T12:00:11.422254",
-  "total_news": 4,
+  "crawled_at": "2026-03-31T20:00:14.458476",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-ensures-citizenship-verification-and-voter-eligibility-in-federal-elections/",
+      "date": "March 31, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House",
+      "original_title": "Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections",
+      "summary_cn": ""
+    },
+    {
+      "title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/",
+      "date": "March 31, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+      "summary_cn": ""
+    },
+    {
+      "title": "President Trump Ended Democrats’ “Transgender for Everybody” Insanity",
+      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-ended-democrats-transgender-for-everybody-insanity/",
+      "date": "March 31, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump Ended Democrats’ “Transgender for Everybody” Insanity",
+      "summary_cn": ""
+    },
     {
       "title": "President Trump’s Working Families Tax Cuts (Which Every Democrat Opposed) Is Delivering Historic Relief",
       "url": "https://www.whitehouse.gov/releases/2026/03/president-trumps-working-families-tax-cuts-which-every-democrat-opposed-is-delivering-historic-relief/",
@@ -42,5 +69,5 @@
     }
   ],
   "translated_count": 3,
-  "missing_count": 1
+  "missing_count": 4
 }
