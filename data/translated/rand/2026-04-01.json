@@ -1,9 +1,20 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-03-31T20:00:22.912882",
-  "total_news": 2,
+  "crawled_at": "2026-04-01T20:50:11.609066",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Missingness",
+      "url": "https://www.rand.org/pubs/external_publications/EP71281.html",
+      "date": "Apr 1, 2026",
+      "type": "Research",
+      "summary_en": "We propose bounds on causal effects for missing outcomes, accommodating the scenario where missingness is an unobserved mixture of informative and non-informative components.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Missingness",
+      "summary_cn": "We propose bounds on causal effects for missing outcomes, accommodating the scenario where missingness is an unobserved mixture of informative and non-informative components."
+    },
     {
       "title": "National Guard Youth ChalleNGe: Program Progress in 2024–2025",
       "url": "https://www.rand.org/pubs/research_reports/RRA2120-3.html",
@@ -28,5 +39,5 @@
     }
   ],
   "translated_count": 0,
-  "missing_count": 2
+  "missing_count": 3
 }
