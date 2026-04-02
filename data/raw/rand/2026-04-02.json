@@ -1,7 +1,7 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-04-01T20:50:11.609066",
+  "crawled_at": "2026-04-02T02:08:41.512537",
   "total_news": 3,
   "news": [
     {
@@ -11,9 +11,7 @@
       "type": "Research",
       "summary_en": "We propose bounds on causal effects for missing outcomes, accommodating the scenario where missingness is an unobserved mixture of informative and non-informative components.",
       "source": "Rand Corporation",
-      "category": "general",
-      "original_title": "Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Missingness",
-      "summary_cn": "We propose bounds on causal effects for missing outcomes, accommodating the scenario where missingness is an unobserved mixture of informative and non-informative components."
+      "category": "general"
     },
     {
       "title": "National Guard Youth ChalleNGe: Program Progress in 2024–2025",
@@ -22,9 +20,7 @@
       "type": "Research",
       "summary_en": "The National Guard Youth ChalleNGe program serves young people ages 16 to 18 who risk not completing a high school credential. This report, the tenth in a series of annual updates, covers the program and the participants who entered during 2024.",
       "source": "Rand Corporation",
-      "category": "general",
-      "original_title": "National Guard Youth ChalleNGe: Program Progress in 2024–2025",
-      "summary_cn": "The National Guard Youth ChalleNGe program serves young people ages 16 to 18 who risk not completing a high school credential. This report, the tenth in a series of annual updates, covers the program and the participants who entered during 2024."
+      "category": "general"
     },
     {
       "title": "Research Security in Science and Technology",
@@ -33,11 +29,7 @@
       "type": "Expert Insights",
       "summary_en": "This paper describes research security and provides a framework to aid researchers, research institutions, and research funders in identifying, assessing, and managing risks associated with global scientific collaborations.",
       "source": "Rand Corporation",
-      "category": "ai_technology",
-      "original_title": "Research Security in Science and Technology",
-      "summary_cn": "This paper describes research security and provides a framework to aid researchers, research institutions, and research funders in identifying, assessing, and managing risks associated with global scientific collaborations."
+      "category": "ai_technology"
     }
-  ],
-  "translated_count": 0,
-  "missing_count": 3
+  ]
 }
