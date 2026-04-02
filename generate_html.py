@@ -388,8 +388,8 @@ def generate_html():
         category = get_category_name(article.get('category', 'general'))
         source_name = article.get('_source_name', '')
         source_color = article.get('_source_color', '#666')
-        title = article.get('title', '')
-        original_title = article.get('original_title', '')
+        title = article.get('title_cn', article.get('title', ''))
+        original_title = article.get('original_title', article.get('title', ''))
         summary = article.get('summary_cn', article.get('summary_en', ''))
         url = article.get('url', '')
         
