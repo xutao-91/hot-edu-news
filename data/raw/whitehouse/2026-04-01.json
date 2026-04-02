@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-01T12:00:10.121342",
-  "total_news": 6,
+  "crawled_at": "2026-04-01T20:00:09.416188",
+  "total_news": 7,
   "news": [
+    {
+      "title": "President Trump’s Clear and Unchanging Objectives Drive Decisive Success Against Iranian Regime",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-clear-and-unchanging-objectives-drive-decisive-success-against-iranian-regime/",
+      "date": "April 1, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-ensures-citizenship-verification-and-voter-eligibility-in-federal-elections/",

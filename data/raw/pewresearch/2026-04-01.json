@@ -1,9 +1,24 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-04-01T12:00:24.405520",
-  "total_news": 2,
+  "crawled_at": "2026-04-01T20:00:23.485253",
+  "total_news": 3,
   "news": [
+    {
+      "title": "How Americans view Trump’s handling of trade and tariffs",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/01/how-americans-view-trumps-handling-of-trade-and-tariffs/",
+      "date": "Apr 1, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Global Economy Trade",
+        "Global Trade",
+        "International Affairs"
+      ],
+      "summary_en": "Nearly six-in-ten U.S. adults are not confident that Trump can make good decisions about trade policy. Views of trade between the U.S. and China, Canada and Mexico have shifted since 2025.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "U.S.-style birthright citizenship is uncommon around the world",
       "url": "https://www.pewresearch.org/short-reads/2026/03/31/us-style-birthright-citizenship-is-uncommon-around-the-world/",
