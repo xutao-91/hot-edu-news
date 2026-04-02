@@ -157,8 +157,10 @@ def generate_html():
     # 按日期倒序排列
     all_articles.sort(key=lambda x: x['_sort_date'], reverse=True)
     
-    # 只保留最近4天的文章（3月28-31日）
-    cutoff_date = '2026-03-28'
+    # 只保留最近4天的文章
+    today = datetime.now()
+    cutoff = today - timedelta(days=4)
+    cutoff_date = cutoff.strftime('%Y-%m-%d')
     all_articles = [a for a in all_articles if a['_sort_date'] >= cutoff_date]
     
     # 生成HTML
