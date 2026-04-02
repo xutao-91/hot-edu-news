@@ -211,7 +211,7 @@
         }
         
         @media (min-width: 901px) {
-            .mobile-summary {
+            .mobile-summary, .mobile-summary-row {
                 display: none !important;
             }
         }
@@ -1234,28 +1234,35 @@
     <script>
         // 移动端点击展开摘要
         document.addEventListener('DOMContentLoaded', function() {
-            const rows = document.querySelectorAll('tbody tr');
+            const rows = document.querySelectorAll('tbody tr:not(.mobile-summary-row)');
             
             rows.forEach(row => {
                 row.addEventListener('click', function(e) {
                     // 如果点击的是链接，不触发展开
                     if (e.target.tagName === 'A') return;
                     
+                    // 找到对应的摘要行（下一行）
+                    const summaryRow = this.nextElementSibling;
+                    if (!summaryRow || !summaryRow.classList.contains('mobile-summary-row')) return;
+                    
+                    const mobileSummary = summaryRow.querySelector('.mobile-summary');
+                    if (!mobileSummary) return;
+                    
                     // 切换展开状态
                     const isExpanded = this.classList.contains('expanded');
                     
-                    // 关闭其他已展开的行
-                    rows.forEach(r => {
+                    // 关闭所有已展开的行
+                    document.querySelectorAll('tbody tr.expanded').forEach(r => {
                         r.classList.remove('expanded');
-                        const mobileSum = r.querySelector('.mobile-summary');
-                        if (mobileSum) mobileSum.classList.remove('show');
+                    });
+                    document.querySelectorAll('.mobile-summary.show').forEach(s => {
+                        s.classList.remove('show');
                     });
                     
                     // 如果没有展开，则展开当前行
                     if (!isExpanded) {
                         this.classList.add('expanded');
-                        const mobileSum = this.querySelector('.mobile-summary');
-                        if (mobileSum) mobileSum.classList.add('show');
+                        mobileSummary.classList.add('show');
                     }
                 });
             });
