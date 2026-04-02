@@ -1,0 +1,58 @@
+{
+  "source": "The Daily Illini",
+  "source_url": "https://dailyillini.com/news-stories/university-news/",
+  "crawled_at": "2026-03-30T20:31:03.856001",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "TPUSA将邀请保守派喜剧演员Alex Stein在Illini Union举办活动",
+      "url": "https://dailyillini.com/news-stories/university-news/campus-events/2026/03/30/alex-stein-illini-union/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "author": "Mary Piacente",
+      "source": "Daily Illini",
+      "category": "general",
+      "original_title": "TPUSA to host conservative comedian Alex Stein at Illini Union",
+      "summary_cn": "2026年3月30日消息，伊利诺伊大学Turning Point USA分会将于4月1日晚7点在Illini Union A室举办免费的问答活动，邀请右翼媒体人Alex Stein。Stein主持YouTube系列节目'Prime Time with Alex Stein'，该频道拥有近40万订阅者。他以'恶搞'抗议者和在纽约市议会会议上发表惊人言论而闻名。2023年，Stein因在美国国会大厦台阶上对众议员Alexandria Ocasio-Cortez大喊'辱骂性、性别歧视、厌女、骚扰和种族主义的个人蔑称'而成为头条新闻，随后他起诉了Ocasio-Cortez，因为她在个人X账号上屏蔽了Stein。该活动是TPUSA'Pick Up the Mic'系列的一部分，该系列旨在提升大学分会活动，强调开放对话和互动问答，以纪念已故的TPUSA创始人Charlie Kirk。"
+    },
+    {
+      "title": "Direct Action Everywhere呼吁UI停止动物研究项目",
+      "url": "https://dailyillini.com/news-stories/university-news/research/2026/03/30/direct-action-everywhere-animal-research/",
+      "date": "2026-03-30",
+      "type": "News",
+      "summary_en": "",
+      "author": "Annisyn Krebs-Carr, Adam Edwards, Aidan Miller-Hisgen, Patrick Herr",
+      "source": "Daily Illini",
+      "category": "research",
+      "original_title": "Direct Action Everywhere calls for UI to drop animal research programs",
+      "summary_cn": "2026年3月30日消息，动物权利活动组织Direct Action Everywhere（DxE）伊利诺伊分会正积极努力促使伊利诺伊大学停止其动物研究项目。该组织联合创始人Ilir Sulejmani和Haley Gibbs表示，他们的五年目标是让大学系统停止动物实验。UI的动物研究项目主要在农业、消费者与环境科学学院和兽医学院下进行，包括Beef and Sheep Research Field Laboratory、Orr Beef Research Center和Swine Research Center等。大学研究和创新副校长办公室表示，动物研究按照公共卫生服务政策进行。然而，DxE指出过去十年存在违反《动物福利法》的情况，包括2015年一头奶牛死亡、四头被安乐死的事件。DxE的长期目标是通过《动物权利法案》实现动物解放。该组织还与Slaughter Free Network Chicago合作，并针对威斯康星州Ridglan Farms（比格犬繁殖场）开展多年活动，该农场最终同意关闭繁殖项目。"
+    },
+    {
+      "title": "UI研究人员利用AI对抗神经系统疾病",
+      "url": "https://dailyillini.com/news-stories/university-news/research/2026/03/29/ui-researchers-ai-neurological-disorders/",
+      "date": "2026-03-29",
+      "type": "News",
+      "summary_en": "",
+      "author": "Daniel Zamora, Ruby Devaisher, Sahaana Sathyaraj",
+      "source": "Daily Illini",
+      "category": "research",
+      "original_title": "UI researchers use AI to combat neurological disorders",
+      "summary_cn": "2026年3月29日消息，Carle Illinois医学院的研究人员正在使用人工智能探索识别神经系统疾病治疗方法。在埃默里大学研究人员的支持下，他们的重点是利用AI预测哪些药物更有可能穿透血脑屏障，这是有效治疗神经系统疾病的重要障碍，如他们在2025年发表的文章中所述。医学研究生Megan Lim是该论文的第一作者，她讨论了使用计算技术进行药物发现的理由。她表示：'当你进行机器学习和深度学习时，你可以一次筛选数千种化合物，看它们是否能穿过血脑屏障。'研究使用迁移学习技术，以89.08%的准确率预测了血脑屏障的通透性。Lim表示，研究人员还考虑用体内和体外实验验证计算结果。她希望未来继续弥合计算化学和神经外科之间的差距。"
+    },
+    {
+      "title": "品牌和姐妹会致力于扩大校园影响力",
+      "url": "https://dailyillini.com/life_and_culture-stories/education-campus-life/2026/03/27/brands-sororities-expand-campus-influence/",
+      "date": "2026-03-27",
+      "type": "News",
+      "summary_en": "",
+      "author": "Sofía Boddy",
+      "source": "Daily Illini",
+      "category": "campus",
+      "original_title": "Brands, sororities work to expand campus influence",
+      "summary_cn": "2026年3月消息，各大品牌和希腊生活组织（姐妹会）正在努力扩大其在伊利诺伊大学校园的影响力。这些组织通过举办活动、提供赞助和建立合作伙伴关系，积极吸引学生参与。这一现象反映了商业利益与校园文化的深度交织，引发了关于学生消费主义和校园文化商业化的讨论。"
+    }
+  ],
+  "translated_count": 4,
+  "missing_count": 0
+}
