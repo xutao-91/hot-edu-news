@@ -1,7 +1,17 @@
 {
   "source": "Heritage Foundation - Education",
   "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-04-02T09:03:23.576468",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-02T12:00:16.432294",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The Gatekeepers Are Failing: Why We Must Reform Higher Education Accreditation.",
+      "url": "https://www.heritage.org/education/commentary/the-gatekeepers-are-failing-why-we-must-reform-higher-education-accreditation",
+      "date": "Apr 1, 2026",
+      "type": "Commentary",
+      "read_time": "4 min",
+      "source": "Heritage Foundation",
+      "category": "ai_technology"
+    }
+  ]
 }

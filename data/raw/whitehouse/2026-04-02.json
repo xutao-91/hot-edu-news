@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-02T09:03:09.412675",
-  "total_news": 7,
+  "crawled_at": "2026-04-02T12:00:10.932289",
+  "total_news": 8,
   "news": [
+    {
+      "title": "First Lady Melania Trump Advances Efforts in Fourth Ukraine – Russia Child Reunification",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-advances-efforts-in-fourth-ukraine-russia-child-reunification/",
+      "date": "April 2, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "President Trump Delivers Powerful Primetime Address on Operation Epic Fury",
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-delivers-powerful-primetime-address-on-operation-epic-fury/",
