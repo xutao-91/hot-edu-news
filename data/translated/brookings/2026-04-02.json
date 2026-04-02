@@ -1,43 +1,43 @@
 {
-  "source": "Brookings Institution - Education",
-  "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-02T10:48:22.458050",
-  "total_news": 3,
-  "news": [
-    {
-      "title": "Generation AI starts early: A guide to technologies already shaping young children’s lives",
-      "url": "https://www.brookings.edu/articles/generation-ai-starts-early-a-guide-to-technologies-already-shaping-young-childrens-lives/",
-      "author": "Sweta Shah",
-      "date": "April 1, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "k12",
-      "original_title": "Generation AI starts early: A guide to technologies already shaping young children’s lives",
-      "summary_cn": ""
-    },
-    {
-      "title": "What are community college bachelor’s degrees and how much do their graduates earn?",
-      "url": "https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/",
-      "author": "Riley Acton, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCamila Morales, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKalena Cortes, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJulia A. Turner, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLois Miller",
-      "date": "March 31, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "higher_ed",
-      "original_title": "What are community college bachelor’s degrees and how much do their graduates earn?",
-      "summary_cn": ""
-    },
-    {
-      "title": "Federal and state policies targeting immigrant children at school erode decades of progress in education access",
-      "url": "https://www.brookings.edu/articles/federal-and-state-policies-targeting-immigrant-children-at-school-erode-decades-of-progress-in-education-access/",
-      "author": "Cori Alonso-Yoder",
-      "date": "March 30, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "policy",
-      "original_title": "Federal and state policies targeting immigrant children at school erode decades of progress in education access",
-      "summary_cn": ""
-    }
-  ],
-  "translated_count": 0,
-  "missing_count": 3
+    "source": "Brookings Institution - Education",
+    "source_url": "https://www.brookings.edu/topics/education-2/",
+    "crawled_at": "2026-04-02T10:48:22.458050",
+    "total_news": 3,
+    "news": [
+        {
+            "title": "Generation AI starts early: A guide to technologies already shaping young children’s lives",
+            "url": "https://www.brookings.edu/articles/generation-ai-starts-early-a-guide-to-technologies-already-shaping-young-childrens-lives/",
+            "author": "Sweta Shah",
+            "date": "April 1, 2026",
+            "summary_en": "",
+            "source": "Brookings Institution",
+            "category": "k12",
+            "original_title": "Generation AI starts early: A guide to technologies already shaping young children’s lives",
+            "summary_cn": "2026年4月1日消息，随着人工智能技术的快速发展，越来越多的AI应用正在进入幼儿的生活。从智能玩具到教育应用，这些技术正在改变儿童学习和玩耍的方式。本指南详细分析了各种AI技术对幼儿发展的影响，为家长和教育工作者提供了实用的建议。"
+        },
+        {
+            "title": "What are community college bachelor’s degrees and how much do their graduates earn?",
+            "url": "https://www.brookings.edu/articles/what-are-community-college-bachelors-degrees-and-how-much-do-their-graduates-earn/",
+            "author": "Riley Acton, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCamila Morales, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKalena Cortes, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJulia A. Turner, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLois Miller",
+            "date": "March 31, 2026",
+            "summary_en": "",
+            "source": "Brookings Institution",
+            "category": "higher_ed",
+            "original_title": "What are community college bachelor’s degrees and how much do their graduates earn?",
+            "summary_cn": "2026年3月31日消息，社区学院学士学位（CCB）正在成为美国高等教育的重要组成部分。本文研究了24个允许社区学院授予学士学位的州的数据，发现CCB毕业生比同校同专业的副学士学位持有者年收入高4,000-9,000美元。"
+        },
+        {
+            "title": "Federal and state policies targeting immigrant children at school erode decades of progress in education access",
+            "url": "https://www.brookings.edu/articles/federal-and-state-policies-targeting-immigrant-children-at-school-erode-decades-of-progress-in-education-access/",
+            "author": "Cori Alonso-Yoder",
+            "date": "March 30, 2026",
+            "summary_en": "",
+            "source": "Brookings Institution",
+            "category": "policy",
+            "original_title": "Federal and state policies targeting immigrant children at school erode decades of progress in education access",
+            "summary_cn": ""
+        }
+    ],
+    "translated_count": 0,
+    "missing_count": 3
 }
