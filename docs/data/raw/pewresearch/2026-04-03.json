@@ -1,0 +1,65 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-03T12:00:22.051383",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Americans’ Shifting Views on Energy Issues",
+      "url": "https://www.pewresearch.org/science/2026/04/03/americans-shifting-views-on-energy-issues/",
+      "date": "Apr 3, 2026",
+      "type": "report",
+      "categories": [
+        "Climate Energy Environment",
+        "Energy",
+        "Science Issues"
+      ],
+      "summary_en": "The share of Republicans who say the country should prioritize oil, coal and natural gas over wind and solar power has doubled to 71% over the last six years.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "How Americans view Trump’s handling of trade and tariffs",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/01/how-americans-view-trumps-handling-of-trade-and-tariffs/",
+      "date": "Apr 1, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Global Economy Trade",
+        "Global Trade",
+        "International Affairs"
+      ],
+      "summary_en": "Nearly six-in-ten U.S. adults are not confident that Trump can make good decisions about trade policy. Views of trade between the U.S. and China, Canada and Mexico have shifted since 2025.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "U.S.-style birthright citizenship is uncommon around the world",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/31/us-style-birthright-citizenship-is-uncommon-around-the-world/",
+      "date": "Mar 31, 2026",
+      "type": "short reads",
+      "categories": [
+        "Citizenship",
+        "Immigration Migration",
+        "Legal Immigration"
+      ],
+      "summary_en": "32 other countries around the world have birthright citizenship laws that are substantially similar to the U.S. Another 50 or so countries have more limited variations of birthright citizenship.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "About 9% of U.S. births in 2023 were to unauthorized or temporary legal immigrant mothers",
+      "url": "https://www.pewresearch.org/short-reads/2026/03/31/about-9-of-us-births-in-2023-were-to-unauthorized-or-temporary-legal-immigrant-mothers/",
+      "date": "Mar 31, 2026",
+      "type": "short reads",
+      "categories": [
+        "Citizenship",
+        "Immigration Issues",
+        "Racial Ethnic Groups"
+      ],
+      "summary_en": "Generally, the trends in births to unauthorized immigrants follow the growth and decline of the unauthorized immigrant population.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}
