@@ -1,9 +1,58 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-02T12:00:10.932289",
-  "total_news": 8,
+  "crawled_at": "2026-04-02T20:00:08.697269",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message on the Anniversary of the Death of Pope Saint John Paul II",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-the-anniversary-of-the-death-of-pope-saint-john-paul-ii/",
+      "date": "April 2, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "America is Winning Once Again a Year After Liberation Day",
+      "url": "https://www.whitehouse.gov/releases/2026/04/america-is-winning-once-again-a-year-after-liberation-day/",
+      "date": "April 2, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Adjusting Imports of Pharmaceuticals and Pharmaceutical Ingredients into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/adjusting-imports-of-pharmaceuticals-and-pharmaceutical-ingredients-into-the-united-states/",
+      "date": "April 2, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Strengthening Actions Taken to Adjust Imports of Aluminum, Steel, and Copper Into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/",
+      "date": "April 2, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Patented Pharmaceutical Products",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-patented-pharmaceutical-products/",
+      "date": "April 2, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Strengthens Tariffs on Steel, Aluminum, and Copper Imports",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-strengthens-tariffs-on-steel-aluminum-and-copper-imports/",
+      "date": "April 2, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Autism Awareness Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-autism-awareness-day/",
+      "date": "April 2, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "First Lady Melania Trump Advances Efforts in Fourth Ukraine – Russia Child Reunification",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-advances-efforts-in-fourth-ukraine-russia-child-reunification/",
@@ -22,41 +71,6 @@
       "title": "President Trump’s Clear and Unchanging Objectives Drive Decisive Success Against Iranian Regime",
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-clear-and-unchanging-objectives-drive-decisive-success-against-iranian-regime/",
       "date": "April 1, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Ensures Citizenship Verification and Voter Eligibility in Federal Elections",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/03/fact-sheet-president-donald-j-trump-ensures-citizenship-verification-and-voter-eligibility-in-federal-elections/",
-      "date": "March 31, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/03/ensuring-citizenship-verification-and-integrity-in-federal-elections/",
-      "date": "March 31, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump Ended Democrats’ “Transgender for Everybody” Insanity",
-      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-ended-democrats-transgender-for-everybody-insanity/",
-      "date": "March 31, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump’s Working Families Tax Cuts (Which Every Democrat Opposed) Is Delivering Historic Relief",
-      "url": "https://www.whitehouse.gov/releases/2026/03/president-trumps-working-families-tax-cuts-which-every-democrat-opposed-is-delivering-historic-relief/",
-      "date": "March 31, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump Acts Where Democrats Refused — Bringing Relief to TSA Workers and Travelers",
-      "url": "https://www.whitehouse.gov/releases/2026/03/president-trump-acts-where-democrats-refused-bringing-relief-to-tsa-workers-and-travelers/",
-      "date": "March 30, 2026",
       "category": "Releases",
       "source": "The White House"
     }
