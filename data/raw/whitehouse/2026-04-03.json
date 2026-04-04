@@ -1,9 +1,30 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-03T12:00:08.858991",
+  "crawled_at": "2026-04-03T20:00:08.161990",
   "total_news": 10,
   "news": [
+    {
+      "title": "Urgent National Action to Save College Sports",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/urgent-national-action-to-save-college-sports/",
+      "date": "April 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Liberating the Department of Homeland Security From the Democrat-Caused Shutdown",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/liberating-the-department-of-homeland-security-from-the-democrat-caused-shutdown/",
+      "date": "April 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Takes Urgent National Action to Save College Sports",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-takes-urgent-national-action-to-save-college-sports/",
+      "date": "April 3, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
     {
       "title": "Strong March Jobs Report Signals Accelerating Momentum Under President Trump",
       "url": "https://www.whitehouse.gov/releases/2026/04/strong-march-jobs-report-signals-accelerating-momentum-under-president-trump/",
@@ -51,27 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/strengthening-actions-taken-to-adjust-imports-of-aluminum-steel-and-copper-into-the-united-states/",
       "date": "April 2, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Patented Pharmaceutical Products",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-patented-pharmaceutical-products/",
-      "date": "April 2, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Strengthens Tariffs on Steel, Aluminum, and Copper Imports",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-strengthens-tariffs-on-steel-aluminum-and-copper-imports/",
-      "date": "April 2, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on Autism Awareness Day",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-autism-awareness-day/",
-      "date": "April 2, 2026",
-      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]
