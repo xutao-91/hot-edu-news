@@ -1,0 +1,22 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-05T12:00:23.715602",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Americans’ Shifting Views on Energy Issues",
+      "url": "https://www.pewresearch.org/science/2026/04/03/americans-shifting-views-on-energy-issues/",
+      "date": "Apr 3, 2026",
+      "type": "report",
+      "categories": [
+        "Climate Energy Environment",
+        "Energy",
+        "Science Issues"
+      ],
+      "summary_en": "The share of Republicans who say the country should prioritize oil, coal and natural gas over wind and solar power has doubled to 71% over the last six years.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}
