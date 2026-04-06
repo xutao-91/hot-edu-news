@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-06T12:00:18.058699",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Designing Incident Reporting Systems for Harms from General-Purpose AI",
+      "url": "https://www.rand.org/pubs/external_publications/EP71295.html",
+      "date": "Apr 6, 2026",
+      "type": "Research",
+      "summary_en": "We introduce a conceptual framework and provide considerations for the institutional design of AI incident reporting (IR) systems, i.e., processes for collecting information about safety- and rights-related events caused by general-purpose AI.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Infinite Potential—Insights from the Viral Uplift Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4727-1.html",
+      "date": "Apr 6, 2026",
+      "type": "Research",
+      "summary_en": "In this after-action report, the authors describe a series of exercises centered on the misuse of artificial intelligence models to generate novel biological threats and intended to elicit policy options that could help reduce the risks and impact.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

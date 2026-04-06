@@ -1,0 +1,57 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-04-06T12:00:05.973408",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "This Easter, President Trump Reaffirms America as a Beacon for Christian Liberty",
+      "url": "https://www.whitehouse.gov/releases/2026/04/this-easter-president-trump-reaffirms-america-as-a-beacon-for-christian-liberty/",
+      "date": "April 5, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Urgent National Action to Save College Sports",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/urgent-national-action-to-save-college-sports/",
+      "date": "April 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Liberating the Department of Homeland Security From the Democrat-Caused Shutdown",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/liberating-the-department-of-homeland-security-from-the-democrat-caused-shutdown/",
+      "date": "April 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Takes Urgent National Action to Save College Sports",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-takes-urgent-national-action-to-save-college-sports/",
+      "date": "April 3, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Strong March Jobs Report Signals Accelerating Momentum Under President Trump",
+      "url": "https://www.whitehouse.gov/releases/2026/04/strong-march-jobs-report-signals-accelerating-momentum-under-president-trump/",
+      "date": "April 3, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Easter",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-easter/",
+      "date": "April 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Previews 2026 White House Easter Egg Roll Activities",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-previews-2026-white-house-easter-egg-roll-activities/",
+      "date": "April 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}
