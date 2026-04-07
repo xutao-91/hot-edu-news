@@ -1,9 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-04-06T12:00:19.433899",
-  "total_news": 2,
+  "crawled_at": "2026-04-06T20:00:28.449816",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Republicans have become less likely to say NATO membership benefits the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/06/republicans-have-become-less-likely-to-say-nato-membership-benefits-the-us/",
+      "date": "Apr 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Defense National Security",
+        "International Issues",
+        "Nato"
+      ],
+      "summary_en": "Around four-in-ten Republicans (38%) say the U.S. benefits at least a fair amount from being part of NATO – down from 49% last year. Among Democrats, 82% say this.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Top tax frustrations for Americans: Feeling that some wealthy people, corporations don’t pay fair share",
       "url": "https://www.pewresearch.org/short-reads/2026/04/06/top-tax-frustrations-for-americans-feeling-that-some-wealthy-people-corporations-dont-pay-fair-share/",

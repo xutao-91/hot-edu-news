@@ -1,7 +1,24 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-06T12:00:04.687120",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-06T20:00:04.374199",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Victories for Higher Education: Eliminating DEI",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-eliminating-dei",
+      "date": "April 6, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
+    {
+      "title": "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-rescinds-illegal-title-ix-resolution-agreements",
+      "date": "April 6, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights"
+    }
+  ]
 }
