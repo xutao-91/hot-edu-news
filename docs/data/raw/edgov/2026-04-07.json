@@ -1,9 +1,17 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-07T12:00:05.750083",
-  "total_news": 2,
+  "crawled_at": "2026-04-07T20:00:07.693328",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Proclaiming April 2026 as National Community College Month",
+      "url": "https://www.ed.gov/about/news/press-release/proclaiming-april-2026-national-community-college-month",
+      "date": "April 7, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
     {
       "title": "Victories for Higher Education: Eliminating DEI",
       "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-eliminating-dei",

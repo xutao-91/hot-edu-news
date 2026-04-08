@@ -1,9 +1,41 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-04-07T12:00:24.814414",
-  "total_news": 4,
+  "crawled_at": "2026-04-07T20:00:17.590800",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Negative views of Israel, Netanyahu continue to rise among Americans – especially young people",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/07/negative-views-of-israel-netanyahu-continue-to-rise-among-americans-especially-young-people/",
+      "date": "Apr 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Israel Global Image",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Views of Israel and Benjamin Netanyahu have grown more negative among U.S. adults, with majorities under 50 in both parties rating them poorly.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Gas Prices Are Americans’ Top Concern in Iran War",
+      "url": "https://www.pewresearch.org/global/2026/04/07/gas-prices-are-americans-top-concern-in-iran-war/",
+      "date": "Apr 7, 2026",
+      "type": "report",
+      "categories": [
+        "Donald Trump",
+        "Energy",
+        "Nuclear Weapons 2",
+        "Nuclear Weapons 1",
+        "Politics Policy",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "69% of Americans are worried about higher gas prices due to the Iran war, and 45% say the U.S. is not doing enough to avoid civilian causalities.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Where Do Americans Get Health Information, and What Do They Trust?",
       "url": "https://www.pewresearch.org/science/2026/04/07/where-do-americans-get-health-information-and-what-do-they-trust/",

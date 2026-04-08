@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-07T12:00:07.044942",
-  "total_news": 8,
+  "crawled_at": "2026-04-07T20:00:08.997284",
+  "total_news": 9,
   "news": [
+    {
+      "title": "ICYMI: President Trump Congratulates Artemis II Crew on Making History",
+      "url": "https://www.whitehouse.gov/releases/2026/04/icymi-president-trump-congratulates-artemis-ii-crew-on-making-history/",
+      "date": "April 7, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "President Trump is Saving College Sports",
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-is-saving-college-sports/",

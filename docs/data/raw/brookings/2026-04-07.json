@@ -1,7 +1,26 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-07T12:00:04.205332",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-07T20:00:06.273423",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Reimagining education for girls in post-conflict Northern Uganda: Why a justice-oriented education approach matters",
+      "url": "https://www.brookings.edu/articles/girls-education-northern-uganda-justice-oriented-livelihoods/",
+      "author": "Betty Akullo",
+      "date": "April 7, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general"
+    },
+    {
+      "title": "Rahm Emanuel: Both parties are failing American students",
+      "url": "https://www.brookings.edu/articles/rahm-emanuel-both-parties-are-failing-american-students/",
+      "author": "Rahm Emanuel, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJon Valant",
+      "date": "April 7, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "technology"
+    }
+  ]
 }
