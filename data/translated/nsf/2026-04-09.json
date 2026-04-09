@@ -1,0 +1,22 @@
+{
+  "source": "NSF (National Science Foundation)",
+  "source_url": "https://www.nsf.gov/news",
+  "crawled_at": "2026-04-09T17:30:16.214331",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "AI驱动的实验室加速科学发现",
+      "url": "https://www.nsf.gov/news/podcast-ai-powered-labs-accelerating-scientific-discovery",
+      "date": "2026-04-07",
+      "type": "Research",
+      "summary_en": "U.S. National Science Foundation-supported engineers are developing a bold new vision for chemical and materials discovery.",
+      "source": "NSF",
+      "category": "ai_technology",
+      "author": "NSF",
+      "original_title": "Podcast: AI-powered labs accelerating scientific discovery",
+      "summary_cn": "2026年4月7日，美国国家科学基金会（NSF）发布播客节目，介绍其资助的工程师团队正在开发化学和材料发现的全新愿景。北卡罗来纳州立大学教授Milad Abolhasani及其团队利用人工智能技术开发自主实验室系统，通过机器学习算法优化实验流程，大幅加速新材料研发进程。该研究获得NSF支持，展示了AI在科学研究领域的变革性潜力。"
+    }
+  ],
+  "translated_count": 1,
+  "missing_count": 0
+}

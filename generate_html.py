@@ -83,6 +83,7 @@ def generate_html():
         'edgov': {'name': '教育部', 'color': '#1a4480'},
         'whitehouse': {'name': '白宫', 'color': '#b22234'},
         'ace': {'name': 'ACE', 'color': '#003366'},
+        'nsf': {'name': 'NSF', 'color': '#1a5f7a'},
         'nsf_ncses': {'name': 'NSF NCSES', 'color': '#1e4d2b'},
         'pewresearch': {'name': '皮尤', 'color': '#233656'},
         'heritage': {'name': '传统基金会', 'color': '#8B0000'},
