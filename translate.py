@@ -67,6 +67,10 @@ translations_db = {
         }
     },
     "edgov": {
+        "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements": {
+            "title_cn": "美国教育部撤销非法第九条决议协议",
+            "summary_cn": "2026年4月8日消息，美国教育部宣布撤销此前发布的关于第九条（Title IX）的决议协议，称该协议缺乏法律依据且扩大了性别歧视定义的适用范围。教育部表示，此举旨在恢复第九条的原初立法意图，确保联邦教育反歧视法规的正确实施。该决定引发教育界广泛关注和讨论。"
+        },
         "U.S. Department of Education to Downsize Footprint in Washington, D.C. and Save Taxpayers Over $4.8 Million Annually": {
             "title_cn": "美国教育部将缩减华盛顿办公规模 每年为纳税人节省超过480万美元",
             "summary_cn": "2026年3月消息，美国教育部宣布将缩减在华盛顿特区的办公规模，预计每年可为纳税人节省超过480万美元。教育部计划减少办公空间并优化人员配置，以提高运营效率。这一举措是特朗普政府推动联邦机构精简、减少政府开支的系列措施之一，旨在将更多资源用于直接服务学生和教育机构，而非维持庞大的行政体系。教育部表示，将通过数字化转型和流程优化，确保在减少办公空间的同时不影响服务质量和效率，继续履行其支持美国教育发展的核心使命。"
@@ -412,10 +416,6 @@ translations_db = {
         "President Trump Ended Democrats'\"Transgender for Everybody\" Insanity": {
             "title_cn": "特朗普总统终结了民主党'人人跨性别'的疯狂",
             "summary_cn": "2026年3月31日消息，特朗普政府庆祝在终结危害儿童、侵蚀女性权利、攻击常识并将美国推向道德和文化衰退的颠覆性觉醒政策方面取得的决定性胜利。特朗普总统宣布美国政府官方政策：只有两种不可改变的性别：男性和女性。他禁止联邦资助、赞助或推广对未成年人的化学和手术阉割，保护儿童免受不可逆转的伤害。因此，全国超过36个医疗系统——包括Kaiser Permanente、洛杉矶儿童医院、芝加哥Lurie儿童医院、斯坦福医学院、NYU Langone等——宣布停止或暂停儿童阉割项目。特朗普政府还终止了K-12学校对学生的非美国式灌输，结束联邦对'性别意识形态'和'公平'课程的支持；结束强迫女性与生物学男性参加体育比赛的不公平做法，NCAA和国际奥委会已重新调整政策；国防部恢复了要求军人按生物学性别服役的标准；卫生与公众服务部确认缺乏支持性别肯定护理对未成年人不可逆影响的医学或科学证据；结束了允许联邦文件上性别自我认同的做法，恢复生物学性别作为官方记录的唯一依据。"
-        },
-        "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements": {
-            "title_cn": "美国教育部撤销非法第九条决议协议",
-            "summary_cn": "2026年4月8日消息，美国教育部宣布撤销此前发布的关于第九条（Title IX）的决议协议，称该协议缺乏法律依据且扩大了性别歧视定义的适用范围。教育部表示，此举旨在恢复第九条的原初立法意图，确保联邦教育反歧视法规的正确实施。该决定引发教育界广泛关注和讨论。"
         }
     },
     "ace": {
@@ -474,7 +474,7 @@ translations_db = {
             "title_cn": "美国民众对以色列及内塔尼亚胡的负面看法持续上升",
             "summary_cn": "2026年4月7日消息，皮尤研究中心发布最新民调，显示美国民众对以色列及其总理内塔尼亚胡的负面看法持续上升。调查发现，约45%的美国人对以色列持负面看法，较一年前显著增加；对 Netanyahu 持负面看法的比例更是达到55%。报告分析了不同政治派别、宗教背景和年龄群体的态度差异，指出加沙冲突的持续是影响美国公众观感的主要因素。"
         },
-        "Gas Prices Are Americans' Top Concern in Iran War": {
+        "Gas Prices Are Americans’ Top Concern in Iran War": {
             "title_cn": "伊朗战争期间油价成为美国人最关切问题",
             "summary_cn": "2026年4月7日消息，皮尤研究中心发布紧急民调，显示在美伊冲突升级背景下，汽油价格已成为美国民众最关切的经济问题。超过60%的受访者表示，油价上涨对他们的家庭预算造成显著压力，远高于对通货膨胀、就业市场或住房成本的关注。报告分析了油价上涨对不同收入群体的差异化影响，呼吁政府采取措施稳定能源市场。"
         },
@@ -606,7 +606,7 @@ translations_db = {
             "title_cn": "美国民众对以色列及内塔尼亚胡的负面看法持续上升——尤其是年轻人",
             "summary_cn": "2026年4月7日消息，皮尤研究中心发布最新民调，显示美国民众对以色列及其总理内塔尼亚胡的负面看法持续上升，尤其是年轻人群体。调查发现，约45%的美国人对以色列持负面看法，对 Netanyahu 持负面看法的比例更是达到55%。报告分析了不同政治派别、宗教背景和年龄群体的态度差异。"
         },
-        "Gas Prices Are Americans' Top Concern in Iran War": {
+        "Gas Prices Are Americans’ Top Concern in Iran War": {
             "title_cn": "伊朗战争期间油价成为美国人最关切问题",
             "summary_cn": "2026年4月7日消息，皮尤研究中心发布紧急民调，显示在美伊冲突升级背景下，汽油价格已成为美国民众最关切的经济问题。超过60%的受访者表示，油价上涨对他们的家庭预算造成显著压力。"
         },
@@ -614,7 +614,7 @@ translations_db = {
             "title_cn": "约半数有兄弟姐妹的美国人与至少一位兄弟姐妹关系亲密",
             "summary_cn": "2026年4月7日消息，皮尤研究中心发布家庭关系研究，显示约50%有兄弟姐妹的美国成年人与至少一位兄弟姐妹保持亲密关系。报告分析了影响兄弟姐妹关系质量的因素，包括年龄差距、性别组合、童年家庭环境等。"
         },
-        "Top tax frustrations for Americans: Feeling that some wealthy people, corporations don't pay fair share": {
+        "Top tax frustrations for Americans: Feeling that some wealthy people, corporations don’t pay fair share": {
             "title_cn": "美国人最关切的税收问题：认为部分富人和企业未承担应有份额",
             "summary_cn": "2026年4月6日消息，皮尤研究中心发布税收态度调查，显示美国民众最关切的税收问题是富人税负不公。约70%的受访者认为，部分 wealthy individuals 和大型企业通过税收漏洞逃避了应有的税收责任。"
         }
@@ -1192,13 +1192,13 @@ translations_db = {
         }
     },
     "nea_news": {
-        "NEA names Washington's Stanley Calhoun 2026 Education Support Professional of the Year": {
+        "NEA names Washington’s Stanley Calhoun 2026 Education Support Professional of the Year": {
             "title_cn": "NEA命名华盛顿州Stanley Calhoun为2026年度教育支持专业人员",
             "summary_cn": "2026年3月消息，美国国家教育协会(NEA)宣布命名华盛顿州的Stanley Calhoun为2026年度教育支持专业人员。该奖项表彰了Calhoun在教育领域的杰出贡献，他为学生和学校提供了卓越的支持服务，体现了NEA对教育支持专业人员的重视和认可。"
         }
     },
     "butler_stories": {
-        "Butler Students Take Learning to the National Stage": {
+        "Butler Students Take Learning to the National Stage During Final Four Weekend": {
             "title_cn": "巴特勒大学学生将学习成果带到全国舞台",
             "summary_cn": "2026年4月消息，巴特勒大学学生在国家级学术和职业舞台上展示其学习成果。学生们通过参加全国性竞赛、学术会议和专业实习，展现了巴特勒大学优质教育的成效，为学校赢得了荣誉。"
         }
