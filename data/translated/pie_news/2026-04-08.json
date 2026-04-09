@@ -1,15 +1,22 @@
 {
-  "date": "2026-04-08",
   "source": "PIE News",
-  "region": "USA",
-  "articles": [
+  "source_url": "https://thepienews.com/countries/usa/",
+  "crawled_at": "2026-04-08T17:00:00",
+  "total_news": 1,
+  "news": [
     {
-      "title": "US study abroad faces 68% cut under Trump's proposed budget",
+      "title": "特朗普2027财年预算拟削减美国海外学习项目68%拨款",
       "url": "https://thepienews.com/us-study-abroad-faces-68-cut-under-trumps-proposed-budget/",
       "date": "2026-04-08",
+      "type": "Study Abroad",
+      "summary_en": "US study abroad faces 68% cut under Trump's proposed budget",
+      "source": "PIE News",
+      "category": "policy",
       "author": "Polly Nash",
-      "category": "Study Abroad",
-      "summary": "2026年4月8日，美国国际教育工作者呼吁国会否决特朗普总统提出的2027财年预算请求，该请求拟将国务院海外学习项目拨款削减68%。根据白宫上周发布的《总统预算请求》，教育部海外留学项目面临近70%的削减，富布赖特计划等旗舰文化交流项目将被取消或大幅缩减。美国国际教育联盟执行董事马克·奥弗曼表示，美国国会对教育交流项目具有跨党派支持，国会拨款方明确支持该领域。2025财年，该组织成功将特朗普提出的93%削减压缩至5.5%，最终获得6.67亿美元拨款。本次削减若获通过，将导致吉尔曼项目、史蒂文斯倡议及美国海外研究中心等中止运营，严重影响美国学生赴海外学习、实习、研究及参与领导力项目的机会。"
+      "original_title": "US study abroad faces 68% cut under Trump's proposed budget",
+      "summary_cn": "2026年4月8日，美国国际教育工作者呼吁国会否决特朗普总统提出的2027财年预算请求，该请求拟将国务院海外学习项目拨款削减68%。根据白宫上周发布的《总统预算请求》，教育部海外留学项目面临近70%的削减，富布赖特计划等旗舰文化交流项目将被取消或大幅缩减。美国国际教育联盟执行董事马克·奥弗曼表示，美国国会对教育交流项目具有跨党派支持，国会拨款方明确支持该领域。2025财年，该组织成功将特朗普提出的93%削减压缩至5.5%，最终获得6.67亿美元拨款。本次削减若获通过，将导致吉尔曼项目、史蒂文斯倡议及美国海外研究中心等中止运营，严重影响美国学生赴海外学习、实习、研究及参与领导力项目的机会。"
     }
-  ]
+  ],
+  "translated_count": 1,
+  "missing_count": 0
 }
