@@ -1,34 +1,22 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-03-30T15:03:10.741876",
-  "total_news": 2,
+  "crawled_at": "2026-04-09T14:54:52.551728",
+  "total_news": 1,
   "news": [
     {
-      "title": "美国教育部长McMahon敦促Whitmer加入学校税收抵免计划",
-      "url": "https://bridgemi.com/talent-education/us-education-secretary-mcmahon-urges-whitmer-to-join-schools-tax-credit-plan/",
-      "date": "2026-03-27",
+      "title": "Detroit schools have new tool in enrollment fight: social media influencers",
+      "url": "https://bridgemi.com/talent-education/detroit-schools-have-new-tool-in-attendance-fight-social-media-influencers/",
+      "date": "2026-04-06",
       "type": "News",
-      "summary_en": "US Education Secretary Linda McMahon said Michigan should join 27 other states in a program that lets taxpayers pour money into scholarships for students to attend public or private schools.",
-      "author": "Isabel Lohman",
+      "summary_en": "The strategy to hire 23 students to share positive messaging about the district is the latest in an ongoing battle to grow enrollment.",
+      "author": "Hannah Dellinger, Chalkbeat Detroit",
       "source": "Bridge Michigan",
       "category": "policy",
-      "original_title": "US Education Secretary McMahon urges Whitmer to join schools tax credit plan",
-      "summary_cn": "2026年3月消息，美国教育部长Linda McMahon鼓励密歇根州州长Gretchen Whitmer加入一项联邦税收抵免奖学金计划。该计划允许纳税人将资金投入奖学金，供学生选择公立或私立学校就读。McMahon表示密歇根州应加入其他27个州的行列，实施这一计划。此倡议在密歇根州引发关于教育选择、学校资金和纳税人权利的讨论，体现了联邦与州政府在K-12教育政策上的互动。"
-    },
-    {
-      "title": "观看：Bridge Listens与WJRT合作关注学校和识字教育",
-      "url": "https://bridgemi.com/talent-education/watch-schools-literacy-in-focus-as-bridge-listens-joins-wjr/",
-      "date": "2026-03-27",
-      "type": "News",
-      "summary_en": "Readers have spoken and education is a top concern in the 2026 election. In the first of a regular collaboration, Bridge Michigan joined WJR’s Kevin Dietz to discuss school funding, local control and unions.",
-      "author": "Bridge Staff",
-      "source": "Bridge Michigan",
-      "category": "policy",
-      "original_title": "Watch: Schools, literacy in focus as Bridge Listens joins WJR",
-      "summary_cn": "2026年3月消息，Bridge Michigan的Bridge Listens项目与WJRT电视台合作，聚焦密歇根州的教育和识字问题。该项目旨在促进社区对话，探讨如何改善该州的教育系统，特别是早期识字教育。通过与地方媒体合作，Bridge Listens为公众提供了一个讨论和了解教育政策影响的平台，邀请教育工作者、政策制定者和家长共同探讨解决方案。"
+      "original_title": "Detroit schools have new tool in enrollment fight: social media influencers",
+      "summary_cn": "The strategy to hire 23 students to share positive messaging about the district is the latest in an ongoing battle to grow enrollment."
     }
   ],
-  "translated_count": 2,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 1
 }

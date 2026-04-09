@@ -1,9 +1,18 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-09T13:23:43.124950",
+  "crawled_at": "2026-04-09T15:05:16.980974",
   "total_news": 10,
   "news": [
+    {
+      "title": "First Lady Melania Trump’s Statement",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-statement/",
+      "date": "April 9, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "First Lady Melania Trump’s Statement",
+      "summary_cn": ""
+    },
     {
       "title": "特朗普总统宣布大赦时代结束：恢复移民法庭法治",
       "url": "https://www.whitehouse.gov/releases/2026/04/era-of-amnesty-is-over-president-trump-restores-rule-of-law-to-immigration-courts/",
@@ -84,17 +93,8 @@
       "source": "The White House",
       "original_title": "ICYMI: President Trump Congratulates Artemis II Crew on Making History",
       "summary_cn": "2026年4月7日，美国总统特朗普向成功完成阿尔忒弥斯II号载人绕月任务的宇航员表示热烈祝贺。此次任务标志着美国重返月球计划取得重大突破，是阿波罗时代以来美国宇航员飞离地球最远距离的载人航天任务。宇航员们成功完成了为期10天的太空飞行，绕月飞行并安全返回地球，为后续的阿尔忒弥斯III号载人登月任务奠定了坚实基础。总统赞扬了宇航员的勇气、专业精神和卓越技术能力，强调了太空探索对美国科技领导地位、国家安全以及人类知识进步的重要意义。特朗普总统表示，阿尔忒弥斯计划体现了美国探索未知的传统和对卓越的追求，将激励下一代科学家、工程师和探险家。"
-    },
-    {
-      "title": "特朗普总统签署行政令保护大学体育",
-      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-is-saving-college-sports/",
-      "date": "April 7, 2026",
-      "category": "Releases",
-      "source": "The White House",
-      "original_title": "President Trump is Saving College Sports",
-      "summary_cn": "2026年4月7日，美国总统特朗普签署《紧急国家行动保护大学体育》行政令，应对大学体育面临的法律混乱和财务压力威胁。该行政令旨在保护覆盖超过50万名学生运动员、提供近40亿美元奖学金、推动美国奥运优势的大学体育体系。行政令利用联邦权力支持执行关于参赛资格、转会和补偿的清晰、一致、公平规则，同时促进可持续的收入共享和加强对学生运动员的保护，为大学体育建立关键护栏以稳定局势。总统特朗普表示，面对运动员、大学和球迷的呼吁，必须采取果断行动保护这一重要的美国制度。全国大学体育协会（NCAA）主席Charlie Baker、美国奥委会首席执行官Sarah Hirshland、前阿拉巴马大学橄榄球队主教练Nick Saban以及主要大学体育联盟负责人纷纷表示支持，称赞总统在这一重要议题上的领导作用，并呼吁国会尽快通过《SCORE法案》以提供长期立法解决方案。"
     }
   ],
-  "translated_count": 10,
-  "missing_count": 0
+  "translated_count": 9,
+  "missing_count": 1
 }

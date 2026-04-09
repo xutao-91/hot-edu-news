@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-09T13:23:43.124950",
+  "crawled_at": "2026-04-09T15:05:16.980974",
   "total_news": 10,
   "news": [
+    {
+      "title": "First Lady Melania Trump’s Statement",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-statement/",
+      "date": "April 9, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Era of Amnesty Is Over: President Trump Restores Rule of Law to Immigration Courts",
       "url": "https://www.whitehouse.gov/releases/2026/04/era-of-amnesty-is-over-president-trump-restores-rule-of-law-to-immigration-courts/",
@@ -63,13 +70,6 @@
     {
       "title": "ICYMI: President Trump Congratulates Artemis II Crew on Making History",
       "url": "https://www.whitehouse.gov/releases/2026/04/icymi-president-trump-congratulates-artemis-ii-crew-on-making-history/",
-      "date": "April 7, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump is Saving College Sports",
-      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-is-saving-college-sports/",
       "date": "April 7, 2026",
       "category": "Releases",
       "source": "The White House"

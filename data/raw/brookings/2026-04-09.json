@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-09T13:23:40.287954",
-  "total_news": 3,
+  "crawled_at": "2026-04-09T15:05:14.190426",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Bridging policy and practice: Advancing gender-responsive pedagogies in Zimbabwe",
+      "url": "https://www.brookings.edu/articles/faith-nkala-gender-responsive-pedagogy-zimbabwe/",
+      "author": "Faith Nkala",
+      "date": "April 9, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "policy"
+    },
     {
       "title": "Skill-based education to achieve justice and sustainable livelihoods for girls and women in post-conflict northern Uganda",
       "url": "https://www.brookings.edu/articles/skills-education-girls-post-conflict-northern-uganda/",
