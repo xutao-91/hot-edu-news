@@ -87,7 +87,7 @@ fi
 
 # 8. 运行Pew Research爬虫
 echo ""
-echo "📰 [9/67] 运行 Pew Research 爬虫..."
+echo "📰 [8/67] 运行 Pew Research 爬虫..."
 /usr/bin/python3 sources/pewresearch/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Pew Research 完成"
@@ -95,9 +95,21 @@ else
     echo "⚠️  Pew Research 失败，继续..."
 fi
 
-# 7. 同步docs目录
+# 9. 翻译数据
 echo ""
-echo "📂 [9/67] 同步 docs 目录..."
+echo "🌐 [9/67] 翻译数据..."
+/usr/bin/python3 translate.py
+echo "✅ 翻译完成"
+
+# 10. 生成 HTML
+echo ""
+echo "📄 [10/67] 生成 HTML 页面..."
+/usr/bin/python3 generate_html.py
+echo "✅ HTML 生成完成"
+
+# 11. 同步docs目录
+echo ""
+echo "📂 [11/67] 同步 docs 目录..."
 cp index.html docs/
 cp -r data/ docs/
 echo "✅ docs目录已同步"
