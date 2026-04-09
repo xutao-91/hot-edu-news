@@ -1144,7 +1144,11 @@ translations_db = {
         }
     },
     "nea_news": {
-        "NEA names Washington’s Stanley Calhoun 2026 Education Support Professional of the Year": {
+        "Education Department rollback undermines Title IX protections": {
+            "title_cn": "教育部撤销第九条协议损害学生权益保护",
+            "summary_cn": "2026年4月8日，美国全国教育协会(NEA)发布声明指出，美国教育部民权办公室(OCR)本周正式撤销此前与学校达成的第九条决议协议中的部分条款，推翻了对学校性别歧视问题的处理承诺，此举严重损害了学生的权益保护。声明强调，第九条是历经50年发展的民权法律，旨在确保任何学生不会因性别而被拒绝参与、排斥或遭受联邦资助教育项目中的歧视，涵盖体育、招生、性骚扰和暴力防护等领域。数据显示，2025年OCR未解决任何K-12学校的性骚扰或攻击案件，此次撤销协议将进一步削弱对学生群体的保护。NEA主席贝基·普林格尔强烈谴责此举，指出撤销协议击中了民权法律的核心，使跨性别学生等弱势群体面临更大风险。她强调，所有学生无论性别、性别认同或性取向，都应在安全、包容的环境中学习成长。在当前应加强保护最弱势学生的时刻，政府却选择削弱保障措施，NEA不会袖手旁观，将坚决捍卫几代人为之奋斗的学生权益。"
+        },
+        "NEA names Washington's Stanley Calhoun 2026 Education Support Professional of the Year": {
             "title_cn": "NEA命名华盛顿州Stanley Calhoun为2026年度教育支持专业人员",
             "summary_cn": "2026年3月消息，美国国家教育协会(NEA)宣布命名华盛顿州的Stanley Calhoun为2026年度教育支持专业人员。该奖项表彰了Calhoun在教育领域的杰出贡献，他为学生和学校提供了卓越的支持服务，体现了NEA对教育支持专业人员的重视和认可。"
         }
@@ -1222,7 +1226,7 @@ def main():
     print("=" * 60)
     print("原则：严格按原文编译，绝不编造")
     
-    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'mpr_education', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'hanover_research', 'the74_news', 'ecampus_news', 'uillinois_news', 'pie_news', 'nea_news']
+    sources = ['brookings', 'edgov', 'whitehouse', 'ace', 'nsf_ncses', 'pewresearch', 'heritage', 'rand', 'aei', 'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_socwork', 'uw_news', 'purdue', 'purdue_engineering', 'purdue_polytechnic', 'purdue_education', 'iu_news', 'iu_education', 'kelley', 'oneill', 'notre_dame', 'nd_news', 'mendoza', 'nd_science', 'msoe', 'mcw_cancer', 'bridgemi', 'education_minnesota', 'umn_cse', 'washu_source', 'studlife', 'washu_engineering', 'uchicago_news', 'northwestern_news', 'daily_illini', 'uic_today', 'slu_news', 'uiowa_now', 'showme_mizzou', 'iit_news', 'iastate_news', 'ku_news', 'kstate_news', 'mtu_news', 'unl_news', 'wayne_news', 'udmercy_news', 'butler_stories', 'dordt_news', 'rockhurst_news', 'augie_news', 'elmhurst_news', 'uni_news', 'kettering_news', 'the74_news', 'ecampus_news', 'uillinois_news', 'pie_news', 'nea_news']
     
     for source in sources:
         translate_source(source)
