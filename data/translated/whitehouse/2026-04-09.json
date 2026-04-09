@@ -1,0 +1,100 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-04-09T11:18:25.893137",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "CEQ Issues Guidance on Categorical Exclusions",
+      "url": "https://www.whitehouse.gov/releases/2026/04/ceq-issues-guidance-on-categorical-exclusions/",
+      "date": "April 9, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "CEQ Issues Guidance on Categorical Exclusions",
+      "summary_cn": ""
+    },
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Surrender at Appomattox",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/america-250-presidential-message-on-the-anniversary-of-the-surrender-at-appomattox/",
+      "date": "April 9, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "America 250: Presidential Message on the Anniversary of the Surrender at Appomattox",
+      "summary_cn": ""
+    },
+    {
+      "title": "Presidential Message on National Former Prisoner of War Recognition Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-former-prisoner-of-war-recognition-day/",
+      "date": "April 9, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on National Former Prisoner of War Recognition Day",
+      "summary_cn": ""
+    },
+    {
+      "title": "Presidential Message on the Masters Tournament",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-the-masters-tournament/",
+      "date": "April 9, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on the Masters Tournament",
+      "summary_cn": ""
+    },
+    {
+      "title": "SEQUESTRATION ORDER FOR FISCAL YEAR 2027 PURSUANT TO SECTION 251A OF THE BALANCED BUDGET AND EMERGENCY DEFICIT CONTROL ACT, AS AMENDED",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/sequestration-order-for-fiscal-year-2027-pursuant-to-section-251a-of-the-balanced-budgetand-emergency-deficit-control-act-as-amended/",
+      "date": "April 8, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "SEQUESTRATION ORDER FOR FISCAL YEAR 2027 PURSUANT TO SECTION 251A OF THE BALANCED BUDGET AND EMERGENCY DEFICIT CONTROL ACT, AS AMENDED",
+      "summary_cn": ""
+    },
+    {
+      "title": "Peace Through Strength: Operation Epic Fury Crushes Iranian Threat as Ceasefire Takes Hold",
+      "url": "https://www.whitehouse.gov/releases/2026/04/peace-through-strength-operation-epic-fury-crushes-iranian-threat-as-ceasefire-takes-hold/",
+      "date": "April 8, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "Peace Through Strength: Operation Epic Fury Crushes Iranian Threat as Ceasefire Takes Hold",
+      "summary_cn": ""
+    },
+    {
+      "title": "Effects of Stablecoin Yield Prohibition on Bank Lending",
+      "url": "https://www.whitehouse.gov/research/2026/04/effects-of-stablecoin-yield-prohibition-on-bank-lending/",
+      "date": "April 8, 2026",
+      "category": "Research",
+      "source": "The White House",
+      "original_title": "Effects of Stablecoin Yield Prohibition on Bank Lending",
+      "summary_cn": ""
+    },
+    {
+      "title": "ICYMI: President Trump Congratulates Artemis II Crew on Making History",
+      "url": "https://www.whitehouse.gov/releases/2026/04/icymi-president-trump-congratulates-artemis-ii-crew-on-making-history/",
+      "date": "April 7, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "ICYMI: President Trump Congratulates Artemis II Crew on Making History",
+      "summary_cn": ""
+    },
+    {
+      "title": "President Trump is Saving College Sports",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-is-saving-college-sports/",
+      "date": "April 7, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump is Saving College Sports",
+      "summary_cn": ""
+    },
+    {
+      "title": "Presidential Message on National Child Abuse Prevention Month",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-child-abuse-prevention-month/",
+      "date": "April 7, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on National Child Abuse Prevention Month",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 10
+}

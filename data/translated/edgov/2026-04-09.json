@@ -1,0 +1,60 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-04-09T11:18:24.597378",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits South Dakota on Returning Education to the States and History Rocks! Nationwide Tours",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-south-dakota-returning-education-states-and-history-rocks-nationwide-tours",
+      "date": "April 8, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics",
+      "original_title": "U.S. Secretary of Education Linda McMahon Visits South Dakota on Returning Education to the States and History Rocks! Nationwide Tours",
+      "summary_cn": ""
+    },
+    {
+      "title": "U.S. Department of Education and U.S. Department of Labor Announce First Grant Competitions Under Elementary and Secondary Education Partnership",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-first-grant-competitions-under-elementary-and-secondary-education-partnership",
+      "date": "April 8, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "k12",
+      "original_title": "U.S. Department of Education and U.S. Department of Labor Announce First Grant Competitions Under Elementary and Secondary Education Partnership",
+      "summary_cn": ""
+    },
+    {
+      "title": "Proclaiming April 2026 as National Community College Month",
+      "url": "https://www.ed.gov/about/news/press-release/proclaiming-april-2026-national-community-college-month",
+      "date": "April 7, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed",
+      "original_title": "Proclaiming April 2026 as National Community College Month",
+      "summary_cn": ""
+    },
+    {
+      "title": "Victories for Higher Education: Eliminating DEI",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-eliminating-dei",
+      "date": "April 6, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed",
+      "original_title": "Victories for Higher Education: Eliminating DEI",
+      "summary_cn": ""
+    },
+    {
+      "title": "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-rescinds-illegal-title-ix-resolution-agreements",
+      "date": "April 6, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights",
+      "original_title": "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 5
+}
