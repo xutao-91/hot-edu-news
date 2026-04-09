@@ -403,9 +403,8 @@ def generate_html():
         title = TITLE_TRANSLATIONS.get(en_title, en_title)
         original_title = article.get('original_title', en_title)
         
-        # 获取英文摘要并查找中文翻译
-        en_summary = article.get('summary', '') or article.get('summary_en', '')
-        summary = SUMMARY_TRANSLATIONS.get(en_summary, en_summary)
+        # 获取英文摘要并查找中文翻译（使用标题作为key查找）
+        summary = SUMMARY_TRANSLATIONS.get(en_title)
         if not summary:
             summary = '<span style="color:#999;font-style:italic;">暂无摘要，点击查看原文</span>'
         url = article.get('url', '')
