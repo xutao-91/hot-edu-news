@@ -14,9 +14,9 @@
 
 ---
 
-## 今天没有文章的来源（73个）❌
+## 今天没有文章的来源（71个）❌
 
-### 智库/研究机构（17个）
+### 智库/研究机构（15个）
 
 | 来源名称 | 链接 | 状态 |
 |----------|------|------|
@@ -35,8 +35,6 @@
 | mpr_education | https://www.mprnews.org | 待检查 |
 | nea_news | https://www.nea.org | 待检查 |
 | pie_news | https://pienews.com | 待检查 |
-| startribune_education | https://www.startribune.com/education | 待检查 |
-| the74_news | https://www.the74million.org | 待检查 |
 
 ### 大学来源（54个）
 
@@ -101,7 +99,7 @@
 
 | 来源名称 | 链接 | 状态 |
 |----------|------|------|
-| anl_news | https://www.anl.gov/news | 待检查 |
+| anl_news | https://www.anl.gov/news | ⚠️ Cloudflare保护，需特殊处理 |
 | nsf | https://www.nsf.gov/news | 待检查 |
 
 ---
