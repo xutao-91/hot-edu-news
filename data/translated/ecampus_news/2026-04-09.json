@@ -1,21 +1,30 @@
 {
   "source": "eCampus News",
   "source_url": "https://www.ecampusnews.com/top-stories/",
-  "crawled_at": "2026-03-31T00:22:19.898359",
-  "total_news": 1,
+  "crawled_at": "2026-04-09T15:30:00",
+  "total_news": 2,
   "news": [
     {
-      "title": "超越诊所支持学生健康：社会处方干预的兴起",
-      "url": "https://www.ecampusnews.com/student-wellbeing/2026/03/30/supporting-student-well-being-social-prescribing-higher-ed/",
-      "date": "2026-03-30",
-      "type": "Student Mental Health",
-      "summary_en": "A student visits the campus counseling center for the third time this semester. She’s not in crisis. She’s lonely, overwhelmed, and unsure where she fits.",
+      "title": "高等教育与终身学习如何打造面向未来的劳动力",
+      "original_title": "How higher ed and lifelong learning can shape a future-proof workforce",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/04/08/how-higher-ed-and-lifelong-learning-can-shape-a-future-proof-workforce/",
+      "date": "2026-04-08",
+      "type": "Career Readiness",
+      "summary_en": "A new survey from Instructure explores how prepared people feel in navigating today's workforce, and examines the evolving role of higher education and upskilling in meeting new learner expectations and the demands of the future of work.",
+      "summary_cn": "2026年4月8日消息，教育科技公司Instructure发布最新调查报告，深入探讨当代劳动力的准备状况，以及高等教育和技能提升在满足学习者新期望和未来工作需求方面不断演变的作用。调查发现，随着技术快速发展和工作性质持续变化，终身学习已成为职业成功的关键因素。报告强调高等教育机构需要与企业紧密合作，开发灵活的学习路径，帮助学生和在职人员不断更新技能，以适应不断变化的就业市场。研究指出，将正规教育与非正式学习相结合，建立持续学习的文化，对于建设能够适应未来挑战的高素质劳动力至关重要。",
       "source": "eCampus News",
-      "category": "general",
-      "original_title": "Supporting student health beyond the clinic: Social prescribing in higher ed",
-      "summary_cn": "2026年3月消息，随着高等教育机构认识到学生福祉的复杂性，社会处方作为一种创新干预方式正在校园中获得关注。这种方法通过将学生与非医疗资源和社区支持联系起来，帮助解决孤独、焦虑和其他心理健康挑战，补充传统医疗服务。"
+      "category": "general"
+    },
+    {
+      "title": "高等教育无线网络发展现状",
+      "original_title": "What's the state of wireless in higher education?",
+      "url": "https://www.ecampusnews.com/it-leadership/2026/04/06/whats-the-state-of-wireless-in-higher-education/",
+      "date": "2026-04-06",
+      "type": "IT Infrastructure",
+      "summary_en": "Wi-Fi has evolved into a strategic growth engine capable of delivering a multiplier effect–where a single network investment drives compounding returns across employee productivity, customer engagement, and revenue, according to Cisco's inaugural State of Wireless Report.",
+      "summary_cn": "2026年4月6日消息，思科公司发布首份《无线网络现状报告》，指出无线网络已发展成为战略性增长引擎，能够产生乘数效应——单一网络投资可在员工生产力、客户参与度和收入方面带来复合回报。报告显示，高校正将无线网络视为数字化转型的核心基础设施，不仅用于连接学生和教职工，更用于支持物联网设备、虚拟现实教学和智慧校园应用。报告指出，成功的无线部署需要与教育机构战略目标对齐，并建议高校投资于可扩展、安全且高性能的无线网络基础设施，以支持未来教育创新。",
+      "source": "eCampus News",
+      "category": "edtech"
     }
-  ],
-  "translated_count": 1,
-  "missing_count": 0
+  ]
 }
