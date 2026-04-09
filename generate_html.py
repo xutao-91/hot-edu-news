@@ -6,7 +6,17 @@
 """
 import json
 import os
+import sys
 from datetime import datetime, timedelta
+
+# 加载翻译模块
+try:
+    import translate
+    TITLE_TRANSLATIONS = translate.TITLE_TRANSLATIONS
+    SUMMARY_TRANSLATIONS = translate.SUMMARY_TRANSLATIONS
+except ImportError:
+    TITLE_TRANSLATIONS = {}
+    SUMMARY_TRANSLATIONS = {}
 
 def get_latest_json(directory):
     """自动找到目录下最新的JSON文件"""
@@ -388,12 +398,14 @@ def generate_html():
         category = get_category_name(article.get('category', 'general'))
         source_name = article.get('_source_name', '')
         source_color = article.get('_source_color', '#666')
-        # 优先使用中文翻译，如果没有则显示英文
-        title = article.get('title_cn', '') or article.get('title', '')
-        original_title = article.get('original_title', article.get('title', ''))
+        # 获取英文标题并查找中文翻译
+        en_title = article.get('title', '')
+        title = TITLE_TRANSLATIONS.get(en_title, en_title)
+        original_title = article.get('original_title', en_title)
         
-        # 优先使用中文摘要，如果没有则使用英文摘要，如果都没有则显示提示
-        summary = article.get('summary_cn', '') or article.get('summary_en', '')
+        # 获取英文摘要并查找中文翻译
+        en_summary = article.get('summary', '') or article.get('summary_en', '')
+        summary = SUMMARY_TRANSLATIONS.get(en_summary, en_summary)
         if not summary:
             summary = '<span style="color:#999;font-style:italic;">暂无摘要，点击查看原文</span>'
         url = article.get('url', '')
