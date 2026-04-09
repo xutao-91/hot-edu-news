@@ -5,7 +5,7 @@
   "total_news": 2,
   "news": [
     {
-      "title": "Designing Incident Reporting Systems for Harms from General-Purpose AI",
+      "title": "设计通用人工智能危害事件报告系统",
       "url": "https://www.rand.org/pubs/external_publications/EP71295.html",
       "date": "Apr 6, 2026",
       "type": "Research",
@@ -13,7 +13,7 @@
       "source": "Rand Corporation",
       "category": "ai_technology",
       "original_title": "Designing Incident Reporting Systems for Harms from General-Purpose AI",
-      "summary_cn": "We introduce a conceptual framework and provide considerations for the institutional design of AI incident reporting (IR) systems, i.e., processes for collecting information about safety- and rights-related events caused by general-purpose AI."
+      "summary_cn": "2026年4月6日消息，兰德公司发布研究报告，探讨如何为通用人工智能（GPAI）系统建立有效的事件报告机制。报告指出，随着人工智能技术的广泛应用，其潜在风险也日益凸显，建立标准化的事件报告系统对于及时识别和应对AI相关危害至关重要。报告提出了多层次报告框架的设计原则，包括保护举报人、确保数据隐私、促进跨机构信息共享等关键要素。"
     },
     {
       "title": "Infinite Potential—Insights from the Viral Uplift Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
@@ -27,6 +27,6 @@
       "summary_cn": "In this after-action report, the authors describe a series of exercises centered on the misuse of artificial intelligence models to generate novel biological threats and intended to elicit policy options that could help reduce the risks and impact."
     }
   ],
-  "translated_count": 0,
-  "missing_count": 2
+  "translated_count": 1,
+  "missing_count": 1
 }

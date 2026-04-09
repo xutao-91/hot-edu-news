@@ -5,44 +5,44 @@
   "total_news": 5,
   "news": [
     {
-      "title": "U.S. Secretary of Education Linda McMahon Visits South Dakota on Returning Education to the States and History Rocks! Nationwide Tours",
+      "title": "教育部长琳达·麦克马洪访问南达科他州 推动教育回归各州及'历史闪耀'全国巡讲",
       "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-south-dakota-returning-education-states-and-history-rocks-nationwide-tours",
       "date": "April 8, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "civics",
       "original_title": "U.S. Secretary of Education Linda McMahon Visits South Dakota on Returning Education to the States and History Rocks! Nationwide Tours",
-      "summary_cn": ""
+      "summary_cn": "2026年4月8日消息，美国教育部长琳达·麦克马洪访问南达科他州，参加'将教育回归各州'和'历史闪耀'全国巡讲活动。麦克马洪部长在访问期间强调了联邦教育改革的方向，主张将更多教育决策权下放给各州和地方学区，减少联邦政府对教育事务的干预。她还出席了'历史闪耀'公民教育活动，与学生和教育工作者互动，强调美国历史和公民教育的重要性。"
     },
     {
-      "title": "U.S. Department of Education and U.S. Department of Labor Announce First Grant Competitions Under Elementary and Secondary Education Partnership",
+      "title": "教育部与劳工部宣布中小学教育伙伴关系下首轮资助竞赛",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-first-grant-competitions-under-elementary-and-secondary-education-partnership",
       "date": "April 8, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "k12",
       "original_title": "U.S. Department of Education and U.S. Department of Labor Announce First Grant Competitions Under Elementary and Secondary Education Partnership",
-      "summary_cn": ""
+      "summary_cn": "2026年4月8日消息，美国教育部与劳工部联合宣布在中小学教育伙伴关系框架下启动首轮资助竞赛。该计划旨在通过联邦资金支持，加强中小学教育与职业培训的衔接，帮助学生更好地为进入劳动力市场做好准备。资助将用于支持学校与雇主合作开发职业课程、提供实习机会、建设职业培训设施等项目，促进学术教育与职业技能培养的有机结合。"
     },
     {
-      "title": "Proclaiming April 2026 as National Community College Month",
+      "title": "宣布2026年4月为全国社区学院月",
       "url": "https://www.ed.gov/about/news/press-release/proclaiming-april-2026-national-community-college-month",
       "date": "April 7, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "higher_ed",
       "original_title": "Proclaiming April 2026 as National Community College Month",
-      "summary_cn": ""
+      "summary_cn": "2026年4月7日消息，美国总统宣布2026年4月为全国社区学院月，以表彰社区学院在美国高等教育体系中的重要贡献。社区学院作为美国高等教育的重要组成部分，每年为超过1200万学生提供高质量、低成本的教育和职业培训机会。总统公告强调，社区学院在促进教育公平、支持终身学习、培养技能人才、服务地方经济发展等方面发挥着不可替代的作用。"
     },
     {
-      "title": "Victories for Higher Education: Eliminating DEI",
+      "title": "高等教育成果：消除多元化、公平与包容（DEI）倡议",
       "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-eliminating-dei",
       "date": "April 6, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "higher_ed",
       "original_title": "Victories for Higher Education: Eliminating DEI",
-      "summary_cn": ""
+      "summary_cn": "2026年4月6日消息，美国教育部发布高等教育政策成果报告，重点介绍在消除高校多元化、公平与包容（DEI）倡议方面取得的进展。报告指出，DEI项目已被证明存在歧视性做法，违反了联邦反歧视法律。教育部采取了一系列措施，包括要求高校披露DEI相关支出、审查DEI项目合规性、终止对参与非法歧视活动的高校的联邦资助等。"
     },
     {
       "title": "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements",
@@ -55,6 +55,6 @@
       "summary_cn": ""
     }
   ],
-  "translated_count": 0,
-  "missing_count": 5
+  "translated_count": 4,
+  "missing_count": 1
 }
