@@ -398,13 +398,12 @@ def generate_html():
         category = get_category_name(article.get('category', 'general'))
         source_name = article.get('_source_name', '')
         source_color = article.get('_source_color', '#666')
-        # 获取英文标题并查找中文翻译
-        en_title = article.get('title', '')
-        title = TITLE_TRANSLATIONS.get(en_title, en_title)
-        original_title = article.get('original_title', en_title)
+        # 获取标题（translated数据中的title已是中文）
+        title = article.get('title', '')
+        original_title = article.get('original_title', title)
         
-        # 获取英文摘要并查找中文翻译（使用标题作为key查找）
-        summary = SUMMARY_TRANSLATIONS.get(en_title)
+        # 获取中文摘要（从translated数据中直接获取）
+        summary = article.get('summary_cn')
         if not summary:
             summary = '<span style="color:#999;font-style:italic;">暂无摘要，点击查看原文</span>'
         url = article.get('url', '')
