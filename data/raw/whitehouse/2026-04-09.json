@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-09T11:18:25.893137",
+  "crawled_at": "2026-04-09T13:09:19.415735",
   "total_news": 10,
   "news": [
+    {
+      "title": "Era of Amnesty Is Over: President Trump Restores Rule of Law to Immigration Courts",
+      "url": "https://www.whitehouse.gov/releases/2026/04/era-of-amnesty-is-over-president-trump-restores-rule-of-law-to-immigration-courts/",
+      "date": "April 9, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "CEQ Issues Guidance on Categorical Exclusions",
       "url": "https://www.whitehouse.gov/releases/2026/04/ceq-issues-guidance-on-categorical-exclusions/",
@@ -65,13 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-is-saving-college-sports/",
       "date": "April 7, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on National Child Abuse Prevention Month",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-child-abuse-prevention-month/",
-      "date": "April 7, 2026",
-      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]

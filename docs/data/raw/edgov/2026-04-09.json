@@ -1,9 +1,17 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-09T11:18:24.597378",
-  "total_news": 5,
+  "crawled_at": "2026-04-09T13:09:18.128611",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Victories for Higher Education: Ending Gender Extremism and Cutting Underused Programs",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-ending-gender-extremism-and-cutting-underused-programs",
+      "date": "April 9, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    },
     {
       "title": "U.S. Secretary of Education Linda McMahon Visits South Dakota on Returning Education to the States and History Rocks! Nationwide Tours",
       "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-south-dakota-returning-education-states-and-history-rocks-nationwide-tours",
