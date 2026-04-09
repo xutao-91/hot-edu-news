@@ -171,10 +171,6 @@ translations_db = {
             "title_cn": "高等教育成果：消除多元化、公平与包容（DEI）倡议",
             "summary_cn": "2026年4月6日消息，美国教育部发布高等教育政策成果报告，重点介绍在消除高校多元化、公平与包容（DEI）倡议方面取得的进展。报告指出，DEI项目已被证明存在歧视性做法，违反了联邦反歧视法律。教育部采取了一系列措施，包括要求高校披露DEI相关支出、审查DEI项目合规性、终止对参与非法歧视活动的高校的联邦资助等。"
         },
-        "U.S. Department of Education Rescinds Illegal Title IX Resolution": {
-            "title_cn": "美国教育部撤销非法第九条决议",
-            "summary_cn": "2026年4月6日消息，美国教育部宣布撤销一项被法院裁定非法的第九条（Title IX）相关决议。该决议此前扩大了第九条的保护范围，引发了法律争议。法院裁定该决议超越了教育部的法定权限。教育部表示将严格遵守法院判决，恢复第九条的传统解释框架，确保性别平等保护措施的合法性和有效性。"
-        },
         "教育部公民教育高级顾问出席堪萨斯州'历史闪耀'活动": {
             "title_cn": "教育部公民教育高级顾问出席堪萨斯州'历史闪耀'活动",
             "summary_cn": "2026年3月消息，美国教育部公民教育高级顾问凯蒂·戈尔卡出席堪萨斯州'历史闪耀'活动，就公民教育发表演讲。她强调培养学生对美国历史和宪政制度理解的重要性，指出公民教育是培养学生批判性思维、社会责任感和参与意识的关键途径。"
@@ -413,15 +409,19 @@ translations_db = {
             "title_cn": "特朗普总统的工薪家庭减税（每个民主党人都反对）正在提供历史性救济",
             "summary_cn": "2026年3月31日消息，数百万美国工人、家庭和小企业主正在看到特朗普总统签署的标志性《工薪家庭减税法》的实际成果。国会中的每一位民主党人都投票反对该法案。新数据显示：今年平均退税显著增加（近11%），平均退税超过3700美元；近2000万纳税人申请了'加班不征税'条款，从工厂员工、线路工到警察和护士等一线工作者受益；超过460万纳税人从'小费不征税'中受益，为依赖小费的服务业工作者提供有意义的救济；近一半的所有申报者申请了该法律的标志性新减税之一；近1200万小企业主平均减税近7000美元，而20%小企业收入扣除的永久延长为全国800万企业家提供约4600美元的平均税收减免；研发费用的立即扣除已追溯恢复，为成千上万小企业解锁了估计1000亿美元的以前年度扣除。特朗普政府相信奖励辛勤工作，而不是惩罚它——这个报税季证明了这一点。"
         },
-        "President Trump Ended Democrats’“Transgender for Everybody” Insanity": {
+        "President Trump Ended Democrats'\"Transgender for Everybody\" Insanity": {
             "title_cn": "特朗普总统终结了民主党'人人跨性别'的疯狂",
             "summary_cn": "2026年3月31日消息，特朗普政府庆祝在终结危害儿童、侵蚀女性权利、攻击常识并将美国推向道德和文化衰退的颠覆性觉醒政策方面取得的决定性胜利。特朗普总统宣布美国政府官方政策：只有两种不可改变的性别：男性和女性。他禁止联邦资助、赞助或推广对未成年人的化学和手术阉割，保护儿童免受不可逆转的伤害。因此，全国超过36个医疗系统——包括Kaiser Permanente、洛杉矶儿童医院、芝加哥Lurie儿童医院、斯坦福医学院、NYU Langone等——宣布停止或暂停儿童阉割项目。特朗普政府还终止了K-12学校对学生的非美国式灌输，结束联邦对'性别意识形态'和'公平'课程的支持；结束强迫女性与生物学男性参加体育比赛的不公平做法，NCAA和国际奥委会已重新调整政策；国防部恢复了要求军人按生物学性别服役的标准；卫生与公众服务部确认缺乏支持性别肯定护理对未成年人不可逆影响的医学或科学证据；结束了允许联邦文件上性别自我认同的做法，恢复生物学性别作为官方记录的唯一依据。"
+        },
+        "U.S. Department of Education Rescinds Illegal Title IX Resolution Agreements": {
+            "title_cn": "美国教育部撤销非法第九条决议协议",
+            "summary_cn": "2026年4月8日消息，美国教育部宣布撤销此前发布的关于第九条（Title IX）的决议协议，称该协议缺乏法律依据且扩大了性别歧视定义的适用范围。教育部表示，此举旨在恢复第九条的原初立法意图，确保联邦教育反歧视法规的正确实施。该决定引发教育界广泛关注和讨论。"
         }
     },
     "ace": {
-        "Trump Budget for FY 2027 Maintains Pell Grant but Slashes Other Student Aid": {
-            "title_cn": "特朗普2027财年预算维持佩尔助学金但削减其他学生资助",
-            "summary_cn": "2026年4月6日消息，美国教育委员会（ACE）发布分析报告，对特朗普政府2027财年教育预算提案进行解读。报告指出，该预算提案维持了佩尔助学金的基本 funding，但大幅削减了其他联邦学生援助项目，包括联邦补充教育机会助学金（FSEOG）和联邦工读计划（FWS）。ACE表示，这些削减将对低收入学生造成严重冲击，增加其完成高等教育的经济负担。报告呼吁国会重新审视预算提案，确保联邦学生援助体系能够继续支持教育公平和机会均等。"
+        "Trump Budget for FY 2027 Maintains Pell Grant but Slashes Other Student Aid, Research Funding": {
+            "title_cn": "特朗普2027财年预算维持佩尔助学金但削减其他学生资助和研究经费",
+            "summary_cn": "2026年4月6日消息，美国教育委员会（ACE）发布分析报告，对特朗普政府2027财年教育预算提案进行解读。报告指出，该预算提案维持了佩尔助学金的基本 funding，但大幅削减了其他联邦学生援助项目和研究经费，包括联邦补充教育机会助学金（FSEOG）和联邦工读计划（FWS）。ACE表示，这些削减将对低收入学生造成严重冲击，增加其完成高等教育的经济负担。报告呼吁国会重新审视预算提案，确保联邦学生援助体系能够继续支持教育公平和机会均等。"
         },
         "ACE, Other Associations Urge GSA to Rescind Proposed Certification Requirements on “Unlawful DEI” and Other Issues": {
             "title_cn": "ACE联合其他协会敦促GSA撤销关于'非法DEI'的拟议认证要求",
@@ -601,6 +601,22 @@ translations_db = {
         "美国民众居住偏好调查：大房子还是便利设施": {
             "title_cn": "美国民众居住偏好调查：大房子还是便利设施",
             "summary_cn": "2026年3月消息，皮尤研究中心调查美国民众在住房选择上的偏好：是选择更大的居住空间，还是更看重社区配套设施。研究发现不同收入、年龄、家庭结构的人群存在显著差异。"
+        },
+        "Negative views of Israel, Netanyahu continue to rise among Americans – especially young people": {
+            "title_cn": "美国民众对以色列及内塔尼亚胡的负面看法持续上升——尤其是年轻人",
+            "summary_cn": "2026年4月7日消息，皮尤研究中心发布最新民调，显示美国民众对以色列及其总理内塔尼亚胡的负面看法持续上升，尤其是年轻人群体。调查发现，约45%的美国人对以色列持负面看法，对 Netanyahu 持负面看法的比例更是达到55%。报告分析了不同政治派别、宗教背景和年龄群体的态度差异。"
+        },
+        "Gas Prices Are Americans' Top Concern in Iran War": {
+            "title_cn": "伊朗战争期间油价成为美国人最关切问题",
+            "summary_cn": "2026年4月7日消息，皮尤研究中心发布紧急民调，显示在美伊冲突升级背景下，汽油价格已成为美国民众最关切的经济问题。超过60%的受访者表示，油价上涨对他们的家庭预算造成显著压力。"
+        },
+        "About half of Americans with siblings are close to at least one of them": {
+            "title_cn": "约半数有兄弟姐妹的美国人与至少一位兄弟姐妹关系亲密",
+            "summary_cn": "2026年4月7日消息，皮尤研究中心发布家庭关系研究，显示约50%有兄弟姐妹的美国成年人与至少一位兄弟姐妹保持亲密关系。报告分析了影响兄弟姐妹关系质量的因素，包括年龄差距、性别组合、童年家庭环境等。"
+        },
+        "Top tax frustrations for Americans: Feeling that some wealthy people, corporations don't pay fair share": {
+            "title_cn": "美国人最关切的税收问题：认为部分富人和企业未承担应有份额",
+            "summary_cn": "2026年4月6日消息，皮尤研究中心发布税收态度调查，显示美国民众最关切的税收问题是富人税负不公。约70%的受访者认为，部分 wealthy individuals 和大型企业通过税收漏洞逃避了应有的税收责任。"
         }
     },
     "heritage": {
@@ -629,6 +645,10 @@ translations_db = {
         "Infinite Potential—Insights from the Viral Uplift Scenario: Implications of Rapid, Unbounded AI Growth": {
             "title_cn": "无限潜能——病毒式 uplift 情景洞察：快速无界人工智能增长的影响",
             "summary_cn": "2026年4月6日消息，兰德公司发布前瞻性研究报告，分析人工智能快速无界增长对社会经济的潜在影响。报告构建了病毒式 uplift 情景模型，探讨了在AI技术呈指数级发展的情况下，劳动力市场、教育体系和全球经济可能面临的重大变革。研究建议政策制定者提前规划，制定适应性政策框架，以最大化AI技术的积极影响并 mitigate 潜在风险。"
+        },
+        "Infinite Potential—Insights from the Viral Uplift Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises": {
+            "title_cn": "无限潜能——病毒式 uplift 情景洞察：通用人工智能演习事后行动报告",
+            "summary_cn": "2026年4月6日消息，兰德公司发布前瞻性研究报告，基于一系列通用人工智能（AGI）演习的事后行动报告，分析人工智能快速发展对社会经济的潜在影响。报告通过模拟演习的方式，探讨了在AGI技术实现突破的情况下，政府、企业和社会可能面临的挑战和应对策略。"
         },
         "Standards-Aligned Instructional Materials Use and Science Practices in K–12 Schools: Findings from the Spring 2025 American Instructional Resources Survey": {
             "title_cn": "K-12学校课程标准教学材料使用与科学实践：2025年春季美国教学资源调查结果",
@@ -1172,9 +1192,15 @@ translations_db = {
         }
     },
     "nea_news": {
-        "NEA names Washington’s Stanley Calhoun 2026 Education Support Professional of the Year": {
+        "NEA names Washington's Stanley Calhoun 2026 Education Support Professional of the Year": {
             "title_cn": "NEA命名华盛顿州Stanley Calhoun为2026年度教育支持专业人员",
             "summary_cn": "2026年3月消息，美国国家教育协会(NEA)宣布命名华盛顿州的Stanley Calhoun为2026年度教育支持专业人员。该奖项表彰了Calhoun在教育领域的杰出贡献，他为学生和学校提供了卓越的支持服务，体现了NEA对教育支持专业人员的重视和认可。"
+        }
+    },
+    "butler_stories": {
+        "Butler Students Take Learning to the National Stage": {
+            "title_cn": "巴特勒大学学生将学习成果带到全国舞台",
+            "summary_cn": "2026年4月消息，巴特勒大学学生在国家级学术和职业舞台上展示其学习成果。学生们通过参加全国性竞赛、学术会议和专业实习，展现了巴特勒大学优质教育的成效，为学校赢得了荣誉。"
         }
     }
 }
