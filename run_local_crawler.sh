@@ -8,12 +8,17 @@ echo "📅 只抓取最近4天内的文章"
 echo "时间: $(date)"
 echo "========================================"
 
-cd /root/.openclaw/workspace/hot-edu-news
+cd /home/xutao/workspace/hot-edu-news
+
+# 从 git credential store 读取 GitHub token
+if [ -f ~/.git-credentials ]; then
+    GITHUB_TOKEN=$(grep "github.com" ~/.git-credentials 2>/dev/null | head -1 | sed 's|https://[^:]*:\([^@]*\)@.*|\1|')
+fi
 
 # 1. 运行Brookings爬虫
 echo ""
 echo "📰 [1/67] 运行 Brookings 爬虫..."
-python3 sources/brookings/crawler.py
+/usr/bin/python3 sources/brookings/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Brookings 完成"
 else
@@ -23,7 +28,7 @@ fi
 # 2. 运行ED.gov爬虫
 echo ""
 echo "📰 [2/67] 运行 ED.gov 爬虫..."
-python3 sources/edgov/crawler.py
+/usr/bin/python3 sources/edgov/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ ED.gov 完成"
 else
@@ -33,7 +38,7 @@ fi
 # 3. 运行White House爬虫
 echo ""
 echo "📰 [3/67] 运行 White House 爬虫..."
-python3 sources/whitehouse/crawler.py
+/usr/bin/python3 sources/whitehouse/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ White House 完成"
 else
@@ -43,7 +48,7 @@ fi
 # 4. 运行ACE爬虫
 echo ""
 echo "📰 [4/67] 运行 ACE 爬虫..."
-python3 sources/ace/crawler.py
+/usr/bin/python3 sources/ace/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ ACE 完成"
 else
@@ -53,7 +58,7 @@ fi
 # 5. 运行NSF NCSES爬虫
 echo ""
 echo "📰 [5/67] 运行 NSF NCSES 爬虫..."
-python3 sources/nsf_ncses/crawler.py
+/usr/bin/python3 sources/nsf_ncses/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ NSF NCSES 完成"
 else
@@ -63,7 +68,7 @@ fi
 # 6. 运行Heritage爬虫
 echo ""
 echo "📰 [6/67] 运行 Heritage Foundation 爬虫..."
-python3 sources/heritage/crawler.py
+/usr/bin/python3 sources/heritage/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Heritage 完成"
 else
@@ -73,7 +78,7 @@ fi
 # 7. 运行Rand爬虫
 echo ""
 echo "📰 [7/67] 运行 Rand Corporation 爬虫..."
-python3 sources/rand/crawler.py
+/usr/bin/python3 sources/rand/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Rand 完成"
 else
@@ -83,7 +88,7 @@ fi
 # 8. 运行Pew Research爬虫
 echo ""
 echo "📰 [9/67] 运行 Pew Research 爬虫..."
-python3 sources/pewresearch/crawler.py
+/usr/bin/python3 sources/pewresearch/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Pew Research 完成"
 else
