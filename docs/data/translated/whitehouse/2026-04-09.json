@@ -1,17 +1,17 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-09T13:15:36.638663",
+  "crawled_at": "2026-04-09T13:23:43.124950",
   "total_news": 10,
   "news": [
     {
-      "title": "Era of Amnesty Is Over: President Trump Restores Rule of Law to Immigration Courts",
+      "title": "特朗普总统宣布大赦时代结束：恢复移民法庭法治",
       "url": "https://www.whitehouse.gov/releases/2026/04/era-of-amnesty-is-over-president-trump-restores-rule-of-law-to-immigration-courts/",
       "date": "April 9, 2026",
       "category": "Releases",
       "source": "The White House",
       "original_title": "Era of Amnesty Is Over: President Trump Restores Rule of Law to Immigration Courts",
-      "summary_cn": ""
+      "summary_cn": "2026年4月9日，美国总统特朗普宣布'大赦时代'正式结束，采取一系列措施恢复移民法庭的法治秩序。白宫声明指出，过去几十年来，美国移民系统被滥用，大量非法移民通过各种途径进入并滞留美国，对国家安全、公共安全和美国经济造成严重影响。新政策措施包括：加快移民案件审理速度，减少案件积压；加强对移民法官的监督管理，确保其依法公正裁决；严格限制' catch and release '做法，要求更多移民在案件审理期间被拘留；扩大快速遣返程序的适用范围；以及加强与地方执法部门的合作，提高非法移民的识别和遣返效率。总统强调，这些措施旨在恢复移民法的尊严和权威，确保美国移民系统服务于国家利益而非被滥用。司法部长Pam Bondi和国土安全部部长Kristi Noem表示，将全力配合总统政策，确保移民法庭能够高效、公正地处理案件，维护美国的法律秩序和边境安全。"
     },
     {
       "title": "白宫环境质量委员会发布分类排除指南",
@@ -95,6 +95,6 @@
       "summary_cn": "2026年4月7日，美国总统特朗普签署《紧急国家行动保护大学体育》行政令，应对大学体育面临的法律混乱和财务压力威胁。该行政令旨在保护覆盖超过50万名学生运动员、提供近40亿美元奖学金、推动美国奥运优势的大学体育体系。行政令利用联邦权力支持执行关于参赛资格、转会和补偿的清晰、一致、公平规则，同时促进可持续的收入共享和加强对学生运动员的保护，为大学体育建立关键护栏以稳定局势。总统特朗普表示，面对运动员、大学和球迷的呼吁，必须采取果断行动保护这一重要的美国制度。全国大学体育协会（NCAA）主席Charlie Baker、美国奥委会首席执行官Sarah Hirshland、前阿拉巴马大学橄榄球队主教练Nick Saban以及主要大学体育联盟负责人纷纷表示支持，称赞总统在这一重要议题上的领导作用，并呼吁国会尽快通过《SCORE法案》以提供长期立法解决方案。"
     }
   ],
-  "translated_count": 9,
-  "missing_count": 1
+  "translated_count": 10,
+  "missing_count": 0
 }

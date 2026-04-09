@@ -1,18 +1,18 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-09T13:15:35.310460",
+  "crawled_at": "2026-04-09T13:23:41.807572",
   "total_news": 6,
   "news": [
     {
-      "title": "Victories for Higher Education: Ending Gender Extremism and Cutting Underused Programs",
+      "title": "教育部宣布高等教育重大胜利：终结性别极端主义并削减未充分利用项目",
       "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-ending-gender-extremism-and-cutting-underused-programs",
       "date": "April 9, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "higher_ed",
       "original_title": "Victories for Higher Education: Ending Gender Extremism and Cutting Underused Programs",
-      "summary_cn": ""
+      "summary_cn": "2026年4月9日，美国教育部发布声明，宣布在高等教育领域取得重大政策胜利，重点推进终结校园性别极端主义并削减未充分利用的联邦教育项目。教育部指出，近年来部分高校推行的性别意识形态教育已偏离教育本质，对学生身心健康造成负面影响。新政策要求高校停止向未成年人宣传性别转换理念，禁止在学校课程中引入不适合年龄的性别教育内容。同时，教育部对联邦资助项目进行全面审计，识别并终止了多个长期未充分利用、成效不彰的教育项目，预计将每年节省数亿美元联邦资金。这些节省的资金将重新分配给更有效地服务学生的项目，如职业培训、STEM教育和基础教育支持。教育部长Linda McMahon表示，这些举措体现了政府将学生利益置于首位、提高联邦教育投资效益的坚定承诺。"
     },
     {
       "title": "美国教育部长麦克马洪访问南达科他州开展教育政策巡讲",
@@ -45,14 +45,14 @@
       "summary_cn": "2026年4月7日消息，美国总统宣布2026年4月为全国社区学院月，以表彰社区学院在美国高等教育体系中的重要贡献。社区学院作为美国高等教育的重要组成部分，每年为超过1200万学生提供高质量、低成本的教育和职业培训机会。总统公告强调，社区学院在促进教育公平、支持终身学习、培养技能人才、服务地方经济发展等方面发挥着不可替代的作用。"
     },
     {
-      "title": "高等教育成果：消除多元化、公平与包容（DEI）倡议",
+      "title": "教育部宣布高等教育成果：消除多元化、公平与包容（DEI）歧视性倡议",
       "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-eliminating-dei",
       "date": "April 6, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
       "category": "higher_ed",
       "original_title": "Victories for Higher Education: Eliminating DEI",
-      "summary_cn": "2026年4月6日消息，美国教育部发布高等教育政策成果报告，重点介绍在消除高校多元化、公平与包容（DEI）倡议方面取得的进展。报告指出，DEI项目已被证明存在歧视性做法，违反了联邦反歧视法律。教育部采取了一系列措施，包括要求高校披露DEI相关支出、审查DEI项目合规性、终止对参与非法歧视活动的高校的联邦资助等。"
+      "summary_cn": "2026年4月6日，美国教育部发布高等教育政策成果报告，重点介绍在消除高校多元化、公平与包容（DEI）倡议方面取得的显著进展。报告指出，经过全面审查，发现许多DEI项目存在基于种族、性别等受保护特征的歧视性做法，违反了联邦反歧视法律。教育部采取了一系列措施，包括要求高校全面披露DEI相关支出、审查所有DEI项目合规性、终止对参与非法歧视活动高校的联邦资助等。报告强调，联邦教育资金应用于促进真正的学术卓越和机会平等，而非支持基于身份的偏好制度。教育部已致函全国主要高校，要求其在规定期限内提交DEI项目整改计划，否则将面临资金冻结风险。教育部长Linda McMahon表示，这些措施旨在恢复高等教育领域的择优原则，确保所有学生都能在公平环境中竞争和发展。"
     },
     {
       "title": "美国教育部撤销非法第九条决议协议",
@@ -65,6 +65,6 @@
       "summary_cn": "2026年4月8日消息，美国教育部宣布撤销此前发布的关于第九条（Title IX）的决议协议，称该协议缺乏法律依据且扩大了性别歧视定义的适用范围。教育部表示，此举旨在恢复第九条的原初立法意图，确保联邦教育反歧视法规的正确实施。该决定引发教育界广泛关注和讨论。"
     }
   ],
-  "translated_count": 5,
-  "missing_count": 1
+  "translated_count": 6,
+  "missing_count": 0
 }
