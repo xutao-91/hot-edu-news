@@ -1,0 +1,133 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-09T11:18:36.021267",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Americans still opt for print books over digital or audio versions; few are in book clubs",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "date": "Apr 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Reading",
+        "Leisure"
+      ],
+      "summary_en": "Most U.S. adults read books, with print still favored over digital formats, though e-book and audiobook use has grown. Habits vary by demographics and few join book clubs.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "How often does the Supreme Court overturn its own decisions?",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/08/how-often-does-the-supreme-court-overturn-its-own-decisions/",
+      "date": "Apr 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "Political Ideals Systems",
+        "Supreme Court"
+      ],
+      "summary_en": "Fewer than 1% of Supreme Court cases have overturned an older decision. More than half of these cases concerned economic activity or criminal procedure.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Video: Can polls tell us who will win on Election Day?",
+      "url": "https://www.pewresearch.org/methods/2026/04/08/video-can-polls-tell-us-who-will-win-on-election-day/",
+      "date": "Apr 8, 2026",
+      "type": "video",
+      "categories": [
+        "Survey Methods"
+      ],
+      "summary_en": "We often hear a candidate is leading, trailing, or the race is tied. This is based on “horse race” polling, which estimates how much support candidates have, based on how people answer surveys leading up to an election. But accurately measuring the horse race is wicked hard for a few reasons.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "Negative views of Israel, Netanyahu continue to rise among Americans – especially young people",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/07/negative-views-of-israel-netanyahu-continue-to-rise-among-americans-especially-young-people/",
+      "date": "Apr 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Israel Global Image",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Views of Israel and Benjamin Netanyahu have grown more negative among U.S. adults, with majorities under 50 in both parties rating them poorly.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Gas Prices Are Americans’ Top Concern in Iran War",
+      "url": "https://www.pewresearch.org/global/2026/04/07/gas-prices-are-americans-top-concern-in-iran-war/",
+      "date": "Apr 7, 2026",
+      "type": "report",
+      "categories": [
+        "Donald Trump",
+        "Energy",
+        "Nuclear Weapons 2",
+        "Nuclear Weapons 1",
+        "Politics Policy",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "69% of Americans are worried about higher gas prices due to the Iran war, and 45% say the U.S. is not doing enough to avoid civilian causalities.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Where Do Americans Get Health Information, and What Do They Trust?",
+      "url": "https://www.pewresearch.org/science/2026/04/07/where-do-americans-get-health-information-and-what-do-they-trust/",
+      "date": "Apr 7, 2026",
+      "type": "report",
+      "categories": [
+        "Medicine Health",
+        "Science",
+        "Science News Information",
+        "Social Media"
+      ],
+      "summary_en": "Health care providers are a key source for health information. Smaller shares get health information from social media and AI.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "About half of Americans with siblings are close to at least one of them",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/07/about-half-of-americans-with-siblings-are-close-to-at-least-one-of-them/",
+      "date": "Apr 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Family Relationships"
+      ],
+      "summary_en": "About half of U.S. adults with a sibling are very or extremely close to at least one, with closeness and support varying by demographics.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Republicans have become less likely to say NATO membership benefits the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/06/republicans-have-become-less-likely-to-say-nato-membership-benefits-the-us/",
+      "date": "Apr 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Defense National Security",
+        "International Issues",
+        "Nato"
+      ],
+      "summary_en": "Around four-in-ten Republicans (38%) say the U.S. benefits at least a fair amount from being part of NATO – down from 49% last year. Among Democrats, 82% say this.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Top tax frustrations for Americans: Feeling that some wealthy people, corporations don’t pay fair share",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/06/top-tax-frustrations-for-americans-feeling-that-some-wealthy-people-corporations-dont-pay-fair-share/",
+      "date": "Apr 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Partisanship Issues",
+        "Politics Policy",
+        "Taxes"
+      ],
+      "summary_en": "61% of adults say that the feeling that some wealthy people don’t pay their fair share bothers them a lot. 60% say this about some some corporations.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

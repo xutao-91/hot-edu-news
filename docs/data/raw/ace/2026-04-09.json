@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-04-09T11:18:30.075560",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Trump Budget for FY 2027 Maintains Pell Grant but Slashes Other Student Aid, Research Funding",
+      "url": "https://www.acenet.edu/News-Room/Pages/Trump-FY2027-Budget-Maintains-Pell-Slashes-Other-Student-Aid.aspx",
+      "date": "April 6, 2026",
+      "type": "News",
+      "summary_en": "The Trump administration released its proposed fiscal year 2027 budget on Friday, increasing funding for the Pell Grant program to address a shortfall while proposing deep cuts to student aid, institutional support, and research funding.",
+      "source": "ACE",
+      "category": "student_aid"
+    }
+  ]
+}
