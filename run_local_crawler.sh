@@ -55,9 +55,29 @@ else
     echo "⚠️  ACE 失败，继续..."
 fi
 
-# 5. 运行NSF NCSES爬虫
+# 5. 运行CSIS爬虫
 echo ""
-echo "📰 [5/67] 运行 NSF NCSES 爬虫..."
+echo "📰 [5/67] 运行 CSIS 爬虫..."
+/usr/bin/python3 sources/csis/crawler.py
+if [ $? -eq 0 ]; then
+    echo "✅ CSIS 完成"
+else
+    echo "⚠️  CSIS 失败，继续..."
+fi
+
+# 6. 运行EdWeek爬虫
+echo ""
+echo "📰 [6/67] 运行 Education Week 爬虫..."
+/usr/bin/python3 sources/edweek/crawler.py
+if [ $? -eq 0 ]; then
+    echo "✅ EdWeek 完成"
+else
+    echo "⚠️  EdWeek 失败，继续..."
+fi
+
+# 7. 运行NSF NCSES爬虫
+echo ""
+echo "📰 [7/69] 运行 NSF NCSES 爬虫..."
 /usr/bin/python3 sources/nsf_ncses/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ NSF NCSES 完成"
@@ -65,9 +85,9 @@ else
     echo "⚠️  NSF NCSES 失败，继续..."
 fi
 
-# 6. 运行Heritage爬虫
+# 8. 运行Heritage爬虫
 echo ""
-echo "📰 [6/67] 运行 Heritage Foundation 爬虫..."
+echo "📰 [8/69] 运行 Heritage Foundation 爬虫..."
 /usr/bin/python3 sources/heritage/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Heritage 完成"
@@ -75,9 +95,9 @@ else
     echo "⚠️  Heritage 失败，继续..."
 fi
 
-# 7. 运行Rand爬虫
+# 9. 运行Rand爬虫
 echo ""
-echo "📰 [7/67] 运行 Rand Corporation 爬虫..."
+echo "📰 [9/69] 运行 Rand Corporation 爬虫..."
 /usr/bin/python3 sources/rand/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Rand 完成"
@@ -85,9 +105,9 @@ else
     echo "⚠️  Rand 失败，继续..."
 fi
 
-# 8. 运行Pew Research爬虫
+# 10. 运行Pew Research爬虫
 echo ""
-echo "📰 [8/67] 运行 Pew Research 爬虫..."
+echo "📰 [10/69] 运行 Pew Research 爬虫..."
 /usr/bin/python3 sources/pewresearch/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ Pew Research 完成"
@@ -95,21 +115,21 @@ else
     echo "⚠️  Pew Research 失败，继续..."
 fi
 
-# 9. 翻译数据
+# 11. 翻译数据
 echo ""
-echo "🌐 [9/67] 翻译数据..."
+echo "🌐 [11/69] 翻译数据..."
 /usr/bin/python3 translate.py
 echo "✅ 翻译完成"
 
-# 10. 生成 HTML
+# 12. 生成 HTML
 echo ""
-echo "📄 [10/67] 生成 HTML 页面..."
+echo "📄 [12/69] 生成 HTML 页面..."
 /usr/bin/python3 generate_html.py
 echo "✅ HTML 生成完成"
 
-# 11. 同步docs目录
+# 13. 同步docs目录
 echo ""
-echo "📂 [11/67] 同步 docs 目录..."
+echo "📂 [13/69] 同步 docs 目录..."
 cp index.html docs/
 cp -r data/ docs/
 echo "✅ docs目录已同步"
