@@ -1,0 +1,38 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-04-09T21:14:52.773437",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Butler University Welcomes Seven New Trustees to Its Board of Trustees",
+      "url": "https://stories.butler.edu/butler-university-welcomes-seven-new-trustees-to-its-board-of-trustees/",
+      "date": "2026-04-09",
+      "type": "News",
+      "summary_en": "Seven new leaders—including five Butler alumni—will join the University’s Board of Trustees, bringing expertise in healthcare, education, business, and finance to help guide Butler’s continued progress through Boldly Butler.  As Butler University advances its strategic vision through Boldly Butler, seven accomplished leaders will soon join the University’s Board of Trustees, contributing perspecti",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "education"
+    },
+    {
+      "title": "The University Is Not Prepared for What Comes Next",
+      "url": "https://stories.butler.edu/the-university-is-not-prepared-for-what-comes-next/",
+      "date": "2026-04-08",
+      "type": "News",
+      "summary_en": "This is a working reflection on the future of higher education and what it may require of institutions like Butler. It is intentionally provocative in places and is not a plan or a set of decisions. Rather, it reflects the level of ambition I believe this moment demands. I share it in the spirit of…",
+      "author": "james m. danko",
+      "source": "Butler Stories",
+      "category": "education"
+    },
+    {
+      "title": "Why Attend an Overnight Pre-College Program",
+      "url": "https://stories.butler.edu/why-attend-an-overnight-pre-college-program/",
+      "date": "2026-04-06",
+      "type": "News",
+      "summary_en": "Ready to experience college life beyond the campus tour? Here are three reasons why you should consider an overnight pre-college program experience as a high schooler.",
+      "author": "Victoria Ochs",
+      "source": "Butler Stories",
+      "category": "general"
+    }
+  ]
+}
