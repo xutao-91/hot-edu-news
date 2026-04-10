@@ -1,0 +1,17 @@
+{
+  "source": "Dordt University News",
+  "source_url": "https://www.dordt.edu/news",
+  "crawled_at": "2026-04-09T21:49:48.161252",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Dordt Ag Day on April 24",
+      "url": "https://www.dordt.edu/news/dordt-ag-day-on-april-24",
+      "date": "2026-04-09",
+      "type": "News",
+      "summary_en": "Dordt University's Agriculture Club will host its annual Ag Day on Friday, April 24, from 9 a.m. to 3 p.m.",
+      "source": "Dordt News",
+      "category": "agriculture"
+    }
+  ]
+}
