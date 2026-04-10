@@ -174,23 +174,26 @@
         
         /* 响应式 */
         @media (max-width: 900px) {
-            .col-summary {
-                display: none;
-            }
-        }
-        
-        @media (max-width: 600px) {
-            .col-index {
-                display: none;
-            }
-            .col-category {
-                display: none;
-            }
             body {
                 padding: 10px;
             }
+            table {
+                font-size: 12px;
+            }
             th, td {
-                padding: 10px 8px;
+                padding: 8px 6px;
+            }
+            .col-index {
+                width: 40px;
+            }
+            .col-date {
+                width: 55px;
+            }
+            .col-category {
+                width: 80px;
+            }
+            .col-source {
+                width: 80px;
             }
         }
     </style>
