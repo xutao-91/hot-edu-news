@@ -1,9 +1,19 @@
 {
   "source": "The Daily Illini",
-  "source_url": "https://dailyillini.com/news-stories/university-news/",
+  "source_url": "https://dailyillini.com/news-stories/",
   "crawled_at": "2026-04-09T21:18:29.681679",
-  "total_news": 3,
+  "total_news": 4,
   "news": [
+    {
+      "title": "Engineering Open House 'Forging the Future' builds toward high-tech tomorrow",
+      "url": "https://dailyillini.com/news-stories/around-campus/2026/04/09/engineering-open-house-high-tech-tomorrow/",
+      "date": "2026-04-09",
+      "type": "News",
+      "summary_en": "The 2026 Engineering Open House, the nation's largest student-run STEM fair, takes over Bardeen Quadrangle with over 200 exhibits centered around the theme 'Forging the Future'.",
+      "author": "Blake Noble",
+      "source": "Daily Illini",
+      "category": "campus"
+    },
     {
       "title": "Snyder Hall flood displaces 450, UI Housing finds space",
       "url": "https://dailyillini.com/news-stories/university-news/2026/04/08/snyder-hall-flood-ui-housing/",

@@ -1,9 +1,21 @@
 {
   "source": "The Daily Illini",
-  "source_url": "https://dailyillini.com/news-stories/university-news/",
+  "source_url": "https://dailyillini.com/news-stories/",
   "crawled_at": "2026-04-09T21:20:50.197504",
-  "total_news": 3,
+  "total_news": 4,
   "news": [
+    {
+      "title": "伊利诺伊大学工程开放日：锻造未来，展示前沿科技",
+      "url": "https://dailyillini.com/news-stories/around-campus/2026/04/09/engineering-open-house-high-tech-tomorrow/",
+      "date": "2026-04-09",
+      "type": "News",
+      "summary_en": "The 2026 Engineering Open House, the nation's largest student-run STEM fair, takes over Bardeen Quadrangle with over 200 exhibits centered around the theme 'Forging the Future'.",
+      "source": "Daily Illini",
+      "category": "campus",
+      "author": "Blake Noble",
+      "original_title": "Engineering Open House 'Forging the Future' builds toward high-tech tomorrow",
+      "summary_cn": "2026年4月9日消息，伊利诺伊大学2026年度工程开放日（EOH）于本周末举行，这是全美最大的学生主导STEM展会，在Bardeen Quadrangle展示超过200个展览和竞赛项目。本届主题为锻造未来，展示工程师在塑造未来科技中的关键作用。展览项目包括无障碍医疗技术进步、地球外生命探索创新、太阳能竞赛汽车以及混凝土发电技术等。今年EOH首次推出研究 showcase，包括海报展示、演讲和交流活动。活动还推出首个EOH应用程序，提供实时活动通知、展览评论和二维码功能；Virtual EOH网站将在活动结束后向全国学校分享照片、视频和演示。创业 showcase 继续为获奖者提供5000美元奖金，展示学生创业公司的创新成果。"
+    },
     {
       "title": "伊利诺伊大学Snyder Hall水管爆裂致450名学生搬迁",
       "url": "https://dailyillini.com/news-stories/university-news/2026/04/08/snyder-hall-flood-ui-housing/",
@@ -41,6 +53,6 @@
       "summary_cn": "2026年4月6日消息，伊利诺伊大学系统校董会批准成立23人校长遴选委员会，协助遴选现任校长Timothy L. Killeen的继任者，提名截止日期为4月8日。委员会成员来自八个不同群体，包括教职员工和学生等，规模较2009年和2014年两次校长遴选增加了四人。Killeen校长于今年1月初宣布将于2027年6月30日合同期满后卸任。过去二十年间，该校校长职位争议不断，B. Joseph White因招生丑闻辞职，Michael J. Hogan因 faculty 担忧其组织 initiatives 辞职，Stanley O. Ikenberry曾在两人之间临时担任校长。"
     }
   ],
-  "translated_count": 3,
+  "translated_count": 4,
   "missing_count": 0
 }
