@@ -1,22 +1,46 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-04-02T09:00:36.976899",
-  "total_news": 1,
+  "crawled_at": "2026-04-09T21:16:40.737670",
+  "total_news": 3,
   "news": [
     {
-      "title": "巴特勒大学学生将学习成果带到全国舞台",
-      "url": "https://stories.butler.edu/butler-students-take-learning-to-the-national-stage-during-final-four-weekend/",
-      "date": "2026-03-31",
+      "title": "巴特勒大学任命七位新董事",
+      "url": "https://stories.butler.edu/butler-university-welcomes-seven-new-trustees-to-its-board-of-trustees/",
+      "date": "2026-04-09",
       "type": "News",
-      "summary_en": "As Indianapolis welcomes the 2026 NCAA Men’s Final Four, Butler University students are not just spectators—they are part of the operation.  Through a new course, SPM 390: Special Topics in Sports Media: Large Scale Sports Events – Inside the Road to the Final Four, Butler is turning one of the nation’s biggest sporting events into…",
-      "author": "Mark Apple",
+      "summary_en": "Seven new leaders—including five Butler alumni—will join the University's Board of Trustees, bringing expertise in healthcare, education, business, and finance.",
       "source": "Butler Stories",
-      "category": "culture",
-      "original_title": "Butler Students Take Learning to the National Stage During Final Four Weekend",
-      "summary_cn": "2026年4月消息，巴特勒大学学生在国家级学术和职业舞台上展示其学习成果。学生们通过参加全国性竞赛、学术会议和专业实习，展现了巴特勒大学优质教育的成效，为学校赢得了荣誉。"
+      "category": "education",
+      "author": "Katie Palmer Wharton '14",
+      "original_title": "Butler University Welcomes Seven New Trustees to Its Board of Trustees",
+      "summary_cn": "2026年4月9日消息，巴特勒大学宣布任命七位新董事加入校董会，其中五位为校友，将于2026年6月2日正式就职。新任董事包括：肺病与重症监护医师Loor Alshawa博士（2014届）、小学教师Kendall Brehm（2017届）、圣十字学院心理学教授Stephenie Chaudoir博士（2003届）、工业复合材料公司执行副总裁Lucy Houchin（2007届）、社区医疗网络首席执行官Patrick McGill博士、投资公司创始人Sean McGould（1989届）以及金融顾问Howard Sams（1993届）。新董事在医疗、教育、全球商业和金融领域拥有丰富经验，将为巴特勒大学'Boldly Butler'战略愿景的实施提供重要指导。"
+    },
+    {
+      "title": "巴特勒大学校长撰文：高校尚未为未来变革做好准备",
+      "url": "https://stories.butler.edu/the-university-is-not-prepared-for-what-comes-next/",
+      "date": "2026-04-08",
+      "type": "News",
+      "summary_en": "A working reflection on the future of higher education and what it may require of institutions like Butler in an AI-shaped world.",
+      "source": "Butler Stories",
+      "category": "education",
+      "author": "James M. Danko",
+      "original_title": "The University Is Not Prepared for What Comes Next",
+      "summary_cn": "2026年4月8日，巴特勒大学校长詹姆斯·丹科发表署名文章直言，当前美国高等教育体系并未为AI与自动化带来的未来做好准备，学生、家长与教育从业者均应对此保持警惕。文章指出，政治极化、人口结构变化、公众信任度下降等问题并非高校面临的核心挑战，真正的深层危机在于高校仍在用适配旧时代的架构，培养应对高度不确定未来的学生。沿用百年的院系、专业、学分、固定学位路径等模式，是为稳定职业、线性发展、知识稀缺的时代设计，已不再适用于AI重塑的职场环境。尽管高校推出了证书项目、体验式学习等改革，但大多只是在现有体系上修补，并未触及根本结构。丹科认为，在AI时代，专业与院系未必是最优的教学组织形式，真正的创新需要打破传统架构。未来高校应围绕人类终身具备的核心能力构建教育，如伦理判断、创造力、协作能力、系统思维，同时围绕健康、气候、治理等人类社会持久挑战开展跨学科乃至后学科教育。学习模式也应更灵活、模块化、贯穿终身，教师角色将从知识传授转向价值判断、情境指导、伦理框架构建与学习体验设计。文章强调，高等教育的未来必须从关注教育投入转向关注育人成果，培养学生在AI时代独有的竞争力，包括独立思考、适应能力、跨领域整合知识与终身学习能力。高校需要做出选择，是固守传统模式直至被时代淘汰，还是大胆重构面向未来的教育体系。巴特勒大学虽长期秉持创新理念，但仍需将改革决心延伸至学校组织架构本身，通过持续试验与集体智慧探索前行之路，而选择大胆变革的时机就在当下。"
+    },
+    {
+      "title": "为何参加大学预科住宿项目",
+      "url": "https://stories.butler.edu/why-attend-an-overnight-pre-college-program/",
+      "date": "2026-04-06",
+      "type": "News",
+      "summary_en": "Three reasons why high schoolers should consider an overnight pre-college program experience.",
+      "source": "Butler Stories",
+      "category": "general",
+      "author": "Victoria Ochs",
+      "original_title": "Why Attend an Overnight Pre-College Program",
+      "summary_cn": "2026年4月6日消息，巴特勒大学招生办介绍高中生参加大学预科住宿项目的三大理由。首先，住宿体验让学生真实感受宿舍生活，了解空间布局、储物情况、噪音水平，并练习与室友相处。其次，学生可体验日常餐饮服务，了解食物选择、过敏餐食 accommodations，以及如何在学业与营养间取得平衡。第三，住宿项目让学生成为校园体验的积极参与者，而非旁观者，可参加课程、与教授互动、使用实验室和图书馆等设施，从而判断自己是否适合该校氛围。巴特勒大学预科项目为期一周，设有商业、医疗和探索性课程方向，学生可获得大学学分并建立持久友谊。"
     }
   ],
-  "translated_count": 1,
+  "translated_count": 3,
   "missing_count": 0
 }

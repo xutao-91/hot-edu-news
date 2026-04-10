@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-04-09T15:30:00",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How higher ed and lifelong learning can shape a future-proof workforce",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/04/08/how-higher-ed-and-lifelong-learning-can-shape-a-future-proof-workforce/",
+      "date": "2026-04-08",
+      "type": "Career Readiness",
+      "summary_en": "A new survey from Instructure explores how prepared people feel in navigating today's workforce, and examines the evolving role of higher education and upskilling in meeting new learner expectations and the demands of the future of work.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "What's the state of wireless in higher education?",
+      "url": "https://www.ecampusnews.com/it-leadership/2026/04/06/whats-the-state-of-wireless-in-higher-education/",
+      "date": "2026-04-06",
+      "type": "IT Infrastructure",
+      "summary_en": "Wi-Fi has evolved into a strategic growth engine capable of delivering a multiplier effect–where a single network investment drives compounding returns across employee productivity, customer engagement, and revenue, according to Cisco's inaugural State of Wireless Report.",
+      "source": "eCampus News",
+      "category": "edtech"
+    }
+  ]
+}
