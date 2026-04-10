@@ -14,9 +14,11 @@ try:
     import translate
     TITLE_TRANSLATIONS = translate.TITLE_TRANSLATIONS
     SUMMARY_TRANSLATIONS = translate.SUMMARY_TRANSLATIONS
+    translations_db = translate.translations_db
 except ImportError:
     TITLE_TRANSLATIONS = {}
     SUMMARY_TRANSLATIONS = {}
+    translations_db = {}
 
 def get_latest_json(directory):
     """自动找到目录下最新的JSON文件"""
@@ -172,6 +174,39 @@ def generate_html():
             except Exception as e:
                 print(f"❌ 读取 {source_key} 失败: {e}")
     
+    # 添加 translations_db 中手工完整录入的文章
+    # 先收集现有url，去重（如果已有，手工版本覆盖）
+    existing_urls = set()
+    for article in all_articles:
+        existing_urls.add(article.get('url', ''))
+    
+    for source_key, source_info in sources.items():
+        if source_key in translations_db:
+            for original_title, article_data in translations_db[source_key].items():
+                # 只添加那些包含完整 summary_cn 的手工文章
+                # 如果已经有 summary_cn 说明是完整手工录入
+                if 'summary_cn' in article_data and 'title_cn' in article_data:
+                    # 如果url不存在，跳过（需要url才能链接）
+                    if 'url' not in article_data:
+                        continue
+                    url = article_data['url']
+                    # 如果url已存在，先移除旧版本（优先保留手工正确版本）
+                    if url in existing_urls:
+                        all_articles = [a for a in all_articles if a.get('url', '') != url]
+                    # 构建文章对象
+                    article = {}
+                    article['original_title'] = original_title
+                    article['title'] = article_data['title_cn']
+                    article['summary_cn'] = article_data['summary_cn']
+                    article['url'] = url
+                    article['date'] = article_data.get('date', datetime.now().strftime('%Y-%m-%d'))
+                    article['category'] = article_data.get('category', '')
+                    article['_source_key'] = source_key
+                    article['_source_name'] = source_info['name']
+                    article['_source_color'] = source_info['color']
+                    article['_sort_date'] = format_date_key(article.get('date', ''))
+                    all_articles.append(article)
+    
     # 按日期倒序排列
     all_articles.sort(key=lambda x: x['_sort_date'], reverse=True)
     
@@ -194,6 +229,7 @@ def generate_html():
             font-family: "Microsoft YaHei", "SimSun", serif; 
             margin: 0;
             padding: 20px;
+            padding-bottom: 80px;
             background: #f5f5f5;
             line-height: 1.6;
         }
@@ -222,6 +258,8 @@ def generate_html():
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.08);
             overflow-x: auto;
+            overflow-y: visible;
+            margin-bottom: 40px;
         }
         
         /* 表格样式 */
