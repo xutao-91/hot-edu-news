@@ -161,6 +161,13 @@ def generate_html():
                     article['_source_name'] = source_info['name']
                     article['_source_color'] = source_info['color']
                     article['_sort_date'] = format_date_key(article.get('date', ''))
+                    # Apply manual translations from translate.py if available
+                    original_title = article.get('title', '')
+                    if TITLE_TRANSLATIONS and original_title in TITLE_TRANSLATIONS:
+                        article['original_title'] = original_title
+                        article['title'] = TITLE_TRANSLATIONS[original_title]
+                    if SUMMARY_TRANSLATIONS and original_title in SUMMARY_TRANSLATIONS:
+                        article['summary_cn'] = SUMMARY_TRANSLATIONS[original_title]
                     all_articles.append(article)
             except Exception as e:
                 print(f"❌ 读取 {source_key} 失败: {e}")
