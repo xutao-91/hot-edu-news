@@ -68,7 +68,6 @@ fi
 # 6. 运行EdWeek爬虫
 echo ""
 echo "📰 [6/67] 运行 Education Week 爬虫..."
-/usr/bin/python3 sources/edweek/crawler.py
 if [ $? -eq 0 ]; then
     echo "✅ EdWeek 完成"
 else

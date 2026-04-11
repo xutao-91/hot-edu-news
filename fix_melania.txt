@@ -1,0 +1,12 @@
+# === Fix Melania Trump statement translation ===
+# Use dict.update with JSON escaping
+TITLE_TRANSLATIONS.update({
+    "First Lady Melania Trump’s Statement": "第一夫人梅拉尼娅·特朗普发表声明",
+    "First Lady Melania Trump's Statement": "第一夫人梅拉尼娅·特朗普发表声明"
+})
+
+SUMMARY_TRANSLATIONS.update({
+    "First Lady Melania Trump’s Statement": "2026年4月9日，美国第一夫人梅拉尼娅·特朗普发表公开声明，要求停止将其与杰弗里·爱泼斯坦丑闻关联的虚假谣言。梅拉尼娅表示，将她与不光彩的爱泼斯坦联系在一起的谎言必须在今天结束。她说，散布这些谎言的人缺乏道德标准、谦逊和尊重，她反对这些人恶意诋毁其名誉的企图。梅拉尼娅澄清，她从未与爱泼斯坦成为朋友，只是由于在纽约和棕榈滩社交圈重叠，唐纳德和她偶尔会受邀参加同一个聚会。",
+    "First Lady Melania Trump's Statement": "2026年4月9日，美国第一夫人梅拉尼娅·特朗普发表公开声明，要求停止将其与杰弗里·爱泼斯坦丑闻关联的虚假谣言。梅拉尼娅表示，将她与不光彩的爱泼斯坦联系在一起的谎言必须在今天结束。她说，散布这些谎言的人缺乏道德标准、谦逊和尊重，她反对这些人恶意诋毁其名誉的企图。梅拉尼娅澄清，她从未与爱泼斯坦成为朋友，只是由于在纽约和棕榈滩社交圈重叠，唐纳德和她偶尔会受邀参加同一个聚会。"
+})
+
