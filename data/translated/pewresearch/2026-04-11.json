@@ -1,0 +1,54 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-11T12:22:46.093176",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "美国民众仍偏好纸质书籍而非数字或音频版本",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "date": "Apr 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Reading",
+        "Leisure"
+      ],
+      "summary_en": "Most U.S. adults read books, with print still favored over digital formats, though e-book and audiobook use has grown. Habits vary by demographics and few join book clubs.",
+      "source": "Pew Research Center",
+      "category": "technology",
+      "original_title": "Americans still opt for print books over digital or audio versions; few are in book clubs",
+      "summary_cn": "2026年4月9日消息，皮尤研究中心发布最新调查报告，显示尽管数字阅读技术日益普及，美国民众仍然更偏好传统的纸质书籍。调查发现，大多数美国成年人过去一年阅读过书籍，纸质书仍是最受欢迎的格式，尽管电子书和有声书的使用有所增加。报告分析了不同年龄段、教育背景和收入群体的阅读偏好差异，指出纸质书的触觉体验、减少屏幕时间的需求以及对数字分心的担忧是主要影响因素。"
+    },
+    {
+      "title": "最高法院多久会推翻自己的判决？",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/08/how-often-does-the-supreme-court-overturn-its-own-decisions/",
+      "date": "Apr 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "Political Ideals Systems",
+        "Supreme Court"
+      ],
+      "summary_en": "Fewer than 1% of Supreme Court cases have overturned an older decision. More than half of these cases concerned economic activity or criminal procedure.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "How often does the Supreme Court overturn its own decisions?",
+      "summary_cn": "2026年4月8日消息，皮尤研究中心发布分析报告，系统梳理美国最高法院推翻先前判例的历史频率和模式。研究发现，最高法院推翻自身判决的情况相对罕见，平均每年不到一起，但在特定历史时期，如社会重大变革期间，推翻率有所上升。报告分析了导致法院改变立场的关键因素，包括社会价值观演变、新证据出现、法律学说发展以及法官人员变动等。"
+    },
+    {
+      "title": "视频：民调能否预测选举日胜负？",
+      "url": "https://www.pewresearch.org/methods/2026/04/08/video-can-polls-tell-us-who-will-win-on-election-day/",
+      "date": "Apr 8, 2026",
+      "type": "video",
+      "categories": [
+        "Survey Methods"
+      ],
+      "summary_en": "We often hear a candidate is leading, trailing, or the race is tied. This is based on “horse race” polling, which estimates how much support candidates have, based on how people answer surveys leading up to an election. But accurately measuring the horse race is wicked hard for a few reasons.",
+      "source": "Pew Research Center",
+      "category": "politics",
+      "original_title": "Video: Can polls tell us who will win on Election Day?",
+      "summary_cn": "2026年4月8日消息，皮尤研究中心发布视频分析，探讨民意调查在预测选举结果方面的准确性和局限性。报告指出，尽管现代民调方法不断改进，但仍面临抽样偏差、受访者隐瞒真实意图、投票率不确定等挑战。报告回顾了近年来重大选举中民调预测与实际结果的差异，强调民调应被视为反映当前民意的工具，而非确定性预测。"
+    }
+  ],
+  "translated_count": 3,
+  "missing_count": 0
+}
