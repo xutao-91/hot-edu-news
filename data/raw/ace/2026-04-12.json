@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-04-12T11:21:00.485164",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE’s Building Pathways Initiative to Conduct Events Focusing on Cross-Sector Partnerships, State Strategies for Student Success",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Building-Pathways-Initiative-Events.aspx",
+      "date": "April 10, 2026",
+      "type": "News",
+      "summary_en": "An April 28, in-person convening in Pennsylvania and a May 6 webinar, the next installments in ACE’s Building Pathways Initiative, are open for registration.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

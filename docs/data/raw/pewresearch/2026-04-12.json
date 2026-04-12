@@ -1,0 +1,21 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-12T11:21:10.174363",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Americans still opt for print books over digital or audio versions; few are in book clubs",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/",
+      "date": "Apr 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Reading",
+        "Leisure"
+      ],
+      "summary_en": "Most U.S. adults read books, with print still favored over digital formats, though e-book and audiobook use has grown. Habits vary by demographics and few join book clubs.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

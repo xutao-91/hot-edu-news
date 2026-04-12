@@ -1,0 +1,32 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-04-12T11:20:56.052115",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Victories for American Taxpayers: Exposing COVID-Era Fraud, Waste, and Abuse in Federal Education Programs",
+      "url": "https://www.ed.gov/about/news/press-release/victories-american-taxpayers-exposing-covid-era-fraud-waste-and-abuse-federal-education-programs",
+      "date": "April 10, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits Nebraska on Returning Education to the States Tour",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-nebraska-returning-education-states-tour",
+      "date": "April 9, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "Victories for Higher Education: Ending Gender Extremism and Cutting Underused Programs",
+      "url": "https://www.ed.gov/about/news/press-release/victories-higher-education-ending-gender-extremism-and-cutting-underused-programs",
+      "date": "April 9, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    }
+  ]
+}
