@@ -1,0 +1,1 @@
+\n# === Manual compiled articles added automatically ===\n# Use dict.update with JSON escaping - handles all quotes/special chars safely\nTITLE_TRANSLATIONS.update({})\n\nSUMMARY_TRANSLATIONS.update({})\n\n

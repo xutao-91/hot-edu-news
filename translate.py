@@ -1168,9 +1168,12 @@ def translate_source(source_name):
     
     with open(source_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
-    
-    # 获取翻译库
-    trans_dict = translations_db.get(source_name, {})
+    if 'news' not in data:
+        print(f"  ⏭️  原始数据格式错误，无news字段，跳过")
+        return
+    for article in data['news']:
+        # 获取翻译库
+        trans_dict = translations_db.get(source_name, {})
     
     # 翻译文章
     translated_count = 0

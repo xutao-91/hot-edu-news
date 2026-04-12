@@ -55,24 +55,7 @@ else
     echo "⚠️  ACE 失败，继续..."
 fi
 
-# 5. 运行CSIS爬虫
-echo ""
-echo "📰 [5/67] 运行 CSIS 爬虫..."
-/usr/bin/python3 sources/csis/crawler.py
-if [ $? -eq 0 ]; then
-    echo "✅ CSIS 完成"
-else
-    echo "⚠️  CSIS 失败，继续..."
-fi
 
-# 6. 运行EdWeek爬虫
-echo ""
-echo "📰 [6/67] 运行 Education Week 爬虫..."
-if [ $? -eq 0 ]; then
-    echo "✅ EdWeek 完成"
-else
-    echo "⚠️  EdWeek 失败，继续..."
-fi
 
 # 7. 运行NSF NCSES爬虫
 echo ""
