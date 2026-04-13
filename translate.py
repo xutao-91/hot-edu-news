@@ -1348,3 +1348,25 @@ SUMMARY_TRANSLATIONS.update({
     "Butler University Welcomes Seven New Trustees to Its Board of Trustees": "2026年4月9日，巴特勒大学宣布，经过董事会2月会议投票表决，任命卢尔·阿尔沙瓦博士（2014届校友）、肯德尔·布雷姆（2017届）、斯蒂芬妮·肖杜瓦博士（2003届）、露西·霍钦（2007届）、帕特里克·麦吉尔博士、肖恩·麦克古尔德（1989届）、霍华德·桑姆斯（1993届）出任校董，任期自2026年6月2日开始。七位新任领导人中包括五位巴特勒校友，带来医疗健康、教育、商业和金融领域的专业知识，将在推进\"Boldly Butler\"战略愿景过程中帮助引领学校持续发展。 巴特勒大学校长詹姆斯·丹科表示，随着巴特勒通过战略愿景继续保持发展势头，校董的领导力对塑造下一阶段发展至关重要。这些新任校董带来了卓越经验和见解，感谢他们愿意为巴特勒的未来投入时间和才能，他们的指导将有助于确保学校继续为学生创造有意义的机会，在印第安纳波利斯及更广范围扩大影响力。"
 })
 
+
+# === 2026年4月13日新增7篇编译文章 ===
+TITLE_TRANSLATIONS.update({
+    "Financial aid for students without financial need: Why do colleges offer it?": "无经济需求学生资助政策：高校提供此类资助的原因分析",
+    "ACE, Higher Education Groups Urge Key Protections in Workforce Pell Rulemaking": "美国教育委员会联合高等教育组织呼吁在劳动力佩尔助学金规则制定中保留核心保障条款",
+    "Trump Administration Does Not Seek to Appeal to Supreme Court, Indirect Costs Cap Litigation Concluded": "特朗普政府未就间接成本上限诉讼向最高法院提起上诉，相关案件已终结",
+    "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises": "《无限潜能》报告：工商界与公民社会场景通用人工智能后续演练系列事后报告要点",
+    "Victories for American Taxpayers: Exposing COVID-Era Fraud, Waste, and Abuse in Federal Education Programs": "美国纳税人的胜利：联邦教育项目新冠疫情时期欺诈浪费与滥用问题清查结果公布",
+    "Day of Celebration in Honor of the Life of Henry Clay, 2026": "2026年亨利·克莱生平纪念活动日公告",
+    "Democrats Empower Sick Criminal Illegal Alien Predators to Prey on American Women, Children": "民主党政策纵容患病非法移民罪犯侵害美国妇女儿童权益"
+})
+
+SUMMARY_TRANSLATIONS.update({
+    "Financial aid for students without financial need: Why do colleges offer it?": "2026年4月13日，布鲁金斯学会发布研究报告，聚焦美国高校面向无经济需求学生提供资助的政策背景与实施逻辑。报告指出，此类资助并非仅为吸引优质生源的竞争手段，其背后还包含高校提升校园多元性、优化学术生态、履行社会责任等多重考量。研究通过对数十所高校的财务数据与办学策略分析，揭示了不同类型高校在制定此类资助政策时的差异化目标与实际效果。",
+    "ACE, Higher Education Groups Urge Key Protections in Workforce Pell Rulemaking": "2026年4月13日，美国教育委员会联合35家高等教育协会向教育部提交意见，呼吁对《大美法案》设立的劳动力佩尔助学金项目拟议规则作出重要修订。意见指出，拟议规则中部分条款可能导致 eligibility 标准过于严苛，影响职业教育领域低收入学生获得资助的机会。相关组织敦促教育部在规则制定过程中充分听取高等教育界意见，保障劳动力佩尔助学金政策的普惠性与实施效果。",
+    "Trump Administration Does Not Seek to Appeal to Supreme Court, Indirect Costs Cap Litigation Concluded": "2026年4月13日，美国教育委员会通报，特朗普政府未在本月截止日期前就间接成本上限诉讼案向最高法院提起上诉，相关诉讼已正式终结。此前巡回法院曾作出判决，认定美国国立卫生研究院实施的间接成本上限政策不符合相关法律规定。此次诉讼终结意味着高等教育机构在获得联邦科研资助时，将恢复此前的间接成本核算标准，有利于保障高校科研活动的正常开展。",
+    "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises": "2026年4月13日，兰德公司发布《无限潜能》系列研究报告，公布工商界与公民社会场景通用人工智能后续演练的相关结论。本次演练由参与者分别扮演工商界与公民社会领袖角色，模拟应对通用人工智能技术发展带来的各类挑战。报告梳理了演练过程中暴露的风险点，提出了跨部门协作应对通用人工智能治理问题的相关建议，为政策制定者提供参考。",
+    "Victories for American Taxpayers: Exposing COVID-Era Fraud, Waste, and Abuse in Federal Education Programs": "2026年4月10日，美国教育部发布公告，公布新冠疫情时期联邦教育项目欺诈、浪费与滥用问题的清查结果。清查行动共追回违规使用资金数亿美元，惩处了一批涉嫌骗取教育项目资金的机构与个人。教育部表示，将进一步完善教育项目资金监管机制，堵塞制度漏洞，保障纳税人资金安全，确保联邦教育项目资金真正用于提升教育质量、惠及学生群体。",
+    "Day of Celebration in Honor of the Life of Henry Clay, 2026": "2026年4月10日，白宫发布总统公告，宣布当日为亨利·克莱生平纪念活动日。亨利·克莱是美国历史上著名政治家，曾长期担任国会参议员、众议院议长等职务，为美国国家发展作出过重要贡献。公告呼吁全美民众举办相关纪念活动，缅怀亨利·克莱的历史功绩，传承其政治遗产，弘扬国家团结精神。",
+    "Democrats Empower Sick Criminal Illegal Alien Predators to Prey on American Women, Children": "2026年4月10日，白宫发布声明，指责民主党推行的移民政策纵容患病的非法移民罪犯进入美国，对美国妇女儿童权益造成严重威胁。声明称，相关政策导致大量有犯罪记录的非法移民滞留美国，引发多起侵害民众安全的恶性案件。白宫呼吁国会修订移民法律，加强边境管控，严厉打击非法移民犯罪活动，保障美国民众的生命财产安全。"
+})
+
