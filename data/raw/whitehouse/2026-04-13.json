@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-13T10:25:49.130161",
-  "total_news": 2,
+  "crawled_at": "2026-04-13T12:48:33.811633",
+  "total_news": 4,
   "news": [
+    {
+      "title": "President Trump Champions the American Worker",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-champions-the-american-worker/",
+      "date": "April 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "2026 Economic Report of the President Released",
+      "url": "https://www.whitehouse.gov/releases/2026/04/2026-economic-report-of-the-president-released/",
+      "date": "April 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Day of Celebration in Honor of the Life of Henry Clay, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/day-of-celebration-in-honor-of-the-life-of-henry-clay-2026/",
