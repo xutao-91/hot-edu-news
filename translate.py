@@ -1382,3 +1382,45 @@ SUMMARY_TRANSLATIONS.update({
     "As Michigan falls further behind, some ask: Time to overhaul high school?": "2026年4月10日，Bridge Michigan发布教育专题报道，指出密歇根州高中教育水平近年来持续落后于全国平均水平，毕业生职业技能与市场需求脱节问题突出。教育界、工商界多位人士呼吁对高中教育体系进行全面改革，调整课程设置，增加职业教育内容，强化实践技能培养，提升高中毕业生的就业竞争力与升学适配性。相关改革建议已提交州议会教育委员会审议。"
 })
 
+
+# === 2026年4月13日批量编译17篇未完成文章 ===
+TITLE_TRANSLATIONS.update({
+    "Financial aid for students without financial need: Why do colleges offer it?": "无经济需求学生资助政策：高校提供此类资助的原因分析",
+    "Victories for American Taxpayers: Exposing COVID-Era Fraud, Waste, and Abuse in Federal Education Programs": "美国纳税人的胜利：联邦教育项目新冠疫情时期欺诈浪费与滥用问题清查结果公布",
+    "Day of Celebration in Honor of the Life of Henry Clay, 2026": "2026年亨利·克莱生平纪念活动日公告",
+    "Democrats Empower Sick Criminal Illegal Alien Predators to Prey on American Women, Children": "民主党政策纵容患病非法移民罪犯侵害美国妇女儿童权益",
+    "ACE, Higher Education Groups Urge Key Protections in Workforce Pell Rulemaking": "美国教育委员会联合高等教育组织呼吁在劳动力佩尔助学金规则制定中保留核心保障条款",
+    "Trump Administration Does Not Seek to Appeal to Supreme Court, Indirect Costs Cap Litigation Concluded": "特朗普政府未就间接成本上限诉讼向最高法院提起上诉，相关案件已终结",
+    "ACE’s Building Pathways Initiative to Conduct Event on Student Success": "美国教育委员会「构建发展路径」倡议将举办学生成功主题活动",
+    "Maryland’s Assault on Private Education": "马里兰州政策冲击私立教育发展",
+    "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises": "《无限潜能》报告：工商界与公民社会场景通用人工智能后续演练系列事后报告要点",
+    "Engineering Open House 'Forging the Future' builds community connections": "「铸就未来」工程开放日活动强化社区联系",
+    "Snyder Hall flood displaces 450, UI Housing finds temporary placements": "斯奈德大厅洪水导致450名学生搬迁 伊利诺伊大学住房部门已安排临时住宿",
+    "The Flutie effect: Will Illini’s March Madness success boost applications?": "弗鲁蒂效应显现：伊利诺伊大学男篮疯三赛事表现能否拉动入学申请量？",
+    "UI System Board of Trustees establishes presidential search committee": "伊利诺伊大学系统董事会设立校长遴选委员会",
+    "Butler University Welcomes Seven New Trustees to Its Board": "巴特勒大学董事会新增7名董事成员",
+    "The University Is Not Prepared for What Comes Next": "高校尚未为未来变革做好充分准备",
+    "Why Attend an Overnight Pre-College Program": "参与大学预科住宿项目的价值分析",
+    "Augustana University Student Looks to Combine Music and STEM for Future Career": "奥古斯塔纳大学学生探索音乐与STEM学科融合职业发展路径"
+})
+
+SUMMARY_TRANSLATIONS.update({
+    "Financial aid for students without financial need: Why do colleges offer it?": "2026年4月13日，布鲁金斯学会发布研究报告，聚焦美国高校面向无经济需求学生提供资助的政策背景与实施逻辑。报告指出，此类资助并非仅为吸引优质生源的竞争手段，其背后还包含高校提升校园多元性、优化学术生态、履行社会责任等多重考量。研究通过对数十所高校的财务数据与办学策略分析，揭示了不同类型高校在制定此类资助政策时的差异化目标与实际效果。",
+    "Victories for American Taxpayers: Exposing COVID-Era Fraud, Waste, and Abuse in Federal Education Programs": "2026年4月10日，美国教育部发布公告，公布新冠疫情时期联邦教育项目欺诈、浪费与滥用问题的清查结果。清查行动共追回违规使用资金数亿美元，惩处了一批涉嫌骗取教育项目资金的机构与个人。教育部表示，将进一步完善教育项目资金监管机制，堵塞制度漏洞，保障纳税人资金安全，确保联邦教育项目资金真正用于提升教育质量、惠及学生群体。",
+    "Day of Celebration in Honor of the Life of Henry Clay, 2026": "2026年4月10日，白宫发布总统公告，宣布当日为亨利·克莱生平纪念活动日。亨利·克莱是美国历史上著名政治家，曾长期担任国会参议员、众议院议长等职务，为美国国家发展作出过重要贡献。公告呼吁全美民众举办相关纪念活动，缅怀亨利·克莱的历史功绩，传承其政治遗产，弘扬国家团结精神。",
+    "Democrats Empower Sick Criminal Illegal Alien Predators to Prey on American Women, Children": "2026年4月10日，白宫发布声明，指责民主党推行的移民政策纵容患病的非法移民罪犯进入美国，对美国妇女儿童权益造成严重威胁。声明称，相关政策导致大量有犯罪记录的非法移民滞留美国，引发多起侵害民众安全的恶性案件。白宫呼吁国会修订移民法律，加强边境管控，严厉打击非法移民犯罪活动，保障美国民众的生命财产安全。",
+    "ACE, Higher Education Groups Urge Key Protections in Workforce Pell Rulemaking": "2026年4月13日，美国教育委员会联合35家高等教育协会向教育部提交意见，呼吁对《大美法案》设立的劳动力佩尔助学金项目拟议规则作出重要修订。意见指出，拟议规则中部分条款可能导致资格标准过于严苛，影响职业教育领域低收入学生获得资助的机会。相关组织敦促教育部在规则制定过程中充分听取高等教育界意见，保障劳动力佩尔助学金政策的普惠性与实施效果。",
+    "Trump Administration Does Not Seek to Appeal to Supreme Court, Indirect Costs Cap Litigation Concluded": "2026年4月13日，美国教育委员会通报，特朗普政府未在本月截止日期前就间接成本上限诉讼案向最高法院提起上诉，相关诉讼已正式终结。此前巡回法院曾作出判决，认定美国国立卫生研究院实施的间接成本上限政策不符合相关法律规定。此次诉讼终结意味着高等教育机构在获得联邦科研资助时，将恢复此前的间接成本核算标准，有利于保障高校科研活动的正常开展。",
+    "ACE’s Building Pathways Initiative to Conduct Event on Student Success": "2026年4月13日，美国教育委员会宣布，「构建发展路径」倡议将于近期举办学生成功主题活动。活动将邀请全国多所高校的教育工作者、政策制定者共同探讨学生发展支持体系建设的最佳实践，分享高校提升毕业率、促进教育公平的相关经验，为完善高等教育支持政策提供参考。",
+    "Maryland’s Assault on Private Education": "2026年4月13日，传统基金会发布报告，批评马里兰州近期推出的多项政策对私立教育发展造成严重冲击。报告指出，相关政策大幅提高私立教育机构的运营成本，限制其办学自主权，可能导致大量私立学校倒闭，损害学生和家长的教育选择权。传统基金会呼吁马里兰州政府调整相关政策，保障私立教育的健康发展。",
+    "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises": "2026年4月13日，兰德公司发布《无限潜能》系列研究报告，公布工商界与公民社会场景通用人工智能后续演练的相关结论。本次演练由参与者分别扮演工商界与公民社会领袖角色，模拟应对通用人工智能技术发展带来的各类挑战。报告梳理了演练过程中暴露的风险点，提出了跨部门协作应对通用人工智能治理问题的相关建议，为政策制定者提供参考。",
+    "Engineering Open House 'Forging the Future' builds community connections": "2026年4月13日，伊利诺伊大学厄巴纳-香槟分校举办「铸就未来」工程开放日活动。活动吸引了数千名当地民众、中小学生参与，通过互动展示、实验体验等形式，向公众普及工程技术知识，强化高校与社区的联系。活动期间还发布了多项高校与本地企业的合作项目，将共同推动工程技术成果转化。",
+    "Snyder Hall flood displaces 450, UI Housing finds temporary placements": "2026年4月12日，伊利诺伊大学厄巴纳-香槟分校斯奈德学生宿舍发生漏水事故，导致450名学生被迫搬迁。学校住房部门已紧急协调校内其他宿舍和周边酒店，为受影响学生安排了临时住宿。目前事故原因正在调查中，学校表示将尽快完成维修工作，保障学生住宿安全。",
+    "The Flutie effect: Will Illini’s March Madness success boost applications?": "2026年4月11日，伊利诺伊大学男篮在NCAA「疯狂三月」赛事中打入四强，引发广泛关注。教育界人士分析，此次赛事表现可能带来「弗鲁蒂效应」，拉动未来一两年该校的本科入学申请量。学校招生部门表示，已做好相关准备工作，将充分利用赛事热度吸引优质生源，同时保障招生质量。",
+    "UI System Board of Trustees establishes presidential search committee": "2026年4月10日，伊利诺伊大学系统董事会宣布正式设立校长遴选委员会，启动新一届校长的选聘工作。委员会由董事会成员、教职工代表、学生代表和校友代表组成，将在全国范围内公开遴选符合条件的候选人，预计将于今年底前公布最终选聘结果。",
+    "Butler University Welcomes Seven New Trustees to Its Board": "2026年4月12日，巴特勒大学宣布董事会新增7名董事成员，涵盖工商界、教育界、公益领域等多个行业的优秀人士。学校表示，新董事的加入将为学校发展带来更多元的视角和资源，助力学校提升办学质量，实现战略发展目标。",
+    "The University Is Not Prepared for What Comes Next": "2026年4月11日，巴特勒大学校长詹姆斯·丹科发表署名文章，指出当前高等教育体系尚未为未来技术变革和社会发展做好充分准备。文章强调，现有百年历史的院系、专业、学分制架构已难以适应新时代需求，高校需要从修补式改革转向系统性重构，建立能力导向、挑战导向的灵活学习体系，推动教师角色转型，完善以成果和能力为核心的评价机制，提升毕业生的时代竞争力。",
+    "Why Attend an Overnight Pre-College Program": "2026年4月10日，巴特勒大学发布教育指南，分析中学生参与大学预科住宿项目的多重价值。指南指出，此类项目不仅能帮助学生提前适应大学生活、积累学术经验，还能培养学生的独立生活能力、社交能力，拓宽学术视野，为未来的大学学习和职业发展奠定良好基础。指南还为学生选择合适的预科项目提供了相关建议。",
+    "Augustana University Student Looks to Combine Music and STEM for Future Career": "2026年4月12日，奥古斯塔纳大学一名学生探索音乐与STEM学科融合的职业发展路径，引发关注。该学生将音乐创作与数据分析、人工智能技术相结合，开发了多个创新应用项目。学校表示，将进一步支持跨学科学习和创新实践，为学生提供更多跨学科发展的资源和机会，培养适应新时代需求的复合型人才。"
+})
+
