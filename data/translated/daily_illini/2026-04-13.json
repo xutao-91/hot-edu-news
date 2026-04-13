@@ -1,0 +1,58 @@
+{
+  "source": "The Daily Illini",
+  "source_url": "https://dailyillini.com/news-stories/",
+  "crawled_at": "2026-04-09T21:18:29.681679",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Engineering Open House 'Forging the Future' builds toward high-tech tomorrow",
+      "url": "https://dailyillini.com/news-stories/around-campus/2026/04/09/engineering-open-house-high-tech-tomorrow/",
+      "date": "2026-04-09",
+      "type": "News",
+      "summary_en": "The 2026 Engineering Open House, the nation's largest student-run STEM fair, takes over Bardeen Quadrangle with over 200 exhibits centered around the theme 'Forging the Future'.",
+      "author": "Blake Noble",
+      "source": "Daily Illini",
+      "category": "campus",
+      "original_title": "Engineering Open House 'Forging the Future' builds toward high-tech tomorrow",
+      "summary_cn": "The 2026 Engineering Open House, the nation's largest student-run STEM fair, takes over Bardeen Quadrangle with over 200 exhibits centered around the theme 'Forging the Future'."
+    },
+    {
+      "title": "Snyder Hall flood displaces 450, UI Housing finds space",
+      "url": "https://dailyillini.com/news-stories/university-news/2026/04/08/snyder-hall-flood-ui-housing/",
+      "date": "2026-04-08",
+      "type": "News",
+      "summary_en": "",
+      "author": "Bryana Perez, Sophia Vasilakopoulos, Avery Paterson",
+      "source": "Daily Illini",
+      "category": "campus",
+      "original_title": "Snyder Hall flood displaces 450, UI Housing finds space",
+      "summary_cn": ""
+    },
+    {
+      "title": "The Flutie effect: Will Illini’s March Madness success impact application numbers?",
+      "url": "https://dailyillini.com/news-stories/champaign-urbana/education/2026/04/07/flutie-effect-illinis-march-madness/",
+      "date": "2026-04-07",
+      "type": "News",
+      "summary_en": "",
+      "author": "Macy Medendorp",
+      "source": "Daily Illini",
+      "category": "general",
+      "original_title": "The Flutie effect: Will Illini’s March Madness success impact application numbers?",
+      "summary_cn": ""
+    },
+    {
+      "title": "UI System Board of Trustees establishes presidential search committee",
+      "url": "https://dailyillini.com/news-stories/university-news/administration/2026/04/06/board-of-trustees-presidential-search-committee/",
+      "date": "2026-04-06",
+      "type": "News",
+      "summary_en": "",
+      "author": "William Karr",
+      "source": "Daily Illini",
+      "category": "campus",
+      "original_title": "UI System Board of Trustees establishes presidential search committee",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 4
+}

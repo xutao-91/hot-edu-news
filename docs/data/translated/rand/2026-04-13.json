@@ -1,0 +1,21 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-13T10:26:06.992848",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4767-1.html",
+      "date": "Apr 13, 2026",
+      "type": "Research",
+      "summary_en": "This report describes a series of exercises run with the Business and Civil Society scenario on the Infinite Potential platform. Players took on roles as business and civil society leaders and tackled challenges arising from artificial intelligence.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "summary_cn": "This report describes a series of exercises run with the Business and Civil Society scenario on the Infinite Potential platform. Players took on roles as business and civil society leaders and tackled challenges arising from artificial intelligence."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 1
+}
