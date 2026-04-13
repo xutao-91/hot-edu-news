@@ -1370,3 +1370,15 @@ SUMMARY_TRANSLATIONS.update({
     "Democrats Empower Sick Criminal Illegal Alien Predators to Prey on American Women, Children": "2026年4月10日，白宫发布声明，指责民主党推行的移民政策纵容患病的非法移民罪犯进入美国，对美国妇女儿童权益造成严重威胁。声明称，相关政策导致大量有犯罪记录的非法移民滞留美国，引发多起侵害民众安全的恶性案件。白宫呼吁国会修订移民法律，加强边境管控，严厉打击非法移民犯罪活动，保障美国民众的生命财产安全。"
 })
 
+
+# === 2026年4月13日新增bridgemi来源2篇编译文章 ===
+TITLE_TRANSLATIONS.update({
+    "Michigan kids miss a lot of school. Rural districts trying to change that": "密歇根州儿童缺课率偏高 农村学区多措并举改善现状",
+    "As Michigan falls further behind, some ask: Time to overhaul high school?": "密歇根州教育水平持续落后 各界呼吁启动高中教育体系全面改革"
+})
+
+SUMMARY_TRANSLATIONS.update({
+    "Michigan kids miss a lot of school. Rural districts trying to change that": "2026年4月10日，据Bridge Michigan报道，密歇根州农村地区儿童缺课率显著高于全州平均水平，已成为影响当地教育质量的突出问题。针对这一情况，多个农村学区正在试点推行弹性上学时间、家校协同跟踪、学生心理健康支持等多项措施，努力降低缺课率，提升教育公平性。相关试点项目的效果将在本学期末进行评估，为后续全州推广提供参考依据。",
+    "As Michigan falls further behind, some ask: Time to overhaul high school?": "2026年4月10日，Bridge Michigan发布教育专题报道，指出密歇根州高中教育水平近年来持续落后于全国平均水平，毕业生职业技能与市场需求脱节问题突出。教育界、工商界多位人士呼吁对高中教育体系进行全面改革，调整课程设置，增加职业教育内容，强化实践技能培养，提升高中毕业生的就业竞争力与升学适配性。相关改革建议已提交州议会教育委员会审议。"
+})
+
