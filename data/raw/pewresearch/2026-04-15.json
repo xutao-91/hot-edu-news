@@ -1,9 +1,26 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-04-15T00:12:07.852294",
-  "total_news": 3,
+  "crawled_at": "2026-04-15T09:10:14.327923",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Teens’ Experiences on TikTok, Instagram and Snapchat",
+      "url": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
+      "date": "Apr 15, 2026",
+      "type": "report",
+      "categories": [
+        "Instagram",
+        "Internet Technology",
+        "Social Media",
+        "Teens Tech",
+        "Teens Youth",
+        "Tiktok"
+      ],
+      "summary_en": "Teens largely turn to TikTok, Instagram and Snapchat for fun and connection. But experiences around messaging, screen time and cyberbullying vary. And what teens say about how these sites impact their mental health.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Americans’ views of China have grown somewhat more positive in recent years",
       "url": "https://www.pewresearch.org/short-reads/2026/04/14/americans-views-of-china-have-grown-somewhat-more-positive-in-recent-years/",
