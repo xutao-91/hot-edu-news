@@ -12,7 +12,7 @@ cd /home/xutao/workspace/hot-edu-news
 
 # 从 git credential store 读取 GitHub token
 if [ -f ~/.git-credentials ]; then
-    GITHUB_TOKEN=$(grep "github.com" ~/.git-credentials 2>/dev/null | head -1 | sed 's|https://[^:]*:\([^@]*\)@.*|\1|')
+GITHUB_TOKEN=$(grep "github.com" ~/.git-credentials 2>/dev/null | head -1 | sed 's|https://[^:]*:\([^@]*\)@.*|\1|')
 fi
 
 # 1. 运行Brookings爬虫
