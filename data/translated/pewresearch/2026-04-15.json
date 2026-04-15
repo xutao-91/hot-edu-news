@@ -1,0 +1,61 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-15T00:12:07.852294",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Americans’ views of China have grown somewhat more positive in recent years",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/14/americans-views-of-china-have-grown-somewhat-more-positive-in-recent-years/",
+      "date": "Apr 14, 2026",
+      "type": "short reads",
+      "categories": [
+        "China Global Image",
+        "International Issues"
+      ],
+      "summary_en": "Most Americans still view China negatively, but a recent survey shows favorability has ticked up, especially among Democrats and younger adults. Fewer now call China an enemy.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Americans’ views of China have grown somewhat more positive in recent years",
+      "summary_cn": "Most Americans still view China negatively, but a recent survey shows favorability has ticked up, especially among Democrats and younger adults. Fewer now call China an enemy."
+    },
+    {
+      "title": "Local News Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/local-news-fact-sheet/",
+      "date": "Apr 14, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Digital News Landscape 1",
+        "Local News",
+        "News Platforms Sources",
+        "Newspapers",
+        "Social Media News",
+        "Television"
+      ],
+      "summary_en": "Americans’ attention to local news has declined since 2016. Explore how people get local news today, shifting from TV and print to digital sources.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Local News Fact Sheet",
+      "summary_cn": "Americans’ attention to local news has declined since 2016. Explore how people get local news today, shifting from TV and print to digital sources."
+    },
+    {
+      "title": "Most new data centers in the U.S. are coming to rural areas",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/13/most-new-data-centers-in-the-us-are-coming-to-rural-areas/",
+      "date": "Apr 13, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Emerging Technology",
+        "State",
+        "Technology Policy Issues"
+      ],
+      "summary_en": "Over 1,500 new data centers are in development nationwide. Most will be built in rural areas, particularly the South and Midwest, marking a shift from urban locations.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Most new data centers in the U.S. are coming to rural areas",
+      "summary_cn": "Over 1,500 new data centers are in development nationwide. Most will be built in rural areas, particularly the South and Midwest, marking a shift from urban locations."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 3
+}

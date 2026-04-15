@@ -1,0 +1,32 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-04-15T00:11:55.806893",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "ACE, Higher Education Groups Urge Key Protections in Workforce Pell Rulemaking",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Groups-Urge-Workforce-Pell-Protections.aspx",
+      "date": "April 13, 2026",
+      "type": "News",
+      "summary_en": "ACE joined more than 35 higher education associations in submitting comments to the Department of Education urging important revisions to its proposed rules implementing the Workforce Pell Grant program created under the One Big Beautiful Bill Act.",
+      "source": "ACE",
+      "category": "higher_ed",
+      "original_title": "ACE, Higher Education Groups Urge Key Protections in Workforce Pell Rulemaking",
+      "summary_cn": "ACE joined more than 35 higher education associations in submitting comments to the Department of Education urging important revisions to its proposed rules implementing the Workforce Pell Grant program created under the One Big Beautiful Bill Act."
+    },
+    {
+      "title": "Trump Administration Does Not Seek to Appeal to Supreme Court, Indirect Costs Cap Litigation Concluded",
+      "url": "https://www.acenet.edu/Policy-Advocacy/Pages/Law-Courts/Association-Lawsuit-NIH-FA.aspx",
+      "date": "April 13, 2026",
+      "type": "News",
+      "summary_en": "The Trump administration did not seek to have the Supreme Court take up appeal of the Circuit Court decision, with the Department of Justice not meeting the deadline this month to make such a request.",
+      "source": "ACE",
+      "category": "general",
+      "original_title": "Trump Administration Does Not Seek to Appeal to Supreme Court, Indirect Costs Cap Litigation Concluded",
+      "summary_cn": "The Trump administration did not seek to have the Supreme Court take up appeal of the Circuit Court decision, with the Department of Justice not meeting the deadline this month to make such a request."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 2
+}

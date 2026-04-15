@@ -1,0 +1,32 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-15T00:12:06.477099",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Could Deep Sea Mining Break China's Grip on Critical Minerals?",
+      "url": "https://www.rand.org/pubs/articles/2026/could-deep-sea-mining-break-chinas-grip-on-critical.html",
+      "date": "Apr 14, 2026",
+      "type": "Article",
+      "summary_en": "What look like seabed rocks are polymetallic nodules, rich in the minerals that drive modern economies. They could help break U.S. reliance on China, which controls the market. But nobody has ever mined seabed nodules at scale, much less processed them for industrial use.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "Could Deep Sea Mining Break China's Grip on Critical Minerals?",
+      "summary_cn": "What look like seabed rocks are polymetallic nodules, rich in the minerals that drive modern economies. They could help break U.S. reliance on China, which controls the market. But nobody has ever mined seabed nodules at scale, much less processed them for industrial use."
+    },
+    {
+      "title": "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4767-1.html",
+      "date": "Apr 13, 2026",
+      "type": "Research",
+      "summary_en": "This report describes a series of exercises run with the Business and Civil Society scenario on the Infinite Potential platform. Players took on roles as business and civil society leaders and tackled challenges arising from artificial intelligence.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "Infinite Potential—Insights from the Business and Civil Society Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "summary_cn": "This report describes a series of exercises run with the Business and Civil Society scenario on the Infinite Potential platform. Players took on roles as business and civil society leaders and tackled challenges arising from artificial intelligence."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 2
+}
