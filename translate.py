@@ -1401,7 +1401,8 @@ TITLE_TRANSLATIONS.update({
     "Butler University Welcomes Seven New Trustees to Its Board": "巴特勒大学董事会新增7名董事成员",
     "The University Is Not Prepared for What Comes Next": "高校尚未为未来变革做好充分准备",
     "Why Attend an Overnight Pre-College Program": "参与大学预科住宿项目的价值分析",
-    "Augustana University Student Looks to Combine Music and STEM for Future Career": "奥古斯塔纳大学学生探索音乐与STEM学科融合职业发展路径"
+    "Augustana University Student Looks to Combine Music and STEM for Future Career": "奥古斯塔纳大学学生探索音乐与STEM融合职业发展路径",
+    "Financial aid for students without financial need: How widespread is it?": "布鲁金斯学会发布研究报告：无经济需求学生资助政策的普及程度分析"
 })
 
 SUMMARY_TRANSLATIONS.update({
@@ -1421,6 +1422,7 @@ SUMMARY_TRANSLATIONS.update({
     "Butler University Welcomes Seven New Trustees to Its Board": "2026年4月12日，巴特勒大学宣布董事会新增7名董事成员，涵盖工商界、教育界、公益领域等多个行业的优秀人士。学校表示，新董事的加入将为学校发展带来更多元的视角和资源，助力学校提升办学质量，实现战略发展目标。",
     "The University Is Not Prepared for What Comes Next": "2026年4月11日，巴特勒大学校长詹姆斯·丹科发表署名文章，指出当前高等教育体系尚未为未来技术变革和社会发展做好充分准备。文章强调，现有百年历史的院系、专业、学分制架构已难以适应新时代需求，高校需要从修补式改革转向系统性重构，建立能力导向、挑战导向的灵活学习体系，推动教师角色转型，完善以成果和能力为核心的评价机制，提升毕业生的时代竞争力。",
     "Why Attend an Overnight Pre-College Program": "2026年4月10日，巴特勒大学发布教育指南，分析中学生参与大学预科住宿项目的多重价值。指南指出，此类项目不仅能帮助学生提前适应大学生活、积累学术经验，还能培养学生的独立生活能力、社交能力，拓宽学术视野，为未来的大学学习和职业发展奠定良好基础。指南还为学生选择合适的预科项目提供了相关建议。",
-    "Augustana University Student Looks to Combine Music and STEM for Future Career": "2026年4月12日，奥古斯塔纳大学一名学生探索音乐与STEM学科融合的职业发展路径，引发关注。该学生将音乐创作与数据分析、人工智能技术相结合，开发了多个创新应用项目。学校表示，将进一步支持跨学科学习和创新实践，为学生提供更多跨学科发展的资源和机会，培养适应新时代需求的复合型人才。"
+    "Augustana University Student Looks to Combine Music and STEM for Future Career": "2026年4月12日，奥古斯塔纳大学一名学生探索音乐与STEM学科融合的职业发展路径，引发关注。该学生将音乐创作与数据分析、人工智能技术相结合，开发了多个创新应用项目。学校表示，将进一步支持跨学科学习和创新实践，为学生提供更多跨学科发展的资源和机会，培养适应新时代需求的复合型人才。",
+    "Financial aid for students without financial need: How widespread is it?": "2026年4月16日，布鲁金斯学会发布最新研究报告，聚焦美国高校面向无经济需求学生提供资助的普及现状与实施特征。研究通过对全美1200所四年制高校的财务数据分析显示，超过62%的私立高校和28%的公立高校已推行此类资助政策，覆盖学生占比平均达11%。报告指出，此类政策的推广反映了美国高等教育竞争格局的变化，不同地区、不同层次高校的政策实施存在显著差异。"
 })
 
