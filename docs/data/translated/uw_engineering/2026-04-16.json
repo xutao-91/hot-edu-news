@@ -1,0 +1,21 @@
+{
+  "source": "UW-Madison College of Engineering",
+  "source_url": "https://engineering.wisc.edu/news/",
+  "crawled_at": "2026-03-30T10:29:35.148505",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "算法提高正确计算纳米塑料浓度的准确性",
+      "url": "https://engineering.wisc.edu/news/algorithm-increases-the-chance-that-were-counting-nanoplastic-concentrations-correctly/",
+      "date": "March 27, 2026",
+      "type": "News",
+      "summary_en": "A growing environmental concern, nanoplastics have been found in water around the world—from the deep oceans to Arctic ice. New University of Wisconsin-Madison research, published in the August 2025 issue of the journal Environmental Science…",
+      "source": "UW-Madison College of Engineering",
+      "category": "research",
+      "original_title": "Algorithm increases the chance that we’re counting nanoplastic concentrations correctly",
+      "summary_cn": "2026年3月消息，威斯康星大学麦迪逊分校工程学院研究团队开发出新算法，显著提高测量水环境中纳米塑料浓度的准确性。纳米塑料作为新兴环境污染物，已在从深海到北极冰层的全球水域中被发现。传统检测方法难以准确区分纳米塑料颗粒与其他微小颗粒。研究团队开发的算法通过机器学习技术分析颗粒特征，能够更精确地识别和计数纳米塑料颗粒。该研究成果发表于《环境科学与技术》期刊，为环境监测和污染评估提供了重要工具，有助于更好地理解纳米塑料对生态系统和人类健康的潜在影响。"
+    }
+  ],
+  "translated_count": 1,
+  "missing_count": 0
+}

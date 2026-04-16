@@ -1,0 +1,111 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-16T16:17:33.244223",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Americans have become more likely to say Trump is not too or not at all religious",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/16/americans-have-become-more-likely-to-say-trump-is-not-too-or-not-at-all-religious/",
+      "date": "Apr 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "Religion Politics 1",
+        "Religion Politics 3"
+      ],
+      "summary_en": "Among Trump’s strongest supporters, relatively few people say they think he is very religious. Just 8% of Republicans and 5% of White evangelicals say this is the case.",
+      "source": "Pew Research Center",
+      "category": "religion"
+    },
+    {
+      "title": "Americans stand out internationally for their pessimism about the nation’s political system",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/15/americans-stand-out-internationally-for-their-pessimism-about-the-nations-political-system/",
+      "date": "Apr 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Political Ideals Systems",
+        "U S Democracy"
+      ],
+      "summary_en": "People in higher-income countries are generally less likely to say their nation’s political system needs major changes or complete reform. Americans are an exception.",
+      "source": "Pew Research Center",
+      "category": "science"
+    },
+    {
+      "title": "Teens’ Experiences on TikTok, Instagram and Snapchat",
+      "url": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
+      "date": "Apr 15, 2026",
+      "type": "report",
+      "categories": [
+        "Instagram",
+        "Internet Technology",
+        "Social Media",
+        "Teens Tech",
+        "Teens Youth",
+        "Tiktok"
+      ],
+      "summary_en": "Teens largely turn to TikTok, Instagram and Snapchat for fun and connection. But experiences around messaging, screen time and cyberbullying vary. And what teens say about how these sites impact their mental health.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Multiple indicators show a decline in the health of America’s democracy in 2025",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/15/multiple-indicators-show-a-decline-in-the-health-of-americas-democracy-in-2025/",
+      "date": "Apr 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Democracy",
+        "Trust In Government",
+        "U S Democracy"
+      ],
+      "summary_en": "Most Americans say democracy in the United States used to be a good example for other countries to follow but has not been in recent years.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans’ views of China have grown somewhat more positive in recent years",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/14/americans-views-of-china-have-grown-somewhat-more-positive-in-recent-years/",
+      "date": "Apr 14, 2026",
+      "type": "short reads",
+      "categories": [
+        "China Global Image",
+        "International Issues"
+      ],
+      "summary_en": "Most Americans still view China negatively, but a recent survey shows favorability has ticked up, especially among Democrats and younger adults. Fewer now call China an enemy.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Local News Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/local-news-fact-sheet/",
+      "date": "Apr 14, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Digital News Landscape 1",
+        "Local News",
+        "News Platforms Sources",
+        "Newspapers",
+        "Social Media News",
+        "Television"
+      ],
+      "summary_en": "Americans’ attention to local news has declined since 2016. Explore how people get local news today, shifting from TV and print to digital sources.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Most new data centers in the U.S. are coming to rural areas",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/13/most-new-data-centers-in-the-us-are-coming-to-rural-areas/",
+      "date": "Apr 13, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Emerging Technology",
+        "State",
+        "Technology Policy Issues"
+      ],
+      "summary_en": "Over 1,500 new data centers are in development nationwide. Most will be built in rural areas, particularly the South and Midwest, marking a shift from urban locations.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}
