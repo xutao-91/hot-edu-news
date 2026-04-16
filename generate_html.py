@@ -164,12 +164,12 @@ def generate_html():
                     article['_source_color'] = source_info['color']
                     article['_sort_date'] = format_date_key(article.get('date', ''))
                     # Apply manual translations from translate.py if available
-                    original_title = article.get('original_title', article.get('title', ''))
-                    if TITLE_TRANSLATIONS and original_title in TITLE_TRANSLATIONS:
-                        article['original_title'] = original_title
-                        article['title'] = TITLE_TRANSLATIONS[original_title]
-                    if SUMMARY_TRANSLATIONS and original_title in SUMMARY_TRANSLATIONS:
-                        article['summary_cn'] = SUMMARY_TRANSLATIONS[original_title]
+                    match_key = article.get('original_title', article.get('title', '')).strip()
+                    if TITLE_TRANSLATIONS and match_key in TITLE_TRANSLATIONS:
+                        article['original_title'] = match_key
+                        article['title'] = TITLE_TRANSLATIONS[match_key]
+                    if SUMMARY_TRANSLATIONS and match_key in SUMMARY_TRANSLATIONS:
+                        article['summary_cn'] = SUMMARY_TRANSLATIONS[match_key]
 
                     all_articles.append(article)
             except Exception as e:
