@@ -1422,7 +1422,22 @@ SUMMARY_TRANSLATIONS.update({
     "Butler University Welcomes Seven New Trustees to Its Board": "2026年4月12日，巴特勒大学宣布董事会新增7名董事成员，涵盖工商界、教育界、公益领域等多个行业的优秀人士。学校表示，新董事的加入将为学校发展带来更多元的视角和资源，助力学校提升办学质量，实现战略发展目标。",
     "The University Is Not Prepared for What Comes Next": "2026年4月11日，巴特勒大学校长詹姆斯·丹科发表署名文章，指出当前高等教育体系尚未为未来技术变革和社会发展做好充分准备。文章强调，现有百年历史的院系、专业、学分制架构已难以适应新时代需求，高校需要从修补式改革转向系统性重构，建立能力导向、挑战导向的灵活学习体系，推动教师角色转型，完善以成果和能力为核心的评价机制，提升毕业生的时代竞争力。",
     "Why Attend an Overnight Pre-College Program": "2026年4月10日，巴特勒大学发布教育指南，分析中学生参与大学预科住宿项目的多重价值。指南指出，此类项目不仅能帮助学生提前适应大学生活、积累学术经验，还能培养学生的独立生活能力、社交能力，拓宽学术视野，为未来的大学学习和职业发展奠定良好基础。指南还为学生选择合适的预科项目提供了相关建议。",
+    "Augustana University Student Looks to Combine Music and STEM for Future Career": "2026年4月12日，奥古斯塔纳大学一名学生探索音乐与STEM学科融合的职业发展路径，引发关注。该学生将音乐创作与数据分析、人工智能技术相结合，开发了多个创新应用项目。学校表示，将进一步支持跨学科学习和创新实践，为学生提供更多跨学科发展的资源和机会，培养适应新时代需求的复合型人才.",
     "Augustana University Student Looks to Combine Music and STEM for Future Career": "2026年4月12日，奥古斯塔纳大学一名学生探索音乐与STEM学科融合的职业发展路径，引发关注。该学生将音乐创作与数据分析、人工智能技术相结合，开发了多个创新应用项目。学校表示，将进一步支持跨学科学习和创新实践，为学生提供更多跨学科发展的资源和机会，培养适应新时代需求的复合型人才。",
     "Financial aid for students without financial need: How widespread is it?": "2026年4月16日，布鲁金斯学会发布最新研究报告，聚焦美国高校面向无经济需求学生提供资助的普及现状与实施特征。研究通过对全美1200所四年制高校的财务数据分析显示，超过62%的私立高校和28%的公立高校已推行此类资助政策，覆盖学生占比平均达11%。报告指出，此类政策的推广反映了美国高等教育竞争格局的变化，不同地区、不同层次高校的政策实施存在显著差异。"
 })
+
+# 新增快速翻译字典，用于新文章即时编译
+TITLE_TRANSLATIONS = {
+    "Financial aid for students without financial need: How widespread is it?": "布鲁金斯学会发布研究报告：无经济需求学生资助政策的普及程度分析",
+    "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”": "美国教育委员会召开信仰类院校委员会特别会议 研讨提升公民对话素养议题",
+    "Americans have become more likely to say Trump is not too or not at all religious": "皮尤研究中心最新民调：多数美国民众认为特朗普宗教信仰程度不高",
+    "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda": "兰德公司发布报告：人工智能对核生化辐射防御政策的影响与研究路线图"
+}
+
+SUMMARY_TRANSLATIONS = {
+    "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”": "2026年4月16日消息，美国教育委员会（ACE）信仰类高等院校委员会将于6月8日召开特别会议，汇聚院校领袖共同探讨信仰类院校如何助力提升公民对话质量的议题。本次会议将围绕当前社会分歧加剧的背景下，信仰类院校如何发挥自身特色优势，推动不同观点群体间的良性沟通与相互尊重，为改善社会公民素养贡献教育力量。",
+    "Americans have become more likely to say Trump is not too or not at all religious": "2026年4月16日，皮尤研究中心发布民调结果显示，越来越多美国民众认为前总统特朗普的宗教信仰程度不高。调查显示，仅8%的共和党受访者和5%的白人福音派受访者认为特朗普宗教信仰非常虔诚。民调同时显示，特朗普核心支持者中认同其宗教信仰虔诚的比例也处于历史较低水平。",
+    "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda": "2026年4月16日，兰德公司发布战略研究报告，系统分析人工智能技术发展对化学、生物、辐射与核（CBRN）防御政策与项目的影响。报告指出，人工智能正在重塑CBRN威慑格局，带来新的风险与机遇，报告同时提出了研究路线图，为应对全球技术竞争加剧背景下的相关政策制定提供指导。"
+}
 
