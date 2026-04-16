@@ -10,9 +10,7 @@
       "date": "April 16, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "general",
-      "original_title": "U.S. Secretary of Education Linda McMahon Visits Connecticut on the Returning Education to the States Tour",
-      "summary_cn": ""
+      "category": "general"
     },
     {
       "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in North Dakota",
@@ -20,9 +18,7 @@
       "date": "April 16, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "civics",
-      "original_title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in North Dakota",
-      "summary_cn": ""
+      "category": "civics"
     },
     {
       "title": "U.S. Department of Education and U.S. Department of Labor Announce Additional Grant Competitions Under Elementary and Secondary Education Partnership",
@@ -30,9 +26,7 @@
       "date": "April 16, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "k12",
-      "original_title": "U.S. Department of Education and U.S. Department of Labor Announce Additional Grant Competitions Under Elementary and Secondary Education Partnership",
-      "summary_cn": ""
+      "category": "k12"
     },
     {
       "title": "Victories for American Taxpayers: Trump Administration Reveals Top States Impacted by Federal Student Aid Fraud",
@@ -40,9 +34,7 @@
       "date": "April 16, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "general",
-      "original_title": "Victories for American Taxpayers: Trump Administration Reveals Top States Impacted by Federal Student Aid Fraud",
-      "summary_cn": ""
+      "category": "general"
     },
     {
       "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Minnesota",
@@ -50,9 +42,7 @@
       "date": "April 15, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "civics",
-      "original_title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Minnesota",
-      "summary_cn": ""
+      "category": "civics"
     },
     {
       "title": "U.S. Department of Education Office for Civil Rights Opens Disability-Discrimination Investigation into Texas School District",
@@ -60,11 +50,7 @@
       "date": "April 15, 2026",
       "type": "Press Release",
       "source": "U.S. Department of Education",
-      "category": "civil_rights",
-      "original_title": "U.S. Department of Education Office for Civil Rights Opens Disability-Discrimination Investigation into Texas School District",
-      "summary_cn": ""
+      "category": "civil_rights"
     }
-  ],
-  "translated_count": 0,
-  "missing_count": 6
+  ]
 }
