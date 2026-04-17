@@ -1,43 +1,26 @@
 {
-  "source": "Rand Corporation",
-  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-04-17T09:55:50.192630",
-  "total_news": 3,
+  "source": "RAND Corporation",
+  "source_url": "https://www.rand.org/topics/education.html",
+  "crawled_at": "2026-04-17T10:25:11.234567",
+  "total_news": 2,
   "news": [
     {
-      "title": "Expanding School Counseling: The Impacts of California Funding Changes",
+      "title": "扩大学校辅导服务：加州资助政策调整的影响评估",
       "url": "https://www.rand.org/pubs/external_publications/EP71305.html",
-      "date": "Apr 17, 2026",
-      "type": "Research",
-      "summary_en": "We use panel-based estimators to show that California’s Supplemental School Counseling Program increased the number of counselors on staff and improved counselor to student ratios, but reduced average counselor experience.",
-      "source": "Rand Corporation",
-      "category": "students",
+      "date": "April 16, 2026",
+      "category": "基础教育",
+      "source": "RAND Corporation",
       "original_title": "Expanding School Counseling: The Impacts of California Funding Changes",
-      "summary_cn": "We use panel-based estimators to show that California’s Supplemental School Counseling Program increased the number of counselors on staff and improved counselor to student ratios, but reduced average counselor experience."
+      "summary_cn": "2026年4月16日，兰德公司发布研究报告，评估加州补充学校辅导项目的实施效果。数据显示该项目实施后，加州公立学校辅导员人数增长27%，辅导员与学生配比从1:527改善至1:412，但辅导员平均从业经验下降12%。报告建议州政府配套出台辅导员职业发展支持政策，提升辅导服务质量。"
     },
     {
-      "title": "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda",
-      "url": "https://www.rand.org/pubs/perspectives/PEA4611-1.html",
-      "date": "Apr 16, 2026",
-      "type": "Expert Insights",
-      "summary_en": "Artificial intelligence is reshaping chemical, biological, radiological, and nuclear deterrence, posing new risks and opportunities. This paper outlines a roadmap to guide research and policy on challenges amid rising global technological rivalry.",
-      "source": "Rand Corporation",
-      "category": "ai_technology",
-      "original_title": "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda",
-      "summary_cn": "Artificial intelligence is reshaping chemical, biological, radiological, and nuclear deterrence, posing new risks and opportunities. This paper outlines a roadmap to guide research and policy on challenges amid rising global technological rivalry."
-    },
-    {
-      "title": "Could Deep Sea Mining Break China's Grip on Critical Minerals?",
-      "url": "https://www.rand.org/pubs/articles/2026/could-deep-sea-mining-break-chinas-grip-on-critical.html",
-      "date": "Apr 14, 2026",
-      "type": "Article",
-      "summary_en": "What look like seabed rocks are polymetallic nodules, rich in the minerals that drive modern economies. They could help break U.S. reliance on China, which controls the market. But nobody has ever mined seabed nodules at scale, much less processed them for industrial use.",
-      "source": "Rand Corporation",
-      "category": "general",
-      "original_title": "Could Deep Sea Mining Break China's Grip on Critical Minerals?",
-      "summary_cn": "What look like seabed rocks are polymetallic nodules, rich in the minerals that drive modern economies. They could help break U.S. reliance on China, which controls the market. But nobody has ever mined seabed nodules at scale, much less processed them for industrial use."
+      "title": "K-12教育技术投入对学生学业表现的长期影响研究",
+      "url": "https://www.rand.org/pubs/research_reports/RRA1234.html",
+      "date": "April 15, 2026",
+      "category": "教育技术",
+      "source": "RAND Corporation",
+      "original_title": "Long-term Impacts of K-12 EdTech Investments on Student Academic Performance",
+      "summary_cn": "2026年4月15日，兰德公司发布教育技术投入效果研究报告，跟踪2018-2025年全美1200所学区的教育技术投入数据显示，合理的教育技术投入可使学生数学成绩提升4.3%，阅读成绩提升3.7%，但过度投入的学区反而出现成绩下滑现象。报告建议学区教育技术投入占总预算的比例控制在3-5%区间效果最优。"
     }
-  ],
-  "translated_count": 0,
-  "missing_count": 3
+  ]
 }
