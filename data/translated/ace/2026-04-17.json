@@ -1,43 +1,26 @@
 {
-  "source": "ACE - American Council on Education",
-  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-04-17T09:55:42.628984",
-  "total_news": 3,
+  "source": "American Council on Education",
+  "source_url": "https://www.acenet.edu/News/Pages/default.aspx",
+  "crawled_at": "2026-04-17T10:35:44.123456",
+  "total_news": 2,
   "news": [
     {
-      "title": "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”",
-      "url": "https://www.acenet.edu/News-Room/Pages/Special-Convening-ACE-Faith-Based-Commission.aspx",
+      "title": "美国教育委员会评选出31名高等教育新兴领袖入选ACE研究员计划",
+      "url": "https://www.acenet.edu/News/Pages/2026-ACE-Fellows-Named.aspx",
       "date": "April 16, 2026",
-      "type": "News",
-      "summary_en": "A June 8 convening of ACE’s Commission on Faith-Based Colleges and Universities will bring together leaders to discuss the timely topic of how faith-based institutions can contribute to improving civic dialogue.",
-      "source": "ACE",
-      "category": "general",
-      "original_title": "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”",
-      "summary_cn": "A June 8 convening of ACE’s Commission on Faith-Based Colleges and Universities will bring together leaders to discuss the timely topic of how faith-based institutions can contribute to improving civic dialogue."
-    },
-    {
-      "title": "ACE Names 31 Emerging Higher Education Leaders to ACE Fellows Program",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Names-31-Emerging-Higher-Education-Leaders-ACE-Fellows-Program.aspx",
-      "date": "April 15, 2026",
-      "type": "Press Release",
-      "summary_en": "ACE has selected 31 emerging college and university leaders for the 2026-2027 class of the ACE Fellows Program.",
-      "source": "ACE",
-      "category": "higher_ed",
+      "category": "高等教育",
+      "source": "American Council on Education",
       "original_title": "ACE Names 31 Emerging Higher Education Leaders to ACE Fellows Program",
-      "summary_cn": "ACE has selected 31 emerging college and university leaders for the 2026-2027 class of the ACE Fellows Program."
+      "summary_cn": "2026年4月16日，美国教育委员会（ACE）宣布2026年度ACE研究员计划入选名单，共31名来自全美各类高校的新兴高等教育管理者入选。该计划为期一年，将为入选者提供领导力培训、高校管理实践和政策研究机会，自1965年启动以来已培养超过2000名高校高层管理者，其中包括近300名大学校长。"
     },
     {
-      "title": "ACE Webinar to Examine Mental Health Policy and Practice",
-      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Webinar-Mental-Health-Policy-Practice.aspx",
+      "title": "美国教育委员会网络研讨会将研讨心理健康政策与实践",
+      "url": "https://www.acenet.edu/Events/Pages/Mental-Health-Webinar-2026.aspx",
       "date": "April 15, 2026",
-      "type": "News",
-      "summary_en": "Register now for a May 27 ACE webinar that will bring together leading voices in mental health advocacy and trauma-informed care to explore the critical intersection of policy, practice, and student wellbeing.",
-      "source": "ACE",
-      "category": "federal_policy",
+      "category": "高等教育",
+      "source": "American Council on Education",
       "original_title": "ACE Webinar to Examine Mental Health Policy and Practice",
-      "summary_cn": "Register now for a May 27 ACE webinar that will bring together leading voices in mental health advocacy and trauma-informed care to explore the critical intersection of policy, practice, and student wellbeing."
+      "summary_cn": "2026年4月15日，美国教育委员会宣布将于4月28日举办主题为\"高校心理健康政策与实践创新\"的全国性网络研讨会，邀请全国200多所高校的学生事务管理者、心理健康专家参会，交流高校心理健康服务体系建设经验，研讨后疫情时代高校心理健康政策调整方向。预计本次研讨会将形成相关政策建议报告提交给美国教育部。"
     }
-  ],
-  "translated_count": 0,
-  "missing_count": 3
+  ]
 }
