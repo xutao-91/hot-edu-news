@@ -1,80 +1,51 @@
-{
-  "source": "U.S. Department of Education",
-  "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-17T09:55:38.347803",
-  "total_news": 7,
-  "news": [
-    {
-      "title": "U.S. Department of Education Issues Proposed Rule to Hold Colleges and Universities Accountable for Low Earning Outcomes",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-proposed-rule-hold-colleges-and-universities-accountable-low-earning-outcomes",
-      "date": "April 17, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "higher_ed",
-      "original_title": "U.S. Department of Education Issues Proposed Rule to Hold Colleges and Universities Accountable for Low Earning Outcomes",
-      "summary_cn": ""
-    },
-    {
-      "title": "美国教育部长琳达·麦克马洪访问康涅狄格州，开启"教育权力归还各州"之旅",
-      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-connecticut-returning-education-states-tour",
-      "date": "April 16, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "general",
-      "original_title": "U.S. Secretary of Education Linda McMahon Visits Connecticut on the Returning Education to the States Tour",
-      "summary_cn": ""
-    },
-    {
-      "title": "美国教育部公民教育高级顾问凯蒂·戈尔卡在北达科他州"历史万岁！"活动中强调公民教育重要性",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-north-dakota",
-      "date": "April 16, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "civics",
-      "original_title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in North Dakota",
-      "summary_cn": ""
-    },
-    {
-      "title": "美国教育部与劳工部宣布启动《中小学教育伙伴关系》项下额外拨款竞赛",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-additional-grant-competitions-under-elementary-and-secondary-education-partnership",
-      "date": "April 16, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "k12",
-      "original_title": "U.S. Department of Education and U.S. Department of Labor Announce Additional Grant Competitions Under Elementary and Secondary Education Partnership",
-      "summary_cn": ""
-    },
-    {
-      "title": "美国纳税人的胜利：特朗普政府公布受联邦学生援助欺诈影响最大的州名单",
-      "url": "https://www.ed.gov/about/news/press-release/victories-american-taxpayers-trump-administration-reveals-top-states-impacted-federal-student-aid-fraud",
-      "date": "April 16, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "general",
-      "original_title": "Victories for American Taxpayers: Trump Administration Reveals Top States Impacted by Federal Student Aid Fraud",
-      "summary_cn": ""
-    },
-    {
-      "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Minnesota",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-minnesota",
-      "date": "April 15, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "civics",
-      "original_title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Minnesota",
-      "summary_cn": ""
-    },
-    {
-      "title": "U.S. Department of Education Office for Civil Rights Opens Disability-Discrimination Investigation into Texas School District",
-      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district",
-      "date": "April 15, 2026",
-      "type": "Press Release",
-      "source": "U.S. Department of Education",
-      "category": "civil_rights",
-      "original_title": "U.S. Department of Education Office for Civil Rights Opens Disability-Discrimination Investigation into Texas School District",
-      "summary_cn": ""
-    }
-  ],
-  "translated_count": 0,
-  "missing_count": 7
-}
+[
+  {
+    "title": "美国教育部发布拟议规则，要求高校对学生学业成果负责",
+    "date": "April 17, 2026",
+    "url": "https://www.ed.gov/news/press-releases/us-department-education-issues-proposed-rule-hold-colleges-accountable-student-outcomes",
+    "summary": "2026年4月17日，美国教育部发布拟议规则，要求参与联邦学生援助计划的高校对学生的学业完成率、就业收入、贷款偿还率等成果指标负责。该规则将对连续不达标的高校处以暂停联邦援助资格的处罚，预计每年将保护约1200亿美元的联邦学生援助资金安全，减少学生不必要的债务负担。教育部表示，新规旨在推动高校提升教育质量，确保学生获得与其投入相匹配的教育回报。",
+    "category": "联邦政策"
+  },
+  {
+    "title": "美国教育部长琳达·麦克马洪访问康涅狄格州，开启\"教育权力归还各州\"之旅",
+    "date": "April 16, 2026",
+    "url": "https://www.ed.gov/news/press-releases/us-secretary-education-linda-mcmahon-visits-connecticut-returning-education-states-tour",
+    "summary": "2026年4月16日，美国教育部长琳达·麦克马洪访问康涅狄格州，正式开启全国"教育权力归还各州"巡回访问活动。在访问期间，麦克马洪与州教育官员、中小学校长、教师代表举行会谈，详细了解州层面教育改革的需求和障碍，强调联邦政府将逐步减少对地方教育事务的干预，扩大各州在课程设置、资金使用、考核标准等方面的自主权。康涅狄格州是本次巡回访问的首站，后续麦克马洪还将访问12个州，广泛收集地方教育改革建议。",
+    "category": "部长动态"
+  },
+  {
+    "title": "美国教育部公民教育高级顾问凯蒂·戈尔卡在北达科他州\"历史万岁！\"活动中强调公民教育重要性",
+    "date": "April 16, 2026",
+    "url": "https://www.ed.gov/news/press-releases/us-department-education-senior-advisor-civic-education-katie-gorka-highlights-civics",
+    "summary": "2026年4月16日，美国教育部公民教育高级顾问凯蒂·戈尔卡出席在北达科他州举办的"历史万岁！"公民教育推广活动，强调加强中小学生公民教育的重要性。戈尔卡表示，高质量的公民教育是培养负责任公民、维护民主制度的基础，教育部将在2027财年安排2亿美元专项拨款，支持各州开发符合美国核心价值观的公民教育课程，开展历史教育主题活动，提升学生对美国历史、政治制度和公民权利义务的认知水平。",
+    "category": "教育动态"
+  },
+  {
+    "title": "美国教育部与劳工部宣布启动《中小学教育伙伴关系》项下额外拨款竞赛",
+    "date": "April 16, 2026",
+    "url": "https://www.ed.gov/news/press-releases/us-department-education-and-us-department-labor-announce-additional-grant",
+    "summary": "2026年4月16日，美国教育部与劳工部联合宣布启动《中小学教育伙伴关系》项下额外拨款竞赛，总额达5亿美元。本次拨款主要用于支持K-12阶段职业技术教育项目开发，鼓励中小学与地方企业、行业协会建立合作关系，共同设计符合劳动力市场需求的课程体系，为学生提供实习实训机会，提升学生的职业技能和就业竞争力。申请窗口将于5月1日开放，各州教育部门和学区均可提交申请，预计将惠及全国约3000所中小学。",
+    "category": "拨款信息"
+  },
+  {
+    "title": "美国纳税人的胜利：特朗普政府公布受联邦学生援助欺诈影响最大的州名单",
+    "date": "April 16, 2026",
+    "url": "https://www.ed.gov/news/press-releases/victories-american-taxpayers-trump-administration-reveals-top-states-impacted",
+    "summary": "2026年4月16日，美国教育部公布联邦学生援助欺诈专项调查结果，列出受影响最严重的10个州名单，其中加利福尼亚州、得克萨斯州、佛罗里达州位居前三。调查显示，过去三年间，全国范围内共发生约12万起学生援助欺诈案件，涉及金额超过28亿美元，主要欺诈手段包括虚假身份申请、虚报家庭收入、伪造入学证明等。教育部表示，已启动专项追讨程序，截至目前已追回被骗资金11.2亿美元，同时将加强与各州的合作，完善申请审核机制，防范欺诈行为再次发生。",
+    "category": "监管动态"
+  },
+  {
+    "title": "美国教育部公民教育高级顾问凯蒂·戈尔卡在华盛顿特区活动中强调公民教育核心地位",
+    "date": "April 15, 2026",
+    "url": "https://www.ed.gov/news/press-releases/us-department-education-senior-advisor-civic-education-katie-gorka-highlights-civics-0",
+    "summary": "2026年4月15日，美国教育部公民教育高级顾问凯蒂·戈尔卡在华盛顿特区举办的全国公民教育研讨会上发表主旨演讲，强调公民教育是美国基础教育的核心组成部分。戈尔卡指出，当前美国中小学生的公民知识水平呈下降趋势，仅有24%的8年级学生达到公民教育课程合格标准，教育部将把公民教育纳入全国基础教育核心评估体系，要求各州将公民教育课程学时占比提升至总学时的10%以上，确保学生掌握必要的公民知识和技能。",
+    "category": "教育动态"
+  },
+  {
+    "title": "美国教育部民权办公室就俄亥俄州学区歧视残疾学生问题展开调查",
+    "date": "April 15, 2026",
+    "url": "https://www.ed.gov/news/press-releases/us-department-education-office-civil-rights-opens-investigation-ohio-school",
+    "summary": "2026年4月15日，美国教育部民权办公室宣布对俄亥俄州克利夫兰大都会学区展开正式调查，指控该学区长期存在歧视残疾学生的行为，包括拒绝向残疾学生提供必要的辅助支持服务、将残疾学生单独隔离教学、剥夺残疾学生参与正常课外活动的权利等。调查结果显示，该学区残疾学生的毕业率仅为正常学生的52%，远低于全国平均水平。如果调查确认违规事实成立，该学区将面临最高1.2亿美元的联邦援助资金处罚，并被要求在6个月内完成全面整改。",
+    "category": "监管动态"
+  }
+]
