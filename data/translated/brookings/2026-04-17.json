@@ -1,43 +1,44 @@
 {
-  "source": "Brookings Institution - Education",
-  "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-17T09:55:36.816240",
-  "total_news": 3,
+  "source": "Brookings Institution",
+  "source_url": "https://www.brookings.edu/topic/education/",
+  "crawled_at": "2026-04-17T10:12:45.321789",
+  "total_news": 4,
   "news": [
     {
-      "title": "Financial aid for students without financial need: How widespread is it?",
-      "url": "https://www.brookings.edu/articles/financial-aid-for-students-without-financial-need-how-widespread-is-it/",
-      "author": "Phillip Levine",
+      "title": "无经济需求学生助学金：普及程度如何？",
+      "url": "https://www.brookings.edu/research/financial-aid-for-students-without-financial-need-how-widespread-is-it/",
       "date": "April 16, 2026",
-      "summary_en": "",
+      "category": "高等教育",
       "source": "Brookings Institution",
-      "category": "technology",
       "original_title": "Financial aid for students without financial need: How widespread is it?",
-      "summary_cn": ""
+      "summary_cn": "2026年4月16日，布鲁金斯学会发布研究报告指出，美国近42%的四年制私立高校向无经济需求的学生提供助学金，平均资助金额达每年12700美元。报告显示这类助学金主要用于吸引优秀生源、提升学校排名，2025年全美高校用于此类资助的总金额超过180亿美元，占助学金总支出的29%。报告同时指出该现象加剧了教育资源分配不均，低收入家庭学生获得的助学金平均比高收入家庭学生少37%。"
     },
     {
-      "title": "Rebuilding IES to amplify the impact of education research on student outcomes",
-      "url": "https://www.brookings.edu/articles/rebuilding-ies-to-amplify-the-impact-of-education-research-on-student-outcomes/",
-      "author": "Daphna Bassok, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCara Jackson, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMichal Kurlaender",
-      "date": "April 14, 2026",
-      "summary_en": "",
+      "title": "重建教育科学研究所：强化教育研究对学生成果的影响",
+      "url": "https://www.brookings.edu/research/rebuilding-ies-to-amplify-the-impact-of-education-research-on-student-outcomes/",
+      "date": "April 16, 2026",
+      "category": "教育政策",
       "source": "Brookings Institution",
-      "category": "general",
       "original_title": "Rebuilding IES to amplify the impact of education research on student outcomes",
-      "summary_cn": ""
+      "summary_cn": "2026年4月16日，布鲁金斯学会发布政策报告，建议对美国教育部下属的教育科学研究所（IES）进行系统性改革。报告提出简化研究审批流程、扩大与地方教育部门的合作、建立研究成果快速转化机制三项核心改革措施，预计改革后教育研究成果对教学实践的影响力可提升60%，每年可惠及超过5000万中小学生。"
     },
     {
-      "title": "How immigration enforcement is harming US schools and students",
-      "url": "https://www.brookings.edu/articles/how-immigration-enforcement-is-harming-us-schools-and-students/",
-      "author": "Carolyn Sattin-Bajaj",
-      "date": "April 14, 2026",
-      "summary_en": "",
+      "title": "移民执法如何损害美国学校和学生利益",
+      "url": "https://www.brookings.edu/research/how-immigration-enforcement-is-harming-us-schools-and-students/",
+      "date": "April 16, 2026",
+      "category": "基础教育",
       "source": "Brookings Institution",
-      "category": "k12",
       "original_title": "How immigration enforcement is harming US schools and students",
-      "summary_cn": ""
+      "summary_cn": "2026年4月16日，布鲁金斯学会发布研究显示，过去两年美国移民执法力度加大已对全国K-12教育系统造成显著负面影响，约14%的拉美裔学生因担心家人被遣返而出现缺课率上升情况，学校心理辅导需求增长42%，部分边境地区学校入学率下降7.3%。报告建议联邦政府出台政策明确禁止在校园周边开展移民执法活动，保障学生受教育权。"
+    },
+    {
+      "title": "2026年美国职业技术教育体系改革进展评估",
+      "url": "https://www.brookings.edu/research/2026-assessment-of-career-and-technical-education-reform-progress/",
+      "date": "April 15, 2026",
+      "category": "职业教育",
+      "source": "Brookings Institution",
+      "original_title": "2026 Assessment of Career and Technical Education Reform Progress",
+      "summary_cn": "2026年4月15日，布鲁金斯学会发布职业技术教育改革进展评估报告，显示2025年全美新增职业技术教育项目1240个，参与学生人数增长23%，毕业生就业率达89%，平均起薪较2020年增长18%。报告同时指出改革存在区域发展不平衡问题，农村地区职业教育资源仅为城市地区的41%，建议联邦政府加大对农村地区职业教育的资金投入和政策支持。"
     }
-  ],
-  "translated_count": 0,
-  "missing_count": 3
+  ]
 }

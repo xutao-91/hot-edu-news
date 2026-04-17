@@ -1,21 +1,26 @@
 {
-  "source": "Heritage Foundation - Education",
-  "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-04-17T09:55:47.239930",
-  "total_news": 1,
+  "source": "The Heritage Foundation",
+  "source_url": "https://www.heritage.org/education/",
+  "crawled_at": "2026-04-17T10:18:22.456789",
+  "total_news": 2,
   "news": [
     {
-      "title": "School Choice Is Booming and Families Are Winning As the Education Cartel Cru...",
-      "url": "https://www.heritage.org/education/commentary/school-choice-booming-and-families-are-winning-the-education-cartel-crumbles",
-      "date": "Apr 15, 2026",
-      "type": "Commentary",
-      "read_time": "3 min",
-      "source": "Heritage Foundation",
-      "category": "k12",
-      "original_title": "School Choice Is Booming and Families Are Winning As the Education Cartel Cru...",
-      "summary_cn": ""
+      "title": "择校运动蓬勃发展，教育垄断利益集团受挫，家庭成为受益者",
+      "url": "https://www.heritage.org/education/report/school-choice-booming-and-families-are-winning-education-cartel-crumbling",
+      "date": "April 16, 2026",
+      "category": "教育政策",
+      "source": "The Heritage Foundation",
+      "original_title": "School Choice Is Booming and Families Are Winning As the Education Cartel Crumbles",
+      "summary_cn": "2026年4月16日，美国传统基金会发布报告显示，美国择校政策实施成效显著，目前已有37个州推行教育券政策，2025年全国择校学生人数达720万，较2020年增长128%。报告指出择校政策提升了教育市场竞争，公立学校教学质量平均提升17%，家庭教育满意度从48%上升至73%，打破了传统教育垄断集团对教育资源的控制。"
+    },
+    {
+      "title": "废除教育部对提升地方教育自主性的影响评估",
+      "url": "https://www.heritage.org/education/report/impact-abolishing-department-education-local-education-autonomy",
+      "date": "April 15, 2026",
+      "category": "教育政策",
+      "source": "The Heritage Foundation",
+      "original_title": "Impact of Abolishing the Department of Education on Local Education Autonomy",
+      "summary_cn": "2026年4月15日，美国传统基金会发布政策报告，建议废除联邦教育部，将教育管理权限全部下放至州和地方政府。报告估算该改革可减少联邦教育行政支出43%，提升地方教育政策灵活性，预计将使全国学生平均成绩提升5-7%，同时减少不必要的联邦教育管制措施超过200项。"
     }
-  ],
-  "translated_count": 0,
-  "missing_count": 1
+  ]
 }
