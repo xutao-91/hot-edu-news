@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-17T09:55:50.192630",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Expanding School Counseling: The Impacts of California Funding Changes",
+      "url": "https://www.rand.org/pubs/external_publications/EP71305.html",
+      "date": "Apr 17, 2026",
+      "type": "Research",
+      "summary_en": "We use panel-based estimators to show that California’s Supplemental School Counseling Program increased the number of counselors on staff and improved counselor to student ratios, but reduced average counselor experience.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4611-1.html",
+      "date": "Apr 16, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Artificial intelligence is reshaping chemical, biological, radiological, and nuclear deterrence, posing new risks and opportunities. This paper outlines a roadmap to guide research and policy on challenges amid rising global technological rivalry.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Could Deep Sea Mining Break China's Grip on Critical Minerals?",
+      "url": "https://www.rand.org/pubs/articles/2026/could-deep-sea-mining-break-chinas-grip-on-critical.html",
+      "date": "Apr 14, 2026",
+      "type": "Article",
+      "summary_en": "What look like seabed rocks are polymetallic nodules, rich in the minerals that drive modern economies. They could help break U.S. reliance on China, which controls the market. But nobody has ever mined seabed nodules at scale, much less processed them for industrial use.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}
