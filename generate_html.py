@@ -165,11 +165,14 @@ def generate_html():
                     article['_sort_date'] = format_date_key(article.get('date', ''))
                     # Apply manual translations from translate.py if available
                     match_key = article.get('original_title', article.get('title', '')).strip()
-                    if TITLE_TRANSLATIONS and match_key in TITLE_TRANSLATIONS:
+                    # 优先用新增的翻译字典，其次用老的translations_db
+                    if match_key in TITLE_TRANSLATIONS:
                         article['original_title'] = match_key
                         article['title'] = TITLE_TRANSLATIONS[match_key]
-                    if SUMMARY_TRANSLATIONS and match_key in SUMMARY_TRANSLATIONS:
+                    if match_key in SUMMARY_TRANSLATIONS:
                         article['summary_cn'] = SUMMARY_TRANSLATIONS[match_key]
+                    elif match_key in translations_db:
+                        article['summary_cn'] = translations_db[match_key]
 
                     all_articles.append(article)
             except Exception as e:
