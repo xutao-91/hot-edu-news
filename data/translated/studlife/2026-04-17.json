@@ -1,46 +1,46 @@
 {
   "source": "Student Life (WashU)",
   "source_url": "https://www.studlife.com/news",
-  "crawled_at": "2026-03-30T16:54:06.673013",
+  "crawled_at": "2026-04-17T21:41:59.484844",
   "total_news": 3,
   "news": [
     {
-      "title": "《大西洋月刊》CEO在WashU演讲中鼓励对AI保持'积极参与的乐观'",
-      "url": "https://www.studlife.com/news/2026/03/29/ceo-of-the-atlantic-encourages-engaged-optimism-about-ai-in-washu-talk",
-      "date": "2026-03-29",
+      "title": "English professor holds solo demonstration against Iran war",
+      "url": "https://www.studlife.com/news/2026/04/16/english-professor-holds-solo-demonstration-against-iran-war",
+      "date": "2026-04-16",
       "type": "News",
-      "summary_en": "Nicholas Thompson, former Editor-in-Chief of WIRED and now CEO of The Atlantic, has reported on artificial intelligence since 2017. As part of WashU’s +AI Perspectives Week, Thompson reflected on what he’s learned about AI and his advice for college students to a packed crowd of WashU students and community members on March 25.",
-      "author": "Zach Trabitz, Riley Herron",
+      "summary_en": "Professor William J. Maxwell spoke out against the Iran war outside of Olin Library on April 7. He stood alone in front of the George Washington statue with a sign that read “No war of choice. No war on civilian targets. No war in our name. No war in God’s Name.”",
+      "author": "Lissy Portorreal, Zoe Rhodes",
       "source": "Student Life",
       "category": "ai",
-      "original_title": "CEO of The Atlantic encourages “engaged optimism” about AI in WashU talk",
-      "summary_cn": "2026年3月消息，《大西洋月刊》首席执行官、前《连线》杂志主编Nicholas Thompson在华盛顿大学圣路易斯分校的+AI Perspectives Week活动中发表演讲，鼓励学生对人工智能保持'积极参与的乐观'态度。Thompson自2017年以来一直报道人工智能领域，他向在场的学生和社区成员分享了对AI发展的见解和建议，强调学生应主动了解和参与这一变革性技术的发展。"
+      "original_title": "English professor holds solo demonstration against Iran war",
+      "summary_cn": "Professor William J. Maxwell spoke out against the Iran war outside of Olin Library on April 7. He stood alone in front of the George Washington statue with a sign that read “No war of choice. No war on civilian targets. No war in our name. No war in God’s Name.”"
     },
     {
-      "title": "Krister Knapp教授讨论历史视角的细微差别：'为什么是现在？'",
-      "url": "https://www.studlife.com/news/2026/03/28/why-now-professor-krister-knapp-discusses-the-nuance-of-conflict-in-iran",
-      "date": "2026-03-28",
+      "title": "WashU to add Early Action and more for Class of 2031 undergraduate admissions cycle",
+      "url": "https://www.studlife.com/news/2026/04/16/washu-to-add-early-action-and-more-for-class-of-2031-undergraduate-admissions-cycle",
+      "date": "2026-04-16",
       "type": "News",
-      "summary_en": "Professor Krister Knapp spoke on the ongoing war in Iran, assessing and explaining both the origins and possible outcomes of the conflict, March 19.",
-      "author": "Zoe Rhodes",
-      "source": "Student Life",
-      "category": "general",
-      "original_title": "‘Why now?’: Professor Krister Knapp discusses the nuance of conflict in Iran",
-      "summary_cn": "2026年3月消息，华盛顿大学圣路易斯分校的Krister Knapp教授在一次讨论中深入分析了历史视角的细微差别，探讨了'为什么是现在'这一关键问题。Knapp教授从历史学的专业角度出发，帮助学生理解当下社会政治事件与历史背景的关联，培养批判性思维能力。"
-    },
-    {
-      "title": "2026年春季学生会选举产生新领导层并推进三项公投",
-      "url": "https://www.studlife.com/news/2026/03/27/spring-2026-student-union-election-names-new-leadership-and-denies-est-block-funding",
-      "date": "2026-03-27",
-      "type": "News",
-      "summary_en": "Student Union (SU) announced the results of its spring 2026 elections via Instagram on March 26, naming a new executive board and legislative body following a multi-day voting period that began Tuesday at 9 p.m. CST and concluded Thursday at 9 p.m. CST.",
-      "author": "Victor Huang",
+      "summary_en": "WashU Admissions is set to add an Early Action (EA) option and a priority deadline for scholarship programs for the 2026-2027 admissions cycle — adding flexibility for prospective students and streamlining the scholarship process. The University is also planning to remove its optional essay and factor demonstrated interest into its admissions decisions.",
+      "author": "Ella Meshoulam, Victor Huang, Tanvi Gorre",
       "source": "Student Life",
       "category": "campus",
-      "original_title": "Spring 2026 Student Union election names new leadership and denies EST block funding",
-      "summary_cn": "2026年3月消息，华盛顿大学圣路易斯分校2026年春季学生会选举圆满结束，选举产生了新一届领导层，同时通过了三项学生公投。选举结果反映了学生群体对校园事务的参与热情，新当选的领导团队将在未来任期内代表学生利益，推动校园政策和学生服务项目的发展。"
+      "original_title": "WashU to add Early Action and more for Class of 2031 undergraduate admissions cycle",
+      "summary_cn": "WashU Admissions is set to add an Early Action (EA) option and a priority deadline for scholarship programs for the 2026-2027 admissions cycle — adding flexibility for prospective students and streamlining the scholarship process. The University is also planning to remove its optional essay and factor demonstrated interest into its admissions decisions."
+    },
+    {
+      "title": "Phil Gramm draws parallels between the Industrial Revolution and the AI boom",
+      "url": "https://www.studlife.com/news/2026/04/16/phil-gramm-draws-parallels-between-the-industrial-revolution-and-the-ai-boom",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Former U.S. Senator Phil Gramm argued that AI would be a force for economic good and drew parallels to the Industrial Revolution in a lecture at WashU last Thursday.",
+      "author": "Nicholas Demba, Willa Marks",
+      "source": "Student Life",
+      "category": "ai",
+      "original_title": "Phil Gramm draws parallels between the Industrial Revolution and the AI boom",
+      "summary_cn": "Former U.S. Senator Phil Gramm argued that AI would be a force for economic good and drew parallels to the Industrial Revolution in a lecture at WashU last Thursday."
     }
   ],
-  "translated_count": 3,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 3
 }

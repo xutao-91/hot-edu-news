@@ -1,0 +1,62 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-04-17T21:40:42.877825",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Co-ops at IU Indianapolis power Indiana’s workforce in key industries like biosciences, tourism",
+      "url": "https://news.iu.edu/live/news/49958-co-ops-at-iu-indianapolis-power-indianas-workforce",
+      "date": "Apr 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Researcher receives $1 million USDA grant for work on avian flu prevention",
+      "url": "https://publichealth.indiana.edu/news-events/_news/2026/2026-Rodriguez_AvianFluUSDAFunding.html",
+      "date": "Apr 16, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "4 IU faculty receive prestigious Guggenheim Fellowships",
+      "url": "https://news.iu.edu/live/news/49944-4-iu-faculty-receive-prestigious-guggenheim",
+      "date": "Apr 16, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "faculty"
+    },
+    {
+      "title": "IU opens its free generative AI course to anyone worldwide",
+      "url": "https://news.iu.edu/live/news/49928-iu-opens-its-free-generative-ai-course-to-anyone",
+      "date": "Apr 16, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Student employees support, strengthen rural Indiana initiatives",
+      "url": "https://rural.indiana.edu/news/articles/2026/20260413-national-student-employment-week.html",
+      "date": "Apr 15, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "12 Hoosiers recognized for contributions to Indiana’s sustainability",
+      "url": "https://news.iu.edu/live/news/49865-12-hoosiers-recognized-for-contributions-to-indianas-s",
+      "date": "Apr 14, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "award"
+    }
+  ]
+}

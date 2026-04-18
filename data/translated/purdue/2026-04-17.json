@@ -1,21 +1,43 @@
 {
   "source": "Purdue University Newsroom",
   "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
-  "crawled_at": "2026-03-30T12:24:26.845797",
-  "total_news": 1,
+  "crawled_at": "2026-04-17T21:41:33.590063",
+  "total_news": 3,
   "news": [
     {
-      "title": "普渡大学与ARCS基金会达成协议：国家科学学者计划首次扩展至印第安纳州",
-      "url": "https://www.purdue.edu/newsroom/2026/Q1/purdue-arcs-foundation-agreement-expands-national-science-scholar-program-to-indiana",
-      "date": "March 30, 2026",
+      "title": "Upcoming primary election voting at Purdue facility",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/upcoming-primary-election-voting-at-purdue-facility",
+      "date": "April 17, 2026",
       "type": "Purdue News",
       "summary_en": "",
       "source": "Purdue University",
-      "category": "research",
-      "original_title": "Purdue, ARCS Foundation agreement expands national science scholar program to Indiana",
-      "summary_cn": "2026年3月30日，普渡大学与成就奖励大学科学家基金会（ARCS Foundation）签署谅解备忘录，正式成为ARCS国家学者奖励计划成员校。这是该基金会首次将项目拓展至印第安纳州，双方将携手为美国高影响力科学领域的本土博士学者提供支持，助力强化STEM人才队伍，提升国家创新竞争力与国家安全水平。根据合作协议，ARCS基金会将为普渡大学相关领域博士研究生提供持续、无限制的私人资助，每位获奖者可获得为期三年的资金支持。资助初期将聚焦生物医学工程、电气与计算机工程、机械工程三大领域——这些领域既彰显了普渡大学在先进计算、半导体及下一代技术领域的领先地位，也与该校'同一健康'和'普渡计算'的核心机构战略高度契合。资助对象需聚焦美国竞争力委员会认定的高影响力及新兴技术领域开展研究，助力推动经济韧性与全球领导力所需的关键发现。普渡大学学术与学生成功高级副教务长黑莉·奥利弗-吉施克（Haley Oliver-Garchow）表示：'此次合作体现了普渡与ARCS的共同理念——投资博士人才是强化国家创新生态系统最有力的方式之一。持续的研究生资助能让顶尖学者专注于高影响力研究，为印第安纳州硬技术走廊及未来产业输送核心人才。'ARCS基金会主席吉尔·布雷（Jill Bray）称：'非常荣幸普渡大学成为ARCS国家学者奖励计划的首个印第安纳州合作伙伴。普渡在该国家级项目重点推进的多个关键领域处于创新前沿，其在工程与应用科学领域的全球领导力，以及对研究与人才培养的深度投入，使其成为极具价值的合作对象。'"
+      "category": "general",
+      "original_title": "Upcoming primary election voting at Purdue facility",
+      "summary_cn": ""
+    },
+    {
+      "title": "Distinguished professor Phillip VanFossen named Suzi and Dale Gallagher Dean of Education",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/distinguished-professor-phillip-vanfossen-named-suzi-and-dale-gallagher-dean-of-education",
+      "date": "April 16, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "education",
+      "original_title": "Distinguished professor Phillip VanFossen named Suzi and Dale Gallagher Dean of Education",
+      "summary_cn": ""
+    },
+    {
+      "title": "2 Purdue alumnae complete the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/2-purdue-alumnae-complete-the-crew-of-the-virgin-galactic-all-boilermaker-spaceflight",
+      "date": "April 15, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "2 Purdue alumnae complete the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "summary_cn": ""
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 3
 }

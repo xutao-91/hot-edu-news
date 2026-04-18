@@ -1,0 +1,26 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-04-17T21:41:12.693774",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Notre Dame Ecologist Jennifer Tank receives 2026 Award of Excellence from the Society for Freshwater Science",
+      "url": "https://news.nd.edu/news/notre-dame-ecologist-jennifer-tank-receives-the-2026-award-of-excellence-from-the-society-for-freshwater-science/",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Indiana bishops issue letter on integral ecology with key contributions from theologian Rev. Terrence Ehrman, C.S.C.",
+      "url": "https://news.nd.edu/news/indiana-bishops-issue-letter-on-integral-ecology-with-key-contributions-from-theologian-rev-terrence-ehrman-c-s-c/",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "religion"
+    }
+  ]
+}

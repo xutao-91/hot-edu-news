@@ -1,21 +1,54 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-03-30T23:19:09.187499",
-  "total_news": 1,
+  "crawled_at": "2026-04-17T21:42:33.190190",
+  "total_news": 4,
   "news": [
     {
-      "title": "红翼队捐赠为韦恩州立大学研究提供新工具",
-      "url": "https://today.wayne.edu/news/2026/03/27/red-wings-donation-powers-new-research-tools-for-wayne-state-physical-therapy-program-68623",
-      "date": "2026-03-27",
+      "title": "Dean Amanda Bryant-Friedrich selected for ACE Fellowship",
+      "url": "https://provost.wayne.edu/news/dean-amanda-bryant-friedrich-named-american-council-on-education-fellow-68865",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general",
+      "original_title": "Dean Amanda Bryant-Friedrich selected for ACE Fellowship",
+      "summary_cn": ""
+    },
+    {
+      "title": "CBHJ mentorship in field placements prepares students for research informed social work practice",
+      "url": "https://behaviorhealthjustice.wayne.edu/news/cbhj-mentorship-in-field-placements-prepares-students-for-research-informed-social-work-practice-68797",
+      "date": "2026-04-15",
       "type": "News",
       "summary_en": "",
       "source": "Wayne State News",
       "category": "research",
-      "original_title": "Red Wings donation powers new research tools for Wayne State physical therapy program",
-      "summary_cn": "2026年3月消息，底特律红翼队向韦恩州立大学捐赠，用于购买新的研究设备和工具。这项捐赠将支持该校在相关领域的研究工作，为学生和教职员工提供更好的科研条件，体现了社区合作伙伴对高等教育的支持。"
+      "original_title": "CBHJ mentorship in field placements prepares students for research informed social work practice",
+      "summary_cn": ""
+    },
+    {
+      "title": "Winter 2026 Warrior Impact cohort bolsters Detroit startups through unique “micro-internships”",
+      "url": "https://economicdevelopment.wayne.edu/news/winter-2026-warrior-impact-cohort-bolsters-detroit-startups-and-small-businesses-through-six-week-micro-internships-68856",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general",
+      "original_title": "Winter 2026 Warrior Impact cohort bolsters Detroit startups through unique “micro-internships”",
+      "summary_cn": ""
+    },
+    {
+      "title": "Professor Donovan Hohn awarded prestigious 2026 Guggenheim Fellowship",
+      "url": "https://clas.wayne.edu/english/news/professor-donovan-hohn-awarded-prestigious-2026-guggenheim-fellowship-68851",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general",
+      "original_title": "Professor Donovan Hohn awarded prestigious 2026 Guggenheim Fellowship",
+      "summary_cn": ""
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 4
 }

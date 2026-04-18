@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-04-17T21:42:11.006929",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "CSE professor launches University of Minnesota’s 301st spin-off",
+      "url": "https://cse.umn.edu/college/news/cse-professor-launches-university-minnesotas-301st-spin",
+      "date": "2026-04-14",
+      "type": "Research",
+      "summary_en": "College of Science and Engineering Professor Jian Ping-Wang's new startup—the University’s 301st since 2006—seeks to address the energy crisis caused by the recent booming of AI applications.",
+      "source": "UMN CSE",
+      "category": "faculty"
+    }
+  ]
+}

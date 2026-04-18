@@ -1,131 +1,197 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-03-30T23:12:39.377310",
-  "total_news": 11,
+  "crawled_at": "2026-04-17T21:42:17.768272",
+  "total_news": 17,
   "news": [
     {
-      "title": "青年领袖将亲身经历带入内布拉斯加州无家可归问题倡导工作",
-      "url": "https://news.unl.edu/article/youth-leaders-bring-lived-experience-to-nebraska-homelessness-advocacy",
-      "date": "2026-03-30",
+      "title": "Lu's Nebraska story is one of research, resilience and a return to art",
+      "url": "https://news.unl.edu/article/lus-nebraska-story-is-one-of-research-resilience-and-a-return-to-art",
+      "date": "2026-04-17",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "Youth leaders bring lived experience to Nebraska homelessness advocacy",
-      "summary_cn": "2026年3月30日消息，三名内布拉斯加州年轻人Dez Fisher、Jeni Fry和Jiromi Corona利用亲身经历和研究成果，在立法日2026期间向州领导人提出政策建议。他们是内布拉斯加大学林肯分校儿童、家庭与法律中心全州无家可归青年行动委员会的成员，与青年亲身经历协调员Angela Gebhardt一起参加了由Nebraska Children and Families Foundation主办的活动。在活动中，参与者学习内布拉斯加州立法程序、投票和倡导知识，并就关心的问题进行解决方案对话。Fisher、Fry和Corona与Nebraska Appleseed的儿童福利青年研究员Jacey Deplanty合作，在27小时内利用研究、循证实践、内布拉斯加州无家可归连续护理数据以及他们的亲身经历起草了演示文稿，并于2月2日向州参议员、立法助理和州长提交了建议。该全州青年行动委员会是无家可归系统改进项目的一部分，UNL中心于2024年底获得美国住房和城市发展部130万美元资助支持该项目。"
+      "original_title": "Lu's Nebraska story is one of research, resilience and a return to art",
+      "summary_cn": ""
     },
     {
-      "title": "从 pep rally 到宿舍，1700多名未来Huskers探索校园生活",
-      "url": "https://news.unl.edu/article/from-pep-rally-to-residence-halls-1700-future-huskers-explore-campus-life",
-      "date": "2026-03-30",
+      "title": "Archives provide inspiration for new student-composed concert music",
+      "url": "https://news.unl.edu/article/archives-provide-inspiration-for-new-student-composed-concert-music",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Archives provide inspiration for new student-composed concert music",
+      "summary_cn": ""
+    },
+    {
+      "title": "Achievements | Honors, appointments and publications for April 17",
+      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-april-17",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Achievements | Honors, appointments and publications for April 17",
+      "summary_cn": ""
+    },
+    {
+      "title": "Jabbar embarks on semester abroad in Japan in new program",
+      "url": "https://news.unl.edu/article/jabbar-embarks-on-semester-abroad-in-japan-in-new-program",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Jabbar embarks on semester abroad in Japan in new program",
+      "summary_cn": ""
+    },
+    {
+      "title": "Husker research provides irrigation rules to save water, increase profits",
+      "url": "https://news.unl.edu/article/husker-research-provides-irrigation-rules-to-save-water-increase-profits",
+      "date": "2026-04-17",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "alumni",
-      "original_title": "From pep rally to residence halls, 1,700+ future Huskers explore campus life",
-      "summary_cn": "2026年3月28日，超过1700名被录取学生与亲友一起参加了内布拉斯加大学林肯分校的录取学生活动日。代理校长Katherine S. Ankerson在活动中与未来学者交流。来自奥马哈的准新生Graydon Cory表示，他计划秋季入学参加Raikes项目，因为该项目提供实习机会和创业工作室。500多名教职员工和学生员工协助举办此次活动。活动以Nebraska Coliseum的pep rally开场，有Herbie Husker、Lil' Red、Cornhusker Marching Band和Nebraska Spirit Squad表演，超过4500名 prospective students 和嘉宾参加。学生事务副校长Monique Snowden表示，对一些学生来说是确认日，对另一些学生来说则是推动他们做出决定的关键因素。部分学生观看了Husker橄榄球队的红白对抗赛，其他学生则探索校园生活，包括参观宿舍、与教职员工见面、了解学生组织。"
+      "original_title": "Husker research provides irrigation rules to save water, increase profits",
+      "summary_cn": ""
     },
     {
-      "title": "建筑学院'Day'活动将于4月14日展示内布拉斯加州生活",
-      "url": "https://news.unl.edu/article/college-of-architectures-day-to-present-april-14-nebraska-lecture",
-      "date": "2026-03-30",
+      "title": "Lawrence’s research proves crucial in safeguarding Nebraska sugar beet sector",
+      "url": "https://news.unl.edu/article/lawrences-research-proves-crucial-in-safeguarding-nebraska-sugar-beet-sector",
+      "date": "2026-04-17",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "College of Architecture’s Day to present April 14 Nebraska Lecture",
-      "summary_cn": "2026年3月消息，内布拉斯加大学林肯分校建筑学院将于4月14日举办'Day'活动，展示建筑规划如何塑造内布拉斯加州的社区生活。活动将邀请专家和学生共同探讨建筑设计对城市发展和居民生活质量的影响。"
+      "original_title": "Lawrence’s research proves crucial in safeguarding Nebraska sugar beet sector",
+      "summary_cn": ""
     },
     {
-      "title": "Husker校友在NASA担任登月任务角色",
-      "url": "https://news.unl.edu/article/husker-alumna-reaches-for-the-moon-with-nasa-role",
-      "date": "2026-03-30",
-      "type": "News",
-      "summary_en": "",
-      "source": "UNL News",
-      "category": "space",
-      "original_title": "Husker alumna reaches for the Moon with NASA role",
-      "summary_cn": "2026年3月30日消息，内布拉斯加大学林肯分校校友Allison Porter Carpenter在NASA担任月球架构团队成员，为Orion飞船的乘员系统集成做出贡献。这项工作支持Artemis II任务准备，这是NASA 50多年来首次载人月球飞行。Carpenter帮助验证Orion系统是否符合人-系统要求，并参与人在回路测试，塑造宇航员在未来月球任务中的生活和工作方式。Artemis II计划于4月1日下午5:24从肯尼迪航天中心发射，备用发射窗口至4月6日。任务将派遣四名宇航员进行约10天的绕月往返之旅，测试飞船系统和深空操作。Carpenter在UNL获得生物系统工程学士学位，辅修生物医学工程，后在MIT获得硕士学位，在哈佛-MIT健康科学技术项目获得博士学位。她曾在NASA约翰逊航天中心和 Glenn 研究中心实习，研究航天相关神经-眼部综合征。她表示，Greg Bashford博士对她的影响深远，帮助她进入BIBA实验室并指导她完成UCARE项目。"
-    },
-    {
-      "title": "学生春假期间前往观察壮观的鹤类迁徙",
-      "url": "https://news.unl.edu/article/students-embark-on-spring-break-to-experience-majestic-crane-migration",
-      "date": "2026-03-27",
+      "title": "Speech and debate team finishes fourth at nationals",
+      "url": "https://news.unl.edu/article/speech-and-debate-team-finishes-fourth-at-nationals",
+      "date": "2026-04-17",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "Students embark on spring break to experience majestic crane migration",
-      "summary_cn": "2026年3月27日消息，春假期间，10名内布拉斯加大学林肯分校学生在4名自然资源学院教师带领下前往内布拉斯加州中部，观察数十万只沙丘鹤降落在普拉特河上的壮观景象。该行程由Carlee Moates、Michael Forsberg、Larkin Powell和John Carroll共同带领，是自然资源学院开设的'Prairie Cranes and Sandhill Chickens'一学分课程的一部分。学生们使用Crane Trust提供的隐蔽观察棚近距离观察鹤类。每年春天，沙丘鹤在2月中旬至4月初迁徙期间访问内布拉斯加州中部的普拉特河谷，数量在3月中下旬达到高峰。2025年，约3.5万名游客前来观鹤，产生了2800万美元的经济影响。"
+      "original_title": "Speech and debate team finishes fourth at nationals",
+      "summary_cn": ""
     },
     {
-      "title": "Forsberg帮助Huskers沉浸在内布拉斯加州的自然奇观中",
-      "url": "https://news.unl.edu/article/forsberg-helps-immerse-huskers-in-the-wonder-of-nebraska",
-      "date": "2026-03-27",
-      "type": "News",
-      "summary_en": "",
-      "source": "UNL News",
-      "category": "alumni",
-      "original_title": "Forsberg helps immerse Huskers in the wonder of Nebraska",
-      "summary_cn": "2026年3月27日消息，作为保护摄影师，Mike Forsberg认为最好的学习方式就是亲自走出去欣赏世界。作为教授，Forsberg每年与IANR同事一起举办为期五天的'Cranes and Chickens'春假课程，带领学生观赏沙丘鹤迁徙、参观普拉特河草原自然保护协会，并在Sandhills的私人牧场度过时光。Forsberg表示：'这次旅行是关于获得实地经验，让学生能够亲眼看到他们在课堂上学到的东西。能够理解就在我们眼前的美妙事物非常重要。'他在UNL本科学习地理期间担任Outdoor Adventures项目旅行领队，并开始摄影。30多年来，他一直与Nebraska学生合作。他还通过共同创立的Platte Basin Timelapse项目指导学生。Forsberg旨在让学生重新与土地和参与维护土地的人们建立联系。"
-    },
-    {
-      "title": "成就 | 3月27日的荣誉、任命和出版物",
-      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-march-27",
-      "date": "2026-03-27",
+      "title": "Der Matossian earns Guggenheim Fellowship",
+      "url": "https://news.unl.edu/article/der-matossian-earns-guggenheim-fellowship",
+      "date": "2026-04-16",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "Achievements | Honors, appointments and publications for March 27",
-      "summary_cn": "2026年3月27日消息，内布拉斯加大学林肯分校社区近期获得多项成就。荣誉方面：博士生Ankit Yadav、研究技术员和硕士生Alex Chmielewski、博士生Sai Suvidh Madela在2月9-12日北卡罗来纳州罗利举行的第66届美国杂草科学学会会议上获得最高荣誉，Yadav和Chmielewski在海报展示竞赛不同类别中获得第二名，Madela在摄影比赛中获得亚军，三人均为农学系Jhala杂草管理实验室成员。农学系教授James Schnable获得2026年美国国家科学院食品和农业科学奖，表彰其在改善玉米、高粱等作物生产力的遗传学研究方面的开创性工作。任命方面：法学院二年级学生Andrew Dominguez Farias被选为Faith and Politics Institute的John Robert Lewis研究员，这是一项全国性荣誉，表彰致力于通过非暴力倡导推进正义的新兴领导者。"
+      "original_title": "Der Matossian earns Guggenheim Fellowship",
+      "summary_cn": ""
     },
     {
-      "title": "建筑规划合作持续塑造David City市中心",
-      "url": "https://news.unl.edu/article/architecture-planning-collaboration-continues-to-shape-downtown-david-city",
-      "date": "2026-03-27",
+      "title": "Rural Nebraskans favor local energy sources, poll shows",
+      "url": "https://news.unl.edu/article/rural-nebraskans-favor-local-energy-sources-poll-shows",
+      "date": "2026-04-16",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "Architecture planning collaboration continues to shape downtown David City",
-      "summary_cn": "2026年3月27日消息，内布拉斯加大学林肯分校社区与区域规划专业学生与当地合作伙伴于2021年开始制定市中心振兴规划，五年后，由此产生的愿景继续指导David City的再开发工作。该规划在2021年UNL规划工作室期间与Nebraska Extension、Southeast Nebraska Development District和市府合作开发，通过调查、实地评估、利益相关者访谈、公众会议和当地资产评估让社区成员参与。规划确定了增强市中心活力、促进旅游业、支持小企业发展、保护历史身份和改善公共空间的策略。自研究完成以来，几项关键建议已从概念转向实施。最显著的发展是Bone Creek Museum of Agrarian Art的搬迁和翻新，已成为David City市中心文化和遗产旅游目的地的基石。该规划还帮助社区获得了40万美元的社区发展整笔拨款，用于支持市中心改善，包括立面升级、标识和建筑增强。"
+      "original_title": "Rural Nebraskans favor local energy sources, poll shows",
+      "summary_cn": ""
     },
     {
-      "title": "Buell利用3-3项目从牧场生活进入法学院",
-      "url": "https://news.unl.edu/article/buell-uses-3-3-program-to-move-from-ranch-life-to-law-school",
-      "date": "2026-03-27",
+      "title": "Day: Architecture offers unique solutions to community housing needs",
+      "url": "https://news.unl.edu/article/day-architecture-offers-unique-solutions-to-community-housing-needs",
+      "date": "2026-04-15",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "Buell uses 3-3 program to move from ranch life to law school",
-      "summary_cn": "2026年3月27日消息，内布拉斯加大学林肯分校农业科学与自然资源学院大三学生Brooklyn Buell通过3-3法律项目为进入法学院做准备，将于2026年8月开始法学院课程。该法学院3-3项目允许学生在六年而非传统的七年内获得学士学位和法律博士学位。Buell今年正在完成环境可持续性研究专业的必修课程。作为农业与自然资源学院的学生，她能够申请全额奖学金。Buell在内布拉斯加州Bassett附近的家庭14,000英亩牧场长大，她和三个兄弟姐妹帮助干草、照料牛只。高中期间，她在FFA演讲比赛中就农场继承规划、牛甲烷排放等话题发表演讲，每年都进入州级比赛。她表示有兴趣在未来从事环境正义案件或政策工作。她感谢自然资源学院学生成功专员Sara Winn帮助她保持正轨。"
+      "original_title": "Day: Architecture offers unique solutions to community housing needs",
+      "summary_cn": ""
     },
     {
-      "title": "荣誉学生春假期间访问巴黎",
-      "url": "https://news.unl.edu/article/honors-students-visit-paris-for-spring-break-trip",
-      "date": "2026-03-27",
+      "title": "Nelson, Riley named finalists in research and innovation vice chancellor search",
+      "url": "https://news.unl.edu/article/nelson-riley-named-finalists-in-research-and-innovation-vice-chancellor-search",
+      "date": "2026-04-15",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
       "category": "general",
-      "original_title": "Honors students visit Paris for spring break trip",
-      "summary_cn": "2026年3月27日消息，25名内布拉斯加大学林肯分校荣誉项目学生在春假期间前往法国巴黎探索，将观光与教师带领的教育海外项目中的实践学习相结合。该行程由运营总监Tamy Burnett和助理总监Nick Gilbert带领，学生参观了巴黎圣母院、埃菲尔铁塔、卢浮宫、凡尔赛宫、奥赛博物馆、巴黎歌剧院和荣军院等标志性景点。为期一周的旅行是为期一学期的课程的一部分，旨在让学生在旅行前获得历史和文化背景。出发前的客座教师包括历史学副教授Cindy Ermus讲授法国大革命，法语教授Erica Shauer讨论19世纪巴黎的娱乐和壮观场面。荣誉项目校友、西乔治亚大学法语和德语助理教授Alexander Claussen通过Zoom讲授拿破仑相关内容。学生们表示，在参观前学习相关知识让体验更有意义。学生最喜欢的景点包括埃菲尔铁塔，夜间观看铁塔闪烁令人难以置信。"
+      "original_title": "Nelson, Riley named finalists in research and innovation vice chancellor search",
+      "summary_cn": ""
     },
     {
-      "title": "四名Huskers赢得Roper体育写作奖",
-      "url": "https://news.unl.edu/article/four-huskers-win-roper-sports-writing-awards",
-      "date": "2026-03-27",
+      "title": "Frontier Tech Lab helps bring hands‑on fossil dig to Morrill Hall",
+      "url": "https://news.unl.edu/article/frontier-tech-lab-helps-bring-hands-on-fossil-dig-to-morrill-hall",
+      "date": "2026-04-15",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",
-      "category": "alumni",
-      "original_title": "Four Huskers win Roper Sports Writing awards",
-      "summary_cn": "2026年3月27日消息，内布拉斯加大学林肯分校新闻与大众传播学院近日公布了Lynn和Dana Roper体育写作竞赛获奖者名单。该年度竞赛测试学生撰写清晰、简洁、准确且引人入胜的体育报道能力。一等奖获得者奖金2500美元，二等奖2000美元，三等奖1500美元，四等奖1000美元。获奖者包括：一等奖Kevin Artiles Fernandez，大四学生，会计和体育媒体与传播专业，来自古巴哈瓦那；二等奖Ben Beecham，大四学生，广告与公共关系和体育媒体与传播专业，来自内布拉斯加州Papillion；三等奖Danny Berg，大三学生，广播和体育媒体与传播专业，来自伊利诺伊州芝加哥；四等奖Anthony Rubek，大四学生，新闻和体育媒体与传播专业，来自内布拉斯加州La Vista。每位学生提交了两篇已发表的体育报道和简历供评委审阅。今年评委包括Lincoln Journal Star体育专栏作家Amie Just、ESPN大学橄榄球记者Max Olson和The Athletic撰稿人Mitch Sherman。该竞赛设立于2001年，面向新闻学院所有本科生和研究生开放。"
+      "category": "general",
+      "original_title": "Frontier Tech Lab helps bring hands‑on fossil dig to Morrill Hall",
+      "summary_cn": ""
+    },
+    {
+      "title": "USDA chief scientist to deliver Heuermann Lecture on April 28",
+      "url": "https://news.unl.edu/article/usda-chief-scientist-to-deliver-heuermann-lecture-on-april-28",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "USDA chief scientist to deliver Heuermann Lecture on April 28",
+      "summary_cn": ""
+    },
+    {
+      "title": "Blomberg earns spot at Science Policy Colloquium in D.C.",
+      "url": "https://news.unl.edu/article/blomberg-earns-spot-at-science-policy-colloquium-in-dc",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "science",
+      "original_title": "Blomberg earns spot at Science Policy Colloquium in D.C.",
+      "summary_cn": ""
+    },
+    {
+      "title": "Drive-thru event bringing cancer prevention directly to Nebraskans",
+      "url": "https://news.unl.edu/article/drive-thru-event-bringing-cancer-prevention-directly-to-nebraskans",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Drive-thru event bringing cancer prevention directly to Nebraskans",
+      "summary_cn": ""
+    },
+    {
+      "title": "Research uncovers finances as key challenge for Nebraska mental health practitioners",
+      "url": "https://news.unl.edu/article/research-uncovers-finances-as-key-challenge-for-nebraska-mental-health-practitioners",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Research uncovers finances as key challenge for Nebraska mental health practitioners",
+      "summary_cn": ""
+    },
+    {
+      "title": "Meier brings experience home to Nebraska Athletics",
+      "url": "https://news.unl.edu/article/meier-brings-experience-home-to-nebraska-athletics",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Meier brings experience home to Nebraska Athletics",
+      "summary_cn": ""
     }
   ],
-  "translated_count": 11,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 17
 }

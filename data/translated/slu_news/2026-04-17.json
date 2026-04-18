@@ -1,21 +1,43 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-03-30T20:49:14.864077",
-  "total_news": 1,
+  "crawled_at": "2026-04-17T21:41:57.760402",
+  "total_news": 3,
   "news": [
     {
-      "title": "SLU研究：姜黄素可能减轻糖尿病患者的炎症反应",
-      "url": "https://www.slu.edu/news/2026/march/turmeric-research-diabetic-patients.php",
-      "date": "2026-03-30",
+      "title": "Tavis Honored With Distinguished Award in Hepatitis B Research",
+      "url": "https://www.slu.edu/news/2026/april/tavis-distinguished-award-hepatitis-b-research.php",
+      "date": "2026-04-16",
       "type": "News",
-      "summary_en": "A compound found in turmeric may help reduce inflammation and oxidative stress in people with prediabetes and type 2 diabetes. In a recent paper published in Inflammopharmacology, Saint Louis University researchers and colleagues have found that curcumin, the main bioactive compound found in turmeric, could help reduce inflammation and harmful oxidative stress in people with prediabetes and type 2",
+      "summary_en": "The International HBV Meeting has recognized John Tavis, Ph.D., professor of Molecular Microbiology and Immunology at Saint Louis University, with the Distinguished Award in Hepatitis B Research. The award is given annually to honor researchers who have made seminal, long-lasting contributions to the study of the Hepatitis B virus (HBV) and the Hepatitis D virus (HDV).",
       "source": "SLU News",
       "category": "research",
-      "original_title": "SLU Research: Turmeric May Reduce Inflammation for Diabetic Patients",
-      "summary_cn": "2026年3月消息，圣路易斯大学研究人员发现，姜黄中的主要生物活性化合物姜黄素可能有助于减轻糖尿病前期和2型糖尿病患者的炎症和氧化应激。这项研究发表在《炎症药理学》期刊上，为糖尿病管理提供了新的天然治疗选择。研究人员指出，姜黄素具有抗炎和抗氧化特性，可能有助于改善糖尿病患者的代谢健康。"
+      "original_title": "Tavis Honored With Distinguished Award in Hepatitis B Research",
+      "summary_cn": "The International HBV Meeting has recognized John Tavis, Ph.D., professor of Molecular Microbiology and Immunology at Saint Louis University, with the Distinguished Award in Hepatitis B Research. The award is given annually to honor researchers who have made seminal, long-lasting contributions to the study of the Hepatitis B virus (HBV) and the Hepatitis D virus (HDV)."
+    },
+    {
+      "title": "Billiken Teacher Corps Puts Faith in Future Catholic School Teachers",
+      "url": "https://www.slu.edu/news/2026/april/billiken-teacher-corps-puts-faith-in-future-catholic-school-teachers.php",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The Billiken Teacher Corps, an innovative Saint Louis University graduate program, has shaped scores of dedicated Catholic school educators over the last decade.",
+      "source": "SLU News",
+      "category": "general",
+      "original_title": "Billiken Teacher Corps Puts Faith in Future Catholic School Teachers",
+      "summary_cn": "The Billiken Teacher Corps, an innovative Saint Louis University graduate program, has shaped scores of dedicated Catholic school educators over the last decade."
+    },
+    {
+      "title": "SLU Student Earns Prestigious STEM Scholarship",
+      "url": "https://www.slu.edu/news/2026/april/rahul-jasthi-goldwater-scholarship.php",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "Saint Louis University student Rahul Jasthi has been named a 2026 Goldwater Scholarship recipient. Jasthi, a junior pursuing a degree in biochemistry, plans to pursue an M.D./Ph.D. in biochemistry and bioinformatics and to lead a computational biochemistry lab at a university or research institution to design RNA aptamer therapeutics for insulin resistance.",
+      "source": "SLU News",
+      "category": "students",
+      "original_title": "SLU Student Earns Prestigious STEM Scholarship",
+      "summary_cn": "Saint Louis University student Rahul Jasthi has been named a 2026 Goldwater Scholarship recipient. Jasthi, a junior pursuing a degree in biochemistry, plans to pursue an M.D./Ph.D. in biochemistry and bioinformatics and to lead a computational biochemistry lab at a university or research institution to design RNA aptamer therapeutics for insulin resistance."
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 3
 }

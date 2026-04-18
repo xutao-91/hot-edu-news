@@ -1,43 +1,65 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-03-30T10:29:33.928421",
-  "total_news": 3,
+  "crawled_at": "2026-04-17T21:42:23.286145",
+  "total_news": 5,
   "news": [
     {
-      "title": "教育学院Conroy荣获杰出教学奖",
-      "url": "https://education.wisc.edu/news/school-of-educations-conroy-receives-distinguished-teaching-award/",
-      "date": "March 27, 2026",
+      "title": "Art in Focus: Q&A with MFA candidate Mark Almanza",
+      "url": "https://education.wisc.edu/news/art-in-focus-qa-with-mfa-candidate-mark-almanza/",
+      "date": "April 17, 2026",
       "type": "News",
-      "summary_en": "Colleen Conroy, assistant professor in the Department of Theatre and Drama, received the Chancellor’s Inclusive Excellence Teaching Award, one of 13 honors recognizing outstanding teaching across the university.",
+      "summary_en": "Mark Almanza is an interdisciplinary artist who works across a variety of mediums to explore their Chicano identity. Their MFA thesis exhibition, “Don’t Everybody Like The Smell Of Gasoline?” will be on view April 21–26 in UW–Madison’s Art Lofts Gallery.",
       "source": "UW-Madison School of Education",
-      "category": "teacher_education",
-      "original_title": "School of Education’s Conroy receives Distinguished Teaching Award",
-      "summary_cn": "2026年3月消息，威斯康星大学麦迪逊分校教育学院戏剧与舞蹈系助理教授Colleen Conroy荣获校长包容性卓越教学奖，该奖项是全校13项表彰杰出教学的荣誉之一。Conroy教授在教学中致力于创造包容性课堂环境，通过创新教学方法促进学生对戏剧艺术的理解和欣赏。她的教学工作获得了师生一致好评，为教育学院的学术声誉作出了重要贡献。"
+      "category": "general",
+      "original_title": "Art in Focus: Q&A with MFA candidate Mark Almanza",
+      "summary_cn": "Mark Almanza is an interdisciplinary artist who works across a variety of mediums to explore their Chicano identity. Their MFA thesis exhibition, “Don’t Everybody Like The Smell Of Gasoline?” will be on view April 21–26 in UW–Madison’s Art Lofts Gallery."
     },
     {
-      "title": "威斯康星大学麦迪逊分校Odle和McQuillan荣获教育财政与政策协会全国奖项",
-      "url": "https://education.wisc.edu/news/uw-madisons-odle-mcquillan-receive-national-awards-from-association-for-education-finance-and-policy/",
-      "date": "March 27, 2026",
+      "title": "UW–Madison research reveals experiences of HMoob (Hmong) undergraduates across Universities of Wisconsin",
+      "url": "https://education.wisc.edu/news/uw-madison-research-reveals-experiences-of-hmoob-hmong-undergraduates-across-universities-of-wisconsin/",
+      "date": "April 17, 2026",
       "type": "News",
-      "summary_en": "Two faculty members from the UW–Madison School of Education received awards from the Association for Education Finance and Policy (AEFP) at its 2026 Association for Education Finance and Policy (AEFP) Annual Conference.",
-      "source": "UW-Madison School of Education",
-      "category": "teacher_education",
-      "original_title": "UW–Madison’s Odle, McQuillan receive national awards from Association for Education Finance and Policy",
-      "summary_cn": "2026年3月消息，威斯康星大学麦迪逊分校教育研究系助理教授Tyler Odle和Jennifer McQuillan荣获教育财政与政策协会颁发的全国奖项。Odle教授因其在教育财政公平性方面的创新研究获奖，McQuillan教授则因其在教育政策分析领域的杰出贡献获此殊荣。两位教授的研究工作对改善美国教育系统、促进教育公平具有重要政策影响。"
-    },
-    {
-      "title": "威斯康星大学麦迪逊分校研究揭示黑人男性研究生经历中的孤立与协作",
-      "url": "https://education.wisc.edu/news/uw-madison-study-highlights-isolation-and-collaboration-in-black-mens-experiences-during-graduate-school/",
-      "date": "March 27, 2026",
-      "type": "News",
-      "summary_en": "A new study from UW–Madison researchers offers insight into the unique experiences of Black men pursuing advanced degrees in engineering.",
+      "summary_en": "An updated statistical portrait of HMoob (Hmong) American undergraduates enrolled in the 13 campuses of the Universities of Wisconsin reveals a college experience marked by unique challenges and opportunities.",
       "source": "UW-Madison School of Education",
       "category": "research",
-      "original_title": "UW–Madison study highlights isolation and collaboration in Black men’s experiences during graduate school",
-      "summary_cn": "2026年3月消息，威斯康星大学麦迪逊分校教育学院发布研究报告，深入探讨黑人男性在研究生教育阶段的经历，特别关注他们在学术环境中面临的孤立感以及寻求协作支持的方式。研究通过访谈和问卷调查，记录了黑人男性研究生在 predominantly white institutions (PWIs) 中求学的独特挑战，包括文化适应、导师关系建立、学术社群融入等方面。研究发现，尽管面临系统性障碍和孤立感，许多受访者通过建立同伴支持网络、参与少数族裔学生组织、寻求文化响应式导师指导等方式积极应对挑战。报告建议高等教育机构应加强多元包容政策实施，为少数族裔研究生创造更有支持性的学习环境。"
+      "original_title": "UW–Madison research reveals experiences of HMoob (Hmong) undergraduates across Universities of Wisconsin",
+      "summary_cn": "An updated statistical portrait of HMoob (Hmong) American undergraduates enrolled in the 13 campuses of the Universities of Wisconsin reveals a college experience marked by unique challenges and opportunities."
+    },
+    {
+      "title": "Tandem Press honored by Print Center New York",
+      "url": "https://education.wisc.edu/news/tandem-press-honored-by-print-center-new-york/",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s Tandem Press is being honored for its significant contributions to the field of printmaking at Print Center New York's spring benefit on May 11.",
+      "source": "UW-Madison School of Education",
+      "category": "awards",
+      "original_title": "Tandem Press honored by Print Center New York",
+      "summary_cn": "UW–Madison’s Tandem Press is being honored for its significant contributions to the field of printmaking at Print Center New York's spring benefit on May 11."
+    },
+    {
+      "title": "UW–Madison’s Shanahan co-authors feature article in SDC Journal",
+      "url": "https://education.wisc.edu/news/uw-madisons-shanahan-co-authors-feature-article-in-sdc-journal/",
+      "date": "April 15, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s Ann M. Shanahan, a professor of acting and directing in the School of Education’s Department of Theatre and Drama, is the co-author of a feature article in the winter 2026 issue of SDC Journal’s peer-reviewed section.",
+      "source": "UW-Madison School of Education",
+      "category": "general",
+      "original_title": "UW–Madison’s Shanahan co-authors feature article in SDC Journal",
+      "summary_cn": "UW–Madison’s Ann M. Shanahan, a professor of acting and directing in the School of Education’s Department of Theatre and Drama, is the co-author of a feature article in the winter 2026 issue of SDC Journal’s peer-reviewed section."
+    },
+    {
+      "title": "School of Education student Benjamin Lebovitz receives campus Graduate Peer Mentor Award",
+      "url": "https://education.wisc.edu/news/school-of-education-student-benjamin-lebovitz-receives-campus-graduate-peer-mentor-award/",
+      "date": "April 14, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison doctoral student Benjamin Lebovitz was selected as a recipient of the Graduate Peer Mentor Award at the 2026 Bucky’s Awards Ceremony on April 12. Lebovitz is a PhD student in the School of Education’s Department of Educational Leadership and Policy Analysis (ELPA).",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education",
+      "original_title": "School of Education student Benjamin Lebovitz receives campus Graduate Peer Mentor Award",
+      "summary_cn": "UW–Madison doctoral student Benjamin Lebovitz was selected as a recipient of the Graduate Peer Mentor Award at the 2026 Bucky’s Awards Ceremony on April 12. Lebovitz is a PhD student in the School of Education’s Department of Educational Leadership and Policy Analysis (ELPA)."
     }
   ],
-  "translated_count": 3,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 5
 }

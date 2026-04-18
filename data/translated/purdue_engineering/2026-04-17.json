@@ -1,54 +1,43 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-03-30T11:21:32.378781",
-  "total_news": 4,
+  "crawled_at": "2026-04-17T21:41:38.636043",
+  "total_news": 3,
   "news": [
     {
-      "title": "Melissa Riegle：传承驱动，决心定义",
-      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0323-Melissa-Riegle-Driven-by-legacy-defined-by-determination",
-      "date": "March 30, 2026",
+      "title": "More than a good boy: How Murphy is changing what well-being looks like in Purdue Engineering",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0416-How-Murphy-is-changing-what-well-being-looks-like-in-Purdue-Engineering",
+      "date": "April 16, 2026",
       "type": "News",
-      "summary_en": "From the very beginning, Melissa Riegle was surrounded by a powerful legacy of engineering excellence.",
+      "summary_en": "Murphy lives with Kristy Eaton, director of the Purdue Engineering's Community, Assistance and Resources for Engineering Students (CARES), and visits campus regularly to do what research says therapy dogs do best: make people feel calmer, happier and less alone.",
       "source": "Purdue College of Engineering",
       "category": "general",
-      "original_title": "Melissa Riegle: Driven by legacy, defined by determination",
-      "summary_cn": "2026年3月30日消息，普渡大学电气工程专业学生Melissa Riegle来自印第安纳州Muncie，她的家族有着深厚的普渡工程传统——父亲、祖父和叔叔都毕业于普渡，兄弟姐妹也追随学习电气工程。Riegle不仅是优秀学生，还是NCAA一级田径队撑杆跳 varsity 运动员。她平衡精英体育和工程学业，仅用2.5年就毕业。她通过教堂志愿服务和指导年轻运动员来投资社区。她获得学术全Big Ten荣誉。现在她已搬到圣路易斯，在圣路易斯大学攻读MBA，同时利用剩余两个赛季的资格继续参加撑杆跳比赛。她希望未来从事工程管理职业，将技术背景与领导力结合，指导大型有影响力的项目。她建议未来学生：不要害怕走出舒适区，成长就在那里发生。"
+      "original_title": "More than a good boy: How Murphy is changing what well-being looks like in Purdue Engineering",
+      "summary_cn": "Murphy lives with Kristy Eaton, director of the Purdue Engineering's Community, Assistance and Resources for Engineering Students (CARES), and visits campus regularly to do what research says therapy dogs do best: make people feel calmer, happier and less alone."
     },
     {
-      "title": "EPICS影响学生和社区30年",
-      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0330-EPICS-has-been-impacting-students-communities-for-30-years",
-      "date": "March 30, 2026",
+      "title": "AAE's Moses completes the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0415-2-Purdue-alumnae-complete-the-crew-of-the-Virgin-Galactic-all-Boilermaker-spaceflight",
+      "date": "April 15, 2026",
       "type": "News",
-      "summary_en": "Engineering Projects in Community Service — now called simply EPICS — is a transformative program that meets an industry need by equipping students with more than just technical skills but also the crucial professional skills that companies desperately seek.",
-      "source": "Purdue College of Engineering",
-      "category": "education",
-      "original_title": "EPICS has been impacting students, communities for 30 years",
-      "summary_cn": "2026年3月30日消息，普渡大学的Engineering Projects in Community Service（EPICS）项目庆祝成立30周年。该项目由Leah Jamieson、Ed Coyle和Henry Dietz于1995年创立，是一个变革性项目，通过让学生参与社区服务项目，不仅教授技术技能，还培养公司急需的专业技能。项目始于40名学生，现已发展到在西拉法叶和印第安纳波利斯有超过1000名学生。项目与社区组织合作，学生团队为真实客户开发真实项目。2005年，EPICS及三位创始人获得美国国家工程院Bernard M. Gordon工程和技术教育创新奖，这是世界工程教育最高奖项。该项目已扩展到40多所大学，以及100多所中学。EPICS还是普渡大学印第安纳波利斯分校两个新生工程路径之一，2025年秋季有269名学生注册。学习社区在西拉法叶有超过1000名学生的候补名单。"
-    },
-    {
-      "title": "三月版：新发布专利",
-      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0324-March-Edition-Newly-Issued-Patents",
-      "date": "March 30, 2026",
-      "type": "News",
-      "summary_en": "Congratulations to Purdue Engineers who recently receive patents on their intellectual property from the U.S. Patent and Trademark Office.",
+      "summary_en": "Purdue University is set to send five Boilermakers on a research journey into space with the announcement of the final two crew members to take part in a Virgin Galactic suborbital flight mission.",
       "source": "Purdue College of Engineering",
       "category": "general",
-      "original_title": "March Edition: Newly Issued Patents",
-      "summary_cn": "2026年3月30日消息，普渡大学研究人员最近从美国专利商标局获得4项专利。这些创新大多可授权并推向市场。这些专利涵盖了普渡大学各校园研究人员的创新发现，具体发明人名单未在原文详细列出。如需了解更多关于这些和其他可用创新的信息，可访问Purdue Innovates技术商业化办公室网站。研究人员如有创新发现，也可通过该办公室在线披露其创新。"
+      "original_title": "AAE's Moses completes the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "summary_cn": "Purdue University is set to send five Boilermakers on a research journey into space with the announcement of the final two crew members to take part in a Virgin Galactic suborbital flight mission."
     },
     {
-      "title": "Roy教授脑启发AI硬件帮助自主设备决策",
-      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0330-Purdue-Engineering-professors-brain-inspired-AI-hardware-helps-with-decision-making-for-autonomous-devices",
-      "date": "March 30, 2026",
+      "title": "Purdue Engineering launches free AI bootcamp to build job-ready competency ahead of university-wide requirement",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0415-Purdue-Engineering-launches-free-AI-bootcamp-to-build-job-ready-competency-ahead-of-university-wide-requirement",
+      "date": "April 15, 2026",
       "type": "News",
-      "summary_en": "A Purdue University engineer uses the brain's efficiency as inspiration to help autonomous vehicles, such as drones and robots, make crucial, time-sensitive decisions while operating in the field.",
+      "summary_en": "As artificial intelligence reshapes industries from manufacturing floors to hospital operating rooms, Purdue Engineering is making sure its students and the broader public are prepared.",
       "source": "Purdue College of Engineering",
       "category": "general",
-      "original_title": "Brain-inspired AI hardware by ECE's Roy helps with decision-making for autonomous devices",
-      "summary_cn": "2026年3月30日消息，普渡大学Edward G. Tiedemann, Jr.电气与计算机工程杰出教授Kaushik Roy利用大脑的效率作为灵感，开发脑启发硬件，帮助无人机和机器人等自主车辆在野外做出关键、时间敏感的决策。传统AI设备将处理和内存单元分开，需要大量能量在两者之间移动数据。Roy和他的团队在纳米电子研究实验室开发传感器、算法和硬件系统，允许自主视觉车辆从A点移动到B点同时避开障碍、优化能源使用并独立运行。核心技术是脉冲神经网络（SNN），其神经元仅在接收到重要信息时才激活。Roy团队还开发了Spike-FlowNet和Adaptive Safety Margin Algorithm等算法，帮助事件相机更有效地扫描和处理环境。该工作得到DARPA和NSF支持。"
+      "original_title": "Purdue Engineering launches free AI bootcamp to build job-ready competency ahead of university-wide requirement",
+      "summary_cn": "As artificial intelligence reshapes industries from manufacturing floors to hospital operating rooms, Purdue Engineering is making sure its students and the broader public are prepared."
     }
   ],
-  "translated_count": 4,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 3
 }

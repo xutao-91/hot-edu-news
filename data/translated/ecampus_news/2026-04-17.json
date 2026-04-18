@@ -1,32 +1,32 @@
 {
   "source": "eCampus News",
   "source_url": "https://www.ecampusnews.com/top-stories/",
-  "crawled_at": "2026-04-09T15:30:00",
+  "crawled_at": "2026-04-17T21:40:21.111140",
   "total_news": 2,
   "news": [
     {
-      "title": "高等教育与终身学习如何打造面向未来的劳动力",
-      "url": "https://www.ecampusnews.com/teaching-learning/2026/04/08/how-higher-ed-and-lifelong-learning-can-shape-a-future-proof-workforce/",
-      "date": "2026-04-08",
-      "type": "Career Readiness",
-      "summary_en": "A new survey from Instructure explores how prepared people feel in navigating today's workforce, and examines the evolving role of higher education and upskilling in meeting new learner expectations and the demands of the future of work.",
+      "title": "Dissecting higher ed’s complex–yet promising–relationship with AI",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/17/dissecting-higher-eds-complex-yet-promising-relationship-with-ai/",
+      "date": "2026-04-17",
+      "type": "AI in Education",
+      "summary_en": "​T​he California State University (CSU) has released findings from its first-ever systemwide survey on artificial intelligence (AI), marking the largest and most comprehensive survey to date on generative artificial intelligence (AI) in higher education.",
       "source": "eCampus News",
-      "category": "general",
-      "original_title": "How higher ed and lifelong learning can shape a future-proof workforce",
-      "summary_cn": "2026年4月8日，教育科技公司Instructure发布《学习与准备状况报告》显示，美国多数劳动者对职场竞争力准备不足，但普遍愿意通过学习提升技能，凸显高等教育与终身学习在构建未来劳动力队伍中的关键作用。这项覆盖1200余名美国劳动者的调研显示，70%的劳动者认为自身难以胜任当前工作，73%担心无法应对未来五年的职业变动；64%计划两年内换工作，其中24%希望通过教育与技能培训实现转型，88%认可培训对职业发展的重要性，但半数不清楚雇主真正需要的技能与资质。代际差异明显，Z世代职场准备不足比例达87%，高于千禧一代、X世代与婴儿潮一代，但该群体学习意愿最强，85%希望提升技能。调研指出，劳动者学习动力充足，但技能需求与获取路径之间存在脱节，需要教育机构与雇主协同发力。报告强调，职业准备度已成为职场核心竞争力，高校需提供灵活、贴合劳动力市场需求的项目，将教育与实际就业成果挂钩。相关教育科技企业也在通过学习平台搭建教育与就业的桥梁，助力不同阶段学习者提升职场竞争力，打造适应未来发展的高素质劳动力队伍。"
+      "category": "ai",
+      "original_title": "Dissecting higher ed’s complex–yet promising–relationship with AI",
+      "summary_cn": "​T​he California State University (CSU) has released findings from its first-ever systemwide survey on artificial intelligence (AI), marking the largest and most comprehensive survey to date on generative artificial intelligence (AI) in higher education."
     },
     {
-      "title": "高等教育无线网络发展现状",
-      "url": "https://www.ecampusnews.com/it-leadership/2026/04/06/whats-the-state-of-wireless-in-higher-education/",
-      "date": "2026-04-06",
-      "type": "IT Infrastructure",
-      "summary_en": "Wi-Fi has evolved into a strategic growth engine capable of delivering a multiplier effect–where a single network investment drives compounding returns across employee productivity, customer engagement, and revenue, according to Cisco's inaugural State of Wireless Report.",
+      "title": "What schools need to know about accessibility compliance as ADA deadline looms",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/04/15/schools-accessibility-compliance-ada-deadline-looms/",
+      "date": "2026-04-15",
+      "type": "DEIA",
+      "summary_en": "Recent updates to the Americans with Disabilities Act means digital accessibility for public educational institutions can not be ignored. It will become a legal mandate.",
       "source": "eCampus News",
-      "category": "edtech",
-      "original_title": "What's the state of wireless in higher education?",
-      "summary_cn": "2026年4月6日消息，思科公司发布首份《无线网络现状报告》，指出无线网络已发展成为战略性增长引擎，能够产生乘数效应——单一网络投资可在员工生产力、客户参与度和收入方面带来复合回报。报告显示，高校正将无线网络视为数字化转型的核心基础设施，不仅用于连接学生和教职工，更用于支持物联网设备、虚拟现实教学和智慧校园应用。报告指出，成功的无线部署需要与教育机构战略目标对齐，并建议高校投资于可扩展、安全且高性能的无线网络基础设施，以支持未来教育创新。"
+      "category": "general",
+      "original_title": "What schools need to know about accessibility compliance as ADA deadline looms",
+      "summary_cn": "Recent updates to the Americans with Disabilities Act means digital accessibility for public educational institutions can not be ignored. It will become a legal mandate."
     }
   ],
-  "translated_count": 2,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 2
 }

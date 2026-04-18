@@ -1,21 +1,32 @@
 {
   "source": "Indiana University School of Education",
   "source_url": "https://education.indiana.edu/news/index.html",
-  "crawled_at": "2026-03-30T13:47:53.124248",
-  "total_news": 1,
+  "crawled_at": "2026-04-17T21:40:41.365514",
+  "total_news": 2,
   "news": [
     {
-      "title": "Peterson当选美国咨询心理学会会士",
-      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-03-27-peterson-elected-fellow-of-society-of-counseling-psychology.html",
-      "date": "2026-03-27",
+      "title": "Uplifting greatness at the Celebration of Excellence",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-04-17-celebration-of-excellence.html",
+      "date": "2026-04-17",
       "type": "News",
-      "summary_en": "Zoë Peterson was recently elected to fellow status in the Society of Counseling Psychology. Peterson, a Professor in the department of Applied Psychology in Education and Research Methodology, said she is very honored to be recognized by the society.",
+      "summary_en": "Students, staff, and faculty gathered together this week to celebrate the year’s accomplishments and recognize the outstanding work happening across the school at the annual Celebration of Excellence.",
       "source": "IU School of Education",
-      "category": "faculty",
-      "original_title": "Peterson elected fellow of Society of Counseling Psychology",
-      "summary_cn": "2026年3月消息，印第安纳大学教育学院应用心理学与教育研究方法系教授Zoë Peterson最近当选为美国咨询心理学会（Society of Counseling Psychology）会士。这一荣誉是对她在咨询心理学领域杰出贡献的认可。Peterson教授表示，能够被该学会认可感到非常荣幸。作为会士，她将在学会中发挥更重要的作用，参与学会治理、政策制定和专业发展等工作。Peterson教授的研究和教学工作专注于咨询心理学领域，她的当选反映了印第安纳大学教育学院在该领域的学术影响力和专业声誉。"
+      "category": "general",
+      "original_title": "Uplifting greatness at the Celebration of Excellence",
+      "summary_cn": "Students, staff, and faculty gathered together this week to celebrate the year’s accomplishments and recognize the outstanding work happening across the school at the annual Celebration of Excellence."
+    },
+    {
+      "title": "Students receive future educator award",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-04-16-students-receive-future-educator-award.html",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The Indiana Association of Colleges for Teacher Education’s Outstanding Future Educator Award recognizes academic excellence and significant professional promise, demonstrated during the student teaching experience.",
+      "source": "IU School of Education",
+      "category": "education",
+      "original_title": "Students receive future educator award",
+      "summary_cn": "The Indiana Association of Colleges for Teacher Education’s Outstanding Future Educator Award recognizes academic excellence and significant professional promise, demonstrated during the student teaching experience."
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 2
 }

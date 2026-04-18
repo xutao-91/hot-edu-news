@@ -1,98 +1,100 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-17T09:55:39.660353",
+  "crawled_at": "2026-04-17T21:42:34.560178",
   "total_news": 10,
   "news": [
     {
-      "title": "总统许可：授权安桥能源有限合伙企业在北达科他州彭比纳县美加国际边境运营维护三处现有管道设施",
+      "title": "Presidential Message Commemorating 250 Years of the Bible in America",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
+      "date": "April 17, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message Commemorating 250 Years of the Bible in America",
+      "summary_cn": ""
+    },
+    {
+      "title": "In Nevada, President Trump Celebrates No Tax on Tips — Delivering Real Money to Working Americans",
+      "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
+      "date": "April 17, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "In Nevada, President Trump Celebrates No Tax on Tips — Delivering Real Money to Working Americans",
+      "summary_cn": ""
+    },
+    {
+      "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
       "date": "April 15, 2026",
-      "category": "总统行政令",
+      "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary_cn": "2026年4月15日，美国总统签署总统许可，授权安桥能源有限合伙企业在北达科他州彭比纳县的美加国际边境运营和维护三处已有的跨境输油管道设施。该许可明确了设施运营的安全标准、环境监管要求以及定期报告义务，确保跨境能源运输的安全稳定，符合美国国家利益。"
+      "summary_cn": ""
     },
     {
-      "title": "总统许可：授权安桥管道（南方之光）有限责任公司在北达科他州彭比纳县美加国际边境运营维护现有管道设施",
+      "title": "Presidential Permit: Authorizing Enbridge Pipelines (Southern Lights) L.L.C. to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-pipelines-southern-lights-l-l-c-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
       "date": "April 15, 2026",
-      "category": "总统行政令",
+      "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Presidential Permit: Authorizing Enbridge Pipelines (Southern Lights) L.L.C. to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary_cn": "2026年4月15日，美国总统签署总统许可，授权安桥管道（南方之光）有限责任公司在北达科他州彭比纳县的美加国际边境运营和维护已有的跨境输油管道设施。许可要求运营方严格遵守美国环境保护法规和跨境运输安全规范，定期向联邦能源监管委员会提交运营报告，保障跨境能源供应链稳定运行。"
+      "summary_cn": ""
     },
     {
-      "title": "总统许可：授权安桥能源有限合伙企业在北达科他州彭比纳县美加国际边境运营维护现有管道设施（第一批次）",
+      "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between-the-un-9ef/",
       "date": "April 15, 2026",
-      "category": "总统行政令",
+      "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary_cn": "2026年4月15日，美国总统签署总统许可，授权安桥能源有限合伙企业在北达科他州彭比纳县的美加国际边境运营和维护第一批次已有的跨境输油管道设施。许可明确了该批次管道的运营年限、安全检查频率以及应急响应要求，确保跨境能源运输符合美国国土安全和环境保护相关规定。"
+      "summary_cn": ""
     },
     {
-      "title": "总统许可：授权安桥能源有限合伙企业在北达科他州彭比纳县美加国际边境运营维护现有管道设施（第二批次）",
+      "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between-the-un-215/",
       "date": "April 15, 2026",
-      "category": "总统行政令",
+      "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary_cn": "2026年4月15日，美国总统签署总统许可，授权安桥能源有限合伙企业在北达科他州彭比纳县的美加国际边境运营和维护第二批次已有的跨境输油管道设施。许可要求运营方建立完善的管道泄漏监测系统，制定应急预案，每年向美国国务院和能源部提交运营情况报告，保障跨境能源运输安全。"
+      "summary_cn": ""
     },
     {
-      "title": "总统许可：授权安桥能源有限合伙企业在北达科他州彭比纳县美加国际边境运营维护现有管道设施（第三批次）",
+      "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between-the-un-1c3/",
       "date": "April 15, 2026",
-      "category": "总统行政令",
+      "category": "Presidential Actions",
       "source": "The White House",
       "original_title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
-      "summary_cn": "2026年4月15日，美国总统签署总统许可，授权安桥能源有限合伙企业在北达科他州彭比纳县的美加国际边境运营和维护第三批次已有的跨境输油管道设施。该许可有效期为10年，到期前可申请续期，运营期间需接受美国联邦监管部门的定期检查，确保设施运营符合所有相关法律法规要求。"
+      "summary_cn": ""
     },
     {
-      "title": "美国总统宣布2026年全国小企业周活动安排",
-      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2026/04/president-announces-national-small-business-week-2026/",
-      "date": "April 14, 2026",
-      "category": "政策声明",
+      "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities-at-st-clair-county-michigan-at-the-international-boundary-between-the-unit-6323/",
+      "date": "April 15, 2026",
+      "category": "Presidential Actions",
       "source": "The White House",
-      "original_title": "President Announces National Small Business Week 2026",
-      "summary_cn": "2026年4月14日，美国总统宣布2026年全国小企业周活动将于5月5日至11日举行，主题为\"小企业：美国经济的脊梁\"。活动期间，联邦政府将公布一系列支持小企业发展的政策措施，包括降低小企业贷款利率、简化行政审批流程、扩大政府采购中小企业份额等，预计将惠及全国约3300万家小企业，进一步激发市场活力和就业增长。"
+      "original_title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
+      "summary_cn": ""
     },
     {
-      "title": "白宫发布2026年春季经济预测报告",
-      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2026/04/white-house-releases-spring-2026-economic-forecast/",
-      "date": "April 14, 2026",
-      "category": "经济政策",
+      "title": "Presidential Permit: Authorizing Enbridge Energy Company, INC. to Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st-clair-county-michigan-at-the-international-boundary-between-the-united-stat/",
+      "date": "April 15, 2026",
+      "category": "Presidential Actions",
       "source": "The White House",
-      "original_title": "White House Releases Spring 2026 Economic Forecast",
-      "summary_cn": "2026年4月14日，白宫发布2026年春季经济预测报告，预计2026年美国GDP增长率将达到3.2%，失业率维持在3.5%的历史低位，通货膨胀率将回落至2.1%的目标区间。报告指出，就业市场持续强劲、制造业回流加速、能源独立政策成效显著是支撑经济增长的主要因素，同时政府将继续采取措施降低家庭生活成本，扩大中产阶级规模。"
+      "original_title": "Presidential Permit: Authorizing Enbridge Energy Company, INC. to Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
+      "summary_cn": ""
     },
     {
-      "title": "美国总统就复活节发表致辞",
-      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2026/04/statement-by-president-joe-biden-on-easter/",
-      "date": "April 13, 2026",
-      "category": "官方声明",
+      "title": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke-county-north-dakota-at-the-international-boundary-between-the-united-states/",
+      "date": "April 15, 2026",
+      "category": "Presidential Actions",
       "source": "The White House",
-      "original_title": "Statement by President Joe Biden on Easter",
-      "summary_cn": "2026年4月13日，美国总统发表复活节致辞，向全美基督徒致以节日祝福。致辞强调了复活节所代表的希望、重生和团结的精神，呼吁全体美国人在节日期间关爱弱势群体，帮助有需要的家庭，共同建设更加包容和团结的社会。总统同时对在一线工作的医护人员、应急救援人员和公共服务人员表示感谢，祝愿所有家庭度过一个平安祥和的复活节。"
-    },
-    {
-      "title": "白宫宣布成立跨部门教育改革协调委员会",
-      "url": "https://www.whitehouse.gov/briefing-room/press-briefings/2026/04/press-briefing-by-press-secretary-karine-jean-pierre-april-12-2026/",
-      "date": "April 12, 2026",
-      "category": "教育政策",
-      "source": "The White House",
-      "original_title": "Press Briefing by Press Secretary Karine Jean-Pierre, April 12, 2026",
-      "summary_cn": "2026年4月12日，白宫新闻秘书卡琳·让-皮埃尔在例行记者会上宣布，总统已签署行政令成立跨部门教育改革协调委员会，由教育部长担任主席，成员包括劳工部、商务部、国土安全部等多个联邦部门代表。委员会将负责统筹推进全国教育改革议程，协调各部门资源支持K-12教育质量提升、高等教育负担能力改善、职业技术教育体系建设等重点工作，预计相关改革方案将于今年下半年陆续公布。"
-    },
-    {
-      "title": "美国总统与加拿大总理举行双边会晤讨论跨境能源合作",
-      "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2026/04/readout-of-president-bidens-meeting-with-prime-minister-justin-trudeau-of-canada/",
-      "date": "April 11, 2026",
-      "category": "外交动态",
-      "source": "The White House",
-      "original_title": "Readout of President Biden's Meeting with Prime Minister Justin Trudeau of Canada",
-      "summary_cn": "2026年4月11日，美国总统与加拿大总理贾斯廷·特鲁多在华盛顿举行双边会晤，重点讨论了跨境能源合作、边境安全、气候变化应对等议题。双方就扩大美加跨境能源基础设施建设、加强能源安全合作达成共识，同意进一步简化跨境能源项目审批流程，提升两国能源供应链的韧性和稳定性。双方还就共同应对气候变化、推动清洁能源转型等问题交换了意见，同意加强相关领域的技术合作和政策协调。"
+      "original_title": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
+      "summary_cn": ""
     }
-  ]
+  ],
+  "translated_count": 0,
+  "missing_count": 10
 }

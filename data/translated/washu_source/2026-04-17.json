@@ -1,21 +1,76 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-03-30T16:40:25.808866",
-  "total_news": 1,
+  "crawled_at": "2026-04-17T21:42:31.498661",
+  "total_news": 6,
   "news": [
     {
-      "title": "Mazzeo就任Judy和Jerry Kent院长",
-      "url": "https://source.washu.edu/2026/03/mazzeo-installed-as-judy-and-jerry-kent-dean/",
-      "date": "2026-03-27",
-      "type": "Advancement",
-      "summary_en": "Mike Mazzeo, the Knight Family Professor of Economics and dean of WashU Olin Business School, was installed Feb. 3 as the inaugural Judy and Jerry Kent Dean.",
+      "title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "url": "https://source.washu.edu/2026/04/washu-researchers-use-efficient-method-to-split-hydrogen-from-water-for-energy/",
+      "date": "2026-04-17",
+      "type": "Sustainability",
+      "summary_en": "WashU researchers have designed a new catalyst to extract hydrogen, a valuable yet low-cost source of zero-emissions fuel.",
       "source": "WashU Source",
-      "category": "advancement",
-      "original_title": "Mazzeo installed as Judy and Jerry Kent Dean",
-      "summary_cn": "2026年3月消息，华盛顿大学圣路易斯分校奥林商学院院长、Knight家族经济学教授Mike Mazzeo于2月3日正式就任首任Judy和Jerry Kent院长。这一新设立的院长职位由Judy和Jerry Kent捐赠支持，旨在推进商学院在教育卓越性和创新方面的战略发展。Mazzeo自2022年起担任奥林商学院院长，在提升学院学术声誉、拓展国际合作和推进商业教育创新方面取得了显著成就。"
+      "category": "academic",
+      "original_title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "summary_cn": "WashU researchers have designed a new catalyst to extract hydrogen, a valuable yet low-cost source of zero-emissions fuel."
+    },
+    {
+      "title": "Separating fact from fiction in housing affordability and corporate investors",
+      "url": "https://source.washu.edu/2026/04/washu-expert-separating-fact-from-fiction-in-housing-affordability-and-corporate-investors/",
+      "date": "2026-04-17",
+      "type": "Disparity",
+      "summary_en": "The rise of institutional investors in the housing market is a symptom, rather than the cause, of an extremely tight housing market and the overall housing affordability crisis, according to Carol Camp Yeakey, the Marshall S. Snow Professor of Arts & Sciences at WashU.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Separating fact from fiction in housing affordability and corporate investors",
+      "summary_cn": "The rise of institutional investors in the housing market is a symptom, rather than the cause, of an extremely tight housing market and the overall housing affordability crisis, according to Carol Camp Yeakey, the Marshall S. Snow Professor of Arts & Sciences at WashU."
+    },
+    {
+      "title": "Building math minds in pre‑K: Hazelwood and WashU make numbers count",
+      "url": "https://source.washu.edu/2026/04/building-math-minds-in-pre-k-hazelwood-and-washu-make-numbers-count/",
+      "date": "2026-04-16",
+      "type": "St. Louis Region",
+      "summary_en": "Pre-K isn’t just for story time — it’s also when children learn important math concepts. The WashU Institute for School Partnership is partnering with the Hazelwood School District to boost kindergarten readiness through coaching, lesson planning and professional development to meet the needs of pre-K educators.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Building math minds in pre‑K: Hazelwood and WashU make numbers count",
+      "summary_cn": "Pre-K isn’t just for story time — it’s also when children learn important math concepts. The WashU Institute for School Partnership is partnering with the Hazelwood School District to boost kindergarten readiness through coaching, lesson planning and professional development to meet the needs of pre-K educators."
+    },
+    {
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors",
+      "url": "https://source.washu.edu/2026/04/mrna-vaccines-follow-unconventional-immune-path-to-destroy-tumors/",
+      "date": "2026-04-15",
+      "type": "Cancer Research",
+      "summary_en": "WashU Medicine researchers have found in mice that two types of immune cells are involved in triggering strong cancer-killing T-cell responses with mRNA vaccines, offering new insights into designing cancer vaccines.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "mRNA vaccines follow unconventional immune path to destroy tumors",
+      "summary_cn": "WashU Medicine researchers have found in mice that two types of immune cells are involved in triggering strong cancer-killing T-cell responses with mRNA vaccines, offering new insights into designing cancer vaccines."
+    },
+    {
+      "title": "Major gift strengthens WashU’s Shakespeare summer program",
+      "url": "https://source.washu.edu/2026/04/major-gift-strengthens-washus-shakespeare-summer-program/",
+      "date": "2026-04-15",
+      "type": "Performing Arts",
+      "summary_en": "Alumni Lesley Malin and Scott Helm have made a $1.35 million gift to support WashU’s annual summer theater program at Shakespeare’s Globe Theatre in London, which is hosted by the Performing Arts Department in Arts & Sciences.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Major gift strengthens WashU’s Shakespeare summer program",
+      "summary_cn": "Alumni Lesley Malin and Scott Helm have made a $1.35 million gift to support WashU’s annual summer theater program at Shakespeare’s Globe Theatre in London, which is hosted by the Performing Arts Department in Arts & Sciences."
+    },
+    {
+      "title": "Midwestern Climate Collaborative receives 2026 AASHE sustainability award",
+      "url": "https://source.washu.edu/2026/04/midwestern-climate-collaborative-receives-2026-aashe-sustainability-award/",
+      "date": "2026-04-14",
+      "type": "Climate & Environment",
+      "summary_en": "The Association for the Advancement of Sustainability in Higher Education recently recognized the Midwest Climate Collaborative for advancing progress for a cleaner, carbon-neutral region.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Midwestern Climate Collaborative receives 2026 AASHE sustainability award",
+      "summary_cn": "The Association for the Advancement of Sustainability in Higher Education recently recognized the Midwest Climate Collaborative for advancing progress for a cleaner, carbon-neutral region."
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 6
 }

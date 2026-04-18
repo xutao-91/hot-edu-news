@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-17T09:55:39.660353",
+  "crawled_at": "2026-04-17T21:42:34.560178",
   "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message Commemorating 250 Years of the Bible in America",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
+      "date": "April 17, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "In Nevada, President Trump Celebrates No Tax on Tips — Delivering Real Money to Working Americans",
+      "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
+      "date": "April 17, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Three Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-three-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between/",
@@ -56,20 +70,6 @@
     {
       "title": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke-county-north-dakota-at-the-international-boundary-between-the-united-states/",
-      "date": "April 15, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "First Lady Melania Trump Champions New Foster Care Legislation in Congress",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-champions-new-foster-care-legislation-in-congress/",
-      "date": "April 15, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Construct, Connect, Operate, and Maintain Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bakken-pipeline-company-lp-to-construct-connect-operate-and-maintain-pipeline-facilities-at-burke-county-north-dakota-at-the-international-boundary-between-the-un/",
       "date": "April 15, 2026",
       "category": "Presidential Actions",
       "source": "The White House"

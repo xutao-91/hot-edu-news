@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-04-17T21:42:33.190190",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Dean Amanda Bryant-Friedrich selected for ACE Fellowship",
+      "url": "https://provost.wayne.edu/news/dean-amanda-bryant-friedrich-named-american-council-on-education-fellow-68865",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "CBHJ mentorship in field placements prepares students for research informed social work practice",
+      "url": "https://behaviorhealthjustice.wayne.edu/news/cbhj-mentorship-in-field-placements-prepares-students-for-research-informed-social-work-practice-68797",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "Winter 2026 Warrior Impact cohort bolsters Detroit startups through unique “micro-internships”",
+      "url": "https://economicdevelopment.wayne.edu/news/winter-2026-warrior-impact-cohort-bolsters-detroit-startups-and-small-businesses-through-six-week-micro-internships-68856",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Professor Donovan Hohn awarded prestigious 2026 Guggenheim Fellowship",
+      "url": "https://clas.wayne.edu/english/news/professor-donovan-hohn-awarded-prestigious-2026-guggenheim-fellowship-68851",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-04-17T21:42:28.259808",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "A UW professor’s book tells the overlooked tale of a queer Black man who risked his life during WWII for love",
+      "url": "https://news.wisc.edu/a-uw-professors-book-tells-the-overlooked-tale-of-a-queer-black-man-who-risked-his-life-during-wwii-for-love/",
+      "date": "April 17, 2026",
+      "type": "News",
+      "summary_en": "Ethelene Whitmire’s “The Remarkable Life of Reed Peggram,” who survived and escaped a Nazi concentration camp with his lover, has received national recognition since its release.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "Three UW–Madison students awarded prestigious 2026 Goldwater Scholarships",
+      "url": "https://news.wisc.edu/three-uw-madison-students-awarded-prestigious-2026-goldwater-scholarships/",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "The Goldwater Scholarship is the premier undergraduate scholarship in mathematics, engineering and the natural sciences in the United States.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "Center for Healthy Minds researchers use AI and 7.5M screenshots to understand suicide risk",
+      "url": "https://centerhealthyminds.org/news/center-for-healthy-minds-researchers-ai-screenshots-understand-suicide-risk",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "Latest findings in first-of-its-kind study show nighttime smartphone behavior can be an indicator of suicidal thoughts.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "‘Custodians of Wonder’ is 2026-27 Go Big Read choice",
+      "url": "https://news.wisc.edu/custodians-of-wonder-is-2026-27-go-big-read-choice/",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "Journalist Eliot Stein explores how some of the world’s rarest and oldest traditions help cultivate a shared identity and keep the past alive.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Campus teaching workload policy, webpage released",
+      "url": "https://news.wisc.edu/campus-teaching-workload-policy-webpage-released/",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "The policy and web resources were developed following the release of the Universities of Wisconsin’s instructional workload policy, and with input from across campus.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison’s Tech Exploration Lab: Where the classroom meets the real world",
+      "url": "https://news.wisc.edu/uw-madisons-tech-exploration-lab-where-the-classroom-meets-the-real-world/",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "The lab is built around a simple expectation: Students come to build, test and refine projects with real problems in mind.",
+      "source": "UW-Madison News",
+      "category": "technology"
+    },
+    {
+      "title": "Information about research employee arrest",
+      "url": "https://news.wisc.edu/information-about-research-employee-arrest/",
+      "date": "April 15, 2026",
+      "type": "News",
+      "summary_en": "On Friday, April 10, 2026, the University of Wisconsin–Madison Police Department took a UW–Madison staff scientist into custody following a safety incident involving a co-worker.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "From Bascom Hill to Hall of Fame: The Allee Willis Archive, Creativity Commons coming to UW–Madison Libraries",
+      "url": "https://www.library.wisc.edu/news/2026/04/10/from-bascom-hill-to-hall-of-fame-the-allee-willis-archive-creativity-commons-coming-to-uw-madison-libraries/",
+      "date": "April 14, 2026",
+      "type": "News",
+      "summary_en": "The donation is coupled with a $1.5 million gift that will fund the construction of a multidisciplinary makerspace in Memorial Library.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

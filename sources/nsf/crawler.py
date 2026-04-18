@@ -13,7 +13,7 @@ import os
 import re
 
 NSF_URL = "https://www.nsf.gov/news/releases"
-BASE_URL = "https://www.nsf.gov"
+BASE_URL = "https://www.nsf.gov/news/releases"
 RAW_DIR = "data/raw/nsf"
 
 def parse_date(date_str):

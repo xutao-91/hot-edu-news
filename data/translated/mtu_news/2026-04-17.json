@@ -1,21 +1,21 @@
 {
   "source": "Michigan Technological University News",
   "source_url": "https://www.mtu.edu/news/archives/",
-  "crawled_at": "2026-03-30T23:10:24.928340",
+  "crawled_at": "2026-04-17T21:41:08.659095",
   "total_news": 1,
   "news": [
     {
-      "title": "成长之地：MTU生物医学微器件实验室提出简单问题",
-      "url": "https://www.mtu.edu/unscripted/2026/03/a-place-to-grow-mtu-biomedical-microdevices-lab-asks-simple-questions-makes-big-connections.html",
-      "date": "2026-03-27",
+      "title": "MTU Class of 2026 Celebrates Spring Commencement",
+      "url": "https://www.mtu.edu/news/2026/04/mtu-class-of-2026-celebrates-spring-commencement.html",
+      "date": "2026-04-16",
       "type": "News",
-      "summary_en": "From targeting cancer cells to engineering 3D tissue, Michigan Tech's Biomedical Micro-Devices Lab operates at the intersection of biology and precision engineering.   The next big advancements in physiology and cell biology are happening at the micro-level. In Michigan Technological University's   . . .",
+      "summary_en": "Michigan Technological University will honor students graduating this spring with two ceremonies held at the Student Development Complex's John J. MacInnes Student Ice Arena.  The Graduate Student Commencement Ceremony will take place at 3 p.m. Friday, April 24, followed by  . . .",
       "source": "MTU News",
       "category": "general",
-      "original_title": "A Place To Grow: MTU Biomedical Micro-Devices Lab Asks Simple Questions, Makes Big Connections",
-      "summary_cn": "2026年3月消息，密歇根理工大学生物医学微器件实验室致力于通过提出简单但深刻的问题来推动科研创新。该实验室的研究人员相信，有时最基本的疑问能够引导出最突破性的发现，这种方法论在生物医学工程领域已取得显著成果。"
+      "original_title": "MTU Class of 2026 Celebrates Spring Commencement",
+      "summary_cn": "Michigan Technological University will honor students graduating this spring with two ceremonies held at the Student Development Complex's John J. MacInnes Student Ice Arena.  The Graduate Student Commencement Ceremony will take place at 3 p.m. Friday, April 24, followed by  . . ."
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 1
 }

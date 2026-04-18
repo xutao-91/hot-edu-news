@@ -1,9 +1,21 @@
 {
   "source": "O'Neill School of Public and Environmental Affairs at IU",
   "source_url": "https://oneill.indiana.edu/news/index.html",
-  "crawled_at": "2026-03-30T13:55:02.185976",
-  "total_news": 0,
-  "news": [],
+  "crawled_at": "2026-04-17T21:41:26.361627",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Woodring named American Council on Education Fellow",
+      "url": "https://oneill.indiana.edu/news/woodring-named-american-council-on-education-fellow.html",
+      "date": "",
+      "type": "News",
+      "summary_en": "TheAmerican Council on Education(ACE) announced thatR.J. Woodring, associate dean for student success and administration at thePaul H. O’Neill School of Public and Environmental Affairs, has been named an ACE Fellow for academic year 2026–27.",
+      "source": "O'Neill School at IU",
+      "category": "general",
+      "original_title": "Woodring named American Council on Education Fellow",
+      "summary_cn": "TheAmerican Council on Education(ACE) announced thatR.J. Woodring, associate dean for student success and administration at thePaul H. O’Neill School of Public and Environmental Affairs, has been named an ACE Fellow for academic year 2026–27."
+    }
+  ],
   "translated_count": 0,
-  "missing_count": 0
+  "missing_count": 1
 }

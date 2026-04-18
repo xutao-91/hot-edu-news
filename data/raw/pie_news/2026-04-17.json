@@ -1,0 +1,108 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-17T21:41:30.020550",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "ECA partners with Birkbeck on India campus push",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-04-17",
+      "type": "Partnerships",
+      "summary_en": "Education Centre of Australia (ECA) has expanded its global campus network through a new partnership with Birkbeck, University of London, supporting the establishment of its Bengaluru campus as part of efforts to bring UK and Australian universities into India’s education landscape.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UK international enrolments down 30% year on year",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-17",
+      "type": "Policy",
+      "summary_en": "BUILA survey points to sharp declines across South Asian markets as institutions tighten recruitment before new Home Office compliance measures take effect.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Canada’s new student arrivals sink beneath Covid-era lows",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-16",
+      "type": "Data",
+      "summary_en": "Canada’s new study permit approval rating dropped to 36% last year, as the number of first-time students coming to the country plunged well below Covid-era levels, recent IRCC data has revealed.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "London’s ‘evening university’ to open first-ever IBC in India",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-04-16",
+      "type": "Transnational education",
+      "summary_en": "Birkbeck College, University of London, known for specialising in evening higher education in the UK, is set to open a campus in Bengaluru offering traditional three-year undergraduate and one-year postgraduate business degrees.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "British Council set to become National Agency for Erasmus+",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-15",
+      "type": "Policy",
+      "summary_en": "The UK has taken the final steps to rejoin Erasmus+, as the British Council is named the country's National Agency for the initiative.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "South Korea’s 310k int’l student surge brings sustainability into focus",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-15",
+      "type": "Policy",
+      "summary_en": "With South Korea now hosting more than 310,000 international students, experts say the conversation must shift from volume-driven enrolment to a more balanced and transparent policy approach.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "My CEO story… Reka Lenart, ALTO",
+      "url": "https://thepienews.com/category/voices/five-mins-with/",
+      "date": "2026-04-15",
+      "type": "Five mins with",
+      "summary_en": "The PIE sat down with Reka Lenart, executive director at ALTO, to find out what inspires her, how a passion for capoeira keeps her energised, and the upcoming projects she's particularly excited about.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Hungary election ushers in higher education reset with Europe in focus",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-14",
+      "type": "Policy",
+      "summary_en": "Hungary’s 2026 election result is being viewed as a potential turning point for the country’s higher education sector, with leaders pointing to renewed engagement with Europe, restored institutional autonomy, and a possible reversal of controversial reforms.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "US visa refusals hit decade high",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-04-14",
+      "type": "Immigration",
+      "summary_en": "As F-1 visa refusals reach record highs, a new report has revealed increasingly entrenched regional disparities, warning that US policies are in “direct opposition” to current global demographic realities.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "EC English Language Centres closes Bristol and Montreal sites",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-14",
+      "type": "Language learning",
+      "summary_en": "EC English Language Centres has decided to close two of its language hubs following a strategic review of the business.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

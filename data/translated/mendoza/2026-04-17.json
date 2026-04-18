@@ -1,32 +1,21 @@
 {
   "source": "Mendoza College of Business at Notre Dame",
   "source_url": "https://mendoza.nd.edu/news/",
-  "crawled_at": "2026-03-30T14:11:05.453260",
-  "total_news": 2,
+  "crawled_at": "2026-04-17T21:41:03.994006",
+  "total_news": 1,
   "news": [
     {
-      "title": "手摇泵为非洲农村社区供水，但许多已损坏——研究模拟如何最好地维护",
-      "url": "https://theconversation.com/handpumps-bring-water-to-rural-african-communities-but-many-are-broken-study-models-how-best-to-maintain-them-278625",
-      "date": "March 29, 2026",
+      "title": "Jim Otteson reflects on an “unplanned journey” in University Chair Lecture",
+      "url": "https://mendoza.nd.edu/news/jim-otteson-university-chair-lecture/",
+      "date": "April 16, 2026",
       "type": "News",
-      "summary_en": "A team of operations management researchers look at how nongovernmental organisations (NGOs) manage and maintain rural water systems.",
-      "source": "Mendoza College of Business",
-      "category": "social_impact",
-      "original_title": "Handpumps bring water to rural African communities, but many are broken – study models how best to maintain them",
-      "summary_cn": "2026年3月29日消息，圣母大学门多萨商学院运营管理研究团队调查非政府组织如何管理和维护非洲农村水系统。撒哈拉以南非洲的手摇泵为超过1.84亿人提供地下水，但研究发现在使用的50万至130万台手摇泵中至少有10万台无法运行。研究团队分析了埃塞俄比亚、马拉维和中非共和国的3584台手摇泵数据，发现定期维护可将停机时间减少多达60%。研究人员使用动态数学优化模型，利用过去十年的47000条记录来预测泵何时可能故障。研究表明，定期维护不会比不维护花费更多，因为预防性维护可防止未来难以修复且成本更高的大故障。"
-    },
-    {
-      "title": "新驻校高管项目架起课堂与董事会的桥梁",
-      "url": "https://mendoza.nd.edu/news/new-executive-in-residence-program-bridges-classroom-and-boardroom/",
-      "date": "March 27, 2026",
-      "type": "News",
-      "summary_en": "Notre Dame MBA Executives in Residence bring extensive leadership experience to mentor MBA students, partner with faculty and expand professional networks beyond campus.",
+      "summary_en": "Professor James Otteson delivered a deeply personal and thought-provoking talk as part of Mendoza’s University Chair Lecture Series.",
       "source": "Mendoza College of Business",
       "category": "general",
-      "original_title": "New Executive in Residence program bridges classroom and boardroom",
-      "summary_cn": "2026年3月30日消息，圣母大学门多萨商学院启动驻校高管计划，邀请企业高管进入课堂分享实战经验。首批驻校高管包括：3M公司前CEO Inge Thulin、波音公司首席财务官Brian West等6人。每位高管每学期授课12小时，并指导学生咨询项目。商学院院长Martijn Cremers表示，该项目旨在缩小理论教育与实践应用之间的差距。首批学生反馈显示，满意度达94%。"
+      "original_title": "Jim Otteson reflects on an “unplanned journey” in University Chair Lecture",
+      "summary_cn": "Professor James Otteson delivered a deeply personal and thought-provoking talk as part of Mendoza’s University Chair Lecture Series."
     }
   ],
-  "translated_count": 2,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 1
 }

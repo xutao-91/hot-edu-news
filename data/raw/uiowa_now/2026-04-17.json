@@ -1,0 +1,71 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-04-17T21:42:03.588401",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Ted Abel appointed president and provost distinguished fellow",
+      "url": "/news/2026/04/ted-abel-appointed-president-and-provost-distinguished-fellow",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Ted Abel, professor and chair of the Department of Neuroscience and Pharmacology in the University of Iowa Carver College of Medicine and the Roy J. Carver Director of the Iowa Neuroscience Institute, has been appointed the university’s first president and provost distinguished fellow.",
+      "source": "UIowa Now",
+      "category": "leadership"
+    },
+    {
+      "title": "UI professor, poet Paige Lewis talks about the books they love (and the dogs that chew them)",
+      "url": "/news/2026/04/ui-professor-poet-paige-lewis-talks-about-books-they-love-and-dogs-chew-them",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UIowa Now",
+      "category": "academic"
+    },
+    {
+      "title": "UI to plant second Miyawaki Forest on Arbor Day",
+      "url": "/news/2026/04/ui-plant-second-miyawaki-forest-arbor-day",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "After successfully planting its first Miyawaki forest in 2025, the University of Iowa will plant a second native woodland, Miyawaki 2.0, on Arbor Day 2026.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "8 scholars with Iowa ties named Guggenheim Fellows",
+      "url": "/news/2026/04/8-scholars-iowa-ties-named-guggenheim-fellows",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "Eight University of Iowa–affiliated scholars are among those selected for 2026 Guggenheim Fellowships. The fellows are recognized for their prior career achievement and exceptional promise.",
+      "source": "UIowa Now",
+      "category": "leadership"
+    },
+    {
+      "title": "Discover Your University returns with 2 spring dates",
+      "url": "https://hr.uiowa.edu/administrative-services/discover-your-university",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI professor using data to better understand teen mental health",
+      "url": "https://tippie.uiowa.edu/news/2026/02/prevent-teen-suicide",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UIowa Now",
+      "category": "academic"
+    },
+    {
+      "title": "UI professor's research examines task switching in space",
+      "url": "https://tippie.uiowa.edu/news/2026/03/space-no-one-can-hear-you-switch-tasks",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UIowa Now",
+      "category": "academic"
+    }
+  ]
+}

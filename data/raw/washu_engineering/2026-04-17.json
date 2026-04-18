@@ -1,0 +1,53 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-04-17T21:42:30.117865",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Chen selected as AIMBE fellow",
+      "url": "https://engineering.washu.edu/news/2026/news.html",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Hong Chen, Jennifer Heemstra selected as AIMBE fellows.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Close to home",
+      "url": "https://engineering.washu.edu/news/2026/Close-to-home.html",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "BME alumna Isabel Acevedo supports life science innovation in St. Louis.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "url": "https://engineering.washu.edu/news/2026/WashU-researchers-use-efficient-method-to-split-hydrogen-from-water-for-energy.html",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "Gang Wu leads team that designed new catalyst to extract valuable hydrogen.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty"
+    },
+    {
+      "title": "Rudra named member of National Institutes of Health study section",
+      "url": "https://engineering.washu.edu/news/2026/Rudra-named-member-of-National-Institutes-of-Health-study-section.html",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "Jai Rudra will review applications concerned with vaccine late-stage development.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Genin elected to World Council of Biomechanics",
+      "url": "https://engineering.washu.edu/news/2026/Genin-elected-to-World-Council-of-Biomechanics.html",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "Guy Genin will serve a 12-year term on prestigious international governing body.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,21 +1,98 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-03-30T23:43:03.876099",
-  "total_news": 1,
+  "crawled_at": "2026-04-17T21:42:12.382194",
+  "total_news": 8,
   "news": [
     {
-      "title": "从课程到洞穴晶体：六位UNI研究人员推动科学边界的边界",
-      "url": "https://insideuni.uni.edu/business/curriculum-cave-crystals-six-uni-researchers-push-boundaries-award-winning-innovations",
-      "date": "2026-03-27",
+      "title": "UNI community celebrates record day of giving during milestone year",
+      "url": "https://insideuni.uni.edu/campus-community/uni-community-celebrates-record-day-giving-during-milestone-year",
+      "date": "2026-04-17",
       "type": "News",
-      "summary_en": "Five UNI faculty members and one graduate student — representing fields from music and education to engineering and astrochemistry — have been awarded funding and support to advance early‑stage ideas through the university’s Intellectual Property and Innovation Disclosure Competition IV.",
+      "summary_en": "The University of Northern Iowa marked a record-setting day of giving as 2,174 donors came together for Live Purple Give Gold, surpassing the goal of 1,876 donors set in honor of the university’s founding year and sesquicentennial celebration.",
+      "source": "UNI News",
+      "category": "community",
+      "original_title": "UNI community celebrates record day of giving during milestone year",
+      "summary_cn": "The University of Northern Iowa marked a record-setting day of giving as 2,174 donors came together for Live Purple Give Gold, surpassing the goal of 1,876 donors set in honor of the university’s founding year and sesquicentennial celebration."
+    },
+    {
+      "title": "UNI honors recipients of 2026 Student Leadership Awards",
+      "url": "https://insideuni.uni.edu/campus-community/uni-honors-recipients-2026-student-leadership-awards",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa honored student accomplishments and service at its annual Student Leadership Awards ceremony on Tuesday, April 14.",
       "source": "UNI News",
       "category": "general",
-      "original_title": "From curriculum to cave crystals: Six UNI researchers push boundaries with award‑winning innovations",
-      "summary_cn": "2026年3月消息，北爱荷华大学的六位研究人员正在通过跨学科合作推动科学边界的边界。他们的研究涵盖从课程开发到洞穴晶体形成的多个领域，展示了UNI在科学研究方面的卓越能力。这些研究不仅增进了学术知识，也为学生提供了宝贵的研究机会。"
+      "original_title": "UNI honors recipients of 2026 Student Leadership Awards",
+      "summary_cn": "The University of Northern Iowa honored student accomplishments and service at its annual Student Leadership Awards ceremony on Tuesday, April 14."
+    },
+    {
+      "title": "University of Northern Iowa announces 2026 Lux Service Award winners",
+      "url": "https://insideuni.uni.edu/campus-community/university-northern-iowa-announces-2026-lux-service-award-winners",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa has named Lane Kruger and Anya Lovstuen the recipients of the 2026 Lux Service Award, the highest honor given by the Division of Student Life recognizing graduating seniors for exceptional service.",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "University of Northern Iowa announces 2026 Lux Service Award winners",
+      "summary_cn": "The University of Northern Iowa has named Lane Kruger and Anya Lovstuen the recipients of the 2026 Lux Service Award, the highest honor given by the Division of Student Life recognizing graduating seniors for exceptional service."
+    },
+    {
+      "title": "Applications open for the 2026 John Pappajohn Iowa Entrepreneurial Venture Competition",
+      "url": "https://insideuni.uni.edu/applications-open-2026-john-pappajohn-iowa-entrepreneurial-venture-competition",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The twenty-first annual statewide competition will award $100,000 in cash prizes to Iowa startups and entrepreneurial ventures, joining other startups from University of Northern Iowa John Pappajohn Entrepreneurial Center (UNI JPEC) alumni that have received this critical funding support.",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "Applications open for the 2026 John Pappajohn Iowa Entrepreneurial Venture Competition",
+      "summary_cn": "The twenty-first annual statewide competition will award $100,000 in cash prizes to Iowa startups and entrepreneurial ventures, joining other startups from University of Northern Iowa John Pappajohn Entrepreneurial Center (UNI JPEC) alumni that have received this critical funding support."
+    },
+    {
+      "title": "Oksana Grybovych Hafermann named American Council on Education Fellow",
+      "url": "https://insideuni.uni.edu/campus-community/oksana-grybovych-hafermann-named-american-council-education-fellow",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The American Council on Education (ACE) announced on Wednesday that UNI Chief of Staff Oksana Grybovych Hafermann has been named an ACE Fellow for the 2026-27 academic year. Following nominations by the senior administration of their institutions and a rigorous application process, 31 Fellows were selected this year.",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "Oksana Grybovych Hafermann named American Council on Education Fellow",
+      "summary_cn": "The American Council on Education (ACE) announced on Wednesday that UNI Chief of Staff Oksana Grybovych Hafermann has been named an ACE Fellow for the 2026-27 academic year. Following nominations by the senior administration of their institutions and a rigorous application process, 31 Fellows were selected this year."
+    },
+    {
+      "title": "UNI launches “UNI Together” one-minute video competition",
+      "url": "https://insideuni.uni.edu/campus-community/uni-launches-uni-together-one-minute-video-competition",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "Got a knack for short videos? The University of Northern Iowa is inviting students, alumni, faculty and staff to share UNI stories through a new creative competition called “UNI Together.”",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "UNI launches “UNI Together” one-minute video competition",
+      "summary_cn": "Got a knack for short videos? The University of Northern Iowa is inviting students, alumni, faculty and staff to share UNI stories through a new creative competition called “UNI Together.”"
+    },
+    {
+      "title": "What does an electrical engineer do? And other common questions about this in-demand role.",
+      "url": "https://insideuni.uni.edu/stem/what-does-electrical-engineer-do-and-other-common-questions-about-demand-role",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "Here are some of the basics you should know if you’re researching what an electrical engineer does and how you can become one!",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "What does an electrical engineer do? And other common questions about this in-demand role.",
+      "summary_cn": "Here are some of the basics you should know if you’re researching what an electrical engineer does and how you can become one!"
+    },
+    {
+      "title": "How can I make myself a more marketable teacher? 5 ideas for future educators",
+      "url": "https://insideuni.uni.edu/education/how-can-i-make-myself-more-marketable-teacher-5-ideas-future-educators",
+      "date": "2026-04-14",
+      "type": "News",
+      "summary_en": "Here are a few ways you can enhance your college experience that will set you up to wow school administrators when you’re applying for teaching jobs upon graduation.",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "How can I make myself a more marketable teacher? 5 ideas for future educators",
+      "summary_cn": "Here are a few ways you can enhance your college experience that will set you up to wow school administrators when you’re applying for teaching jobs upon graduation."
     }
   ],
-  "translated_count": 1,
-  "missing_count": 0
+  "translated_count": 0,
+  "missing_count": 8
 }

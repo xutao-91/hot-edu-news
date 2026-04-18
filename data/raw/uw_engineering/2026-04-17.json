@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison College of Engineering",
+  "source_url": "https://engineering.wisc.edu/news/",
+  "crawled_at": "2026-04-17T21:42:24.586803",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "ME student Eva Stafne awarded prestigious 2026 Goldwater Scholarship",
+      "url": "https://engineering.wisc.edu/news/me-student-eva-stafne-awarded-prestigious-2026-goldwater-scholarship/",
+      "date": "April 17, 2026",
+      "type": "News",
+      "summary_en": "Eva Stafne, a University of Wisconsin-Madison junior majoring in mechanical engineering and completing a certificate in international engineering, has received a 2026 Goldwater Scholarship, the premier undergraduate scholarship in mathematics, engineering and the natural sciences…",
+      "source": "UW-Madison College of Engineering",
+      "category": "environment"
+    },
+    {
+      "title": "Leveling up: How a passion for engineering led Travis Frederick to the NFL and into the dragon’s lair",
+      "url": "https://engineering.wisc.edu/news/leveling-up-how-a-passion-for-engineering-led-travis-frederick-to-the-nfl-and-into-the-dragons-lair/",
+      "date": "April 17, 2026",
+      "type": "News",
+      "summary_en": "Fans of Travis Frederick, the former Wisconsin Badgers and Dallas Cowboys center affectionately known as “Fredbeard,” know of his many accomplishments on the field: first team All-American; 2025 Badger Hall of Fame inductee; first-round draft…",
+      "source": "UW-Madison College of Engineering",
+      "category": "technology"
+    },
+    {
+      "title": "New tool for researchers makes it easier to analyze individual neurons",
+      "url": "https://engineering.wisc.edu/news/new-tool-for-researchers-makes-it-easier-to-analyze-individual-neurons/",
+      "date": "April 15, 2026",
+      "type": "News",
+      "summary_en": "The electrical properties of a neuron paint a picture of its development and function. A new user-friendly and accessible tool developed at the Waisman Center at the University of Wisconsin-Madison, with the help of biomedical…",
+      "source": "UW-Madison College of Engineering",
+      "category": "research"
+    }
+  ]
+}
