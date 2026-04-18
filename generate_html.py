@@ -466,7 +466,6 @@ def generate_html():
                     <td class="col-source"><span class="source-tag" style="background: {source_color};">{source_name}</span></td>
                     <td class="col-title">
                         <a href="{url}" target="_blank" class="title-link">{title}</a>
-                        <div class="original-title">{original_title}</div>
                     </td>
                     <td class="col-summary"><div class="summary">{summary}</div></td>
                 </tr>
