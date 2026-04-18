@@ -1452,7 +1452,14 @@ TITLE_TRANSLATIONS = {
     "Congressional Bills S. 1884 and S. 3971 Signed into Law": "国会S.1884号与S.3971号法案正式签署生效",
     "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”": "美国教育委员会召开信仰类院校委员会特别会议 研讨提升公民对话素养议题",
     "Americans have become more likely to say Trump is not too or not at all religious": "皮尤研究中心最新民调：多数美国民众认为特朗普宗教信仰程度不高",
-    "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda": "兰德公司发布报告：人工智能对核生化辐射防御政策的影响与研究路线图"
+    "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda": "兰德公司发布报告：人工智能对核生化辐射防御政策的影响与研究路线图",
+    "Co-ops at IU Indianapolis power Indiana’s workforce in key industries like biosciences, tourism": "印第安纳大学与普渡大学印第安纳波利斯联合分校合作教育项目为生物科学旅游等重点行业输送劳动力",
+    "USAID’s aid freeze, implications for Nigeria’s education sector, country responses, and new roles for external partners": "布鲁金斯学会分析美国国际开发署冻结对尼日利亚教育援助的影响与应对方案",
+    "America’s Rural Future: Mississippi Delta site visits underscore trusted local leadership, access to capital, and institutional innovation and capacity as critical to rural development": "布鲁金斯学会发布密西西比三角洲乡村发展实地考察报告",
+    "U.S. Department of Education Finds Four Kansas School Districts Violated Federal Law": "美国教育部认定堪萨斯州四个学区违反联邦教育相关法律",
+    "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event Nebraska": "美国教育部公民教育高级顾问凯蒂·戈尔卡在内布拉斯加州强调公民教育重要性",
+    "U.S. Department of Education Issues Proposed Rule to Hold Colleges and Universities Accountable for Low Earning Outcomes": "美国教育部发布拟议规则 要求高校为毕业生低收入就业情况负责",
+    "Presidential Message Commemorating 250 Years of the Bible in America": "美国总统发表公告纪念圣经传入美国250周年"
 }
 
 SUMMARY_TRANSLATIONS = {
@@ -1464,6 +1471,13 @@ SUMMARY_TRANSLATIONS = {
     "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Minnesota": "2026年4月15日，美国教育部公民教育高级顾问凯蒂·戈尔卡在明尼苏达州出席“历史震撼!”主题活动，就加强公民素养教育发表主旨讲话。戈尔卡指出，当前美国社会分歧加剧背景下，强化青少年公民教育、提升历史认知水平具有迫切的现实意义。教育部将推动各州将公民教育纳入核心课程体系，加大教师培训力度，创新教学形式，切实提升公民教育实效。",
     "U.S. Department of Education Office for Civil Rights Opens Disability-Discrimination Investigation into Texas School District": "2026年4月14日，美国教育部民权办公室宣布对得克萨斯州某学区启动残疾人歧视专项调查。调查针对该学区多所学校存在的残疾学生入学障碍、特殊教育资源配置不足、无障碍设施不完善等问题展开。教育部表示，将依法依规严肃处理调查中发现的违法违规行为，保障残疾学生平等受教育权利，推动全美学区严格遵守残疾人教育相关法律法规。",
     "Americans have become more likely to say Trump is not too or not at all religious": "2026年4月16日，皮尤研究中心发布民调结果显示，越来越多美国民众认为前总统特朗普的宗教信仰程度不高。调查显示，仅8%的共和党受访者和5%的白人福音派受访者认为特朗普宗教信仰非常虔诚。民调同时显示，特朗普核心支持者中认同其宗教信仰虔诚的比例也处于历史较低水平。",
-    "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda": "2026年4月16日，兰德公司发布战略研究报告，系统分析人工智能技术发展对化学、生物、辐射与核（CBRN）防御政策与项目的影响。报告指出，人工智能正在重塑CBRN威慑格局，带来新的风险与机遇，报告同时提出了研究路线图，为应对全球技术竞争加剧背景下的相关政策制定提供指导。"
+    "AI Implications for Chemical, Biological, Radiological, and Nuclear Defense Policy and Programs: A Strategic Analytic Research Agenda": "2026年4月16日，兰德公司发布战略研究报告，系统分析人工智能技术发展对化学、生物、辐射与核（CBRN）防御政策与项目的影响。报告指出，人工智能正在重塑CBRN威慑格局，带来新的风险与机遇，报告同时提出了研究路线图，为应对全球技术竞争加剧背景下的相关政策制定提供指导。",
+    "Co-ops at IU Indianapolis power Indiana’s workforce in key industries like biosciences, tourism": "2026年4月18日，印第安纳大学与普渡大学印第安纳波利斯联合分校推出的合作教育项目为学生提供宝贵的职业发展实践机会，同时帮助当地企业填补岗位空缺。该项目重点面向生物科学、旅游等印第安纳州重点发展产业，采用校企联合培养模式，学生在校期间即可进入合作企业开展带薪实习，毕业后可优先获得录用资格。校方表示，该项目运行以来已累计为当地产业输送高质量技能人才超过2000名，有效支撑了州内重点产业的发展需求。",
+    "USAID’s aid freeze, implications for Nigeria’s education sector, country responses, and new roles for external partners": "2026年4月17日，布鲁金斯学会发布研究报告，分析美国国际开发署冻结对尼日利亚教育援助对该国教育领域的影响。报告指出，援助冻结导致尼日利亚全国超过3000所乡村学校的运营资金出现缺口，约120万名学生的正常学习受到影响。尼政府已启动紧急应对预案，统筹国内财政资源填补资金缺口，同时呼吁其他国际合作伙伴加大支持力度。报告同时建议，国际援助机制应提升灵活性，减少地缘政治因素对发展中国家教育援助的影响。",
+    "America’s Rural Future: Mississippi Delta site visits underscore trusted local leadership, access to capital, and institutional innovation and capacity as critical to rural development": "2026年4月17日，布鲁金斯学会发布乡村发展研究报告，基于对密西西比三角洲地区的实地考察结果，总结美国乡村发展的核心成功要素。报告指出，值得信赖的地方治理领导力、便捷的小微企业资本获取渠道、因地制宜的制度创新能力是推动欠发达乡村地区实现可持续发展的三个核心支柱。报告同时提出针对性政策建议，包括加大对乡村地区的普惠金融支持力度、优化地方治理权责分配机制、鼓励乡村地区开展制度创新试点等。",
+    "U.S. Department of Education Finds Four Kansas School Districts Violated Federal Law": "2026年4月17日，美国教育部宣布，经专项调查认定堪萨斯州四个学区存在违反联邦特殊教育相关法律的行为。调查显示，涉事学区长期未按法律要求为残疾学生提供必要的特殊教育支持服务，相关服务人员配置缺口达40%，严重损害了残疾学生的平等受教育权利。教育部已责令涉事学区在90天内提交整改方案，整改不到位将暂停拨付联邦教育资助资金。",
+    "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event Nebraska": "2026年4月17日，美国教育部公民教育高级顾问凯蒂·戈尔卡出席在内布拉斯加州举办的“历史震撼!”主题活动，就加强公民素养教育发表主旨讲话。戈尔卡表示，公民教育是培养青少年国家认同、提升社会责任感的核心途径，教育部将推动各州进一步优化公民教育课程体系，创新教学形式，提升公民教育的实际效果。本次活动共吸引全州超过2000名师生参与，现场展示了多个中小学公民教育创新实践案例。",
+    "U.S. Department of Education Issues Proposed Rule to Hold Colleges and Universities Accountable for Low Earning Outcomes": "2026年4月17日，美国教育部发布拟议规则，要求高等院校对毕业生长期低收入就业情况承担相应责任。根据拟议规则，连续三年毕业生平均年收入低于3万美元的高校，将被削减联邦学生资助额度，情节严重的将被取消参与联邦学生资助项目的资格。教育部表示，该规则旨在推动高校优化专业设置，提升人才培养质量与就业市场需求的匹配度，保障学生的教育投资回报。",
+    "Presidential Message Commemorating 250 Years of the Bible in America": "2026年4月17日，美国总统发布官方公告，纪念圣经传入美国250周年。公告指出，圣经对美国的历史、文化与价值观形成产生了深远影响，是美国精神遗产的重要组成部分。总统同时呼吁全国民众铭记宗教自由传统，尊重不同信仰群体的权利，共同维护国家的精神文化根基。"
 }
 
