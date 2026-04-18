@@ -1,0 +1,76 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-04-18T07:22:38.958575",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "UIC student leaders honored with annual chancellor’s awards",
+      "url": "https://today.uic.edu/uic-student-leaders-honored-with-annual-chancellors-awards/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "Almost 500 students were awarded for their impact across campus and across Chicago.",
+      "source": "UIC Today",
+      "category": "awards",
+      "original_title": "UIC student leaders honored with annual chancellor’s awards",
+      "summary_cn": "Almost 500 students were awarded for their impact across campus and across Chicago."
+    },
+    {
+      "title": "UIC Urban Forum will examine public service in America",
+      "url": "https://today.uic.edu/uic-urban-forum-will-examine-public-service-in-america/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "The April 22 event will explore the public sector’s future amid political, economic and social change.",
+      "source": "UIC Today",
+      "category": "general",
+      "original_title": "UIC Urban Forum will examine public service in America",
+      "summary_cn": "The April 22 event will explore the public sector’s future amid political, economic and social change."
+    },
+    {
+      "title": "UIC jazz saxophonist named Guggenheim fellow",
+      "url": "https://today.uic.edu/uic-jazz-saxophonist-named-guggenheim-fellow/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "Jon Irabagon is among 223 artists, scientists, writers and scholars selected for the competitive honor.",
+      "source": "UIC Today",
+      "category": "general",
+      "original_title": "UIC jazz saxophonist named Guggenheim fellow",
+      "summary_cn": "Jon Irabagon is among 223 artists, scientists, writers and scholars selected for the competitive honor."
+    },
+    {
+      "title": "UIC Engineering launches AI curriculum initiatives",
+      "url": "https://today.uic.edu/uic-engineering-launches-ai-curriculum-initiatives/",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Courses give students tools to harness the transformative power of generative AI in computing.",
+      "source": "UIC Today",
+      "category": "general",
+      "original_title": "UIC Engineering launches AI curriculum initiatives",
+      "summary_cn": "Courses give students tools to harness the transformative power of generative AI in computing."
+    },
+    {
+      "title": "From her mother’s kitchen to Chicago’s food deserts",
+      "url": "https://today.uic.edu/from-her-mothers-kitchen-to-chicagos-food-deserts/",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Brianna Guerrier makes a case for nutrition as justice.",
+      "source": "UIC Today",
+      "category": "general",
+      "original_title": "From her mother’s kitchen to Chicago’s food deserts",
+      "summary_cn": "Brianna Guerrier makes a case for nutrition as justice."
+    },
+    {
+      "title": "Students volunteer across Chicago for Day of Service",
+      "url": "https://today.uic.edu/students-volunteer-across-chicago-for-day-of-service/",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "The Day of Service in April is UIC’s largest annual volunteer event.",
+      "source": "UIC Today",
+      "category": "students",
+      "original_title": "Students volunteer across Chicago for Day of Service",
+      "summary_cn": "The Day of Service in April is UIC’s largest annual volunteer event."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 6
+}

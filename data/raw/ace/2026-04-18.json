@@ -1,0 +1,35 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-04-18T07:20:48.117626",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”",
+      "url": "https://www.acenet.edu/News-Room/Pages/Special-Convening-ACE-Faith-Based-Commission.aspx",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "A June 8 convening of ACE’s Commission on Faith-Based Colleges and Universities will bring together leaders to discuss the timely topic of how faith-based institutions can contribute to improving civic dialogue.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "ACE Names 31 Emerging Higher Education Leaders to ACE Fellows Program",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Names-31-Emerging-Higher-Education-Leaders-ACE-Fellows-Program.aspx",
+      "date": "April 15, 2026",
+      "type": "Press Release",
+      "summary_en": "ACE has selected 31 emerging college and university leaders for the 2026-2027 class of the ACE Fellows Program.",
+      "source": "ACE",
+      "category": "higher_ed"
+    },
+    {
+      "title": "ACE Webinar to Examine Mental Health Policy and Practice",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Webinar-Mental-Health-Policy-Practice.aspx",
+      "date": "April 15, 2026",
+      "type": "News",
+      "summary_en": "Register now for a May 27 ACE webinar that will bring together leading voices in mental health advocacy and trauma-informed care to explore the critical intersection of policy, practice, and student wellbeing.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
+}

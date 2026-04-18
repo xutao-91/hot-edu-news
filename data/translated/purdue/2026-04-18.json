@@ -1,0 +1,43 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-18T07:22:09.137067",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Upcoming primary election voting at Purdue facility",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/upcoming-primary-election-voting-at-purdue-facility",
+      "date": "April 17, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "Upcoming primary election voting at Purdue facility",
+      "summary_cn": ""
+    },
+    {
+      "title": "Distinguished professor Phillip VanFossen named Suzi and Dale Gallagher Dean of Education",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/distinguished-professor-phillip-vanfossen-named-suzi-and-dale-gallagher-dean-of-education",
+      "date": "April 16, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "education",
+      "original_title": "Distinguished professor Phillip VanFossen named Suzi and Dale Gallagher Dean of Education",
+      "summary_cn": ""
+    },
+    {
+      "title": "2 Purdue alumnae complete the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/2-purdue-alumnae-complete-the-crew-of-the-virgin-galactic-all-boilermaker-spaceflight",
+      "date": "April 15, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "2 Purdue alumnae complete the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 3
+}

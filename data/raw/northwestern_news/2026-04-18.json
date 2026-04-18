@@ -1,0 +1,35 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-04-18T07:21:55.239197",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Paying tribute to award-winning faculty",
+      "url": "https://news.northwestern.edu/stories/2026/4/paying-tribute-to-award-winning-faculty",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Northwestern has updated its digital accessibility policy. Here’s what to know.",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwestern-updates-digital-accessibility-policy",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Two Northwestern faculty named 2026 Guggenheim Fellows",
+      "url": "https://news.northwestern.edu/stories/2026/4/two-northwestern-faculty-named-2026-guggenheim-fellows",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

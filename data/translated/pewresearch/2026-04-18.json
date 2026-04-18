@@ -1,0 +1,76 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-18T07:22:03.451390",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Americans have become more likely to say Trump is not too or not at all religious",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/16/americans-have-become-more-likely-to-say-trump-is-not-too-or-not-at-all-religious/",
+      "date": "Apr 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "Religion Politics 1",
+        "Religion Politics 3"
+      ],
+      "summary_en": "Among Trump’s strongest supporters, relatively few people say they think he is very religious. Just 8% of Republicans and 5% of White evangelicals say this is the case.",
+      "source": "Pew Research Center",
+      "category": "religion",
+      "original_title": "Americans have become more likely to say Trump is not too or not at all religious",
+      "summary_cn": "Among Trump’s strongest supporters, relatively few people say they think he is very religious. Just 8% of Republicans and 5% of White evangelicals say this is the case."
+    },
+    {
+      "title": "Americans stand out internationally for their pessimism about the nation’s political system",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/15/americans-stand-out-internationally-for-their-pessimism-about-the-nations-political-system/",
+      "date": "Apr 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Political Ideals Systems",
+        "U S Democracy"
+      ],
+      "summary_en": "People in higher-income countries are generally less likely to say their nation’s political system needs major changes or complete reform. Americans are an exception.",
+      "source": "Pew Research Center",
+      "category": "science",
+      "original_title": "Americans stand out internationally for their pessimism about the nation’s political system",
+      "summary_cn": "People in higher-income countries are generally less likely to say their nation’s political system needs major changes or complete reform. Americans are an exception."
+    },
+    {
+      "title": "Teens’ Experiences on TikTok, Instagram and Snapchat",
+      "url": "https://www.pewresearch.org/internet/2026/04/15/teens-experiences-on-tiktok-instagram-and-snapchat/",
+      "date": "Apr 15, 2026",
+      "type": "report",
+      "categories": [
+        "Instagram",
+        "Internet Technology",
+        "Social Media",
+        "Teens Tech",
+        "Teens Youth",
+        "Tiktok"
+      ],
+      "summary_en": "Teens largely turn to TikTok, Instagram and Snapchat for fun and connection. But experiences around messaging, screen time and cyberbullying vary. And what teens say about how these sites impact their mental health.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Teens’ Experiences on TikTok, Instagram and Snapchat",
+      "summary_cn": "Teens largely turn to TikTok, Instagram and Snapchat for fun and connection. But experiences around messaging, screen time and cyberbullying vary. And what teens say about how these sites impact their mental health."
+    },
+    {
+      "title": "Multiple indicators show a decline in the health of America’s democracy in 2025",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/15/multiple-indicators-show-a-decline-in-the-health-of-americas-democracy-in-2025/",
+      "date": "Apr 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Democracy",
+        "Trust In Government",
+        "U S Democracy"
+      ],
+      "summary_en": "Most Americans say democracy in the United States used to be a good example for other countries to follow but has not been in recent years.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Multiple indicators show a decline in the health of America’s democracy in 2025",
+      "summary_cn": "Most Americans say democracy in the United States used to be a good example for other countries to follow but has not been in recent years."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 4
+}

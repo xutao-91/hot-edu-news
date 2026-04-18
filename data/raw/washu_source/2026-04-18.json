@@ -1,0 +1,53 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-18T07:23:07.452431",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "url": "https://source.washu.edu/2026/04/washu-researchers-use-efficient-method-to-split-hydrogen-from-water-for-energy/",
+      "date": "2026-04-17",
+      "type": "Sustainability",
+      "summary_en": "WashU researchers have designed a new catalyst to extract hydrogen, a valuable yet low-cost source of zero-emissions fuel.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Separating fact from fiction in housing affordability and corporate investors",
+      "url": "https://source.washu.edu/2026/04/washu-expert-separating-fact-from-fiction-in-housing-affordability-and-corporate-investors/",
+      "date": "2026-04-17",
+      "type": "Disparity",
+      "summary_en": "The rise of institutional investors in the housing market is a symptom, rather than the cause, of an extremely tight housing market and the overall housing affordability crisis, according to Carol Camp Yeakey, the Marshall S. Snow Professor of Arts & Sciences at WashU.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Building math minds in pre‑K: Hazelwood and WashU make numbers count",
+      "url": "https://source.washu.edu/2026/04/building-math-minds-in-pre-k-hazelwood-and-washu-make-numbers-count/",
+      "date": "2026-04-16",
+      "type": "St. Louis Region",
+      "summary_en": "Pre-K isn’t just for story time — it’s also when children learn important math concepts. The WashU Institute for School Partnership is partnering with the Hazelwood School District to boost kindergarten readiness through coaching, lesson planning and professional development to meet the needs of pre-K educators.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "mRNA vaccines follow unconventional immune path to destroy tumors",
+      "url": "https://source.washu.edu/2026/04/mrna-vaccines-follow-unconventional-immune-path-to-destroy-tumors/",
+      "date": "2026-04-15",
+      "type": "Cancer Research",
+      "summary_en": "WashU Medicine researchers have found in mice that two types of immune cells are involved in triggering strong cancer-killing T-cell responses with mRNA vaccines, offering new insights into designing cancer vaccines.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Major gift strengthens WashU’s Shakespeare summer program",
+      "url": "https://source.washu.edu/2026/04/major-gift-strengthens-washus-shakespeare-summer-program/",
+      "date": "2026-04-15",
+      "type": "Performing Arts",
+      "summary_en": "Alumni Lesley Malin and Scott Helm have made a $1.35 million gift to support WashU’s annual summer theater program at Shakespeare’s Globe Theatre in London, which is hosted by the Performing Arts Department in Arts & Sciences.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

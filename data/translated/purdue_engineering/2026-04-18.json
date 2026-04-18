@@ -1,0 +1,43 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-04-18T07:22:15.363987",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "More than a good boy: How Murphy is changing what well-being looks like in Purdue Engineering",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0416-How-Murphy-is-changing-what-well-being-looks-like-in-Purdue-Engineering",
+      "date": "April 16, 2026",
+      "type": "News",
+      "summary_en": "Murphy lives with Kristy Eaton, director of the Purdue Engineering's Community, Assistance and Resources for Engineering Students (CARES), and visits campus regularly to do what research says therapy dogs do best: make people feel calmer, happier and less alone.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "More than a good boy: How Murphy is changing what well-being looks like in Purdue Engineering",
+      "summary_cn": "Murphy lives with Kristy Eaton, director of the Purdue Engineering's Community, Assistance and Resources for Engineering Students (CARES), and visits campus regularly to do what research says therapy dogs do best: make people feel calmer, happier and less alone."
+    },
+    {
+      "title": "AAE's Moses completes the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0415-2-Purdue-alumnae-complete-the-crew-of-the-Virgin-Galactic-all-Boilermaker-spaceflight",
+      "date": "April 15, 2026",
+      "type": "News",
+      "summary_en": "Purdue University is set to send five Boilermakers on a research journey into space with the announcement of the final two crew members to take part in a Virgin Galactic suborbital flight mission.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "AAE's Moses completes the crew of the Virgin Galactic all-Boilermaker spaceflight",
+      "summary_cn": "Purdue University is set to send five Boilermakers on a research journey into space with the announcement of the final two crew members to take part in a Virgin Galactic suborbital flight mission."
+    },
+    {
+      "title": "Purdue Engineering launches free AI bootcamp to build job-ready competency ahead of university-wide requirement",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0415-Purdue-Engineering-launches-free-AI-bootcamp-to-build-job-ready-competency-ahead-of-university-wide-requirement",
+      "date": "April 15, 2026",
+      "type": "News",
+      "summary_en": "As artificial intelligence reshapes industries from manufacturing floors to hospital operating rooms, Purdue Engineering is making sure its students and the broader public are prepared.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "Purdue Engineering launches free AI bootcamp to build job-ready competency ahead of university-wide requirement",
+      "summary_cn": "As artificial intelligence reshapes industries from manufacturing floors to hospital operating rooms, Purdue Engineering is making sure its students and the broader public are prepared."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 3
+}

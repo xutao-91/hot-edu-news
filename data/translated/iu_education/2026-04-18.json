@@ -1,0 +1,32 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-04-18T07:21:22.984682",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Uplifting greatness at the Celebration of Excellence",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-04-17-celebration-of-excellence.html",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "Students, staff, and faculty gathered together this week to celebrate the year’s accomplishments and recognize the outstanding work happening across the school at the annual Celebration of Excellence.",
+      "source": "IU School of Education",
+      "category": "general",
+      "original_title": "Uplifting greatness at the Celebration of Excellence",
+      "summary_cn": "Students, staff, and faculty gathered together this week to celebrate the year’s accomplishments and recognize the outstanding work happening across the school at the annual Celebration of Excellence."
+    },
+    {
+      "title": "Students receive future educator award",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-04-16-students-receive-future-educator-award.html",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The Indiana Association of Colleges for Teacher Education’s Outstanding Future Educator Award recognizes academic excellence and significant professional promise, demonstrated during the student teaching experience.",
+      "source": "IU School of Education",
+      "category": "education",
+      "original_title": "Students receive future educator award",
+      "summary_cn": "The Indiana Association of Colleges for Teacher Education’s Outstanding Future Educator Award recognizes academic excellence and significant professional promise, demonstrated during the student teaching experience."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 2
+}

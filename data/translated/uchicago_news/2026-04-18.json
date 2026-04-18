@@ -1,0 +1,54 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-18T07:22:37.610005",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Could AI help us be more thoughtful voters?",
+      "url": "https://news.uchicago.edu/story/could-ai-help-us-be-more-thoughtful-voters",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "UChicago researchers launch civic chatbot to educate and challenge voters on political views, ballot measures and more",
+      "source": "UChicago News",
+      "category": "ai",
+      "original_title": "Could AI help us be more thoughtful voters?",
+      "summary_cn": "UChicago researchers launch civic chatbot to educate and challenge voters on political views, ballot measures and more"
+    },
+    {
+      "title": "Anxious? Avoidant? How to build more secure relationships, with Amir Levine",
+      "url": "https://news.uchicago.edu/big-brains-podcast-anxious-avoidant-how-build-more-secure-relationships-amir-levine",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "Anxious? Avoidant? How to build more secure relationships, with Amir Levine",
+      "summary_cn": ""
+    },
+    {
+      "title": "UChicago announces 2026 Alumni Award honorees",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-2026-alumni-award-honorees",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "Recipients span fields from theoretical physics to global economic policy",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "UChicago announces 2026 Alumni Award honorees",
+      "summary_cn": "Recipients span fields from theoretical physics to global economic policy"
+    },
+    {
+      "title": "Samuel Peltzman to receive 2026 Norman Maclean Faculty Award",
+      "url": "https://news.uchicago.edu/story/samuel-peltzman-receive-2026-norman-maclean-faculty-award",
+      "date": "2026-04-15",
+      "type": "News",
+      "summary_en": "Honor recognizes UChicago scholars’ contributions to teaching, student life",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "Samuel Peltzman to receive 2026 Norman Maclean Faculty Award",
+      "summary_cn": "Honor recognizes UChicago scholars’ contributions to teaching, student life"
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 4
+}
