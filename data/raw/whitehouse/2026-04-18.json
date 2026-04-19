@@ -1,9 +1,30 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-18T07:23:10.247752",
+  "crawled_at": "2026-04-18T22:56:59.511777",
   "total_news": 10,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump is Accelerating Medical Treatments for Serious Mental Illness",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-is-accelerating-medical-treatments-for-serious-mental-illness/",
+      "date": "April 18, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bill H.R.8322 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-8322-signed-into-law/",
+      "date": "April 18, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Accelerating Medical Treatments for Serious Mental Illness",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/accelerating-medical-treatments-for-serious-mental-illness/",
+      "date": "April 18, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message Commemorating 250 Years of the Bible in America",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
@@ -49,27 +70,6 @@
     {
       "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at Pembina County, North Dakota, at the International Boundary Between the United States and Canada",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities-at-pembina-county-north-dakota-at-the-international-boundary-between-the-un-1c3/",
-      "date": "April 15, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Permit: Authorizing Enbridge Energy, Limited Partnership to Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-limited-partnership-to-operate-and-maintain-existing-pipeline-facilities-at-st-clair-county-michigan-at-the-international-boundary-between-the-unit-6323/",
-      "date": "April 15, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Permit: Authorizing Enbridge Energy Company, INC. to Operate and Maintain Existing Pipeline Facilities at St. Clair County, Michigan, at the International Boundary Between the United States and Canada",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-enbridge-energy-company-inc-to-operate-and-maintain-existing-pipeline-facilities-at-st-clair-county-michigan-at-the-international-boundary-between-the-united-stat/",
-      "date": "April 15, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Permit: Authorizing Bakken Pipeline Company LP to Operate and Maintain Existing Pipeline Facilities at Burke County, North Dakota, at the International Boundary Between the United States and Canada",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bakken-pipeline-company-lp-to-operate-and-maintain-existing-pipeline-facilities-at-burke-county-north-dakota-at-the-international-boundary-between-the-united-states/",
       "date": "April 15, 2026",
       "category": "Presidential Actions",
       "source": "The White House"

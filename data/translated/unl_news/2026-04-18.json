@@ -1,9 +1,20 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-18T07:22:52.919146",
-  "total_news": 14,
+  "crawled_at": "2026-04-18T22:56:42.118954",
+  "total_news": 15,
   "news": [
+    {
+      "title": "208 Husker students honored during Teacher Education Convocation",
+      "url": "https://news.unl.edu/article/208-husker-students-honored-during-teacher-education-convocation",
+      "date": "2026-04-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni",
+      "original_title": "208 Husker students honored during Teacher Education Convocation",
+      "summary_cn": ""
+    },
     {
       "title": "Lu's Nebraska story is one of research, resilience and a return to art",
       "url": "https://news.unl.edu/article/lus-nebraska-story-is-one-of-research-resilience-and-a-return-to-art",
@@ -160,5 +171,5 @@
     }
   ],
   "translated_count": 0,
-  "missing_count": 14
+  "missing_count": 15
 }
