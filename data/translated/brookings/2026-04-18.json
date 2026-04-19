@@ -1,11 +1,11 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-18T22:54:37.896256",
+  "crawled_at": "2026-04-18T23:33:58.753396",
   "total_news": 3,
   "news": [
     {
-      "title": "USAID’s aid freeze, implications for Nigeria’s education sector, country responses, and new roles for external partners",
+      "title": "美国国际开发署援助冻结对尼日利亚教育领域的影响、尼方应对及外部合作伙伴的新角色",
       "url": "https://www.brookings.edu/articles/nigeria-education-usaid-exit-responses/",
       "author": "Judith-Ann Walker",
       "date": "April 17, 2026",
@@ -13,10 +13,10 @@
       "source": "Brookings Institution",
       "category": "technology",
       "original_title": "USAID’s aid freeze, implications for Nigeria’s education sector, country responses, and new roles for external partners",
-      "summary_cn": ""
+      "summary_cn": "2026年4月17日，国际知名智库美国布鲁金斯学会发布由学者朱迪思-安·沃克撰写的研究文章。\n\n该文章预设研究范畴主要包含四大核心板块：一是美国国际开发署对尼援助冻结事项的基本情况，二是该援助冻结举措对尼日利亚教育领域产生的各类影响，三是尼日利亚政府及相关方针对此事出台的具体应对措施，四是在上述背景下外部合作伙伴可发挥的新作用、可承担的新职能。\n\n截至当前，布鲁金斯学会仅公开了该文章的标题、作者、发布日期等基础信息，尚未对外披露文章的具体摘要及全文内容，文中涉及的关键数据、核心观点、影响研判、对策建议等实质内容均未公布，后续相关信息需以布鲁金斯学会正式发布的完整版本为准。"
     },
     {
-      "title": "America’s Rural Future: Mississippi Delta site visits underscore trusted local leadership, access to capital, and institutional innovation and capacity as critical to rural development",
+      "title": "布鲁金斯学会《美国乡村未来》研究：密西西比三角洲实地考察凸显乡村发展三大核心支撑条件",
       "url": "https://www.brookings.edu/articles/americas-rural-future-mississippi-delta-2026/",
       "author": "Junjie Ren, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdam Aley",
       "date": "April 17, 2026",
@@ -24,10 +24,10 @@
       "source": "Brookings Institution",
       "category": "general",
       "original_title": "America’s Rural Future: Mississippi Delta site visits underscore trusted local leadership, access to capital, and institutional innovation and capacity as critical to rural development",
-      "summary_cn": ""
+      "summary_cn": "2026年4月17日，美国布鲁金斯学会发布题为《美国乡村未来》的研究文章，该文章由任俊杰、亚当·阿利共同撰写。\n\n本次研究围绕美国乡村发展核心议题展开，将密西西比三角洲地区列为重点调研对象，通过实地走访考察的方式，梳理影响乡村发展的关键支撑因素。\n\n本次实地考察结果明确，三大要素对乡村发展起到至关重要的作用：一是可信赖的地方领导力，二是资本获取的可及性，三是制度创新能力与机构建设水平。"
     },
     {
-      "title": "Financial aid for students without financial need: How widespread is it?",
+      "title": "布鲁金斯学会发布研究探讨非经济困难学生助学金普及程度",
       "url": "https://www.brookings.edu/articles/financial-aid-for-students-without-financial-need-how-widespread-is-it/",
       "author": "Phillip Levine",
       "date": "April 16, 2026",
@@ -35,9 +35,9 @@
       "source": "Brookings Institution",
       "category": "technology",
       "original_title": "Financial aid for students without financial need: How widespread is it?",
-      "summary_cn": ""
+      "summary_cn": "2026年4月16日，美国布鲁金斯学会发布由学者菲利普·莱文撰写的教育领域专项研究报告。\n\n本次报告聚焦高等教育资助细分议题，核心研究内容为面向无经济资助需求的学生群体发放助学金的普及程度，围绕该类未绑定学生经济困难资质的助学金覆盖范围、推行现状等核心问题展开专项分析。\n\n该研究为高等教育资助领域的针对性专项成果，相关内容可供教育主管部门、高等院校、政策研究机构等相关主体查阅参考，为后续教育资助政策相关的研究、评估等工作提供基础支撑。"
     }
   ],
-  "translated_count": 0,
-  "missing_count": 3
+  "compiled_count": 3,
+  "skipped_count": 0
 }

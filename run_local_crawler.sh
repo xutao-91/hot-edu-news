@@ -706,9 +706,10 @@ else
 fi
 
 # 翻译所有未编译文章
-echo ""
+# 翻译所有未编译文章（官方AI编译）
 echo "🔄 自动翻译未编译内容..."
-/usr/bin/python3 translate.py
+export KIMI_API_KEY="e5d43a4b-dfd7-4d96-990b-d52f4eb5318a"
+/usr/bin/python3 translate_official.py --all
 
 # 生成页面
 echo ""

@@ -1,11 +1,11 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-04-18T22:54:32.422823",
+  "crawled_at": "2026-04-18T23:33:52.142011",
   "total_news": 3,
   "news": [
     {
-      "title": "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”",
+      "title": "美国教育委员会信仰类高等院校委员会将召开特别会议 研讨“学习更好地表达分歧”相关议题",
       "url": "https://www.acenet.edu/News-Room/Pages/Special-Convening-ACE-Faith-Based-Commission.aspx",
       "date": "April 16, 2026",
       "type": "News",
@@ -13,10 +13,10 @@
       "source": "ACE",
       "category": "general",
       "original_title": "Special Convening of ACE’s Faith-Based Commission Addresses “Learning to Disagree Better”",
-      "summary_cn": "A June 8 convening of ACE’s Commission on Faith-Based Colleges and Universities will bring together leaders to discuss the timely topic of how faith-based institutions can contribute to improving civic dialogue."
+      "summary_cn": "2026年4月16日，美国教育委员会发布官方公告，通报其下属信仰类高等院校委员会特别会议的相关举办安排。\n\n本次特别会议定于2026年6月8日举办，将汇聚各相关领域负责人参会，会议核心主题为“学习更好地表达分歧”，重点研讨信仰类高等院校可为改善公民对话作出的相关贡献。本次会议选取的议题具备较强时效性，是契合当前公共交流领域现实需求的专项研讨安排。\n\n本次会议系美国教育委员会下属信仰类高等院校委员会组织的专项公务交流活动，所有议程均围绕信仰类院校参与公民对话建设的相关内容设置，旨在为相关各方搭建沟通对接渠道，就研讨主题充分交换意见。"
     },
     {
-      "title": "ACE Names 31 Emerging Higher Education Leaders to ACE Fellows Program",
+      "title": "美国教育委员会遴选31名高等教育新兴领导者入选2026-2027年度ACE研究员项目",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-Names-31-Emerging-Higher-Education-Leaders-ACE-Fellows-Program.aspx",
       "date": "April 15, 2026",
       "type": "Press Release",
@@ -24,10 +24,10 @@
       "source": "ACE",
       "category": "higher_ed",
       "original_title": "ACE Names 31 Emerging Higher Education Leaders to ACE Fellows Program",
-      "summary_cn": "ACE has selected 31 emerging college and university leaders for the 2026-2027 class of the ACE Fellows Program."
+      "summary_cn": "2026年4月15日，美国教育委员会（英文缩写ACE）发布官方公告，正式公布2026-2027年度ACE研究员项目的人员遴选结果。本次公告为美国教育委员会官方发布的权威信息，相关内容均来自该机构公开披露渠道。\n\n本次遴选共确定31名入选人员，所有入选者均为高等教育领域的高校新兴领导者，为2026至2027学年ACE研究员项目的正式入选人员。本次入选人员规模、身份范围及项目周期等核心信息均由美国教育委员会在公告中予以明确。\n\n本次名单公布是美国教育委员会针对ACE研究员项目本年度人员选拔工作的正式进展通报，相关事项均严格按照美国教育委员会既定工作程序推进落实。"
     },
     {
-      "title": "ACE Webinar to Examine Mental Health Policy and Practice",
+      "title": "美国教育委员会将举办聚焦心理健康政策与实践的网络研讨会",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-Webinar-Mental-Health-Policy-Practice.aspx",
       "date": "April 15, 2026",
       "type": "News",
@@ -35,9 +35,9 @@
       "source": "ACE",
       "category": "federal_policy",
       "original_title": "ACE Webinar to Examine Mental Health Policy and Practice",
-      "summary_cn": "Register now for a May 27 ACE webinar that will bring together leading voices in mental health advocacy and trauma-informed care to explore the critical intersection of policy, practice, and student wellbeing."
+      "summary_cn": "2026年4月15日，美国教育委员会发布正式活动公告，公布其主办专项网络研讨会的相关安排。\n\n本次网络研讨会的举办时间为2026年5月27日，目前活动报名已正式启动，有意参与者可注册参会。\n\n本次研讨会将汇聚心理健康倡导、创伤知情护理领域的领军人士，作为研讨发言与交流的核心参与主体。\n\n本次研讨会的核心研讨内容为政策、实践与学生福祉三者的关键交叉领域，所有交流环节均围绕上述核心方向展开。"
     }
   ],
-  "translated_count": 0,
-  "missing_count": 3
+  "compiled_count": 3,
+  "skipped_count": 0
 }

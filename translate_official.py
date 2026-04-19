@@ -156,14 +156,14 @@ def compile_article(article, source_info):
 """
     
     try:
-        # 调用 Kimi API
+        # 调用火山方舟API
         curl_cmd = [
             'curl', '-s', '-X', 'POST',
-            'https://api.kimi.com/coding/v1/chat/completions',
+            'https://ark.cn-beijing.volces.com/api/coding/v3/chat/completions',
             '-H', 'Content-Type: application/json',
             '-H', f'Authorization: Bearer {api_key}',
             '-d', json.dumps({
-                "model": "kimi-code",
+                "model": "ark-code-latest",
                 "messages": [{"role": "user", "content": prompt}],
                 "temperature": 0.3,
                 "max_tokens": 2000

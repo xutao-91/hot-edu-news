@@ -4,6 +4,6 @@
   "crawled_at": "2026-04-18T22:55:51.630688",
   "total_news": 0,
   "news": [],
-  "translated_count": 0,
-  "missing_count": 0
+  "compiled_count": 0,
+  "skipped_count": 0
 }
