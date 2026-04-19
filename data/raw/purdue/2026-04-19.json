@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-19T12:01:26.837510",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Upcoming primary election voting at Purdue facility",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/upcoming-primary-election-voting-at-purdue-facility",
+      "date": "April 17, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "Distinguished professor Phillip VanFossen named Suzi and Dale Gallagher Dean of Education",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/distinguished-professor-phillip-vanfossen-named-suzi-and-dale-gallagher-dean-of-education",
+      "date": "April 16, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "education"
+    }
+  ]
+}

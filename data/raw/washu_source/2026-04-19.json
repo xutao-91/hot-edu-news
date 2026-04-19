@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-19T12:02:24.769895",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "url": "https://source.washu.edu/2026/04/washu-researchers-use-efficient-method-to-split-hydrogen-from-water-for-energy/",
+      "date": "2026-04-17",
+      "type": "Sustainability",
+      "summary_en": "WashU researchers have designed a new catalyst to extract hydrogen, a valuable yet low-cost source of zero-emissions fuel.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Separating fact from fiction in housing affordability and corporate investors",
+      "url": "https://source.washu.edu/2026/04/washu-expert-separating-fact-from-fiction-in-housing-affordability-and-corporate-investors/",
+      "date": "2026-04-17",
+      "type": "Disparity",
+      "summary_en": "The rise of institutional investors in the housing market is a symptom, rather than the cause, of an extremely tight housing market and the overall housing affordability crisis, according to Carol Camp Yeakey, the Marshall S. Snow Professor of Arts & Sciences at WashU.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Building math minds in pre‑K: Hazelwood and WashU make numbers count",
+      "url": "https://source.washu.edu/2026/04/building-math-minds-in-pre-k-hazelwood-and-washu-make-numbers-count/",
+      "date": "2026-04-16",
+      "type": "St. Louis Region",
+      "summary_en": "Pre-K isn’t just for story time — it’s also when children learn important math concepts. The WashU Institute for School Partnership is partnering with the Hazelwood School District to boost kindergarten readiness through coaching, lesson planning and professional development to meet the needs of pre-K educators.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

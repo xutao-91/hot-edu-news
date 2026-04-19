@@ -1,0 +1,38 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-04-19T12:01:49.474717",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "English professor holds solo demonstration against Iran war",
+      "url": "https://www.studlife.com/news/2026/04/16/english-professor-holds-solo-demonstration-against-iran-war",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Professor William J. Maxwell spoke out against the Iran war outside of Olin Library on April 7. He stood alone in front of the George Washington statue with a sign that read “No war of choice. No war on civilian targets. No war in our name. No war in God’s Name.”",
+      "author": "Lissy Portorreal, Zoe Rhodes",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "WashU to add Early Action and more for Class of 2031 undergraduate admissions cycle",
+      "url": "https://www.studlife.com/news/2026/04/16/washu-to-add-early-action-and-more-for-class-of-2031-undergraduate-admissions-cycle",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "WashU Admissions is set to add an Early Action (EA) option and a priority deadline for scholarship programs for the 2026-2027 admissions cycle — adding flexibility for prospective students and streamlining the scholarship process. The University is also planning to remove its optional essay and factor demonstrated interest into its admissions decisions.",
+      "author": "Ella Meshoulam, Victor Huang, Tanvi Gorre",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Phil Gramm draws parallels between the Industrial Revolution and the AI boom",
+      "url": "https://www.studlife.com/news/2026/04/16/phil-gramm-draws-parallels-between-the-industrial-revolution-and-the-ai-boom",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "Former U.S. Senator Phil Gramm argued that AI would be a force for economic good and drew parallels to the Industrial Revolution in a lecture at WashU last Thursday.",
+      "author": "Nicholas Demba, Willa Marks",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-19T12:01:23.032766",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "ECA partners with Birkbeck on India campus push",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-04-17",
+      "type": "Partnerships",
+      "summary_en": "Education Centre of Australia (ECA) has expanded its global campus network through a new partnership with Birkbeck, University of London, supporting the establishment of its Bengaluru campus as part of efforts to bring UK and Australian universities into India’s education landscape.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UK international enrolments down 30% year on year",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-17",
+      "type": "Policy",
+      "summary_en": "BUILA survey points to sharp declines across South Asian markets as institutions tighten recruitment before new Home Office compliance measures take effect.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Canada’s new student arrivals sink beneath Covid-era lows",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-16",
+      "type": "Data",
+      "summary_en": "Canada’s new study permit approval rating dropped to 36% last year, as the number of first-time students coming to the country plunged well below Covid-era levels, recent IRCC data has revealed.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "London’s ‘evening university’ to open first-ever IBC in India",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-04-16",
+      "type": "Transnational education",
+      "summary_en": "Birkbeck College, University of London, known for specialising in evening higher education in the UK, is set to open a campus in Bengaluru offering traditional three-year undergraduate and one-year postgraduate business degrees.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

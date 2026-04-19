@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-04-19T12:01:47.871112",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Tavis Honored With Distinguished Award in Hepatitis B Research",
+      "url": "https://www.slu.edu/news/2026/april/tavis-distinguished-award-hepatitis-b-research.php",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The International HBV Meeting has recognized John Tavis, Ph.D., professor of Molecular Microbiology and Immunology at Saint Louis University, with the Distinguished Award in Hepatitis B Research. The award is given annually to honor researchers who have made seminal, long-lasting contributions to the study of the Hepatitis B virus (HBV) and the Hepatitis D virus (HDV).",
+      "source": "SLU News",
+      "category": "research"
+    },
+    {
+      "title": "Billiken Teacher Corps Puts Faith in Future Catholic School Teachers",
+      "url": "https://www.slu.edu/news/2026/april/billiken-teacher-corps-puts-faith-in-future-catholic-school-teachers.php",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The Billiken Teacher Corps, an innovative Saint Louis University graduate program, has shaped scores of dedicated Catholic school educators over the last decade.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

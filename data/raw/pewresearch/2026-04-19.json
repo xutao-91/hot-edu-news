@@ -1,0 +1,22 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-19T12:01:20.990388",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Americans have become more likely to say Trump is not too or not at all religious",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/16/americans-have-become-more-likely-to-say-trump-is-not-too-or-not-at-all-religious/",
+      "date": "Apr 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "Religion Politics 1",
+        "Religion Politics 3"
+      ],
+      "summary_en": "Among Trump’s strongest supporters, relatively few people say they think he is very religious. Just 8% of Republicans and 5% of White evangelicals say this is the case.",
+      "source": "Pew Research Center",
+      "category": "religion"
+    }
+  ]
+}

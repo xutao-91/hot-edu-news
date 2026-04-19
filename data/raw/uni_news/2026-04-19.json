@@ -1,0 +1,53 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-04-19T12:02:06.142508",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UNI community celebrates record day of giving during milestone year",
+      "url": "https://insideuni.uni.edu/campus-community/uni-community-celebrates-record-day-giving-during-milestone-year",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa marked a record-setting day of giving as 2,174 donors came together for Live Purple Give Gold, surpassing the goal of 1,876 donors set in honor of the university’s founding year and sesquicentennial celebration.",
+      "source": "UNI News",
+      "category": "community"
+    },
+    {
+      "title": "UNI honors recipients of 2026 Student Leadership Awards",
+      "url": "https://insideuni.uni.edu/campus-community/uni-honors-recipients-2026-student-leadership-awards",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa honored student accomplishments and service at its annual Student Leadership Awards ceremony on Tuesday, April 14.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "University of Northern Iowa announces 2026 Lux Service Award winners",
+      "url": "https://insideuni.uni.edu/campus-community/university-northern-iowa-announces-2026-lux-service-award-winners",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa has named Lane Kruger and Anya Lovstuen the recipients of the 2026 Lux Service Award, the highest honor given by the Division of Student Life recognizing graduating seniors for exceptional service.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Applications open for the 2026 John Pappajohn Iowa Entrepreneurial Venture Competition",
+      "url": "https://insideuni.uni.edu/applications-open-2026-john-pappajohn-iowa-entrepreneurial-venture-competition",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The twenty-first annual statewide competition will award $100,000 in cash prizes to Iowa startups and entrepreneurial ventures, joining other startups from University of Northern Iowa John Pappajohn Entrepreneurial Center (UNI JPEC) alumni that have received this critical funding support.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Oksana Grybovych Hafermann named American Council on Education Fellow",
+      "url": "https://insideuni.uni.edu/campus-community/oksana-grybovych-hafermann-named-american-council-education-fellow",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "The American Council on Education (ACE) announced on Wednesday that UNI Chief of Staff Oksana Grybovych Hafermann has been named an ACE Fellow for the 2026-27 academic year. Following nominations by the senior administration of their institutions and a rigorous application process, 31 Fellows were selected this year.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
