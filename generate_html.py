@@ -26,24 +26,47 @@ def get_all_translated_articles():
     translated_dir = "data/translated"
     if not os.path.exists(translated_dir):
         return articles
-    # 遍历所有日期目录
-    for date_dir in os.listdir(translated_dir):
-        date_path = os.path.join(translated_dir, date_dir)
-        if not os.path.isdir(date_path):
+    # 1. 读取按来源存放的数组格式翻译文件
+    for source_dir in os.listdir(translated_dir):
+        source_path = os.path.join(translated_dir, source_dir)
+        if not os.path.isdir(source_path):
             continue
-        # 遍历所有json文件
-        for file in os.listdir(date_path):
+        # 遍历该来源下的所有json文件
+        for file in os.listdir(source_path):
             if not file.endswith(".json"):
                 continue
-            file_path = os.path.join(date_path, file)
+            file_path = os.path.join(source_path, file)
             try:
                 with open(file_path, "r", encoding="utf-8") as f:
-                    article = json.load(f)
-                    # 确保是中文内容
-                    if all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in article["title"][:5]):
-                        articles.append(article)
+                    data = json.load(f)
+                # 数组格式（旧格式）
+                if isinstance(data, dict) and "news" in data:
+                    for article in data["news"]:
+                        # 确保是中文
+                        if "title" in article and all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in article["title"][:5]):
+                            articles.append(article)
+                # 单篇格式（新格式）
+                elif isinstance(data, dict) and "title" in data:
+                    if all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in data["title"][:5]):
+                        articles.append(data)
             except:
                 continue
+    # 2. 读取按日期存放的单篇格式翻译文件
+    for item in os.listdir(translated_dir):
+        item_path = os.path.join(translated_dir, item)
+        # 判断是日期目录（格式YYYY-MM-DD）
+        if os.path.isdir(item_path) and len(item) == 10 and item.count('-') == 2:
+            for file in os.listdir(item_path):
+                if not file.endswith(".json"):
+                    continue
+                file_path = os.path.join(item_path, file)
+                try:
+                    with open(file_path, "r", encoding="utf-8") as f:
+                        article = json.load(f)
+                        if all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in article["title"][:5]):
+                            articles.append(article)
+                except:
+                    continue
     return articles
 
 def parse_date(date_str):
