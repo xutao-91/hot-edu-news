@@ -213,33 +213,6 @@ def generate_html():
             unique_articles.append(article)
     all_articles = unique_articles
     
-    for source_key, source_info in sources.items():
-        if source_key in translations_db:
-            for original_title, article_data in translations_db[source_key].items():
-                # 只添加那些包含完整 summary_cn 的手工文章
-                # 如果已经有 summary_cn 说明是完整手工录入
-                if 'summary_cn' in article_data and 'title_cn' in article_data:
-                    # 如果url不存在，跳过（需要url才能链接）
-                    if 'url' not in article_data:
-                        continue
-                    url = article_data['url']
-                    # 如果url已存在，先移除旧版本（优先保留手工正确版本）
-                    if url in existing_urls:
-                        all_articles = [a for a in all_articles if a.get('url', '') != url]
-                    # 构建文章对象
-                    article = {}
-                    article['original_title'] = original_title
-                    article['title'] = article_data['title_cn']
-                    article['summary_cn'] = article_data['summary_cn']
-                    article['url'] = url
-                    article['date'] = article_data.get('date', datetime.now().strftime('%Y-%m-%d'))
-                    article['category'] = article_data.get('category', '')
-                    article['_source_key'] = source_key
-                    article['_source_name'] = source_info['name']
-                    article['_source_color'] = source_info['color']
-                    article['_sort_date'] = format_date_key(article.get('date', ''))
-                    all_articles.append(article)
-    
     # 按日期倒序排列
     all_articles.sort(key=lambda x: x['_sort_date'], reverse=True)
     
