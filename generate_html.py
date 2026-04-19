@@ -42,12 +42,15 @@ def get_all_translated_articles():
                 # 数组格式（旧格式）
                 if isinstance(data, dict) and "news" in data:
                     for article in data["news"]:
-                        # 确保是中文
-                        if "title" in article and all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in article["title"][:5]):
-                            articles.append(article)
+                        # 确保是中文（标题至少包含3个中文字符）
+                        if "title" in article:
+                            cn_count = sum(1 for c in article["title"] if '\u4e00' <= c <= '\u9fff')
+                            if cn_count >= 3:
+                                articles.append(article)
                 # 单篇格式（新格式）
                 elif isinstance(data, dict) and "title" in data:
-                    if all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in data["title"][:5]):
+                    cn_count = sum(1 for c in data["title"] if '\u4e00' <= c <= '\u9fff')
+                    if cn_count >= 3:
                         articles.append(data)
             except:
                 continue
@@ -63,7 +66,8 @@ def get_all_translated_articles():
                 try:
                     with open(file_path, "r", encoding="utf-8") as f:
                         article = json.load(f)
-                        if all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in article["title"][:5]):
+                        cn_count = sum(1 for c in article["title"] if '\u4e00' <= c <= '\u9fff')
+                        if cn_count >= 3:
                             articles.append(article)
                 except:
                     continue
