@@ -20,15 +20,31 @@ except ImportError:
     SUMMARY_TRANSLATIONS = {}
     translations_db = {}
 
-def get_latest_json(directory):
-    """自动找到目录下最新的JSON文件"""
-    if not os.path.exists(directory):
-        return None
-    json_files = [f for f in os.listdir(directory) if f.endswith('.json')]
-    if not json_files:
-        return None
-    json_files.sort(reverse=True)
-    return os.path.join(directory, json_files[0])
+def get_all_translated_articles():
+    """获取所有已经翻译完成的中文文章"""
+    articles = []
+    translated_dir = "data/translated"
+    if not os.path.exists(translated_dir):
+        return articles
+    # 遍历所有日期目录
+    for date_dir in os.listdir(translated_dir):
+        date_path = os.path.join(translated_dir, date_dir)
+        if not os.path.isdir(date_path):
+            continue
+        # 遍历所有json文件
+        for file in os.listdir(date_path):
+            if not file.endswith(".json"):
+                continue
+            file_path = os.path.join(date_path, file)
+            try:
+                with open(file_path, "r", encoding="utf-8") as f:
+                    article = json.load(f)
+                    # 确保是中文内容
+                    if all('\u4e00' <= c <= '\u9fff' or c.isspace() or c.isdigit() or c in '.,-：""()（）《》' for c in article["title"][:5]):
+                        articles.append(article)
+            except:
+                continue
+    return articles
 
 def parse_date(date_str):
     """解析各种日期格式"""
@@ -150,39 +166,25 @@ def generate_html():
         'nea_news': {'name': 'NEA News', 'color': '#7B1FA2'}
     }
     
-    all_articles = []
+    # 只加载已经翻译完成的纯中文文章，确保页面无英文内容
+    all_articles = get_all_translated_articles()
     
-    for source_key, source_info in sources.items():
-        filepath = get_latest_json(f'data/translated/{source_key}')
-        if filepath and os.path.exists(filepath):
-            try:
-                with open(filepath, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                for article in data.get('news', []):
-                    article['_source_key'] = source_key
-                    article['_source_name'] = source_info['name']
-                    article['_source_color'] = source_info['color']
-                    article['_sort_date'] = format_date_key(article.get('date', ''))
-                    # Apply manual translations from translate.py if available
-                    match_key = article.get('original_title', article.get('title', '')).strip()
-                    # 优先用新增的翻译字典，其次用老的translations_db
-                    if match_key in TITLE_TRANSLATIONS:
-                        article['original_title'] = match_key
-                        article['title'] = TITLE_TRANSLATIONS[match_key]
-                    if match_key in SUMMARY_TRANSLATIONS:
-                        article['summary_cn'] = SUMMARY_TRANSLATIONS[match_key]
-                    elif match_key in translations_db:
-                        article['summary_cn'] = translations_db[match_key]
-
-                    all_articles.append(article)
-            except Exception as e:
-                print(f"❌ 读取 {source_key} 失败: {e}")
-    
-    # 添加 translations_db 中手工完整录入的文章
-    # 先收集现有url，去重（如果已有，手工版本覆盖）
-    existing_urls = set()
+    # 补充来源信息
+    source_info_map = {v['name']: v for k, v in sources.items()}
     for article in all_articles:
-        existing_urls.add(article.get('url', ''))
+        article['_source_name'] = article.get('source', '未知来源')
+        article['_source_color'] = source_info_map.get(article['_source_name'], {}).get('color', '#6B7280')
+        article['_sort_date'] = format_date_key(article.get('date', ''))
+    
+    # 去重
+    existing_urls = set()
+    unique_articles = []
+    for article in all_articles:
+        url = article.get('url', '')
+        if url not in existing_urls:
+            existing_urls.add(url)
+            unique_articles.append(article)
+    all_articles = unique_articles
     
     for source_key, source_info in sources.items():
         if source_key in translations_db:
@@ -453,7 +455,7 @@ def generate_html():
         original_title = article.get('original_title', title)
         
         # 获取中文摘要（从translated数据中直接获取）
-        summary = article.get('summary_cn')
+        summary = article.get('summary', article.get('summary_cn', ''))
         if not summary:
             summary = '<span style="color:#999;font-style:italic;">暂无摘要，点击查看原文</span>'
         url = article.get('url', '')
