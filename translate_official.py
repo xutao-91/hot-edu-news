@@ -285,7 +285,18 @@ def main():
         'pewresearch': {'name': '皮尤研究中心'},
         'heritage': {'name': '传统基金会'},
         'rand': {'name': '兰德公司'},
-        'aei': {'name': '美国企业研究所'}
+        'aei': {'name': '美国企业研究所'},
+        'iu_news': {'name': '印第安纳大学'},
+        'kelley': {'name': 'IU凯利商学院'},
+        'unl_news': {'name': '内布拉斯加大学林肯分校'},
+        'purdue': {'name': '普渡大学'},
+        'butler_stories': {'name': '巴特勒大学'},
+        'northwestern_news': {'name': '西北大学'},
+        'uchicago_news': {'name': '芝加哥大学'},
+        'uiowa_now': {'name': '爱荷华大学'},
+        'umn_cse': {'name': '明尼苏达大学'},
+        'uw_news': {'name': '华盛顿大学'},
+        'washu_source': {'name': '圣路易斯华盛顿大学'}
     }
     
     # 检查 API key

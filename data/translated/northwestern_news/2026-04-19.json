@@ -1,0 +1,43 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-04-19T20:01:11.037451",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "西北大学发布向获奖教职人员致敬相关新闻",
+      "url": "https://news.northwestern.edu/stories/2026/4/paying-tribute-to-award-winning-faculty",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards",
+      "original_title": "Paying tribute to award-winning faculty",
+      "summary_cn": "2026年4月17日，西北大学通过官方渠道发布题为《向获奖教职人员致敬》的教育类官方新闻。\n\n本次发布的新闻核心主题为对该校获得各类表彰奖励的教职人员群体致以官方敬意，信息发布主体为西北大学，发布流程符合该校官方信息公开相关管理规范。\n\n本次公开的该条新闻暂未列明本次致敬工作涉及的表彰奖项类别、获奖教职人员具体名单、相关致敬配套活动安排等细化内容，后续相关权威信息需以西北大学官方对外发布的正式通报为准。"
+    },
+    {
+      "title": "西北大学宣布更新数字无障碍政策",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwestern-updates-digital-accessibility-policy",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general",
+      "original_title": "Northwestern has updated its digital accessibility policy. Here’s what to know.",
+      "summary_cn": "2026年4月16日，西北大学官方发布正式公告，公布该校已完成数字无障碍政策的更新工作。\n\n本次政策更新相关信息由西北大学官方对外发布，是校方针对数字无障碍政策调整事项作出的正式公开说明，公告核心事件为该校数字无障碍政策已完成更新迭代。\n\n截至该公告发布当日，校方未随公告同步披露本次政策修订的具体调整内容、适用范畴、落地实施安排等相关细则，所有与该政策相关的权威信息均以西北大学官方渠道后续发布的内容为准。"
+    },
+    {
+      "title": "Two Northwestern faculty named 2026 Guggenheim Fellows",
+      "url": "https://news.northwestern.edu/stories/2026/4/two-northwestern-faculty-named-2026-guggenheim-fellows",
+      "date": "2026-04-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards",
+      "original_title": "Two Northwestern faculty named 2026 Guggenheim Fellows",
+      "summary_cn": "2026年04月16日，Two Northwestern faculty named 2026 Guggenheim Fellows。"
+    }
+  ],
+  "compiled_count": 3,
+  "skipped_count": 0
+}
