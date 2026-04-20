@@ -1,0 +1,52 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-19T20:01:22.842409",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "ECA与伦敦大学伯贝克学院合作推进印度校园布局",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-04-17",
+      "type": "合作办学",
+      "summary_en": "Education Centre of Australia (ECA) has expanded its global campus network through a new partnership with Birkbeck, University of London, supporting the establishment of its Bengaluru campus as part of efforts to bring UK and Australian universities into India’s education landscape.",
+      "summary": "2026年4月17日，澳大利亚教育中心（ECA）通过与伦敦大学伯贝克学院建立新合作关系，扩展其全球校园网络，支持该校在班加罗尔设立校区，此举是为推动英国和澳大利亚高校进入印度教育格局的相关举措之一。",
+      "source": "The PIE News",
+      "category": "国际教育合作",
+      "author": "阿比舍克·奈尔"
+    },
+    {
+      "title": "英国国际学生入学人数同比下降30%",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-17",
+      "type": "政策动态",
+      "summary_en": "BUILA survey points to sharp declines across South Asian markets as institutions tighten recruitment before new Home Office compliance measures take effect.",
+      "summary": "2026年4月17日，英国国际教育协会（BUILA）调查显示，在英国内政部新合规措施生效前各院校收紧招生政策背景下，南亚市场的国际学生入学人数出现大幅下降。",
+      "source": "The PIE News",
+      "category": "留学政策",
+      "author": "阿比舍克·奈尔"
+    },
+    {
+      "title": "加拿大新留学生入境人数降至新冠疫情时期以下水平",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-16",
+      "type": "数据统计",
+      "summary_en": "Canada’s new study permit approval rating dropped to 36% last year, as the number of first-time students coming to the country plunged well below Covid-era levels, recent IRCC data has revealed.",
+      "summary": "2026年4月16日，加拿大移民、难民和公民部（IRCC）最新数据显示，去年加拿大学习许可批准率降至36%，首次入境的国际学生数量大幅下滑，远低于新冠疫情期间的水平。",
+      "source": "The PIE News",
+      "category": "留学数据",
+      "author": "波莉·纳什"
+    },
+    {
+      "title": "伦敦\"夜校大学\"将在印度开设首个国际分校",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-04-16",
+      "type": "跨境教育",
+      "summary_en": "Birkbeck College, University of London, known for specialising in evening higher education in the UK, is set to open a campus in Bengaluru offering traditional three-year undergraduate and one-year postgraduate business degrees.",
+      "summary": "2026年4月16日，以提供英国夜间高等教育课程闻名的伦敦大学伯贝克学院，计划在班加罗尔开设校区，开设传统三年制本科和一年制研究生商科专业课程。",
+      "source": "The PIE News",
+      "category": "国际办学",
+      "author": "阿比舍克·奈尔"
+    }
+  ]
+}
