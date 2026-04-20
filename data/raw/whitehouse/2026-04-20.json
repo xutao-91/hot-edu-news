@@ -1,0 +1,57 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-04-20T12:02:21.638716",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Presidential Message on National Volunteer Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-volunteer-week/",
+      "date": "April 20, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Crime Victims Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-crime-victims-week/",
+      "date": "April 20, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump is Accelerating Medical Treatments for Serious Mental Illness",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-is-accelerating-medical-treatments-for-serious-mental-illness/",
+      "date": "April 18, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bill H.R.8322 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-8322-signed-into-law/",
+      "date": "April 18, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Accelerating Medical Treatments for Serious Mental Illness",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/accelerating-medical-treatments-for-serious-mental-illness/",
+      "date": "April 18, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message Commemorating 250 Years of the Bible in America",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
+      "date": "April 17, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "In Nevada, President Trump Celebrates No Tax on Tips — Delivering Real Money to Working Americans",
+      "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
+      "date": "April 17, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

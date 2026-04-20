@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-20T12:01:17.783791",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Over-50s drive language travel growth as learning becomes a lifestyle choice",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-20",
+      "type": "Language learning",
+      "summary_en": "Language travel has long been associated with younger learners. But a fast-growing demographic – the over-50s – is redefining who study abroad is for.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Indian students urged to check UK voting eligibility ahead of tonight’s deadline",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-20",
+      "type": "Policy",
+      "summary_en": "The National Indian Students and Alumni Union UK (NISAU) has launched a campaign, My Vote Matters, encouraging Indian students residing in the UK to check their eligibility to vote in the upcoming local elections.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Charlotte Greenstein"
+    },
+    {
+      "title": "Revealed: Kaplan Languages Group to be bought by Inspirit Capital",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-20",
+      "type": "Language learning",
+      "summary_en": "Inspirit Capital – a UK-based investment company specialising in corporate carveouts – is acquiring language-learning giant Kaplan Languages Group (KLG) from Kaplan, The PIE can reveal.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "ECA partners with Birkbeck on India campus push",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-04-17",
+      "type": "Partnerships",
+      "summary_en": "Education Centre of Australia (ECA) has expanded its global campus network through a new partnership with Birkbeck, University of London, supporting the establishment of its Bengaluru campus as part of efforts to bring UK and Australian universities into India’s education landscape.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UK international enrolments down 30% year on year",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-17",
+      "type": "Policy",
+      "summary_en": "BUILA survey points to sharp declines across South Asian markets as institutions tighten recruitment before new Home Office compliance measures take effect.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

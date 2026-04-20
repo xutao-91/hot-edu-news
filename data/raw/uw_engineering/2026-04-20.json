@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison College of Engineering",
+  "source_url": "https://engineering.wisc.edu/news/",
+  "crawled_at": "2026-04-20T12:02:10.637480",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Mathematical modeling maps out solutions for placing drug collection boxes",
+      "url": "https://engineering.wisc.edu/news/mathematical-modeling-maps-out-solutions-for-placing-drug-collection-boxes/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "A plastic bottle of prescribed painkillers—extras from a surgical recuperation—lurks in the back of your medicine cabinet. If you’re like most Americans, you’ll either let the pills linger, flush them down the toilet or toss…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ME student Eva Stafne awarded prestigious 2026 Goldwater Scholarship",
+      "url": "https://engineering.wisc.edu/news/me-student-eva-stafne-awarded-prestigious-2026-goldwater-scholarship/",
+      "date": "April 17, 2026",
+      "type": "News",
+      "summary_en": "Eva Stafne, a University of Wisconsin-Madison junior majoring in mechanical engineering and completing a certificate in international engineering, has received a 2026 Goldwater Scholarship, the premier undergraduate scholarship in mathematics, engineering and the natural sciences…",
+      "source": "UW-Madison College of Engineering",
+      "category": "environment"
+    },
+    {
+      "title": "Leveling up: How a passion for engineering led Travis Frederick to the NFL and into the dragon’s lair",
+      "url": "https://engineering.wisc.edu/news/leveling-up-how-a-passion-for-engineering-led-travis-frederick-to-the-nfl-and-into-the-dragons-lair/",
+      "date": "April 17, 2026",
+      "type": "News",
+      "summary_en": "Fans of Travis Frederick, the former Wisconsin Badgers and Dallas Cowboys center affectionately known as “Fredbeard,” know of his many accomplishments on the field: first team All-American; 2025 Badger Hall of Fame inductee; first-round draft…",
+      "source": "UW-Madison College of Engineering",
+      "category": "technology"
+    }
+  ]
+}

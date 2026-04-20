@@ -1,0 +1,32 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-20T12:01:32.275485",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "兰德公司发布《人工智能如何侵蚀人类能动性的正式模型》研究报告",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4817-1.html",
+      "date": "Apr 20, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors draw on social choice theory to develop a formal model of how AI erodes collective human agency; they also model decisionmaking to identify the point beyond which this erosion could become irreversible.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "A Formal Model of How Artificial Intelligence Erodes Human Agency",
+      "summary_cn": "2026年4月20日，兰德公司发布题为《人工智能如何侵蚀人类能动性的正式模型》的研究报告。\n\n报告作者依托社会选择理论开展相关研究，构建了用于阐释人工智能侵蚀人类集体能动性作用路径的正式模型。\n\n除前述研究内容外，报告还对决策过程进行建模，核心目标为识别相应临界点，当人类集体能动性受人工智能侵蚀的程度突破该临界点后，相关侵蚀进程将进入不可逆转状态。"
+    },
+    {
+      "title": "扩大学区心理咨询服务：加州经费调整的影响",
+      "url": "https://www.rand.org/pubs/external_publications/EP71305.html",
+      "date": "Apr 17, 2026",
+      "type": "Research",
+      "summary_en": "We use panel-based estimators to show that California’s Supplemental School Counseling Program increased the number of counselors on staff and improved counselor to student ratios, but reduced average counselor experience.",
+      "source": "Rand Corporation",
+      "category": "students",
+      "original_title": "Expanding School Counseling: The Impacts of California Funding Changes",
+      "summary_cn": "2026年4月17日，美国兰德公司发布题为《扩大学区心理咨询服务：加州经费调整的影响》的研究报告，针对加州推出的补充学校心理咨询项目相关实施影响，公开发布其专项实证研究成果。\n\n本次研究采用面板估计法作为核心数据分析工具，围绕学校心理咨询队伍建设的核心指标开展量化测算，所有结论均基于实证数据得出。\n\n根据研究公布的结论，加州补充学校心理咨询项目的实施，有效扩大了学校在岗心理咨询师的人员配置规模，心理咨询师与在校学生的配比得到优化改善。\n\n研究同时明确，前述项目的实施也带来了队伍结构层面的变化，项目落地后学校在岗心理咨询师队伍的平均从业经验出现下降。"
+    }
+  ],
+  "compiled_count": 1,
+  "skipped_count": 1
+}

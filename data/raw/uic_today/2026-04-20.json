@@ -1,0 +1,98 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-04-20T12:01:48.738732",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Ruixuan Gao: What can molecules tell us about our brains?",
+      "url": "https://today.uic.edu/ruixuan-gao-what-can-molecules-tell-us-about-our-brains/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Basic Life Sciences.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Matthew Daly: What’s light as glass and strong as metal?",
+      "url": "https://today.uic.edu/matthew-daly-whats-light-as-glass-and-strong-as-metal/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Natural Sciences and Engineering",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Terrell Morton: How can we enhance STEM learning for Black students?",
+      "url": "https://today.uic.edu/terrell-morton-how-can-we-enhance-stem-learning-for-black-students/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Social Sciences",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Jonathan Connolly: What does freedom look like after abolition?",
+      "url": "https://today.uic.edu/jonathan-connolly-what-does-freedom-look-like-after-abolition/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Humanities, Arts, Design and Architecture",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Timothy Koh: How can inflammation improve wound healing in diabetes?",
+      "url": "https://today.uic.edu/timothy-koh-how-can-inflammation-improve-wound-healing-in-diabetes/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Distinguished Researcher in Basic Life Sciences",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Amanda Lewis: What does meaningful mentorship look like?",
+      "url": "https://today.uic.edu/amanda-lewis-what-does-meaningful-mentorship-look-like/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Faculty Mentor of the Year",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Robert Motl: How does exercise affect Parkinson’s and MS?",
+      "url": "https://today.uic.edu/robert-motl-how-does-exercise-affect-parkinsons-and-ms/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Distinguished Researcher in Clinical Sciences",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC scientists source anti-cancer treatment in bacteria",
+      "url": "https://today.uic.edu/uic-scientists-source-anti-cancer-treatment-in-bacteria/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "With radiation, drug significantly inhibited tumor growth in preclinical experiments.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC student leaders honored with annual chancellor’s awards",
+      "url": "https://today.uic.edu/uic-student-leaders-honored-with-annual-chancellors-awards/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "Almost 500 students were awarded for their impact across campus and across Chicago.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "UIC Urban Forum will examine public service in America",
+      "url": "https://today.uic.edu/uic-urban-forum-will-examine-public-service-in-america/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "The April 22 event will explore the public sector’s future amid political, economic and social change.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

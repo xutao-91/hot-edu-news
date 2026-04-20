@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-04-20T12:00:38.784988",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Co-ops at IU Indianapolis power Indiana’s workforce in key industries like biosciences, tourism",
+      "url": "https://news.iu.edu/live/news/49958-co-ops-at-iu-indianapolis-power-indianas-workforce",
+      "date": "Apr 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Sisters’ startup blends AI, music and visual arts using IU’s cutting-edge AI tools",
+      "url": "https://news.iu.edu/live/news/49940-sisters-startup-blends-ai-music-and-visual-arts",
+      "date": "Apr 17, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-04-20T12:01:39.035322",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Where tradition meets innovation at Ellis Library",
+      "url": "https://showme.missouri.edu/2026/where-tradition-meets-innovation-at-ellis-library/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Mizzou’s Digital Media and Innovation Lab gives students hands-on access to cutting-edge tools, transforming a historic space into a hub for digital-age learning.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Wind in their ‘sales’: Trulaske students bring home honors in collegiate competitions",
+      "url": "https://showme.missouri.edu/2026/wind-in-their-sales-trulaske-students-bring-home-honors-in-collegiate-competitions/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Sterilizing surgical implants with neutrons could reduce infections",
+      "url": "https://showme.missouri.edu/2026/sterilizing-surgical-implants-with-neutrons-could-reduce-infections/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Mizzou researchers have created a new way to kill bacteria that gets trapped within surgical implants.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Idea Jam gives students opportunity to collaborate, pitch proposal to enhance campus life",
+      "url": "https://showme.missouri.edu/2026/idea-jam-gives-students-opportunity-to-collaborate-pitch-proposal-to-enhance-campus-life/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "Winning team pitched plan for another convenient grab-and-go dining option.",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    }
+  ]
+}

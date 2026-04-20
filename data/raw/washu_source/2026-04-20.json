@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-20T12:02:18.814878",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "$12 million NIH grant supports study of Alzheimer’s risk factors",
+      "url": "https://source.washu.edu/2026/04/12-million-nih-grant-supports-study-of-alzheimers-risk-factors/",
+      "date": "2026-04-17",
+      "type": "Alzheimer's",
+      "summary_en": "Researchers at WashU Medicine will investigate genetic and molecular factors behind the disease’s disproportionate prevalence in Caribbean populations, with the aim of identifying new drug targets.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "url": "https://source.washu.edu/2026/04/washu-researchers-use-efficient-method-to-split-hydrogen-from-water-for-energy/",
+      "date": "2026-04-17",
+      "type": "Sustainability",
+      "summary_en": "WashU researchers have designed a new catalyst to extract hydrogen, a valuable yet low-cost source of zero-emissions fuel.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Separating fact from fiction in housing affordability and corporate investors",
+      "url": "https://source.washu.edu/2026/04/washu-expert-separating-fact-from-fiction-in-housing-affordability-and-corporate-investors/",
+      "date": "2026-04-17",
+      "type": "Disparity",
+      "summary_en": "The rise of institutional investors in the housing market is a symptom, rather than the cause, of an extremely tight housing market and the overall housing affordability crisis, according to Carol Camp Yeakey, the Marshall S. Snow Professor of Arts & Sciences at WashU.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

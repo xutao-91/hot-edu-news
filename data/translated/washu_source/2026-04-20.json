@@ -1,0 +1,43 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-20T12:02:18.814878",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "美国国立卫生研究院拨款1200万美元支持阿尔茨海默病风险因素研究",
+      "url": "https://source.washu.edu/2026/04/12-million-nih-grant-supports-study-of-alzheimers-risk-factors/",
+      "date": "2026-04-17",
+      "type": "Alzheimer's",
+      "summary_en": "Researchers at WashU Medicine will investigate genetic and molecular factors behind the disease’s disproportionate prevalence in Caribbean populations, with the aim of identifying new drug targets.",
+      "source": "WashU Source",
+      "category": "academic",
+      "original_title": "$12 million NIH grant supports study of Alzheimer’s risk factors",
+      "summary_cn": "2026年4月17日，美国圣路易斯华盛顿大学发布官方科研动态，该校医学院研究人员负责的阿尔茨海默病风险因素研究项目，正式获得美国国立卫生研究院提供的总额1200万美元的专项资助。\n\n本次研究将重点围绕阿尔茨海默病在加勒比群体中患病率显著偏高的现象展开，研究团队将系统探查该现象背后的遗传层面与分子层面相关影响因素，所有研究实施工作均由圣路易斯华盛顿大学医学院科研团队主导推进。\n\n本次研究的核心既定目标为识别阿尔茨海默病治疗相关新药物靶点，全部研究方案均围绕该核心目标设计制定，相关研究工作的开展将严格遵循医学科研伦理及相关规范要求。"
+    },
+    {
+      "title": "圣路易斯华盛顿大学研究人员研发高效制氢方法 从水中提取氢气作为能源",
+      "url": "https://source.washu.edu/2026/04/washu-researchers-use-efficient-method-to-split-hydrogen-from-water-for-energy/",
+      "date": "2026-04-17",
+      "type": "Sustainability",
+      "summary_en": "WashU researchers have designed a new catalyst to extract hydrogen, a valuable yet low-cost source of zero-emissions fuel.",
+      "source": "WashU Source",
+      "category": "academic",
+      "original_title": "WashU researchers use efficient method to split hydrogen from water for energy",
+      "summary_cn": "2026年4月17日，圣路易斯华盛顿大学对外发布最新科研进展，该校研究人员研发出高效从水中分解提取氢气的技术方法，可将提取所得氢气作为能源使用。\n\n本次研究的核心创新成果为研究团队设计出一款新型催化剂，依托该催化剂可实现从水中提取氢气的目标。据校方公布的公开信息，氢气是兼具高应用价值与低成本属性的零排放燃料，本次研发的新型催化剂是该高效制氢方法的核心载体。\n\n本次研究相关信息由圣路易斯华盛顿大学官方对外披露，校方本次仅公开了研究核心内容及氢气的基本属性，未涉及该技术的具体实验参数、后续研发安排及落地转化相关计划等内容。"
+    },
+    {
+      "title": "圣路易斯华盛顿大学学者厘清住房可负担性与机构投资者相关论断的事实与谬误",
+      "url": "https://source.washu.edu/2026/04/washu-expert-separating-fact-from-fiction-in-housing-affordability-and-corporate-investors/",
+      "date": "2026-04-17",
+      "type": "Disparity",
+      "summary_en": "The rise of institutional investors in the housing market is a symptom, rather than the cause, of an extremely tight housing market and the overall housing affordability crisis, according to Carol Camp Yeakey, the Marshall S. Snow Professor of Arts & Sciences at WashU.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Separating fact from fiction in housing affordability and corporate investors",
+      "summary_cn": "2026年4月17日，圣路易斯华盛顿大学公开发布该校学者围绕住房可负担性与机构投资者关联问题的研究观点，旨在对相关公共讨论中的事实与谬误作出明确区分。\n\n本次发布的观点由圣路易斯华盛顿大学文理学院马歇尔·S·斯诺讲席教授卡罗尔·坎普·耶基提出，核心围绕住房市场可负担性危机的成因、机构投资者在住房市场运行中扮演的角色两大公众普遍关注的议题展开。\n\n卡罗尔·坎普·耶基明确表示，机构投资者在住房市场的参与度上升，是住房市场供应极度紧张、整体住房可负担性危机的表征，而非引发上述两类问题的根本原因。"
+    }
+  ],
+  "compiled_count": 1,
+  "skipped_count": 2
+}

@@ -1,0 +1,17 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-20T12:01:47.384425",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Could AI help us be more thoughtful voters?",
+      "url": "https://news.uchicago.edu/story/could-ai-help-us-be-more-thoughtful-voters",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "UChicago researchers launch civic chatbot to educate and challenge voters on political views, ballot measures and more",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-04-20T12:00:15.395647",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "U.S. Department of Education Finds Four Kansas School Districts Violated Federal Law",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-finds-four-kansas-school-districts-violated-federal-law",
+      "date": "April 17, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "k12"
+    },
+    {
+      "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event Nebraska",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-nebraska",
+      "date": "April 17, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
+    {
+      "title": "U.S. Department of Education Issues Proposed Rule to Hold Colleges and Universities Accountable for Low Earning Outcomes",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-proposed-rule-hold-colleges-and-universities-accountable-low-earning-outcomes",
+      "date": "April 17, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "higher_ed"
+    }
+  ]
+}

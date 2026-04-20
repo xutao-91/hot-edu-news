@@ -1,0 +1,21 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-20T12:01:47.384425",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "芝加哥大学研究人员推出公民聊天机器人 探索人工智能助力选民审慎投票可行性",
+      "url": "https://news.uchicago.edu/story/could-ai-help-us-be-more-thoughtful-voters",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "UChicago researchers launch civic chatbot to educate and challenge voters on political views, ballot measures and more",
+      "source": "UChicago News",
+      "category": "ai",
+      "original_title": "Could AI help us be more thoughtful voters?",
+      "summary_cn": "2026年4月17日，美国芝加哥大学官方发布相关研究动态，聚焦人工智能技术在公民投票事务领域的应用场景。\n\n本次发布围绕“人工智能是否可助力选民成为更具思考能力的审慎投票者”这一核心议题展开，该校研究人员宣布正式推出一款公民服务类聊天机器人，为相关议题的研究及落地应用提供载体。\n\n据校方披露的信息，该款公民聊天机器人的核心功能包括两方面：一是面向选民开展公共事务教育服务，围绕政治观点、选票措施等与投票相关的核心议题为选民提供信息支持；二是引导选民就相关议题进行深入思考，帮助选民进一步梳理自身对相关投票事务的认知。\n\n目前校方仅对外公布该公民聊天机器人的推出及核心功能定位相关信息，未披露该工具的具体上线时间、应用覆盖范围、后续推广安排等其他内容。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 1
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-04-20T12:01:03.201573",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Notre Dame’s Nathan Swenson elected 2026 Fellow of the Ecological Society of America",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dames-nathan-swenson-elected-2026-fellow-of-the-ecological-society-of-america/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
+    {
+      "title": "Graduate School honors 2026 alumni, faculty, and student award winners",
+      "url": "https://science.nd.edu/news-and-media/news/graduate-school-honors-2026-alumni-faculty-and-student-award-winners/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "student"
+    },
+    {
+      "title": "Where Pollution Meets Pathogens: Inside Anuradha Goswami’s Research",
+      "url": "https://science.nd.edu/news-and-media/news/where-pollution-meets-pathogens-inside-anuradha-goswamis-research/",
+      "date": "2026-04-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    }
+  ]
+}
