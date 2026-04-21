@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-20T12:02:14.371486",
-  "total_news": 1,
+  "crawled_at": "2026-04-20T20:02:31.706937",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Regents recognize Mnookin’s service, contributions",
+      "url": "https://news.wisc.edu/regents-recognize-mnookins-service-contributions/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "The Universities of Wisconsin Board of Regents recognized UW–Madison Chancellor Jennifer Mnookin for her leadership ahead of her upcoming departure for Columbia University.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "The start of Terrace season",
+      "url": "https://news.wisc.edu/the-start-of-terrace-season/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "After a long winter, the sunburst chairs are back on the Memorial Union Terrace.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "A UW professor’s book tells the overlooked tale of a queer Black man who risked his life during WWII for love",
       "url": "https://news.wisc.edu/a-uw-professors-book-tells-the-overlooked-tale-of-a-queer-black-man-who-risked-his-life-during-wwii-for-love/",

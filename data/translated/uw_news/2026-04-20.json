@@ -1,9 +1,31 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-20T12:02:14.371486",
-  "total_news": 1,
+  "crawled_at": "2026-04-20T20:02:31.706937",
+  "total_news": 3,
   "news": [
+    {
+      "title": "威斯康星大学校董会表彰即将离任的麦迪逊分校校长珍妮弗·姆努金任职贡献",
+      "url": "https://news.wisc.edu/regents-recognize-mnookins-service-contributions/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "The Universities of Wisconsin Board of Regents recognized UW–Madison Chancellor Jennifer Mnookin for her leadership ahead of her upcoming departure for Columbia University.",
+      "source": "UW-Madison News",
+      "category": "general",
+      "original_title": "Regents recognize Mnookin’s service, contributions",
+      "summary_cn": "2026年4月20日，华盛顿大学发布官方教育资讯，通报威斯康星大学校董会作出的最新表彰决定。\n\n本次表彰对象为威斯康星大学麦迪逊分校校长珍妮弗·姆努金，核心内容是对其在任期间展现出的领导能力、作出的相关工作贡献予以官方正式认可。\n\n珍妮弗·姆努金即将于近期结束威斯康星大学麦迪逊分校校长职务，赴哥伦比亚大学任职，本次表彰系校董会在其正式离任前作出的专项安排，所有认定内容均为对其过往履职情况的官方评价。\n\n截至消息发布当日，该表彰决定已通过官方渠道正式公开，相关事项后续将按照威斯康星大学系统的既定管理流程推进。"
+    },
+    {
+      "title": "华盛顿大学纪念联盟露台季正式开启 朝阳椅恢复摆放",
+      "url": "https://news.wisc.edu/the-start-of-terrace-season/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "After a long winter, the sunburst chairs are back on the Memorial Union Terrace.",
+      "source": "UW-Madison News",
+      "category": "general",
+      "original_title": "The start of Terrace season",
+      "summary_cn": "2026年4月20日，美国华盛顿大学对外发布校园运营相关动态。\n\n本次动态明确，该校纪念联盟露台季已正式启动，相关既定安排已落地。\n\n根据本次发布的公开内容，在经历漫长冬季后，该校纪念联盟露台的朝阳椅已恢复摆放至露台对应区域。\n\n本次披露的动态仅包含上述内容，华盛顿大学未就相关事项对外公布更多补充说明。"
+    },
     {
       "title": "华盛顿大学教授所著记述被忽视的二战酷儿黑人男子经历书籍获全国性认可",
       "url": "https://news.wisc.edu/a-uw-professors-book-tells-the-overlooked-tale-of-a-queer-black-man-who-risked-his-life-during-wwii-for-love/",
@@ -16,6 +38,6 @@
       "summary_cn": "2026年4月17日，华盛顿大学公开发布相关新闻，介绍该校教职人员的最新学术作品相关情况。\n\n本次获得全国性认可的作品为华盛顿大学教授埃瑟琳·惠特迈尔撰写的《里德·佩格拉姆的非凡人生》，该书所记录的酷儿黑人男子里德·佩格拉姆的相关经历此前长期处于被公众忽视的状态。\n\n书中核心内容显示，第二次世界大战期间，里德·佩格拉姆为了爱情甘愿承担生命风险，最终与爱人一同在纳粹集中营中幸存并成功逃脱。上述内容均来自史料考据，未加入作者主观演绎内容，该书自正式发行以来，已获得全国范围内的相关认可。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 2,
   "skipped_count": 1
 }

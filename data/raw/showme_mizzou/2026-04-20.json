@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-04-20T12:01:39.035322",
-  "total_news": 4,
+  "crawled_at": "2026-04-20T20:01:58.262107",
+  "total_news": 5,
   "news": [
+    {
+      "title": "University of Missouri School of Medicine expands Springfield clinical campus to full four-year program",
+      "url": "https://showme.missouri.edu/2026/university-of-missouri-school-of-medicine-expands-springfield-clinical-campus-to-full-four-year-program/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "Where tradition meets innovation at Ellis Library",
       "url": "https://showme.missouri.edu/2026/where-tradition-meets-innovation-at-ellis-library/",

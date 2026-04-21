@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-04-20T20:00:21.965078",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Students need more than AI access–they need AI rights",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/20/students-need-more-than-ai-access-they-need-ai-rights/",
+      "date": "2026-04-20",
+      "type": "AI in Education",
+      "summary_en": "Higher education is moving at breakneck speed to embed AI into admissions, advising, instruction, grading, and student support, yet student protections have not kept pace with institutional enthusiasm.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Dissecting higher ed’s complex–yet promising–relationship with AI",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/17/dissecting-higher-eds-complex-yet-promising-relationship-with-ai/",
+      "date": "2026-04-17",
+      "type": "AI in Education",
+      "summary_en": "​T​he California State University (CSU) has released findings from its first-ever systemwide survey on artificial intelligence (AI), marking the largest and most comprehensive survey to date on generative artificial intelligence (AI) in higher education.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

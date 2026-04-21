@@ -1,9 +1,18 @@
 {
   "source": "University of Notre Dame News",
   "source_url": "https://news.nd.edu/news/category/university-news/",
-  "crawled_at": "2026-04-20T12:01:01.365340",
-  "total_news": 1,
+  "crawled_at": "2026-04-20T20:01:16.591254",
+  "total_news": 2,
   "news": [
+    {
+      "title": "The Shirt 2026 to be unveiled April 24 on campus",
+      "url": "https://news.nd.edu/news/the-shirt-2026-to-be-unveiled-friday-april-24-on-campus/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
     {
       "title": "Fourteen current or former Notre Dame students awarded NSF Graduate Research Fellowships",
       "url": "https://news.nd.edu/news/fourteen-current-or-former-notre-dame-students-awarded-nsf-graduate-research-fellowships/",

@@ -1,9 +1,36 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-04-20T12:01:48.738732",
+  "crawled_at": "2026-04-20T20:02:07.874504",
   "total_news": 10,
   "news": [
+    {
+      "title": "Salman Khetani: How can we safely test drugs and chemicals?",
+      "url": "https://today.uic.edu/salman-khetani-how-can-we-safely-test-drugs-and-chemicals/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Distinguished Researcher in Natural Sciences and Engineering",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Shannon Halloway: Can physical activity delay cognitive decline?",
+      "url": "https://today.uic.edu/shannon-halloway-can-physical-activity-delay-cognitive-decline/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Clinical Sciences",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Alexander Yarin: How can polymer science protect dentists from COVID-19?",
+      "url": "https://today.uic.edu/alexander-yarin-how-can-polymer-science-protect-dentists-from-covid-19/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Inventor of the Year",
+      "source": "UIC Today",
+      "category": "research"
+    },
     {
       "title": "Ruixuan Gao: What can molecules tell us about our brains?",
       "url": "https://today.uic.edu/ruixuan-gao-what-can-molecules-tell-us-about-our-brains/",
@@ -64,33 +91,6 @@
       "date": "2026-04-20",
       "type": "News",
       "summary_en": "Distinguished Researcher in Clinical Sciences",
-      "source": "UIC Today",
-      "category": "general"
-    },
-    {
-      "title": "UIC scientists source anti-cancer treatment in bacteria",
-      "url": "https://today.uic.edu/uic-scientists-source-anti-cancer-treatment-in-bacteria/",
-      "date": "2026-04-20",
-      "type": "News",
-      "summary_en": "With radiation, drug significantly inhibited tumor growth in preclinical experiments.",
-      "source": "UIC Today",
-      "category": "general"
-    },
-    {
-      "title": "UIC student leaders honored with annual chancellor’s awards",
-      "url": "https://today.uic.edu/uic-student-leaders-honored-with-annual-chancellors-awards/",
-      "date": "2026-04-17",
-      "type": "News",
-      "summary_en": "Almost 500 students were awarded for their impact across campus and across Chicago.",
-      "source": "UIC Today",
-      "category": "awards"
-    },
-    {
-      "title": "UIC Urban Forum will examine public service in America",
-      "url": "https://today.uic.edu/uic-urban-forum-will-examine-public-service-in-america/",
-      "date": "2026-04-17",
-      "type": "News",
-      "summary_en": "The April 22 event will explore the public sector’s future amid political, economic and social change.",
       "source": "UIC Today",
       "category": "general"
     }

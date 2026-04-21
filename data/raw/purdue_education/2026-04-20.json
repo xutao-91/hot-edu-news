@@ -1,7 +1,17 @@
 {
   "source": "Purdue University College of Education",
   "source_url": "https://education.purdue.edu/news/",
-  "crawled_at": "2026-04-20T12:01:23.273056",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-20T20:01:39.672399",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New online AI in Education Graduate Certificate equips educators for today’s learning spaces",
+      "url": "https://education.purdue.edu/news/2026/04/17/new-online-ai-in-education-graduate-certificate-equips-educators-for-todays-learning-spaces/",
+      "date": "April 17, 2026",
+      "type": "News",
+      "summary_en": "As artificial Intelligence transforms teaching and learning, Purdue University’s College of Education has unveiled its new AI in Education Graduate Certificate.",
+      "source": "Purdue College of Education",
+      "category": "education"
+    }
+  ]
 }

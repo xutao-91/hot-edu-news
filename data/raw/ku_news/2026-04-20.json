@@ -1,9 +1,18 @@
 {
   "source": "University of Kansas News",
   "source_url": "https://news.ku.edu/news",
-  "crawled_at": "2026-04-20T12:00:48.610358",
-  "total_news": 9,
+  "crawled_at": "2026-04-20T20:00:59.889267",
+  "total_news": 10,
   "news": [
+    {
+      "title": "KU hydrologist receives Fulbright Scholar Award to research High Plains aquifer",
+      "url": "https://news.ku.edu/news/article/ku-hydrologist-receives-fulbright-scholar-award-to-research-high-plains-aquifer-ARTICLE-WEREYA-ARTICLE-WEREYA-ARTICLE-WEREYA-ARTICLE-WEREYA",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Sam Zipper, an ecohydrologist at the Kansas Geological Survey and assistant professor at the University of Kansas, has received a Fulbright U.S. Scholar Program award from the U.S. Department of State and the Fulbright Foreign Scholarship Board.",
+      "source": "KU News",
+      "category": "research"
+    },
     {
       "title": "KLETC hosts inaugural 5K, 1-mile event supporting fentanyl awareness",
       "url": "https://news.ku.edu/news/article/kletc-hosts-inaugural-5k-1-mile-event-supporting-fentanyl-awareness-ARTICLE-VN4E64",

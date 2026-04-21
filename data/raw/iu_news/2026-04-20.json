@@ -1,9 +1,36 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-04-20T12:00:38.784988",
-  "total_news": 2,
+  "crawled_at": "2026-04-20T20:00:44.291878",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Students compete to design Little 500 T-shirt for IU alumnus-founded Homefield",
+      "url": "https://news.iu.edu/live/news/50256-students-compete-to-design-little-500-t-shirt-for",
+      "date": "Apr 20, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU Public Safety offers safety tips as it prepares for busy Little 500 weekend",
+      "url": "https://news.iu.edu/live/news/50253-iu-public-safety-offers-safety-tips-as-it-prepares",
+      "date": "Apr 20, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
+      "date": "Apr 20, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
     {
       "title": "Co-ops at IU Indianapolis power Indiana’s workforce in key industries like biosciences, tourism",
       "url": "https://news.iu.edu/live/news/49958-co-ops-at-iu-indianapolis-power-indianas-workforce",

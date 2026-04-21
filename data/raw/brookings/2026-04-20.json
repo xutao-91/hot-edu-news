@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-20T12:00:11.125517",
+  "crawled_at": "2026-04-20T20:00:15.250338",
   "total_news": 4,
   "news": [
+    {
+      "title": "Key takeaways from the Brookings conversation with Prime Minister of Barbados Mia Amor Mottley and UN Deputy Secretary-General Amina J. Mohammed",
+      "url": "https://www.brookings.edu/articles/brookings-conversation-mia-mottley-amina-mohammed-development-finance/",
+      "author": "Junjie Ren",
+      "date": "April 20, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general"
+    },
     {
       "title": "As the US steps out of UNESCO, China steps up",
       "url": "https://www.brookings.edu/articles/as-the-us-steps-out-of-unesco-china-steps-up/",
@@ -30,15 +39,6 @@
       "summary_en": "",
       "source": "Brookings Institution",
       "category": "technology"
-    },
-    {
-      "title": "America’s Rural Future: Mississippi Delta site visits underscore trusted local leadership, access to capital, and institutional innovation and capacity as critical to rural development",
-      "url": "https://www.brookings.edu/articles/americas-rural-future-mississippi-delta-2026/",
-      "author": "Junjie Ren, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdam Aley",
-      "date": "April 17, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "general"
     }
   ]
 }

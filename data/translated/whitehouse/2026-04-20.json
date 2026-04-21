@@ -1,9 +1,81 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-20T12:02:21.638716",
-  "total_news": 7,
+  "crawled_at": "2026-04-20T20:02:38.206485",
+  "total_news": 10,
   "news": [
+    {
+      "title": "情况说明：唐纳德·J·特朗普总统发布支持美国空军战斗机训练行动的总统决定",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-issues-presidential-determination-to-support-u-s-air-force-jet-fighter-training-operations/",
+      "date": "April 20, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House",
+      "original_title": "Fact Sheet: President Donald J. Trump Issues Presidential Determination to Support U.S. Air Force Jet Fighter Training Operations",
+      "summary_cn": "2026年4月20日，美国白宫对外发布官方情况说明。\n\n本次情况说明披露的核心事项为，美国总统唐纳德·J·特朗普已正式作出总统决定，该决定的核心目的是为美国空军战斗机训练运营行动提供支持。本次公开的情况说明未同步披露该总统决定涉及的具体支持举措、实施周期、覆盖的训练项目范畴、配套资源规模等细化内容，相关具体安排暂未对外公布。\n\n本次情况说明为美国白宫官方发布的正式公务信息，后续相关事项的落地执行将严格遵循美国现行联邦法律及军事管理体系的相关规定开展，相关进展将由白宫或美国空军相关主管部门根据实际工作安排对外披露。"
+    },
+    {
+      "title": "依据经修订的1950年《国防生产法》第303条作出的关于电网基础设施、设备及供应链产能的总统决定",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity",
+      "summary_cn": "2026年4月20日，美国白宫公开发布一项总统决定文件。\n\n本次总统决定系依据经修订的1950年《国防生产法》第303条的相关法定条款作出，文件的规制适用范围涵盖电网基础设施建设运维、相关配套设备管理、供应链产能保障等相关领域。\n\n本次对外公开的官方材料仅披露了该决定的核心名称、制定法律依据、适用范畴等基础信息，未同步公示该决定的正文内容、具体实施规则、配套落地安排等其余相关信息。"
+    },
+    {
+      "title": "白宫发布依据经修订的1950年《国防生产法》第303条制定的大规模能源及能源相关基础设施开发、制造与部署相关总统决定",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-development-manufacturing-and-deployment-of-large-scale-energy-and-energy-related-inf/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large-Scale Energy and Energy‑Related Infrastructure",
+      "summary_cn": "2026年4月20日，美国白宫发布一项总统决定文件。\n\n该决定的制定依据为经修订的1950年《国防生产法》第303条，所涉事项覆盖大规模能源及能源相关基础设施的开发、制造与部署全环节，属于美国联邦层面的公务类行政决定文件。\n\n本次公开的该文件相关信息仅包含标题、制定依据、适用领域、发布日期及发布主体等基础要素，暂未披露决定的具体条款内容、实施标准、执行安排等后续相关配套内容。"
+    },
+    {
+      "title": "白宫发布依据经修订的1950年《国防生产法》第303条制定的天然气领域总统决定",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-natural-gas-transmission-processing-storage-and-liquefied-natural-gas-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity",
+      "summary_cn": "2026年4月20日，美国白宫正式公开一项总统决定文件。\n\n该文件全称为《依据经修订的1950年<国防生产法>第303条就天然气输送、加工、存储及液化天然气产能作出的总统决定》，制定依据为美国经修订的1950年《国防生产法》第303条相关规定，涉及事项覆盖天然气产业输送、加工、存储及液化天然气产能四大核心环节，属于美国联邦层面出台的能源领域官方行政文件。\n\n截至本次信息公开节点，白宫仅披露了该总统决定的文件标题、发布日期、制定依据、涉事领域等基础信息，尚未对外公布文件的具体正文内容及官方配套摘要说明，相关完整内容将由美国官方后续通过正规政务渠道另行发布。"
+    },
+    {
+      "title": "白宫发布依据经修订的1950年《国防生产法》第303条作出的涉煤炭供应链及基荷发电能力总统决定",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-coal-supply-chains-and-baseload-power-generation-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity",
+      "summary_cn": "2026年4月20日，美国白宫正式发布一份总统决定类行政文件。\n\n本次发布的文件全称为《依据经修订的1950年〈国防生产法〉第303条作出的关于煤炭供应链和基荷发电能力的总统决定》，属于美国联邦层面涉能源领域的行政规范性文件范畴，出台依据为经修订的1950年美国《国防生产法》第303条相关规定，核心涉及煤炭供应链保障、基荷发电能力建设两大能源领域议题。\n\n本次对外披露的该文件相关信息仅包含文件正式标题、发布日期、发布主体三项核心要素，未同步公开文件起草主体信息、核心内容摘要及正文全文，文件涉及的具体实施安排、适用范围、执行时限等关键内容均未随本次发布同步对外披露。\n\n截至目前，美国白宫尚未就该文件的后续公开计划、相关落地安排等事宜作出额外公开表态，也未披露出台该文件的具体触发事由等补充信息。"
+    },
+    {
+      "title": "美国白宫发布依据经修订的1950年〈国防生产法〉第303条制定的涉及国内石油生产、炼化与物流能力的总统决定",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
+      "summary_cn": "2026年4月20日，美国白宫正式对外发布一项总统决定文件。\n\n本次发布的总统决定全称为《依据经修订的1950年〈国防生产法〉第303条就国内石油生产、炼化及物流能力作出的总统决定》，系美国联邦行政部门依照法定权限、依据现行生效的国内相关立法出台的正式行政公务文书，属于美国行政体系内具有法定效力的政策性文件范畴。\n\n该决定的法定依据为经修订的1950年美国《国防生产法》第303条款，文件核心规制与适用范畴明确为美国国内石油生产能力建设、石油炼化能力优化、石油行业物流配套能力提升三类能源领域相关事项，文件整体内容均属于美国联邦行政权限管辖范围内的公务安排。\n\n目前白宫仅公开了该决定的核心基础要素信息，后续相关执行细则、落地安排及推进举措将由美国联邦政府相关职能部门按照既定法定程序逐步推进落实，相关进展将由白宫依规对外通报。"
+    },
+    {
+      "title": "关于美国空军在爱达荷州、俄勒冈州、内华达州喷气式战斗机训练行动的总统决定",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Presidential Determination Concerning the Air Force’s Jet Fighter Training Operations in Idaho, Oregon, and Nevada",
+      "summary_cn": "2026年4月20日，美国白宫发布一项总统正式决定文件。该文件标题为《关于美国空军在爱达荷州、俄勒冈州、内华达州喷气式战斗机训练行动的总统决定》，属于美国总统作出的官方行政文书。\n\n本次决定所涉事项聚焦美国空军在爱达荷州、俄勒冈州、内华达州三地的喷气式战斗机训练运营相关工作，为美国行政体系内针对军事训练相关事项作出的最高层级行政决定之一。\n\n截至本次文件公开发布节点，白宫未同步对外披露该总统决定的正文内容及配套官方摘要，相关具体条款、工作安排、适用规则等核心细节暂未对外公开，后续相关信息将由美方官方渠道另行发布。"
+    },
+    {
+      "title": "特朗普总统签署里程碑式行政令推动突破性精神卫生治疗 为退伍军人带来新希望",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-landmark-order-advances-breakthrough-mental-health-treatments-delivering-new-hope-to-veterans/",
+      "date": "April 20, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump’s Landmark Order Advances Breakthrough Mental Health Treatments — Delivering New Hope to Veterans",
+      "summary_cn": "2026年4月20日，美国白宫发布官方相关信息。\n\n本次公开内容涉及时任美国总统特朗普签署的一项精神卫生领域行政令，该行政令被定位为精神卫生服务领域的里程碑式政策文件，核心方向为推动突破性精神卫生治疗相关举措落地。\n\n美方明确，该政策的服务覆盖群体包含退伍军人群体，行政令的推进实施将为有精神卫生服务需求的退伍军人带来新的服务供给选项与支持希望。\n\n本次公开信息由白宫官方渠道发布，未同步披露该行政令的具体实施安排、资源投入规模、落地时间节点等配套细则，相关后续进展需以美方后续官方发布内容为准。"
+    },
     {
       "title": "白宫发布2026年全国志愿者周总统致辞文件",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-volunteer-week/",
@@ -21,53 +93,8 @@
       "source": "The White House",
       "original_title": "Presidential Message on National Crime Victims Week",
       "summary_cn": "2026年4月20日，美国白宫官方对外发布美国总统关于全国犯罪受害者周的正式咨文。\n\n本次公开的官方文件目前仅披露了文件标题、发布时间、发布主体三类基础信息，暂未对外公布咨文的具体正文内容、相关官方表态、对应工作安排等核心细节，也未提及与该咨文配套的落地举措、覆盖范围、实施周期等附加信息，暂无相关配套说明材料同步公开。\n\n该文件属于白宫发布的正式公务类文书，后续有关该咨文的更多具体内容，将由美国官方按照信息公开的相关流程统一对外披露，相关公开信息均以白宫官方发布的内容为准。"
-    },
-    {
-      "title": "情况说明：唐纳德·J·特朗普总统正加快推进严重精神疾病医疗救治工作",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-is-accelerating-medical-treatments-for-serious-mental-illness/",
-      "date": "April 18, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House",
-      "original_title": "Fact Sheet: President Donald J. Trump is Accelerating Medical Treatments for Serious Mental Illness",
-      "summary_cn": "2026年4月18日，美国白宫对外发布官方情况说明文件。\n\n该份文件已公开的标题显示，其核心议题为美国总统唐纳德·J·特朗普推动加快针对严重精神疾病的医疗救治相关工作，聚焦严重精神疾病医疗治疗领域的举措优化与推进。\n\n截至本次发布节点，该份情况说明的具体摘要内容、正文条款及相关配套举措的详细信息均未同步公开，仅对外披露了文件标题、发布日期、发布机构三类基础信息。\n\n美国白宫方面未在本次发布环节提及该份文件后续详细内容的公开安排，也未就相关举措的落地时间表、覆盖范围等相关问题作出补充表述。"
-    },
-    {
-      "title": "美国国会H.R.8322号法案正式签署成为法律",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-8322-signed-into-law/",
-      "date": "April 18, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House",
-      "original_title": "Congressional Bill H.R.8322 Signed into Law",
-      "summary_cn": "2026年4月18日，美国白宫官方发布公务公告，确认美国国会H.R.8322号法案已完成法定签署程序，正式成为生效法律。\n\n本次公告系白宫就该法案立法进展对外发布的官方权威信息，通报渠道为白宫官方指定的公务信息发布平台，内容已经过白宫相关主管部门核定，具备官方公信力。\n\n本次公开的公告内容仅涉及H.R.8322号法案已签署生效的核心事实，与该法案相关的立法背景、条款细则、适用范围、实施安排等其他信息，均未在本次公告中予以披露。"
-    },
-    {
-      "title": "加快严重精神疾病医疗救治",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/accelerating-medical-treatments-for-serious-mental-illness/",
-      "date": "April 18, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House",
-      "original_title": "Accelerating Medical Treatments for Serious Mental Illness",
-      "summary_cn": "2026年4月18日，美国白宫发布英文原标题为《Accelerating Medical Treatments for Serious Mental Illness》、中文译名为《加快严重精神疾病医疗救治》的相关公务文稿。\n\n目前该文稿仅对外披露了标题、发布日期、发布主体三类基础信息，未同步公开文稿作者信息、官方内容摘要及正文具体条款，涉及该事项的核心事件内容、具体推进举措、关键数据指标、相关官方表态、后续落地安排等具体信息均暂未对外公布。\n\n截至目前，发布方未就该文稿其余内容暂未公开的原因作出相关说明，后续该文稿的完整内容及相关配套安排均需以白宫官方发布渠道的正式公开信息为准。"
-    },
-    {
-      "title": "白宫发布纪念《圣经》传入美国250周年总统致辞",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-commemorating-250-years-of-the-bible-in-america/",
-      "date": "April 17, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House",
-      "original_title": "Presidential Message Commemorating 250 Years of the Bible in America",
-      "summary_cn": "2026年4月17日，美国白宫公开发布题为《纪念<圣经>传入美国250周年的总统致辞》的官方公务文稿。\n\n本次发布的文稿为美国总统署名的纪念类官方文稿，目前对外公开的信息仅包含文稿正式标题、发布日期及发布主体，暂未同步披露该文稿的官方摘要及全文正文内容。\n\n截至公开时点，暂无该致辞涉及的核心表述、具体观点、相关配套纪念活动安排等其他可核实的官方信息，所有与该致辞相关的内容均以美国白宫后续正式发布的权威版本为准。"
-    },
-    {
-      "title": "美国总统特朗普在内华达州庆祝小费免税 相关举措为美国工薪阶层带来实际收入",
-      "url": "https://www.whitehouse.gov/releases/2026/04/in-nevada-president-trump-celebrates-no-tax-on-tips-real-money-to-working-americans/",
-      "date": "April 17, 2026",
-      "category": "Releases",
-      "source": "The White House",
-      "original_title": "In Nevada, President Trump Celebrates No Tax on Tips — Delivering Real Money to Working Americans",
-      "summary_cn": "2026年4月17日，美国白宫发布官方公务资讯。\n\n根据该资讯披露的内容，美国总统特朗普当日赴内华达州出席相关公务活动，公开对小费免税相关政策的落地表示庆祝。本次活动是美国联邦政府面向社会公众公示税费优惠政策进展的专门安排，重点对外传递相关政策惠及普通劳动者的政策导向。\n\n白宫在相关资讯中明确，小费免税相关举措的核心效用是为美国工薪阶层增加实际收入，通过对符合要求的小费收入免征相关税费的方式，直接减少相关劳动者的税费支出，让政策红利直接转化为普通就业群体的可支配收入。\n\n截至该资讯发布当日，相关政策的具体实施细则、覆盖范围及后续推进安排，由美国联邦政府相关主管部门按照既定工作流程统筹落实，相关进展将由官方渠道统一对外发布。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 5
+  "compiled_count": 8,
+  "skipped_count": 2
 }

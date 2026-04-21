@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-04-20T12:02:08.821128",
-  "total_news": 4,
+  "crawled_at": "2026-04-20T20:02:26.221635",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Dance Department presents Repertory Concert 2026",
+      "url": "https://education.wisc.edu/news/dance-department-presents-repertory-concert-2026/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "The UW–Madison Dance Department presents its Repertory Concert 2026, featuring work from Omari Carter, Bradford Chin, Aaron Loux, Anna Peretz Rogovoy, Liz Sexe, and Collette Stewart. Performances will take place April 23–25 in the Margaret H’Doubler Performance Space, Lathrop Hall.",
+      "source": "UW-Madison School of Education",
+      "category": "general"
+    },
     {
       "title": "ELPA higher education faculty member Xueli Wang wins inaugural UW–Madison graduate student mentoring award",
       "url": "https://education.wisc.edu/news/elpa-higher-education-faculty-member-xueli-wang-wins-inaugural-uw-madison-graduate-student-mentoring-award/",

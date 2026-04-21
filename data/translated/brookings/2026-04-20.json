@@ -1,9 +1,20 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-04-20T12:00:11.125517",
+  "crawled_at": "2026-04-20T20:00:15.250338",
   "total_news": 4,
   "news": [
+    {
+      "title": "布鲁金斯学会与巴巴多斯总理米娅·阿莫尔·莫特利、联合国副秘书长阿米娜·J·穆罕默德对话核心要点",
+      "url": "https://www.brookings.edu/articles/brookings-conversation-mia-mottley-amina-mohammed-development-finance/",
+      "author": "Junjie Ren",
+      "date": "April 20, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general",
+      "original_title": "Key takeaways from the Brookings conversation with Prime Minister of Barbados Mia Amor Mottley and UN Deputy Secretary-General Amina J. Mohammed",
+      "summary_cn": "2026年4月20日，布鲁金斯学会发布署名为任俊杰的相关文章，梳理该机构与巴巴多斯总理米娅·阿莫尔·莫特利、联合国副秘书长阿米娜·J·穆罕默德对话的核心内容。\n\n本次对话参与主体包括布鲁金斯学会相关代表、巴巴多斯总理米娅·阿莫尔·莫特利、联合国副秘书长阿米娜·J·穆罕默德三方，文章核心定位为本次对话的要点梳理，未加入对话外的额外引申解读内容。\n\n目前该篇文章的具体正文及详细摘要内容暂未披露，仅可确认上述基础元信息，后续相关内容正式公开后，可查阅本次对话涉及的具体议题、各方表态、共识成果等细节信息。"
+    },
     {
       "title": "美国退出联合国教科文组织之际中国加大参与力度",
       "url": "https://www.brookings.edu/articles/as-the-us-steps-out-of-unesco-china-steps-up/",
@@ -36,19 +47,8 @@
       "category": "technology",
       "original_title": "USAID’s aid freeze, implications for Nigeria’s education sector, country responses, and new roles for external partners",
       "summary_cn": "2026年4月17日，国际知名智库美国布鲁金斯学会发布由学者朱迪思-安·沃克撰写的研究文章。\n\n该文章预设研究范畴主要包含四大核心板块：一是美国国际开发署对尼援助冻结事项的基本情况，二是该援助冻结举措对尼日利亚教育领域产生的各类影响，三是尼日利亚政府及相关方针对此事出台的具体应对措施，四是在上述背景下外部合作伙伴可发挥的新作用、可承担的新职能。\n\n截至当前，布鲁金斯学会仅公开了该文章的标题、作者、发布日期等基础信息，尚未对外披露文章的具体摘要及全文内容，文中涉及的关键数据、核心观点、影响研判、对策建议等实质内容均未公布，后续相关信息需以布鲁金斯学会正式发布的完整版本为准。"
-    },
-    {
-      "title": "布鲁金斯学会《美国乡村未来》研究：密西西比三角洲实地考察凸显乡村发展三大核心支撑条件",
-      "url": "https://www.brookings.edu/articles/americas-rural-future-mississippi-delta-2026/",
-      "author": "Junjie Ren, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAdam Aley",
-      "date": "April 17, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "general",
-      "original_title": "America’s Rural Future: Mississippi Delta site visits underscore trusted local leadership, access to capital, and institutional innovation and capacity as critical to rural development",
-      "summary_cn": "2026年4月17日，美国布鲁金斯学会发布题为《美国乡村未来》的研究文章，该文章由任俊杰、亚当·阿利共同撰写。\n\n本次研究围绕美国乡村发展核心议题展开，将密西西比三角洲地区列为重点调研对象，通过实地走访考察的方式，梳理影响乡村发展的关键支撑因素。\n\n本次实地考察结果明确，三大要素对乡村发展起到至关重要的作用：一是可信赖的地方领导力，二是资本获取的可及性，三是制度创新能力与机构建设水平。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 2
+  "compiled_count": 1,
+  "skipped_count": 3
 }
