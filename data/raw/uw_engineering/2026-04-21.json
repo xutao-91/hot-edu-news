@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison College of Engineering",
+  "source_url": "https://engineering.wisc.edu/news/",
+  "crawled_at": "2026-04-21T12:02:05.778619",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Morgridges’ latest gift drives UW-Madison engineering building forward",
+      "url": "https://engineering.wisc.edu/news/morgridges-latest-gift-drives-uw-madison-engineering-building-forward/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "As work steadily continues on the physical foundations of the Phillip A. Levy Engineering Center at the University of Wisconsin-Madison, a $25 million gift from two of the university’s most devoted supporters, alumni John and…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Mathematical modeling maps out solutions for placing drug collection boxes",
+      "url": "https://engineering.wisc.edu/news/mathematical-modeling-maps-out-solutions-for-placing-drug-collection-boxes/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "A plastic bottle of prescribed painkillers—extras from a surgical recuperation—lurks in the back of your medicine cabinet. If you’re like most Americans, you’ll either let the pills linger, flush them down the toilet or toss…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    }
+  ]
+}

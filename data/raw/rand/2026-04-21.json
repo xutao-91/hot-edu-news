@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-21T12:01:33.563438",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "A Formal Model of How Artificial Intelligence Erodes Human Agency",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4817-1.html",
+      "date": "Apr 20, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors draw on social choice theory to develop a formal model of how AI erodes collective human agency; they also model decisionmaking to identify the point beyond which this erosion could become irreversible.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

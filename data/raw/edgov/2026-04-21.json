@@ -1,0 +1,24 @@
+{
+  "source": "U.S. Department of Education",
+  "source_url": "https://www.ed.gov/about/news",
+  "crawled_at": "2026-04-21T12:00:18.293353",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits Oregon on the Returning Education to the States Tour",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-oregon-returning-education-states-tour",
+      "date": "April 20, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general"
+    },
+    {
+      "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Texas",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-texas",
+      "date": "April 20, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    }
+  ]
+}

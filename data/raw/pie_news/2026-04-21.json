@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-21T12:01:19.195330",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "StudyIn acquires Canadian international education consultancy OzTREKK",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-04-21",
+      "type": "Partnerships",
+      "summary_en": "StudyIn has revealed it is adding Canadian international education consultancy OzTREKK to its portfolio, strengthening the group's ANZ recruitment capabilities as it continues its global expansion.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "IHE 2026 takeaways: India’s TNE push amid calls for clarity",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-04-21",
+      "type": "Transnational education",
+      "summary_en": "At the Higher Education Leaders Roundtable at IHE 2026, Symbiosis International University, delegates discussed democratising TNE in India, regulatory expectations, the need for stronger executive action, and the case for a South Asia-focused regional approach to internationalisation.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Come fly with me: what happened when 125 CEOs, VCs and the UK PM flew to India",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-04-21",
+      "type": "Transnational education",
+      "summary_en": "Here’s what happened when UK university leaders joined Keir Starmer on a 36‑hour dash to Mumbai and found themselves at the centre of India’s higher education revolution.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "UK universities warned of rising competition in Asia",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-21",
+      "type": "Data",
+      "summary_en": "New data has revealed South Asian students are increasingly pivoting away from the UK in favour of Asian destinations, as stakeholders warn of concurrent demand and supply-side challenges.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Over-50s drive language travel growth as learning becomes a lifestyle choice",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-20",
+      "type": "Language learning",
+      "summary_en": "Language travel has long been associated with younger learners. But a fast-growing demographic – the over-50s – is redefining who study abroad is for.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Indian students urged to check UK voting eligibility ahead of tonight’s deadline",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-20",
+      "type": "Policy",
+      "summary_en": "The National Indian Students and Alumni Union UK (NISAU) has launched a campaign, My Vote Matters, encouraging Indian students residing in the UK to check their eligibility to vote in the upcoming local elections.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Charlotte Greenstein"
+    },
+    {
+      "title": "Revealed: Kaplan Languages Group to be bought by Inspirit Capital",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-20",
+      "type": "Language learning",
+      "summary_en": "Inspirit Capital – a UK-based investment company specialising in corporate carveouts – is acquiring language-learning giant Kaplan Languages Group (KLG) from Kaplan, The PIE can reveal.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-04-21T12:02:09.570336",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Faculty Senate sets start of fall 2027 semester for Sept. 2",
+      "url": "https://news.wisc.edu/faculty-senate-sets-start-of-fall-2027-semester-for-sept-2/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The amendment changes dates for finals and the grading deadline but does not change the dates for Thanksgiving recess or Winter 2027 Commencement.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "UW–Madison leadership seeks employee feedback on administrative services",
+      "url": "https://news.wisc.edu/uw-madison-leadership-seeks-employee-feedback-on-administrative-services-2/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The 2026 Administrative Quality Satisfaction Survey invites employees to share confidential feedback on administrative services to help improve campus operations and employee experiences.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Office of the Vice Chancellor for Research announces changes to better support UW–Madison’s research enterprise",
+      "url": "https://news.wisc.edu/office-of-the-vice-chancellor-for-research-announces-changes-to-better-support-uw-madisons-research-enterprise/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "Following extensive consultation, OVCR is looking to better align research priorities across campus, support university research and creative expression and offer improved services.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Regents recognize Mnookin’s service, contributions",
+      "url": "https://news.wisc.edu/regents-recognize-mnookins-service-contributions/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "The Universities of Wisconsin Board of Regents adopted a resolution citing UW–Madison Chancellor Jennifer Mnookin's leadership in multiple areas ahead of her upcoming departure for Columbia University.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "The start of Terrace season",
+      "url": "https://news.wisc.edu/the-start-of-terrace-season/",
+      "date": "April 20, 2026",
+      "type": "News",
+      "summary_en": "After a long winter, the sunburst chairs are back on the Memorial Union Terrace.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

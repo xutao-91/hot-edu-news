@@ -1,0 +1,21 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-20T20:01:38.096234",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "初选投票即将在普渡大学校内设施举办",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/upcoming-primary-election-voting-at-purdue-facility",
+      "date": "April 17, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "Upcoming primary election voting at Purdue facility",
+      "summary_cn": "2026年4月17日，普渡大学发布官方公务信息，明确即将开展的初选投票活动，将落地该校校内指定设施举办。\n\n本次公布的信息仅涉及初选投票活动的举办场地相关安排，未包含投票时间、参与范围、核验要求等其他配套内容。相关信息发布主体为普渡大学，属于校方依规对外公示的正式公务通知类信息，官方发布渠道合规有效。\n\n针对本次初选投票相关的后续具体安排，普渡大学将根据相关工作推进进度，适时通过官方渠道对外披露。相关方可密切留意普渡大学官方发布的后续通知，及时获取相关权威信息，确保知悉的相关安排来源正规有效，保障相关参与流程符合规范要求。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 1
+}
