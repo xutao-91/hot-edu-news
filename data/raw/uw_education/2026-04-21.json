@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-04-21T12:02:03.962436",
-  "total_news": 4,
+  "crawled_at": "2026-04-21T20:02:24.254662",
+  "total_news": 5,
   "news": [
+    {
+      "title": "School of Education graduate students recognized with 2025–26 Teaching Assistant Awards",
+      "url": "https://education.wisc.edu/news/school-of-education-graduate-students-recognized-with-2025-26-teaching-assistant-awards/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "Thirty-two graduate students have been selected as recipients of the 2025–26 Campus-Wide Teaching Assistant Awards, recognizing their excellence in teaching. Among this year’s honorees are four graduate students from the School of Education.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
     {
       "title": "UW–Madison’s Popkewitz receives Fulbright Specialist Award",
       "url": "https://education.wisc.edu/news/uw-madisons-popkewitz-receives-fulbright-specialist-award/",

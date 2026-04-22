@@ -1,9 +1,20 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-04-21T12:00:34.503571",
+  "crawled_at": "2026-04-21T20:00:37.967745",
   "total_news": 3,
   "news": [
+    {
+      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
+      "date": "Apr 20, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science",
+      "original_title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "summary_cn": "2026年04月20日，Indiana University and Zimmer Biomet launch research, workforce partnership。"
+    },
     {
       "title": "印第安纳大学举办小500主题T恤设计竞赛 学生竞逐为校友创立的Homefield品牌提供设计方案",
       "url": "https://news.iu.edu/live/news/50256-students-compete-to-design-little-500-t-shirt-for",
@@ -25,17 +36,6 @@
       "category": "general",
       "original_title": "IU Public Safety offers safety tips as it prepares for busy Little 500 weekend",
       "summary_cn": "2026年04月20日，IU Public Safety offers safety tips as it prepares for busy Little 500 weekend。"
-    },
-    {
-      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
-      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
-      "date": "Apr 20, 2026",
-      "type": "Administration",
-      "summary_en": "",
-      "source": "Indiana University",
-      "category": "science",
-      "original_title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
-      "summary_cn": "2026年04月20日，Indiana University and Zimmer Biomet launch research, workforce partnership。"
     }
   ],
   "compiled_count": 0,

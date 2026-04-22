@@ -1,7 +1,7 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-21T12:01:58.199594",
+  "crawled_at": "2026-04-21T20:02:18.400518",
   "total_news": 8,
   "news": [
     {
@@ -93,6 +93,6 @@
       "summary_cn": "2026年4月18日，美国内布拉斯加大学林肯分校通过官方渠道发布相关教育活动信息。\n\n本次公开信息显示，该校近期举办教师教育专项毕业典礼，仪式设置专门的学生表彰环节，共有208名该校学生在本次典礼上获得校方授予的荣誉表彰。\n\n截至本次信息发布时，校方仅对外披露上述核心活动内容，未公开本次受表彰学生的评选标准、专业分布、奖励内容及其他配套安排等相关细节。"
     }
   ],
-  "compiled_count": 5,
-  "skipped_count": 3
+  "compiled_count": 0,
+  "skipped_count": 8
 }

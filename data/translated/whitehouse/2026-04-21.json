@@ -1,9 +1,18 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-21T12:02:16.545838",
+  "crawled_at": "2026-04-21T20:02:36.704034",
   "total_news": 10,
   "news": [
+    {
+      "title": "白宫向美国参议院提交提名",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-sent-to-the-senate-633f/",
+      "date": "April 21, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Nominations Sent to the Senate",
+      "summary_cn": "2026年4月21日，美国白宫发布原标题为《提名已提交参议院》的官方公务公告。\n\n本次公告仅对外通报已完成相关提名材料的报送流程，正式将提名事项递交至美国参议院的程序性进展，未在本次公开版本中披露本次提名涉及的职务范畴、提名人选身份信息、提名对应的领域等具体内容，也未就提名后续的审议安排作出公开说明。\n\n本次公开公告未附带其他补充说明内容，截至公告发布当日，白宫方面未就本次提名相关事宜对外披露更多可公开的信息，后续相关事宜的公开进展将由发布方按其既定公务流程对外公布。"
+    },
     {
       "title": "特朗普总统在消费者新闻与商业频道独家专访中谈及美国面临的关键问题",
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
@@ -84,15 +93,6 @@
       "source": "The White House",
       "original_title": "President Trump’s Landmark Order Advances Breakthrough Mental Health Treatments — Delivering New Hope to Veterans",
       "summary_cn": "2026年4月20日，美国白宫发布官方相关信息。\n\n本次公开内容涉及时任美国总统特朗普签署的一项精神卫生领域行政令，该行政令被定位为精神卫生服务领域的里程碑式政策文件，核心方向为推动突破性精神卫生治疗相关举措落地。\n\n美方明确，该政策的服务覆盖群体包含退伍军人群体，行政令的推进实施将为有精神卫生服务需求的退伍军人带来新的服务供给选项与支持希望。\n\n本次公开信息由白宫官方渠道发布，未同步披露该行政令的具体实施安排、资源投入规模、落地时间节点等配套细则，相关后续进展需以美方后续官方发布内容为准。"
-    },
-    {
-      "title": "白宫发布2026年全国志愿者周总统致辞文件",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-volunteer-week/",
-      "date": "April 20, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House",
-      "original_title": "Presidential Message on National Volunteer Week",
-      "summary_cn": "2026年4月20日，美国白宫发布官方政务文件，标题为《总统关于全国志愿者周的致辞》。\n\n根据已公开的文件标注信息，该文件发布主体为白宫，发布日期为2026年4月20日，核心主题围绕美国全国志愿者周相关内容设置。本次对外公开的文件暂未标注作者信息，也未同步披露配套官方摘要以及文件正文的具体内容，未涉及可提取的核心政策表述、关键数据、相关部署安排、表态内容等信息。\n\n截至目前，白宫未就该文件核心内容未同步公开的相关情况作出说明，也未披露该文件完整内容的后续发布安排。相关机构及公众如需了解该文件的完整信息，可通过白宫官方正规发布渠道留意后续公开动态，文件具体内容以官方发布的完整版为准。"
     }
   ],
   "compiled_count": 1,

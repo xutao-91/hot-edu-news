@@ -1,7 +1,17 @@
 {
   "source": "Northwestern University News",
   "source_url": "https://news.northwestern.edu/university-news",
-  "crawled_at": "2026-04-21T12:01:10.008362",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-21T20:01:09.586386",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Newly admitted students try on Northwestern during Wildcat Days",
+      "url": "https://news.northwestern.edu/stories/2026/4/newly-admitted-students-try-on-northwestern-during-wildcat-days",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "students"
+    }
+  ]
 }

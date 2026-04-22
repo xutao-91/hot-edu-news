@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-21T12:02:16.545838",
+  "crawled_at": "2026-04-21T20:02:36.704034",
   "total_news": 10,
   "news": [
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-sent-to-the-senate-633f/",
+      "date": "April 21, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "President Trump Addresses Key Issues Facing the Nation in Exclusive CNBC Interview",
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
@@ -65,13 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trumps-landmark-order-advances-breakthrough-mental-health-treatments-delivering-new-hope-to-veterans/",
       "date": "April 20, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on National Volunteer Week",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-volunteer-week/",
-      "date": "April 20, 2026",
-      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]

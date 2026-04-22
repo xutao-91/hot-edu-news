@@ -1,9 +1,19 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-21T12:00:18.293353",
-  "total_news": 2,
+  "crawled_at": "2026-04-21T20:00:19.803549",
+  "total_news": 3,
   "news": [
+    {
+      "title": "美国教育部长琳达·麦克马洪赴爱达荷州开展“将教育权交还各州”及“历史很精彩！”全国巡访",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-idaho-returning-education-states-and-history-rocks-nationwide-tours",
+      "date": "April 21, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics",
+      "original_title": "U.S. Secretary of Education Linda McMahon Visits Idaho on Returning Education to the States and History Rocks! Nationwide Tours",
+      "summary_cn": "2026年4月21日，美国教育部发布官方公务新闻，通报美国教育部长琳达·麦克马洪近日到访爱达荷州开展公务访问。\n\n本次访问属于琳达·麦克马洪牵头推进的两大全国性巡访工作范畴，两项巡访分别为“将教育权交还各州”全国巡访与“历史很精彩！”全国巡访，相关活动覆盖全美各州范围。\n\n本次公开的新闻稿未披露琳达·麦克马洪此次访问爱达荷州的具体行程安排、会见人员、磋商议题、落地成果等详细内容，相关后续公务动态将由美国教育部通过官方信息发布渠道依规对外公开。"
+    },
     {
       "title": "美国教育部长琳达·麦克马洪赴俄勒冈州开展“教育权归还各州”巡回访问",
       "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-oregon-returning-education-states-tour",
@@ -25,6 +35,6 @@
       "summary_cn": "2026年4月20日，美国教育部对外发布公务活动资讯，通报该部官员近期相关公务出席情况。\n\n本次披露的公务活动主体为美国教育部公民教育高级顾问凯蒂·戈尔卡（Katie Gorka），其赴美国得克萨斯州出席了当地举办的“历史震撼！”（History Rocks!）主题活动，在活动相关环节重点强调公民教育相关工作。\n\n截至本次资讯发布之时，美国教育部暂未公开本次“历史震撼！”活动的具体举办日程、参与人员范围、凯蒂·戈尔卡关于公民教育的具体表述内容、活动涉及的相关配套工作安排等细节信息，相关后续进展将由美国教育部官方渠道按工作程序对外公布。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 1,
   "skipped_count": 2
 }

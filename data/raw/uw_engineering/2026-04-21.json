@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison College of Engineering",
   "source_url": "https://engineering.wisc.edu/news/",
-  "crawled_at": "2026-04-21T12:02:05.778619",
-  "total_news": 2,
+  "crawled_at": "2026-04-21T20:02:26.618399",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Focus on new faculty: Adam Dempsey develops heavy-duty engine technologies to enhance sustainability",
+      "url": "https://engineering.wisc.edu/news/focus-on-new-faculty-adam-dempsey-develops-heavy-duty-engine-technologies-to-enhance-sustainability/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "As a new associate professor in the UW-Madison Department of Mechanical Engineering, Adam Dempsey is excited to return to his alma mater and the department where he earned his PhD 13 years ago.  “I’m actually…",
+      "source": "UW-Madison College of Engineering",
+      "category": "technology"
+    },
     {
       "title": "Morgridges’ latest gift drives UW-Madison engineering building forward",
       "url": "https://engineering.wisc.edu/news/morgridges-latest-gift-drives-uw-madison-engineering-building-forward/",

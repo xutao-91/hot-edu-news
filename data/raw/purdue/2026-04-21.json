@@ -1,0 +1,17 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-21T20:01:33.307500",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Purdue announces SpaceX team as inaugural laureate of the Neil Armstrong Space Prize",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-announces-spacex-team-as-inaugural-recipients-of-the-neil-armstrong-space-prize",
+      "date": "April 21, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    }
+  ]
+}

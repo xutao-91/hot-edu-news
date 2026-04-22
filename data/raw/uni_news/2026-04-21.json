@@ -1,15 +1,33 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-04-21T12:01:56.511297",
-  "total_news": 1,
+  "crawled_at": "2026-04-21T20:02:15.485969",
+  "total_news": 3,
   "news": [
+    {
+      "title": "UNI students win funding at the 26th Annual John Pappajohn Student Entrepreneurial Venture Competition",
+      "url": "https://insideuni.uni.edu/uni-students-win-funding-26th-annual-john-pappajohn-student-entrepreneurial-venture-competition",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Three UNI students won funding for their businesses at the 2026 John Pappajohn Student Entrepreneurial Venture Competition on April 10. Kadin Walter was one of three winners of this year’s competition, receiving $5,000 for his venture Work N Walter Farms.",
+      "source": "UNI News",
+      "category": "students"
+    },
     {
       "title": "UNI Gallery of Art celebrates BFA Thesis Exhibition and Women’s & Gender Studies milestone",
       "url": "https://insideuni.uni.edu/arts-design/uni-gallery-art-celebrates-bfa-thesis-exhibition-and-womens-gender-studies-milestone",
       "date": "2026-04-21",
       "type": "News",
       "summary_en": "The University of Northern Iowa Gallery of Art will present the Spring 2026 Bachelor of Fine Arts (BFA) Group Thesis Exhibition from Friday, May 1 through Friday, May 15.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI earns graduate education honors, student competes in Three Minute Thesis competition at regional conference",
+      "url": "https://insideuni.uni.edu/campus-community/uni-earns-graduate-education-honors-student-competes-three-minute-thesis",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "UNI received Honorable Mention for the Excellence and Innovation in Graduate Education Award at the 82nd Midwestern Association of Graduate Schools (MAGS) Annual Conference. MAGS represents more than 100 institutions across 14 states, making this recognition a tremendous honor for our graduate programs and the students, faculty and staff who make them exceptional.",
       "source": "UNI News",
       "category": "general"
     }

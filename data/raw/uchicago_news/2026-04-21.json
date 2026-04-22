@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-21T12:01:42.483652",
-  "total_news": 6,
+  "crawled_at": "2026-04-21T20:02:03.895294",
+  "total_news": 7,
   "news": [
+    {
+      "title": "At UChicago event, Russian journalist Maria Pevchikh talks Kremlin investigations and Navalny’s legacy",
+      "url": "https://news.uchicago.edu/story/uchicago-event-russian-journalist-maria-pevchikh-talks-kremlin-investigations-and-navalnys",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "The reporter stressed the importance of independent media and government accountability at a discussion hosted by the Chicago Forum and partners",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Alison LaCroix named speaker for UChicago’s 2026 Convocation ceremony",
       "url": "https://news.uchicago.edu/story/alison-lacroix-named-speaker-uchicagos-2026-convocation-ceremony",

@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-04-21T12:00:34.503571",
+  "crawled_at": "2026-04-21T20:00:37.967745",
   "total_news": 3,
   "news": [
+    {
+      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
+      "date": "Apr 20, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
     {
       "title": "Students compete to design Little 500 T-shirt for IU alumnus-founded Homefield",
       "url": "https://news.iu.edu/live/news/50256-students-compete-to-design-little-500-t-shirt-for",
@@ -21,15 +30,6 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"
-    },
-    {
-      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
-      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
-      "date": "Apr 20, 2026",
-      "type": "Administration",
-      "summary_en": "",
-      "source": "Indiana University",
-      "category": "science"
     }
   ]
 }

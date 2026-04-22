@@ -1,9 +1,20 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-21T12:01:42.483652",
-  "total_news": 6,
+  "crawled_at": "2026-04-21T20:02:03.895294",
+  "total_news": 7,
   "news": [
+    {
+      "title": "俄罗斯记者玛丽亚·佩夫奇赫在芝加哥大学活动上谈及克里姆林宫相关调查与纳瓦尔尼遗产",
+      "url": "https://news.uchicago.edu/story/uchicago-event-russian-journalist-maria-pevchikh-talks-kremlin-investigations-and-navalnys",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "The reporter stressed the importance of independent media and government accountability at a discussion hosted by the Chicago Forum and partners",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "At UChicago event, Russian journalist Maria Pevchikh talks Kremlin investigations and Navalny’s legacy",
+      "summary_cn": "2026年4月21日，芝加哥大学发布相关活动报道，介绍该校近期举办的公开讨论活动相关情况。\n\n本次活动由芝加哥论坛及其合作方共同主办，俄罗斯记者玛丽亚·佩夫奇赫受邀作为主要发言嘉宾参与本次讨论，其发言围绕克里姆林宫相关调查、纳瓦尔尼遗产两大核心议题展开。\n\n活动期间，佩夫奇赫作出公开表述，着重强调了独立媒体的重要价值，以及政府问责的重要意义。相关表态为本次公开讨论活动对外披露的核心观点内容。"
+    },
     {
       "title": "艾莉森·拉克鲁瓦被任命为芝加哥大学2026年毕业典礼演讲嘉宾",
       "url": "https://news.uchicago.edu/story/alison-lacroix-named-speaker-uchicagos-2026-convocation-ceremony",
@@ -72,5 +83,5 @@
     }
   ],
   "compiled_count": 1,
-  "skipped_count": 5
+  "skipped_count": 6
 }

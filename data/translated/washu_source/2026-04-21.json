@@ -1,9 +1,32 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-04-21T12:02:13.602345",
-  "total_news": 0,
-  "news": [],
-  "compiled_count": 0,
+  "crawled_at": "2026-04-21T20:02:33.402515",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "圣路易斯华盛顿大学医学院为大圣路易斯马拉松提供官方医疗及配套支持",
+      "url": "https://source.washu.edu/2026/04/supporting-runners-every-step-of-the-way/",
+      "date": "2026-04-21",
+      "type": "St. Louis Region",
+      "summary_en": "WashU Medicine serves as the official medical provider — and more — at the Greater St. Louis Marathon.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Supporting runners every step of the way",
+      "summary_cn": "2026年4月21日，圣路易斯华盛顿大学对外发布相关公开信息，介绍该校医学院参与大圣路易斯马拉松赛事服务的相关安排。\n\n根据发布内容显示，圣路易斯华盛顿大学医学院将担任大圣路易斯马拉松的官方医疗服务提供商，除承担指定的医疗服务职责之外，还将为赛事提供其他相关配套服务，全面覆盖赛事举办期间的各类相关服务需求。\n\n本次服务以全程支持参赛跑者为核心定位，覆盖跑者参赛全赛程的各个环节，将为所有参赛人员的每一步赛程提供对应保障支持，确保参赛跑者在赛事过程中的相关需求得到及时响应。"
+    },
+    {
+      "title": "米特拉·纳塞获威廉·H·丹佛斯圣路易斯汇流奖",
+      "url": "https://source.washu.edu/2026/04/naseh-receives-william-h-danforth-st-louis-confluence-award/",
+      "date": "2026-04-21",
+      "type": "Awards & Notables",
+      "summary_en": "The Brown School’s Mitra Naseh, founding director of its Forced Migration Initiative, is committed to working with local nonprofits to foster a sense of well-being and belonging among the region’s immigrants and refugees.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "Naseh receives William H. Danforth St. Louis Confluence Award",
+      "summary_cn": "2026年4月21日，圣路易斯华盛顿大学对外发布官方消息，通报该校教职人员获颁威廉·H·丹佛斯圣路易斯汇流奖的相关事宜。\n\n本次奖项的获得者为该校布朗学院教职人员米特拉·纳塞，其公开职务为布朗学院“被迫移民倡议”项目创始主任，主要从事移民与难民服务相关领域工作。\n\n纳塞始终致力于同当地非营利组织开展协同合作，相关工作以提升所在地区移民及难民群体的幸福感、增强该群体的归属感为核心目标，服务覆盖区域内的相关群体。"
+    }
+  ],
+  "compiled_count": 2,
   "skipped_count": 0
 }

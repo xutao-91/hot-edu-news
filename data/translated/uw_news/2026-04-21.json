@@ -1,7 +1,7 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-21T12:02:09.570336",
+  "crawled_at": "2026-04-21T20:02:30.271553",
   "total_news": 5,
   "news": [
     {
@@ -60,6 +60,6 @@
       "summary_cn": "2026年4月20日，美国华盛顿大学对外发布校园运营相关动态。\n\n本次动态明确，该校纪念联盟露台季已正式启动，相关既定安排已落地。\n\n根据本次发布的公开内容，在经历漫长冬季后，该校纪念联盟露台的朝阳椅已恢复摆放至露台对应区域。\n\n本次披露的动态仅包含上述内容，华盛顿大学未就相关事项对外公布更多补充说明。"
     }
   ],
-  "compiled_count": 3,
-  "skipped_count": 2
+  "compiled_count": 0,
+  "skipped_count": 5
 }

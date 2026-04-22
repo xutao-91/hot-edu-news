@@ -1,9 +1,17 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-21T12:00:18.293353",
-  "total_news": 2,
+  "crawled_at": "2026-04-21T20:00:19.803549",
+  "total_news": 3,
   "news": [
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits Idaho on Returning Education to the States and History Rocks! Nationwide Tours",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-idaho-returning-education-states-and-history-rocks-nationwide-tours",
+      "date": "April 21, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civics"
+    },
     {
       "title": "U.S. Secretary of Education Linda McMahon Visits Oregon on the Returning Education to the States Tour",
       "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-oregon-returning-education-states-tour",

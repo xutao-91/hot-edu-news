@@ -1,7 +1,17 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-04-21T12:01:30.079992",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-21T20:01:42.524605",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Purdue announces SpaceX team as inaugural laureate of the Neil Armstrong Space Prize",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0421-Purdue-announces-SpaceX-team-as-inaugural-laureate-of-the-Neil-Armstrong-Space-Prize",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The 2026 Neil Armstrong Space Prize was announced Tuesday (April 21) at Purdue University, heralding the Falcon 9 Booster Landing Team for their cutting-edge work on the Falcon 9 reusable two-stage rocket system.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
 }
