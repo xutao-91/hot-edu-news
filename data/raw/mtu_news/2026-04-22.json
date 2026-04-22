@@ -1,0 +1,17 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-04-22T12:00:57.877274",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The Closer: Computer Science Grad Takes Every Project to the Finish Line",
+      "url": "https://www.mtu.edu/stories/2026/04/the-closer-computer-science-grad-takes-every-project-to-the-finish-line.html",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Computer science student Ashley Baird is the kind of person who thrives on completing what she starts. Baird's drive to see things through resulted in a successful machine learning project for the U.S. Department of Defense and an internship at  . . .",
+      "source": "MTU News",
+      "category": "general"
+    }
+  ]
+}

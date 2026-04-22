@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-04-22T12:02:22.348304",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Trump Effect: American Manufacturing Is Roaring Back as Factory Activity Hits Four-Year High",
+      "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
+      "date": "April 22, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-sent-to-the-senate-633f/",
+      "date": "April 21, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Addresses Key Issues Facing the Nation in Exclusive CNBC Interview",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-addresses-key-issues-facing-the-nation-in-exclusive-cnbc-interview/",
+      "date": "April 21, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Issues Presidential Determination to Support U.S. Air Force Jet Fighter Training Operations",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-issues-presidential-determination-to-support-u-s-air-force-jet-fighter-training-operations/",
+      "date": "April 20, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Grid Infrastructure, Equipment, and Supply Chain Capacity",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-grid-infrastructure-equipment-and-supply-chain-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Development, Manufacturing, and Deployment of Large-Scale Energy and Energy‑Related Infrastructure",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-development-manufacturing-and-deployment-of-large-scale-energy-and-energy-related-inf/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Natural Gas Transmission, Processing, Storage, and Liquefied Natural Gas Capacity",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-natural-gas-transmission-processing-storage-and-liquefied-natural-gas-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-coal-supply-chains-and-baseload-power-generation-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Determination Concerning the Air Force’s Jet Fighter Training Operations in Idaho, Oregon, and Nevada",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
+      "date": "April 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}

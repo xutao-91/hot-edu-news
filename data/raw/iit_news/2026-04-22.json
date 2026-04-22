@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-04-22T12:00:32.309130",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Chicago-Kent Climbs to No. 7 in IP Law Rankings",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/chicago-kent-climbs-no-7-ip-law-rankings",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Chicago-Kent College of Law has been ranked the 7th-best law school in the nation for intellectual property law by U.S. News & World Report in the publication’s 2026 Best Law Schools rankings. That is...",
+      "source": "IIT News",
+      "category": "law"
+    },
+    {
+      "title": "‘Diplomacy Through Architecture’: Architecture Students Take Part in Unique Trip to Japan",
+      "url": "https://www.iit.edu/news/diplomacy-through-architecture-architecture-students-take-part-unique-trip-japan",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Every year for the last decade and a half, a prestigious international exchange program has chosen a single class of students to travel to Japan to explore the country’s practices and culture. For the...",
+      "source": "IIT News",
+      "category": "students"
+    }
+  ]
+}

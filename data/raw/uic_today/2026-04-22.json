@@ -1,0 +1,98 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-04-22T12:01:51.299337",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Student ventures take center stage at UIC’s 2026 Blaze Venture Challenge",
+      "url": "https://today.uic.edu/student-ventures-take-center-stage-at-uics-2026-blaze-venture-challenge/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Nearly 80 students participated in UIC’s campuswide pitch competition for early-stage, student-led ventures.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "UIC scientists develop promising therapy for deadly lung condition",
+      "url": "https://today.uic.edu/uic-scientists-develop-promising-therapy-for-deadly-lung-condition/",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "New molecule restores lung function in acute respiratory distress syndrome.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Meet UIC’s 2025-26 Rising Stars and Distinguished Researchers",
+      "url": "https://today.uic.edu/meet-uics-2025-26-rising-stars-and-distinguished-researchers/",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Annual awards honor 14 university researchers, staff for excellence, innovation and impact.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "Salman Khetani: How can we safely test drugs and chemicals?",
+      "url": "https://today.uic.edu/salman-khetani-how-can-we-safely-test-drugs-and-chemicals/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Distinguished Researcher in Natural Sciences and Engineering",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Shannon Halloway: Can physical activity delay cognitive decline?",
+      "url": "https://today.uic.edu/shannon-halloway-can-physical-activity-delay-cognitive-decline/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Clinical Sciences",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Alexander Yarin: How can polymer science protect dentists from COVID-19?",
+      "url": "https://today.uic.edu/alexander-yarin-how-can-polymer-science-protect-dentists-from-covid-19/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Inventor of the Year",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "Ruixuan Gao: What can molecules tell us about our brains?",
+      "url": "https://today.uic.edu/ruixuan-gao-what-can-molecules-tell-us-about-our-brains/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Basic Life Sciences.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Matthew Daly: What’s light as glass and strong as metal?",
+      "url": "https://today.uic.edu/matthew-daly-whats-light-as-glass-and-strong-as-metal/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Natural Sciences and Engineering",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Terrell Morton: How can we enhance STEM learning for Black students?",
+      "url": "https://today.uic.edu/terrell-morton-how-can-we-enhance-stem-learning-for-black-students/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Social Sciences",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Jonathan Connolly: What does freedom look like after abolition?",
+      "url": "https://today.uic.edu/jonathan-connolly-what-does-freedom-look-like-after-abolition/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Rising Star in Humanities, Arts, Design and Architecture",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

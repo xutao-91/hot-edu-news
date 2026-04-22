@@ -1,0 +1,80 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-22T12:01:49.974368",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "UChicago team wins funding to develop AI weather forecasts for underserved areas",
+      "url": "https://news.uchicago.edu/story/uchicago-team-wins-funding-develop-ai-weather-forecasts-underserved-areas",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Laude Moonshot program awards Data Science Institute and partners seed funding for forecasts to help communities in developing economies",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "At UChicago event, Russian journalist Maria Pevchikh talks Kremlin investigations and Navalny’s legacy",
+      "url": "https://news.uchicago.edu/story/uchicago-event-russian-journalist-maria-pevchikh-talks-kremlin-investigations-and-navalnys",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "The reporter stressed the importance of independent media and government accountability at a discussion hosted by the Chicago Forum and partners",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Alison LaCroix named speaker for UChicago’s 2026 Convocation ceremony",
+      "url": "https://news.uchicago.edu/story/alison-lacroix-named-speaker-uchicagos-2026-convocation-ceremony",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Renowned legal historian to address graduates at June 6 celebration on Main Quadrangles",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago physicist Clay Córdova awarded 2026 New Horizons Prize in Physics",
+      "url": "https://news.uchicago.edu/story/uchicago-physicist-clay-cordova-awarded-2026-new-horizons-prize-physics",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "University of Chicago physicist Clay Córdova has been named a recipient of the 2026 New Horizons in Physics Prize for his work in quantum field theory.",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Fermilab Muon g-2 experiment receives Breakthrough Prize in Fundamental Physics",
+      "url": "https://news.uchicago.edu/story/fermilab-muon-g-2-experiment-receives-breakthrough-prize-fundamental-physics",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "UChicago-affiliated laboratory recognized for measuring the muon",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Earth Day in the Shadow of War",
+      "url": "https://news.uchicago.edu/earth-day-shadow-war",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "US is world's top oil producer. So why does gas cost so much? | Opinion",
+      "url": "https://www.usatoday.com/story/opinion/2026/04/20/oil-gas-prices-supply-demand-persian-gulf/89540501007/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Could ‘A River Runs Through It’ Have Been a Hit Today?",
+      "url": "https://www.nytimes.com/2026/04/20/books/could-a-river-runs-through-it-have-been-a-hit-today.html",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

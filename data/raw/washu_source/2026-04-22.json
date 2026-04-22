@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-22T12:02:19.532605",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Supporting runners every step of the way",
+      "url": "https://source.washu.edu/2026/04/supporting-runners-every-step-of-the-way/",
+      "date": "2026-04-21",
+      "type": "St. Louis Region",
+      "summary_en": "WashU Medicine serves as the official medical provider — and more — at the Greater St. Louis Marathon.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Naseh receives William H. Danforth St. Louis Confluence Award",
+      "url": "https://source.washu.edu/2026/04/naseh-receives-william-h-danforth-st-louis-confluence-award/",
+      "date": "2026-04-21",
+      "type": "Awards & Notables",
+      "summary_en": "The Brown School’s Mitra Naseh, founding director of its Forced Migration Initiative, is committed to working with local nonprofits to foster a sense of well-being and belonging among the region’s immigrants and refugees.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

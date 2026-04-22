@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-04-22T12:00:30.883074",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Helping Iowans adopt innovation",
+      "url": "https://www.news.iastate.edu/news/helping-iowans-adopt-innovation",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Iowa State University Extension and Outreach connects Iowans with opportunities to innovate: youth get hands-on AI education, food entrepreneurs try a mobile processing cart and farmers examine livestock tech in the field.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

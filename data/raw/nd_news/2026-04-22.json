@@ -1,0 +1,44 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-04-22T12:01:01.815726",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Division of Student Affairs honors outstanding student leaders",
+      "url": "https://news.nd.edu/news/division-of-student-affairs-honors-outstanding-student-leaders/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "UC San Diego economist Paul Niehaus to receive Notre Dame Award for pioneering global cash aid research",
+      "url": "https://news.nd.edu/news/uc-san-diego-economist-paul-niehaus-to-receive-notre-dame-award-for-pioneering-global-cash-aid-research/",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "global"
+    },
+    {
+      "title": "The Shirt 2026 to be unveiled April 24 on campus",
+      "url": "https://news.nd.edu/news/the-shirt-2026-to-be-unveiled-friday-april-24-on-campus/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Fourteen current or former Notre Dame students awarded NSF Graduate Research Fellowships",
+      "url": "https://news.nd.edu/news/fourteen-current-or-former-notre-dame-students-awarded-nsf-graduate-research-fellowships/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

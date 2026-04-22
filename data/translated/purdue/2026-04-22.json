@@ -1,0 +1,32 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-22T12:01:25.534837",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "美国国家航空航天局副局长访问普渡大学并参观研究设施",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/nasa-associate-administrator-visits-purdue-tours-research-facilities",
+      "date": "April 22, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research",
+      "original_title": "NASA associate administrator visits Purdue, tours research facilities",
+      "summary_cn": "2026年4月22日，美国普渡大学官方发布相关公务消息，美国国家航空航天局（NASA）副局长于当日到访普渡大学，开展正式公务访问活动。\n\n访问行程包含实地踏勘环节，NASA副局长一行对普渡大学校内的相关研究设施进行了参观，本次活动属于双方官方层面的公务交流安排，全部公开信息均由普渡大学官方渠道对外发布。\n\n因公开信息有限，本次访问的具体参与人员、深入交流内容、达成合作意向及后续工作安排等细节，均以信息发布主体普渡大学的官方后续披露内容为准。"
+    },
+    {
+      "title": "美国太空探索技术公司（SpaceX）团队凭借可重复使用火箭系统获普渡大学首届尼尔·阿姆斯特朗航天奖",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-announces-spacex-team-as-inaugural-recipients-of-the-neil-armstrong-space-prize",
+      "date": "April 21, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "SpaceX team wins Purdue’s first Neil Armstrong Space Prize for its reusable rocket system",
+      "summary_cn": "2026年4月21日，美国普渡大学官方对外发布奖项评选相关信息。\n\n根据普渡大学公布的内容，该校首届尼尔·阿姆斯特朗航天奖评选工作已完成，最终获奖主体为美国太空探索技术公司（SpaceX）团队，该团队凭借其研发的可重复使用火箭系统获评该奖项。\n\n本次奖项是普渡大学首次以尼尔·阿姆斯特朗名义设立的航天类专项奖项，本次授奖为该奖项设立后的首次颁奖。普渡大学在本次公开的信息中未披露本次奖项的评审细则、奖金标准、颁奖活动具体安排等其余配套内容，相关后续信息以校方后续官方发布为准。"
+    }
+  ],
+  "compiled_count": 2,
+  "skipped_count": 0
+}

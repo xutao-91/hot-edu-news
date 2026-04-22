@@ -1,0 +1,48 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-22T12:01:19.186746",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Key facts about Native Hawaiians and Pacific Islanders in the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/22/key-facts-about-native-hawaiians-and-pacific-islanders-in-the-u-s/",
+      "date": "Apr 22, 2026",
+      "type": "short reads",
+      "categories": [
+        "Race Ethnicity",
+        "Racial Ethnic Groups"
+      ],
+      "summary_en": "About 1.7 million people in the U.S. are Native Hawaiian or Pacific Islander (NHPI), tracing their roots to Hawaii, Guam, Samoa or other Pacific Islands in Oceania.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "5 facts about U.S. children living in blended families",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/21/5-facts-about-u-s-children-living-in-blended-families/",
+      "date": "Apr 21, 2026",
+      "type": "short reads",
+      "categories": [
+        "Family Relationships",
+        "Household Structure Family Roles",
+        "Marriage Divorce"
+      ],
+      "summary_en": "17% of U.S. children under 18 live in a blended family most or all of the time – one that includes a stepparent, stepsiblings or half siblings.",
+      "source": "Pew Research Center",
+      "category": "marriage_family"
+    },
+    {
+      "title": "What types of news do Americans seek out or happen to come across?",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/20/what-types-of-news-do-americans-seek-out-or-happen-to-come-across/",
+      "date": "Apr 20, 2026",
+      "type": "short reads",
+      "categories": [
+        "Digital News Landscape 2",
+        "News Coverage"
+      ],
+      "summary_en": "About half of U.S. adults (49%) say they mostly get news because they happen to come across it, up from 39% in 2019.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

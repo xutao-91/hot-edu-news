@@ -1,0 +1,43 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-04-22T12:00:35.380017",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
+      "date": "Apr 20, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science",
+      "original_title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "summary_cn": "2026年04月20日，Indiana University and Zimmer Biomet launch research, workforce partnership。"
+    },
+    {
+      "title": "印第安纳大学举办小500主题T恤设计竞赛 学生竞逐为校友创立的Homefield品牌提供设计方案",
+      "url": "https://news.iu.edu/live/news/50256-students-compete-to-design-little-500-t-shirt-for",
+      "date": "Apr 20, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education",
+      "original_title": "Students compete to design Little 500 T-shirt for IU alumnus-founded Homefield",
+      "summary_cn": "2026年4月20日，美国印第安纳大学对外发布相关新闻，通报该校举办小500主题T恤设计竞赛相关工作情况。\n\n本次竞赛面向该校在校学生群体开展，核心活动内容为组织学生围绕小500相关主题进行T恤创意设计，最终遴选产生的优胜设计方案，将交付由印第安纳大学校友创立的Homefield品牌使用，用于该品牌相关主题T恤的开发运营工作。\n\n本次竞赛是印第安纳大学对接校友企业资源、为在校学生提供创意展示落地渠道的专项活动，评审工作组由印第安纳大学相关职能部门与Homefield品牌相关负责人共同组成，将严格按照既定评审规则对所有参赛作品开展遴选，确保评审过程公平、公正、公开。\n\n截至本次新闻发布当日，竞赛相关作品征集工作已按既定计划顺利完成，后续优胜作品名单及设计方案落地安排，将通过印第安纳大学官方信息渠道及时对外公布。"
+    },
+    {
+      "title": "IU Public Safety offers safety tips as it prepares for busy Little 500 weekend",
+      "url": "https://news.iu.edu/live/news/50253-iu-public-safety-offers-safety-tips-as-it-prepares",
+      "date": "Apr 20, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general",
+      "original_title": "IU Public Safety offers safety tips as it prepares for busy Little 500 weekend",
+      "summary_cn": "2026年04月20日，IU Public Safety offers safety tips as it prepares for busy Little 500 weekend。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 3
+}
