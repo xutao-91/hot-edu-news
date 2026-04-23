@@ -1,0 +1,54 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-04-23T12:00:37.489631",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "url": "https://news.iu.edu/live/news/49955-indiana-university-and-zimmer-biomet-launch",
+      "date": "Apr 20, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science",
+      "original_title": "Indiana University and Zimmer Biomet launch research, workforce partnership",
+      "summary_cn": "2026年04月20日，Indiana University and Zimmer Biomet launch research, workforce partnership。"
+    },
+    {
+      "title": "印第安纳大学视光学院视力筛查项目改善数千名儿童及运动员视力状况",
+      "url": "https://news.iu.edu/live/news/50264-iu-school-of-optometry-vision-screenings-improve",
+      "date": "Apr 23, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general",
+      "original_title": "IU School of Optometry vision screenings improve eyesight for thousands of children and athletes",
+      "summary_cn": "2026年4月23日，美国印第安纳大学发布该校视光学院视力筛查相关工作情况。\n\n本次视力筛查工作由印第安纳大学视光学院组织开展，服务对象涵盖儿童及运动员两类群体，面向相关人员提供专业视力检测服务，针对筛查中发现的视力问题采取对应处置措施，帮助相关群体改善视力健康水平。\n\n截至信息发布时，该视力筛查项目已累计为数千名儿童及运动员提供服务，相关人员的视力问题得到有效处置，视力状况得到明显改善，项目实施取得了预期的正向成效。"
+    },
+    {
+      "title": "印第安纳大学举办小500主题T恤设计竞赛 学生竞逐为校友创立的Homefield品牌提供设计方案",
+      "url": "https://news.iu.edu/live/news/50256-students-compete-to-design-little-500-t-shirt-for",
+      "date": "Apr 20, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education",
+      "original_title": "Students compete to design Little 500 T-shirt for IU alumnus-founded Homefield",
+      "summary_cn": "2026年4月20日，美国印第安纳大学对外发布相关新闻，通报该校举办小500主题T恤设计竞赛相关工作情况。\n\n本次竞赛面向该校在校学生群体开展，核心活动内容为组织学生围绕小500相关主题进行T恤创意设计，最终遴选产生的优胜设计方案，将交付由印第安纳大学校友创立的Homefield品牌使用，用于该品牌相关主题T恤的开发运营工作。\n\n本次竞赛是印第安纳大学对接校友企业资源、为在校学生提供创意展示落地渠道的专项活动，评审工作组由印第安纳大学相关职能部门与Homefield品牌相关负责人共同组成，将严格按照既定评审规则对所有参赛作品开展遴选，确保评审过程公平、公正、公开。\n\n截至本次新闻发布当日，竞赛相关作品征集工作已按既定计划顺利完成，后续优胜作品名单及设计方案落地安排，将通过印第安纳大学官方信息渠道及时对外公布。"
+    },
+    {
+      "title": "IU Public Safety offers safety tips as it prepares for busy Little 500 weekend",
+      "url": "https://news.iu.edu/live/news/50253-iu-public-safety-offers-safety-tips-as-it-prepares",
+      "date": "Apr 20, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general",
+      "original_title": "IU Public Safety offers safety tips as it prepares for busy Little 500 weekend",
+      "summary_cn": "2026年04月20日，IU Public Safety offers safety tips as it prepares for busy Little 500 weekend。"
+    }
+  ],
+  "compiled_count": 1,
+  "skipped_count": 3
+}

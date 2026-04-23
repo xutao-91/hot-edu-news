@@ -1,0 +1,35 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-04-23T12:01:10.432567",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Field-tested: Michigan Tech Grad Hikes from Isle Royale Research to a National Park Service Career",
+      "url": "https://www.mtu.edu/stories/2026/04/fieldtested-michigan-tech-grad-hikes-from-isle-royale-research-to-a-national-park-service-career.html",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Backpacking off-trail for a month over a more than 200-square-mile island chain is more demanding than your average camping trip. But for graduating Michigan Tech senior Jacob Sutter, wild places like Isle Royale National Park are where he finds happiness.  . . .",
+      "source": "MTU News",
+      "category": "research"
+    },
+    {
+      "title": "Michigan Tech Researchers Develop Sustainable Building Material from Wood Waste",
+      "url": "https://www.mtu.edu/unscripted/2026/04/michigan-tech-researchers-develop-sustainable-building-material-from-wood-waste.html",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "More efficient use of lumber byproducts leads to more sustainable forest management. That's why Michigan Technological University researchers are developing a biomaterial lighter than steel and just as strong, made from leftover wood waste, that could revolutionize the lumber industry.  . . .",
+      "source": "MTU News",
+      "category": "research"
+    },
+    {
+      "title": "The Closer: Computer Science Grad Takes Every Project to the Finish Line",
+      "url": "https://www.mtu.edu/stories/2026/04/the-closer-computer-science-grad-takes-every-project-to-the-finish-line.html",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Computer science student Ashley Baird is the kind of person who thrives on completing what she starts. Baird's drive to see things through resulted in a successful machine learning project for the U.S. Department of Defense and an internship at  . . .",
+      "source": "MTU News",
+      "category": "general"
+    }
+  ]
+}

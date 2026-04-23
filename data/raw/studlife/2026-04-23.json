@@ -1,0 +1,38 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-04-23T12:01:57.685462",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "SU FY27 budget increases overall student group funding, cuts major programming",
+      "url": "https://www.studlife.com/news/2026/04/23/su-fy27-budget-increases-overall-student-group-funding-cuts-major-programming",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Student Union (SU) approved its fiscal year 2027 (FY27) general budget of approximately $4.8 million, an increase from about $4.65 million allocated for FY26. For the upcoming fiscal year, more funding will be directed towards student groups and less towards large-scale SU-run programming, such as the Social Programming Board (SPB), compared to FY26.",
+      "author": "Pranathi Murthy",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Amanda Nguyen – “an astronaut, a scientist, and an activist” – speaks at WashU",
+      "url": "https://www.studlife.com/news/2026/04/23/amanda-nguyen-an-astronaut-a-scientist-and-an-activist-speaks-at-washu",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "For someone who’s been to space, Amanda Nguyen is incredibly down to earth. Nguyen, a sexual assault advocate and the first Vietnamese woman to go to space, spoke about her journey during a fireside chat on Thursday, April 16.",
+      "author": "Flannery Poon",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Changes to McKelvey PhD admissions bring an end to lab rotations",
+      "url": "https://www.studlife.com/news/2026/04/23/changes-to-mckelvey-phd-admissions-bring-an-end-to-lab-rotations",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "All of McKelvey’s PhD programs have transitioned away from rotational admissions this year, moving to a fully direct-admit model where incoming PhD students are matched with a single faculty advisor before setting foot on campus. The shift mirrors a broader national trend driven largely by one factor: funding. McKelvey is not alone. Across the country, some engineering PhD programs have been makin",
+      "author": "Ella Giere",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

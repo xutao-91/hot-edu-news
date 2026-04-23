@@ -1,0 +1,44 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-23T12:02:29.175690",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Mock digs to global stage: WashU archaeologist Patania mentors Lego League teams",
+      "url": "https://source.washu.edu/2026/04/mock-digs-to-global-stage-washu-archaeologist-patania-mentors-lego-league-teams/",
+      "date": "2026-04-23",
+      "type": "St. Louis Region",
+      "summary_en": "In August, global robotics competition First Lego League challenged children to design a robot to help archaeologists. The task demands skills in engineering, design and, first and foremost, archaeology. Enter WashU environmental archaeologist Ilaria Patania, who helped dozens of middle school competitors.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "2026 Olin Award recognizes continued excellence in AI research",
+      "url": "https://source.washu.edu/2026/04/2026-olin-award-recognizes-continued-excellence-in-ai-research/",
+      "date": "2026-04-23",
+      "type": "Marketing",
+      "summary_en": "This year’s Olin Award winner is Xiang Hu, who studied how an artificial intelligence (AI) tool can improve outcomes in the real estate market for buyers and sellers. It’s one of many AI-focused research projects making an impact at Olin.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Supporting runners every step of the way",
+      "url": "https://source.washu.edu/2026/04/supporting-runners-every-step-of-the-way/",
+      "date": "2026-04-21",
+      "type": "St. Louis Region",
+      "summary_en": "WashU Medicine serves as the official medical provider — and more — at the Greater St. Louis Marathon.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Naseh receives William H. Danforth St. Louis Confluence Award",
+      "url": "https://source.washu.edu/2026/04/naseh-receives-william-h-danforth-st-louis-confluence-award/",
+      "date": "2026-04-21",
+      "type": "Awards & Notables",
+      "summary_en": "The Brown School’s Mitra Naseh, founding director of its Forced Migration Initiative, is committed to working with local nonprofits to foster a sense of well-being and belonging among the region’s immigrants and refugees.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

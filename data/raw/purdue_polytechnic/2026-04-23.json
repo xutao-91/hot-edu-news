@@ -1,0 +1,26 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-04-23T12:01:44.551933",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Early outcomes promising for Polytechnic’s microelectronics teacher fellowship program",
+      "url": "https://polytechnic.purdue.edu/newsroom/early-outcomes-promising-polytechnics-microelectronics-teacher-fellowship-program",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Polytechnic faculty promotions approved by Board of Trustees",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-faculty-promotions-approved-board-trustees",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

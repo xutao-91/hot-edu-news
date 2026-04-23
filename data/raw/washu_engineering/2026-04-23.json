@@ -1,0 +1,35 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-04-23T12:02:26.912657",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "McKelvey Engineering well-represented at Innovation & Entrepreneurship Awards",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-well-represented-at-Innovation-Entrepreneurship-Awards.html",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Students, faculty and alumni honored across multiple programs at Skandalaris Center event.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "BME doctoral student Chukwu wins first place, People’s Choice awards at PhD-in-3D competition",
+      "url": "https://engineering.washu.edu/news/2026/BME-doctoral-student-Chukwu-wins-first-place-Peoples-Choice-awards-at-PhD-in-3D-competition.html",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Chinwendu Chukwu won the awards for presenting her research at the McDonnell International Scholars Academy competition.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
+    {
+      "title": "McKelvey Engineering students build new aerospace design team",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-students-build-new-aerospace-design-team.html",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "WashU VTOL focuses on autonomous vertical take-off and landing aircraft.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    }
+  ]
+}
