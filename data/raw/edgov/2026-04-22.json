@@ -1,9 +1,17 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-22T12:00:14.231665",
-  "total_news": 3,
+  "crawled_at": "2026-04-22T20:00:16.197550",
+  "total_news": 4,
   "news": [
+    {
+      "title": "U.S. Department of Education and U.S. Department of Health and Human Services Announce Child Care Access Means Parents in School Partnership Grant Competition",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-child-care-access-means-parents-school-partnership-grant",
+      "date": "April 22, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "k12"
+    },
     {
       "title": "U.S. Secretary of Education Linda McMahon Visits Idaho on Returning Education to the States and History Rocks! Nationwide Tours",
       "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-idaho-returning-education-states-and-history-rocks-nationwide-tours",

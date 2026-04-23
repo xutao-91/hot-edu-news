@@ -1,9 +1,18 @@
 {
   "source": "Northwestern University News",
   "source_url": "https://news.northwestern.edu/university-news",
-  "crawled_at": "2026-04-22T12:01:06.764214",
-  "total_news": 1,
+  "crawled_at": "2026-04-22T20:01:10.881407",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Two Northwestern faculty elected to the American Academy of Arts and Sciences",
+      "url": "https://news.northwestern.edu/stories/2026/4/two-northwestern-faculty-elected-to-the-american-academy-of-arts-and-sciences",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
     {
       "title": "Newly admitted students try on Northwestern during Wildcat Days",
       "url": "https://news.northwestern.edu/stories/2026/4/newly-admitted-students-try-on-northwestern-during-wildcat-days",

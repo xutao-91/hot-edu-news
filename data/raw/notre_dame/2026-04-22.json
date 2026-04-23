@@ -1,7 +1,17 @@
 {
   "source": "University of Notre Dame Global Affairs",
   "source_url": "https://global.nd.edu/news-stories/news/",
-  "crawled_at": "2026-04-22T12:01:08.553459",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-22T20:01:12.321592",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Sowing seeds of hope: Vatican partnership advances global sustainability",
+      "url": "https://global.nd.edu/news-stories/news/sowing-seeds-of-hope-vatican-partnership-advances-global-sustainability/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "As the Vatican seeks to bring Pope Francis’s vision to life, it has asked the University of Notre Dame—an institution that has also sought to enact the principles of Laudato si’ in its teaching, research, and operations—to serve as an academic partner.",
+      "source": "Notre Dame Global Affairs",
+      "category": "global"
+    }
+  ]
 }

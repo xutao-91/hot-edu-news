@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-04-22T12:02:09.707780",
-  "total_news": 5,
+  "crawled_at": "2026-04-22T20:02:15.675726",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Article from UW–Madison’s Turner offers new framework for justice-oriented public education in a multiracial democracy",
+      "url": "https://education.wisc.edu/news/article-from-uw-madisons-turner-offers-new-framework-for-justice-oriented-public-education-in-a-multiracial-democracy/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "A new article by Erica O. Turner, associate professor in the Department of Educational Policy Studies at UW–Madison, offers a timely rethinking of what educational justice for all should look like in today’s multiracial democracy.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
+    {
+      "title": "UW–Madison entomology research to anchor new learning game",
+      "url": "https://education.wisc.edu/news/uw-madison-entomology-research-to-anchor-new-learning-game/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison entomology professor Claudio Gratton had wanted to make an educational video game about insects for years. He believed a game would be an incredible way to engage young learners with the important research he does on insect diversity.",
+      "source": "UW-Madison School of Education",
+      "category": "research"
+    },
     {
       "title": "School of Education graduate students recognized with 2025–26 Teaching Assistant Awards",
       "url": "https://education.wisc.edu/news/school-of-education-graduate-students-recognized-with-2025-26-teaching-assistant-awards/",

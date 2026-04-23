@@ -1,7 +1,7 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-04-22T12:00:11.101027",
+  "crawled_at": "2026-04-22T20:00:13.028402",
   "total_news": 3,
   "news": [
     {
@@ -41,6 +41,6 @@
       "summary_cn": "2026年4月21日，巴特勒大学发布该校安德烈·B·莱西商学院办学成果相关信息。\n\n巴特勒大学安德烈·B·莱西商学院长期在对学生最为重要的三类核心成果维度保持全国较高排名，三类维度分别为实习机会、毕业就业情况、职业准备度，相关成果得到业界普遍认可。\n\n在最新公布的2026年Poets&Quants全美最佳本科商学院排名中，共有全美110所商学院参与评选，莱西商学院总体排名位列第51位，其中职业相关成果维度表现尤为突出，相关指标排名处于全国第一梯队水平。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 1
+  "compiled_count": 0,
+  "skipped_count": 3
 }

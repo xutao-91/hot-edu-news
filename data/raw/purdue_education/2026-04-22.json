@@ -1,7 +1,17 @@
 {
   "source": "Purdue University College of Education",
   "source_url": "https://education.purdue.edu/news/",
-  "crawled_at": "2026-04-22T12:01:27.088634",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-22T20:01:26.881607",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "9 College of Education faculty promoted by trustees",
+      "url": "https://education.purdue.edu/news/2026/04/21/9-college-of-education-faculty-promoted-by-trustees/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The Purdue University Board of Trustees on Friday (April 10) approved faculty promotions, including those of nine College of Education faculty members. The following promotions are effective with the 2026-27 academic year. COLLEGE OF EDUCATION To Associate Professor Rebekah Hammack To Full Professor…",
+      "source": "Purdue College of Education",
+      "category": "education"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-04-22T12:01:51.299337",
+  "crawled_at": "2026-04-22T20:01:52.985623",
   "total_news": 10,
   "news": [
     {
@@ -39,6 +39,15 @@
       "summary_en": "Distinguished Researcher in Natural Sciences and Engineering",
       "source": "UIC Today",
       "category": "general"
+    },
+    {
+      "title": "Reneé McCarthy: How do we protect research funding in a changing landscape?",
+      "url": "https://today.uic.edu/renee-mccarthy-how-do-we-protect-research-funding-in-a-changing-landscape/",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "Champion of Research Support",
+      "source": "UIC Today",
+      "category": "research"
     },
     {
       "title": "Shannon Halloway: Can physical activity delay cognitive decline?",
@@ -84,15 +93,6 @@
       "summary_en": "Rising Star in Social Sciences",
       "source": "UIC Today",
       "category": "students"
-    },
-    {
-      "title": "Jonathan Connolly: What does freedom look like after abolition?",
-      "url": "https://today.uic.edu/jonathan-connolly-what-does-freedom-look-like-after-abolition/",
-      "date": "2026-04-20",
-      "type": "News",
-      "summary_en": "Rising Star in Humanities, Arts, Design and Architecture",
-      "source": "UIC Today",
-      "category": "general"
     }
   ]
 }

@@ -1,9 +1,20 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-22T12:02:04.237999",
-  "total_news": 9,
+  "crawled_at": "2026-04-22T20:02:10.129536",
+  "total_news": 10,
   "news": [
+    {
+      "title": "内布拉斯加大学林肯分校科学家以“内布拉斯加”命名新发现微生物",
+      "url": "https://news.unl.edu/article/husker-scientists-name-novel-microorganism-after-nebraska",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni",
+      "original_title": "Husker scientists name novel microorganism after Nebraska",
+      "summary_cn": "2026年4月22日，美国内布拉斯加大学林肯分校官方发布一则科研相关动态新闻。\n\n本次新闻核心内容显示，该校所属科研人员完成一种新型微生物的发现认定工作，正式将该全新微生物以“内布拉斯加”命名。本次新闻标题中提及的“赫斯克（Husker）”是内布拉斯加大学林肯分校的通用代称，指代该校所属教职工及科研人员群体。截至目前，校方暂未公开本次研究的相关作者信息、该新型微生物的具体分类、发现场景、科研价值及后续应用规划等详细内容。\n\n本次公开属于校方发布的正规科研动态通报，相关后续进展若有可披露信息，校方将按照科研成果公开的相关规定和流程，及时向外界公布相关具体情况。"
+    },
     {
       "title": "尼尔安德将内布拉斯加州州鸟打造为投票自豪感象征",
       "url": "https://news.unl.edu/article/nieland-turns-nebraskas-state-bird-into-symbol-of-voting-pride",
@@ -104,6 +115,6 @@
       "summary_cn": "2026年4月20日，美国内布拉斯加大学林肯分校发布农业研究相关教育新闻，涉及研究人员卡里卡里主导的作物系统研究项目，该项目明确将农民需求列为核心优先考量方向。\n\n本次公开的新闻仅披露项目核心导向信息，暂未公布项目负责人卡里卡里的具体职务、研究团队组成、项目立项背景、实施周期、核心研究内容、关键技术指标、试点安排及预期应用成效等具体细节，新闻撰稿人信息也未同步公开。\n\n截至消息发布时点，内布拉斯加大学林肯分校暂未就该研究项目披露后续信息发布计划，相关具体内容待校方官方渠道后续对外公开后，可进一步梳理完善。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 7
+  "compiled_count": 1,
+  "skipped_count": 9
 }

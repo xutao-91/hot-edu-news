@@ -1,8 +1,8 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-04-22T12:01:30.385276",
-  "total_news": 5,
+  "crawled_at": "2026-04-22T20:01:30.279066",
+  "total_news": 6,
   "news": [
     {
       "title": "In the news: AAE's Dumbacher quoted in New York Times story on recent New Glenn launch (subscription required)",
@@ -21,6 +21,15 @@
       "summary_en": "Congratulations to the Purdue Engineers who recently received patents on their intellectual property from the U.S. Patent and Trademark Office.",
       "source": "Purdue College of Engineering",
       "category": "general"
+    },
+    {
+      "title": "In the news: Full crew announced for historic 'Purdue 1' suborbital space research mission",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0421-Full-crew-announced-for-historic-Purdue-1-suborbital-space-research-mission",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "Purdue University is one small step closer to taking a giant leap into suborbital space - sending an all-Boilermaker crew there next year.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
     },
     {
       "title": "In the news: AAE's Frueh tells TIME about the looming risk of too many satellites and debris in space",

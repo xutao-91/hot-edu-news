@@ -1,15 +1,24 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-04-22T12:00:43.451080",
+  "crawled_at": "2026-04-22T20:00:42.090209",
   "total_news": 10,
   "news": [
     {
-      "title": "The countdown is on: Avoid late fees by paying your parking citations",
-      "url": "https://www.k-state.edu/news/articles/2026/04/how-to-pay-parking-citations.html",
+      "title": "Wildlife on air",
+      "url": "https://www.k-state.edu/news/articles/2026/04/wildlife-on-air.html",
       "date": "2026-04-22",
       "type": "News",
-      "summary_en": "As the semester wraps up, now is the time to pay any outstanding parking citations to avoid additional fees and penalties.",
+      "summary_en": "As they hit the record button in the echo of an office, Kansas State University's Joe Gerken and Drew Ricketts aren’t thinking about podcast charts or followers, but rather they are...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Annette O'Connor named dean of College of Veterinary Medicine",
+      "url": "https://www.k-state.edu/news/articles/2026/04/annette-oconnor-appointed-college-of-vet-med-dean.html",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Following a national search, the Office of the Provost has named Annette O'Connor the next dean of Kansas State University's College of Veterinary Medicine. She brings years of internationally...",
       "source": "K-State News",
       "category": "general"
     },
@@ -41,20 +50,20 @@
       "category": "general"
     },
     {
-      "title": "Wildlife on air",
-      "url": "https://www.k-state.edu/news/articles/2026/04/wildlife-on-air.html",
+      "title": "The countdown is on: Avoid late fees by paying your parking citations",
+      "url": "https://www.k-state.edu/news/articles/2026/04/how-to-pay-parking-citations.html",
       "date": "2026-04-22",
       "type": "News",
-      "summary_en": "As they hit the record button in the echo of an office, Kansas State University's Joe Gerken and Drew Ricketts aren’t thinking about podcast charts or followers, but rather they are...",
+      "summary_en": "As the semester wraps up, now is the time to pay any outstanding parking citations to avoid additional fees and penalties.",
       "source": "K-State News",
       "category": "general"
     },
     {
-      "title": "Annette O'Connor named dean of College of Veterinary Medicine",
-      "url": "https://www.k-state.edu/news/articles/2026/04/annette-oconnor-appointed-college-of-vet-med-dean.html",
+      "title": "Pay for parking on the go with HonkMobile",
+      "url": "https://www.k-state.edu/news/articles/2026/04/honkmobile-app-kstate-parking.html",
       "date": "2026-04-22",
       "type": "News",
-      "summary_en": "Following a national search, the Office of the Provost has named Annette O'Connor the next dean of Kansas State University's College of Veterinary Medicine. She brings years of internationally...",
+      "summary_en": "Pay for parking in the garage and at meters across the Manhattan campus using the HonkMobile app. HonkMobile is replacing ParkMobile. ParkMobile will no longer be available after April...",
       "source": "K-State News",
       "category": "general"
     },
@@ -68,29 +77,20 @@
       "category": "general"
     },
     {
-      "title": "Why should I have a retention schedule?",
-      "url": "https://www.k-state.edu/news/articles/2026/04/retention-schedule-best-practices.html",
-      "date": "2026-04-20",
-      "type": "News",
-      "summary_en": "A document retention schedule outlines which records to keep for how long and when to securely destroy them. It helps reduce clutter, increase efficiency, save money, ensure compliance...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Chris Culbertson appointed dean at University of South Carolina",
-      "url": "https://www.k-state.edu/news/articles/2026/04/chris-culbertson-appointed-dean-university-south-carolina.html",
-      "date": "2026-04-20",
-      "type": "News",
-      "summary_en": "Chris Culbertson, dean of Kansas State University's College of Arts and Sciences, has been named dean of the McCausland College of Arts and Sciences at the University of South Carolina,...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
       "title": "People with Purpose: Jeremy Marshall",
       "url": "https://www.k-state.edu/news/articles/2026/04/jeremy-marshall-weaves-webs-of-community.html",
       "date": "2026-04-20",
       "type": "News",
       "summary_en": "As a mentor and professor of entomology, Jeremy Marshall inspires students to realize and embrace their full potential.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Why should I have a retention schedule?",
+      "url": "https://www.k-state.edu/news/articles/2026/04/retention-schedule-best-practices.html",
+      "date": "2026-04-20",
+      "type": "News",
+      "summary_en": "A document retention schedule outlines which records to keep for how long and when to securely destroy them. It helps reduce clutter, increase efficiency, save money, ensure compliance...",
       "source": "K-State News",
       "category": "general"
     }

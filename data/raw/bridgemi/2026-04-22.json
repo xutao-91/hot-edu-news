@@ -1,7 +1,18 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-04-22T12:00:08.269804",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-22T20:00:10.199665",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Michigan schools get creative, competitive, to curb high absenteeism",
+      "url": "https://bridgemi.com/talent-education/michigan-schools-get-creative-competitive-to-curb-high-absenteeism/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Michigan schools want to boost the number of students regularly showing up for class. Can competitions help boost attendance?",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    }
+  ]
 }

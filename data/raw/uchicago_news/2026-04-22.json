@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-22T12:01:49.974368",
-  "total_news": 8,
+  "crawled_at": "2026-04-22T20:01:51.552280",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Three UChicago scholars elected to American Academy of Arts and Sciences",
+      "url": "https://news.uchicago.edu/story/three-uchicago-scholars-elected-american-academy-arts-and-sciences",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "UChicago team wins funding to develop AI weather forecasts for underserved areas",
       "url": "https://news.uchicago.edu/story/uchicago-team-wins-funding-develop-ai-weather-forecasts-underserved-areas",
@@ -12,6 +21,15 @@
       "summary_en": "Laude Moonshot program awards Data Science Institute and partners seed funding for forecasts to help communities in developing economies",
       "source": "UChicago News",
       "category": "ai"
+    },
+    {
+      "title": "Coming to campus this spring? Check out these exhibitions.",
+      "url": "https://news.uchicago.edu/story/coming-campus-spring-check-out-these-exhibitions",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Animals of ancient Nubia to contemporary Chinese art to Black culture in Chicago, UChicago’s spring lineup is now on display",
+      "source": "UChicago News",
+      "category": "general"
     },
     {
       "title": "At UChicago event, Russian journalist Maria Pevchikh talks Kremlin investigations and Navalny’s legacy",

@@ -1,7 +1,7 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-04-22T12:01:36.276954",
+  "crawled_at": "2026-04-22T20:01:35.298133",
   "total_news": 5,
   "news": [
     {
@@ -60,6 +60,6 @@
       "summary_cn": "2026年4月20日，兰德公司发布题为《人工智能如何侵蚀人类能动性的正式模型》的研究报告。\n\n报告作者依托社会选择理论开展相关研究，构建了用于阐释人工智能侵蚀人类集体能动性作用路径的正式模型。\n\n除前述研究内容外，报告还对决策过程进行建模，核心目标为识别相应临界点，当人类集体能动性受人工智能侵蚀的程度突破该临界点后，相关侵蚀进程将进入不可逆转状态。"
     }
   ],
-  "compiled_count": 4,
-  "skipped_count": 1
+  "compiled_count": 0,
+  "skipped_count": 5
 }

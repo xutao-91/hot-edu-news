@@ -1,9 +1,20 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-22T12:01:49.974368",
-  "total_news": 8,
+  "crawled_at": "2026-04-22T20:01:51.552280",
+  "total_news": 10,
   "news": [
+    {
+      "title": "芝加哥大学3名学者当选美国艺术与科学院院士",
+      "url": "https://news.uchicago.edu/story/three-uchicago-scholars-elected-american-academy-arts-and-sciences",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "Three UChicago scholars elected to American Academy of Arts and Sciences",
+      "summary_cn": "2026年4月22日，美国芝加哥大学官方发布公告，通报该校共有3名学者成功当选美国艺术与科学院院士。\n\n本次当选结果经美国艺术与科学院完成全部遴选程序后正式确认，芝加哥大学作为当选学者所属单位，依规对外发布相关人事荣誉信息，本次当选是相关学者学术贡献获得权威认可的体现。\n\n截至本次公告发布之时，芝加哥大学暂未公开本次3名当选学者的具体姓名、所属院系、研究领域等详细信息，后续相关内容如有更新，将由校方官方渠道按信息公开相关安排对外披露。"
+    },
     {
       "title": "芝加哥大学团队获资助 为服务供给不足地区开发人工智能天气预报服务",
       "url": "https://news.uchicago.edu/story/uchicago-team-wins-funding-develop-ai-weather-forecasts-underserved-areas",
@@ -14,6 +25,17 @@
       "category": "ai",
       "original_title": "UChicago team wins funding to develop AI weather forecasts for underserved areas",
       "summary_cn": "2026年4月22日，美国芝加哥大学发布官方公开信息，通报该校下属科研团队获得专项研发资助，推进人工智能天气预报相关项目落地的有关事项。\n\n本次提供资助的为Laude Moonshot计划，拨付的资金为种子资金性质，受资助主体为芝加哥大学数据科学研究所及其合作参与该项目的伙伴机构。该笔资助将专门用于人工智能技术驱动的天气预报服务研发及落地工作，相关服务的核心覆盖群体为发展中经济体的社区民众。\n\n根据本次发布的信息内容，该项目的核心服务对象为传统天气预报服务供给不足的区域，项目产出的相关气象服务产品将直接用于支持发展中经济体的相关社区，为当地群体提供对应的气象信息服务支持。"
+    },
+    {
+      "title": "芝加哥大学公布2026年春季校园系列展览开放信息",
+      "url": "https://news.uchicago.edu/story/coming-campus-spring-check-out-these-exhibitions",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Animals of ancient Nubia to contemporary Chinese art to Black culture in Chicago, UChicago’s spring lineup is now on display",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "Coming to campus this spring? Check out these exhibitions.",
+      "summary_cn": "2026年4月22日，美国芝加哥大学对外发布2026年春季校园展览相关资讯，面向计划春季入校的访客推介当期已开放的各类展览项目。\n\n本次春季学期展出的展览涵盖多元文化主题，具体展陈内容主要包含三大板块：一是古努比亚地区动物相关主题展览内容，二是当代中国艺术相关作品，三是芝加哥本地黑人文化相关主题内容。\n\n截至资讯发布当日，本次公布的所有春季展览均已正式在校园内开放展出，计划春季前往芝加哥大学校园的人员可自行选择感兴趣的展览前往参观。"
     },
     {
       "title": "俄罗斯记者玛丽亚·佩夫奇赫在芝加哥大学活动上谈及克里姆林宫相关调查与纳瓦尔尼遗产",
@@ -93,6 +115,6 @@
       "summary_cn": "2026年4月20日，美国芝加哥大学发布题为《Could ‘A River Runs Through It’ Have Been a Hit Today?》的相关文章。\n\n该文章目前仅公开披露标题、发布日期及发布主体三类信息，作者信息、内容摘要、正文具体表述均未同步对外公开，文章涉及的核心研究议题、关键观点、支撑数据、研究结论及相关影响等内容暂未可知。\n\n截至公开信息发布节点，无更多与该文章相关的可披露内容，后续若该文章正式公开全文，可依据其实际披露的内容开展对应梳理工作。"
     }
   ],
-  "compiled_count": 1,
-  "skipped_count": 7
+  "compiled_count": 2,
+  "skipped_count": 8
 }

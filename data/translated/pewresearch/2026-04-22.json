@@ -1,7 +1,7 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-04-22T12:01:19.186746",
+  "crawled_at": "2026-04-22T20:01:19.405776",
   "total_news": 3,
   "news": [
     {
@@ -51,6 +51,6 @@
       "summary_cn": "2026年4月20日，美国皮尤研究中心发布题为《美国人主动搜寻或偶然接触的新闻类型》的调查结果。\n\n本次调查聚焦美国成年人主动搜寻新闻及偶然接触新闻的相关情况，披露了对应群体的新闻获取路径占比统计数据。\n\n调查公布的最新统计结果显示，现阶段约49%的美国成年受访者表示，自身日常获取的新闻大多来自偶然接触渠道。\n\n上述占比较2019年同主题调查的统计结果有所上升，2019年选择“大多通过偶然接触获取新闻”的美国成年人占比为39%。"
     }
   ],
-  "compiled_count": 1,
-  "skipped_count": 2
+  "compiled_count": 0,
+  "skipped_count": 3
 }

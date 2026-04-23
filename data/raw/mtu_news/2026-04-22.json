@@ -1,9 +1,18 @@
 {
   "source": "Michigan Technological University News",
   "source_url": "https://www.mtu.edu/news/archives/",
-  "crawled_at": "2026-04-22T12:00:57.877274",
-  "total_news": 1,
+  "crawled_at": "2026-04-22T20:01:00.542751",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Michigan Tech Researchers Develop Sustainable Building Material from Wood Waste",
+      "url": "https://www.mtu.edu/unscripted/2026/04/michigan-tech-researchers-develop-sustainable-building-material-from-wood-waste.html",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "More efficient use of lumber byproducts leads to more sustainable forest management. That's why Michigan Technological University researchers are developing a biomaterial lighter than steel and just as strong, made from leftover wood waste, that could revolutionize the lumber industry.  . . .",
+      "source": "MTU News",
+      "category": "research"
+    },
     {
       "title": "The Closer: Computer Science Grad Takes Every Project to the Finish Line",
       "url": "https://www.mtu.edu/stories/2026/04/the-closer-computer-science-grad-takes-every-project-to-the-finish-line.html",

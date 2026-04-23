@@ -1,12 +1,21 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-04-22T12:02:20.978154",
-  "total_news": 5,
+  "crawled_at": "2026-04-22T20:02:26.226877",
+  "total_news": 6,
   "news": [
     {
       "title": "TechTown names top 10 semifinalists in 2026 Comerica Hatch Detroit Contest",
       "url": "https://economicdevelopment.wayne.edu/news/techtown-names-top-10-semifinalists-in-2026-comerica-hatch-detroit-contest-68893",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Registration open for K-12 summer camps at Wayne State University",
+      "url": "https://today.wayne.edu/news/2026/04/22/registration-open-for-k-12-summer-camps-at-wayne-state-university-68903",
       "date": "2026-04-22",
       "type": "News",
       "summary_en": "",
