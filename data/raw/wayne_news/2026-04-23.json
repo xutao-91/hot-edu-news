@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-04-23T12:02:30.583305",
-  "total_news": 6,
+  "crawled_at": "2026-04-23T13:51:16.126000",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Wayne State students explore AI through Philosophy courses",
+      "url": "https://today.wayne.edu/news/2026/04/23/wayne-state-students-explore-ai-through-philosophy-courses-68919",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
     {
       "title": "TechTown names top 10 semifinalists in 2026 Comerica Hatch Detroit Contest",
       "url": "https://economicdevelopment.wayne.edu/news/techtown-names-top-10-semifinalists-in-2026-comerica-hatch-detroit-contest-68893",

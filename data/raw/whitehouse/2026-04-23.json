@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-23T12:02:31.948021",
+  "crawled_at": "2026-04-23T13:51:17.495254",
   "total_news": 10,
   "news": [
+    {
+      "title": "First Lady Melania Trump Leads Call for Shared Commitment to Transform Lives Nationwide",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
+      "date": "April 23, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Trump Effect: American Manufacturing Is Roaring Back as Factory Activity Hits Four-Year High",
       "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
@@ -63,13 +70,6 @@
     {
       "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity/",
-      "date": "April 20, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Determination Concerning the Air Force’s Jet Fighter Training Operations in Idaho, Oregon, and Nevada",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-concerning-the-air-forces-jet-fighter-training-operations-in-idaho-oregon-and-nevada/",
       "date": "April 20, 2026",
       "category": "Presidential Actions",
       "source": "The White House"

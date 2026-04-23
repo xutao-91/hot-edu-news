@@ -92,13 +92,30 @@ def crawl_edgov():
                     continue
                 
                 if title and link:
+                    # 抓取详情页正文
+                    content = ""
+                    try:
+                        detail_res = requests.get(link, headers=headers, timeout=10)
+                        if detail_res.status_code == 200:
+                            detail_soup = BeautifulSoup(detail_res.text, 'html.parser')
+                            content_elem = detail_soup.find('div', class_='node__content')
+                            if content_elem:
+                                content = content_elem.get_text(strip=True, separator='\n')
+                                # 截断过长内容
+                                if len(content) > 5000:
+                                    content = content[:5000] + "..."
+                    except Exception as e:
+                        print(f"    ⚠️  抓取详情页失败: {str(e)[:50]}...")
+                    
                     articles.append({
                         'title': title,
                         'url': link,
                         'date': date,
                         'type': article_type,
                         'source': 'U.S. Department of Education',
-                        'category': categorize(title)
+                        'category': categorize(title),
+                        'content': content,
+                        'summary_en': ''
                     })
                     print(f"\n  ✅ {title[:60]}...")
                     print(f"     📅 {date} | 📋 {article_type}")
