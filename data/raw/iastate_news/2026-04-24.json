@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-04-24T12:00:29.273635",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Research aims to fill critical gaps in telehealth design",
+      "url": "https://www.news.iastate.edu/news/research-aims-fill-critical-gaps-telehealth-design",
+      "date": "2026-04-24",
+      "type": "Innovation and Research",
+      "summary_en": "Farzane Omidi shares how the use of technology and environmental design impact the quality of care received through telehealth",
+      "source": "Iowa State News",
+      "category": "arts"
+    },
+    {
+      "title": "Helping Iowans adopt innovation",
+      "url": "https://www.news.iastate.edu/news/helping-iowans-adopt-innovation",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Iowa State University Extension and Outreach connects Iowans with opportunities to innovate: youth get hands-on AI education, food entrepreneurs try a mobile processing cart and farmers examine livestock tech in the field.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

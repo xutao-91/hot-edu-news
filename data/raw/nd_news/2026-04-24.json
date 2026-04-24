@@ -1,0 +1,44 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-04-24T12:01:00.960595",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Mary Cunningham Boyce, renowned engineer and scholar, to deliver Graduate School Commencement address",
+      "url": "https://news.nd.edu/news/mary-cunningham-boyce-renowned-engineer-and-scholar-to-deliver-graduate-school-commencement-address/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Sowing seeds of hope: Vatican partnership advances global sustainability",
+      "url": "https://news.nd.edu/news/sowing-seeds-of-hope-vatican-partnership-advances-global-sustainability/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "religion"
+    },
+    {
+      "title": "Division of Student Affairs honors outstanding student leaders",
+      "url": "https://news.nd.edu/news/division-of-student-affairs-honors-outstanding-student-leaders/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "UC San Diego economist Paul Niehaus to receive Notre Dame Award for pioneering global cash aid research",
+      "url": "https://news.nd.edu/news/uc-san-diego-economist-paul-niehaus-to-receive-notre-dame-award-for-pioneering-global-cash-aid-research/",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "global"
+    }
+  ]
+}

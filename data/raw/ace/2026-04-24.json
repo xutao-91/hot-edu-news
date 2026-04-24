@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-04-24T12:00:04.613944",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ED Proposes Accountability Framework with Tight Timeline, Expanded Penalties",
+      "url": "https://www.acenet.edu/News-Room/Pages/ED-Proposes-Accountability-Framework.aspx",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "The Department of Education has released its proposed rule on program-level accountability under the One Big Beautiful Bill Act, advancing a framework that would tie federal student aid eligibility to graduate earnings outcomes.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

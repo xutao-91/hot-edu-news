@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-04-24T12:02:03.574394",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "‘Being part of something bigger than you’ with Badger Volunteers",
+      "url": "https://news.wisc.edu/being-part-of-something-bigger-than-you-with-badger-volunteers/",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison students head into the local community to find purpose and make a difference.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Five UW–Madison professors elected to American Academy of Arts & Sciences",
+      "url": "https://news.wisc.edu/five-uw-madison-professors-elected-to-american-academy-of-arts-sciences/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "The new members, representing a wide range of academic research areas, were selected for accomplishments in their fields.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "The Crazylegs Classic kicks off spring in Madison",
+      "url": "https://news.wisc.edu/the-crazylegs-classic-kicks-off-spring-in-madison/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "Evolving into a major event, the annual run/walk celebrates campus scenery and Badger community.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Three UW–Madison professors earn Guggenheim Fellowships",
+      "url": "https://news.wisc.edu/three-uw-madison-professors-earn-guggenheim-fellowships/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "The prestigious awards recognize their prior career achievements and future promise.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "Faculty Senate sets start of fall 2027 semester for Sept. 2",
+      "url": "https://news.wisc.edu/faculty-senate-sets-start-of-fall-2027-semester-for-sept-2/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The amendment changes dates for finals and the grading deadline but does not change the dates for Thanksgiving recess or Winter 2027 Commencement.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "UW–Madison leadership seeks employee feedback on administrative services",
+      "url": "https://news.wisc.edu/uw-madison-leadership-seeks-employee-feedback-on-administrative-services-2/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The 2026 Administrative Quality Satisfaction Survey invites employees to share confidential feedback on administrative services to help improve campus operations and employee experiences.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Office of the Vice Chancellor for Research announces changes to better support UW–Madison’s research enterprise",
+      "url": "https://news.wisc.edu/office-of-the-vice-chancellor-for-research-announces-changes-to-better-support-uw-madisons-research-enterprise/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "Following extensive consultation, OVCR is looking to better align research priorities across campus, support university research and creative expression and offer improved services.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}

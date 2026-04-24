@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-04-24T12:01:32.965132",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Saint Louis University Receives Grant to Fund Ignatian Colleagues Network",
+      "url": "https://www.slu.edu/news/2026/april/ignatian-colleagues-network.php",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Saint Louis University has received a $100,000 grant to support an ongoing formation program. The Ignatian Colleagues Network will build on the Ignatian Colleagues Program (ICP) launched in 2023 and provide a next step for those who have completed the intensive two-year mission formation program.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU/YouGov Poll: Missouri Voters Express Confidence in 2026 Election Administration",
+      "url": "https://www.slu.edu/news/2026/april/slu-poll-election-administration.php",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "The SLU/YouGov Poll, in a survey of 900 likely Missouri voters, finds that voters are relatively confident in Missouri election administration heading into the November election, even as voters divide sharply along party lines over election policies.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

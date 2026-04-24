@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-24T12:01:35.872001",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Bernard Roizman, pioneering University of Chicago virologist, 1929–2026",
+      "url": "https://news.uchicago.edu/story/bernard-roizman-pioneering-university-chicago-virologist-1929-2026",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Roizman reshaped the field of virology through his work on the herpes simplex virus, laying the groundwork for efforts to develop vaccines and other therapies.",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How do AI 'judges' compare to human ones? It's complicated, says a UChicago scholar",
+      "url": "https://news.uchicago.edu/story/how-do-ai-judges-compare-human-ones-its-complicated-says-uchicago-scholar",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "In annual Ryerson Lecture, Prof. Eric Posner examines AI's growing role in legal decision-making—and why human judgment still matters",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Three UChicago scholars elected to American Academy of Arts and Sciences",
+      "url": "https://news.uchicago.edu/story/three-uchicago-scholars-elected-american-academy-arts-and-sciences",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago team wins funding to develop AI weather forecasts for underserved areas",
+      "url": "https://news.uchicago.edu/story/uchicago-team-wins-funding-develop-ai-weather-forecasts-underserved-areas",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Laude Moonshot program awards Data Science Institute and partners seed funding for forecasts to help communities in developing economies",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Coming to campus this spring? Check out these exhibitions.",
+      "url": "https://news.uchicago.edu/story/coming-campus-spring-check-out-these-exhibitions",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "Animals of ancient Nubia to contemporary Chinese art to Black culture in Chicago, UChicago’s spring lineup is now on display",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "At UChicago event, Russian journalist Maria Pevchikh talks Kremlin investigations and Navalny’s legacy",
+      "url": "https://news.uchicago.edu/story/uchicago-event-russian-journalist-maria-pevchikh-talks-kremlin-investigations-and-navalnys",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "The reporter stressed the importance of independent media and government accountability at a discussion hosted by the Chicago Forum and partners",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Alison LaCroix named speaker for UChicago’s 2026 Convocation ceremony",
+      "url": "https://news.uchicago.edu/story/alison-lacroix-named-speaker-uchicagos-2026-convocation-ceremony",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "Renowned legal historian to address graduates at June 6 celebration on Main Quadrangles",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison College of Engineering",
+  "source_url": "https://engineering.wisc.edu/news/",
+  "crawled_at": "2026-04-24T12:01:59.888478",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Coulson will use CAREER award to reinvent how machines learn to control",
+      "url": "https://engineering.wisc.edu/news/coulson-will-use-career-award-to-reinvent-how-machines-learn-to-control/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "Next-generation technologies—including self-driving vehicles, intelligent robots, personalized healthcare devices, and smart infrastructure—are already reshaping industries and becoming increasingly woven into daily life. But to be successful, these advances, and many others, need safe, reliable and…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Focus on new faculty: Adam Dempsey develops heavy-duty engine technologies to enhance sustainability",
+      "url": "https://engineering.wisc.edu/news/focus-on-new-faculty-adam-dempsey-develops-heavy-duty-engine-technologies-to-enhance-sustainability/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "As a new associate professor in the UW-Madison Department of Mechanical Engineering, Adam Dempsey is excited to return to his alma mater and the department where he earned his PhD 13 years ago.  “I’m actually…",
+      "source": "UW-Madison College of Engineering",
+      "category": "technology"
+    },
+    {
+      "title": "Morgridges’ latest gift drives UW-Madison engineering building forward",
+      "url": "https://engineering.wisc.edu/news/morgridges-latest-gift-drives-uw-madison-engineering-building-forward/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "As work steadily continues on the physical foundations of the Phillip A. Levy Engineering Center at the University of Wisconsin-Madison, a $25 million gift from two of the university’s most devoted supporters, alumni John and…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    }
+  ]
+}

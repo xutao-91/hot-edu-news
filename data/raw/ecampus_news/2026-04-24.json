@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-04-24T12:00:14.375484",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The pedagogy gap: Redefining the role of faculty and AI in higher education",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/24/the-pedagogy-gap-redefining-the-role-of-faculty-and-ai-in-higher-education/",
+      "date": "2026-04-24",
+      "type": "AI in Education",
+      "summary_en": "AI’s rapid integration into the higher-education landscape has prompted a period of profound structural reassessment. For decades, new technology adoption in education has often been driven by a “technology for technology’s sake” mentality–a pursuit of digital innovation that typically prioritizes the novelty of the tool over the efficacy of the intended outcome.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Higher education’s AI denial is not academic integrity–it’s institutional negligence",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/22/higher-educations-ai-denial-is-not-academic-integrity-its-institutional-negligence/",
+      "date": "2026-04-22",
+      "type": "AI in Education",
+      "summary_en": "Higher education is having a familiar conversation in an unfamiliar moment. We are debating whether students “should” use AI, whether it is “ethical,” whether it is “cheating,” whether we can “ban” it, whether we can “detect” it, whether it will “go away.” This is what happens when an institution confuses discomfort with principle.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

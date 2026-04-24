@@ -1,0 +1,35 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-04-24T12:01:06.379104",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Northwestern’s campus read is back",
+      "url": "https://news.northwestern.edu/stories/2026/4/campus-reading-program-announced",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Two Northwestern faculty elected to the American Academy of Arts and Sciences",
+      "url": "https://news.northwestern.edu/stories/2026/4/two-northwestern-faculty-elected-to-the-american-academy-of-arts-and-sciences",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Newly admitted students try on Northwestern during Wildcat Days",
+      "url": "https://news.northwestern.edu/stories/2026/4/newly-admitted-students-try-on-northwestern-during-wildcat-days",
+      "date": "2026-04-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "students"
+    }
+  ]
+}
