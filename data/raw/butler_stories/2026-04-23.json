@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-04-23T13:49:05.792175",
-  "total_news": 3,
+  "crawled_at": "2026-04-23T20:00:16.288240",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Butler Pharmacy Program Ranks No. 3 Among Private Institutions",
+      "url": "https://stories.butler.edu/butler-pharmacy-program-ranks-no-3-among-private-institutions/",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Butler University’s Doctor of Pharmacy (PharmD) program continues to gain national recognition, now ranking among the top private programs in the country while maintaining a strong national standing.  In the latest rankings released by U.S. News & World Report, Butler’s Pharmacy program is ranked No. 3 nationally among private colleges and universities and No. 38 overall out of more than…",
+      "author": "Mark Apple",
+      "source": "Butler Stories",
+      "category": "general"
+    },
     {
       "title": "Butler Moves Closer to Zero Waste with National Plastics Reduction Recognition",
       "url": "https://stories.butler.edu/butler-moves-closer-to-zero-waste-with-national-plastics-reduction-recognition/",

@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-04-23T13:51:05.793738",
-  "total_news": 9,
+  "crawled_at": "2026-04-23T20:02:36.113043",
+  "total_news": 10,
   "news": [
+    {
+      "title": "School of Education’s Michael Apple named to American Academy of Arts & Sciences",
+      "url": "https://education.wisc.edu/news/school-of-educations-michael-apple-named-to-american-academy-of-arts-sciences/",
+      "date": "April 23, 2026",
+      "type": "News",
+      "summary_en": "A professor emeritus in the School of Education was elected this week to the American Academy of Arts & Sciences, a national honorary society and research center.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
+    {
+      "title": "Karumbaiah brings research on AI in education to New York",
+      "url": "https://education.wisc.edu/news/karumbaiah-brings-research-on-ai-in-education-to-new-york/",
+      "date": "April 23, 2026",
+      "type": "News",
+      "summary_en": "School of Education faculty member Shamya Karumbaiah will share her research on artificial intelligence in education at the Wisconsin Alumni Association’s UW Now event in New York City on Tuesday, April 28.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
     {
       "title": "Researchers at UW–Madison receive major grant to study the link between mental health and the microbiome",
       "url": "https://education.wisc.edu/news/researchers-at-uw-madison-receive-major-grant-to-study-the-link-between-mental-health-and-the-microbiome/",
@@ -75,15 +93,6 @@
       "summary_en": "Xueli Wang was one of just six faculty members campus-wide to be chosen for the The Graduate School’s inaugural Faculty Award for Excellence in Graduate Student Mentoring.",
       "source": "UW-Madison School of Education",
       "category": "teacher_education"
-    },
-    {
-      "title": "Building research leaders: A new model for empowering undergraduates to strengthen research teams",
-      "url": "https://education.wisc.edu/news/building-research-leaders-a-new-model-for-empowering-undergraduates-to-strengthen-research-teams/",
-      "date": "April 20, 2026",
-      "type": "News",
-      "summary_en": "At the Center for Research on Complex Thinking (CRCT) in UW–Madison's School of Education, undergraduates routinely perform at a graduate-student level and help train faculty and researchers from around the world.",
-      "source": "UW-Madison School of Education",
-      "category": "research"
     }
   ]
 }

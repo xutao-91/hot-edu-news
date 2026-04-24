@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-23T13:51:17.495254",
+  "crawled_at": "2026-04-23T20:02:47.236330",
   "total_news": 10,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Announces Deal with Regeneron to Bring Most-Favored-Nation Pricing to American Patients",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
+      "date": "April 23, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
     {
       "title": "First Lady Melania Trump Leads Call for Shared Commitment to Transform Lives Nationwide",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
@@ -63,13 +70,6 @@
     {
       "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Coal Supply Chains and Baseload Power Generation Capacity",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-coal-supply-chains-and-baseload-power-generation-capacity/",
-      "date": "April 20, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Determination Pursuant to Section 303 of the Defense Production Act of 1950, as Amended, on Domestic Petroleum Production, Refining, and Logistics Capacity",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-determination-pursuant-to-section-303-of-the-defense-production-act-of-1950-as-amended-on-domestic-petroleum-production-refining-and-logistics-capacity/",
       "date": "April 20, 2026",
       "category": "Presidential Actions",
       "source": "The White House"

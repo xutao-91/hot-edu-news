@@ -1,7 +1,7 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-04-23T13:51:14.700954",
+  "crawled_at": "2026-04-23T20:02:44.308756",
   "total_news": 4,
   "news": [
     {
@@ -18,7 +18,7 @@
       "url": "https://source.washu.edu/2026/04/2026-olin-award-recognizes-continued-excellence-in-ai-research/",
       "date": "2026-04-23",
       "type": "Marketing",
-      "summary_en": "This year’s Olin Award winner is Xiang Hu, who studied how an artificial intelligence (AI) tool can improve outcomes in the real estate market for buyers and sellers. It’s one of many AI-focused research projects making an impact at Olin.",
+      "summary_en": "This year’s Olin Award winner is Xiang Hui, who studied how an artificial intelligence (AI) tool can improve outcomes in the real estate market for buyers and sellers. It’s one of many AI-focused research projects making an impact at Olin.",
       "source": "WashU Source",
       "category": "academic"
     },

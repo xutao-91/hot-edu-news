@@ -1,9 +1,19 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-04-23T13:49:11.672607",
-  "total_news": 5,
+  "crawled_at": "2026-04-23T20:00:24.957540",
+  "total_news": 6,
   "news": [
+    {
+      "title": "U.S. Department of Education Initiates Title VI Investigation into NYC Department of Education for Alleged Antisemitic Discrimination",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-title-vi-investigation-nyc-department-of-education-alleged-antisemitic-discrimination",
+      "date": "April 23, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "civil_rights",
+      "content": "April 23, 2026\nToday, the U.S. Department of Education’s Office for Civil Rights (OCR) opened an investigation into the New York City Department of Education (NYCDOE) to determine whether NYCDOE violated Title VI of the Civil Rights Act of 1964 (Title VI) by discriminating against Jewish students.\nMany reports received by OCR indicate that a group of NYCDOE employees organized a series of teaching seminars focused on “Palestine, Zionism, and Resistance.” The so-called “NYC Educators for Palestine” allegedly teach children as young as five about “contemporary and historical Palestinian resistance,” that Zionists are “genocidal white supremacists,” and to support the federally designated terrorist organization Hamas and its “martyrs” (i.e. dead terrorists). Complaints received by OCR allege that these actions in NYCDOE teach and sow hostility and hatred towards Jewish students, potentially creating a hostile environment.\n“No child should be taught by his or her teachers to hate their peers. Neither should Jewish children be taught that being Jewish somehow makes them inherently guilty or proponents of hate and violence,”\nsaid Assistant Secretary for Civil Rights Kimberly Richey.\n“Discrimination has no place in our schools, and, unlike the previous Administration, the Trump Administration will not turn a blind eye to antisemitic harassment. OCR will investigate these appalling allegations to ensure the equal treatment of all students.”\nBackground\nOn January 29, 2025, President Trump signed an Executive Order titled\nAdditional Measures to Combat Anti-Semitism,\nstating that it is “the policy of the United States to combat anti-Semitism vigorously, using all available and appropriate legal tools.”\nTitle VI and its implementing regulations prohibit discrimination on the basis of race, color, and national origin in educational programs and activities receiving federal financial assistance.\nContact\nPress Office\n(202) 401-1576\npress@ed.gov\nTags\nCivil Rights\nTitle VI",
+      "summary_en": ""
+    },
     {
       "title": "U.S. Department of Education Assistant Secretary for Postsecondary Education Dr. David Barker Highlights Civics Education at “History Rocks!” Event in Washington",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-assistant-secretary-postsecondary-education-dr-david-barker-highlights-civics-education-history-rocks-event-washington",
