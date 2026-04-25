@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-24T12:01:52.066376",
-  "total_news": 18,
+  "crawled_at": "2026-04-24T20:02:17.807584",
+  "total_news": 19,
   "news": [
+    {
+      "title": "Morrill Hall renovation will include major updates to Elephant Hall",
+      "url": "https://news.unl.edu/article/morrill-hall-renovation-will-include-major-updates-to-elephant-hall",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Concert to alter building access on City Campus",
       "url": "https://news.unl.edu/article/concert-to-alter-building-access-on-city-campus",

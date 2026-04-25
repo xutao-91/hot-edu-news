@@ -1,17 +1,17 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-04-24T12:00:39.312497",
+  "crawled_at": "2026-04-24T20:00:45.494773",
   "total_news": 10,
   "news": [
     {
-      "title": "Building community from day one",
-      "url": "https://www.k-state.edu/news/articles/2026/04/cultivating-exceptional-first-year-student-experience.html",
+      "title": "A look back at Open House through pictures",
+      "url": "https://www.k-state.edu/news/articles/2026/04/open-house-2026-gallery.html",
       "date": "2026-04-24",
       "type": "News",
-      "summary_en": "K-State's first-year experience sets the stage for students' university careers. Innovative partnerships are the catalysts behind the Better Together Initiative and the Boyd Hall Honors...",
+      "summary_en": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on...",
       "source": "K-State News",
-      "category": "community"
+      "category": "general"
     },
     {
       "title": "The go-to hub for K-State students",
@@ -23,13 +23,22 @@
       "category": "students"
     },
     {
-      "title": "A look back at Open House through pictures",
-      "url": "https://www.k-state.edu/news/articles/2026/04/open-house-2026-gallery.html",
+      "title": "Building community from day one",
+      "url": "https://www.k-state.edu/news/articles/2026/04/cultivating-exceptional-first-year-student-experience.html",
       "date": "2026-04-24",
       "type": "News",
-      "summary_en": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on...",
+      "summary_en": "K-State's first-year experience sets the stage for students' university careers. Innovative partnerships are the catalysts behind the Better Together Initiative and the Boyd Hall Honors...",
       "source": "K-State News",
-      "category": "general"
+      "category": "community"
+    },
+    {
+      "title": "K-State Graduate School gives students top-notch experience in nationally ranked programs",
+      "url": "https://www.k-state.edu/news/articles/2026/04/best-graduate-schools-rankings.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "For more than 150 years, the Graduate School has been preparing master's and doctoral students to be next-generation leaders. Its tradition of excellence continues with new national...",
+      "source": "K-State News",
+      "category": "students"
     },
     {
       "title": "Turning K-State research into real-world solutions",
@@ -82,15 +91,6 @@
       "date": "2026-04-22",
       "type": "News",
       "summary_en": "",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Immersive economic development",
-      "url": "https://www.k-state.edu/news/articles/2026/04/connecting-entrepreneurial-communities-conference-nancy-daniels.html",
-      "date": "2026-04-22",
-      "type": "News",
-      "summary_en": "As part of One K-State Research Week, the Connecting Entrepreneurial Communities conference — led by Nancy Daniels, K-State Extension community vitality specialist and conference...",
       "source": "K-State News",
       "category": "general"
     }

@@ -1,9 +1,18 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-04-24T12:01:48.061060",
-  "total_news": 2,
+  "crawled_at": "2026-04-24T20:02:13.751629",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Redesigning metals at the atomic level to boost future technology",
+      "url": "https://cse.umn.edu/college/news/redesigning-metals-atomic-level-boost-future-technology",
+      "date": "2026-04-24",
+      "type": "Nanotechnology",
+      "summary_en": "Researchers in the University of Minnesota Twin Cities have discovered a powerful new way to control the electronic behavior of a metal—by manipulating the atomic properties of materials where they meet.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
     {
       "title": "Two CSE faculty elected to the American Academy of Arts and Sciences",
       "url": "https://cse.umn.edu/college/news/two-cse-faculty-elected-american-academy-arts-and-sciences-0",

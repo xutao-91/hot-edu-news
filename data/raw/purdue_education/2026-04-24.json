@@ -1,7 +1,26 @@
 {
   "source": "Purdue University College of Education",
   "source_url": "https://education.purdue.edu/news/",
-  "crawled_at": "2026-04-24T12:01:18.618239",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-24T20:01:30.886296",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "100+ rural educators attend 5th Annual Rural Education Summit",
+      "url": "https://education.purdue.edu/news/2026/04/24/100-rural-educators-attend-5th-annual-rural-education-summit/",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "More than 124 educators, administrators, and policy leaders convened on April 17 at Made@Plainfield for the fifth annual Rural Education Summit, a daylong convening co-sponsored by the Purdue Center for Rural Research, Education, and Outreach and the Indiana Small and…",
+      "source": "Purdue College of Education",
+      "category": "education"
+    },
+    {
+      "title": "9 College of Education faculty promoted by trustees",
+      "url": "https://education.purdue.edu/news/2026/04/21/9-college-of-education-faculty-promoted-by-trustees/",
+      "date": "April 21, 2026",
+      "type": "News",
+      "summary_en": "The Purdue University Board of Trustees on Friday (April 10) approved faculty promotions, including those of nine College of Education faculty members. The following promotions are effective with the 2026-27 academic year. COLLEGE OF EDUCATION To Associate Professor Rebekah Hammack To Full Professor…",
+      "source": "Purdue College of Education",
+      "category": "education"
+    }
+  ]
 }

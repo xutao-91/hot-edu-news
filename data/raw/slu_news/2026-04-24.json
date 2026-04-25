@@ -1,9 +1,18 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-04-24T12:01:32.965132",
-  "total_news": 2,
+  "crawled_at": "2026-04-24T20:01:58.587325",
+  "total_news": 3,
   "news": [
+    {
+      "title": "SLU student wins soloist award at ICCA regional competition",
+      "url": "https://www.slu.edu/news/2026/april/srija-boddu-vocalist-award.php",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "SLU News",
+      "category": "students"
+    },
     {
       "title": "Saint Louis University Receives Grant to Fund Ignatian Colleagues Network",
       "url": "https://www.slu.edu/news/2026/april/ignatian-colleagues-network.php",

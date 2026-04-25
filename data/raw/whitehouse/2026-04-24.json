@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-24T12:02:10.517833",
-  "total_news": 7,
+  "crawled_at": "2026-04-24T20:02:36.844352",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Presidential Message on Arbor Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
+      "date": "April 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on Armenian Remembrance Day",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",

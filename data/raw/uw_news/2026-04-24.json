@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-24T12:02:03.574394",
-  "total_news": 7,
+  "crawled_at": "2026-04-24T20:02:29.614731",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Now a Truman Scholar, UW junior Miranda Garcia-Dove’s dedication to public service is driven by curiosity and kindness",
+      "url": "https://news.wisc.edu/now-a-truman-scholar-uw-junior-miranda-garcia-doves-dedication-to-public-service-is-driven-by-curiosity-and-kindness/",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "One of the top academic awards for undergraduate students, Truman Scholarships support the next generation of leaders",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "‘Being part of something bigger than you’ with Badger Volunteers",
       "url": "https://news.wisc.edu/being-part-of-something-bigger-than-you-with-badger-volunteers/",
