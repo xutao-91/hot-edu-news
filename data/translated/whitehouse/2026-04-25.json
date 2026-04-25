@@ -1,9 +1,18 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-25T10:41:25.583279",
-  "total_news": 6,
+  "crawled_at": "2026-04-25T12:02:20.629385",
+  "total_news": 7,
   "news": [
+    {
+      "title": "美国总统唐纳德·J·特朗普与第一夫人梅拉尼娅·特朗普将迎候大不列颠及北爱尔兰联合王国国王查尔斯三世陛下及王后卡米拉陛下对美进行国事访问",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/president-donald-j-trump-and-first-lady-melania-trump-to-welcome-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla-for-a-state/",
+      "date": "April 25, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "President Donald J. Trump and First Lady Melania Trump to Welcome His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla for a State Visit",
+      "summary_cn": "2026年4月25日，美国白宫对外发布官方外事消息，宣布美国总统唐纳德·J·特朗普及第一夫人梅拉尼娅·特朗普将作为东道主，接待大不列颠及北爱尔兰联合王国国王查尔斯三世陛下、王后卡米拉陛下对美国开展的国事访问。\n\n本次访问属于美国官方认定的国事访问层级外事活动，由美国总统夫妇全程牵头负责迎候及相关接待事宜，是美英两国之间的重要高层官方交往安排。\n\n该消息由美国白宫作为官方权威渠道对外发布，所有公开内容均严格遵循美国外事公务信息发布规范，相关接待工作将按照两国商定的外事礼宾标准推进实施。"
+    },
     {
       "title": "白宫发布总统植树节致辞",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
@@ -59,6 +68,6 @@
       "summary_cn": "2026年4月22日，美国白宫对外发布涉本国制造业发展的相关新闻内容。\n\n本次发布的新闻核心围绕美国制造业当前发展态势展开表述，明确将相关发展成果与“特朗普效应”相关表述进行关联，突出本国制造业领域的发展成效。\n\n根据本次新闻披露的核心指标信息，当前美国制造业正呈现强劲回升的发展势头，全行业工厂活动水平已创下近四年来的最高记录，相关指标直接印证美国制造业的向好运行状态。\n\n截至本次新闻正式对外发布时，发布方白宫暂未就上述内容披露更多细节信息，包括相关指标的具体统计口径、细分行业运行数据、后续配套支持政策等内容均未作出进一步说明，相关具体情况及后续动向有待后续官方披露。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 1,
   "skipped_count": 6
 }

@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-25T10:41:25.583279",
-  "total_news": 6,
+  "crawled_at": "2026-04-25T12:02:20.629385",
+  "total_news": 7,
   "news": [
+    {
+      "title": "President Donald J. Trump and First Lady Melania Trump to Welcome His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla for a State Visit",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/president-donald-j-trump-and-first-lady-melania-trump-to-welcome-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla-for-a-state/",
+      "date": "April 25, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on Arbor Day",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
