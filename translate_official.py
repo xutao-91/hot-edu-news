@@ -121,10 +121,6 @@ def compile_article(article, source_info):
     # 内容长度校验，不足100字说明没有正文，跳过编译
     if len(full_text.strip()) < 100:
         print(f"    ⚠️  原文内容过短（仅{len(full_text.strip())}字），无有效正文，跳过编译")
-        return None
-
-    prompt = f"""请按照以下要求，将以下英文教育新闻编译为中文摘要：""
-    
     prompt = f"""请按照以下要求，将以下英文教育新闻编译为中文摘要：
 
 【原文】

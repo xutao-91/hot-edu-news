@@ -1,0 +1,17 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-04-25T10:40:55.302815",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Regents approve 2026–27 tuition increase for UI students",
+      "url": "/news/2026/04/regents-approve-2026-27-tuition-increase-ui-students",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "The Iowa Board of Regents has approved a tuition increase for University of Iowa students to address inflationary costs and maintain a high quality of education for Iowa students.",
+      "source": "UIowa Now",
+      "category": "students"
+    }
+  ]
+}

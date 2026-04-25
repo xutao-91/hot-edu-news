@@ -1,0 +1,50 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-04-25T10:41:25.583279",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Presidential Message on Arbor Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-arbor-day/",
+      "date": "April 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Armenian Remembrance Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-armenian-remembrance-day/",
+      "date": "April 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Unveils New Beehive on South Lawn",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-unveils-new-beehive-on-south-lawn/",
+      "date": "April 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Announces Deal with Regeneron to Bring Most-Favored-Nation Pricing to American Patients",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/04/fact-sheet-president-donald-j-trump-announces-deal-with-regeneron-to-bring-most-favored-nation-pricing-to-american-patients/",
+      "date": "April 23, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Leads Call for Shared Commitment to Transform Lives Nationwide",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/auto-draft/",
+      "date": "April 23, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Trump Effect: American Manufacturing Is Roaring Back as Factory Activity Hits Four-Year High",
+      "url": "https://www.whitehouse.gov/releases/2026/04/trump-effect-american-manufacturing-is-roaring-back-as-factory-activity-hits-four-year-high/",
+      "date": "April 22, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

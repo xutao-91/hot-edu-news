@@ -1,0 +1,35 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-04-25T10:41:05.101575",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Redesigning metals at the atomic level to boost future technology",
+      "url": "https://cse.umn.edu/college/news/redesigning-metals-atomic-level-boost-future-technology",
+      "date": "2026-04-24",
+      "type": "Nanotechnology",
+      "summary_en": "Researchers in the University of Minnesota Twin Cities have discovered a powerful new way to control the electronic behavior of a metal—by manipulating the atomic properties of materials where they meet.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "Two CSE faculty elected to the American Academy of Arts and Sciences",
+      "url": "https://cse.umn.edu/college/news/two-cse-faculty-elected-american-academy-arts-and-sciences-0",
+      "date": "2026-04-23",
+      "type": "Awards-Grants",
+      "summary_en": "The American Academy of Arts and Sciences has elected University of Minnesota Twin Cities College of Science and Engineering Dean Andrew G. Alleyne and Professor Marc Hillmyer as members, recognizing their significant contributions to engineering, research and academic leadership.",
+      "source": "UMN CSE",
+      "category": "awards"
+    },
+    {
+      "title": "Biomedical engineering student competes in Final Four for Gopher gymnastics team",
+      "url": "https://cse.umn.edu/college/news/biomedical-engineering-student-competes-final-four-gopher-gymnastics-team",
+      "date": "2026-04-23",
+      "type": "People-Profiles",
+      "summary_en": "Biomedical engineering student Leah Gonsiorowski has dreamed of competing in the Final Four at the NCAA tournament — and that dream turned into a reality this past weekend.",
+      "source": "UMN CSE",
+      "category": "students"
+    }
+  ]
+}

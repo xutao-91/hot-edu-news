@@ -1,0 +1,53 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-04-25T10:41:19.793643",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Now a Truman Scholar, UW junior Miranda Garcia-Dove’s dedication to public service is driven by curiosity and kindness",
+      "url": "https://news.wisc.edu/now-a-truman-scholar-uw-junior-miranda-garcia-doves-dedication-to-public-service-is-driven-by-curiosity-and-kindness/",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "One of the top academic awards for undergraduate students, Truman Scholarships support the next generation of leaders",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "‘Being part of something bigger than you’ with Badger Volunteers",
+      "url": "https://news.wisc.edu/being-part-of-something-bigger-than-you-with-badger-volunteers/",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison students head into the local community to find purpose and make a difference.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Five UW–Madison professors elected to American Academy of Arts & Sciences",
+      "url": "https://news.wisc.edu/five-uw-madison-professors-elected-to-american-academy-of-arts-sciences/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "The new members, representing a wide range of academic research areas, were selected for accomplishments in their fields.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "The Crazylegs Classic kicks off spring in Madison",
+      "url": "https://news.wisc.edu/the-crazylegs-classic-kicks-off-spring-in-madison/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "Evolving into a major event, the annual run/walk celebrates campus scenery and Badger community.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Three UW–Madison professors earn Guggenheim Fellowships",
+      "url": "https://news.wisc.edu/three-uw-madison-professors-earn-guggenheim-fellowships/",
+      "date": "April 22, 2026",
+      "type": "News",
+      "summary_en": "The prestigious awards recognize their prior career achievements and future promise.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    }
+  ]
+}

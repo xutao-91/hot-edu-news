@@ -1,0 +1,80 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-04-25T10:40:44.130913",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Investing in the next generation of storytelling",
+      "url": "https://showme.missouri.edu/2026/investing-in-the-next-generation-of-storytelling/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "How the McKenzie family’s philanthropy is shaping future journalists at Mizzou",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Thompson Center for Autism and Neurodevelopment at University of Missouri to hold grand opening; Mayor of Columbia to proclaim 'Autism Friendly City'",
+      "url": "https://showme.missouri.edu/2026/thompson-center-for-autism-and-neurodevelopment-at-university-of-missouri-to-hold-grand-opening-mayor-of-columbia-to-proclaim-autism-friendly-city/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou construction projects move forward this summer",
+      "url": "https://showme.missouri.edu/2026/mizzou-construction-projects-move-forward-this-summer/",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Projects include the new Energy Innovation Center, Radioisotope Science Center; Jesse Hall improvements and Memorial Stadium Centennial Project completion.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "How rising diesel prices affect crop production costs",
+      "url": "https://showme.missouri.edu/2026/how-rising-diesel-prices-affect-crop-production-costs/",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Zafonte elected to Association of American Physicians",
+      "url": "https://showme.missouri.edu/2026/zafonte-elected-to-association-of-american-physicians/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "At Mizzou’s influenza center, researchers are developing better flu treatments",
+      "url": "https://showme.missouri.edu/2026/at-mizzous-influenza-center-researchers-are-developing-better-flu-treatments/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "The NextGen Center for Influenza and Emerging Infectious Diseases is expanding to advance studies on how the virus spreads — and how to stop it.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Unlocking a sustainable way to edit chicken genes",
+      "url": "https://showme.missouri.edu/2026/unlocking-a-sustainable-way-to-edit-chicken-genes/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "A Mizzou researcher is working to create chickens that hatch useful medical proteins.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "John Dodam inducted into MVMF honor roll",
+      "url": "https://showme.missouri.edu/2026/john-dodam-inducted-into-mvmf-honor-roll/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

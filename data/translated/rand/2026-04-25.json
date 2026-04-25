@@ -1,0 +1,54 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-25T10:40:36.013104",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "《学校改进网络倡议评估：网络中心如何开发并支持持续改进网络》最终报告",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4409-1.html",
+      "date": "Apr 22, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors examine how intermediary organizations developed and supported 25 networks of schools using continuous improvement approaches to improve educational outcomes for students who are Black, Latino, or experiencing poverty.",
+      "source": "Rand Corporation",
+      "category": "students",
+      "original_title": "Evaluation of the Networks for School Improvement Initiative—How Network Hubs Develop and Support Continuous Improvement Networks: Final Report",
+      "summary_cn": "2026年4月22日，美国兰德公司正式发布《学校改进网络倡议评估：网络中心如何开发并支持持续改进网络》最终报告。\n\n本次报告核心研究对象为参与学校改进网络倡议的中介组织，重点考察该类机构开发、运营及支持学校网络的具体工作路径。\n\n本次研究共覆盖25个由中介组织搭建的学校网络，核心考察维度为持续改进方法在上述办学网络中的落地应用模式。\n\n报告明确，本次研究的核心目标是通过梳理学校网络的建设支持经验，优化相关工作方法，最终提升黑人学生、拉丁裔学生以及处于贫困状态学生的教育成果。"
+    },
+    {
+      "title": "《学校改进网络举措评估：网络枢纽发展及支持持续改进网络的数据来源与研究方法》",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4409-2.html",
+      "date": "Apr 22, 2026",
+      "type": "Research",
+      "summary_en": "The authors review the data and methods used to examine how intermediaries developed and supported 25 school networks using continuous improvement approaches to improve educational outcomes for students who are Black, Latino, or experiencing poverty.",
+      "source": "Rand Corporation",
+      "category": "students",
+      "original_title": "Evaluation of the Networks for School Improvement Initiative—How Network Hubs Develop and Support Continuous Improvement Networks: Data Sources and Methodology",
+      "summary_cn": "2026年4月22日，兰德公司发布教育领域专项研究报告，报告聚焦学校改进网络举措评估相关工作的数据来源与研究方法设计，内容严谨客观，严格遵循教育研究相关规范。\n\n本次研究中，研究人员系统梳理、检视了本次评估工作采用的全部数据与研究路径，所有研究内容均严格围绕预设的评估主题展开，未引入设计框架外的无关信息。\n\n本次评估的核心考察对象为25个采用持续改进工作模式的学校网络，重点研究中介机构开发、支持上述学校网络的具体路径，评估的核心指向为相关工作模式对改善黑人学生、拉丁裔学生及处于贫困状态学生教育成果的作用，所有研究结论将完全基于采集到的实证数据得出。"
+    },
+    {
+      "title": "学校改进网络评估：成效、实施情况及基于网络的持续改进经验",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4409-1.html",
+      "date": "Apr 22, 2026",
+      "type": "Research Summary",
+      "summary_en": "This brief summarizes the results of a network-based continuous improvement initiative to increase the proportion of students who are Black, Latino, or experiencing poverty and are on track for high school graduation and college enrollment.",
+      "source": "Rand Corporation",
+      "category": "students",
+      "original_title": "Evaluation of Networks for School Improvement: Impacts, Implementation, and Lessons for Network-Based Continuous Improvement",
+      "summary_cn": "2026年4月22日，美国兰德公司发布教育领域研究简报。\n\n本次发布的简报核心内容为梳理总结一项基于网络的教育持续改进举措的实施结果，研究聚焦教育领域薄弱群体支持相关的改进工作开展内容梳理。\n\n前述基于网络的教育持续改进举措，其实施目标为提升黑人学生、拉丁裔学生以及贫困家庭学生中，处于高中毕业及大学入学正轨的群体占比，相关研究成果围绕该举措的实际落地效果、执行情况及可借鉴经验三个维度展开呈现。"
+    },
+    {
+      "title": "兰德公司研究显示自动评分器越简单效果越好 可实现开放式任务大模型高成本效益评估",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4618-1.html",
+      "date": "Apr 22, 2026",
+      "type": "Research",
+      "summary_en": "A simple rubric-based autograder outperformed more-complex large language model grading methods across benchmarks, often matching or beating nonexpert human graders while cutting down evaluation time and cost.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "Simpler Is Better for Autograders: Toward Cost-Effective LLM Evaluations for Open-Ended Tasks",
+      "summary_cn": "2026年4月22日，美国兰德公司发布题为《自动评分器越简单效果越好：面向开放式任务的高成本效益大语言模型评估》的研究成果，围绕开放式任务的大语言模型评估效能展开专项基准测试。\n\n测试结果显示，基于简单评分规则的自动评分器在各项基准测试中的表现，均优于结构更为复杂的大语言模型评分方法。该简单自动评分器的评分效果通常能够持平甚至优于非专业人类评分人员的评分水平，评分可靠性得到多维度测试验证。\n\n与现有复杂大模型评分方案、非专业人工评分模式相比，上述基于简单规则的自动评分器在保障评分效果的同时，可大幅压缩评估工作耗时、降低评估环节投入成本，为开放式任务的规模化评估工作提供了兼具效能与成本优势的高性价比实现路径。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 4
+}

@@ -1,0 +1,21 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-04-24T23:38:52.998157",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "美国教育部拟推出项目级问责框架 设定紧凑时间表并扩大处罚范围",
+      "url": "https://www.acenet.edu/News-Room/Pages/ED-Proposes-Accountability-Framework.aspx",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "The Department of Education has released its proposed rule on program-level accountability under the One Big Beautiful Bill Act, advancing a framework that would tie federal student aid eligibility to graduate earnings outcomes.",
+      "source": "ACE",
+      "category": "general",
+      "original_title": "ED Proposes Accountability Framework with Tight Timeline, Expanded Penalties",
+      "summary_cn": "2026年4月24日，美国教育委员会发布教育领域相关动态，对外披露美国教育部最新公布的项目级问责拟议规则相关内容。\n\n本次拟议规则是美国教育部依据《美好大法案》相关要求制定的政策性文件，核心内容为推进构建项目级问责工作框架，将高等教育各类项目的联邦学生资助资格与对应项目毕业生的收入结果直接挂钩，作为核定相关项目是否具备联邦学生资助发放资质的核心判定标准。\n\n本次拟推出的问责框架包含两项核心设置，一是明确了紧凑的工作推进时间表，二是扩大了处罚措施的适用范围，相关要求均在本次公布的拟议规则中作出了明确规定。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 1
+}

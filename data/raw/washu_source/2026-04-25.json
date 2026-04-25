@@ -1,0 +1,53 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-04-25T10:41:22.790010",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Braver elected to American Academy of Arts & Sciences",
+      "url": "https://source.washu.edu/2026/04/braver-elected-to-american-academy-of-arts-sciences/",
+      "date": "2026-04-24",
+      "type": "Awards & Notables",
+      "summary_en": "WashU neuroscientist Todd Braver has been elected to the American Academy of Arts & Sciences, one of the nation’s most prestigious honorary societies.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Huang installed as inaugural Davie professor",
+      "url": "https://source.washu.edu/2026/04/huang-installed-as-inaugural-davie-professor/",
+      "date": "2026-04-24",
+      "type": "Advancement",
+      "summary_en": "Eric Huang, MD, PhD, a leader in the study of human brain development, has been named the inaugural Joseph M. Davie Distinguished Professor in Pathology & Immunology at WashU Medicine.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Looser mortgage lending rules, regulation will destabilize financial system",
+      "url": "https://source.washu.edu/2026/04/washu-expert-looser-mortgage-lending-rules-regulation-will-destabilize-financial-system/",
+      "date": "2026-04-24",
+      "type": "Finance",
+      "summary_en": "A new executive order signed by President Donald Trump threatens to destabilize the financial system by reducing lending regulations and rolling back oversight, according to Brittany Lewis at WashU Olin Business School.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Mock digs to global stage: WashU archaeologist Patania mentors Lego League teams",
+      "url": "https://source.washu.edu/2026/04/mock-digs-to-global-stage-washu-archaeologist-patania-mentors-lego-league-teams/",
+      "date": "2026-04-23",
+      "type": "St. Louis Region",
+      "summary_en": "In August, global robotics competition First Lego League challenged children to design a robot to help archaeologists. The task demands skills in engineering, design and, first and foremost, archaeology. Enter WashU environmental archaeologist Ilaria Patania, who helped dozens of middle school competitors.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "2026 Olin Award recognizes continued excellence in AI research",
+      "url": "https://source.washu.edu/2026/04/2026-olin-award-recognizes-continued-excellence-in-ai-research/",
+      "date": "2026-04-23",
+      "type": "Marketing",
+      "summary_en": "This year’s Olin Award winner is Xiang Hui, who studied how an artificial intelligence (AI) tool can improve outcomes in the real estate market for buyers and sellers. It’s one of many AI-focused research projects making an impact at Olin.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

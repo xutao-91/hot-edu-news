@@ -1,0 +1,53 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-04-25T10:41:24.218537",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Wayne State expands access to paid environmental internships",
+      "url": "https://today.wayne.edu/news/2026/04/24/wayne-state-expands-access-to-paid-environmental-internships-68928",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State President Richard A. Bierschbach takes formal oath of office",
+      "url": "https://today.wayne.edu/news/2026/04/24/wayne-state-president-richard-a-bierschbach-takes-formal-oath-of-office-68931",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State students explore AI through Philosophy courses",
+      "url": "https://today.wayne.edu/news/2026/04/23/wayne-state-students-explore-ai-through-philosophy-courses-68919",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "TechTown names top 10 semifinalists in 2026 Comerica Hatch Detroit Contest",
+      "url": "https://economicdevelopment.wayne.edu/news/techtown-names-top-10-semifinalists-in-2026-comerica-hatch-detroit-contest-68893",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Registration open for K-12 summer camps at Wayne State University",
+      "url": "https://today.wayne.edu/news/2026/04/22/registration-open-for-k-12-summer-camps-at-wayne-state-university-68903",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

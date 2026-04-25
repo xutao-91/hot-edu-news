@@ -1,0 +1,35 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-04-25T10:40:09.334638",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Mary Cunningham Boyce, renowned engineer and scholar, to deliver Graduate School Commencement address",
+      "url": "https://news.nd.edu/news/mary-cunningham-boyce-renowned-engineer-and-scholar-to-deliver-graduate-school-commencement-address/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Sowing seeds of hope: Vatican partnership advances global sustainability",
+      "url": "https://news.nd.edu/news/sowing-seeds-of-hope-vatican-partnership-advances-global-sustainability/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "religion"
+    },
+    {
+      "title": "Division of Student Affairs honors outstanding student leaders",
+      "url": "https://news.nd.edu/news/division-of-student-affairs-honors-outstanding-student-leaders/",
+      "date": "2026-04-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

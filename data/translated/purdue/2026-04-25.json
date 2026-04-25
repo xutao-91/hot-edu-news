@@ -1,0 +1,21 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-25T10:40:27.824716",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "美国国家航空航天局副局长访问普渡大学并参观研究设施",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/nasa-associate-administrator-visits-purdue-tours-research-facilities",
+      "date": "April 22, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research",
+      "original_title": "NASA associate administrator visits Purdue, tours research facilities",
+      "summary_cn": "2026年4月22日，美国普渡大学官方发布相关公务消息，美国国家航空航天局（NASA）副局长于当日到访普渡大学，开展正式公务访问活动。\n\n访问行程包含实地踏勘环节，NASA副局长一行对普渡大学校内的相关研究设施进行了参观，本次活动属于双方官方层面的公务交流安排，全部公开信息均由普渡大学官方渠道对外发布。\n\n因公开信息有限，本次访问的具体参与人员、深入交流内容、达成合作意向及后续工作安排等细节，均以信息发布主体普渡大学的官方后续披露内容为准。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 1
+}

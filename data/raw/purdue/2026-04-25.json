@@ -1,0 +1,17 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-04-25T10:40:27.824716",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "NASA associate administrator visits Purdue, tours research facilities",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/nasa-associate-administrator-visits-purdue-tours-research-facilities",
+      "date": "April 22, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research"
+    }
+  ]
+}
