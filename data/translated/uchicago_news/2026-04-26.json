@@ -1,0 +1,32 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-26T12:01:53.930493",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "芝加哥大学先驱病毒学家伯纳德·罗伊兹曼逝世",
+      "url": "https://news.uchicago.edu/story/bernard-roizman-pioneering-university-chicago-virologist-1929-2026",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Roizman reshaped the field of virology through his work on the herpes simplex virus, laying the groundwork for efforts to develop vaccines and other therapies.",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "Bernard Roizman, pioneering University of Chicago virologist, 1929–2026",
+      "summary_cn": "2026年4月23日，美国芝加哥大学公开发布相关公告，该校先驱病毒学家伯纳德·罗伊兹曼逝世，其生卒年份为1929年至2026年。\n\n伯纳德·罗伊兹曼是病毒学领域的先锋研究者，核心研究方向为单纯疱疹病毒，相关研究成果对病毒学学科发展产生了关键性影响，直接重塑了病毒学领域的研究格局。\n\n伯纳德·罗伊兹曼围绕单纯疱疹病毒取得的系统性研究成果，为后续相关疫苗及其他治疗手段的研发工作奠定了坚实基础，为相关领域后续科研攻关的开展提供了核心支撑。"
+    },
+    {
+      "title": "芝加哥大学学者：AI“法官”与人类法官的对比情况较为复杂",
+      "url": "https://news.uchicago.edu/story/how-do-ai-judges-compare-human-ones-its-complicated-says-uchicago-scholar",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "In annual Ryerson Lecture, Prof. Eric Posner examines AI's growing role in legal decision-making—and why human judgment still matters",
+      "source": "UChicago News",
+      "category": "ai",
+      "original_title": "How do AI 'judges' compare to human ones? It's complicated, says a UChicago scholar",
+      "summary_cn": "2026年4月23日，芝加哥大学公布该校教授学术讲座相关核心观点。\n\n本次观点源自该校举办的年度瑞尔森讲座，主讲人为芝加哥大学埃里克·波斯纳教授，讲座核心议题围绕人工智能在法律决策领域的应用相关内容展开。\n\n埃里克·波斯纳教授在讲座中，对人工智能在法律决策过程中日益增长的作用进行了系统梳理，同时就AI“法官”与人类法官的履职差异开展比对分析。\n\n埃里克·波斯纳教授明确指出，AI“法官”与人类法官的对比情况较为复杂，人类判断在法律决策环节仍然具备重要价值，相关特性需得到客观看待。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 2
+}

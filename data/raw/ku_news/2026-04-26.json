@@ -1,0 +1,53 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-04-26T12:00:49.294817",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "KFRTI Director Jennifer Johnson credits team after receiving IFSAC Organizational Excellence Award",
+      "url": "https://news.ku.edu/news/article/kfrti-director-jennifer-johnson-credits-team-after-receiving-ifsac-organizational-excellence-award-ARTICLE-AXHNEB-ARTICLE-AXHNEB-ARTICLE-AXHNEB",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Jenn Johnson, director of the Kansas Fire & Rescue Training Institute, was awarded the Organizational Excellence Award by the International Fire Service Accreditation Congress on April 10.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "School of Pharmacy announces Distinguished Service Award recipient",
+      "url": "https://news.ku.edu/news/article/school-of-pharmacy-announces-distinguished-service-award-recipient-ARTICLE-PCBE3X-ARTICLE-PCBE3X-ARTICLE-PCBE3X",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Gene Hotchkiss has been selected as the recipient of the KU School of Pharmacy’s 2026 Distinguished Service Award after a lifetime of service to the school. He is a KU alumnus and completed his career as senior associate dean before retiring in 2020.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Poetry translator serves as cross-cultural ambassador for latest project, ‘Last Stops of the Night Journey’",
+      "url": "https://news.ku.edu/news/article/poetry-translator-serves-as-cross-cultural-ambassador-ARTICLE-KHRJWD-ARTICLE-KHRJWD-ARTICLE-KHRJWD-ARTICLE-KHRJWD-ARTICLE-KHRJWD-ARTICLE-KHRJWD",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "A University of Kansas professor says his latest translation of an Italian poetry collection, like all his work, is driven by his love of literature. Patrizio Ceccagnoli will give a reading for Milo De Angelis’ “Last Stops of the Night Journey” on April 28.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Spencer Museum announces 2026 Brosseau Creativity Award recipients",
+      "url": "https://news.ku.edu/news/article/spencer-museum-announces-2026-brosseau-creativity-award-recipients-ARTICLE-PJ454B",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "The Spencer Museum of Art has awarded four KU undergraduate students from Kansas with Brosseau Creativity Awards, which honor innovative and risk-taking creative work in any area of study.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Bales Choral Society to stage spring concert",
+      "url": "https://news.ku.edu/news/article/ku-bales-choral-society-to-stage-spring-concert-ARTICLE-C4AQ7Q",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "The KU Bales Choral Society will present its spring concert at 7 p.m. May 3 at Corpus Christi Catholic Church. The BSC is composed of University of Kansas faculty, staff and students, and KU brass and percussion musicians make up the orchestra.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

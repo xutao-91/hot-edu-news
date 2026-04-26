@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-04-26T12:00:15.195873",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The pedagogy gap: Redefining the role of faculty and AI in higher education",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/24/the-pedagogy-gap-redefining-the-role-of-faculty-and-ai-in-higher-education/",
+      "date": "2026-04-24",
+      "type": "AI in Education",
+      "summary_en": "AI’s rapid integration into the higher-education landscape has prompted a period of profound structural reassessment. For decades, new technology adoption in education has often been driven by a “technology for technology’s sake” mentality–a pursuit of digital innovation that typically prioritizes the novelty of the tool over the efficacy of the intended outcome.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

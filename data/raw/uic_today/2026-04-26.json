@@ -1,0 +1,17 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-04-26T12:01:55.292643",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "See the winning 2026 Images of Research",
+      "url": "https://today.uic.edu/see-the-winning-2026-images-of-research/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "This year’s winners span punk culture, a spider cadaver and a copper mine in Ecuador.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

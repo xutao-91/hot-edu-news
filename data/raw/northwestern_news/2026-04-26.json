@@ -1,0 +1,17 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-04-26T12:01:14.150025",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Northwestern’s campus read is back",
+      "url": "https://news.northwestern.edu/stories/2026/4/campus-reading-program-announced",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}
