@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-27T12:01:24.576363",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Universities face “rollercoaster” decade as AI tests their value",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-04-27",
+      "type": "Events",
+      "summary_en": "AI and rapid technological change are forcing universities to rethink their very purpose, global university leaders have warned, as they discuss what value higher education offers in a world where machines \"compete with our brain\".",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "DAAD shifts Indian focus beyond student mobility",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-27",
+      "type": "Policy",
+      "summary_en": "In a conversation with The PIE, senior DAAD officials highlighted a shift in India strategy towards long-term partnerships and research, while tackling one-sided mobility and access gaps.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Demand outstrips capacity at South Africa’s universities, warns UJ vice-chancellor",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-04-27",
+      "type": "Recruitment & agents",
+      "summary_en": "South Africa’s public universities are facing a \"profound contradiction\" as demand for higher education surges beyond capacity, University of Johannesburg vice‑chancellor and principal Letlhokwa Mpedi has warned.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "New Zealand hits study destination target a decade early",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "New Zealand has hit a key international education target nearly a decade ahead of schedule, according to a new survey by Education New Zealand Manapou ki te Ao (ENZ).",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Charlotte Greenstein"
+    },
+    {
+      "title": "China’s outbound student drop signals “maturing” market",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-24",
+      "type": "Data",
+      "summary_en": "The return of China’s outbound student mobility rates to 2016 levels signals a market “reset” rather than collapse, say experts, as Beijing releases outgoing student mobility data for the first time in five years.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Visa-refused students owed €60k by rogue Irish ELT schools",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-24",
+      "type": "Language learning",
+      "summary_en": "Several English language schools in Ireland are under scrutiny over their failure to refund prospective international students whose visa applications have been refused.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Charlotte Greenstein"
+    }
+  ]
+}

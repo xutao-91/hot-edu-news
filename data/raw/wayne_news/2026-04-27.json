@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-04-27T12:02:22.075353",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Five faculty members earn top honors from Wayne State Board of Governors",
+      "url": "https://today.wayne.edu/news/2026/04/27/five-faculty-members-earn-top-honors-from-wayne-state-board-of-governors-68921",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State expands access to paid environmental internships",
+      "url": "https://today.wayne.edu/news/2026/04/24/wayne-state-expands-access-to-paid-environmental-internships-68928",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State President Richard A. Bierschbach takes formal oath of office",
+      "url": "https://today.wayne.edu/news/2026/04/24/wayne-state-president-richard-a-bierschbach-takes-formal-oath-of-office-68931",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

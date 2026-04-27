@@ -1,0 +1,35 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-04-27T12:00:34.553358",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Applied Mathematics Professor Honored as SIAM Fellow",
+      "url": "https://www.iit.edu/news/applied-mathematics-professor-honored-siam-fellow",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "The Society for Industrial and Applied Mathematics has named Illinois Tech Professor of Applied Mathematics Fred Hickernell as a member of the 2026 class of SIAM fellows in recognition of his...",
+      "source": "IIT News",
+      "category": "academic"
+    },
+    {
+      "title": "Incoming Fall 2026 Class Showcases a High-Achieving, Diverse Student Body with Career Outcomes to Match",
+      "url": "https://www.iit.edu/news/incoming-fall-2026-class-showcases-high-achieving-diverse-student-body-career-outcomes-match",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "As the higher education community approaches Decision Day on May 1, Illinois Tech is proud to announce the academic profile and demographic makeup of its fall 2026 admitted undergraduate class. The...",
+      "source": "IIT News",
+      "category": "students"
+    },
+    {
+      "title": "Illinois Tech’s Fall 2026 Incoming Class Showcases a Highly Achieving, Diverse Student Body Aligned with Its Mission to Serve Students from All Walks of Life—With Career Outcomes to Match",
+      "url": "https://www.iit.edu/news/illinois-techs-fall-2026-incoming-class-showcases-highly-achieving-diverse-student-body-aligned-its",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "CHICAGO—April 27, 2026—As the higher education community approaches Decision Day on May 1, Illinois Institute of Technology (Illinois Tech) is proud to announce the academic profile and demographic...",
+      "source": "IIT News",
+      "category": "students"
+    }
+  ]
+}

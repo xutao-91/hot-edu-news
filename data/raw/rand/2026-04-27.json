@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-27T12:01:36.584469",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The AGI Rideout Strategy for Reducing Strategic Risk and Promoting Stability in the Transition to Artificial General Intelligence",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4347-1.html",
+      "date": "Apr 27, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors describe an artificial general intelligence (AGI) Rideout strategy to avoid geopolitical risks in the race toward and transition to AGI. The strategy prioritizes deterring conflicts and increasing U.S. tech infrastructure resilience.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

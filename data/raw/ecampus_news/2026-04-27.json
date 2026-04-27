@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-04-27T12:00:15.330688",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "What doctoral programs must change in an AI-saturated research environment",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/27/what-doctoral-programs-must-change-in-an-ai-saturated-research-environment/",
+      "date": "2026-04-27",
+      "type": "AI in Education",
+      "summary_en": "Generative AI has moved from novelty to a core tool in a remarkably short period of time. Doctoral students now routinely use AI tools to locate sources, summarize literature, generate outlines, and even draft sections of academic writing.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "The pedagogy gap: Redefining the role of faculty and AI in higher education",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/04/24/the-pedagogy-gap-redefining-the-role-of-faculty-and-ai-in-higher-education/",
+      "date": "2026-04-24",
+      "type": "AI in Education",
+      "summary_en": "AI’s rapid integration into the higher-education landscape has prompted a period of profound structural reassessment. For decades, new technology adoption in education has often been driven by a “technology for technology’s sake” mentality–a pursuit of digital innovation that typically prioritizes the novelty of the tool over the efficacy of the intended outcome.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

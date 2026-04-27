@@ -1,0 +1,89 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-04-27T12:02:06.348774",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Nebraska U poised to award record 3,800-plus degrees May 8-9",
+      "url": "https://news.unl.edu/article/nebraska-u-poised-to-award-record-3800-plus-degrees-may-8-9",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Researchers develop promising new vaccine against bird flu",
+      "url": "https://news.unl.edu/article/researchers-develop-promising-new-vaccine-against-bird-flu",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Morrill Hall renovation will include major updates to Elephant Hall",
+      "url": "https://news.unl.edu/article/morrill-hall-renovation-will-include-major-updates-to-elephant-hall",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Concert to alter building access on City Campus",
+      "url": "https://news.unl.edu/article/concert-to-alter-building-access-on-city-campus",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "University earns record sustainability score",
+      "url": "https://news.unl.edu/article/university-earns-record-sustainability-score",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "PlantNebraska guides grant impact across Nebraska",
+      "url": "https://news.unl.edu/article/plantnebraska-guides-grant-impact-across-nebraska",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Student grants open door for Robertson's artistic evolution",
+      "url": "https://news.unl.edu/article/student-grants-open-door-for-robertsons-artistic-evolution",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Finalists for Raikes School executive director post to visit campus",
+      "url": "https://news.unl.edu/article/finalists-for-raikes-school-executive-director-post-to-visit-campus",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Search begins for next chief communications and marketing officer",
+      "url": "https://news.unl.edu/article/search-begins-for-next-chief-communications-and-marketing-officer",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-04-27T12:01:40.873422",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "What to know about spring commencement 2026",
+      "url": "https://showme.missouri.edu/2026/what-to-know-about-spring-commencement-2026/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Tips to help you make the most of your visit to campus this graduation season.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou archaeologist digs up long‑buried Roman secrets",
+      "url": "https://showme.missouri.edu/2026/mizzou-archaeologist-digs-up-long-buried-roman-secrets/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Marcello Mogetta balances excavations of ancient cities in Italy with classroom instruction, helping students and fellow researchers better understand the Roman Empire and its legacy.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Investing in the next generation of storytelling",
+      "url": "https://showme.missouri.edu/2026/investing-in-the-next-generation-of-storytelling/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "How the McKenzie family’s philanthropy is shaping future journalists at Mizzou",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Thompson Center for Autism and Neurodevelopment at University of Missouri to hold grand opening; Mayor of Columbia to proclaim 'Autism Friendly City'",
+      "url": "https://showme.missouri.edu/2026/thompson-center-for-autism-and-neurodevelopment-at-university-of-missouri-to-hold-grand-opening-mayor-of-columbia-to-proclaim-autism-friendly-city/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

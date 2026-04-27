@@ -1,0 +1,21 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-04-27T12:01:59.494146",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "明尼苏达大学研究人员发现原子层面调控金属电子行为新方法 助力未来技术发展",
+      "url": "https://cse.umn.edu/college/news/redesigning-metals-atomic-level-boost-future-technology",
+      "date": "2026-04-24",
+      "type": "Nanotechnology",
+      "summary_en": "Researchers in the University of Minnesota Twin Cities have discovered a powerful new way to control the electronic behavior of a metal—by manipulating the atomic properties of materials where they meet.",
+      "source": "UMN CSE",
+      "category": "general",
+      "original_title": "Redesigning metals at the atomic level to boost future technology",
+      "summary_cn": "2026年4月24日，美国明尼苏达大学公开发布一项材料科学领域最新研究成果，相关内容由校方正式对外披露。\n\n本次研究由明尼苏达大学双城分校研究人员完成，研究团队围绕金属电子行为调控方向开展研究工作，成功发现了一种功能强大的金属电子行为全新控制方式，为金属性能优化相关研究提供了新的可行路径。\n\n根据校方公布的核心研究内容，该新型调控方法的实现路径为对不同材料相接位置的原子属性进行操控，以此达成对金属电子行为的控制目标。该项成果可应用于原子层面的金属重构工作，契合未来技术发展的核心需求，将为相关领域技术研发推进提供支撑。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 1
+}

@@ -1,0 +1,89 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-04-27T12:00:44.761748",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Introduce US culture to international scholars: Fullbright volunteer opportunity",
+      "url": "https://www.k-state.edu/news/articles/2026/04/volunteer-families-fulbright-program-students.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "K-State's English Language Program will host Fulbright graduate students from around the world July 25 to Aug. 15 for a Pre-Academic Program focused on English study, U.S. culture and...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Garden inspiration and education",
+      "url": "https://www.k-state.edu/news/articles/2026/04/gardens-bus-tour.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "The Friends of the K-State Gardens invite community members to join a bus tour to visit the private gardens of six Johnson County master gardeners on Friday, June 12.",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "The heart behind the classroom",
+      "url": "https://www.k-state.edu/news/articles/2026/04/maria-camila-ramirez-quimbayo-graduate-student-council-award.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "In her Spanish classroom at Kansas State University, graduate student teacher María Camila Ramírez Quimbayo goes beyond grammar, guiding students through meaningful conversations...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Morgan Greene",
+      "url": "https://www.k-state.edu/news/articles/2026/04/morgan-greene-collaborates-and-connects.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Through strategic communications, Morgan Greene connects students to resources, strengthens campus communities and supports success.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "A look back at Open House through pictures",
+      "url": "https://www.k-state.edu/news/articles/2026/04/open-house-2026-gallery.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Building community from day one",
+      "url": "https://www.k-state.edu/news/articles/2026/04/cultivating-exceptional-first-year-student-experience.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "K-State's first-year experience sets the stage for students' university careers. Innovative partnerships are the catalysts behind the Better Together Initiative and the Boyd Hall Honors...",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "K-State Graduate School gives students top-notch experience in nationally ranked programs",
+      "url": "https://www.k-state.edu/news/articles/2026/04/best-graduate-schools-rankings.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "For more than 150 years, the Graduate School has been preparing master's and doctoral students to be next-generation leaders. Its tradition of excellence continues with new national...",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "The go-to hub for K-State students",
+      "url": "https://www.k-state.edu/news/articles/2026/04/wildcat-one-stop.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Created through collaboration between DASSA and SGA, the webpage provides essential links for student success, including tuition payments, transcripts and more.",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "Turning K-State research into real-world solutions",
+      "url": "https://www.k-state.edu/news/articles/2026/04/inventors-and-breeders-one-kstate-research-week.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "As part of One K-State Research Week 2026, the university is recognizing inventors who received patents and plant variety protection certificates in 2024 and 2025. Take a closer look...",
+      "source": "K-State News",
+      "category": "research"
+    }
+  ]
+}

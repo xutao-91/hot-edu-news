@@ -1,0 +1,21 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-27T12:01:36.584469",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "兰德公司提出降低通用人工智能转型战略风险、促进稳定的AGI“Rideout”战略",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4347-1.html",
+      "date": "Apr 27, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors describe an artificial general intelligence (AGI) Rideout strategy to avoid geopolitical risks in the race toward and transition to AGI. The strategy prioritizes deterring conflicts and increasing U.S. tech infrastructure resilience.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "The AGI Rideout Strategy for Reducing Strategic Risk and Promoting Stability in the Transition to Artificial General Intelligence",
+      "summary_cn": "2026年4月27日，美国兰德公司发布通用人工智能（Artificial General Intelligence，简称AGI）领域专项研究成果，正式提出面向AGI转型的“Rideout”战略。\n\n该战略核心目标是降低AGI转型过程中的战略风险、促进转型进程整体稳定，重点防范AGI全球研发竞赛及落地转型过程中存在的地缘政治风险，为AGI转型阶段的风险防控提供可行路径支撑。\n\n报告明确划定该战略的两大优先推进方向：第一是聚焦冲突威慑领域相关工作，有效遏制AGI发展进程中触发的各类冲突风险；第二是针对性提升美国技术基础设施的抗风险韧性，为AGI转型阶段的技术体系稳定运行夯实基础保障。"
+    }
+  ],
+  "compiled_count": 1,
+  "skipped_count": 0
+}
