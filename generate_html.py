@@ -216,9 +216,9 @@ def generate_html():
     # 按日期倒序排列
     all_articles.sort(key=lambda x: x['_sort_date'], reverse=True)
     
-    # 只保留最近30天的文章
+    # 只保留最近4天的文章
     today = datetime.now()
-    cutoff = today - timedelta(days=30)
+    cutoff = today - timedelta(days=4)
     cutoff_date = cutoff.strftime('%Y-%m-%d')
     all_articles = [a for a in all_articles if a['_sort_date'] >= cutoff_date]
     
