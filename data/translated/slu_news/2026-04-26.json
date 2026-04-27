@@ -1,0 +1,32 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-04-26T22:22:29.825935",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "SLU student wins soloist award at ICCA regional competition",
+      "url": "https://www.slu.edu/news/2026/april/srija-boddu-vocalist-award.php",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "SLU News",
+      "category": "students",
+      "original_title": "SLU student wins soloist award at ICCA regional competition",
+      "summary_cn": ""
+    },
+    {
+      "title": "Saint Louis University Receives Grant to Fund Ignatian Colleagues Network",
+      "url": "https://www.slu.edu/news/2026/april/ignatian-colleagues-network.php",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Saint Louis University has received a $100,000 grant to support an ongoing formation program. The Ignatian Colleagues Network will build on the Ignatian Colleagues Program (ICP) launched in 2023 and provide a next step for those who have completed the intensive two-year mission formation program.",
+      "source": "SLU News",
+      "category": "general",
+      "original_title": "Saint Louis University Receives Grant to Fund Ignatian Colleagues Network",
+      "summary_cn": "Saint Louis University has received a $100,000 grant to support an ongoing formation program. The Ignatian Colleagues Network will build on the Ignatian Colleagues Program (ICP) launched in 2023 and provide a next step for those who have completed the intensive two-year mission formation program."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 2
+}

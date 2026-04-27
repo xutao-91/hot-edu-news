@@ -1,0 +1,32 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-04-26T22:22:46.580190",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Classroom to crime scene: Hands-On learning in UNI’s new Crime Scene House",
+      "url": "https://insideuni.uni.edu/politics-justice/classroom-crime-scene-hands-learning-unis-new-crime-scene-house",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "UNI criminology students are gaining hands-on investigative experience in the Crime Scene House, a realistic training space where staged evidence-based scenarios help bring classroom concepts to life.",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "Classroom to crime scene: Hands-On learning in UNI’s new Crime Scene House",
+      "summary_cn": "UNI criminology students are gaining hands-on investigative experience in the Crime Scene House, a realistic training space where staged evidence-based scenarios help bring classroom concepts to life."
+    },
+    {
+      "title": "This UNI grad found a path at a major accounting firm immediately after graduation",
+      "url": "https://insideuni.uni.edu/business/uni-grad-found-path-major-accounting-firm-immediately-after-graduation",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Alexis Munsell loves living the life of an accountant. It was a dream she realized at the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "general",
+      "original_title": "This UNI grad found a path at a major accounting firm immediately after graduation",
+      "summary_cn": "Alexis Munsell loves living the life of an accountant. It was a dream she realized at the University of Northern Iowa."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 2
+}

@@ -1,0 +1,43 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-04-26T22:23:05.227772",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Wayne State expands access to paid environmental internships",
+      "url": "https://today.wayne.edu/news/2026/04/24/wayne-state-expands-access-to-paid-environmental-internships-68928",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general",
+      "original_title": "Wayne State expands access to paid environmental internships",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wayne State President Richard A. Bierschbach takes formal oath of office",
+      "url": "https://today.wayne.edu/news/2026/04/24/wayne-state-president-richard-a-bierschbach-takes-formal-oath-of-office-68931",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general",
+      "original_title": "Wayne State President Richard A. Bierschbach takes formal oath of office",
+      "summary_cn": ""
+    },
+    {
+      "title": "Wayne State students explore AI through Philosophy courses",
+      "url": "https://today.wayne.edu/news/2026/04/23/wayne-state-students-explore-ai-through-philosophy-courses-68919",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic",
+      "original_title": "Wayne State students explore AI through Philosophy courses",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 3
+}

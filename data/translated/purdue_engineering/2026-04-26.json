@@ -1,0 +1,43 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-04-26T22:22:14.241972",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue Engineers selected for AI Fusion seed grants to help rapidly advance research",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0423-AI-Fusion-seed-grants-help-rapidly-advance-research",
+      "date": "April 23, 2026",
+      "type": "News",
+      "summary_en": "Purdue Engineers are fostering interdisciplinary collaboration and innovation to advance AI applications through one-year seed grants.",
+      "source": "Purdue College of Engineering",
+      "category": "research",
+      "original_title": "Purdue Engineers selected for AI Fusion seed grants to help rapidly advance research",
+      "summary_cn": "Purdue Engineers are fostering interdisciplinary collaboration and innovation to advance AI applications through one-year seed grants."
+    },
+    {
+      "title": "I became Purdue's storyteller: Thendral Kamal (AAE '26) goes from T2M rejection to moderating history",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0423-I-became-Purdues-storyteller-Thendral-Kamal-goes-from-T2M-rejection-to-moderating-history",
+      "date": "April 23, 2026",
+      "type": "News",
+      "summary_en": "AAE senior Thendral Kamal, who graduates in May, has become something of a spokesperson for Purdue University.",
+      "source": "Purdue College of Engineering",
+      "category": "general",
+      "original_title": "I became Purdue's storyteller: Thendral Kamal (AAE '26) goes from T2M rejection to moderating history",
+      "summary_cn": "AAE senior Thendral Kamal, who graduates in May, has become something of a spokesperson for Purdue University."
+    },
+    {
+      "title": "NASA associate administrator visits Purdue, tours Purdue Engineering research facilities",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0423-NASA-associate-administrator-visits-Purdue-tours-research-facilities",
+      "date": "April 23, 2026",
+      "type": "News",
+      "summary_en": "NASA Associate Administrator Amit Kshatriya visited Purdue on Tuesday (April 21) to learn more about the university's state-of-the-art research facilities that support key NASA programs.",
+      "source": "Purdue College of Engineering",
+      "category": "research",
+      "original_title": "NASA associate administrator visits Purdue, tours Purdue Engineering research facilities",
+      "summary_cn": "NASA Associate Administrator Amit Kshatriya visited Purdue on Tuesday (April 21) to learn more about the university's state-of-the-art research facilities that support key NASA programs."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 3
+}

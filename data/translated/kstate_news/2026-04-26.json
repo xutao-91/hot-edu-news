@@ -1,0 +1,65 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-04-26T22:21:28.205934",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "A look back at Open House through pictures",
+      "url": "https://www.k-state.edu/news/articles/2026/04/open-house-2026-gallery.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on...",
+      "source": "K-State News",
+      "category": "general",
+      "original_title": "A look back at Open House through pictures",
+      "summary_cn": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on..."
+    },
+    {
+      "title": "The go-to hub for K-State students",
+      "url": "https://www.k-state.edu/news/articles/2026/04/wildcat-one-stop.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "Created through collaboration between DASSA and SGA, the webpage provides essential links for student success, including tuition payments, transcripts and more.",
+      "source": "K-State News",
+      "category": "students",
+      "original_title": "The go-to hub for K-State students",
+      "summary_cn": "Created through collaboration between DASSA and SGA, the webpage provides essential links for student success, including tuition payments, transcripts and more."
+    },
+    {
+      "title": "Building community from day one",
+      "url": "https://www.k-state.edu/news/articles/2026/04/cultivating-exceptional-first-year-student-experience.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "K-State's first-year experience sets the stage for students' university careers. Innovative partnerships are the catalysts behind the Better Together Initiative and the Boyd Hall Honors...",
+      "source": "K-State News",
+      "category": "community",
+      "original_title": "Building community from day one",
+      "summary_cn": "K-State's first-year experience sets the stage for students' university careers. Innovative partnerships are the catalysts behind the Better Together Initiative and the Boyd Hall Honors..."
+    },
+    {
+      "title": "K-State Graduate School gives students top-notch experience in nationally ranked programs",
+      "url": "https://www.k-state.edu/news/articles/2026/04/best-graduate-schools-rankings.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "For more than 150 years, the Graduate School has been preparing master's and doctoral students to be next-generation leaders. Its tradition of excellence continues with new national...",
+      "source": "K-State News",
+      "category": "students",
+      "original_title": "K-State Graduate School gives students top-notch experience in nationally ranked programs",
+      "summary_cn": "For more than 150 years, the Graduate School has been preparing master's and doctoral students to be next-generation leaders. Its tradition of excellence continues with new national..."
+    },
+    {
+      "title": "Turning K-State research into real-world solutions",
+      "url": "https://www.k-state.edu/news/articles/2026/04/inventors-and-breeders-one-kstate-research-week.html",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "As part of One K-State Research Week 2026, the university is recognizing inventors who received patents and plant variety protection certificates in 2024 and 2025. Take a closer look...",
+      "source": "K-State News",
+      "category": "research",
+      "original_title": "Turning K-State research into real-world solutions",
+      "summary_cn": "As part of One K-State Research Week 2026, the university is recognizing inventors who received patents and plant variety protection certificates in 2024 and 2025. Take a closer look..."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 5
+}

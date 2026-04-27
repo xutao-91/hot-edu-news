@@ -1,0 +1,94 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-26T22:22:03.766948",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "New Zealand hits study destination target a decade early",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "New Zealand has hit a key international education target nearly a decade ahead of schedule, according to a new survey by Education New Zealand Manapou ki te Ao (ENZ).",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Charlotte Greenstein",
+      "original_title": "New Zealand hits study destination target a decade early",
+      "summary_cn": "New Zealand has hit a key international education target nearly a decade ahead of schedule, according to a new survey by Education New Zealand Manapou ki te Ao (ENZ)."
+    },
+    {
+      "title": "China’s outbound student drop signals “maturing” market",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-24",
+      "type": "Data",
+      "summary_en": "The return of China’s outbound student mobility rates to 2016 levels signals a market “reset” rather than collapse, say experts, as Beijing releases outgoing student mobility data for the first time in five years.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash",
+      "original_title": "China’s outbound student drop signals “maturing” market",
+      "summary_cn": "The return of China’s outbound student mobility rates to 2016 levels signals a market “reset” rather than collapse, say experts, as Beijing releases outgoing student mobility data for the first time in five years."
+    },
+    {
+      "title": "Visa-refused students owed €60k by rogue Irish ELT schools",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-24",
+      "type": "Language learning",
+      "summary_en": "Several English language schools in Ireland are under scrutiny over their failure to refund prospective international students whose visa applications have been refused.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Charlotte Greenstein",
+      "original_title": "Visa-refused students owed €60k by rogue Irish ELT schools",
+      "summary_cn": "Several English language schools in Ireland are under scrutiny over their failure to refund prospective international students whose visa applications have been refused."
+    },
+    {
+      "title": "IDP expands into Malaysia amid shifting student preferences",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-04-23",
+      "type": "Recruitment & agents",
+      "summary_en": "The international education provider, long focused on major Anglophone destinations such as the US, UK, Australia and Canada, is now turning to Malaysia as it emerges as a go-to option for degree-seeking students across Asia.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair",
+      "original_title": "IDP expands into Malaysia amid shifting student preferences",
+      "summary_cn": "The international education provider, long focused on major Anglophone destinations such as the US, UK, Australia and Canada, is now turning to Malaysia as it emerges as a go-to option for degree-seeking students across Asia."
+    },
+    {
+      "title": "India’s TNE push is exposing a workforce challenge universities are not addressing",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-04-23",
+      "type": "Voices",
+      "summary_en": "As India experiences a transnational education (TNE) boom, Annette Ord explores the very real practicalities that institutions often overlook when opening overseas branch campuses.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Annette Ord",
+      "original_title": "India’s TNE push is exposing a workforce challenge universities are not addressing",
+      "summary_cn": "As India experiences a transnational education (TNE) boom, Annette Ord explores the very real practicalities that institutions often overlook when opening overseas branch campuses."
+    },
+    {
+      "title": "What’s in Canada’s CIMM report and will it influence IRCC policy?",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-23",
+      "type": "Policy",
+      "summary_en": "Canada’s Standing Committee on Citizenship and Immigration (CIMM) has unveiled a sweeping set of recommendations on the International Student Program (ISP). But how much will they influence IRCC policy?",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash",
+      "original_title": "What’s in Canada’s CIMM report and will it influence IRCC policy?",
+      "summary_cn": "Canada’s Standing Committee on Citizenship and Immigration (CIMM) has unveiled a sweeping set of recommendations on the International Student Program (ISP). But how much will they influence IRCC policy?"
+    },
+    {
+      "title": "Malvern St James under threat of closure as financial pressures mount",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-04-23",
+      "type": "K-12",
+      "summary_en": "UK K-12 boarding school Malvern St James has announced proposals to close at the end of the academic year, against a backdrop of increasing costs and a tax imposed on independent school fees.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy",
+      "original_title": "Malvern St James under threat of closure as financial pressures mount",
+      "summary_cn": "UK K-12 boarding school Malvern St James has announced proposals to close at the end of the academic year, against a backdrop of increasing costs and a tax imposed on independent school fees."
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 7
+}

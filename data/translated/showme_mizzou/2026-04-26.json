@@ -1,0 +1,54 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-04-26T22:22:27.844038",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Investing in the next generation of storytelling",
+      "url": "https://showme.missouri.edu/2026/investing-in-the-next-generation-of-storytelling/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "How the McKenzie family’s philanthropy is shaping future journalists at Mizzou",
+      "source": "Show Me Mizzou",
+      "category": "general",
+      "original_title": "Investing in the next generation of storytelling",
+      "summary_cn": "How the McKenzie family’s philanthropy is shaping future journalists at Mizzou"
+    },
+    {
+      "title": "Thompson Center for Autism and Neurodevelopment at University of Missouri to hold grand opening; Mayor of Columbia to proclaim 'Autism Friendly City'",
+      "url": "https://showme.missouri.edu/2026/thompson-center-for-autism-and-neurodevelopment-at-university-of-missouri-to-hold-grand-opening-mayor-of-columbia-to-proclaim-autism-friendly-city/",
+      "date": "2026-04-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general",
+      "original_title": "Thompson Center for Autism and Neurodevelopment at University of Missouri to hold grand opening; Mayor of Columbia to proclaim 'Autism Friendly City'",
+      "summary_cn": ""
+    },
+    {
+      "title": "Mizzou construction projects move forward this summer",
+      "url": "https://showme.missouri.edu/2026/mizzou-construction-projects-move-forward-this-summer/",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "Projects include the new Energy Innovation Center, Radioisotope Science Center; Jesse Hall improvements and Memorial Stadium Centennial Project completion.",
+      "source": "Show Me Mizzou",
+      "category": "general",
+      "original_title": "Mizzou construction projects move forward this summer",
+      "summary_cn": "Projects include the new Energy Innovation Center, Radioisotope Science Center; Jesse Hall improvements and Memorial Stadium Centennial Project completion."
+    },
+    {
+      "title": "How rising diesel prices affect crop production costs",
+      "url": "https://showme.missouri.edu/2026/how-rising-diesel-prices-affect-crop-production-costs/",
+      "date": "2026-04-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general",
+      "original_title": "How rising diesel prices affect crop production costs",
+      "summary_cn": ""
+    }
+  ],
+  "translated_count": 0,
+  "missing_count": 4
+}
