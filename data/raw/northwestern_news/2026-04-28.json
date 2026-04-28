@@ -1,0 +1,17 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-04-28T12:01:22.970524",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Northwestern’s Quantum Week signals a growing Illinois ecosystem",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwesterns-quantum-week-underscores-a-growing-illinois-ecosystem",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-04-28T12:01:52.539754",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "From pet to pest: Invasive goldfish are reshaping freshwater ecosystems, researchers warn",
+      "url": "https://showme.missouri.edu/2026/from-pet-to-pest-invasive-goldfish-are-reshaping-freshwater-ecosystems-researchers-warn/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "A new study finds goldfish released into the wild can trigger rapid ecological collapse in lakes, threatening native species throughout the food web.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Honors College students take a swing at America’s favorite pastime",
+      "url": "https://showme.missouri.edu/2026/honors-college-students-take-a-swing-at-americas-favorite-pastime/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Honors College course includes nine 'innings' exploring a different moment in baseball history.",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Mizzou advanced technology core facilities drive innovation and discovery",
+      "url": "https://showme.missouri.edu/2026/mizzou-advanced-technology-core-facilities-drive-innovation-and-discovery/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "See how shared resources help faculty turn ideas into real-world solutions.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Mizzou honors distinguished alumni, introduces new philanthropy award",
+      "url": "https://showme.missouri.edu/2026/mizzou-honors-distinguished-alumni-introduces-new-philanthropy-award/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Recipients recognized for exemplary achievement, service and impact; Walsworth family receives inaugural philanthropic honor.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "What to know about spring commencement 2026",
+      "url": "https://showme.missouri.edu/2026/what-to-know-about-spring-commencement-2026/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Tips to help you make the most of your visit to campus this graduation season.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou archaeologist digs up long‑buried Roman secrets",
+      "url": "https://showme.missouri.edu/2026/mizzou-archaeologist-digs-up-long-buried-roman-secrets/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Marcello Mogetta balances excavations of ancient cities in Italy with classroom instruction, helping students and fellow researchers better understand the Roman Empire and its legacy.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

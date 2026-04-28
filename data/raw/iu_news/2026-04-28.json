@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-04-28T12:00:46.605038",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Largest undergraduate-managed real estate private equity fund raises additional $7.8 million",
+      "url": "https://news.iu.edu/live/news/50359-largest-undergraduate-managed-real-estate-private",
+      "date": "Apr 28, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Cybersecurity Clinic helps rural organizations strengthen digital security",
+      "url": "https://rural.iu.edu/news/articles/2026/20260422-cybersecurity-clinic.html",
+      "date": "Apr 27, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}
