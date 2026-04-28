@@ -1,7 +1,26 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-27T12:01:49.312684",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:01:51.942461",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UChicago Medicine to study impact of Formula 1 racing season on performance",
+      "url": "https://news.uchicago.edu/story/uchicago-medicine-study-impact-formula-1-racing-season-performance",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Partnership with TGR Haas F1 Team will examine physical, cognitive and psychological toll of motorsports",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "As Chicago's sports teams angle for new deals, students offer a playbook",
+      "url": "https://news.uchicago.edu/story/chicagos-sports-teams-angle-new-deals-students-offer-playbook",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Winning team in Harris Policy Innovation Challenge at UChicago proposed sweeping overhaul of how the city handles stadium deals with pro sports franchises",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
 }

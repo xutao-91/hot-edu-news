@@ -1,9 +1,21 @@
 {
   "source": "Purdue University Newsroom",
   "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
-  "crawled_at": "2026-04-27T12:01:28.110400",
-  "total_news": 0,
-  "news": [],
-  "compiled_count": 0,
+  "crawled_at": "2026-04-27T20:01:33.147661",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "普渡大学于罗斯-阿德体育场架设160英尺高旗杆 纪念美国建国250周年",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-installs-160-foot-tall-flagpole-at-ross-ade-stadium-in-honor-of-americas-250th-anniversary",
+      "date": "April 27, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general",
+      "original_title": "Purdue installs 160-foot-tall flagpole at Ross-Ade Stadium in honor of America’s 250th anniversary",
+      "summary_cn": "2026年4月27日，美国普渡大学官方发布校园设施相关动态信息。\n\n据普渡大学公布的内容，该校已在所属的罗斯-阿德体育场完成旗杆安装工作，本次安装的旗杆总高度为160英尺，选址位于该校罗斯-阿德体育场区域范围内。\n\n普渡大学明确，本次实施旗杆安装项目的核心目的为纪念美国建国250周年，本次相关信息由普渡大学官方对外发布。"
+    }
+  ],
+  "compiled_count": 1,
   "skipped_count": 0
 }

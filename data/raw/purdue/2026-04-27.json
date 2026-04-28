@@ -1,7 +1,17 @@
 {
   "source": "Purdue University Newsroom",
   "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
-  "crawled_at": "2026-04-27T12:01:28.110400",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:01:33.147661",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Purdue installs 160-foot-tall flagpole at Ross-Ade Stadium in honor of America’s 250th anniversary",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-installs-160-foot-tall-flagpole-at-ross-ade-stadium-in-honor-of-americas-250th-anniversary",
+      "date": "April 27, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    }
+  ]
 }

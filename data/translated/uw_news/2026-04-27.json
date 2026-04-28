@@ -1,9 +1,42 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-27T12:02:17.687901",
-  "total_news": 2,
+  "crawled_at": "2026-04-27T20:02:19.477351",
+  "total_news": 5,
   "news": [
+    {
+      "title": "华盛顿大学发布2026年春季部分杰出毕业生代表介绍",
+      "url": "https://news.wisc.edu/meet-some-of-our-notable-grads-for-spring-2026/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "From creating community, to serving others and bringing home Olympic gold, these soon-to-be-grads define what it means to be a Badger.",
+      "source": "UW-Madison News",
+      "category": "general",
+      "original_title": "Meet some of our notable grads for spring 2026",
+      "summary_cn": "2026年4月27日，华盛顿大学公开发布该校2026年春季学期部分杰出毕业生代表相关介绍信息。\n\n本次对外公布的杰出毕业生代表均为2026年春季学期即将完成学业的应届毕业生，覆盖该校不同发展路径的优秀学生群体，是该校应届毕业生中的优秀典型。\n\n本次亮相的杰出毕业生代表事迹多元丰富，涵盖社群建设、公共服务、竞技体育等多个领域，其中不乏曾获得奥运会金牌的优秀学生代表，在各自所属领域均取得了突出成果。\n\n华盛顿大学方面表示，这批即将毕业的优秀学生通过自身的实际行动，充分诠释了作为“Badger”的核心含义。"
+    },
+    {
+      "title": "华盛顿大学发布首个学生基本需求情况综合调查结果",
+      "url": "https://students.wisc.edu/news/uw-survey-offers-first-comprehensive-look-at-student-basic-needs/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "Student Affairs and the Division of Enrollment Management (DEM) has released findings and recommendations from a survey conducted in spring 2025 to better understand the experiences, barriers, and factors associated with basic needs access among students.",
+      "source": "UW-Madison News",
+      "category": "campus",
+      "original_title": "UW survey offers first comprehensive look at student basic needs",
+      "summary_cn": "2026年4月27日，华盛顿大学官方发布该校首个学生基本需求获取情况综合调查的相关成果及配套建议。\n\n本次调查由华盛顿大学学生事务部与招生管理部（Division of Enrollment Management，简称DEM）联合组织实施，调查开展时间为2025年春季，是该校首次针对学生基本需求议题开展的全覆盖、系统性调研工作。\n\n本次调查的核心目标为全面掌握该校学生在基本需求获取过程中的实际经历、面临的各类障碍，以及与基本需求获取相关的各类影响因素，相关调研成果及配套建议将作为该校学生服务领域的重要参考资料。"
+    },
+    {
+      "title": "威斯康星大学麦迪逊分校任命计算与人工智能学院创始院长并宣布学院启动重大投入计划",
+      "url": "https://news.wisc.edu/uw-madison-names-remzi-arpaci-dusseau-founding-dean-of-college-of-computing-and-artificial-intelligence-announces-major-investment-in-colleges-launch/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "$100 million in philanthropic support and a significant campus investment, including 50 new faculty positions, will support research, education and innovation",
+      "source": "UW-Madison News",
+      "category": "general",
+      "original_title": "UW–Madison names Remzi Arpaci-Dusseau founding dean of College of Computing and Artificial Intelligence, announces major investment in college’s launch",
+      "summary_cn": "2026年4月27日，威斯康星大学麦迪逊分校发布官方公告，正式任命雷姆齐·阿尔帕奇-杜索为该校计算与人工智能学院创始院长，同时公布该学院启动阶段的重大投入安排。\n\n本次投入包含总额1亿美元的慈善资助，以及校方提供的大额校园专项投资，所有资源将定向用于支持计算与人工智能学院的研究、教育及创新相关工作。\n\n校方同步明确，将为计算与人工智能学院新增设立50个教职岗位，充实学院师资队伍，为学院各项办学及科研工作推进提供人员保障。"
+    },
     {
       "title": "华盛顿大学大三学生米兰达·加西亚-多夫获评杜鲁门学者",
       "url": "https://news.wisc.edu/now-a-truman-scholar-uw-junior-miranda-garcia-doves-dedication-to-public-service-is-driven-by-curiosity-and-kindness/",
@@ -27,6 +60,6 @@
       "summary_cn": "2026年4月24日，华盛顿大学发布相关教育新闻，介绍威斯康星大学麦迪逊分校獾志愿者项目的开展情况。\n\n本次报道核心聚焦该校学生参与志愿服务的实践动向。威斯康星大学麦迪逊分校组织在校学生参与獾志愿者项目，前往当地社区开展相关服务活动，帮助学生在服务实践过程中探寻个人价值目标，同时切实为社区发展作出积极贡献。\n\n该志愿者项目以“成为比自身更宏大的事业的组成部分”为核心倡导理念，引导参与学生跳出个人视野局限，在服务社区的过程中强化公共责任认知，实现个人成长与社会贡献的有机结合。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 3,
   "skipped_count": 2
 }

@@ -1,7 +1,17 @@
 {
   "source": "Mendoza College of Business at Notre Dame",
   "source_url": "https://mendoza.nd.edu/news/",
-  "crawled_at": "2026-04-27T12:00:56.510747",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:01:01.808460",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Continuing a mission of service",
+      "url": "https://mendoza.nd.edu/news/continuing-a-mission-of-service/",
+      "date": "April 24, 2026",
+      "type": "News",
+      "summary_en": "Ayesha Ahmad is using her MBA as a bridge between military and civilian life.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
 }

@@ -1,9 +1,20 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-27T12:02:06.348774",
-  "total_news": 9,
+  "crawled_at": "2026-04-27T20:02:07.563458",
+  "total_news": 10,
   "news": [
+    {
+      "title": "约特研究所专题研讨会发言者指出贸易领域进展与复杂问题并存",
+      "url": "https://news.unl.edu/article/speakers-at-yeutter-institute-symposium-point-to-trade-progress-complications",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Speakers at Yeutter Institute symposium point to trade progress, complications",
+      "summary_cn": "2026年4月27日，美国内布拉斯加大学林肯分校官方发布涉学术研讨活动的相关教育新闻。\n\n本次新闻内容围绕该校下设约特研究所举办的专题研讨会核心情况展开，据发布内容显示，参与本次研讨会的各方发言人士就贸易领域相关议题发表了公开观点，明确指出当前贸易领域既已取得部分积极进展，同时也存在诸多复杂待梳理的问题。\n\n本次新闻为内布拉斯加大学林肯分校发布的官方公开资讯，内容聚焦研讨会现场发言的核心结论，未纳入超出原文表述范围的延伸信息，相关具体内容以发布方公开的官方信息为准。"
+    },
     {
       "title": "内布拉斯加大学拟于2026年5月8日至9日授予超3800个创纪录学位",
       "url": "https://news.unl.edu/article/nebraska-u-poised-to-award-record-3800-plus-degrees-may-8-9",
@@ -104,6 +115,6 @@
       "summary_cn": "2026年4月24日，美国内布拉斯加大学林肯分校正式发布相关校务信息，宣布启动下一任首席传播与营销官选聘工作。\n\n本次选聘属于该校行政人事管理范畴的常规工作事项，核心目标为遴选符合岗位要求的合适人员就任首席传播与营销官一职，承担该岗位对应工作职责。\n\n本次选聘工作由该校相关职能部门牵头组织，各项工作将按照学校既定的行政岗位选聘流程有序推进，选聘相关进展及最终结果将由学校官方渠道统一对外发布。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 7
+  "compiled_count": 1,
+  "skipped_count": 9
 }

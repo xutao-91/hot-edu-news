@@ -1,7 +1,17 @@
 {
   "source": "UW-Madison CDIS - School of Computer, Data & Information Sciences",
   "source_url": "https://cdis.wisc.edu/cdis-news/",
-  "crawled_at": "2026-04-27T12:02:10.062536",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:02:11.249405",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UW–Madison names Remzi Arpaci-Dusseau founding dean of College of Computing and Artificial Intelligence, announces major investment in college’s launch",
+      "url": "https://news.wisc.edu/uw-madison-names-remzi-arpaci-dusseau-founding-dean-of-college-of-computing-and-artificial-intelligence-announces-major-investment-in-colleges-launch/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "$100 million in philanthropic support and a significant campus investment, including 50 new faculty positions, will support research, education, and innovation",
+      "source": "UW-Madison CDIS",
+      "category": "ai_ml"
+    }
+  ]
 }

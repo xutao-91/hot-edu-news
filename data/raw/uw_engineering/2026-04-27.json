@@ -1,7 +1,17 @@
 {
   "source": "UW-Madison College of Engineering",
   "source_url": "https://engineering.wisc.edu/news/",
-  "crawled_at": "2026-04-27T12:02:13.891712",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:02:15.635406",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "With a nod toward industry demand, new system will create super-shock-absorbing foams faster",
+      "url": "https://engineering.wisc.edu/news/with-a-nod-toward-industry-demand-new-system-will-create-super-shock-absorbing-foams-faster/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "A new chemical vapor deposition system is expanding the University of Wisconsin-Madison College of Engineering’s advanced manufacturing capabilities. Importantly, the system will deepen collaborations with industry partners who want to apply the college’s innovative shock-absorbing…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    }
+  ]
 }

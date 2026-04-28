@@ -1,9 +1,20 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-04-27T12:00:37.660385",
-  "total_news": 1,
+  "crawled_at": "2026-04-27T20:00:44.022545",
+  "total_news": 2,
   "news": [
+    {
+      "title": "印第安纳大学网络安全诊所助力乡村机构强化数字安全",
+      "url": "https://rural.iu.edu/news/articles/2026/20260422-cybersecurity-clinic.html",
+      "date": "Apr 27, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general",
+      "original_title": "IU Cybersecurity Clinic helps rural organizations strengthen digital security",
+      "summary_cn": "2026年4月27日，印第安纳大学对外发布相关工作资讯。\n\n本次发布的资讯核心内容为该校网络安全诊所面向乡村机构提供相关支持，帮助相关机构提升数字安全防护能力。\n\n相关资讯由印第安纳大学官方渠道对外公开，涉及的服务事项聚焦乡村机构数字安全保障需求开展。"
+    },
     {
       "title": "刑事司法专家研究成果为警方处置无家可归者相关事务提供指引",
       "url": "https://news.iu.edu/college/live/news/50303-iu-criminal-justice-experts-research-offers-best-pract",
@@ -16,6 +27,6 @@
       "summary_cn": "2026年4月24日，美国印第安纳大学对外发布相关研究信息。\n\n本次发布的信息显示，该校刑事司法领域专家所开展的相关研究，能够为警方处置无家可归者相关事务提供专业指引。\n\n印第安纳大学为本次研究相关信息的官方发布主体，相关内容于前述日期正式公开。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 1,
   "skipped_count": 1
 }

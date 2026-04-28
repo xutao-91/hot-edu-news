@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-04-27T12:00:37.660385",
-  "total_news": 1,
+  "crawled_at": "2026-04-27T20:00:44.022545",
+  "total_news": 2,
   "news": [
+    {
+      "title": "IU Cybersecurity Clinic helps rural organizations strengthen digital security",
+      "url": "https://rural.iu.edu/news/articles/2026/20260422-cybersecurity-clinic.html",
+      "date": "Apr 27, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "Criminal justice expert’s research provides police with guidance for approaching homelessness",
       "url": "https://news.iu.edu/college/live/news/50303-iu-criminal-justice-experts-research-offers-best-pract",

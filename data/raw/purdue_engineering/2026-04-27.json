@@ -1,7 +1,17 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-04-27T12:01:33.066930",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:01:38.063895",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "College recognizes teachers with top evaluation scores",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0427-College-recognizes-teachers-with-top-evaluation-scores",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "The College of Engineering recognized faculty, lecturers and other staff for outstanding dedication to teaching students in a Purdue Exponent ad on March 2.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
 }

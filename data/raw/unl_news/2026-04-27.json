@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-27T12:02:06.348774",
-  "total_news": 9,
+  "crawled_at": "2026-04-27T20:02:07.563458",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Speakers at Yeutter Institute symposium point to trade progress, complications",
+      "url": "https://news.unl.edu/article/speakers-at-yeutter-institute-symposium-point-to-trade-progress-complications",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Nebraska U poised to award record 3,800-plus degrees May 8-9",
       "url": "https://news.unl.edu/article/nebraska-u-poised-to-award-record-3800-plus-degrees-may-8-9",

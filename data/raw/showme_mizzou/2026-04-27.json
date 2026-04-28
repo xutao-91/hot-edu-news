@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-04-27T12:01:40.873422",
-  "total_news": 4,
+  "crawled_at": "2026-04-27T20:01:47.304400",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Mizzou honors distinguished alumni, introduces new philanthropy award",
+      "url": "https://showme.missouri.edu/2026/mizzou-honors-distinguished-alumni-introduces-new-philanthropy-award/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Recipients recognized for exemplary achievement, service and impact; Walsworth family receives inaugural philanthropic honor.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "What to know about spring commencement 2026",
       "url": "https://showme.missouri.edu/2026/what-to-know-about-spring-commencement-2026/",

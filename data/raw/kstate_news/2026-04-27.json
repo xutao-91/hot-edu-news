@@ -1,9 +1,27 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-04-27T12:00:44.761748",
-  "total_news": 9,
+  "crawled_at": "2026-04-27T20:00:50.855034",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Share your K-State experiences as a Parent and Family Ambassador for New Student Orientation",
+      "url": "https://www.k-state.edu/news/articles/2026/04/parent-and-family-ambassadors-student-orientation.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "In preparation for the upcoming new student orientation, the K-State Parents and Family Program is seeking volunteers to serve on a panel each day of the in-person orientation. In addition...",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "People with Purpose: Morgan Greene",
+      "url": "https://www.k-state.edu/news/articles/2026/04/morgan-greene-collaborates-and-connects.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Through strategic communications, Morgan Greene connects students to resources, strengthens campus communities and supports success.",
+      "source": "K-State News",
+      "category": "general"
+    },
     {
       "title": "Introduce US culture to international scholars: Fullbright volunteer opportunity",
       "url": "https://www.k-state.edu/news/articles/2026/04/volunteer-families-fulbright-program-students.html",
@@ -32,22 +50,13 @@
       "category": "general"
     },
     {
-      "title": "People with Purpose: Morgan Greene",
-      "url": "https://www.k-state.edu/news/articles/2026/04/morgan-greene-collaborates-and-connects.html",
-      "date": "2026-04-27",
-      "type": "News",
-      "summary_en": "Through strategic communications, Morgan Greene connects students to resources, strengthens campus communities and supports success.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "A look back at Open House through pictures",
-      "url": "https://www.k-state.edu/news/articles/2026/04/open-house-2026-gallery.html",
+      "title": "Turning K-State research into real-world solutions",
+      "url": "https://www.k-state.edu/news/articles/2026/04/inventors-and-breeders-one-kstate-research-week.html",
       "date": "2026-04-24",
       "type": "News",
-      "summary_en": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on...",
+      "summary_en": "As part of One K-State Research Week 2026, the university is recognizing inventors who received patents and plant variety protection certificates in 2024 and 2025. Take a closer look...",
       "source": "K-State News",
-      "category": "general"
+      "category": "research"
     },
     {
       "title": "Building community from day one",
@@ -77,13 +86,13 @@
       "category": "students"
     },
     {
-      "title": "Turning K-State research into real-world solutions",
-      "url": "https://www.k-state.edu/news/articles/2026/04/inventors-and-breeders-one-kstate-research-week.html",
+      "title": "A look back at Open House through pictures",
+      "url": "https://www.k-state.edu/news/articles/2026/04/open-house-2026-gallery.html",
       "date": "2026-04-24",
       "type": "News",
-      "summary_en": "As part of One K-State Research Week 2026, the university is recognizing inventors who received patents and plant variety protection certificates in 2024 and 2025. Take a closer look...",
+      "summary_en": "From hands-on experiments to campus traditions, K-State's 2026 Open House gave community members, prospective students and families a glimpse of the learning, creativity and hands-on...",
       "source": "K-State News",
-      "category": "research"
+      "category": "general"
     }
   ]
 }

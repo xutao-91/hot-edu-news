@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-04-27T12:01:50.634410",
-  "total_news": 2,
+  "crawled_at": "2026-04-27T20:01:53.316646",
+  "total_news": 3,
   "news": [
+    {
+      "title": "UIC researchers awarded $10M grant to boost young learners’ reading skills",
+      "url": "https://today.uic.edu/uic-researchers-awarded-10m-grant-to-boost-young-learners-reading-skills/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Funds launch WORDS Illinois, a multiyear professional learning program for teachers.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
     {
       "title": "UIC historian  receives national service award",
       "url": "https://today.uic.edu/uic-historian-receives-national-service-award/",

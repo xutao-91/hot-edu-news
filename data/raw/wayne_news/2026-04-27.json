@@ -1,8 +1,8 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-04-27T12:02:22.075353",
-  "total_news": 3,
+  "crawled_at": "2026-04-27T20:02:23.882714",
+  "total_news": 5,
   "news": [
     {
       "title": "Five faculty members earn top honors from Wayne State Board of Governors",
@@ -12,6 +12,24 @@
       "summary_en": "",
       "source": "Wayne State News",
       "category": "academic"
+    },
+    {
+      "title": "Linguistics student earns prestigious U.S.-Germany fellowship",
+      "url": "https://oip.wayne.edu/news/linguistics-student-earns-prestigious-us-germany-fellowship-68944",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "BOG Notebook: Housing rates remain flat; campus upgrades move forward for Law School, soccer field",
+      "url": "https://today.wayne.edu/news/2026/04/27/bog-notebook-housing-rates-remain-flat-campus-upgrades-move-forward-for-law-school-soccer-field-68948",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
     },
     {
       "title": "Wayne State expands access to paid environmental internships",

@@ -1,7 +1,7 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-04-27T12:02:20.685071",
+  "crawled_at": "2026-04-27T20:02:22.469322",
   "total_news": 7,
   "news": [
     {
@@ -82,6 +82,6 @@
       "summary_cn": "2026年4月24日，美国圣路易斯华盛顿大学对外发布相关学术观点，聚焦美国抵押贷款领域监管政策调整的相关影响。\n\n本次对外发布的观点由圣路易斯华盛顿大学奥林商学院学者布列塔尼·刘易斯提出，观点所针对的核心事件为美国时任总统唐纳德·特朗普签署的一项最新行政令。\n\n布列塔尼·刘易斯明确表示，前述行政令的核心内容涉及放宽抵押贷款领域放贷规则、降低借贷领域相关监管要求、缩减现有监管覆盖范围，此类监管松绑举措将对美国金融体系的稳定性构成直接威胁，存在引发金融体系动荡的可能性。"
     }
   ],
-  "compiled_count": 4,
-  "skipped_count": 3
+  "compiled_count": 0,
+  "skipped_count": 7
 }

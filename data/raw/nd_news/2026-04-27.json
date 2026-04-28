@@ -1,9 +1,18 @@
 {
   "source": "University of Notre Dame News",
   "source_url": "https://news.nd.edu/news/category/university-news/",
-  "crawled_at": "2026-04-27T12:01:10.202155",
-  "total_news": 1,
+  "crawled_at": "2026-04-27T20:01:12.532298",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Barbara Jatta explores art as an instrument of hope at Forum’s closing event",
+      "url": "https://news.nd.edu/news/barbara-jatta-explores-art-as-an-instrument-of-hope-at-forums-closing-event/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
     {
       "title": "Mary Cunningham Boyce, renowned engineer and scholar, to deliver Graduate School Commencement address",
       "url": "https://news.nd.edu/news/mary-cunningham-boyce-renowned-engineer-and-scholar-to-deliver-graduate-school-commencement-address/",

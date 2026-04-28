@@ -1,9 +1,36 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-27T12:02:17.687901",
-  "total_news": 2,
+  "crawled_at": "2026-04-27T20:02:19.477351",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Meet some of our notable grads for spring 2026",
+      "url": "https://news.wisc.edu/meet-some-of-our-notable-grads-for-spring-2026/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "From creating community, to serving others and bringing home Olympic gold, these soon-to-be-grads define what it means to be a Badger.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW survey offers first comprehensive look at student basic needs",
+      "url": "https://students.wisc.edu/news/uw-survey-offers-first-comprehensive-look-at-student-basic-needs/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "Student Affairs and the Division of Enrollment Management (DEM) has released findings and recommendations from a survey conducted in spring 2025 to better understand the experiences, barriers, and factors associated with basic needs access among students.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison names Remzi Arpaci-Dusseau founding dean of College of Computing and Artificial Intelligence, announces major investment in college’s launch",
+      "url": "https://news.wisc.edu/uw-madison-names-remzi-arpaci-dusseau-founding-dean-of-college-of-computing-and-artificial-intelligence-announces-major-investment-in-colleges-launch/",
+      "date": "April 27, 2026",
+      "type": "News",
+      "summary_en": "$100 million in philanthropic support and a significant campus investment, including 50 new faculty positions, will support research, education and innovation",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Now a Truman Scholar, UW junior Miranda Garcia-Dove’s dedication to public service is driven by curiosity and kindness",
       "url": "https://news.wisc.edu/now-a-truman-scholar-uw-junior-miranda-garcia-doves-dedication-to-public-service-is-driven-by-curiosity-and-kindness/",

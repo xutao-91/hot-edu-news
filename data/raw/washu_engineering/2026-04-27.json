@@ -1,7 +1,17 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-04-27T12:02:19.349965",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-27T20:02:21.117660",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "McKelvey Engineering students design device tailored to fit needs of visually impaired",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-students-design-device-tailored-to-fit-needs-of-visually-impaired.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "The Locus Suit enables independent navigation.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    }
+  ]
 }

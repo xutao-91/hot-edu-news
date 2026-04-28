@@ -1,9 +1,21 @@
 {
   "source": "Northwestern University News",
   "source_url": "https://news.northwestern.edu/university-news",
-  "crawled_at": "2026-04-27T12:01:15.062552",
-  "total_news": 0,
-  "news": [],
-  "compiled_count": 0,
+  "crawled_at": "2026-04-27T20:01:18.529640",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "西北大学量子周活动彰显伊利诺伊州量子生态系统持续发展",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwesterns-quantum-week-underscores-a-growing-illinois-ecosystem",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general",
+      "original_title": "Northwestern’s Quantum Week signals a growing Illinois ecosystem",
+      "summary_cn": "2026年4月27日，美国西北大学官方发布相关教育领域动态。\n\n本次发布的新闻以该校举办的量子周系列活动为核心主题，相关内容体现出伊利诺伊州量子领域生态体系正处于不断发展的态势。\n\n该动态由西北大学官方对外推出，旨在向相关领域受众传递该校量子主题活动举办情况，以及所在地量子产业生态建设的相关进展。"
+    }
+  ],
+  "compiled_count": 1,
   "skipped_count": 0
 }

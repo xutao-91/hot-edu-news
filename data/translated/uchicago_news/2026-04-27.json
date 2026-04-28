@@ -1,9 +1,32 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-27T12:01:49.312684",
-  "total_news": 0,
-  "news": [],
-  "compiled_count": 0,
+  "crawled_at": "2026-04-27T20:01:51.942461",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "芝加哥大学医学院将与TGR哈斯F1车队合作研究一级方程式赛车赛季对车手表现的影响",
+      "url": "https://news.uchicago.edu/story/uchicago-medicine-study-impact-formula-1-racing-season-performance",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Partnership with TGR Haas F1 Team will examine physical, cognitive and psychological toll of motorsports",
+      "source": "UChicago News",
+      "category": "research",
+      "original_title": "UChicago Medicine to study impact of Formula 1 racing season on performance",
+      "summary_cn": "2026年4月27日，芝加哥大学发布相关合作研究消息，该校医学院将与TGR哈斯一级方程式（F1）车队开展合作，共同推进一级方程式赛车赛季对车手表现影响的相关研究。\n\n本次研究为双方联合开展的专项研究项目，核心聚焦赛车运动对相关参与者带来的综合影响，所有研究工作将由芝加哥大学医学院与TGR哈斯F1车队协同推进。\n\n本次研究将从三个核心维度开展调研分析，分别为赛车运动造成的生理层面损耗、认知层面损耗以及心理层面损耗，全面梳理赛车运动对从业人员产生的相关作用。"
+    },
+    {
+      "title": "芝加哥市体育团队谋求新合作协议之际 芝加哥大学政策竞赛获奖团队提出场馆协议处理改革方案",
+      "url": "https://news.uchicago.edu/story/chicagos-sports-teams-angle-new-deals-students-offer-playbook",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Winning team in Harris Policy Innovation Challenge at UChicago proposed sweeping overhaul of how the city handles stadium deals with pro sports franchises",
+      "source": "UChicago News",
+      "category": "education",
+      "original_title": "As Chicago's sports teams angle for new deals, students offer a playbook",
+      "summary_cn": "2026年4月27日，芝加哥大学对外公开该校哈里斯政策创新挑战赛的相关赛事成果。\n\n近期芝加哥市各职业体育团队均在推进新合作协议的对接工作，涉及场馆合作等相关核心内容，在此背景下，芝加哥大学哈里斯政策创新挑战赛将场馆协议相关内容列为重要参赛议题，面向参赛团队征集政策设计方案。\n\n本次赛事的获奖团队提交的方案提出，需对芝加哥市现行的与职业体育特许经营方对接场馆合作协议的处理机制进行全面系统性改革，相关方案内容为芝加哥市后续与各体育团队开展新协议磋商工作提供了明确的政策参考路径。"
+    }
+  ],
+  "compiled_count": 2,
   "skipped_count": 0
 }

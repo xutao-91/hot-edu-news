@@ -1,9 +1,36 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-27T12:02:23.413326",
-  "total_news": 4,
+  "crawled_at": "2026-04-27T20:02:28.858515",
+  "total_news": 7,
   "news": [
+    {
+      "title": "白宫向参议院提交提名及撤回提名相关文书",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/nominations-and-withdrawals-sent-to-the-senate-d935/",
+      "date": "April 27, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Nominations and Withdrawals Sent to the Senate",
+      "summary_cn": "2026年4月27日，美国白宫官方发布公务通报，通报原英文标题为《Nominations and Withdrawals Sent to the Senate》。\n\n本次通报涉及的核心行政事务为，白宫按照既定法定程序，向美国参议院提交提名类及提名撤回类正式公务文书，履行对应行政环节的法定告知义务。\n\n本次通报为白宫官方对外发布的正式公务信息，发布主体为美国白宫行政机构，发布渠道为白宫官方公务信息发布平台。"
+    },
+    {
+      "title": "白宫发布关于全国学徒周的总统致辞",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-on-national-apprenticeship-week/",
+      "date": "April 27, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on National Apprenticeship Week",
+      "summary_cn": "2026年4月27日，美国白宫官方发布题为《关于全国学徒周的总统致辞》的正式公务文件。\n\n该文件为美国总统就全国学徒周相关事宜发布的官方表态类文书，白宫为该文件的官方发布主体，文件标注的正式发布日期为2026年4月27日。\n\n本次公开的文件核心要素包含文件标题、发布主体、发布日期三项内容，相关信息均通过白宫官方渠道对外公布。"
+    },
+    {
+      "title": "美国国会H.J.Res.140号联合决议案正式签署成为法律",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-j-res-140-signed-into-law/",
+      "date": "April 27, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Congressional Bill H.J.Res. 140 Signed into Law",
+      "summary_cn": "2026年4月27日，白宫官方发布公务公告，宣布美国国会H.J.Res.140号联合决议案已完成全部签署程序，正式成为生效法律。\n\n本次公开的立法相关信息由美国白宫作为官方发布主体对外公布，所涉H.J.Res.140号文件为美国国会提交的联合决议类立法议案。\n\n本次公告为该立法事项完成生效程序的官方确认文件，相关信息由白宫官方渠道对外发布。"
+    },
     {
       "title": "美国总统唐纳德·J·特朗普与第一夫人梅拉尼娅·特朗普将迎候大不列颠及北爱尔兰联合王国国王查尔斯三世陛下及王后卡米拉陛下对美进行国事访问",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/president-donald-j-trump-and-first-lady-melania-trump-to-welcome-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla-for-a-state/",
@@ -41,6 +68,6 @@
       "summary_cn": "2026年4月24日，白宫官方发布公务消息，美国第一夫人梅拉尼娅·特朗普在白宫南草坪完成新设蜂箱揭幕相关公务议程。\n\n本次揭幕活动是第一夫人公开公务安排内容，活动举办地点为白宫南草坪区域，核心事项为新设蜂箱揭幕。\n\n该公务活动相关信息由白宫作为唯一官方发布主体对外披露，信息发布符合美国联邦政府公务信息公开的相关流程要求。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 3,
   "skipped_count": 4
 }
