@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-04-28T12:02:27.188716",
-  "total_news": 3,
+  "crawled_at": "2026-04-28T20:02:25.355532",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Wayne State School of Social Work announces 2026 Teaching and Service Award recipients",
+      "url": "https://socialwork.wayne.edu/news/wayne-state-school-of-social-work-announces-2026-teaching-and-service-award-recipients-68958",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
     {
       "title": "Five faculty members earn top honors from Wayne State Board of Governors",
       "url": "https://today.wayne.edu/news/2026/04/27/five-faculty-members-earn-top-honors-from-wayne-state-board-of-governors-68921",

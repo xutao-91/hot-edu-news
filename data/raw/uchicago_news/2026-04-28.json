@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-28T12:01:57.397020",
-  "total_news": 3,
+  "crawled_at": "2026-04-28T20:01:52.018252",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Court Theatre’s ‘Out Here’ rebuilds the queer musical from the ground up",
+      "url": "https://news.uchicago.edu/story/court-theatres-out-here-rebuilds-queer-musical-ground",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Incubated at UChicago, the original work reimagines divorce, coming out at 50 and the conventions of musical theater",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "The Science Behind Seasonal Sniffles",
       "url": "https://news.uchicago.edu/science-behind-seasonal-sniffles",

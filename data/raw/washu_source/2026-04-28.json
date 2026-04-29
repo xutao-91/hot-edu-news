@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-04-28T12:02:25.680890",
-  "total_news": 7,
+  "crawled_at": "2026-04-28T20:02:23.864971",
+  "total_news": 8,
   "news": [
+    {
+      "title": "For the tiniest babies, making the best use of antibiotics",
+      "url": "https://source.washu.edu/2026/04/for-the-tiniest-babies-making-the-best-use-of-antibiotics/",
+      "date": "2026-04-28",
+      "type": "Medicine",
+      "summary_en": "A decadeslong research collaboration at WashU Medicine has led to a reduction in antibiotic use in preemies in the neonatal intensive care unit at St. Louis Children’s Hospital.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Steven Isserlis and Connie Shih perform April 30",
       "url": "https://source.washu.edu/2026/04/steven-isserlis-and-connie-shih-perform-april-30/",

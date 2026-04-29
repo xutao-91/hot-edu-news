@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-28T12:02:28.560121",
-  "total_news": 8,
+  "crawled_at": "2026-04-28T20:02:26.721156",
+  "total_news": 10,
   "news": [
+    {
+      "title": "First Lady Melania Trump Releases Details on the State Dinner with His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla/",
+      "date": "April 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "First Lady Melania Trump Reinforces the Importance of Technology and Education with Her Majesty Queen Camilla",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
@@ -44,6 +51,13 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-j-res-140-signed-into-law/",
       "date": "April 27, 2026",
       "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump on 60 Minutes: “There Was Tremendous Camaraderie”",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-on-60-minutes-there-was-tremendous-camaraderie/",
+      "date": "April 27, 2026",
+      "category": "Releases",
       "source": "The White House"
     },
     {

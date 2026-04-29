@@ -1,8 +1,8 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-04-28T12:00:46.605038",
-  "total_news": 2,
+  "crawled_at": "2026-04-28T20:00:47.586357",
+  "total_news": 3,
   "news": [
     {
       "title": "Largest undergraduate-managed real estate private equity fund raises additional $7.8 million",
@@ -12,6 +12,15 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"
+    },
+    {
+      "title": "Irsay Institute research shows growing crisis in suicide trends for people under 35",
+      "url": "https://irsay.iu.edu/news-events/posts/2026-04-27-a-century-of-suicide-pescosolido-pnas-article/",
+      "date": "Apr 28, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
     },
     {
       "title": "IU Cybersecurity Clinic helps rural organizations strengthen digital security",

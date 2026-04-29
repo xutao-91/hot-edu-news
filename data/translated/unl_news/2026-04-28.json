@@ -1,7 +1,7 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-04-28T12:02:11.210064",
+  "crawled_at": "2026-04-28T20:02:09.104203",
   "total_news": 6,
   "news": [
     {
@@ -71,6 +71,6 @@
       "summary_cn": "2026年4月27日，内布拉斯加大学林肯分校发布一项最新科研进展，该校研究人员成功研发出一种具备良好应用前景的新型禽流感疫苗。\n\n本次公开的科研成果核心方向为禽流感疫苗开发，研发工作由内布拉斯加大学林肯分校所属研究团队主导完成。\n\n相关进展信息由内布拉斯加大学林肯分校作为官方发布主体对外公开，属于禽流感防控领域最新科研动态内容。"
     }
   ],
-  "compiled_count": 3,
-  "skipped_count": 3
+  "compiled_count": 0,
+  "skipped_count": 6
 }

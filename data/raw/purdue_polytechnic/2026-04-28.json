@@ -1,7 +1,26 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-04-28T12:01:43.852625",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-04-28T20:01:40.154018",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue Online alumnus John Downing finds success with online construction management Master's",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-online-alumnus-john-downing-finds-success-online-construction-management-masters",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Polytechnic construction faculty, students earn top awards, present research at national ASC conference",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-construction-faculty-students-earn-top-awards-present-research-national",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    }
+  ]
 }

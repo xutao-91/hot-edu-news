@@ -1,15 +1,26 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-28T12:02:22.556318",
-  "total_news": 4,
+  "crawled_at": "2026-04-28T20:02:20.211602",
+  "total_news": 5,
   "news": [
+    {
+      "title": "华盛顿大学校队乐队音乐会举办 尽显校园精神与欢乐氛围",
+      "url": "https://news.wisc.edu/school-spirit-and-silliness-ensue-at-the-varsity-band-concert/",
+      "date": "April 28, 2026",
+      "type": "News",
+      "summary_en": "The annual performance showcases student talent and celebrates the end of the UW Marching Band season.",
+      "source": "UW-Madison News",
+      "category": "general",
+      "original_title": "School spirit and silliness ensue at the Varsity Band Concert",
+      "summary_cn": "2026年4月28日，华盛顿大学发布该校校队乐队音乐会相关活动信息。\n\n本次校队乐队音乐会现场洋溢着浓厚的校园精神，同时充满轻松活泼的欢乐趣味氛围。\n\n该音乐会为华盛顿大学一年一度的例行演出活动，主要承载两项核心功能：一是集中展示该校学生的艺术才华，为学生提供展现艺术素养的公开渠道；二是作为华盛顿大学行进乐队赛季的收官庆祝活动，标志着当年度该校行进乐队赛季正式结束。"
+    },
     {
       "title": "威斯康星大学麦迪逊分校对威斯康星州年经济贡献达389亿美元",
       "url": "https://news.wisc.edu/uw-madisons-reach-throughout-wisconsin-adds-up-to-38-9-billion-a-year/",
       "date": "April 28, 2026",
       "type": "News",
-      "summary_en": "The university supports more than 287,000 jobs and helps drive private-sector growth",
+      "summary_en": "The university supports more than 287,000 jobs and helps drive private-sector growth.",
       "source": "UW-Madison News",
       "category": "general",
       "original_title": "UW–Madison’s reach throughout Wisconsin adds up to $38.9 billion a year",
@@ -31,7 +42,7 @@
       "url": "https://students.wisc.edu/news/uw-survey-offers-first-comprehensive-look-at-student-basic-needs/",
       "date": "April 27, 2026",
       "type": "News",
-      "summary_en": "Student Affairs and the Division of Enrollment Management (DEM) has released findings and recommendations from a survey conducted in spring 2025 to better understand the experiences, barriers, and factors associated with basic needs access among students.",
+      "summary_en": "Questions from the first comprehensive Basic Needs Survey addressed food security, housing stability, financial resources and more.",
       "source": "UW-Madison News",
       "category": "campus",
       "original_title": "UW survey offers first comprehensive look at student basic needs",
@@ -50,5 +61,5 @@
     }
   ],
   "compiled_count": 1,
-  "skipped_count": 3
+  "skipped_count": 4
 }

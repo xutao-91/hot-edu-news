@@ -1,9 +1,20 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-04-28T12:02:25.680890",
-  "total_news": 7,
+  "crawled_at": "2026-04-28T20:02:23.864971",
+  "total_news": 8,
   "news": [
+    {
+      "title": "圣路易斯华盛顿大学长期研究推动新生儿重症监护室早产儿抗生素使用量下降",
+      "url": "https://source.washu.edu/2026/04/for-the-tiniest-babies-making-the-best-use-of-antibiotics/",
+      "date": "2026-04-28",
+      "type": "Medicine",
+      "summary_en": "A decadeslong research collaboration at WashU Medicine has led to a reduction in antibiotic use in preemies in the neonatal intensive care unit at St. Louis Children’s Hospital.",
+      "source": "WashU Source",
+      "category": "general",
+      "original_title": "For the tiniest babies, making the best use of antibiotics",
+      "summary_cn": "2026年4月28日，美国圣路易斯华盛顿大学发布相关医学研究进展。\n\n本次研究由圣路易斯华盛顿大学医学院主导推进，属于持续数十年的科研协作项目，研究相关工作围绕新生儿临床用药场景开展。\n\n该研究的成果已在圣路易斯儿童医院落地应用，直接推动该院新生儿重症监护室收治的早产儿群体抗生素使用量出现下降，为相关群体临床用药方案的调整提供了实践支撑。"
+    },
     {
       "title": "史蒂文·伊瑟利斯与康妮·施将于4月30日参演圣路易斯华盛顿大学“伟大艺术家系列”演出",
       "url": "https://source.washu.edu/2026/04/steven-isserlis-and-connie-shih-perform-april-30/",
@@ -82,6 +93,6 @@
       "summary_cn": "2026年4月27日，圣路易斯华盛顿大学公开发布标题为《Class Acts：贝弗利·洛博与贾登·兰扎》的教育新闻，对该校法学院两名在读学生的学术研究进展情况进行介绍。\n\n本次研究的实施主体为圣路易斯华盛顿大学法学院学生贝弗利·洛博与贾登·兰扎，二人正在推进的是一项大规模实证研究项目，研究方向处于法律学科与数据科学学科的交叉领域，属于跨学科融合研究范畴，相关研究工作目前正在有序开展。\n\n根据圣路易斯华盛顿大学本次公开的信息，该研究项目具备较强的现实应用属性，其研究成果未来可应用于美国监禁相关事务领域，或将对美国的监禁状况产生影响。"
     }
   ],
-  "compiled_count": 3,
-  "skipped_count": 4
+  "compiled_count": 1,
+  "skipped_count": 7
 }

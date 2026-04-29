@@ -1,9 +1,20 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-04-28T12:01:57.397020",
-  "total_news": 3,
+  "crawled_at": "2026-04-28T20:01:52.018252",
+  "total_news": 4,
   "news": [
+    {
+      "title": "考特剧院原创音乐剧《此处之外》从零重构酷儿音乐剧",
+      "url": "https://news.uchicago.edu/story/court-theatres-out-here-rebuilds-queer-musical-ground",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Incubated at UChicago, the original work reimagines divorce, coming out at 50 and the conventions of musical theater",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "Court Theatre’s ‘Out Here’ rebuilds the queer musical from the ground up",
+      "summary_cn": "2026年4月28日，芝加哥大学发布相关文化艺术动态，介绍由该校孵化的原创艺术项目进展情况。\n\n本次对外介绍的原创作品为考特剧院推出的音乐剧《此处之外》（Out Here），该作品的核心创作目标是对酷儿音乐剧品类进行从零开始的全面重构。\n\n该原创作品围绕三大维度开展艺术创作，分别对离婚相关议题进行重新演绎，对个体在50岁年龄阶段的出柜经历进行艺术呈现，同时对传统音乐剧的既有创作惯例作出全新探索。"
+    },
     {
       "title": "The Science Behind Seasonal Sniffles",
       "url": "https://news.uchicago.edu/science-behind-seasonal-sniffles",
@@ -39,5 +50,5 @@
     }
   ],
   "compiled_count": 1,
-  "skipped_count": 2
+  "skipped_count": 3
 }

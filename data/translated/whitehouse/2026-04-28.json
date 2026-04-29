@@ -1,9 +1,18 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-28T12:02:28.560121",
-  "total_news": 8,
+  "crawled_at": "2026-04-28T20:02:26.721156",
+  "total_news": 10,
   "news": [
+    {
+      "title": "First Lady Melania Trump Releases Details on the State Dinner with His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-releases-details-on-the-state-dinner-with-his-majesty-king-charles-the-iii-of-the-united-kingdom-of-great-britain-and-northern-ireland-and-her-majesty-queen-camilla/",
+      "date": "April 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "First Lady Melania Trump Releases Details on the State Dinner with His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla",
+      "summary_cn": "2026年04月28日，First Lady Melania Trump Releases Details on the State Dinner with His Majesty King Charles the III of the United Kingdom of Great Britain and Northern Ireland and Her Majesty Queen Camilla。"
+    },
     {
       "title": "美国第一夫人梅拉尼娅·特朗普与卡米拉女王共同强调科技与教育的重要性",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/first-lady-melania-trump-reinforces-the-importance-of-technology-and-education-with-her-majesty-queen-camilla/",
@@ -59,6 +68,15 @@
       "summary_cn": "2026年4月27日，白宫官方发布公务公告，宣布美国国会H.J.Res.140号联合决议案已完成全部签署程序，正式成为生效法律。\n\n本次公开的立法相关信息由美国白宫作为官方发布主体对外公布，所涉H.J.Res.140号文件为美国国会提交的联合决议类立法议案。\n\n本次公告为该立法事项完成生效程序的官方确认文件，相关信息由白宫官方渠道对外发布。"
     },
     {
+      "title": "特朗普总统接受《60分钟》采访称“氛围非常融洽”",
+      "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-on-60-minutes-there-was-tremendous-camaraderie/",
+      "date": "April 27, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump on 60 Minutes: “There Was Tremendous Camaraderie”",
+      "summary_cn": "2026年4月27日，白宫官方发布相关新闻，内容涉及美国总统特朗普接受《60分钟》节目采访的有关表态。\n\n特朗普在此次《60分钟》节目采访中作出相关公开表述，明确提及采访过程中“氛围非常融洽”，该表述为本次白宫发布新闻的核心公开内容。\n\n本次新闻由白宫作为官方信息发布主体对外公开，属于涉美国国家元首公务采访活动相关的官方信息发布范畴。"
+    },
+    {
       "title": "白宫发布关于尤利西斯·S·格兰特总统诞辰的总统咨文",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-birthday-of-president-ulysses-s-grant/",
       "date": "April 27, 2026",
@@ -77,6 +95,6 @@
       "summary_cn": "2026年4月25日，美国白宫对外发布官方外事消息，宣布美国总统唐纳德·J·特朗普及第一夫人梅拉尼娅·特朗普将作为东道主，接待大不列颠及北爱尔兰联合王国国王查尔斯三世陛下、王后卡米拉陛下对美国开展的国事访问。\n\n本次访问属于美国官方认定的国事访问层级外事活动，由美国总统夫妇全程牵头负责迎候及相关接待事宜，是美英两国之间的重要高层官方交往安排。\n\n该消息由美国白宫作为官方权威渠道对外发布，所有公开内容均严格遵循美国外事公务信息发布规范，相关接待工作将按照两国商定的外事礼宾标准推进实施。"
     }
   ],
-  "compiled_count": 4,
-  "skipped_count": 4
+  "compiled_count": 2,
+  "skipped_count": 8
 }

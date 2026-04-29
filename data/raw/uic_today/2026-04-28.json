@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-04-28T12:01:58.787855",
-  "total_news": 3,
+  "crawled_at": "2026-04-28T20:01:53.462895",
+  "total_news": 4,
   "news": [
+    {
+      "title": "UIC marks Arbor Day by releasing beneficial insects",
+      "url": "https://today.uic.edu/uic-marks-arbor-day-by-releasing-beneficial-insects/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Arbor Day event protects UIC’s trees and highlights the university’s commitment to sustainability.",
+      "source": "UIC Today",
+      "category": "general"
+    },
     {
       "title": "UIC students create wearable tech for children with anxiety",
       "url": "https://today.uic.edu/wearable-tech-project-to-assist-children-with-anxiety-presented-at-uic-engineering-expo/",

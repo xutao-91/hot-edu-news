@@ -1,9 +1,18 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-04-28T12:00:43.571399",
-  "total_news": 3,
+  "crawled_at": "2026-04-28T20:00:44.564950",
+  "total_news": 4,
   "news": [
+    {
+      "title": "2026 MMAE Poster Competition and Departmental Awards",
+      "url": "https://www.iit.edu/news/2026-mmae-poster-competition-and-departmental-awards",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "The Department of Mechanical, Materials, and Aerospace Engineering at Illinois Tech held its annual MMAE Student Research Poster Competition and departmental awards ceremony on April 17, 2026.   The...",
+      "source": "IIT News",
+      "category": "general"
+    },
     {
       "title": "Applied Mathematics Professor Honored as SIAM Fellow",
       "url": "https://www.iit.edu/news/applied-mathematics-professor-honored-siam-fellow",

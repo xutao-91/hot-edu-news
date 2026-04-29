@@ -1,15 +1,24 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-28T12:02:22.556318",
-  "total_news": 4,
+  "crawled_at": "2026-04-28T20:02:20.211602",
+  "total_news": 5,
   "news": [
+    {
+      "title": "School spirit and silliness ensue at the Varsity Band Concert",
+      "url": "https://news.wisc.edu/school-spirit-and-silliness-ensue-at-the-varsity-band-concert/",
+      "date": "April 28, 2026",
+      "type": "News",
+      "summary_en": "The annual performance showcases student talent and celebrates the end of the UW Marching Band season.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "UW–Madison’s reach throughout Wisconsin adds up to $38.9 billion a year",
       "url": "https://news.wisc.edu/uw-madisons-reach-throughout-wisconsin-adds-up-to-38-9-billion-a-year/",
       "date": "April 28, 2026",
       "type": "News",
-      "summary_en": "The university supports more than 287,000 jobs and helps drive private-sector growth",
+      "summary_en": "The university supports more than 287,000 jobs and helps drive private-sector growth.",
       "source": "UW-Madison News",
       "category": "general"
     },
@@ -27,7 +36,7 @@
       "url": "https://students.wisc.edu/news/uw-survey-offers-first-comprehensive-look-at-student-basic-needs/",
       "date": "April 27, 2026",
       "type": "News",
-      "summary_en": "Student Affairs and the Division of Enrollment Management (DEM) has released findings and recommendations from a survey conducted in spring 2025 to better understand the experiences, barriers, and factors associated with basic needs access among students.",
+      "summary_en": "Questions from the first comprehensive Basic Needs Survey addressed food security, housing stability, financial resources and more.",
       "source": "UW-Madison News",
       "category": "campus"
     },
