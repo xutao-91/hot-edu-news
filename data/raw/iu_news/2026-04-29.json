@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-04-29T12:00:38.855342",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Largest undergraduate-managed real estate private equity fund raises additional $7.8 million",
+      "url": "https://news.iu.edu/live/news/50359-largest-undergraduate-managed-real-estate-private",
+      "date": "Apr 28, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Irsay Institute research shows growing crisis in suicide trends for people under 35",
+      "url": "https://irsay.iu.edu/news-events/posts/2026-04-27-a-century-of-suicide-pescosolido-pnas-article/",
+      "date": "Apr 28, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU Cybersecurity Clinic helps rural organizations strengthen digital security",
+      "url": "https://rural.iu.edu/news/articles/2026/20260422-cybersecurity-clinic.html",
+      "date": "Apr 27, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

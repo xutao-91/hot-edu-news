@@ -1,0 +1,26 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-04-29T12:01:02.226127",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "All In on AI: Michigan Tech Launches New Degree, Concentration and Minor",
+      "url": "https://www.mtu.edu/news/2026/04/all-in-on-ai-michigan-tech-launches-new-degree-concentration-and-minor.html",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Michigan Technological University will launch a new Bachelor of Science in Artificial Intelligence degree program this fall, making it one of a select group of institutions nationwide to offer a dedicated undergraduate program in the field.  Michigan Tech's new bachelor's  . . .",
+      "source": "MTU News",
+      "category": "general"
+    },
+    {
+      "title": "Isle Royale Wolf Population Nears Historic High as Moose Numbers Plummet",
+      "url": "https://www.mtu.edu/news/2026/04/isle-royale-wolf-population-nears-historic-high-as-moose-numbers-plummet.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Near-record highs for the number of wolves and near-record lows for the number of moose characterized the 2026 Isle Royale Winter Study, a population survey led by Michigan Tech researchers on Isle Royale National Park.  Michigan Technological University's long-running survey  . . .",
+      "source": "MTU News",
+      "category": "general"
+    }
+  ]
+}

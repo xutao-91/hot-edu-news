@@ -1,0 +1,80 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-04-29T12:02:07.797890",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "New study details changing U.S. irrigated agriculture, viability strategies",
+      "url": "https://news.unl.edu/article/new-study-details-changing-us-irrigated-agriculture-viability-strategies",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "agriculture"
+    },
+    {
+      "title": "69 Husker students earn certificate in sales excellence",
+      "url": "https://news.unl.edu/article/69-husker-students-earn-certificate-in-sales-excellence",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Husker engineers tackle water systems fouling",
+      "url": "https://news.unl.edu/article/husker-engineers-tackle-water-systems-fouling",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "New database streamlines data collection, support for deafblind students",
+      "url": "https://news.unl.edu/article/new-database-streamlines-data-collection-support-for-deafblind-students",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Frey lost the game she loved, found a bigger stage",
+      "url": "https://news.unl.edu/article/frey-lost-the-game-she-loved-found-a-bigger-stage",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Speakers at Yeutter Institute symposium point to trade progress, complications",
+      "url": "https://news.unl.edu/article/speakers-at-yeutter-institute-symposium-point-to-trade-progress-complications",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska U poised to award record 3,800-plus degrees May 8-9",
+      "url": "https://news.unl.edu/article/nebraska-u-poised-to-award-record-3800-plus-degrees-may-8-9",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Researchers develop promising new vaccine against bird flu",
+      "url": "https://news.unl.edu/article/researchers-develop-promising-new-vaccine-against-bird-flu",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

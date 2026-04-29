@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-04-29T12:01:45.907008",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SSM Health, Saint Louis University partner on RN-to-BSN program",
+      "url": "https://www.slu.edu/news/2026/april/ssm-nursing-agreement.php",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "A new preferred-provider agreement enables SSM Health nurses to complete a degree in as little as one year while benefiting from tuition reimbursement.",
+      "source": "SLU News",
+      "category": "health"
+    }
+  ]
+}

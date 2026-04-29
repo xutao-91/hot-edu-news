@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-04-29T12:01:11.194255",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Gift of photos bears witness to the world’s most vulnerable communities",
+      "url": "https://news.northwestern.edu/stories/2026/4/block-museum-of-art-announces-gift-of-photographs-by-fazal-sheikh-honoring-henry-and-leigh-bienen",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern’s Quantum Week signals a growing Illinois ecosystem",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwesterns-quantum-week-underscores-a-growing-illinois-ecosystem",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

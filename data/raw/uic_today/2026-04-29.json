@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-04-29T12:01:50.159407",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UIC marks Arbor Day by releasing beneficial insects",
+      "url": "https://today.uic.edu/uic-marks-arbor-day-by-releasing-beneficial-insects/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Arbor Day event protects UIC’s trees and highlights the university’s commitment to sustainability.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC students create wearable tech for children with anxiety",
+      "url": "https://today.uic.edu/wearable-tech-project-to-assist-children-with-anxiety-presented-at-uic-engineering-expo/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "The project was one of 200 presented at the Engineering Expo 2026.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "UIC researchers awarded $10M grant to boost young learners’ reading skills",
+      "url": "https://today.uic.edu/uic-researchers-awarded-10m-grant-to-boost-young-learners-reading-skills/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Funds launch WORDS Illinois, a multiyear professional learning program for teachers.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "UIC historian  receives national service award",
+      "url": "https://today.uic.edu/uic-historian-receives-national-service-award/",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Professor Barbara Ransby honored by the Organization of American Historians.",
+      "source": "UIC Today",
+      "category": "awards"
+    }
+  ]
+}
