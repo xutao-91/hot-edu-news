@@ -1,9 +1,21 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-04-29T12:00:16.380189",
-  "total_news": 3,
+  "crawled_at": "2026-04-29T20:00:15.240529",
+  "total_news": 4,
   "news": [
+    {
+      "title": "巴特勒大学教师研究成果应用于全球各层级体育运动领域",
+      "url": "https://stories.butler.edu/butler-faculty-research-reaches-the-global-game/",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "A Butler professor’s work is now helping coaches around the world rethink how athletes learn—at every level of the game. Early in his coaching career, Dr. Tom Parry was doing what many coaches are taught to do—running structured drills, breaking skills into parts, focusing on repetition. It was organized. It was efficient. But it wasn’t…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general",
+      "original_title": "Butler Faculty Research Reaches the Global Game",
+      "summary_cn": "2026年4月29日，巴特勒大学发布由该校2014届校友凯蒂·帕尔默·沃顿采写的相关教育新闻，介绍该校教职人员的研究成果现已在全球体育运动领域落地应用。\n\n本次研究成果由巴特勒大学汤姆·帕里博士主导，相关内容正在帮助全球各地的体育教练重新思考各层级赛事运动员的技能学习模式，覆盖从基层业余训练到高端职业赛事的全部运动层级，对全球体育训练理念更新起到了推动作用。\n\n帕里博士介绍，其在个人执教生涯早期，严格遵循体育行业通用的教练培训规范开展训练工作，具体采用组织结构化训练课程、将完整运动技能拆解为独立模块、重点强化动作重复练习的教学路径，该类训练模式具备组织性强、运行效率较高的特点，相关研究后续将围绕训练模式的进一步完善持续开展。"
+    },
     {
       "title": "贾斯汀·斯塔克获巴特勒大学2026年度约翰·亨利·韦德纳利他主义奖",
       "url": "https://stories.butler.edu/justine-starke-named-2026-recipient-of-john-henry-weidner-award-for-altruism-at-butler-university/",
@@ -41,6 +53,6 @@
       "summary_cn": "2026年4月28日，巴特勒大学发布由马克·阿普尔采写的官方新闻，宣布该校正式为新建安全与交通枢纽项目举行动工仪式。\n\n当天动工仪式举办期间，现场云层逐步散去，太阳在稍晚时段露面，仪式顺利开展。本次安全与交通枢纽项目动工，标志着巴特勒大学长期“门户项目”战略推进取得重要进展，是该校落实强化校园运营能力、增进校园与社区互联互通承诺的关键举措。\n\n本次动工仪式邀请多方代表参与，巴特勒大学校内教职员工、校董会成员、项目施工合作方代表及当地社区民众共同到场，见证了项目启动的关键节点。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 1
+  "compiled_count": 1,
+  "skipped_count": 3
 }

@@ -1,9 +1,20 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-29T12:02:19.023331",
-  "total_news": 5,
+  "crawled_at": "2026-04-29T20:02:26.067423",
+  "total_news": 6,
   "news": [
+    {
+      "title": "科学家完成天鹅座系统黑洞强喷射流作用力测量研究",
+      "url": "https://news.wisc.edu/scientists-measure-force-of-powerful-jets-streaming-from-a-black-hole-in-the-cygnus-system/",
+      "date": "April 29, 2026",
+      "type": "News",
+      "summary_en": "The findings confirm a theory posed by UW–Madison researchers a decade ago.",
+      "source": "UW-Madison News",
+      "category": "general",
+      "original_title": "Scientists measure force of powerful jets streaming from a black hole in the Cygnus system",
+      "summary_cn": "2026年4月29日，华盛顿大学正式发布一项天体物理领域科研成果。\n\n本次研究的核心工作为测量天鹅座系统内黑洞向外喷射的强喷射流的作用力，相关测量工作由科研团队按既定研究方案推进，完成全部测量任务后取得明确研究发现。\n\n本次研究得出的相关发现，正式证实了威斯康星大学麦迪逊分校研究人员十年前提出的一项学术理论，相关信息由华盛顿大学官方渠道对外公开。"
+    },
     {
       "title": "华盛顿大学校队乐队音乐会举办 尽显校园精神与欢乐氛围",
       "url": "https://news.wisc.edu/school-spirit-and-silliness-ensue-at-the-varsity-band-concert/",
@@ -60,6 +71,6 @@
       "summary_cn": "2026年4月27日，威斯康星大学麦迪逊分校发布官方公告，正式任命雷姆齐·阿尔帕奇-杜索为该校计算与人工智能学院创始院长，同时公布该学院启动阶段的重大投入安排。\n\n本次投入包含总额1亿美元的慈善资助，以及校方提供的大额校园专项投资，所有资源将定向用于支持计算与人工智能学院的研究、教育及创新相关工作。\n\n校方同步明确，将为计算与人工智能学院新增设立50个教职岗位，充实学院师资队伍，为学院各项办学及科研工作推进提供人员保障。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 1,
   "skipped_count": 5
 }

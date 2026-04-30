@@ -1,13 +1,24 @@
 {
   "source": "Kelley School of Business at IU",
   "source_url": "https://kelley.iu.edu/news-events/index.html",
-  "crawled_at": "2026-04-29T12:00:40.770038",
-  "total_news": 1,
+  "crawled_at": "2026-04-29T20:00:42.385865",
+  "total_news": 2,
   "news": [
+    {
+      "title": "印第安纳大学荣获2026年度米拉奖AnalytiXIN人工智能转型奖",
+      "url": "https://today.iu.edu/live/news/50398-iu-earns-ai-transformation-award-at-2026-mira",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "Indiana University won the AnalytiXIN AI Transformation Award at TechPoint’s 2026 Mira Awards, in recognition of its statewide leadership in generative AI.",
+      "source": "Kelley School of Business",
+      "category": "general",
+      "original_title": "IU earns AI Transformation Award at 2026 Mira Awards",
+      "summary_cn": "2026年4月30日，印第安纳大学凯利商学院发布官方消息，通报该校相关奖项获奖情况。\n\n印第安纳大学在TechPoint举办的2026年度米拉奖评选中，获得AnalytiXIN人工智能转型奖项。\n\n主办方授予印第安纳大学该奖项，旨在认可该校在生成式人工智能领域的全州领先地位。\n\n本次获奖相关信息由印第安纳大学凯利商学院作为官方信息来源对外发布。"
+    },
     {
       "title": "规模最大的本科生管理房地产私募股权基金新增募资780万美元",
       "url": "https://news.iu.edu/live/news/50359-largest-undergraduate-managed-real-estate-private",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "type": "News",
       "summary_en": "Student fund managers with Sample Gates Management Inc. exceeded their initial $6 million goal for phase two, using a marketing deck they developed and distributed to prospective investors.",
       "source": "Kelley School of Business",
@@ -16,6 +27,6 @@
       "summary_cn": "2026年4月28日，印第安纳大学（IU）凯利商学院发布相关运营动态，公布其下属学生运营投资机构的最新募资进展。\n\n本次完成新增募资的为当前规模最大的由本科生管理的房地产私募股权基金，运营主体为Sample Gates管理有限公司，募资工作全部由该机构的学生基金经理团队负责推进。本次募资属于该基金二期募资阶段，初始设定的募资目标为600万美元。\n\n募资推进过程中，学生基金经理团队独立开发制作了募资推介材料，并定向分发至潜在投资者。经团队运作，本次二期募资最终超额完成既定目标，实际新增募资规模达780万美元。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 1,
   "skipped_count": 1
 }

@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-04-29T12:02:25.796370",
+  "crawled_at": "2026-04-29T20:02:32.153998",
   "total_news": 10,
   "news": [
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the First Landing and the Raising of the Cape Henry Cross",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/america-250-presidential-message-on-the-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross/",
+      "date": "April 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "President Trump and the First Lady Welcome King Charles III and Queen Camilla for State Visit Honoring 250 Years of Shared Heritage",
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-first-lady-welcome-king-charles-iii-and-queen-camilla-for-state-visit-honoring-250-years-of-shared-heritage/",
@@ -65,13 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/04/president-trump-on-60-minutes-there-was-tremendous-camaraderie/",
       "date": "April 27, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message: Birthday of President Ulysses S. Grant",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/04/presidential-message-birthday-of-president-ulysses-s-grant/",
-      "date": "April 27, 2026",
-      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]

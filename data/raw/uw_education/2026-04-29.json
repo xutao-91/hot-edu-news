@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-04-29T12:02:12.910620",
-  "total_news": 3,
+  "crawled_at": "2026-04-29T20:02:20.412028",
+  "total_news": 4,
   "news": [
+    {
+      "title": "School of Education faculty and staff participate in UW–Madison program on AI in higher education",
+      "url": "https://education.wisc.edu/news/school-of-education-faculty-and-staff-participate-in-uw-madison-program-on-ai-in-higher-education/",
+      "date": "April 29, 2026",
+      "type": "News",
+      "summary_en": "Several faculty and staff from the School of Education are part of a new campus program dedicated to exploring how to engage with and respond to the use of generative artificial intelligence (AI) in higher education.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
     {
       "title": "SERP student-led paper wins Best Student Paper Award at AERA",
       "url": "https://education.wisc.edu/news/serp-student-led-paper-wins-best-student-paper-award-at-aera/",

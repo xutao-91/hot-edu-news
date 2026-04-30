@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-29T12:02:19.023331",
-  "total_news": 5,
+  "crawled_at": "2026-04-29T20:02:26.067423",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Scientists measure force of powerful jets streaming from a black hole in the Cygnus system",
+      "url": "https://news.wisc.edu/scientists-measure-force-of-powerful-jets-streaming-from-a-black-hole-in-the-cygnus-system/",
+      "date": "April 29, 2026",
+      "type": "News",
+      "summary_en": "The findings confirm a theory posed by UW–Madison researchers a decade ago.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "School spirit and silliness ensue at the Varsity Band Concert",
       "url": "https://news.wisc.edu/school-spirit-and-silliness-ensue-at-the-varsity-band-concert/",

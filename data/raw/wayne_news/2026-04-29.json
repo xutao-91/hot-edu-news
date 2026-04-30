@@ -1,8 +1,8 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-04-29T12:02:24.412874",
-  "total_news": 5,
+  "crawled_at": "2026-04-29T20:02:30.784905",
+  "total_news": 7,
   "news": [
     {
       "title": "Atchison Hall reopens as newly renovated home for Honors students",
@@ -12,6 +12,24 @@
       "summary_en": "",
       "source": "Wayne State News",
       "category": "academic"
+    },
+    {
+      "title": "CBHJ pilots dispatch training to strengthen behavioral health crisis response",
+      "url": "https://behaviorhealthjustice.wayne.edu/news/cbhj-pilots-dispatch-training-to-strengthen-behavioral-health-crisis-response-68932",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "Wayne State researcher awarded NIH grant to study new treatments for antibiotic-resistant infections",
+      "url": "https://applebaum.wayne.edu/news/wayne-state-researcher-awarded-nih-grant-to-study-new-treatments-for-antibiotic-resistant-infections-68967",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
     },
     {
       "title": "Wayne State School of Social Work announces 2026 Teaching and Service Award recipients",

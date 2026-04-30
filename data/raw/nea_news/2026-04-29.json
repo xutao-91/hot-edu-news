@@ -1,9 +1,18 @@
 {
   "source": "NEA Press Releases",
   "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
-  "crawled_at": "2026-04-29T12:01:09.022815",
-  "total_news": 1,
+  "crawled_at": "2026-04-29T20:01:16.547817",
+  "total_news": 2,
   "news": [
+    {
+      "title": "NEA reacts to Louisiana v. Callais decision",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-reacts-louisiana-v-callais-decision",
+      "date": "2026-04-29",
+      "type": "Press Release",
+      "summary_en": "Pringle: Educators teach students that voting is both a responsibility of citizenship and a right we must continue to uphold",
+      "source": "NEA News",
+      "category": "ai"
+    },
     {
       "title": "NEA reports show educator pay falling behind inflation over the past decade, highlight the power of unions",
       "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-reports-show-educator-pay-falling-behind-inflation-over-past-decade-highlight-power-unions",

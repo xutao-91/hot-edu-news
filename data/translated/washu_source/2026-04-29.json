@@ -1,7 +1,7 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-04-29T12:02:22.906242",
+  "crawled_at": "2026-04-29T20:02:29.295899",
   "total_news": 10,
   "news": [
     {
@@ -115,6 +115,6 @@
       "summary_cn": "2026年4月27日，美国圣路易斯华盛顿大学刊发题为《Class Acts: Cela Lopez》的人物专题内容，对该校在校学生塞拉·洛佩斯的学业方向及研究关注重点进行公开介绍。\n\n本次发布的介绍内容显示，塞拉·洛佩斯为圣路易斯华盛顿大学大四在读学生，目前主修政治学专业，在常规学业范畴内对政治、政策相关领域内容具有明确研究兴趣。\n\n相关介绍同时明确，塞拉·洛佩斯现阶段的核心关注方向并非政治、政策领域的具体内容本身，而是社会群体针对上述两类议题的认知逻辑与思考方式，该方向是其当前最为重视的研究范畴。"
     }
   ],
-  "compiled_count": 3,
-  "skipped_count": 7
+  "compiled_count": 0,
+  "skipped_count": 10
 }

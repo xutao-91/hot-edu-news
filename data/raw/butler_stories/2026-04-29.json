@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-04-29T12:00:16.380189",
-  "total_news": 3,
+  "crawled_at": "2026-04-29T20:00:15.240529",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Butler Faculty Research Reaches the Global Game",
+      "url": "https://stories.butler.edu/butler-faculty-research-reaches-the-global-game/",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "A Butler professor’s work is now helping coaches around the world rethink how athletes learn—at every level of the game. Early in his coaching career, Dr. Tom Parry was doing what many coaches are taught to do—running structured drills, breaking skills into parts, focusing on repetition. It was organized. It was efficient. But it wasn’t…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
     {
       "title": "Justine Starke Named 2026 Recipient of John Henry Weidner Award for Altruism at Butler University",
       "url": "https://stories.butler.edu/justine-starke-named-2026-recipient-of-john-henry-weidner-award-for-altruism-at-butler-university/",

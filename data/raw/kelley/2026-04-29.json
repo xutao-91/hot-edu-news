@@ -1,13 +1,22 @@
 {
   "source": "Kelley School of Business at IU",
   "source_url": "https://kelley.iu.edu/news-events/index.html",
-  "crawled_at": "2026-04-29T12:00:40.770038",
-  "total_news": 1,
+  "crawled_at": "2026-04-29T20:00:42.385865",
+  "total_news": 2,
   "news": [
+    {
+      "title": "IU earns AI Transformation Award at 2026 Mira Awards",
+      "url": "https://today.iu.edu/live/news/50398-iu-earns-ai-transformation-award-at-2026-mira",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "Indiana University won the AnalytiXIN AI Transformation Award at TechPoint’s 2026 Mira Awards, in recognition of its statewide leadership in generative AI.",
+      "source": "Kelley School of Business",
+      "category": "general"
+    },
     {
       "title": "Largest undergraduate-managed real estate private equity fund raises additional $7.8 million",
       "url": "https://news.iu.edu/live/news/50359-largest-undergraduate-managed-real-estate-private",
-      "date": "2026-04-28",
+      "date": "2026-04-29",
       "type": "News",
       "summary_en": "Student fund managers with Sample Gates Management Inc. exceeded their initial $6 million goal for phase two, using a marketing deck they developed and distributed to prospective investors.",
       "source": "Kelley School of Business",
