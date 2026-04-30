@@ -1,0 +1,138 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-04-30T12:01:33.079246",
+  "total_news": 13,
+  "news": [
+    {
+      "title": "UK Lords press ministers over sector visa challenges",
+      "url": "https://thepienews.com/category/watch-listen/",
+      "date": "2026-04-30",
+      "type": "Watch & Listen",
+      "summary_en": "The UK minister of state for the Home Office has agreed to meet with sector leaders after concerns about incoming compliance rules and visa refusal rates were raised in the House of Lords.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "France hikes non-EU tuition fees, move dubbed “blow to university autonomy”",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-30",
+      "type": "Policy",
+      "summary_en": "France will require most non-EU students to pay higher tuition fees from 2026/27, as part of a wider push to reshape international recruitment under its 'Choose France for Higher Education' strategy.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Dubai moves back to in-person teaching amid Iran war",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-29",
+      "type": "Policy",
+      "summary_en": "The private education sector in Dubai has taken steps towards resuming onsite education, after moving online amid regional conflict stemming from the Iran war.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "“Shift beyond big four evident” as Indian student demand holds up amid reset",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-04-29",
+      "type": "Study Abroad",
+      "summary_en": "With higher education outbound numbers down over a third in two years, consultancies say a “clearly visible” shift sees Indian students look beyond traditional destinations as the market becomes more cautious.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "US politics drives international student self-censorship",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-04-29",
+      "type": "Student experience",
+      "summary_en": "Nearly nine in 10 international students have reported being less willing to speak up in academic spaces or on social media about immigration, global conflict or US regulations, as experts warn of increasingly polarised classrooms.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Through the amber spyglass: a refraction of the new RAG rating",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-29",
+      "type": "Policy",
+      "summary_en": "Alex Lock and Mike Strong consider the unintended consequences of an amber rating from the UKVI's Basic Compliance Assessment (BCA) and how it should not be viewed as failure by universities.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Alex Lock and Mike Strong"
+    },
+    {
+      "title": "Relief for some OPT applicants in “immigration limbo”",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "A federal judge has ordered the Trump administration to lift an indefinite freeze on work permit authorisations, including OPT, for a group of international students from travel ban countries.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Canada’s language sector looks to joint pathways to rebuild trust and growth",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-04-28",
+      "type": "Language learning",
+      "summary_en": "Canada’s language education sector has been hit hard by a combination of pandemic disruption, policy change and closures, but a new Joint Pathway Program is emerging as a focal point for renewal.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Scholarship targets study abroad gap for US community colleges",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-04-28",
+      "type": "Study Abroad",
+      "summary_en": "A new scholarship has launched to expand access to study abroad opportunities to community college students in the US – a population starkly underrepresented in global learning initiatives.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "How many international students are studying in Australia?",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-04-28",
+      "type": "Data",
+      "summary_en": "The PIE compiles the most recent data on the number of international students in Australia, including those in the post-graduate work stream, along with insights into the leading source markets.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Charlotte Greenstein"
+    },
+    {
+      "title": "Universities face “rollercoaster” decade as AI tests their value",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-04-27",
+      "type": "Events",
+      "summary_en": "AI and rapid technological change are forcing universities to rethink their very purpose, global university leaders have warned, as they discuss what value higher education offers in a world where machines \"compete with our brain\".",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "DAAD shifts Indian focus beyond student mobility",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-27",
+      "type": "Policy",
+      "summary_en": "In a conversation with The PIE, senior DAAD officials highlighted a shift in India strategy towards long-term partnerships and research, while tackling one-sided mobility and access gaps.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Demand outstrips capacity at South Africa’s universities, warns UJ vice-chancellor",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-04-27",
+      "type": "Recruitment & agents",
+      "summary_en": "South Africa’s public universities are facing a \"profound contradiction\" as demand for higher education surges beyond capacity, University of Johannesburg vice‑chancellor and principal Letlhokwa Mpedi has warned.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    }
+  ]
+}

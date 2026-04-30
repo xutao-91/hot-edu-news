@@ -1,0 +1,65 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-04-30T12:01:46.806038",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "人工智能采纳与普及过程中的多生态系统竞争",
+      "url": "https://www.rand.org/pubs/working_papers/WRA4944-1.html",
+      "date": "Apr 30, 2026",
+      "type": "Publication",
+      "summary_en": "The author provides a theoretical framework for understanding artificial intelligence (AI) diffusion dynamics in the presence of competing technologies with heterogeneous value propositions.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "Multi-Ecosystem Competition in Artificial Intelligence Adoption and Diffusion",
+      "summary_cn": "2026年4月30日，兰德公司发布题为《人工智能采纳与普及过程中的多生态系统竞争》的研究成果。\n\n本次研究围绕人工智能技术扩散动态相关议题展开，相关作者提出了一套专门的理论研究框架，为对应场景下的人工智能普及规律认知提供了标准化分析支撑。\n\n该理论框架的适用场景为存在具备异质性价值主张的竞争性技术的环境，可用于对该环境下的人工智能普及动态开展系统性梳理与客观理解。"
+    },
+    {
+      "title": "美国电网可为人工智能提供多少额外电力？2030年预测及政策影响",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA3845-1.html",
+      "date": "Apr 29, 2026",
+      "type": "Research Summary",
+      "summary_en": "A team of RAND researchers estimated how much additional power capacity the United States is likely to have by 2030 by translating planned electricity supply resources into a common measure of reliable capacity. This brief summarizes the results.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "How Much More Power Can the U.S. Grid Provide for AI? Projections and Policy Implications for 2030",
+      "summary_cn": "2026年4月29日，美国兰德公司发布题为《美国电网可为人工智能提供多少额外电力？2030年预测及政策影响》的研究简报，公开相关专项研究成果。\n\n本次研究由兰德公司专项研究团队开展，核心工作为测算截至2030年美国预计可新增的电力容量规模。研究实施过程中，团队将各类已纳入规划的电力供应资源，统一折算为可靠容量的通用度量指标，以此为基础开展相关估算工作，保障测算标准统一、结果具备参考一致性。\n\n本次公开发布的研究简报，对前述研究工作取得的相关结果进行了集中汇总呈现，为相关主体快速掌握研究核心内容提供了精简文本载体。"
+    },
+    {
+      "title": "探索美中人工智能竞争不稳定风险：“防波堤”博弈概述及初步观察",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4703-1.html",
+      "date": "Apr 29, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This paper presents an overview and observations on Breakwater, a game that explores instability risks in the U.S.-China rivalry and race to artificial general intelligence.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "Exploring Instability Risks in the U.S.-China AI Rivalry: Breakwater Game Overview and Initial Observations",
+      "summary_cn": "2026年4月29日，美国兰德公司发布题为《探索美中人工智能竞争中的不稳定风险：“防波堤”博弈概述及初步观察》的研究报告。\n\n本次报告核心内容为对名为“防波堤”的博弈项目进行全面概况介绍，同时公布研究团队围绕该项目形成的初步观察结论。\n\n“防波堤”属于专项研究类博弈项目，其设置目标为探索美中两国在通用人工智能研发竞争、竞速过程中存在的不稳定风险相关事项。"
+    },
+    {
+      "title": "兰德公司推出大语言模型技术政策报告处理与理解能力评估专项基准",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4269-1.html",
+      "date": "Apr 28, 2026",
+      "type": "Research",
+      "summary_en": "The authors detail their development of a specialized benchmark for evaluating large language models' abilities to process and understand technical policy reports, thus addressing a gap in existing domain-specific evaluation.",
+      "source": "Rand Corporation",
+      "category": "policy",
+      "original_title": "Evaluating Large Language Models' Abilities to Process and Understand Technical Policy Reports",
+      "summary_cn": "2026年4月28日，兰德公司发布题为《评估大语言模型处理与理解技术政策报告的能力》的研究成果。\n\n研究人员在本次发布的成果中，详细介绍了其开发的专项评估基准相关情况。该基准的核心用途是对大语言模型处理、理解技术政策报告的相关能力开展针对性评估，适用范围聚焦技术政策报告这一特定专业领域的大语言模型能力测评工作。\n\n本次研究针对现有领域特定评估工作存在的空白开展，相关成果有效填补了该领域的评估空白。"
+    },
+    {
+      "title": "兰德公司提出降低通用人工智能转型战略风险、促进稳定的AGI“Rideout”战略",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4347-1.html",
+      "date": "Apr 27, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors describe an artificial general intelligence (AGI) Rideout strategy to avoid geopolitical risks in the race toward and transition to AGI. The strategy prioritizes deterring conflicts and increasing U.S. tech infrastructure resilience.",
+      "source": "Rand Corporation",
+      "category": "general",
+      "original_title": "The AGI Rideout Strategy for Reducing Strategic Risk and Promoting Stability in the Transition to Artificial General Intelligence",
+      "summary_cn": "2026年4月27日，美国兰德公司发布通用人工智能（Artificial General Intelligence，简称AGI）领域专项研究成果，正式提出面向AGI转型的“Rideout”战略。\n\n该战略核心目标是降低AGI转型过程中的战略风险、促进转型进程整体稳定，重点防范AGI全球研发竞赛及落地转型过程中存在的地缘政治风险，为AGI转型阶段的风险防控提供可行路径支撑。\n\n报告明确划定该战略的两大优先推进方向：第一是聚焦冲突威慑领域相关工作，有效遏制AGI发展进程中触发的各类冲突风险；第二是针对性提升美国技术基础设施的抗风险韧性，为AGI转型阶段的技术体系稳定运行夯实基础保障。"
+    }
+  ],
+  "compiled_count": 1,
+  "skipped_count": 4
+}

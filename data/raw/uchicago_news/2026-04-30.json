@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-04-30T12:01:56.729465",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Two UChicago scientists elected to National Academy of Sciences in 2026",
+      "url": "https://news.uchicago.edu/story/two-uchicago-scientists-elected-national-academy-sciences-2026",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why the Fed matters now more than ever, with Douglas Diamond",
+      "url": "https://news.uchicago.edu/big-brains-podcast-why-fed-matters-now-more-ever-douglas-diamond",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How one researcher took on Chicago's school dropout crisis",
+      "url": "https://news.uchicago.edu/story/how-one-researcher-took-chicagos-school-dropout-crisis",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "UChicago Prof. Melissa Roderick retires after 35 years of bridging research and policy to keep CPS freshmen on track to graduate",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Court Theatre’s ‘Out Here’ rebuilds the queer musical from the ground up",
+      "url": "https://news.uchicago.edu/story/court-theatres-out-here-rebuilds-queer-musical-ground",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Incubated at UChicago, the original work reimagines divorce, coming out at 50 and the conventions of musical theater",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The Science Behind Seasonal Sniffles",
+      "url": "https://news.uchicago.edu/science-behind-seasonal-sniffles",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago Medicine to study impact of Formula 1 racing season on performance",
+      "url": "https://news.uchicago.edu/story/uchicago-medicine-study-impact-formula-1-racing-season-performance",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Partnership with TGR Haas F1 Team will examine physical, cognitive and psychological toll of motorsports",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "As Chicago's sports teams angle for new deals, students offer a playbook",
+      "url": "https://news.uchicago.edu/story/chicagos-sports-teams-angle-new-deals-students-offer-playbook",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "Winning team in Harris Policy Innovation Challenge at UChicago proposed sweeping overhaul of how the city handles stadium deals with pro sports franchises",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

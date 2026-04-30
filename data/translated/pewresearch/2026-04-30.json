@@ -1,0 +1,43 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-30T12:01:31.003874",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "皮尤研究中心研究显示多数美国人认为美国外交政策忽视其他国家利益",
+      "url": "https://www.pewresearch.org/global/2026/04/28/most-americans-now-say-u-s-foreign-policy-ignores-the-interests-of-other-countries/",
+      "date": "Apr 28, 2026",
+      "type": "report",
+      "categories": [
+        "Global Balance Power",
+        "Global Economy Trade",
+        "Us Global Image"
+      ],
+      "summary_en": "Partisans hold different views on whether the U.S. contributes to peace, considers other countries’ interests and garners respect around the world.",
+      "source": "Pew Research Center",
+      "category": "politics",
+      "original_title": "Most Americans Now Say U.S. Foreign Policy Ignores the Interests of Other Countries",
+      "summary_cn": "2026年4月28日，美国皮尤研究中心发布有关公众对本国对外政策态度的相关研究内容。\n\n本次研究公布的核心结论显示，当前多数美国民众认为，美国现行外交政策忽视其他国家的利益，相关政策制定未充分考量他国的合理关切。\n\n本次研究同时围绕三个核心维度梳理美国社会对本国对外政策的评价，具体包括：美国是否为全球和平作出贡献、美国制定外交政策过程中是否考虑其他国家的利益、美国是否在全球范围内获得广泛尊重。研究结果显示，美国国内持有不同党派立场的群体，在上述三个维度的评价判断上存在明显的观点分歧，各方未形成统一的认知共识。"
+    },
+    {
+      "title": "皮尤研究中心发布美国涉枪死亡人数相关统计数据",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/28/what-the-data-says-about-gun-deaths-in-the-us/",
+      "date": "Apr 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Gun Policy",
+        "Partisanship Issues",
+        "Political Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "The number of gun deaths in the U.S. fell for the third consecutive year in 2024 but remained among the highest annual totals on record.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "What the data says about gun deaths in the U.S.",
+      "summary_cn": "2026年4月28日，皮尤研究中心发布美国涉枪死亡领域相关统计报告。\n\n根据报告公布的统计结论，2024年美国涉枪死亡人数已连续第三年出现下降。\n\n报告同时明确，2024年美国涉枪死亡年度总人数仍处于有记录以来的最高年度总人数行列。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 2
+}

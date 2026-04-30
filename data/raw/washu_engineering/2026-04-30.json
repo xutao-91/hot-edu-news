@@ -1,0 +1,44 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-04-30T12:02:27.486231",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Cook, Schwabl receive 2026 Ralph S. Quatrano Prize",
+      "url": "https://engineering.washu.edu/news/2026/Cook-Schwabl-receive-2026-Ralph-S-Quatrano-Prize.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "Ben Cook and Suzy Schwabl honored for outstanding achievements.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "WashU Expert: Managing Mythos",
+      "url": "https://engineering.washu.edu/news/2026/WashU-Expert-Managing-Mythos.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "Ning Zhang explains what people should know about easy-to-use artificial intelligence (AI) software tools.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "McKelvey Engineering students design device tailored to fit needs of visually impaired",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-students-design-device-tailored-to-fit-needs-of-visually-impaired.html",
+      "date": "2026-04-27",
+      "type": "News",
+      "summary_en": "The Locus Suit enables independent navigation.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
+    {
+      "title": "McKelvey Engineering faculty selected for AI Curriculum Corps",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-faculty-selected-for-AI-Curriculum-Corps.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "Faculty to participate in summer program to integrate or critically examine AI in classroom.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty"
+    }
+  ]
+}

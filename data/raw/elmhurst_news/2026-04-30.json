@@ -1,0 +1,35 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-04-30T12:00:34.031491",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Elmhurst U. Names New Vice President for Academic Affairs",
+      "url": "https://www.elmhurst.edu/news/elmhurst-u-names-new-vice-president-for-academic-affairs/",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Pre-Vet Students Host Canine Care Walk",
+      "url": "https://www.elmhurst.edu/news/pre-vet-students-host-canine-care-walk/",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "lecture"
+    },
+    {
+      "title": "Art Students Collaborate with Elmhurst Art Museum",
+      "url": "https://www.elmhurst.edu/news/art-students-collaborate-with-elmhurst-art-museum/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}

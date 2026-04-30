@@ -1,0 +1,37 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-04-30T12:01:31.003874",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Most Americans Now Say U.S. Foreign Policy Ignores the Interests of Other Countries",
+      "url": "https://www.pewresearch.org/global/2026/04/28/most-americans-now-say-u-s-foreign-policy-ignores-the-interests-of-other-countries/",
+      "date": "Apr 28, 2026",
+      "type": "report",
+      "categories": [
+        "Global Balance Power",
+        "Global Economy Trade",
+        "Us Global Image"
+      ],
+      "summary_en": "Partisans hold different views on whether the U.S. contributes to peace, considers other countries’ interests and garners respect around the world.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "What the data says about gun deaths in the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/04/28/what-the-data-says-about-gun-deaths-in-the-us/",
+      "date": "Apr 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Gun Policy",
+        "Partisanship Issues",
+        "Political Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "The number of gun deaths in the U.S. fell for the third consecutive year in 2024 but remained among the highest annual totals on record.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

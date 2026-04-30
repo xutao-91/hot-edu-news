@@ -1,0 +1,35 @@
+{
+  "source": "NEA Press Releases",
+  "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
+  "crawled_at": "2026-04-30T12:01:20.752881",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "NEA celebrates National Teacher Appreciation Week",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-celebrates-national-teacher-appreciation-week-2",
+      "date": "2026-04-30",
+      "type": "Press Release",
+      "summary_en": "NEA President: This week is a time to celebrate the extraordinary impact educators have on our students and our future",
+      "source": "NEA News",
+      "category": "general"
+    },
+    {
+      "title": "NEA reacts to Louisiana v. Callais decision",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-reacts-louisiana-v-callais-decision",
+      "date": "2026-04-29",
+      "type": "Press Release",
+      "summary_en": "Pringle: Educators teach students that voting is both a responsibility of citizenship and a right we must continue to uphold",
+      "source": "NEA News",
+      "category": "ai"
+    },
+    {
+      "title": "NEA reports show educator pay falling behind inflation over the past decade, highlight the power of unions",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-reports-show-educator-pay-falling-behind-inflation-over-past-decade-highlight-power-unions",
+      "date": "2026-04-27",
+      "type": "Press Release",
+      "summary_en": "Becky Pringle: When we invest in educators, we strengthen our schools and our future",
+      "source": "NEA News",
+      "category": "general"
+    }
+  ]
+}
