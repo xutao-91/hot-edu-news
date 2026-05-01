@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison CDIS - School of Computer, Data & Information Sciences",
+  "source_url": "https://cdis.wisc.edu/cdis-news/",
+  "crawled_at": "2026-05-01T12:02:12.723554",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Honoring the 2026 Distinguished Achievement Award winners",
+      "url": "https://cdis.wisc.edu/honoring-the-2026-distinguished-achievement-award-winners/",
+      "date": "April 30, 2026",
+      "type": "News",
+      "summary_en": "On April 24, 2026, the School of Computer, Data & Information Sciences celebrated outstanding alumni who have made significant contributions to the fields of computer science, statistics, data science, and information science.",
+      "source": "UW-Madison CDIS",
+      "category": "general"
+    },
+    {
+      "title": "Artificial Intelligence by Wisconsin, for Wisconsin",
+      "url": "https://cdis.wisc.edu/artificial-intelligence-by-wisconsin-for-wisconsin/",
+      "date": "April 28, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison researchers propose an inclusive artificial intelligence system, incorporating voices and perspectives from across Wisconsin.",
+      "source": "UW-Madison CDIS",
+      "category": "ai_ml"
+    }
+  ]
+}

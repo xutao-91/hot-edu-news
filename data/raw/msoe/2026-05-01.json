@@ -1,0 +1,35 @@
+{
+  "source": "Milwaukee School of Engineering (MSOE)",
+  "source_url": "https://www.msoe.edu/about-msoe/news/1/",
+  "crawled_at": "2026-05-01T12:01:03.848869",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Supermileage team showcases super improvement at Shell Eco-Marathon Americas",
+      "url": "https://www.msoe.edu/about-msoe/news/details/supermileage-team-showcases-super-improvement-at-shell-eco-marathon-americas",
+      "date": "2026-05-01",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "Students create innovative designs for PACKOUT™ Challenge",
+      "url": "https://www.msoe.edu/about-msoe/news/details/students-create-innovative-designs-for-packout-challenge",
+      "date": "2026-04-30",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "Milwaukee Journal Sentinel names MSOE a 2026 Top Workplace in Milwaukee and Southeast Wisconsin",
+      "url": "https://www.msoe.edu/about-msoe/news/details/milwaukee-journal-sentinel-names-msoe-a-2026-top-workplace-in-milwaukee-and-southeast-wisconsin",
+      "date": "2026-04-28",
+      "type": "MSOE",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "announcement"
+    }
+  ]
+}

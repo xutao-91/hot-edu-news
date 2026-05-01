@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-05-01T12:01:32.902948",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Purdue to offer AI and STEM professional development for Indiana educators with LEGO® Education Computer Science & AI kits",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-to-offer-ai-and-stem-professional-development-for-indiana-educators-with-lego-education-computer-science-ai-kits",
+      "date": "April 30, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research"
+    },
+    {
+      "title": "Purdue celebrates 13th Day of Giving",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-celebrates-13th-day-of-giving",
+      "date": "April 30, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "Purdue receives $20M commitment from Ricks Family Foundation to establish Daniels School institute",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-receives-20m-commitment-from-ricks-family-foundation-to-establish-daniels-school-institute",
+      "date": "April 29, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "Alum, wife commit $7M to College of Engineering in support of scholarships",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/alum-wife-commit-7m-to-college-of-engineering-in-support-of-scholarships",
+      "date": "April 29, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research"
+    }
+  ]
+}

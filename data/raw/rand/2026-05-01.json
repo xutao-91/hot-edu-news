@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-01T12:01:40.845762",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Multi-Ecosystem Competition in Artificial Intelligence Adoption and Diffusion",
+      "url": "https://www.rand.org/pubs/working_papers/WRA4944-1.html",
+      "date": "Apr 30, 2026",
+      "type": "Publication",
+      "summary_en": "The author provides a theoretical framework for understanding artificial intelligence (AI) diffusion dynamics in the presence of competing technologies with heterogeneous value propositions.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "How Much More Power Can the U.S. Grid Provide for AI? Projections and Policy Implications for 2030",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA3845-1.html",
+      "date": "Apr 29, 2026",
+      "type": "Research Summary",
+      "summary_en": "A team of RAND researchers estimated how much additional power capacity the United States is likely to have by 2030 by translating planned electricity supply resources into a common measure of reliable capacity. This brief summarizes the results.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Exploring Instability Risks in the U.S.-China AI Rivalry: Breakwater Game Overview and Initial Observations",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4703-1.html",
+      "date": "Apr 29, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This paper presents an overview and observations on Breakwater, a game that explores instability risks in the U.S.-China rivalry and race to artificial general intelligence.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Evaluating Large Language Models' Abilities to Process and Understand Technical Policy Reports",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4269-1.html",
+      "date": "Apr 28, 2026",
+      "type": "Research",
+      "summary_en": "The authors detail their development of a specialized benchmark for evaluating large language models' abilities to process and understand technical policy reports, thus addressing a gap in existing domain-specific evaluation.",
+      "source": "Rand Corporation",
+      "category": "policy"
+    }
+  ]
+}

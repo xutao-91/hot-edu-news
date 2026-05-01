@@ -1,0 +1,26 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-05-01T12:01:11.344868",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Holly Kuzmich named managing director of the Wilson Sheehan Lab for Economic Opportunities",
+      "url": "https://news.nd.edu/news/holly-kuzmich-named-managing-director-of-the-wilson-sheehan-lab-for-economic-opportunities/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Two Notre Dame students named US Department of State Critical Language Scholars",
+      "url": "https://news.nd.edu/news/two-notre-dame-students-named-us-department-of-state-critical-language-scholars/",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

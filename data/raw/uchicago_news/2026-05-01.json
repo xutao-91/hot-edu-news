@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-01T12:01:49.827477",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Two UChicago scientists elected to National Academy of Sciences in 2026",
+      "url": "https://news.uchicago.edu/story/two-uchicago-scientists-elected-national-academy-sciences-2026",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why the Fed matters now more than ever, with Douglas Diamond",
+      "url": "https://news.uchicago.edu/big-brains-podcast-why-fed-matters-now-more-ever-douglas-diamond",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How one researcher took on Chicago's school dropout crisis",
+      "url": "https://news.uchicago.edu/story/how-one-researcher-took-chicagos-school-dropout-crisis",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "UChicago Prof. Melissa Roderick retires after 35 years of bridging research and policy to keep CPS freshmen on track to graduate",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Court Theatre’s ‘Out Here’ rebuilds the queer musical from the ground up",
+      "url": "https://news.uchicago.edu/story/court-theatres-out-here-rebuilds-queer-musical-ground",
+      "date": "2026-04-28",
+      "type": "News",
+      "summary_en": "Incubated at UChicago, the original work reimagines divorce, coming out at 50 and the conventions of musical theater",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
