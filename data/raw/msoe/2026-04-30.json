@@ -1,9 +1,18 @@
 {
   "source": "Milwaukee School of Engineering (MSOE)",
   "source_url": "https://www.msoe.edu/about-msoe/news/1/",
-  "crawled_at": "2026-04-30T12:01:10.418373",
-  "total_news": 1,
+  "crawled_at": "2026-04-30T20:01:02.400831",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Students create innovative designs for PACKOUT™ Challenge",
+      "url": "https://www.msoe.edu/about-msoe/news/details/students-create-innovative-designs-for-packout-challenge",
+      "date": "2026-04-30",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
     {
       "title": "Milwaukee Journal Sentinel names MSOE a 2026 Top Workplace in Milwaukee and Southeast Wisconsin",
       "url": "https://www.msoe.edu/about-msoe/news/details/milwaukee-journal-sentinel-names-msoe-a-2026-top-workplace-in-milwaukee-and-southeast-wisconsin",

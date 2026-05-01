@@ -1,8 +1,8 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-04-30T12:01:43.345346",
-  "total_news": 6,
+  "crawled_at": "2026-04-30T20:01:37.072518",
+  "total_news": 7,
   "news": [
     {
       "title": "Purdue engineering management students gain global experience through sustainability project in Costa Rica",
@@ -12,6 +12,15 @@
       "summary_en": "Students from Purdue University's Master of Engineering Management (MEM) program are turning classroom knowledge into real-world impact through an international sustainability project in Costa Rica.",
       "source": "Purdue College of Engineering",
       "category": "education"
+    },
+    {
+      "title": "MSE's Bahr joins prestigious ranks of MRS fellows",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0430-MSEs-Bahr-joins-prestigious-ranks-of-MRS-fellows",
+      "date": "April 30, 2026",
+      "type": "News",
+      "summary_en": "Dave Bahr has been selected as a 2026 Materials Research Society (MRS) fellow in recognition of his sustained and distinguished contributions to the advancement of materials research.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
     },
     {
       "title": "The Purdue 1 challenge for AAE's Collicott: Don't look out the window",

@@ -1,7 +1,7 @@
 {
   "source": "Purdue University Newsroom",
   "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
-  "crawled_at": "2026-04-30T12:01:36.677788",
+  "crawled_at": "2026-04-30T20:01:32.555857",
   "total_news": 4,
   "news": [
     {
@@ -49,6 +49,6 @@
       "summary_cn": "2026年4月29日，普渡大学对外发布相关捐赠事宜公告。\n\n本次捐赠由普渡大学校友及其配偶共同作出，双方共同承诺向该校工程学院捐赠资金总额700万美元，所有捐赠资金将全部用于支持该学院的奖学金相关工作。\n\n普渡大学将严格按照捐赠方明确的资金使用用途，推进该笔捐赠的后续落实相关工作，确保资金全部用于约定的奖学金支持领域，保障捐赠意愿得到完全落地执行。"
     }
   ],
-  "compiled_count": 4,
-  "skipped_count": 0
+  "compiled_count": 0,
+  "skipped_count": 4
 }

@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-04-30T12:01:45.012496",
-  "total_news": 3,
+  "crawled_at": "2026-04-30T20:01:38.868206",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Purdue Polytechnic honors alumni impact at 2026 Technology Appreciation and Alumni Awards",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-honors-alumni-impact-2026-technology-appreciation-and-alumni-awards",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Purdue Polytechnic in New Albany to hold Boilermaker Showcase on May 8",
       "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-new-albany-hold-boilermaker-showcase-may-8",

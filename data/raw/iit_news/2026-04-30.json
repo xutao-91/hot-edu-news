@@ -1,9 +1,18 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-04-30T12:00:41.194092",
-  "total_news": 6,
+  "crawled_at": "2026-04-30T20:00:38.882131",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Chicago-Kent Professor Daniel Martin Katz Co-Authors New Book on the History, Design and Governance of AI Agents",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/chicago-kent-professor-daniel-martin-katz-co-authors-new-book-history-design-and-governance-ai",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "“We are moving into this world of increasingly autonomous systems operating on our behalf,” says Professor Daniel Martin Katz. “People need to know what that means.” Katz, with co-authors Michael...",
+      "source": "IIT News",
+      "category": "academic"
+    },
     {
       "title": "Illinois Tech Named 2026 ‘Most Innovative Institution’ and More by Cure Innovation Index",
       "url": "https://www.iit.edu/news/illinois-tech-named-2026-most-innovative-institution-and-more-cure-innovation-index",

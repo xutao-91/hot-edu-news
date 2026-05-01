@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-04-30T12:02:27.486231",
-  "total_news": 4,
+  "crawled_at": "2026-04-30T20:02:24.809244",
+  "total_news": 5,
   "news": [
+    {
+      "title": "McKelvey Engineering students, alumni win NSF Graduate Research Fellowships",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-students-alumni-win-NSF-Graduate-Research-Fellowships.html",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "Prestigious program supports graduate students with high potential to impact scientific innovation.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    },
     {
       "title": "Cook, Schwabl receive 2026 Ralph S. Quatrano Prize",
       "url": "https://engineering.washu.edu/news/2026/Cook-Schwabl-receive-2026-Ralph-S-Quatrano-Prize.html",

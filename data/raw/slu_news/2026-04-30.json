@@ -1,9 +1,18 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-04-30T12:01:52.908656",
-  "total_news": 2,
+  "crawled_at": "2026-04-30T20:01:51.553317",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Saint Louis University’s New Venture Accelerator Names Third Cohort",
+      "url": "https://www.slu.edu/news/2026/april/nva-cohort.php",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "Saint Louis University’s New Venture Accelerator (NVA), launched in 2024 out of the Chaifetz Center for Entrepreneurship (CCE), announces its third cohort of participants. The NVA offers current SLU students and alumni who graduated within the last five years equity-free investments of up to $50,000 through a special accelerator fund supported by donors. In addition to financial support, the teams",
+      "source": "SLU News",
+      "category": "general"
+    },
     {
       "title": "SLU Students, Alumnus Awarded NSF Graduate Research Fellowships",
       "url": "https://www.slu.edu/news/2026/april/nsf-graduate-research-fellowships.php",

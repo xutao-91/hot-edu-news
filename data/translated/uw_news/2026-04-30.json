@@ -1,9 +1,31 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-04-30T12:02:25.249279",
-  "total_news": 6,
+  "crawled_at": "2026-04-30T20:02:22.859078",
+  "total_news": 8,
   "news": [
+    {
+      "title": "威斯康星大学任命威斯康星大学麦迪逊分校下一任校长遴选审查委员会",
+      "url": "https://www.wisconsin.edu/news/archive/university-of-wisconsin-madison-chancellor-search-and-screen-committee-named/",
+      "date": "April 30, 2026",
+      "type": "News",
+      "summary_en": "Amy B. Bogost, President of the Universities of Wisconsin Board of Regents, and Chris Patton, Executive-in-Charge of the Universities of Wisconsin, have appointed a 23-member Search and Screen Committee to help identify the next UW–Madison chancellor.",
+      "source": "UW-Madison News",
+      "category": "awards",
+      "original_title": "Chancellor Search and Screen Committee named",
+      "summary_cn": "2026年4月30日，华盛顿大学发布相关教育资讯，公布威斯康星大学麦迪逊分校下一任校长遴选工作的有关安排。\n\n本次遴选相关专门机构的组建由威斯康星大学董事会主席埃米·B·博戈斯特（Amy B. Bogost）、威斯康星大学执行主管克里斯·巴顿（Chris Patton）共同推进，二人已正式作出任命，成立专门的遴选审查委员会，承担下一任威斯康星大学麦迪逊分校校长人选的物色协助工作。\n\n此次获任命的遴选审查委员会共由23名成员组成，将依规履行相关职责，为威斯康星大学麦迪逊分校下一任校长人选的确定提供工作支撑。"
+    },
+    {
+      "title": "2026年华盛顿大学校长本科生奖颁奖典礼表彰179名优秀学生",
+      "url": "https://news.wisc.edu/2026-chancellors-undergraduate-awards-ceremony-recognizes-179-outstanding-students/",
+      "date": "April 30, 2026",
+      "type": "News",
+      "summary_en": "Provost John Zumbrunnen praised the winners for expanding what we know and understand about our world.",
+      "source": "UW-Madison News",
+      "category": "awards",
+      "original_title": "2026 Chancellor’s Undergraduate Awards Ceremony recognizes 179 outstanding students",
+      "summary_cn": "2026年4月30日，华盛顿大学官方发布该校2026年度校长本科生奖颁奖典礼相关举办情况。\n\n本次典礼核心议程为对优秀在校本科生予以表彰，共有179名表现突出的本科学生在本次活动中获得官方嘉奖。\n\n华盛顿大学教务长约翰·宗布伦南在本次颁奖典礼上公开发言，对全体获奖学生予以正式表扬。他明确表示，获奖群体拓展了人们对世界的认知范畴与理解深度。"
+    },
     {
       "title": "科学家完成天鹅座系统黑洞强喷射流作用力测量研究",
       "url": "https://news.wisc.edu/scientists-measure-force-of-powerful-jets-streaming-from-a-black-hole-in-the-cygnus-system/",
@@ -71,6 +93,6 @@
       "summary_cn": "2026年4月27日，威斯康星大学麦迪逊分校发布官方公告，正式任命雷姆齐·阿尔帕奇-杜索为该校计算与人工智能学院创始院长，同时公布该学院启动阶段的重大投入安排。\n\n本次投入包含总额1亿美元的慈善资助，以及校方提供的大额校园专项投资，所有资源将定向用于支持计算与人工智能学院的研究、教育及创新相关工作。\n\n校方同步明确，将为计算与人工智能学院新增设立50个教职岗位，充实学院师资队伍，为学院各项办学及科研工作推进提供人员保障。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 2,
   "skipped_count": 6
 }

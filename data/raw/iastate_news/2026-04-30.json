@@ -1,8 +1,8 @@
 {
   "source": "Iowa State University News",
   "source_url": "https://www.news.iastate.edu/news-releases",
-  "crawled_at": "2026-04-30T12:00:39.279233",
-  "total_news": 3,
+  "crawled_at": "2026-04-30T20:00:36.946567",
+  "total_news": 4,
   "news": [
     {
       "title": "For autonomous robots, not all rules are equal",
@@ -10,6 +10,15 @@
       "date": "2026-04-30",
       "type": "Innovation and Research",
       "summary_en": "Autonomous robots can follow rules — but what happens when the rules conflict? Iowa State researchers have developed a new “rulebooks” framework that helps robots make safer, more transparent judgment calls when perfection isn’t possible.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "For crop breeders, growth curves built on drone data reveal timing and duration of genetic effects",
+      "url": "https://www.news.iastate.edu/news/crop-breeders-growth-curves-built-drone-data-reveal-timing-and-duration-genetic-effects",
+      "date": "2026-04-30",
+      "type": "Agriculture",
+      "summary_en": "Models built on large-scale data collection throughout a growing season can help crop breeders target the most durable genetic effects and find the fleeting ones difficult to spot.",
       "source": "Iowa State News",
       "category": "general"
     },

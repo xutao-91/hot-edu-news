@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-04-30T12:01:33.079246",
-  "total_news": 13,
+  "crawled_at": "2026-04-30T20:01:28.815287",
+  "total_news": 14,
   "news": [
+    {
+      "title": "US: Replacing duration of status set to cause chaos",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-04-30",
+      "type": "Policy",
+      "summary_en": "The Trump administration’s proposed rule to replace ‘duration of status’ with fixed time limits on student and visitor visas is set to cause administrative chaos, leaders warn, anticipating the change in the coming weeks.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
     {
       "title": "UK Lords press ministers over sector visa challenges",
       "url": "https://thepienews.com/category/watch-listen/",

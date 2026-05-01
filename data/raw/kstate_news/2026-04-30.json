@@ -1,7 +1,7 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-04-30T12:00:56.908306",
+  "crawled_at": "2026-04-30T20:00:51.327786",
   "total_news": 10,
   "news": [
     {
@@ -14,47 +14,11 @@
       "category": "general"
     },
     {
-      "title": "Eat your words",
-      "url": "https://www.k-state.edu/news/articles/2026/05/traci-brimhall-poetry-cookbook.html",
-      "date": "2026-04-29",
+      "title": "April 2026 at K-State",
+      "url": "https://www.k-state.edu/news/articles/2026/04/april-photo-gallery.html",
+      "date": "2026-04-30",
       "type": "News",
-      "summary_en": "Through each dish and poem in Traci Brimhall's new cookbook, the stories, flavors and voices that define Kansas communities are celebrated.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Jeffrey Pickering named University Distinguished Professor",
-      "url": "https://www.k-state.edu/news/articles/2026/04/udp-pickering.html",
-      "date": "2026-04-29",
-      "type": "News",
-      "summary_en": "The professor in the Department of Political Science has been awarded K-State's highest academic title.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Bala Natarajan named University Distinguished Professor",
-      "url": "https://www.k-state.edu/news/articles/2026/04/udp-natarajan.html",
-      "date": "2026-04-29",
-      "type": "News",
-      "summary_en": "The professor of electrical engineering and director of CPSWin has been awarded K-State's highest academic title.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "K-State announces 2026 University Distinguished Professor honorees",
-      "url": "https://www.k-state.edu/news/articles/2026/04/university-distinguished-professor-honorees.html",
-      "date": "2026-04-29",
-      "type": "News",
-      "summary_en": "Marcellus Caldas, Bala Natarajan, Jeffrey Pickering and Artem Rudenko have been named University Distinguished Professors.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Marcellus Caldas named University Distinguished Professor",
-      "url": "https://www.k-state.edu/news/articles/2026/04/udp-caldas.html",
-      "date": "2026-04-29",
-      "type": "News",
-      "summary_en": "Caldas, professor and interim department head in the Department of Geography and Geospatial Sciences, is bestowed K-State's highest academic title.",
+      "summary_en": "April is always one of the busiest, but most exciting, months at K-State. Take a look at some of the more memorable moments from a month packed with learning, research, creativity and...",
       "source": "K-State News",
       "category": "general"
     },
@@ -68,11 +32,11 @@
       "category": "students"
     },
     {
-      "title": "Artem Rudenko named University Distinguished Professor",
-      "url": "https://www.k-state.edu/news/articles/2026/04/udp-rudenko.html",
+      "title": "Marcellus Caldas named University Distinguished Professor",
+      "url": "https://www.k-state.edu/news/articles/2026/04/udp-caldas.html",
       "date": "2026-04-29",
       "type": "News",
-      "summary_en": "The professor in the Department of Physics has been awarded K-State's highest academic title.",
+      "summary_en": "Caldas, professor and interim department head in the Department of Geography and Geospatial Sciences, is bestowed K-State's highest academic title.",
       "source": "K-State News",
       "category": "general"
     },
@@ -91,6 +55,42 @@
       "date": "2026-04-29",
       "type": "News",
       "summary_en": "Kansas State University is home to the only four-year feed and pet food science degree in the nation. With roughly 20 students currently enrolled in the major, Chad Paulk, associate...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Jeffrey Pickering named University Distinguished Professor",
+      "url": "https://www.k-state.edu/news/articles/2026/04/udp-pickering.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "The professor in the Department of Political Science has been awarded K-State's highest academic title.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State announces 2026 University Distinguished Professor honorees",
+      "url": "https://www.k-state.edu/news/articles/2026/04/university-distinguished-professor-honorees.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "Marcellus Caldas, Bala Natarajan, Jeffrey Pickering and Artem Rudenko have been named University Distinguished Professors.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Artem Rudenko named University Distinguished Professor",
+      "url": "https://www.k-state.edu/news/articles/2026/04/udp-rudenko.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "The professor in the Department of Physics has been awarded K-State's highest academic title.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Bala Natarajan named University Distinguished Professor",
+      "url": "https://www.k-state.edu/news/articles/2026/04/udp-natarajan.html",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "The professor of electrical engineering and director of CPSWin has been awarded K-State's highest academic title.",
       "source": "K-State News",
       "category": "general"
     }
