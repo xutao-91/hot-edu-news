@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-02T12:02:32.960404",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Chancellor Search and Screen Committee named",
+      "url": "https://www.wisconsin.edu/news/archive/university-of-wisconsin-madison-chancellor-search-and-screen-committee-named/",
+      "date": "April 30, 2026",
+      "type": "News",
+      "summary_en": "Amy B. Bogost, President of the Universities of Wisconsin Board of Regents, and Chris Patton, Executive-in-Charge of the Universities of Wisconsin, have appointed a 23-member Search and Screen Committee to help identify the next UW–Madison chancellor.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "2026 Chancellor’s Undergraduate Awards Ceremony recognizes 179 outstanding students",
+      "url": "https://news.wisc.edu/2026-chancellors-undergraduate-awards-ceremony-recognizes-179-outstanding-students/",
+      "date": "April 30, 2026",
+      "type": "News",
+      "summary_en": "Provost John Zumbrunnen praised the winners for expanding what we know and understand about our world.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "Scientists measure force of powerful jets streaming from a black hole in the Cygnus system",
+      "url": "https://news.wisc.edu/scientists-measure-force-of-powerful-jets-streaming-from-a-black-hole-in-the-cygnus-system/",
+      "date": "April 29, 2026",
+      "type": "News",
+      "summary_en": "The findings confirm a theory posed by UW–Madison researchers a decade ago.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

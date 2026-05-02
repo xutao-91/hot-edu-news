@@ -1,0 +1,53 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-02T12:01:20.915957",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Two Northwestern faculty elected to the American Philosophical Society",
+      "url": "https://news.northwestern.edu/stories/2026/05/two-northwestern-faculty-elected-to-the-american-philosophical-society",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Remembering Irwin Weil, professor emeritus of Slavic languages and literatures",
+      "url": "https://news.northwestern.edu/stories/2026/4/remembering-irwin-weil-professor-emeritus-of-slavic-languages-and-literatures",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "faculty"
+    },
+    {
+      "title": "Seven honored with University Teaching Awards",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwestern-announces-university-teaching-awards",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Northwestern selects a new partner to operate campus bookstores",
+      "url": "https://news.northwestern.edu/stories/2026/4/northwestern-selects-a-new-partner-to-operate-campus-bookstores",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Gift of photos bears witness to the world’s most vulnerable communities",
+      "url": "https://news.northwestern.edu/stories/2026/4/block-museum-of-art-announces-gift-of-photographs-by-fazal-sheikh-honoring-henry-and-leigh-bienen",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

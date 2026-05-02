@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-02T12:02:40.624251",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Alexander Gilstorf’s path was made possible by the Wayne State Guarantee",
+      "url": "https://today.wayne.edu/news/2026/05/01/alexander-gilstorfs-path-was-made-possible-by-the-wayne-state-guarantee-68985",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Jennifer Olmsted appointed chair of James Pearson Duffy Department of Art, Art History, and Design",
+      "url": "https://cfpca.wayne.edu/art/news/jennifer-olmsted-appointed-chair-of-james-pearson-duffy-department-of-art-art-history-and-design-68968",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Atchison Hall reopens as newly renovated home for Honors students",
+      "url": "https://today.wayne.edu/news/2026/04/29/atchison-hall-reopens-as-newly-renovated-home-for-honors-students-68920",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "CBHJ pilots dispatch training to strengthen behavioral health crisis response",
+      "url": "https://behaviorhealthjustice.wayne.edu/news/cbhj-pilots-dispatch-training-to-strengthen-behavioral-health-crisis-response-68932",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "Wayne State experts lead Midtown-based mobile workshop during APA national conference",
+      "url": "https://economicdevelopment.wayne.edu/news/wayne-state-experts-turn-midtown-into-a-living-workshop-as-part-of-american-planning-associations-national-conference-68966",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State researcher awarded NIH grant to study new treatments for antibiotic-resistant infections",
+      "url": "https://applebaum.wayne.edu/news/wayne-state-researcher-awarded-nih-grant-to-study-new-treatments-for-antibiotic-resistant-infections-68967",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    }
+  ]
+}

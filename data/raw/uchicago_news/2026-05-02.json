@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-02T12:02:03.442677",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UChicago chemists 'film' light-matter hybrid particles",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-film-light-matter-hybrid-particles",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Breakthrough could enable future computing or electronic technologies",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "At UChicago event, former U.S. officials warn Iran war is ‘unraveling’ trust in NATO",
+      "url": "https://news.uchicago.edu/story/uchicago-event-former-us-officials-warn-iran-war-unraveling-trust-nato",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Kurt Campbell and Chuck Hagel warn of a weakening of the post-World War II international order",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Two UChicago scientists elected to National Academy of Sciences in 2026",
+      "url": "https://news.uchicago.edu/story/two-uchicago-scientists-elected-national-academy-sciences-2026",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why the Fed matters now more than ever, with Douglas Diamond",
+      "url": "https://news.uchicago.edu/big-brains-podcast-why-fed-matters-now-more-ever-douglas-diamond",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How one researcher took on Chicago's school dropout crisis",
+      "url": "https://news.uchicago.edu/story/how-one-researcher-took-chicagos-school-dropout-crisis",
+      "date": "2026-04-29",
+      "type": "News",
+      "summary_en": "UChicago Prof. Melissa Roderick retires after 35 years of bridging research and policy to keep CPS freshmen on track to graduate",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

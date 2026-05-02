@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-05-02T12:00:15.052075",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "When AI does the work, who does the learning?",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/05/01/when-ai-does-the-work-who-does-the-learning/",
+      "date": "2026-05-01",
+      "type": "AI in Education",
+      "summary_en": "AI is rapidly reshaping education, but not always in ways that support learning. A growing number of AI tools promise to “help” students by doing assignments, writing papers, solving problem sets, or even completing exams automatically.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "How well can your institution recover from a ransomware attack?",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/04/29/how-well-can-your-institution-recover-from-a-ransomware-attack/",
+      "date": "2026-04-29",
+      "type": "Ransomware",
+      "summary_en": "Most educational institutions believe they’re prepared for a cyberattack. Perhaps they’re running backups, and an incident response plan exists somewhere on the shared drive. Maybe they have a cyber insurance policy in place, or have run a tabletop exercise or two.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}
