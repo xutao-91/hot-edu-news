@@ -1,7 +1,17 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-05-01T12:00:05.824806",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-01T20:00:05.304155",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Education Department’s Final Rule on Financial Aid Locks in Restrictive Graduate Loan Limits",
+      "url": "https://www.acenet.edu/News-Room/Pages/ED-Final-Rule-Locks-in-Restrictive-Grad-Loan-Limits-.aspx",
+      "date": "May 1, 2026",
+      "type": "News",
+      "summary_en": "ED has finalized regulations implementing the graduate and professional student loan limits enacted in the OBBB, holding firm to a narrow definition of professional degree programs despite critical public comments and bipartisan opposition from Congress.",
+      "source": "ACE",
+      "category": "student_aid"
+    }
+  ]
 }

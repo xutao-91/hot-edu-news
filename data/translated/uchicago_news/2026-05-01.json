@@ -1,9 +1,31 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-01T12:01:49.827477",
-  "total_news": 4,
+  "crawled_at": "2026-05-01T20:02:05.098500",
+  "total_news": 6,
   "news": [
+    {
+      "title": "芝加哥大学化学家成功拍摄光与物质杂化粒子",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-film-light-matter-hybrid-particles",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Breakthrough could enable future computing or electronic technologies",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "UChicago chemists 'film' light-matter hybrid particles",
+      "summary_cn": "2026年5月1日，芝加哥大学公开发布一项化学领域前沿科研进展，该校化学家团队成功完成光与物质杂化粒子的拍摄记录工作，相关成果属于该领域重要突破。\n\n本次科研工作由芝加哥大学化学领域研究人员主导开展，核心成果为实现对光与物质杂化粒子的拍摄成像，相关信息由芝加哥大学官方渠道对外正式发布。\n\n根据芝加哥大学公布的相关说明，本次取得的科研突破具备潜在应用价值，未来能够为计算、电子领域的相关技术研发提供支撑，助力相关技术发展落地。"
+    },
+    {
+      "title": "美国前官员在芝加哥大学活动中警告 伊朗战事正瓦解北约信任 二战后国际秩序趋于弱化",
+      "url": "https://news.uchicago.edu/story/uchicago-event-former-us-officials-warn-iran-war-unraveling-trust-nato",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Kurt Campbell and Chuck Hagel warn of a weakening of the post-World War II international order",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "At UChicago event, former U.S. officials warn Iran war is ‘unraveling’ trust in NATO",
+      "summary_cn": "2026年5月1日，芝加哥大学发布相关活动报道，刊载了该校举办的公开活动中两名美国前官员的发言内容。\n\n本次公开发言的两名官员为库尔特·坎贝尔、查克·哈格尔，二人均为美国前资深政务官员。二人在活动中明确作出警示，伊朗战事正在“瓦解”北约内部的信任基础。\n\n二人同时就国际秩序相关问题发出警告，称第二次世界大战后构建的国际秩序正在出现弱化态势。本次相关表态内容均为活动现场公开表述，由芝加哥大学官方对外发布。"
+    },
     {
       "title": "芝加哥大学两名科学家当选2026年美国国家科学院院士",
       "url": "https://news.uchicago.edu/story/two-uchicago-scientists-elected-national-academy-sciences-2026",
@@ -49,6 +71,6 @@
       "summary_cn": "2026年4月28日，芝加哥大学发布相关文化艺术动态，介绍由该校孵化的原创艺术项目进展情况。\n\n本次对外介绍的原创作品为考特剧院推出的音乐剧《此处之外》（Out Here），该作品的核心创作目标是对酷儿音乐剧品类进行从零开始的全面重构。\n\n该原创作品围绕三大维度开展艺术创作，分别对离婚相关议题进行重新演绎，对个体在50岁年龄阶段的出柜经历进行艺术呈现，同时对传统音乐剧的既有创作惯例作出全新探索。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 2,
   "skipped_count": 4
 }

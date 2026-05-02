@@ -1,9 +1,27 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-01T12:01:49.827477",
-  "total_news": 4,
+  "crawled_at": "2026-05-01T20:02:05.098500",
+  "total_news": 6,
   "news": [
+    {
+      "title": "UChicago chemists 'film' light-matter hybrid particles",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-film-light-matter-hybrid-particles",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Breakthrough could enable future computing or electronic technologies",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "At UChicago event, former U.S. officials warn Iran war is ‘unraveling’ trust in NATO",
+      "url": "https://news.uchicago.edu/story/uchicago-event-former-us-officials-warn-iran-war-unraveling-trust-nato",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Kurt Campbell and Chuck Hagel warn of a weakening of the post-World War II international order",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Two UChicago scientists elected to National Academy of Sciences in 2026",
       "url": "https://news.uchicago.edu/story/two-uchicago-scientists-elected-national-academy-sciences-2026",

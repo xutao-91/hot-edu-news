@@ -1,7 +1,7 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-05-01T12:01:27.033945",
+  "crawled_at": "2026-05-01T20:01:24.078649",
   "total_news": 4,
   "news": [
     {
@@ -72,6 +72,6 @@
       "summary_cn": "2026年4月28日，皮尤研究中心发布美国涉枪死亡领域相关统计报告。\n\n根据报告公布的统计结论，2024年美国涉枪死亡人数已连续第三年出现下降。\n\n报告同时明确，2024年美国涉枪死亡年度总人数仍处于有记录以来的最高年度总人数行列。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 2
+  "compiled_count": 0,
+  "skipped_count": 4
 }

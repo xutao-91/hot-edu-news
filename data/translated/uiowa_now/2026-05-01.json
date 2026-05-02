@@ -1,7 +1,7 @@
 {
   "source": "University of Iowa Now",
   "source_url": "https://now.uiowa.edu/tags/featured-headlines",
-  "crawled_at": "2026-05-01T12:01:57.683068",
+  "crawled_at": "2026-05-01T20:02:10.517355",
   "total_news": 2,
   "news": [
     {
@@ -27,6 +27,6 @@
       "summary_cn": "2026年4月28日，爱荷华大学发布官方教育新闻。\n\n新闻通报，校方举办年度正式仪式，对获得相关奖项的教职员工予以集中表彰，相关获奖人员均为该校教职人员序列。\n\n本次活动为校方面向校内教职群体开展的官方荣誉认定类活动，是该校年度公务安排的组成环节。"
     }
   ],
-  "compiled_count": 1,
-  "skipped_count": 1
+  "compiled_count": 0,
+  "skipped_count": 2
 }

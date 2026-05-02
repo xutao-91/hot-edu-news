@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-05-01T12:01:37.326130",
-  "total_news": 7,
+  "crawled_at": "2026-05-01T20:01:38.867452",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Purdue Engineering rallies Boilermaker community to raise nearly $12 million on Day of Giving",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0501-Purdue-Engineering-rallies-Boilermaker-community-to-raise-nearly-12-million-on-Day-of-Giving",
+      "date": "May 1, 2026",
+      "type": "News",
+      "summary_en": "Purdue University celebrated its 13th annual Day of Giving on April 29 with a powerful show of support for its College of Engineering, with 340 gifts totaling nearly $12 million in just 24 hours given to advance education, research and student success.",
+      "source": "Purdue College of Engineering",
+      "category": "community"
+    },
     {
       "title": "Purdue Engineering to host Latin American academic leaders for inaugural LIDER program",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0501-Purdue-Engineering-to-host-Latin-American-academic-leaders-for-inaugural-LIDER-program",

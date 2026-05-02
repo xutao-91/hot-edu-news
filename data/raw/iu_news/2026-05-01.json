@@ -1,8 +1,8 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-05-01T12:00:42.998473",
-  "total_news": 4,
+  "crawled_at": "2026-05-01T20:00:43.842675",
+  "total_news": 5,
   "news": [
     {
       "title": "Indiana University celebrating 2026 commencement across state",
@@ -30,6 +30,15 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "science"
+    },
+    {
+      "title": "In Sports Media Lab, IU photography students chronicle Little 500 beyond the track",
+      "url": "https://news.iu.edu/live/news/50411-in-sports-media-lab-iu-photography-students",
+      "date": "May 1, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
     },
     {
       "title": "Maurer students draft prescribed burning law, get legal recognition of conservation partnership",

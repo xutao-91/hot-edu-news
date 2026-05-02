@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-01T12:02:22.840147",
+  "crawled_at": "2026-05-01T20:02:58.832571",
   "total_news": 10,
   "news": [
+    {
+      "title": "Board of Trustees elects new chair, members",
+      "url": "https://source.washu.edu/2026/05/board-of-trustees-elects-new-chair-members/",
+      "date": "2026-05-01",
+      "type": "Appointments & Promotions",
+      "summary_en": "Penny Pennington, managing partner of Edward Jones, a St. Louis-based finanical services company, has been elected to serve as chair of the WashU Board of Trustees effective July 1. Pennington will be the first woman to hold the position.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Class Acts: Amanda Kesler",
       "url": "https://source.washu.edu/2026/05/class-acts-amanda-kesler/",
@@ -82,15 +91,6 @@
       "date": "2026-04-30",
       "type": "Students",
       "summary_en": "In May, Ariel Hernandez-Leyva is set to achieve his goal of becoming a physician-scientist by earning a medical degree and a PhD in computational and systems biology from WashU Medicine. He is first author on a study — published in the prestigious journal Cell Metabolism — revealing that breath can carry clues to gut microbiome health, particularly among children.",
-      "source": "WashU Source",
-      "category": "general"
-    },
-    {
-      "title": "Class Acts: GP Worley",
-      "url": "https://source.washu.edu/2026/04/class-acts-gp-worley/",
-      "date": "2026-04-30",
-      "type": "Students",
-      "summary_en": "GP Worley applied to the WashU Brown School because they were inspired by the work of the Sexuality, Health and Gender (SHAG) Center. Today, Worley is one of the center’s most committed contributors, pursuing multiple projects that explore the role of sexuality and gender in health.",
       "source": "WashU Source",
       "category": "general"
     }

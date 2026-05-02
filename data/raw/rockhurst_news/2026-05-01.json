@@ -1,17 +1,7 @@
 {
   "source": "Rockhurst University News",
   "source_url": "https://www.rockhurst.edu/news",
-  "crawled_at": "2026-05-01T12:01:42.277155",
-  "total_news": 1,
-  "news": [
-    {
-      "title": "Heart Sculpture Honoring Disney Gets Visit from Special Guests",
-      "url": "https://www.rockhurst.edu/news/2026-04-30/heart-sculpture-honoring-disney-gets-visit-special-guests",
-      "date": "2026-04-30",
-      "type": "News",
-      "summary_en": "Several weeks ago, Rockhurst University was revealed as the host of one of the stops on the KC Parade of Hearts, an annual public art event in which local artists design large sculptural hearts that highlight history and culture of the KC community for display at local landmarks and businesses.",
-      "source": "Rockhurst News",
-      "category": "general"
-    }
-  ]
+  "crawled_at": "2026-05-01T20:01:47.585144",
+  "total_news": 0,
+  "news": []
 }
