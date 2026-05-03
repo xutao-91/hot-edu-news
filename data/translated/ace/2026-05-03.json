@@ -1,0 +1,21 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-05-03T12:00:05.876973",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "美国教育部敲定经济资助领域最终规则 锁定限制性研究生贷款限额",
+      "url": "https://www.acenet.edu/News-Room/Pages/ED-Final-Rule-Locks-in-Restrictive-Grad-Loan-Limits-.aspx",
+      "date": "May 1, 2026",
+      "type": "News",
+      "summary_en": "ED has finalized regulations implementing the graduate and professional student loan limits enacted in the OBBB, holding firm to a narrow definition of professional degree programs despite critical public comments and bipartisan opposition from Congress.",
+      "source": "ACE",
+      "category": "student_aid",
+      "original_title": "Education Department’s Final Rule on Financial Aid Locks in Restrictive Graduate Loan Limits",
+      "summary_cn": "2026年5月1日，美国教育委员会发布相关教育政策通报，明确美国教育部已正式敲定经济资助领域相关最终规则。\n\n本次出台的最终规则旨在落实OBBB法案中所规定的研究生及专业学位学生贷款限额条款，前述限制性研究生贷款限额将通过本次规则正式落地实施。\n\n在规则制定过程中，美国教育部始终坚持对专业学位项目采用狭义定义，该项标准此前已收到大量公众批评意见，同时遭到美国国会两党共同反对，但美国教育部未对相关内容作出调整，仍按原有表述正式发布最终规则。"
+    }
+  ],
+  "compiled_count": 0,
+  "skipped_count": 1
+}

@@ -1,0 +1,38 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-05-03T12:01:19.541326",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Trump Loses Ground on Several Personal Traits as Approval Rating Slips",
+      "url": "https://www.pewresearch.org/politics/2026/05/01/trump-loses-ground-on-several-personal-traits-as-approval-rating-slips/",
+      "date": "May 1, 2026",
+      "type": "report",
+      "categories": [
+        "Donald Trump",
+        "Political Parties Polarization",
+        "Politics Policy"
+      ],
+      "summary_en": "A majority of Americans (56%) say the overall level of ethics and honesty in the federal government has fallen over the course of Trump’s term.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Americans remain critical of Trump administration’s approach to Iran",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/01/americans-remain-critical-of-trump-administrations-approach-to-iran/",
+      "date": "May 1, 2026",
+      "type": "short reads",
+      "categories": [
+        "Defense National Security",
+        "Partisanship Issues",
+        "Political Issues",
+        "War International Conflict 2",
+        "War International Conflict 1"
+      ],
+      "summary_en": "62% of Americans disapprove of Trump’s handling of the military action against Iran, and 59% say the U.S. made the wrong decision in using military force.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-05-03T12:01:25.174594",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue to offer AI and STEM professional development for Indiana educators with LEGO® Education Computer Science & AI kits",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-to-offer-ai-and-stem-professional-development-for-indiana-educators-with-lego-education-computer-science-ai-kits",
+      "date": "April 30, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research"
+    },
+    {
+      "title": "Purdue celebrates 13th Day of Giving",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-celebrates-13th-day-of-giving",
+      "date": "April 30, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    }
+  ]
+}

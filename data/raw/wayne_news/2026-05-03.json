@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-03T12:02:22.945298",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Alexander Gilstorf’s path was made possible by the Wayne State Guarantee",
+      "url": "https://today.wayne.edu/news/2026/05/01/alexander-gilstorfs-path-was-made-possible-by-the-wayne-state-guarantee-68985",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Jennifer Olmsted appointed chair of James Pearson Duffy Department of Art, Art History, and Design",
+      "url": "https://cfpca.wayne.edu/art/news/jennifer-olmsted-appointed-chair-of-james-pearson-duffy-department-of-art-art-history-and-design-68968",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

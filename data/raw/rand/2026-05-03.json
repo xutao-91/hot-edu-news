@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-03T12:01:34.328507",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Multi-Ecosystem Competition in Artificial Intelligence Adoption and Diffusion",
+      "url": "https://www.rand.org/pubs/working_papers/WRA4944-1.html",
+      "date": "Apr 30, 2026",
+      "type": "Publication",
+      "summary_en": "The author provides a theoretical framework for understanding artificial intelligence (AI) diffusion dynamics in the presence of competing technologies with heterogeneous value propositions.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

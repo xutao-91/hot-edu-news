@@ -1,0 +1,35 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-03T12:01:42.260790",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Mizzou professor receives UPCEA Emerging Professional Continuing Educator Award",
+      "url": "https://showme.missouri.edu/2026/mizzou-professor-receives-upcea-emerging-professional-continuing-educator-award/",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
+    {
+      "title": "Mizzou in Bloom: Donor Recognition Weekend celebrates philanthropy",
+      "url": "https://showme.missouri.edu/2026/mizzou-in-bloom-donor-recognition-weekend-celebrates-philanthropy/",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "Alumni and friends whose generosity sustains the university were recognized across a weekend of signature events.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "From Mizzou’s Psychology 101 to transforming trauma care",
+      "url": "https://showme.missouri.edu/2026/from-mizzous-psychology-101-to-transforming-trauma-care/",
+      "date": "2026-04-30",
+      "type": "News",
+      "summary_en": "How Rebecca Kase turned a college epiphany into a multimillion-dollar institute and a revolutionary approach to EMDR therapy.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}
