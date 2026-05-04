@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-04T12:02:30.864290",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Academic Recognition Ceremony celebrates faculty and staff excellence",
+      "url": "https://today.wayne.edu/news/2026/05/04/wayne-state-universitys-academic-recognition-ceremony-celebrates-faculty-and-staff-excellence-68994",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Alexander Gilstorf’s path was made possible by the Wayne State Guarantee",
+      "url": "https://today.wayne.edu/news/2026/05/01/alexander-gilstorfs-path-was-made-possible-by-the-wayne-state-guarantee-68985",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "How Gabe Zeldes balances collegiate baseball, pre-med and purpose",
+      "url": "https://today.wayne.edu/news/2026/05/01/how-gabe-zeldes-balances-collegiate-baseball-pre-med-and-purpose-68989",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

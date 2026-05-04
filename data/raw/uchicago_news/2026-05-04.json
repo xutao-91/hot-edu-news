@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-04T12:01:56.009524",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UChicago chemists 'film' light-matter hybrid particles",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-film-light-matter-hybrid-particles",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Breakthrough could enable future computing or electronic technologies",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "At UChicago event, former U.S. officials warn Iran war is ‘unraveling’ trust in NATO",
+      "url": "https://news.uchicago.edu/story/uchicago-event-former-us-officials-warn-iran-war-unraveling-trust-nato",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Kurt Campbell and Chuck Hagel warn of a weakening of the post-World War II international order",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Scientists get best-ever look at distant planet’s surface with Webb Telescope",
+      "url": "https://news.uchicago.edu/story/scientists-get-best-ever-look-distant-planets-surface-webb-telescope",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Data analyzed by UChicago scientists reveals exoplanet Kua’kua is dark and rocky, offering clues to search for habitable worlds",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

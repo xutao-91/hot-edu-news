@@ -1,0 +1,17 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-05-04T12:01:30.600778",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Purdue drone initiatives focus on the future of autonomy in the sky",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-drone-initiatives-focus-on-the-future-of-autonomy-in-the-sky",
+      "date": "May 4, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    }
+  ]
+}

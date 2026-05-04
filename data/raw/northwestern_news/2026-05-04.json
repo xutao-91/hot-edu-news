@@ -1,0 +1,17 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-04T12:01:13.910795",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Two Northwestern faculty elected to the American Philosophical Society",
+      "url": "https://news.northwestern.edu/stories/2026/05/two-northwestern-faculty-elected-to-the-american-philosophical-society",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

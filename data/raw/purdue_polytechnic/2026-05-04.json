@@ -1,0 +1,26 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-05-04T12:01:36.818014",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue Online alumna Trevor Sierzputowski’s construction management Master's degree: 'a good investment in me and the future I could have.'",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-online-alumna-trevor-sierzputowskis-construction-management-masters-degree-good",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Polytechnic researchers tackle AI privacy, present accepted papers plus honorable mention at prestigious HCI conference",
+      "url": "https://polytechnic.purdue.edu/newsroom/polytechnic-researchers-tackle-ai-privacy-present-accepted-papers-plus-honorable-mention",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

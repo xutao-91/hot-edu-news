@@ -1,0 +1,43 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-04T12:01:56.009524",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "芝加哥大学化学家成功拍摄光与物质杂化粒子",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-film-light-matter-hybrid-particles",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Breakthrough could enable future computing or electronic technologies",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "UChicago chemists 'film' light-matter hybrid particles",
+      "summary_cn": "2026年5月1日，芝加哥大学公开发布一项化学领域前沿科研进展，该校化学家团队成功完成光与物质杂化粒子的拍摄记录工作，相关成果属于该领域重要突破。\n\n本次科研工作由芝加哥大学化学领域研究人员主导开展，核心成果为实现对光与物质杂化粒子的拍摄成像，相关信息由芝加哥大学官方渠道对外正式发布。\n\n根据芝加哥大学公布的相关说明，本次取得的科研突破具备潜在应用价值，未来能够为计算、电子领域的相关技术研发提供支撑，助力相关技术发展落地。"
+    },
+    {
+      "title": "美国前官员在芝加哥大学活动中警告 伊朗战事正瓦解北约信任 二战后国际秩序趋于弱化",
+      "url": "https://news.uchicago.edu/story/uchicago-event-former-us-officials-warn-iran-war-unraveling-trust-nato",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Kurt Campbell and Chuck Hagel warn of a weakening of the post-World War II international order",
+      "source": "UChicago News",
+      "category": "general",
+      "original_title": "At UChicago event, former U.S. officials warn Iran war is ‘unraveling’ trust in NATO",
+      "summary_cn": "2026年5月1日，芝加哥大学发布相关活动报道，刊载了该校举办的公开活动中两名美国前官员的发言内容。\n\n本次公开发言的两名官员为库尔特·坎贝尔、查克·哈格尔，二人均为美国前资深政务官员。二人在活动中明确作出警示，伊朗战事正在“瓦解”北约内部的信任基础。\n\n二人同时就国际秩序相关问题发出警告，称第二次世界大战后构建的国际秩序正在出现弱化态势。本次相关表态内容均为活动现场公开表述，由芝加哥大学官方对外发布。"
+    },
+    {
+      "title": "科学家借助韦伯望远镜获取遥远系外行星表面迄今最清晰观测结果",
+      "url": "https://news.uchicago.edu/story/scientists-get-best-ever-look-distant-planets-surface-webb-telescope",
+      "date": "2026-05-01",
+      "type": "News",
+      "summary_en": "Data analyzed by UChicago scientists reveals exoplanet Kua’kua is dark and rocky, offering clues to search for habitable worlds",
+      "source": "UChicago News",
+      "category": "research",
+      "original_title": "Scientists get best-ever look at distant planet’s surface with Webb Telescope",
+      "summary_cn": "2026年5月1日，美国芝加哥大学公布其天文学领域最新研究成果。\n\n本次研究依托詹姆斯·韦伯空间望远镜的观测数据开展，相关观测是人类迄今针对遥远系外行星表面完成的精度最高的观测活动，全部观测数据由芝加哥大学科研团队主导开展分析工作。\n\n经科研团队系统分析确认，本次观测的系外行星Kua'kua属于暗色岩质行星，其基础属性特征已通过本次观测得到明确验证。\n\n该研究成果具备重要的科研参考价值，可为后续全球天文学界开展宜居星球搜寻相关工作提供有效线索支撑。"
+    }
+  ],
+  "compiled_count": 1,
+  "skipped_count": 2
+}

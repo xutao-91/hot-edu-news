@@ -1,0 +1,32 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-04T12:01:41.066756",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "美中未来人工智能安全保障合作应急框架：保留战略选择权",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4825-1.html",
+      "date": "May 4, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The author aims to inform artificial intelligence contingency planning under the premise that preserving strategic optionality for future U.S.-China engagement serves U.S. interests. He proposes five potential lines of effort for doing so.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "Contingency Frameworks for Future U.S.-China Cooperation on AI Assurance and Security: Preserving Strategic Optionality",
+      "summary_cn": "2026年5月4日，美国兰德公司发布题为《美中未来人工智能安全保障合作应急框架：保留战略选择权》的研究报告。\n\n本次发布的报告聚焦人工智能领域应急规划相关议题，全部研究内容均围绕预设前提开展论证。\n\n报告明确，其核心研究前提为保留未来美中接触的战略选择权符合美国利益，开展相关研究的核心目的是为人工智能领域应急规划工作提供信息参考。\n\n围绕前述研究前提与核心目标，报告共提出五大潜在工作方向，为后续相关目标的落地提供可选路径支撑。"
+    },
+    {
+      "title": "开放权重人工智能模型需采用相称性评估方法",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4886-1.html",
+      "date": "May 4, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Open-weight AI models (OWMs) introduce distinct risk factors for which existing evaluation practices, largely designed for closed-weight model deployment, fail to account. The authors propose proportional evaluation approaches for OWMs.",
+      "source": "Rand Corporation",
+      "category": "ai_technology",
+      "original_title": "Open-Weight AI Models Require Proportional Evaluation Approaches",
+      "summary_cn": "2026年5月4日，兰德公司发布题为《开放权重人工智能模型需采用相称性评估方法》的研究报告。\n\n报告明确，开放权重人工智能模型具备特有的风险因素，当前现有评估实践绝大多数是针对闭权重模型的部署场景设计制定，无法覆盖开放权重人工智能模型的相关风险，不能满足该类模型的评估工作需求。\n\n针对上述问题，报告研究作者正式提出适配开放权重人工智能模型的相称性评估方法，为该类模型的评估工作开展提供针对性路径。"
+    }
+  ],
+  "compiled_count": 2,
+  "skipped_count": 0
+}

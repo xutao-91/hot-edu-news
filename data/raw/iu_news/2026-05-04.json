@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-05-04T12:00:32.719099",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "New platform aims to better predict metastatic cancer risk",
+      "url": "https://news.iu.edu/live/news/50417-new-platform-aims-to-better-predict-metastatic-cancer-",
+      "date": "May 4, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "In Sports Media Lab, IU photography students chronicle Little 500 beyond the track",
+      "url": "https://news.iu.edu/live/news/50411-in-sports-media-lab-iu-photography-students",
+      "date": "May 1, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

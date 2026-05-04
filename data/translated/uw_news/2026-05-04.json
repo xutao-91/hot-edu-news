@@ -1,0 +1,32 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-04T12:02:24.361062",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "华盛顿大学48名教职人员获授维拉斯教授席位及相关奖项",
+      "url": "https://news.wisc.edu/48-faculty-honored-with-vilas-professorships-and-awards/",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "The awards recognize standout research, teaching and service.",
+      "source": "UW-Madison News",
+      "category": "faculty",
+      "original_title": "48 faculty honored with Vilas professorships and awards",
+      "summary_cn": "2026年5月4日，华盛顿大学通过官方渠道发布维拉斯教授席位及相关奖项的最新授予结果，本次共有48名在校任职的教职人员成功获评，获得相应的维拉斯教授席位及配套奖项。\n\n维拉斯教授席位及相关奖项是华盛顿大学面向校内教职人员设置的官方表彰类荣誉，核心宗旨是对教职人员的优秀工作成果予以公开认可，是校方针对教职人员工作贡献发布的正式授奖事项。\n\n本次荣誉的评定工作围绕研究、教学、服务三个核心维度开展，仅对在上述工作领域取得突出表现的教职人员予以授奖，相关授奖结果已由校方正式对外公布。"
+    },
+    {
+      "title": "华盛顿大学4名学者获授维拉斯研究教授称号",
+      "url": "https://news.wisc.edu/4-uw-scholars-honored-with-vilas-research-professorships/",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "New Vilas Research Professors include leaders in study of cells, public opinion, sustainable chemistry and computational optimization",
+      "source": "UW-Madison News",
+      "category": "research",
+      "original_title": "4 UW scholars honored with Vilas Research Professorships",
+      "summary_cn": "2026年5月4日，华盛顿大学发布学术荣誉授予相关公告。\n\n根据公告内容，共有4名该校学者获评最新一批维拉斯研究教授称号。\n\n本次获评的4名学者均为各自研究领域的领军人员，研究方向分别覆盖细胞研究、公众舆论研究、可持续化学、计算优化四大领域。"
+    }
+  ],
+  "compiled_count": 2,
+  "skipped_count": 0
+}

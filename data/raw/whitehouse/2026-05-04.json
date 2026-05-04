@@ -1,0 +1,57 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-05-04T12:02:32.218468",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Presidential Message on National Small Business Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
+      "date": "May 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Hurricane Preparedness Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
+      "date": "May 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Asian American and Pacific Islander Heritage Month",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-asian-american-and-pacific-islander-heritage-month/",
+      "date": "May 2, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Kentucky Derby",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-the-kentucky-derby/",
+      "date": "May 2, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Loyalty and Law Day, U.S.A.",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-loyalty-and-law-day-u-s-a/",
+      "date": "May 1, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Imposes Sanctions on Cuban Regime Officials Responsible for Repression and Threats to U.S. National Security and Foreign Policy",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-imposes-sanctions-on-cuban-regime-officials-responsible-for-repression-and-threats-to-u-s-national-security-and-foreign-policy/",
+      "date": "May 1, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states-national-security-and-foreign-policy/",
+      "date": "May 1, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}
