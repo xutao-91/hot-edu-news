@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-03T12:02:24.315161",
+  "crawled_at": "2026-05-03T20:02:25.189050",
   "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message on National Small Business Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
+      "date": "May 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Hurricane Preparedness Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
+      "date": "May 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on Asian American and Pacific Islander Heritage Month",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-asian-american-and-pacific-islander-heritage-month/",
@@ -58,20 +72,6 @@
       "url": "https://www.whitehouse.gov/briefings-statements/2026/04/congressional-bill-h-r-7147-signed-into-law/",
       "date": "April 30, 2026",
       "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Permit: Authorizing Bridger Pipeline Expansion LLC to Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the United States and Canada",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
-      "date": "April 30, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "National Fallen Firefighters Memorial Weekend, 2026",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
-      "date": "April 30, 2026",
-      "category": "Presidential Actions",
       "source": "The White House"
     }
   ]

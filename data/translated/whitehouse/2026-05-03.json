@@ -1,9 +1,27 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-03T12:02:24.315161",
+  "crawled_at": "2026-05-03T20:02:25.189050",
   "total_news": 10,
   "news": [
+    {
+      "title": "白宫发布《关于全国小企业周的总统致辞》",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
+      "date": "May 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on National Small Business Week",
+      "summary_cn": "2026年5月3日，白宫公开发布题为《关于全国小企业周的总统致辞》的官方政务文件。\n\n该文件为白宫2026年5月3日对外披露的正式公开信息，核心主题与全国小企业周相关事项有关，发布主体为美国白宫官方。\n\n该文件的具体内容以白宫官方对外公开的完整正式版本为准，相关信息可通过白宫官方公开渠道查阅获取。"
+    },
+    {
+      "title": "白宫发布总统关于全国飓风防备周的致辞",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
+      "date": "May 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on National Hurricane Preparedness Week",
+      "summary_cn": "2026年5月3日，美国白宫正式对外发布美国总统关于全国飓风防备周的官方致辞。\n\n该致辞属于美国联邦政府层面发布的正式公务文告，以全国飓风防备周为核心主题，由白宫作为官方发布主体对外公开。\n\n本次对外发布的文告核心要素明确，发布时间为2026年5月3日，发布主体为白宫，发文主体为美国总统，核心议题围绕全国飓风防备周相关事项设置，属于美国官方围绕灾害防备工作发布的正式公务文件。"
+    },
     {
       "title": "白宫发布关于亚裔美国人与太平洋岛民传统月的总统致辞",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-asian-american-and-pacific-islander-heritage-month/",
@@ -75,26 +93,8 @@
       "source": "The White House",
       "original_title": "Congressional Bill H.R. 7147 Signed into Law",
       "summary_cn": "2026年04月30日，Congressional Bill H.R. 7147 Signed into Law。"
-    },
-    {
-      "title": "美国白宫发布总统许可 授权布里杰管道扩建有限责任公司在美加边境蒙大拿州菲利普斯县段开展管道设施相关业务",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/presidential-permit-authorizing-bridger-pipeline-expansion-llc-to-construct-connect-operate-and-maintain-pipeline-facilities-at-the-international-boundary-at-phillips-county-montana-between-the/",
-      "date": "April 30, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House",
-      "original_title": "Presidential Permit: Authorizing Bridger Pipeline Expansion LLC to Construct, Connect, Operate, and Maintain Pipeline Facilities at the International Boundary at Phillips County, Montana, Between the United States and Canada",
-      "summary_cn": "2026年4月30日，美国白宫正式对外发布一项涉及跨境管道项目的总统许可文件。\n\n本次许可属于美国官方针对跨境基础设施项目出具的正式行政授权文书，本次指定授权对象为布里杰管道扩建有限责任公司。\n\n根据许可列明的授权内容，布里杰管道扩建有限责任公司获得四类管道设施相关业务权限，具体包括管道设施修建、跨境管道点位连接、管道设施运营、管道设施维护四项内容。\n\n前述所有授权事项的实施区域为美国蒙大拿州菲利普斯县境内的美国与加拿大国际边界处，相关业务均在该指定区域范围内开展。"
-    },
-    {
-      "title": "2026年全国殉职消防员纪念周末",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/04/national-fallen-firefighters-memorial-weekend-2026/",
-      "date": "April 30, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House",
-      "original_title": "National Fallen Firefighters Memorial Weekend, 2026",
-      "summary_cn": "2026年4月30日，美国白宫对外发布题为《2026年全国殉职消防员纪念周末》的官方信息。\n\n本次信息发布主体为美国白宫，发布时间为2026年4月30日，主题围绕2026年度全国殉职消防员纪念周末相关事项展开，属于官方公开公务类信息范畴。\n\n本次发布是美国白宫就2026年全国殉职消防员纪念周末相关事宜作出的官方披露，相关事项均以白宫本次正式公开发布的内容为准。"
     }
   ],
-  "compiled_count": 1,
-  "skipped_count": 9
+  "compiled_count": 2,
+  "skipped_count": 8
 }
