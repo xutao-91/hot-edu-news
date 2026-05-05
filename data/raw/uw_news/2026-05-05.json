@@ -1,0 +1,53 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-05T12:02:13.971798",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UW’s Public Tech Media Lab helps bridge the gap between AI and journalism",
+      "url": "https://ls.wisc.edu/news/at-the-intersection-of-journalism-and-ai",
+      "date": "May 5, 2026",
+      "type": "News",
+      "summary_en": "Led by journalism professor Tomás Dodds, the new lab has partnered with local newsrooms to help them develop AI guidelines and systems that adhere to core reporting values and standards.",
+      "source": "UW-Madison News",
+      "category": "technology"
+    },
+    {
+      "title": "UW–Madison finalizes 2025–27 compensation strategy",
+      "url": "https://news.wisc.edu/uw-madison-finalizes-2025-27-compensation-strategy/",
+      "date": "May 5, 2026",
+      "type": "News",
+      "summary_en": "The strategy is intended to support the university’s total compensation philosophy, which is to be a market-competitive employer that supports UW staff and faculty.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Badgers head to Wisconsin’s capitol",
+      "url": "https://www.uwalumni.com/news/badgers-head-to-the-capitol/",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "The annual UW–Madison Day at the State Capitol highlighted the university's economic power and campus momentum.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "48 faculty honored with Vilas professorships and awards",
+      "url": "https://news.wisc.edu/48-faculty-honored-with-vilas-professorships-and-awards/",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "The awards recognize standout research, teaching and service.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "4 UW scholars honored with Vilas Research Professorships",
+      "url": "https://news.wisc.edu/4-uw-scholars-honored-with-vilas-research-professorships/",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "New Vilas Research Professors include leaders in study of cells, public opinion, sustainable chemistry and computational optimization",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}

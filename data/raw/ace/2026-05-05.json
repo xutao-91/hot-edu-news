@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-05-05T12:00:05.938411",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE’s Building Pathways Initiative Examines the Ecosystem of Economic Growth Through Higher Education in Pennsylvania",
+      "url": "https://www.acenet.edu/News-Room/Pages/Building-Pathways-Pennsylvania.aspx",
+      "date": "May 5, 2026",
+      "type": "News",
+      "summary_en": "The current successes and unlimited potential of higher education as an economic engine driving development and strengthening communities throughout Pennsylvania were the focuses of an April 28 convening of ACE’s Building Pathways initiative.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

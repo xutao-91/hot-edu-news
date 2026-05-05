@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-05T12:01:28.282999",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue hosts 12th Midwest Workshop on Control and Game Theory, advancing research and collaboration",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0504-Purdue-hosts-12th-Midwest-Workshop-on-Control-and-Game-Theory-advancing-research-and-collaboration",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "Purdue University welcomed researchers, students and industry professionals from across the region for the 12th Midwest Workshop on Control and Game Theory (MWCGT), held April 25–26 in West Lafayette.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "College of Engineering welcomes 38 incoming graduate fellows",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0504-College-of-Engineering-welcomes-38-incoming-graduate-fellows",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "The Purdue University College of Engineering has named 38 incoming graduate students as Lambertus Doctoral and Graduate Excellence Fellows, recognizing exceptional academic achievement and strong potential to advance engineering research and innovation.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University Newsroom",
+  "source_url": "https://www.purdue.edu/newsroom/articles/?order=DESC&orderby=date&paged=1&custom_post_type=post",
+  "crawled_at": "2026-05-05T12:01:23.483217",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Oyster cement: Scientists study shellfish to make stronger, faster-curing building material",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/oyster-cement-scientists-study-shellfish-to-make-stronger-faster-curing-building-material",
+      "date": "May 5, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "research"
+    },
+    {
+      "title": "Purdue Brand Studio earns global honors",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-brand-studio-earns-global-honors-2",
+      "date": "May 5, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "Purdue to celebrate more than 10,000 graduates for second consecutive year at spring commencement ceremonies",
+      "url": "https://www.purdue.edu/newsroom/purduetoday/2026/Q2/purdue-to-celebrate-more-than-10000-graduates-for-second-consecutive-year-at-spring-commencement-ceremonies",
+      "date": "May 5, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    },
+    {
+      "title": "Purdue drone initiatives focus on the future of autonomy in the sky",
+      "url": "https://www.purdue.edu/newsroom/2026/Q2/purdue-drone-initiatives-focus-on-the-future-of-autonomy-in-the-sky",
+      "date": "May 4, 2026",
+      "type": "Purdue News",
+      "summary_en": "",
+      "source": "Purdue University",
+      "category": "general"
+    }
+  ]
+}

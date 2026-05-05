@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-05T12:01:34.120454",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "School-Level Poverty in Education Survey Research: Can Free or Reduced-Price Lunch Be Substituted as a Weighting Variable by Other, More Reliable Measures?",
+      "url": "https://www.rand.org/pubs/working_papers/WRA4691-1.html",
+      "date": "May 5, 2026",
+      "type": "Publication",
+      "summary_en": "The purpose of this exploratory study was to examine the potential utility of school-level poverty measures other than free or reduced-price lunch for achieving population representativeness in survey weighting.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "Contingency Frameworks for Future U.S.-China Cooperation on AI Assurance and Security: Preserving Strategic Optionality",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4825-1.html",
+      "date": "May 4, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The author aims to inform artificial intelligence contingency planning under the premise that preserving strategic optionality for future U.S.-China engagement serves U.S. interests. He proposes five potential lines of effort for doing so.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Open-Weight AI Models Require Proportional Evaluation Approaches",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4886-1.html",
+      "date": "May 4, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Open-weight AI models (OWMs) introduce distinct risk factors for which existing evaluation practices, largely designed for closed-weight model deployment, fail to account. The authors propose proportional evaluation approaches for OWMs.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
