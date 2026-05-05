@@ -1,9 +1,45 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-04T12:02:32.218468",
-  "total_news": 7,
+  "crawled_at": "2026-05-04T20:02:33.649579",
+  "total_news": 10,
   "news": [
+    {
+      "title": "美国国会S.723号法案正式签署成为法律",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-723-signed-into-law/",
+      "date": "May 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Congressional Bill S. 723 Signed into Law",
+      "summary_cn": "2026年5月4日，白宫官方发布公务通报，确认美国国会S.723号法案已完成签署程序，正式成为生效法律。\n\n本次通报的核心内容为告知S.723号国会法案的立法进展完成情况，明确该法案已走完法定签署流程，具备正式法律效力。\n\n本次通报由白宫作为官方发布主体对外公开，属于官方正式发布的立法相关公务信息。"
+    },
+    {
+      "title": "Jewish American Heritage Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/jewish-american-heritage-month-2026/",
+      "date": "May 4, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House",
+      "original_title": "Jewish American Heritage Month, 2026",
+      "summary_cn": "2026年05月04日，Jewish American Heritage Month, 2026。"
+    },
+    {
+      "title": "白宫发布美国250周年纪念系列总统珊瑚海战役纪念日致辞",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-coral-sea/",
+      "date": "May 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "America 250: Presidential Message on the Anniversary of the Battle of the Coral Sea",
+      "summary_cn": "2026年5月4日，美国白宫官方正式发布总统致辞，本次致辞归属“美国250周年”纪念活动序列，核心主题为珊瑚海战役周年纪念。\n\n本次发布是美国官方围绕国家纪念相关事项开展的常规公务信息公开行为，发布主体为白宫，相关信息具备官方权威性，纳入美国2026年政务公开相关安排范畴。\n\n本次致辞作为美国250周年纪念框架下的发布内容，与美国年内推进的系列250周年纪念活动安排保持统一，相关正式内容均由白宫方面统一对外发布，各项发布流程符合美国联邦政府公务信息发布相关规范要求。"
+    },
+    {
+      "title": "特朗普总统在全国小企业周期间庆祝小企业复苏",
+      "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-celebrates-small-business-revival-during-national-small-business-week/",
+      "date": "May 4, 2026",
+      "category": "Releases",
+      "source": "The White House",
+      "original_title": "President Trump Celebrates Small Business Revival During National Small Business Week",
+      "summary_cn": "2026年5月4日，美国白宫官方发布相关公务信息。\n\n本次发布的信息核心内容为，美国总统特朗普在全国小企业周举办期间，就小企业复苏相关事宜表态庆贺。\n\n该信息属于白宫官方对外公开的涉经济领域公务动态，发布渠道为白宫官方平台，信息受众覆盖美国小企业从业者及相关社会群体。\n\n本次信息发布时点契合全国小企业周的活动周期，相关内容聚焦美国小企业发展议题，是美国官方涉小企业领域的公开公务通报内容。"
+    },
     {
       "title": "白宫发布《关于全国小企业周的总统致辞》",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
@@ -57,17 +93,8 @@
       "source": "The White House",
       "original_title": "Fact Sheet: President Donald J. Trump Imposes Sanctions on Cuban Regime Officials Responsible for Repression and Threats to U.S. National Security and Foreign Policy",
       "summary_cn": "2026年5月1日，美国白宫发布官方情况说明，公布由美国总统唐纳德·J·特朗普推动出台的对古巴政权相关官员的制裁举措。\n\n本次制裁的适用对象为负有镇压责任、对美国国家安全及美国外交政策构成威胁的古巴政权官员，制裁决定由美国总统唐纳德·J·特朗普正式作出。\n\n该文件为美国白宫公开发布的正式公务文书，明确列明了本次制裁的实施主体、适用对象范围以及制裁推出的相关事由，属于美国对外事务领域的官方公开信息。"
-    },
-    {
-      "title": "美国白宫宣布对在古巴实施镇压及威胁美国家安全与外交政策的责任人实施制裁",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states-national-security-and-foreign-policy/",
-      "date": "May 1, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House",
-      "original_title": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy",
-      "summary_cn": "2026年5月1日，美国白宫发布官方涉制裁公告，公告标题为《对在古巴实施镇压及威胁美国国家安全与外交政策的责任人实施制裁》。\n\n本次公告明确美方制裁适用对象分为两类，第一类为在古巴境内实施镇压行为的相关责任人，第二类为对美国国家安全、外交政策构成威胁的相关责任人，美方将对上述两类主体采取相应制裁措施。\n\n本次公告为美国白宫官方对外发布的正式公务文件，属美方涉古巴事务及国家安全、外交政策领域的最新官方公开举措。"
     }
   ],
-  "compiled_count": 0,
-  "skipped_count": 7
+  "compiled_count": 4,
+  "skipped_count": 6
 }

@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-04T12:02:11.072979",
-  "total_news": 2,
+  "crawled_at": "2026-05-04T20:02:10.154633",
+  "total_news": 3,
   "news": [
+    {
+      "title": "UNI study highlights $11+ million in financial benefit from student teaching in Iowa’s rural communities",
+      "url": "https://insideuni.uni.edu/education/uni-study-highlights-11-million-financial-benefit-student-teaching-iowas-rural",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "A University of Northern Iowa study quantifies the significant financial benefit of student teachers placed in classrooms across rural communities throughout the state.",
+      "source": "UNI News",
+      "category": "donation"
+    },
     {
       "title": "Wilson College honors distinguished alumni returning to campus",
       "url": "https://insideuni.uni.edu/business/wilson-college-honors-distinguished-alumni-returning-campus",

@@ -1,9 +1,20 @@
 {
   "source": "NSF NCSES - National Center for Science and Engineering Statistics",
   "source_url": "https://ncses.nsf.gov/rss",
-  "crawled_at": "2026-05-04T12:01:21.698399",
-  "total_news": 3,
+  "crawled_at": "2026-05-04T20:01:20.912101",
+  "total_news": 4,
   "news": [
+    {
+      "title": "美国国家科学基金会发布《2026年美国科学与工程状况》报告",
+      "url": "https://ncses.nsf.gov/pubs/nsbsep20261",
+      "date": "Mon, 04 May 2026  16:47:37 EDT",
+      "type": "Report",
+      "summary_en": "The past quarter century has reshaped the U.S. science and engineering enterprise through the business sector’s dominant role in funding and performing research and development (R&D), the concentration of innovation activity in information technologies and critical and emerging technology areas, and the rise of China as a competitor and R&D performer. The United States maintains comparative advantages in highly cited research and patents, venture capital–backed innovation, and high-technology se",
+      "source": "NSF NCSES",
+      "category": "general",
+      "original_title": "The State of U.S. Science and Engineering 2026",
+      "summary_cn": "2026年5月4日，美国国家科学基金会发布《2026年美国科学与工程状况》报告，系统梳理该国科学与工程领域发展现状及演变特征。\n\n报告显示，过去二十五年间，三方面因素共同作用，深刻重塑了美国科学与工程事业的发展形态：一是商业部门在研发活动的资助及实施环节均占据主导地位，是推动研发活动的核心主体；二是创新活动呈现集聚态势，主要集中在信息技术及关键新兴技术领域；三是中国作为研发活动实施方与行业竞争对手的地位持续上升。\n\n报告同时明确，美国当前在多个科技相关领域仍保持比较优势，主要包括高被引研究成果与专利、获风险资本支持的创新活动、高技术相关领域等。"
+    },
     {
       "title": "美国国家科学基金会发布2024-2025财年联邦研发资金相关统计数据",
       "url": "https://ncses.nsf.gov/pubs/nsf26316",
@@ -38,6 +49,6 @@
       "summary_cn": "2026年5月1日，美国国家科学基金会发布主题报告《从转化到成效：美国及全球科学、技术与创新产出》。\n\n报告指出，科学、技术与创新活动能够拓展基础知识与技术知识的前沿边界，通常会催生各类新发现。此类创新成果可进一步转化为新产品、授权技术、新创企业等多元产出，最终会对经济产出、生产效率及全球贸易运行产生实际影响。\n\n本次发布的主题报告列示了科技创新活动及创新全流程的相关指标，此类指标可客观反映科技创新领域的运行情况，对提升美国及相关国家的经济竞争力、保障其国家安全具有支撑作用。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 1
+  "compiled_count": 1,
+  "skipped_count": 3
 }

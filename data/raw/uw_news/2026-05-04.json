@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-04T12:02:24.361062",
-  "total_news": 2,
+  "crawled_at": "2026-05-04T20:02:27.397722",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Badgers head to Wisconsin’s capitol",
+      "url": "https://www.uwalumni.com/news/badgers-head-to-the-capitol/",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "The annual UW–Madison Day at the State Capitol highlighted the university's economic power and campus momentum.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "48 faculty honored with Vilas professorships and awards",
       "url": "https://news.wisc.edu/48-faculty-honored-with-vilas-professorships-and-awards/",

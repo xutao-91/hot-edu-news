@@ -1,9 +1,37 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-04T12:02:32.218468",
-  "total_news": 7,
+  "crawled_at": "2026-05-04T20:02:33.649579",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Congressional Bill S. 723 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-723-signed-into-law/",
+      "date": "May 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Jewish American Heritage Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/jewish-american-heritage-month-2026/",
+      "date": "May 4, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of the Coral Sea",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-coral-sea/",
+      "date": "May 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Celebrates Small Business Revival During National Small Business Week",
+      "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-celebrates-small-business-revival-during-national-small-business-week/",
+      "date": "May 4, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on National Small Business Week",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-small-business-week/",
@@ -44,13 +72,6 @@
       "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-imposes-sanctions-on-cuban-regime-officials-responsible-for-repression-and-threats-to-u-s-national-security-and-foreign-policy/",
       "date": "May 1, 2026",
       "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states-national-security-and-foreign-policy/",
-      "date": "May 1, 2026",
-      "category": "Presidential Actions",
       "source": "The White House"
     }
   ]

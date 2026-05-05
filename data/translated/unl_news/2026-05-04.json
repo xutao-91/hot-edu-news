@@ -1,7 +1,7 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-04T12:02:14.024316",
+  "crawled_at": "2026-05-04T20:02:16.572409",
   "total_news": 11,
   "news": [
     {
@@ -126,6 +126,6 @@
       "summary_cn": "2026年5月1日，美国内布拉斯加大学林肯分校公开发布一篇教育类新闻，该新闻原英文标题为“Feigned fury”，中文译名为《佯装愤怒》。\n\n本次新闻发布主体为内布拉斯加大学林肯分校，属于该校官方对外公开的教育领域资讯内容，发布信息已经过校方正式确认。\n\n该新闻所有正式内容以内布拉斯加大学林肯分校官方对外发布的完整版本为唯一依据，相关方可通过校方官方渠道查阅对应内容。"
     }
   ],
-  "compiled_count": 4,
-  "skipped_count": 7
+  "compiled_count": 0,
+  "skipped_count": 11
 }

@@ -1,7 +1,7 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-04T12:02:27.750103",
+  "crawled_at": "2026-05-04T20:02:30.798191",
   "total_news": 8,
   "news": [
     {
@@ -93,6 +93,6 @@
       "summary_cn": "2026年5月1日，圣路易斯华盛顿大学发布毕业季相关宣传内容。\n\n为庆祝毕业典礼举办，该校推出“Class Acts”专题宣传项目，重点聚焦2026届在校期间开展过有意义科研工作的毕业生群体，对其相关科研经历与成果进行集中展示。\n\n本次纳入专题展示范围的毕业生，均在就读期间参与了各类科研活动，在实践过程中实现了知识创造，系统性掌握了专业科研技能。\n\n当前科研领域正面临经费削减、公众对科研工作存在质疑的环境，该批毕业生所具备的科研能力与取得的相关成果，其重要性尤为凸显。"
     }
   ],
-  "compiled_count": 3,
-  "skipped_count": 5
+  "compiled_count": 0,
+  "skipped_count": 8
 }

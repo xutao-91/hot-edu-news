@@ -1,9 +1,20 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-05-04T12:00:10.515377",
-  "total_news": 1,
+  "crawled_at": "2026-05-04T20:00:15.038777",
+  "total_news": 2,
   "news": [
+    {
+      "title": "布鲁金斯学会发布关于美国金融素养与教育委员会更新国家金融素养战略的评论",
+      "url": "https://www.brookings.edu/articles/comments-on-flec-update-to-the-us-national-strategy-for-financial-literacy/",
+      "author": "Gopi Shah Goda, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAaron Sojourner, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tColleen Manchester",
+      "date": "May 4, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general",
+      "original_title": "Comments on FLEC Update to the US National Strategy for Financial Literacy",
+      "summary_cn": "2026年5月4日，美国布鲁金斯学会正式发布相关评论文章，原文标题为《关于FLEC更新美国国家金融素养战略的评论》。\n\n该篇评论文章由戈皮·沙阿·戈达、亚伦·索杰纳、科琳·曼彻斯特三位作者共同撰写，核心主题为针对美国金融素养与教育委员会对美国国家金融素养战略的更新事项发表相关意见。\n\n该文章由布鲁金斯学会作为发布主体对外公开，属于金融教育政策领域的专业研究类内容。"
+    },
     {
       "title": "Fostering meaningful family, school, and community engagement in the early childhood development sector in South Africa",
       "url": "https://www.brookings.edu/articles/fostering-meaningful-family-school-and-community-engagement-in-the-early-childhood-development-sector-in-south-africa/",
@@ -17,5 +28,5 @@
     }
   ],
   "compiled_count": 1,
-  "skipped_count": 0
+  "skipped_count": 1
 }

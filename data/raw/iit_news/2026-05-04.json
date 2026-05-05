@@ -1,7 +1,17 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-05-04T12:00:29.686081",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-04T20:00:37.233365",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Illinois Tech and Moraine Valley Community College Announce Guaranteed Admission and Scholarships",
+      "url": "https://www.iit.edu/news/illinois-tech-and-moraine-valley-community-college-announce-guaranteed-admission-and-scholarships",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "CHICAGO—May 4, 2026— Illinois Institute of Technology (Illinois Tech) and Moraine Valley Community College have announced a guaranteed admission partnership and articulation agreement that creates a...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
 }

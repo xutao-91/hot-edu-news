@@ -1,7 +1,28 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-05-04T12:00:09.130198",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-04T20:00:10.018425",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "More Michigan students pursue trades, but access disparities persist",
+      "url": "https://bridgemi.com/talent-education/more-michigan-students-pursue-trades-but-access-disparities-persist/",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Career and technical education is growing across Michigan as more complete programs tied to in-demand skilled trades. Access differs by district, however, and some are asking voters to approve related bonds this week.",
+      "author": "Janelle D. James",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
+    {
+      "title": "U-M faculty slam president’s apology for faculty leader’s commencement speech",
+      "url": "https://bridgemi.com/talent-education/u-m-faculty-slam-presidents-apology-for-faculty-leaders-commencement-speech/",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Faculty call for withdrawal of U-M President Grasso’s apology for a commencement speech by the chair of the Faculty Senate. Professor Derek Peterson’s speech lauded pro-Palestinian students while celebrating student activism.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "general"
+    }
+  ]
 }

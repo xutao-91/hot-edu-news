@@ -1,8 +1,8 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-04T12:02:30.864290",
-  "total_news": 3,
+  "crawled_at": "2026-05-04T20:02:32.291349",
+  "total_news": 5,
   "news": [
     {
       "title": "Academic Recognition Ceremony celebrates faculty and staff excellence",
@@ -12,6 +12,24 @@
       "summary_en": "",
       "source": "Wayne State News",
       "category": "academic"
+    },
+    {
+      "title": "Wayne State showcases statewide impact at Advocacy Day",
+      "url": "https://today.wayne.edu/news/2026/05/04/wayne-state-showcases-statewide-impact-at-advocacy-day-68997",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "MEDIA ADVISORY: Wayne State University commencement ceremonies honor the class of 2026",
+      "url": "https://today.wayne.edu/news/2026/05/04/media-advisory-wayne-state-university-commencement-ceremonies-honor-the-class-of-2026-68999",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
     },
     {
       "title": "Alexander Gilstorf’s path was made possible by the Wayne State Guarantee",

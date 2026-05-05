@@ -1,9 +1,54 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-04T12:01:56.009524",
-  "total_news": 3,
+  "crawled_at": "2026-05-04T20:01:57.501234",
+  "total_news": 8,
   "news": [
+    {
+      "title": "UChicago announces 2026 Diversity Leadership Award recipients",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-2026-diversity-leadership-award-recipients",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "250 Years into America as “The Great Experiment”",
+      "url": "https://news.uchicago.edu/250-years-america-great-experiment",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago student goes behind the lens at the White House",
+      "url": "https://news.uchicago.edu/story/uchicago-student-goes-behind-lens-white-house",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Third-year photojournalist Nathaniel Rodwell-Simon spent spring break capturing moments with the press pool",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "America got rich and got sad. A top economist says 2020 broke something that hasn’t healed",
+      "url": "https://fortune.com/2026/05/03/america-got-rich-and-got-sad-a-retired-legend-of-economics-sees-a-happiness-crash-of-2020/",
+      "date": "2026-05-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
+      "url": "https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html?searchResultPosition=3",
+      "date": "2026-05-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "UChicago chemists 'film' light-matter hybrid particles",
       "url": "https://news.uchicago.edu/story/uchicago-chemists-film-light-matter-hybrid-particles",

@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-05-04T12:01:57.369026",
-  "total_news": 3,
+  "crawled_at": "2026-05-04T20:01:58.871722",
+  "total_news": 4,
   "news": [
+    {
+      "title": "UIC Athletics shines spotlight on top performers at 13th annual SPARKYS",
+      "url": "https://today.uic.edu/uic-athletics-shines-spotlight-on-top-performers-at-13th-annual-sparkys/",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "All-sports gala honored standout achievements from the 2025-26 season.",
+      "source": "UIC Today",
+      "category": "general"
+    },
     {
       "title": "Emily Manzo: Leading with purpose and vision",
       "url": "https://today.uic.edu/emily-manzo-uic-grad-to-know/",
@@ -27,7 +36,7 @@
       "url": "https://today.uic.edu/largest-class-of-evans-scholars-set-to-graduate-from-uic/",
       "date": "2026-05-04",
       "type": "News",
-      "summary_en": "UIC’s program now has 77 students, making it the third-largest in the nation",
+      "summary_en": "UIC’s program now has 77 students, making it the third-largest in the nation.",
       "source": "UIC Today",
       "category": "students"
     }
