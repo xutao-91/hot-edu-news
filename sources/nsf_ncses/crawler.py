@@ -124,7 +124,7 @@ def crawl_ncses():
                     articles.append({
                         'title': title,
                         'url': url,
-                        'date': date_str,
+                        'date': parse_date(date_str).strftime('%m-%d'),
                         'type': 'Report',
                         'summary_en': summary_en[:500],  # 限制长度
                         'source': 'NSF NCSES',
