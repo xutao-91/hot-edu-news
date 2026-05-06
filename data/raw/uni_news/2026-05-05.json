@@ -1,9 +1,27 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-05T12:02:00.053512",
-  "total_news": 3,
+  "crawled_at": "2026-05-05T20:02:16.883206",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Teaching endorsements, certificates, or degrees: Which path is right for you?",
+      "url": "https://insideuni.uni.edu/education/teaching-endorsements-certificates-or-degrees-which-path-right-you",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "Check out some of the top options for professional development for teachers from UNI if you're interested in advancing your career!",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Meet the spring 2026 graduating class",
+      "url": "https://insideuni.uni.edu/campus-community/meet-spring-2026-graduating-class",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "Keep reading to meet a few members of spring 2026 graduation class and make sure you tell them “congrats!” if you see them in person!",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "Anne Lefter named executive director of the Gallagher Bluedorn Performing Arts Center",
       "url": "https://insideuni.uni.edu/arts-design/anne-lefter-named-executive-director-gallagher-bluedorn-performing-arts-center",

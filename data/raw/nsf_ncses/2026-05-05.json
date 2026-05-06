@@ -1,8 +1,8 @@
 {
   "source": "NSF NCSES - National Center for Science and Engineering Statistics",
   "source_url": "https://ncses.nsf.gov/rss",
-  "crawled_at": "2026-05-05T12:01:14.557192",
-  "total_news": 4,
+  "crawled_at": "2026-05-05T20:01:26.638106",
+  "total_news": 3,
   "news": [
     {
       "title": "The State of U.S. Science and Engineering 2026",
@@ -30,15 +30,6 @@
       "summary_en": "Federal obligations for research and experimental development saw an increase of 4.4% from FY 2023 to FY 2024. However, although preliminary federal agency obligations for FY 2025 indicate most federal agencies will see declining R&D obligations in FY 2025 the total is estimated to decrease by 0.1%. These data are from the latest edition of the Survey of Federal Funds for Research and Development, sponsored by the National Center for Science and Engineering Statistics within the U.S. National Sc",
       "source": "NSF NCSES",
       "category": "funding"
-    },
-    {
-      "title": "Translation to Impact: U.S. and Global Science, Technology, and Innovation Output",
-      "url": "https://ncses.nsf.gov/pubs/nsb20262",
-      "date": "Fri, 01 May 2026  13:06:43 EDT",
-      "type": "Report",
-      "summary_en": "Science, technology, and innovation activities expand the frontiers of fundamental and technical knowledge, often leading to new discoveries. These may be translated into outputs such as new products, licensed technologies, and companies, ultimately impacting economic output, productivity, and global trade. This thematic report presents indicators of these activities and the innovation process, which contribute to the economic competitiveness and national security of the United States and countr",
-      "source": "NSF NCSES",
-      "category": "international"
     }
   ]
 }

@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-05T12:02:13.971798",
-  "total_news": 5,
+  "crawled_at": "2026-05-05T20:02:31.400104",
+  "total_news": 6,
   "news": [
+    {
+      "title": "History scholar Kantrowitz awarded Andrew Carnegie Fellowship",
+      "url": "https://news.wisc.edu/history-scholar-kantrowitz-awarded-andrew-carnegie-fellowship/",
+      "date": "May 5, 2026",
+      "type": "News",
+      "summary_en": "Kantrowitz is one of 24 scholars the Carnegie Corporation of New York selected from among 381 nominations across the country.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
     {
       "title": "UW’s Public Tech Media Lab helps bridge the gap between AI and journalism",
       "url": "https://ls.wisc.edu/news/at-the-intersection-of-journalism-and-ai",

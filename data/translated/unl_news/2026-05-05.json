@@ -1,9 +1,20 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-05T12:02:03.159471",
-  "total_news": 8,
+  "crawled_at": "2026-05-05T20:02:20.836097",
+  "total_news": 9,
   "news": [
+    {
+      "title": "甲烷动力拖拉机将助力内布拉斯加大学农业研究",
+      "url": "https://news.unl.edu/article/methane-powered-tractors-will-bolster-ag-research-at-nebraska-u",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general",
+      "original_title": "Methane-powered tractors will bolster ag research at Nebraska U",
+      "summary_cn": "2026年5月5日，内布拉斯加大学林肯分校发布相关科研动态，明确甲烷动力拖拉机将用于支撑该校农业研究工作。\n\n本次发布的信息显示，甲烷动力拖拉机将纳入该校农业研究的配套支撑体系，作为相关科研活动的核心硬件载体，服务于该校农业研究领域的既定工作安排，为相关科研项目的开展提供基础条件保障。\n\n内布拉斯加大学林肯分校作为本次事项的实施主体，将统筹推进甲烷动力拖拉机在农业研究场景中的落地应用，充分发挥该设备的功能属性，保障相关农业研究工作按计划有序推进，切实提升该校农业研究领域的支撑能力。"
+    },
     {
       "title": "麦克德莫特的大学生涯以公共服务为核心驱动力",
       "url": "https://news.unl.edu/article/mcdermotts-collegiate-career-driven-by-public-service",
@@ -93,6 +104,6 @@
       "summary_cn": "2026年5月4日，内布拉斯加大学林肯分校发布官方消息，穆勒创作的作品《瓦卡拉的美国》成功入选国际普鲁塔克奖终选名单。\n\n国际普鲁塔克奖为本次评选活动的官方正式名称，《瓦卡拉的美国》经奖项既定评审程序筛选后进入终选环节，是本次奖项的有效候选作品。\n\n本次入围信息由内布拉斯加大学林肯分校对外公开，有关该奖项的最终评选结果及后续相关安排，将由奖项主办机构按既定流程对外发布。"
     }
   ],
-  "compiled_count": 4,
-  "skipped_count": 4
+  "compiled_count": 1,
+  "skipped_count": 8
 }

@@ -1,8 +1,8 @@
 {
   "source": "NSF NCSES - National Center for Science and Engineering Statistics",
   "source_url": "https://ncses.nsf.gov/rss",
-  "crawled_at": "2026-05-05T12:01:14.557192",
-  "total_news": 4,
+  "crawled_at": "2026-05-05T20:01:26.638106",
+  "total_news": 3,
   "news": [
     {
       "title": "美国国家科学基金会发布《2026年美国科学与工程状况》报告",
@@ -36,19 +36,8 @@
       "category": "funding",
       "original_title": "Federal R&D Obligations Increased 4.4% in FY 2024; Most Agencies Estimate Declines in FY 2025",
       "summary_cn": "2026年5月4日，美国国家科学基金会发布联邦研发资金相关统计数据。\n\n统计结果显示，2023财年至2024财年，美国联邦研究与试验发展拨款义务额同比增长4.4%。根据各联邦机构提交的2025财年初步拨款义务额数据，2025财年多数联邦机构的研发拨款义务额将出现下降，全国联邦研发拨款义务总规模预计同比下降0.1%。\n\n本次公布的数据均来自最新版《联邦研究与发展资金调查》，该调查由美国国家科学基金会下属的国家科学与工程统计中心牵头开展。"
-    },
-    {
-      "title": "美国国家科学基金会发布《从转化到成效：美国及全球科学、技术与创新产出》主题报告",
-      "url": "https://ncses.nsf.gov/pubs/nsb20262",
-      "date": "Fri, 01 May 2026  13:06:43 EDT",
-      "type": "Report",
-      "summary_en": "Science, technology, and innovation activities expand the frontiers of fundamental and technical knowledge, often leading to new discoveries. These may be translated into outputs such as new products, licensed technologies, and companies, ultimately impacting economic output, productivity, and global trade. This thematic report presents indicators of these activities and the innovation process, which contribute to the economic competitiveness and national security of the United States and countr",
-      "source": "NSF NCSES",
-      "category": "international",
-      "original_title": "Translation to Impact: U.S. and Global Science, Technology, and Innovation Output",
-      "summary_cn": "2026年5月1日，美国国家科学基金会发布主题报告《从转化到成效：美国及全球科学、技术与创新产出》。\n\n报告指出，科学、技术与创新活动能够拓展基础知识与技术知识的前沿边界，通常会催生各类新发现。此类创新成果可进一步转化为新产品、授权技术、新创企业等多元产出，最终会对经济产出、生产效率及全球贸易运行产生实际影响。\n\n本次发布的主题报告列示了科技创新活动及创新全流程的相关指标，此类指标可客观反映科技创新领域的运行情况，对提升美国及相关国家的经济竞争力、保障其国家安全具有支撑作用。"
     }
   ],
   "compiled_count": 0,
-  "skipped_count": 4
+  "skipped_count": 3
 }

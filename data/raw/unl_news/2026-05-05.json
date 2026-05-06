@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-05T12:02:03.159471",
-  "total_news": 8,
+  "crawled_at": "2026-05-05T20:02:20.836097",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Methane-powered tractors will bolster ag research at Nebraska U",
+      "url": "https://news.unl.edu/article/methane-powered-tractors-will-bolster-ag-research-at-nebraska-u",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "McDermott's collegiate career driven by public service",
       "url": "https://news.unl.edu/article/mcdermotts-collegiate-career-driven-by-public-service",

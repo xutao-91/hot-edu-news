@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-05T12:02:20.316306",
+  "crawled_at": "2026-05-05T20:02:37.505512",
   "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message on National Astronaut Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
+      "date": "May 5, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "National Physical Fitness and Sports Month, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/",
@@ -63,13 +70,6 @@
     {
       "title": "Presidential Message on Asian American and Pacific Islander Heritage Month",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-asian-american-and-pacific-islander-heritage-month/",
-      "date": "May 2, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on the Kentucky Derby",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-the-kentucky-derby/",
       "date": "May 2, 2026",
       "category": "Briefings & Statements",
       "source": "The White House"

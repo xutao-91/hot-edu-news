@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-05T12:01:19.776823",
-  "total_news": 1,
+  "crawled_at": "2026-05-05T20:01:31.941969",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Finland looks to tighten rules on international students’ finances",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "Finland’s government has suggested new legislation that could see international students lose their residence permits if they access social assistance, as part of a wider crackdown on income-related challenges.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
     {
       "title": "New Zealand-India free trade agreement puts mobility in play",
       "url": "https://thepienews.com/category/news/government/",

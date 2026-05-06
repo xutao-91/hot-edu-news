@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-05T12:01:45.461921",
-  "total_news": 5,
+  "crawled_at": "2026-05-05T20:02:04.284099",
+  "total_news": 6,
   "news": [
+    {
+      "title": "A conductor's 50-year crescendo at UChicago",
+      "url": "https://news.uchicago.edu/story/conductors-50-year-crescendo-uchicago",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Barbara Schubert has shaped generations of University Symphony Orchestra musicians—now they're returning to play for her Opus 50 celebration",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "UChicago announces 2026 Diversity Leadership Award recipients",
       "url": "https://news.uchicago.edu/story/uchicago-announces-2026-diversity-leadership-award-recipients",

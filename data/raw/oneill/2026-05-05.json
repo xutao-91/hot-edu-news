@@ -1,7 +1,17 @@
 {
   "source": "O'Neill School of Public and Environmental Affairs at IU",
   "source_url": "https://oneill.indiana.edu/news/index.html",
-  "crawled_at": "2026-05-05T12:01:16.328491",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-05T20:01:28.446642",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "O'Neill School recognizes 2026 Alumni Award winners",
+      "url": "https://oneill.indiana.edu/news/2026-0505-alumni-award-winners.html",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "O’Neill School announces 2026 Alumni Award winners, honoring graduates for leadership and impact in public service, education, and national defense.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
 }

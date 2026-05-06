@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-05T12:02:17.421142",
-  "total_news": 4,
+  "crawled_at": "2026-05-05T20:02:34.674130",
+  "total_news": 5,
   "news": [
+    {
+      "title": "People with poor mental health report worse care worldwide",
+      "url": "https://source.washu.edu/2026/05/people-with-poor-mental-health-report-worse-care-worldwide/",
+      "date": "2026-05-05",
+      "type": "Mental Health",
+      "summary_en": "WashU researchers find adults struggling with their mental health face more unmet needs and less trust in health systems.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Global outbreaks may fuel violence against women — but most cases go unmeasured",
       "url": "https://source.washu.edu/2026/05/global-outbreaks-may-fuel-violence-against-women-but-most-cases-go-unmeasured/",

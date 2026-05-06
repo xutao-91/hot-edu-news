@@ -1,9 +1,20 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-05T12:02:13.971798",
-  "total_news": 5,
+  "crawled_at": "2026-05-05T20:02:31.400104",
+  "total_news": 6,
   "news": [
+    {
+      "title": "历史学者坎特罗维茨获颁安德鲁·卡内基奖学金",
+      "url": "https://news.wisc.edu/history-scholar-kantrowitz-awarded-andrew-carnegie-fellowship/",
+      "date": "May 5, 2026",
+      "type": "News",
+      "summary_en": "Kantrowitz is one of 24 scholars the Carnegie Corporation of New York selected from among 381 nominations across the country.",
+      "source": "UW-Madison News",
+      "category": "faculty",
+      "original_title": "History scholar Kantrowitz awarded Andrew Carnegie Fellowship",
+      "summary_cn": "2026年5月5日，美国华盛顿大学发布官方消息，通报该校历史学者坎特罗维茨获得安德鲁·卡内基奖学金相关事宜。\n\n本次安德鲁·卡内基奖学金遴选工作由纽约卡内基公司组织开展，评选范围覆盖全美各地相关领域学者，共计收到来自全国的381份提名。\n\n经纽约卡内基公司评审认定，本次共有24名学者最终入选奖学金授予名单，坎特罗维茨为入选的24名学者之一。"
+    },
     {
       "title": "华盛顿大学公共技术媒体实验室助力弥合人工智能与新闻业发展差距",
       "url": "https://ls.wisc.edu/news/at-the-intersection-of-journalism-and-ai",
@@ -60,6 +71,6 @@
       "summary_cn": "2026年5月4日，华盛顿大学发布学术荣誉授予相关公告。\n\n根据公告内容，共有4名该校学者获评最新一批维拉斯研究教授称号。\n\n本次获评的4名学者均为各自研究领域的领军人员，研究方向分别覆盖细胞研究、公众舆论研究、可持续化学、计算优化四大领域。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 3
+  "compiled_count": 1,
+  "skipped_count": 5
 }

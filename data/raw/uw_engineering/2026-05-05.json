@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison College of Engineering",
   "source_url": "https://engineering.wisc.edu/news/",
-  "crawled_at": "2026-05-05T12:02:10.152928",
-  "total_news": 2,
+  "crawled_at": "2026-05-05T20:02:27.727096",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Badgers take first and second place at national Cast in Steel competition",
+      "url": "https://engineering.wisc.edu/news/badgers-take-first-and-second-place-at-national-cast-in-steel-competition/",
+      "date": "May 5, 2026",
+      "type": "News",
+      "summary_en": "Students from the Department of Materials Science and Engineering and the Department of Mechanical Engineering worked together to bring home both first and second place at the 2026 Cast in Steel national competition, an impressive…",
+      "source": "UW-Madison College of Engineering",
+      "category": "general"
+    },
     {
       "title": "New tuition model makes UW-Madison online engineering graduate programs more affordable",
       "url": "https://engineering.wisc.edu/news/new-tuition-model-makes-uw-madison-online-engineering-graduate-programs-more-affordable/",
