@@ -1,9 +1,18 @@
 {
   "source": "Education Minnesota",
   "source_url": "https://educationminnesota.org/news/education-headlines/",
-  "crawled_at": "2026-05-06T10:13:24.658948",
-  "total_news": 1,
+  "crawled_at": "2026-05-06T12:00:21.422432",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Education Minnesota endorses Morrison for Congress",
+      "url": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-morrison-for-congress/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Education Minnesota has endorsed the reelection campaign of U.S. Rep. Kelly Morrison in Minnesota’s 3rd Congressional District.",
+      "source": "Education Minnesota",
+      "category": "general"
+    },
     {
       "title": "St. Louis Park educator David Davis is 2026 Minnesota Teacher of the Year",
       "url": "https://educationminnesota.org/news/press-release/st-louis-park-educator-is-2026-minnesota-teacher-of-the-year/",

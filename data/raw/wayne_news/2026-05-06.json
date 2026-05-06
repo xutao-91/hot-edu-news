@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-06T12:02:23.266900",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Academic Recognition Ceremony celebrates faculty and staff excellence",
+      "url": "https://today.wayne.edu/news/2026/05/04/wayne-state-universitys-academic-recognition-ceremony-celebrates-faculty-and-staff-excellence-68994",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State showcases statewide impact at Advocacy Day",
+      "url": "https://today.wayne.edu/news/2026/05/04/wayne-state-showcases-statewide-impact-at-advocacy-day-68997",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "MEDIA ADVISORY: Wayne State University commencement ceremonies honor the class of 2026",
+      "url": "https://today.wayne.edu/news/2026/05/04/media-advisory-wayne-state-university-commencement-ceremonies-honor-the-class-of-2026-68999",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

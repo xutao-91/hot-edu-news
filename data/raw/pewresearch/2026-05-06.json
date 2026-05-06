@@ -1,0 +1,23 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-05-06T12:01:22.182507",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "About half of Americans continue to say Trump administration is doing ‘too much’ on deportations",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/04/about-half-of-americans-continue-to-say-trump-administration-is-doing-too-much-on-deportations/",
+      "date": "May 4, 2026",
+      "type": "short reads",
+      "categories": [
+        "Immigration Attitudes",
+        "Immigration Issues",
+        "Politics Policy",
+        "Unauthorized Immigration"
+      ],
+      "summary_en": "The share saying the administration is doing too little to deport immigrants living in the country illegally has risen slightly, mainly driven by Republicans.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

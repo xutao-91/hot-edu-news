@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-06T12:01:53.859418",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Deep in the ice, Antarctic detectors pick up incoming cosmic rays from outer space",
+      "url": "https://news.uchicago.edu/story/deep-ice-antarctic-detectors-pick-incoming-cosmic-rays-outer-space",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Detection by Askaryan Radio Array holds promise for future research into sources, nature of cosmic rays and neutrinos",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "A conductor's 50-year crescendo at UChicago",
+      "url": "https://news.uchicago.edu/story/conductors-50-year-crescendo-uchicago",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Barbara Schubert has shaped generations of University Symphony Orchestra musicians—now they're returning to play for her Opus 50 celebration",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago announces 2026 Diversity Leadership Award recipients",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-2026-diversity-leadership-award-recipients",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "250 Years into America as “The Great Experiment”",
+      "url": "https://news.uchicago.edu/250-years-america-great-experiment",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago student goes behind the lens at the White House",
+      "url": "https://news.uchicago.edu/story/uchicago-student-goes-behind-lens-white-house",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Third-year photojournalist Nathaniel Rodwell-Simon spent spring break capturing moments with the press pool",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "America got rich and got sad. A top economist says 2020 broke something that hasn’t healed",
+      "url": "https://fortune.com/2026/05/03/america-got-rich-and-got-sad-a-retired-legend-of-economics-sees-a-happiness-crash-of-2020/",
+      "date": "2026-05-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Why the A.I. Job Apocalypse (Probably) Won’t Happen",
+      "url": "https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html?searchResultPosition=3",
+      "date": "2026-05-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

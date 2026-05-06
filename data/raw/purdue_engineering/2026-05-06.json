@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-06T12:01:33.846085",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Purdue drone initiatives focus on the future of autonomy in the sky",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0505-Purdue-drone-initiatives-focus-on-the-future-of-autonomy-in-the-sky",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "Purdue University's cutting-edge initiatives and research with drones and unmanned aerial vehicles (UAVs) are combining with the latest artificial intelligence and autonomy to quickly turn ideas and imagination into attainable reality.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue launches comprehensive quantum degrees program",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-Purdue-launches-comprehensive-quantum-degrees-program",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "The comprehensive quantum degrees program is designed to build the quantum workforce and economy.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Purdue hosts 12th Midwest Workshop on Control and Game Theory, advancing research and collaboration",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0504-Purdue-hosts-12th-Midwest-Workshop-on-Control-and-Game-Theory-advancing-research-and-collaboration",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "Purdue University welcomed researchers, students and industry professionals from across the region for the 12th Midwest Workshop on Control and Game Theory (MWCGT), held April 25–26 in West Lafayette.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "College of Engineering welcomes 38 incoming graduate fellows",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0504-College-of-Engineering-welcomes-38-incoming-graduate-fellows",
+      "date": "May 4, 2026",
+      "type": "News",
+      "summary_en": "The Purdue University College of Engineering has named 38 incoming graduate students as Lambertus Doctoral and Graduate Excellence Fellows, recognizing exceptional academic achievement and strong potential to advance engineering research and innovation.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}
