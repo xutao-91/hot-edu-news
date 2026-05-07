@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-05-07T12:45:37.239032",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Local students present climate solutions at geoengineering summit",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-05-06-geoengineering-summit.html",
+      "date": "May 6, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Kelley School sponsors student competing in premier open-wheel racing series",
+      "url": "https://blogs.iu.edu/kelleyschool/2026/05/06/iu-kelley-student-competing-in-open-wheel-racing-while-also-pursuing-a-business-degree/",
+      "date": "May 6, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "New platform aims to better predict metastatic cancer risk",
+      "url": "https://news.iu.edu/live/news/50417-new-platform-aims-to-better-predict-metastatic-cancer-",
+      "date": "May 4, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

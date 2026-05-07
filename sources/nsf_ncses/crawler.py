@@ -15,13 +15,26 @@ RSS_URL = "https://ncses.nsf.gov/rss"
 BASE_URL = "https://ncses.nsf.gov"
 RAW_DIR = "data/raw/nsf_ncses"
 
+from datetime import timezone, timedelta
+
 def parse_date(date_str):
-    """解析RSS日期格式"""
+    """解析RSS日期格式，保留美国东部时区日期"""
     # RSS日期格式: Tue, 17 Mar 2026 09:37:34 EDT
     try:
+        # 提取时区
+        tz_match = re.search(r'\s+(EDT|EST)\s*$', date_str.strip())
+        tz = tz_match.group(1) if tz_match else 'EDT'
         # 移除时区信息
-        date_str = re.sub(r'\s+(EDT|EST|UTC|GMT)[\s]*$', '', date_str.strip())
-        return datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S')
+        date_str = re.sub(r'\s+(EDT|EST|UTC|GMT)\s*$', '', date_str.strip())
+        # 替换多个空格为单个空格
+        date_str = re.sub(r'\s+', ' ', date_str)
+        # 解析日期，设置对应时区偏移
+        dt = datetime.strptime(date_str, '%a, %d %b %Y %H:%M:%S')
+        # EDT = UTC-4, EST = UTC-5
+        offset = -4 if tz == 'EDT' else -5
+        dt = dt.replace(tzinfo=timezone(timedelta(hours=offset)))
+        # 转换为美国东部时区的日期，避免跨时区偏移
+        return dt.astimezone(timezone(timedelta(hours=offset)))
     except:
         pass
     

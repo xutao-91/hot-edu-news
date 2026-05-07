@@ -1,0 +1,24 @@
+{
+    "crawler": {
+        "max_workers": 16,
+        "days_to_fetch": 4,
+        "timeout": 120
+    },
+    "paths": {
+        "raw_data_dir": "data/raw",
+        "translated_data_dir": "data/translated",
+        "crawlers_dir": "sources",
+        "url_cache_file": "data/cache/url_cache.json",
+        "translation_db_file": "data/cache/translation_db.json",
+        "processed_articles_file": "data/cache/processed_articles.json"
+    },
+    "translation": {
+        "api_key_env": "TRANSLATE_API_KEY",
+        "batch_size": 10,
+        "retry_times": 3
+    },
+    "html": {
+        "output_dir": "public",
+        "template_file": "templates/index.html"
+    }
+}

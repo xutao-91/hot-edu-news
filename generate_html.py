@@ -9,16 +9,14 @@ import os
 import sys
 from datetime import datetime, timedelta
 
-# 加载翻译模块
-try:
-    import translate
-    TITLE_TRANSLATIONS = translate.TITLE_TRANSLATIONS
-    SUMMARY_TRANSLATIONS = translate.SUMMARY_TRANSLATIONS
-    translations_db = translate.translations_db
-except ImportError:
-    TITLE_TRANSLATIONS = {}
-    SUMMARY_TRANSLATIONS = {}
-    translations_db = {}
+# 加载配置
+CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
+with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+    config = json.load(f)
+
+TRANSLATED_DIR = config['paths']['translated_dir']
+OUTPUT_DIR = config['html']['output_dir']
+
 
 def get_all_translated_articles():
     """获取所有已经翻译完成的中文文章"""
@@ -486,6 +484,10 @@ def generate_html():
 '''
     
     # 保存
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs('docs', exist_ok=True)
+    with open(os.path.join(OUTPUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
+        f.write(html)
     with open('docs/index.html', 'w', encoding='utf-8') as f:
         f.write(html)
     with open('index.html', 'w', encoding='utf-8') as f:
