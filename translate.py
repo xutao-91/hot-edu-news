@@ -19,7 +19,7 @@ with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
     config = json.load(f)
 
 RAW_DATA_DIR = config['paths']['raw_data_dir']
-TRANSLATED_DIR = config['paths']['translated_dir']
+TRANSLATED_DIR = config['paths']['translated_data_dir']
 TRANSLATION_DB_FILE = config['paths']['translation_db_file']
 PROCESSED_ARTICLES_FILE = config['paths']['processed_articles_file']
 

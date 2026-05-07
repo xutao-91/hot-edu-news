@@ -4,7 +4,9 @@
 
 # 加载环境变量
 if [ -f .env ]; then
-    export $(grep -v '^#' .env | xargs)
+    set -a
+    source .env
+    set +a
 fi
 
 echo "========================================="
