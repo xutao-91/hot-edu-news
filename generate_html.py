@@ -19,7 +19,7 @@ CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
 with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
     config = json.load(f)
 
-TRANSLATED_DIR = config['paths']['translated_dir']
+TRANSLATED_DIR = config['paths']['translated_data_dir']
 OUTPUT_DIR = config['html']['output_dir']
 
 
@@ -269,270 +269,70 @@ def generate_html():
     cutoff_date = cutoff.strftime('%Y-%m-%d')
     all_articles = [a for a in all_articles if a['_sort_date'] >= cutoff_date]
     
-    # 生成HTML
-    html = '''<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>热点教育信息 - 表格视图</title>
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { 
-            font-family: "Microsoft YaHei", "SimSun", serif; 
-            margin: 0;
-            padding: 20px;
-            padding-bottom: 80px;
-            background: #f5f5f5;
-            line-height: 1.6;
-        }
-        
-        /* 头部 */
-        .header { 
-            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
-            color: white; 
-            padding: 20px 25px; 
-            border-radius: 8px;
-            margin-bottom: 20px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-        }
-        .header h1 { 
-            font-size: 22px; 
-            margin-bottom: 8px;
-        }
-        .header-stats {
-            font-size: 13px;
-            opacity: 0.9;
-        }
-        
-        /* 表格容器 */
-        .table-container {
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-            overflow-x: auto;
-            overflow-y: visible;
-            margin-bottom: 40px;
-        }
-        
-        /* 表格样式 */
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 14px;
-        }
-        
-        /* 表头 */
-        thead {
-            background: #343a40;
-            color: white;
-            position: sticky;
-            top: 0;
-            z-index: 10;
-        }
-        
-        th {
-            padding: 12px 10px;
-            text-align: left;
-            font-weight: bold;
-            font-size: 13px;
-            border-bottom: 2px solid #495057;
-        }
-        
-        /* 表体 */
-        tbody tr {
-            border-bottom: 1px solid #e9ecef;
-            transition: background 0.2s;
-        }
-        
-        tbody tr:hover {
-            background: #f8f9fa;
-        }
-        
-        tbody tr:last-child {
-            border-bottom: none;
-        }
-        
-        td {
-            padding: 12px 10px;
-            vertical-align: top;
-        }
-        
-        /* 各列样式 */
-        .col-index {
-            width: 50px;
-            text-align: center;
-            font-weight: bold;
-            color: #495057;
-        }
-        
-        .col-date {
-            width: 70px;
-            white-space: nowrap;
-            font-weight: bold;
-            color: #495057;
-        }
-        
-        .col-category {
-            width: 100px;
-        }
-        
-        .col-source {
-            width: 100px;
-        }
-        
-        .col-title {
-            min-width: 250px;
-        }
-        
-        .col-summary {
-            min-width: 300px;
-        }
-        
-        /* 分类标签 */
-        .category-tag {
-            display: inline-block;
-            background: #e9ecef;
-            color: #495057;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 12px;
-            white-space: nowrap;
-        }
-        
-        /* 来源标签 */
-        .source-tag {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 12px;
-            font-weight: bold;
-            color: white;
-            white-space: nowrap;
-        }
-        
-        /* 标题链接 */
-        .title-link {
-            color: #212529;
-            text-decoration: none;
-            font-weight: bold;
-            line-height: 1.5;
-        }
-        
-        .title-link:hover {
-            color: #0056b3;
-            text-decoration: underline;
-        }
-        
-        .original-title {
-            font-size: 11px;
-            color: #868e96;
-            margin-top: 4px;
-            font-style: italic;
-        }
-        
-        /* 摘要 */
-        .summary {
-            color: #495057;
-            line-height: 1.6;
-            text-align: justify;
-        }
-        
-        /* 页脚 */
-        .footer {
-            text-align: center;
-            margin-top: 25px;
-            padding: 15px;
-            color: #6c757d;
-            font-size: 12px;
-        }
-        
-        /* 响应式 */
-        @media (max-width: 900px) {
-            .col-summary {
-                display: none;
-            }
-        }
-        
-        @media (max-width: 600px) {
-            .col-index {
-                display: none;
-            }
-            .col-category {
-                display: none;
-            }
-            body {
-                padding: 10px;
-            }
-            th, td {
-                padding: 10px 8px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <h1>📰 热点教育信息</h1>
-        <div class="header-stats">共 ''' + str(len(all_articles)) + ''' 篇文章 | 6 个来源 | 表格视图</div>
-    </div>
+    # 构造模板数据
+    update_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     
-    <div class="table-container">
-        <table>
-            <thead>
-                <tr>
-                    <th class="col-index">序号</th>
-                    <th class="col-date">日期</th>
-                    <th class="col-category">分类</th>
-                    <th class="col-source">来源</th>
-                    <th class="col-title">标题</th>
-                    <th class="col-summary">摘要</th>
-                </tr>
-            </thead>
-            <tbody>
-'''
+    # 整理来源列表
+    source_set = set()
+    for a in all_articles:
+        source_set.add(a.get('_source_name', ''))
+    sources = [{'name': s} for s in sorted(source_set) if s]
     
-    # 生成表格行
-    for index, article in enumerate(all_articles, 1):
+    # 整理分类列表
+    category_set = set()
+    for a in all_articles:
+        category = get_category_name(a.get('category', 'general'))
+        category_set.add(category)
+    categories = sorted(category_set)
+    
+    # 整理文章列表
+    articles_for_template = []
+    for article in all_articles:
         date_short = get_display_date_short(article.get('date', ''))
         category = get_category_name(article.get('category', 'general'))
-        source_name = article.get('_source_name', '')
-        source_color = article.get('_source_color', '#666')
-        # 获取标题（translated数据中的title已是中文）
-        title = article.get('title', '')
-        original_title = article.get('original_title', title)
-        
-        # 获取中文摘要（从translated数据中直接获取）
         summary = article.get('summary', article.get('summary_cn', ''))
         if not summary:
-            summary = '<span style="color:#999;font-style:italic;">暂无摘要，点击查看原文</span>'
-        url = article.get('url', '')
+            summary = '暂无摘要，点击查看原文'
         
-        html += f'''
-                <tr>
-                    <td class="col-index">{index}</td>
-                    <td class="col-date">{date_short}</td>
-                    <td class="col-category"><span class="category-tag">{category}</span></td>
-                    <td class="col-source"><span class="source-tag" style="background: {source_color};">{source_name}</span></td>
-                    <td class="col-title">
-                        <a href="{url}" target="_blank" class="title-link">{title}</a>
-                    </td>
-                    <td class="col-summary"><div class="summary">{summary}</div></td>
-                </tr>
-'''
+        # 处理RSS日期格式
+        pub_date = formatdate()
+        if article.get('_sort_date'):
+            try:
+                pub_date = formatdate(datetime.strptime(article['_sort_date'], '%Y-%m-%d').timestamp())
+            except:
+                pass
+        
+        articles_for_template.append({
+            'title': article.get('title', ''),
+            'original_title': article.get('original_title', ''),
+            'summary': summary,
+            'url': article.get('url', ''),
+            'date_short': date_short,
+            'sort_date': article.get('_sort_date', ''),
+            'category': category,
+            'source_name': article.get('_source_name', ''),
+            'source_color': article.get('_source_color', '#6B7280'),
+            'pub_date': pub_date
+        })
     
-    # 页脚
-    html += '''            </tbody>
-        </table>
-    </div>
+    # 渲染HTML页面
+    context = {
+        'total_articles': len(all_articles),
+        'update_time': update_time,
+        'sources': sources,
+        'categories': categories,
+        'articles': articles_for_template
+    }
+    html = render_template('index.html', context)
     
-    <div class="footer">
-        📊 本项目从真实网站抓取 | 🔄 每日自动更新 | 📝 体制内公文编译风格
-    </div>
-</body>
-</html>
-'''
+    # 渲染RSS订阅源（只取最近20篇）
+    rss_context = {
+        'build_date': formatdate(),
+        'articles': articles_for_template[:20]
+    }
+    rss = render_template('rss.xml', rss_context)
     
-    # 保存
+    # 保存HTML文件
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs('docs', exist_ok=True)
     with open(os.path.join(OUTPUT_DIR, 'index.html'), 'w', encoding='utf-8') as f:
@@ -542,7 +342,16 @@ def generate_html():
     with open('index.html', 'w', encoding='utf-8') as f:
         f.write(html)
     
-    print(f"\n✅ 表格布局页面已生成！共 {len(all_articles)} 篇文章")
+    # 保存RSS文件
+    with open(os.path.join(OUTPUT_DIR, 'rss.xml'), 'w', encoding='utf-8') as f:
+        f.write(rss)
+    with open('docs/rss.xml', 'w', encoding='utf-8') as f:
+        f.write(rss)
+    with open('rss.xml', 'w', encoding='utf-8') as f:
+        f.write(rss)
+    
+    print(f"\n✅ 页面已生成！共 {len(all_articles)} 篇文章")
+    print(f"✅ RSS订阅源已生成，最近20篇文章已同步")
 
 if __name__ == '__main__':
     generate_html()

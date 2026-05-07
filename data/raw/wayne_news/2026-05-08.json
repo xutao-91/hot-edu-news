@@ -1,8 +1,8 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-08T00:23:02.320454",
-  "total_news": 1,
+  "crawled_at": "2026-05-08T02:05:41.641460",
+  "total_news": 2,
   "news": [
     {
       "title": "Wayne State University professor to receive 2026 Scientific Award of Distinction from the American Federation for Aging Research",
@@ -12,6 +12,15 @@
       "summary_en": "",
       "source": "Wayne State News",
       "category": "research"
+    },
+    {
+      "title": "Music, movement and storytelling: Michelle Stackpoole’s creative approach to librarianship",
+      "url": "https://sis.wayne.edu/news/music-movement-and-storytelling-michelle-stackpooles-creative-approach-to-librarianship-69025",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
     }
   ]
 }

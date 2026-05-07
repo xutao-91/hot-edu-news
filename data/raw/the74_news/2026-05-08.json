@@ -1,16 +1,24 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/tag/artificial-intelligence/",
-  "crawled_at": "2026-05-08T00:23:11.730515",
+  "crawled_at": "2026-05-08T02:05:48.100161",
   "total_news": 100,
   "news": [
+    {
+      "title": "The AI Startup Aiming to Help All Students Find Their Reading Mojo",
+      "url": "https://www.the74million.org/article/the-ai-startup-aiming-to-help-all-students-find-their-reading-mojo/",
+      "date": "May 7, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-05-08T02:05:47.315600"
+    },
     {
       "title": "11 AI Prompts Every Teacher Should Know",
       "url": "https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/",
       "date": "May 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.838128"
+      "crawled_at": "2026-05-08T02:05:47.324355"
     },
     {
       "title": "Time for Schools to Stop Testing Kids Like It’s the 1990s. AI Can Show the Way",
@@ -18,7 +26,7 @@
       "date": "May 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.850844"
+      "crawled_at": "2026-05-08T02:05:47.332828"
     },
     {
       "title": "As AI Rewrites the Rules of Coding, Code.org Pushes to Reinvent Itself",
@@ -26,7 +34,7 @@
       "date": "April 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.862332"
+      "crawled_at": "2026-05-08T02:05:47.344908"
     },
     {
       "title": "California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short",
@@ -34,7 +42,7 @@
       "date": "April 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.876980"
+      "crawled_at": "2026-05-08T02:05:47.350328"
     },
     {
       "title": "Five Things to Know About the New Khan TED Institute",
@@ -42,7 +50,7 @@
       "date": "April 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.885952"
+      "crawled_at": "2026-05-08T02:05:47.352589"
     },
     {
       "title": "Gen Z Increasingly Skeptical of — And Angry About — Artificial Intelligence",
@@ -50,7 +58,7 @@
       "date": "April 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.896628"
+      "crawled_at": "2026-05-08T02:05:47.361052"
     },
     {
       "title": "Behind the Reinvention of Summit Public Schools With AI",
@@ -58,7 +66,7 @@
       "date": "April 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.906128"
+      "crawled_at": "2026-05-08T02:05:47.369478"
     },
     {
       "title": "When It Comes to Developing AI Rules, Who Asked the Students?",
@@ -66,7 +74,7 @@
       "date": "April 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.908443"
+      "crawled_at": "2026-05-08T02:05:47.378010"
     },
     {
       "title": "We Don’t Let Babies Play With Electricity — Why Are We Letting Them Play With AI?",
@@ -74,7 +82,7 @@
       "date": "March 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.920233"
+      "crawled_at": "2026-05-08T02:05:47.386342"
     },
     {
       "title": "NYC Releases Guidelines for AI in Schools. Some Say it Raises More Questions Than it Answers",
@@ -82,7 +90,7 @@
       "date": "March 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.928594"
+      "crawled_at": "2026-05-08T02:05:47.388562"
     },
     {
       "title": "AI ‘Slop’ Is Flooding Children’s Media. Parents Should Be Alarmed",
@@ -90,7 +98,7 @@
       "date": "March 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.942353"
+      "crawled_at": "2026-05-08T02:05:47.398951"
     },
     {
       "title": "AI in Student Assessments: Promise, Potential and Risks",
@@ -98,7 +106,7 @@
       "date": "March 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.953849"
+      "crawled_at": "2026-05-08T02:05:47.407353"
     },
     {
       "title": "AI ‘Slop’ Is Flooding Children’s Media. Parents Should Be Very Alarmed.",
@@ -106,7 +114,7 @@
       "date": "March 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.969147"
+      "crawled_at": "2026-05-08T02:05:47.415764"
     },
     {
       "title": "Precision Learning Has the Potential to Do What Personalized Learning Could Not",
@@ -114,7 +122,7 @@
       "date": "March 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.971448"
+      "crawled_at": "2026-05-08T02:05:47.424145"
     },
     {
       "title": "SXSW EDU Cheat Sheet: 26 Sessions for 2026",
@@ -122,7 +130,7 @@
       "date": "March 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:10.985925"
+      "crawled_at": "2026-05-08T02:05:47.426460"
     },
     {
       "title": "Two New Reports Urge ‘Human-Centered’ School AI Adoption",
@@ -130,7 +138,7 @@
       "date": "March 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.000333"
+      "crawled_at": "2026-05-08T02:05:47.434885"
     },
     {
       "title": "Exclusive: New Google Partnership a ‘Sizable Investment’ in AI for Teachers",
@@ -138,7 +146,7 @@
       "date": "February 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.014725"
+      "crawled_at": "2026-05-08T02:05:47.440444"
     },
     {
       "title": "America Is About to Be Graded on AI Literacy. We Are Not Prepared.",
@@ -146,7 +154,7 @@
       "date": "February 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.029109"
+      "crawled_at": "2026-05-08T02:05:47.448812"
     },
     {
       "title": "‘Stage Is Shifting Rapidly’ for High Schools: Are States Helping Them Keep Up?",
@@ -154,7 +162,7 @@
       "date": "February 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.031392"
+      "crawled_at": "2026-05-08T02:05:47.460117"
     },
     {
       "title": "At These Universities, Using AI Isn’t Shunned — It’s a Graduation Requirement",
@@ -162,7 +170,7 @@
       "date": "February 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.045837"
+      "crawled_at": "2026-05-08T02:05:47.462355"
     },
     {
       "title": "Schools Need to Adopt Clear Rules for AI Use. Parents Can Help Make That Happen",
@@ -170,7 +178,7 @@
       "date": "February 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.060211"
+      "crawled_at": "2026-05-08T02:05:47.467723"
     },
     {
       "title": "It’s Time to Embrace AI Literacy for Kids",
@@ -178,7 +186,7 @@
       "date": "February 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.074659"
+      "crawled_at": "2026-05-08T02:05:47.476040"
     },
     {
       "title": "The Dangers of AI Toys: Why This Teddy Bear Was Canceled",
@@ -186,7 +194,7 @@
       "date": "February 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.092102"
+      "crawled_at": "2026-05-08T02:05:47.487360"
     },
     {
       "title": "Reflections on Whether AI is Actually Changing Schools — and Where",
@@ -194,7 +202,7 @@
       "date": "February 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.094328"
+      "crawled_at": "2026-05-08T02:05:47.489575"
     },
     {
       "title": "AI Trailblazer Google Doesn’t Want Schools to ‘Bypass the Human’",
@@ -202,7 +210,7 @@
       "date": "February 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.108828"
+      "crawled_at": "2026-05-08T02:05:47.497997"
     },
     {
       "title": "How AI Is Helping NYC English Teachers Improve Middle School Reading and Writing",
@@ -210,7 +218,7 @@
       "date": "January 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.119317"
+      "crawled_at": "2026-05-08T02:05:47.506300"
     },
     {
       "title": "Why It’s Important for Young Children to Understand What’s Behind AI",
@@ -218,7 +226,7 @@
       "date": "January 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.127813"
+      "crawled_at": "2026-05-08T02:05:47.514643"
     },
     {
       "title": "What Education Leaders Can Learn from the AI Gold Rush",
@@ -226,7 +234,7 @@
       "date": "January 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.139243"
+      "crawled_at": "2026-05-08T02:05:47.523014"
     },
     {
       "title": "For AI to Truly Work in the Classroom, Schools Must Give Their Teachers a Say",
@@ -234,7 +242,7 @@
       "date": "January 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.150753"
+      "crawled_at": "2026-05-08T02:05:47.525202"
     },
     {
       "title": "Four Takeaways from New Report on AI’s Risks in Education",
@@ -242,7 +250,7 @@
       "date": "January 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.161134"
+      "crawled_at": "2026-05-08T02:05:47.533571"
     },
     {
       "title": "Google DeepMind’s Learnings in Developing an AI Tutor",
@@ -250,7 +258,7 @@
       "date": "January 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.163361"
+      "crawled_at": "2026-05-08T02:05:47.541921"
     },
     {
       "title": "What Public Schools and Parents Can Learn from a $40,000-a-Year Private School",
@@ -258,7 +266,7 @@
       "date": "January 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.174743"
+      "crawled_at": "2026-05-08T02:05:47.549855"
     },
     {
       "title": "10 Useful Tech Tools for Educators in 2026: A Practical Guide",
@@ -266,7 +274,7 @@
       "date": "December 30, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.183328"
+      "crawled_at": "2026-05-08T02:05:47.558206"
     },
     {
       "title": "Newark Teacher Says AI Tools Help Students Write Better, Ask Sharper History Questions",
@@ -274,7 +282,7 @@
       "date": "December 27, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.194817"
+      "crawled_at": "2026-05-08T02:05:47.560414"
     },
     {
       "title": "Texas Universities Deploy AI Tools to Review How Courses Discuss Race and Gender",
@@ -282,7 +290,7 @@
       "date": "December 20, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.205276"
+      "crawled_at": "2026-05-08T02:05:47.568822"
     },
     {
       "title": "Pre-K Teachers Are Hesitant to Use Artificial Intelligence —Why?",
@@ -290,7 +298,7 @@
       "date": "December 17, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.207639"
+      "crawled_at": "2026-05-08T02:05:47.577124"
     },
     {
       "title": "Beware the Smart Use Divide in AI",
@@ -298,7 +306,7 @@
       "date": "December 10, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.216098"
+      "crawled_at": "2026-05-08T02:05:47.584434"
     },
     {
       "title": "AI Tutors, With a Little Human Help, Offer ‘Reliable’ Instruction, Study Finds",
@@ -306,7 +314,7 @@
       "date": "December 3, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.224587"
+      "crawled_at": "2026-05-08T02:05:47.593812"
     },
     {
       "title": "Netflix’s Reed Hastings on the Impact of AI on Schools",
@@ -314,7 +322,7 @@
       "date": "November 20, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.232049"
+      "crawled_at": "2026-05-08T02:05:47.596064"
     },
     {
       "title": "The Goalposts Keep Moving: Who Gets to ‘Futureproof’ Their Children?",
@@ -322,7 +330,7 @@
       "date": "November 19, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.243392"
+      "crawled_at": "2026-05-08T02:05:47.604398"
     },
     {
       "title": "Bernstein: ‘There’s a Window of Opportunity to Create Change’ in AI Chatbots",
@@ -330,7 +338,7 @@
       "date": "November 18, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.252841"
+      "crawled_at": "2026-05-08T02:05:47.609756"
     },
     {
       "title": "New Legislation Would Ban AI from New York’s Schools",
@@ -338,7 +346,7 @@
       "date": "November 13, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.255312"
+      "crawled_at": "2026-05-08T02:05:47.617985"
     },
     {
       "title": "New Data Shows More Districts Are Adopting AI but Still Need a Coherent Strategy",
@@ -346,7 +354,7 @@
       "date": "November 12, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.264782"
+      "crawled_at": "2026-05-08T02:05:47.620142"
     },
     {
       "title": "AI Mistakes a Doritos Bag for Gun at Baltimore High School",
@@ -354,7 +362,7 @@
       "date": "November 6, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.271895"
+      "crawled_at": "2026-05-08T02:05:47.628476"
     },
     {
       "title": "Students Want Schools to Incorporate AI in Learning But Express Some Fears",
@@ -362,7 +370,7 @@
       "date": "November 3, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.281171"
+      "crawled_at": "2026-05-08T02:05:47.636812"
     },
     {
       "title": "How We Ensure AI Delivers for Students and Educators",
@@ -370,7 +378,7 @@
       "date": "October 30, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.291138"
+      "crawled_at": "2026-05-08T02:05:47.645099"
     },
     {
       "title": "Students Love AI Chatbots — No, Really",
@@ -378,7 +386,7 @@
       "date": "October 25, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.302557"
+      "crawled_at": "2026-05-08T02:05:47.653332"
     },
     {
       "title": "Can AI Keep Students Motivated, Or Does it Do the Opposite?",
@@ -386,7 +394,7 @@
       "date": "October 24, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.314011"
+      "crawled_at": "2026-05-08T02:05:47.662382"
     },
     {
       "title": "No Jobs for Computer Science Graduates",
@@ -394,7 +402,7 @@
       "date": "October 22, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.325519"
+      "crawled_at": "2026-05-08T02:05:47.664630"
     },
     {
       "title": "Using AI for the Master Schedule Can Meet Student Needs — and Save Money",
@@ -402,7 +410,7 @@
       "date": "October 1, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.337049"
+      "crawled_at": "2026-05-08T02:05:47.677390"
     },
     {
       "title": "Kids Need Soft Skills in the Age of AI, but What Does This Mean for Schools?",
@@ -410,7 +418,7 @@
       "date": "September 28, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.339413"
+      "crawled_at": "2026-05-08T02:05:47.691220"
     },
     {
       "title": "Goblins AI Math Tutoring App Clones Your Teacher’s Looks and Voice",
@@ -418,7 +426,7 @@
       "date": "September 25, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.350917"
+      "crawled_at": "2026-05-08T02:05:47.693561"
     },
     {
       "title": "Another AI Side Effect: Erosion of Student-Teacher Trust",
@@ -426,7 +434,7 @@
       "date": "September 22, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.362339"
+      "crawled_at": "2026-05-08T02:05:47.702090"
     },
     {
       "title": "How AI in My Classroom Has Helped Me Create Lightbulb Moments for My Students",
@@ -434,7 +442,7 @@
       "date": "September 18, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.373797"
+      "crawled_at": "2026-05-08T02:05:47.709807"
     },
     {
       "title": "From Disaster Aid to Lettuce Trees, Teens Win Grants to Tackle Local Problems",
@@ -442,7 +450,7 @@
       "date": "September 9, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.386207"
+      "crawled_at": "2026-05-08T02:05:47.720336"
     },
     {
       "title": "Students’ Skills — and Interest — in Science Tumble in First Post-COVID Test",
@@ -450,7 +458,7 @@
       "date": "September 9, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.388516"
+      "crawled_at": "2026-05-08T02:05:47.728793"
     },
     {
       "title": "AI Is Being Used in Schools, but Statewide Guidance Is a Work in Progress",
@@ -458,7 +466,7 @@
       "date": "September 3, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.400037"
+      "crawled_at": "2026-05-08T02:05:47.738416"
     },
     {
       "title": "AI Literacy: What It Is, What it Isn’t, Who Needs It and Why It’s Hard to Define",
@@ -466,7 +474,7 @@
       "date": "August 15, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.411484"
+      "crawled_at": "2026-05-08T02:05:47.748080"
     },
     {
       "title": "An Ed Tech Insider Pleads for More Equitable Tools",
@@ -474,7 +482,7 @@
       "date": "August 12, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.423308"
+      "crawled_at": "2026-05-08T02:05:47.750401"
     },
     {
       "title": "What California Teachers Are Trying, Building, and Learning with AI",
@@ -482,7 +490,7 @@
       "date": "August 11, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.435892"
+      "crawled_at": "2026-05-08T02:05:47.763964"
     },
     {
       "title": "AI Teacher Assistants Are Useful but Can Pose Risks in Classroom, Report Finds",
@@ -490,7 +498,7 @@
       "date": "August 6, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.444146"
+      "crawled_at": "2026-05-08T02:05:47.773395"
     },
     {
       "title": "Will New AI Academy Help Teachers or Just Improve Tech’s Bottom Line?",
@@ -498,7 +506,7 @@
       "date": "August 4, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.446360"
+      "crawled_at": "2026-05-08T02:05:47.783862"
     },
     {
       "title": "Students Increasingly Rely on Chatbots, but at What Cost?",
@@ -506,7 +514,7 @@
       "date": "August 2, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.455002"
+      "crawled_at": "2026-05-08T02:05:47.792259"
     },
     {
       "title": "More Than Half the States Have Issued AI Guidance for Schools",
@@ -514,7 +522,7 @@
       "date": "July 26, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.461414"
+      "crawled_at": "2026-05-08T02:05:47.794503"
     },
     {
       "title": "Why AI Literacy Instruction Needs to Start Before Kindergarten",
@@ -522,7 +530,7 @@
       "date": "July 24, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.470822"
+      "crawled_at": "2026-05-08T02:05:47.807681"
     },
     {
       "title": "AI and Art Collide in This Engineering Course That Puts Human Creativity First",
@@ -530,7 +538,7 @@
       "date": "July 17, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.479129"
+      "crawled_at": "2026-05-08T02:05:47.817090"
     },
     {
       "title": "Expanded AI Training for Teachers, Funded by OpenAI and Microsoft",
@@ -538,7 +546,7 @@
       "date": "July 10, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.481346"
+      "crawled_at": "2026-05-08T02:05:47.824767"
     },
     {
       "title": "Survey: 60% of Teachers Used AI This Year and Saved up to 6 Hours of Work a Week",
@@ -546,7 +554,7 @@
       "date": "July 8, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.490233"
+      "crawled_at": "2026-05-08T02:05:47.836176"
     },
     {
       "title": "Teachers Wary of Shuttering the Education Department, More Optimistic About AI",
@@ -554,7 +562,7 @@
       "date": "July 2, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.498643"
+      "crawled_at": "2026-05-08T02:05:47.847946"
     },
     {
       "title": "How Early Adopter Districts Are Moving Ahead Fast With AI — and Getting It Right",
@@ -562,7 +570,7 @@
       "date": "July 1, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.509088"
+      "crawled_at": "2026-05-08T02:05:47.856441"
     },
     {
       "title": "Belonging Is the Missing Link in AI-integrated Classrooms",
@@ -570,7 +578,7 @@
       "date": "June 25, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.519652"
+      "crawled_at": "2026-05-08T02:05:47.864887"
     },
     {
       "title": "Could an AI-Driven ‘Job Apocalypse’ Push the Best and Brightest into Teaching?",
@@ -578,7 +586,7 @@
       "date": "June 23, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.532263"
+      "crawled_at": "2026-05-08T02:05:47.870410"
     },
     {
       "title": "From English to Automotive Class, Teachers Assign Projects to Combat AI Cheating",
@@ -586,7 +594,7 @@
       "date": "June 13, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.534666"
+      "crawled_at": "2026-05-08T02:05:47.876034"
     },
     {
       "title": "Artificial Intelligence in Education: Risks, Opportunities and What’s Next",
@@ -594,7 +602,7 @@
       "date": "June 11, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.546150"
+      "crawled_at": "2026-05-08T02:05:47.884532"
     },
     {
       "title": "STEM’s Grand Challenges — And Opportunities",
@@ -602,7 +610,7 @@
       "date": "June 4, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.559911"
+      "crawled_at": "2026-05-08T02:05:47.893061"
     },
     {
       "title": "As Duolingo Turns to AI, Some Users Say Language App Has Joined ‘The Dark Side’",
@@ -610,7 +618,7 @@
       "date": "June 3, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.569444"
+      "crawled_at": "2026-05-08T02:05:47.901568"
     },
     {
       "title": "AI Tool Shows Teachers What They Do in the Classroom — and How to Do It Better",
@@ -618,7 +626,7 @@
       "date": "May 19, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.581175"
+      "crawled_at": "2026-05-08T02:05:47.909892"
     },
     {
       "title": "Newark High School Students Learn About AI Through Career Exploration",
@@ -626,7 +634,7 @@
       "date": "May 12, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.589816"
+      "crawled_at": "2026-05-08T02:05:47.912190"
     },
     {
       "title": "An Antidote to Plagiarism: New App Uses AI to Help Students Think Critically",
@@ -634,7 +642,7 @@
       "date": "May 8, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.598401"
+      "crawled_at": "2026-05-08T02:05:47.920656"
     },
     {
       "title": "AI Shows Racial Bias When Grading Essays — and Can’t Tell Good Writing From Bad",
@@ -642,7 +650,7 @@
       "date": "May 6, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.606956"
+      "crawled_at": "2026-05-08T02:05:47.929215"
     },
     {
       "title": "AI Education Is the New Space Race. Here’s How America Must Respond",
@@ -650,7 +658,7 @@
       "date": "April 7, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.609492"
+      "crawled_at": "2026-05-08T02:05:47.940748"
     },
     {
       "title": "New Research Finds Schools of Education Fail to Prepare Teachers to Use AI",
@@ -658,7 +666,7 @@
       "date": "March 28, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.621955"
+      "crawled_at": "2026-05-08T02:05:47.949133"
     },
     {
       "title": "AI Skeptic Creates Chatbot to Help Teachers Design Courses",
@@ -666,7 +674,7 @@
       "date": "March 27, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.624264"
+      "crawled_at": "2026-05-08T02:05:47.951541"
     },
     {
       "title": "Educators’ View: How AI Boosts Learning in Our Tennessee & Colorado Districts",
@@ -674,7 +682,7 @@
       "date": "March 17, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.627892"
+      "crawled_at": "2026-05-08T02:05:47.959981"
     },
     {
       "title": "OpenAI’s Education Leader on AI’s ‘Massive Productivity Boost’ for Schools, Teachers",
@@ -682,7 +690,7 @@
       "date": "March 12, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.636422"
+      "crawled_at": "2026-05-08T02:05:47.968354"
     },
     {
       "title": "AI Chatbots Can Cushion the High School Counselor Shortage — But Are They Bad for Students?",
@@ -690,7 +698,7 @@
       "date": "March 6, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.644509"
+      "crawled_at": "2026-05-08T02:05:47.976660"
     },
     {
       "title": "The Future of AI: How HBCUs are Leading Innovation in Education",
@@ -698,7 +706,7 @@
       "date": "March 4, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.650159"
+      "crawled_at": "2026-05-08T02:05:47.985042"
     },
     {
       "title": "Class Disrupted Podcast: Ben Riley on Why AI Doesn’t Think Like Us",
@@ -706,7 +714,7 @@
       "date": "February 21, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.655796"
+      "crawled_at": "2026-05-08T02:05:47.987312"
     },
     {
       "title": "How Artificial Intelligence Could Change Schools & Change How We Test Students",
@@ -714,7 +722,7 @@
       "date": "February 18, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.660382"
+      "crawled_at": "2026-05-08T02:05:47.998865"
     },
     {
       "title": "SXSW EDU Cheat Sheet: 25 (Mostly AI) Sessions to Enjoy in 2025",
@@ -722,7 +730,7 @@
       "date": "February 17, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.662614"
+      "crawled_at": "2026-05-08T02:05:48.010245"
     },
     {
       "title": "Class Disrupted: How AI is Democratizing Access to Expertise in Education",
@@ -730,7 +738,7 @@
       "date": "February 7, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.671355"
+      "crawled_at": "2026-05-08T02:05:48.021777"
     },
     {
       "title": "Pennsylvania Rejects Application for Cyber Charter School with AI Teacher and Two Hours of Daily Class",
@@ -738,7 +746,7 @@
       "date": "January 31, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.679668"
+      "crawled_at": "2026-05-08T02:05:48.033173"
     },
     {
       "title": "Class Disrupted Tackles AI: Exploring its Application for Teaching and Learning",
@@ -746,7 +754,7 @@
       "date": "January 23, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.688572"
+      "crawled_at": "2026-05-08T02:05:48.035454"
     },
     {
       "title": "The Great Connector: Why Data Literacy is Vital to Students’ Future Success",
@@ -754,7 +762,7 @@
       "date": "January 15, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.695021"
+      "crawled_at": "2026-05-08T02:05:48.046830"
     },
     {
       "title": "New Research: Done Right, Virtual Tutoring Nearly Rivals In-Person Version",
@@ -762,7 +770,7 @@
       "date": "January 15, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.700585"
+      "crawled_at": "2026-05-08T02:05:48.058365"
     },
     {
       "title": "Students Need Human Relationships to Thrive. Why Bots May Stand in the Way",
@@ -770,7 +778,7 @@
       "date": "January 14, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.705157"
+      "crawled_at": "2026-05-08T02:05:48.071102"
     },
     {
       "title": "Global Nonprofit Challenges Girls to Solve Real-World Problems With AI",
@@ -778,7 +786,7 @@
       "date": "January 6, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.714119"
+      "crawled_at": "2026-05-08T02:05:48.082609"
     },
     {
       "title": "Leanlab Founder Says Ed Tech Should Root Itself in Community Voice, Co-Design",
@@ -786,7 +794,7 @@
       "date": "January 6, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.722605"
+      "crawled_at": "2026-05-08T02:05:48.091229"
     },
     {
       "title": "AI Tools and Student Privacy: 9 Tips for Teachers",
@@ -794,15 +802,7 @@
       "date": "January 1, 2025",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.727903"
-    },
-    {
-      "title": "College Students ‘Cautiously Curious’ About AI, Despite Mixed Messages from Schools, Employers",
-      "url": "https://www.the74million.org/article/college-students-cautiously-curious-about-ai-despite-mixed-messages-from-schools-employers/",
-      "date": "December 31, 2024",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-05-08T00:23:11.730121"
+      "crawled_at": "2026-05-08T02:05:48.099786"
     }
   ]
 }
