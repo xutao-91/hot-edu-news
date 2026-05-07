@@ -1,1226 +1,1298 @@
 {
-  "https://news.nd.edu/news/martin-soros-selected-as-valedictorian-allison-elshoff-named-salutatorian-for-the-class-of-2026/": {
-    "source": "nd_news",
-    "fetch_time": "2026-05-08T03:08:26.599206",
-    "title": "Martin Soros selected as valedictorian; Allison Elshoff named salutatorian for the Class of 2026",
+  "https://www.pewresearch.org/short-reads/2026/05/07/10-facts-about-cubans-in-the-u-s/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-08T06:41:19.325964",
+    "title": "10 facts about Cubans in the U.S.",
     "category": "semiconductor"
-  },
-  "https://news.nd.edu/news/junior-veronica-bofah-named-2026-key-into-public-service-scholar/": {
-    "source": "nd_news",
-    "fetch_time": "2026-05-08T03:08:26.599245",
-    "title": "Junior Veronica Bofah named 2026 Key into Public Service Scholar",
-    "category": "semiconductor"
-  },
-  "https://news.nd.edu/news/in-memoriam-g-robert-blakey-william-j-and-dorothy-k-oneill-professor-of-law-emeritus-notre-dame-law-school/": {
-    "source": "nd_news",
-    "fetch_time": "2026-05-08T03:08:26.599259",
-    "title": "In Memoriam: G. Robert Blakey, the William J. and Dorothy K. O’Neill Professor of Law Emeritus, Notre Dame Law School",
-    "category": "education"
-  },
-  "https://news.nd.edu/news/notre-dame-elects-new-university-trustees-fellows/": {
-    "source": "nd_news",
-    "fetch_time": "2026-05-08T03:08:26.599272",
-    "title": "Notre Dame elects new University Trustees, Fellows",
-    "category": "education"
   },
   "https://www.pewresearch.org/data-labs/2026/05/07/moms-coaches-doctors-entrepreneurs-who-are-americas-health-and-wellness-influencers/": {
     "source": "pewresearch",
-    "fetch_time": "2026-05-08T03:08:26.694945",
+    "fetch_time": "2026-05-08T06:41:19.326026",
     "title": "Moms, Coaches, Doctors, Entrepreneurs: Who Are America’s Health and Wellness Influencers?",
     "category": "semiconductor"
   },
   "https://www.pewresearch.org/short-reads/2026/05/06/71-of-u-s-homeowners-say-their-home-insurance-costs-have-gone-up/": {
     "source": "pewresearch",
-    "fetch_time": "2026-05-08T03:08:26.695022",
+    "fetch_time": "2026-05-08T06:41:19.326040",
     "title": "71% of U.S. homeowners say their home insurance costs have gone up",
     "category": "ai"
   },
   "https://www.pewresearch.org/short-reads/2026/05/06/many-americans-hold-utility-companies-responsible-for-their-rising-home-energy-bills/": {
     "source": "pewresearch",
-    "fetch_time": "2026-05-08T03:08:26.695040",
+    "fetch_time": "2026-05-08T06:41:19.326054",
     "title": "Many Americans hold utility companies responsible for their rising home energy bills",
     "category": "semiconductor"
   },
   "https://www.pewresearch.org/decoded/2026/05/06/how-question-wording-affects-polling-on-the-morality-of-homosexuality/": {
     "source": "pewresearch",
-    "fetch_time": "2026-05-08T03:08:26.695054",
+    "fetch_time": "2026-05-08T06:41:19.326067",
     "title": "How question wording affects polling on the morality of homosexuality",
     "category": "semiconductor"
   },
+  "https://science.nd.edu/news-and-media/news/2026-college-of-science-faculty-promotions-and-retirements/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-08T06:41:19.442891",
+    "title": "2026 College of Science faculty promotions and retirements",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/martin-soros-selected-as-valedictorian-allison-elshoff-named-salutatorian-for-the-class-of-2026/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-08T06:41:20.071474",
+    "title": "Martin Soros selected as valedictorian; Allison Elshoff named salutatorian for the Class of 2026",
+    "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/junior-veronica-bofah-named-2026-key-into-public-service-scholar/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-08T06:41:20.071507",
+    "title": "Junior Veronica Bofah named 2026 Key into Public Service Scholar",
+    "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/in-memoriam-g-robert-blakey-william-j-and-dorothy-k-oneill-professor-of-law-emeritus-notre-dame-law-school/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-08T06:41:20.071520",
+    "title": "In Memoriam: G. Robert Blakey, the William J. and Dorothy K. O’Neill Professor of Law Emeritus, Notre Dame Law School",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/notre-dame-elects-new-university-trustees-fellows/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-08T06:41:20.071531",
+    "title": "Notre Dame elects new University Trustees, Fellows",
+    "category": "education"
+  },
   "https://www.slu.edu/news/2026/may/mother-knows-best-even-in-college.php": {
     "source": "slu_news",
-    "fetch_time": "2026-05-08T03:08:26.817539",
+    "fetch_time": "2026-05-08T06:41:20.997142",
     "title": "Mother Knows Best, Even in College",
     "category": "education"
   },
   "https://www.slu.edu/news/2026/may/faith-townsell-aspen-insitute-group.php": {
     "source": "slu_news",
-    "fetch_time": "2026-05-08T03:08:26.817572",
+    "fetch_time": "2026-05-08T06:41:20.997180",
     "title": "SLU Political Science Major Appointed to New Aspen Institute Advisory Group",
     "category": "education"
   },
   "https://thepienews.com/category/news/government/": {
     "source": "pie_news",
-    "fetch_time": "2026-05-08T03:08:27.900040",
+    "fetch_time": "2026-05-08T06:41:21.862101",
     "title": "New Zealand-India free trade agreement puts mobility in play",
     "category": "education"
   },
   "https://thepienews.com/category/news/": {
     "source": "pie_news",
-    "fetch_time": "2026-05-08T03:08:27.900027",
+    "fetch_time": "2026-05-08T06:41:21.862089",
     "title": "Finland looks to tighten rules on international students’ finances",
     "category": "education"
   },
   "https://thepienews.com/category/news/study-abroad/": {
     "source": "pie_news",
-    "fetch_time": "2026-05-08T03:08:27.899977",
+    "fetch_time": "2026-05-08T06:41:21.862040",
     "title": "Wales’ Taith program expands access to international learning",
     "category": "education"
   },
   "https://thepienews.com/category/news/agencies/": {
     "source": "pie_news",
-    "fetch_time": "2026-05-08T03:08:27.900002",
+    "fetch_time": "2026-05-08T06:41:21.862064",
     "title": "Universities unite behind Nepal’s “10k int’l student” ambition",
     "category": "education"
   },
-  "https://bridgemi.com/talent-education/most-school-bonds-pass-in-tuesdays-election-look-up-your-district/": {
-    "source": "bridgemi",
-    "fetch_time": "2026-05-08T03:08:30.282972",
-    "title": "Most school bonds pass in Tuesday’s election. Look up your district",
+  "https://www.iit.edu/news/research-cyber-battlefield": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-08T06:41:23.915092",
+    "title": "Research on the Cyber Battlefield",
     "category": "education"
+  },
+  "https://www.iit.edu/news/creating-cultural-practice-through-architecture": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-08T06:41:23.915128",
+    "title": "Creating Cultural Practice Through Architecture",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/difficult-and-defining-balancing-athletics-academics-and-internship": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-08T06:41:23.915141",
+    "title": "Difficult and Defining: Balancing Athletics, Academics, and an Internship",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/asking-questions-social-impact": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-08T06:41:23.915153",
+    "title": "Asking Questions for Social Impact",
+    "category": "ai"
   },
   "https://www.iit.edu/news/third-successful-implantation-wireless-visual-prosthesis-brain-implant-continues-redefine": {
     "source": "iit_news",
-    "fetch_time": "2026-05-08T03:08:30.304192",
+    "fetch_time": "2026-05-08T06:41:23.915165",
     "title": "Third Successful Implantation of Wireless Visual Prosthesis Brain Implant Continues to Redefine Possibilities",
     "category": "ai"
   },
   "https://www.iit.edu/news/third-successful-implantation-wireless-visual-prosthesis-brain-implant-advances-frontier-artificial": {
     "source": "iit_news",
-    "fetch_time": "2026-05-08T03:08:30.304231",
+    "fetch_time": "2026-05-08T06:41:23.915177",
     "title": "Third Successful Implantation of Wireless Visual Prosthesis Brain Implant Advances the Frontier of Artificial Vision",
     "category": "ai"
   },
   "https://www.iit.edu/news/illinois-tech-and-moraine-valley-community-college-announce-new-guaranteed-admission-pathway": {
     "source": "iit_news",
-    "fetch_time": "2026-05-08T03:08:30.304244",
+    "fetch_time": "2026-05-08T06:41:23.915193",
     "title": "Illinois Tech and Moraine Valley Community College Announce New Guaranteed Admission Pathway for Students",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/most-school-bonds-pass-in-tuesdays-election-look-up-your-district/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-08T06:41:24.322567",
+    "title": "Most school bonds pass in Tuesday’s election. Look up your district",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/atomic-snapshots-proofreading-enzyme-could-lead-better-covid-19-drugs": {
+    "source": "iastate_news",
+    "fetch_time": "2026-05-08T06:41:24.645149",
+    "title": "‘Atomic snapshots’ of proofreading enzyme could lead to better COVID-19 drugs",
     "category": "education"
   },
   "https://www.k-state.edu/news/articles/2026/05/prescribed-burning-flint-hills-cattle-grassland-management.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166419",
+    "fetch_time": "2026-05-08T06:41:26.069688",
     "title": "The science of spring burning",
     "category": "ai"
   },
   "https://www.k-state.edu/news/articles/2026/05/ganga-hettiarachchi-ryan-rafferty-graduate-faculty-mentor-award.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166454",
+    "fetch_time": "2026-05-08T06:41:26.069756",
     "title": "Champions of the classroom and beyond",
     "category": "education"
   },
   "https://www.k-state.edu/news/articles/2026/05/mushroom-bois-fungi-lab.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166467",
+    "fetch_time": "2026-05-08T06:41:26.069769",
     "title": "No Y in fungi",
     "category": "education"
   },
   "https://www.k-state.edu/news/articles/2026/05/summer-construction-updates-manhattan-campus.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166479",
+    "fetch_time": "2026-05-08T06:41:26.069781",
     "title": "Navigate summer improvements",
     "category": "ai"
   },
   "https://www.k-state.edu/news/articles/2026/05/student-led-water-research-water-wednesday.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166495",
+    "fetch_time": "2026-05-08T06:41:26.069794",
     "title": "May’s Water Wednesday to showcase student research and future water leaders",
     "category": "education"
   },
   "https://www.k-state.edu/news/articles/2026/05/wildcat-scholar-research-hub.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166508",
+    "fetch_time": "2026-05-08T06:41:26.069806",
     "title": "Elevating K-State impact",
     "category": "semiconductor"
   },
   "https://www.k-state.edu/news/articles/2026/05/academic-innovation-fund-microcredential-workforce-skills.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166520",
+    "fetch_time": "2026-05-08T06:41:26.069818",
     "title": "K-State announces microcredential programs funded through Academic Innovation Fund",
     "category": "semiconductor"
   },
   "https://www.k-state.edu/news/articles/2026/05/spring-commencement-ceremonies.html": {
     "source": "kstate_news",
-    "fetch_time": "2026-05-08T03:08:31.166531",
+    "fetch_time": "2026-05-08T06:41:26.069829",
     "title": "Commencement ceremonies celebrate Wildcat success",
     "category": "education"
   },
-  "https://www.news.iastate.edu/news/atomic-snapshots-proofreading-enzyme-could-lead-better-covid-19-drugs": {
-    "source": "iastate_news",
-    "fetch_time": "2026-05-08T03:08:31.910511",
-    "title": "‘Atomic snapshots’ of proofreading enzyme could lead to better COVID-19 drugs",
-    "category": "education"
-  },
-  "https://education.indiana.edu/news/2026/jan-jun/2026-05-06-geoengineering-summit.html": {
-    "source": "iu_education",
-    "fetch_time": "2026-05-08T03:08:32.132478",
-    "title": "Geoengineering summit helps students be part of the solution for climate change",
-    "category": "education"
-  },
-  "https://research.wayne.edu/news/wayne-state-university-professor-to-receive-2026-scientific-award-of-distinction-from-the-american-federation-for-aging-research-69024": {
-    "source": "wayne_news",
-    "fetch_time": "2026-05-08T03:08:32.381809",
-    "title": "Wayne State University professor to receive 2026 Scientific Award of Distinction from the American Federation for Aging Research",
-    "category": "education"
-  },
-  "https://sis.wayne.edu/news/music-movement-and-storytelling-michelle-stackpooles-creative-approach-to-librarianship-69025": {
-    "source": "wayne_news",
-    "fetch_time": "2026-05-08T03:08:32.381843",
-    "title": "Music, movement and storytelling: Michelle Stackpoole’s creative approach to librarianship",
-    "category": "semiconductor"
+  "https://source.washu.edu/2026/05/new-initiative-launches-to-save-primates-transform-global-conservation-approaches/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-08T06:41:26.711002",
+    "title": "New initiative launches to save primates, transform global conservation approaches",
+    "category": "ai"
   },
   "https://source.washu.edu/2026/05/global-outbreaks-may-fuel-violence-against-women-but-most-cases-go-unmeasured/": {
     "source": "washu_source",
-    "fetch_time": "2026-05-08T03:08:33.223659",
+    "fetch_time": "2026-05-08T06:41:26.711039",
     "title": "Global outbreaks may fuel violence against women — but most cases go unmeasured",
     "category": "ai"
   },
-  "https://www.ed.gov/about/news/press-release/fact-sheet-trump-administration-making-college-more-affordable": {
-    "source": "edgov",
-    "fetch_time": "2026-05-08T03:08:33.475104",
-    "title": "Fact Sheet: The Trump Administration is Making College More Affordable",
-    "category": "education"
-  },
-  "https://www.ed.gov/about/news/press-release/us-department-of-education-opens-title-ix-investigation-los-angeles-unified-school-district": {
-    "source": "edgov",
-    "fetch_time": "2026-05-08T03:08:33.475138",
-    "title": "U.S. Department of Education Opens Title IX Investigation into Los Angeles Unified School District",
+  "https://education.indiana.edu/news/2026/jan-jun/2026-05-06-geoengineering-summit.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-05-08T06:41:26.942837",
+    "title": "Geoengineering summit helps students be part of the solution for climate change",
     "category": "education"
   },
   "https://news.unl.edu/article/kauth-fisher-hadaway-hang-up-uniforms-after-years-as-school-mascots": {
     "source": "unl_news",
-    "fetch_time": "2026-05-08T03:08:34.195401",
+    "fetch_time": "2026-05-08T06:41:26.996354",
     "title": "Kauth-Fisher, Hadaway hang up uniforms after years as school mascots",
     "category": "education"
   },
   "https://news.unl.edu/article/22-husker-students-complete-special-education-apprenticeship-program": {
     "source": "unl_news",
-    "fetch_time": "2026-05-08T03:08:34.195439",
+    "fetch_time": "2026-05-08T06:41:26.996389",
     "title": "22 Husker students complete special education apprenticeship program",
     "category": "education"
   },
   "https://news.unl.edu/article/nelson-selected-as-vice-chancellor-for-research-and-innovation": {
     "source": "unl_news",
-    "fetch_time": "2026-05-08T03:08:34.195454",
+    "fetch_time": "2026-05-08T06:41:26.996402",
     "title": "Nelson selected as vice chancellor for research and innovation",
     "category": "semiconductor"
   },
   "https://news.unl.edu/article/mcdermotts-collegiate-career-driven-by-public-service": {
     "source": "unl_news",
-    "fetch_time": "2026-05-08T03:08:34.195466",
+    "fetch_time": "2026-05-08T06:41:26.996414",
     "title": "McDermott's collegiate career driven by public service",
     "category": "semiconductor"
   },
   "https://news.unl.edu/article/37-students-to-graduate-from-raikes-school-at-nebraska": {
     "source": "unl_news",
-    "fetch_time": "2026-05-08T03:08:34.195479",
+    "fetch_time": "2026-05-08T06:41:26.996426",
     "title": "37 students to graduate from Raikes School at Nebraska",
     "category": "education"
   },
   "https://news.unl.edu/article/program-expands-emotional-regulation-support-for-autistic-students": {
     "source": "unl_news",
-    "fetch_time": "2026-05-08T03:08:34.195492",
+    "fetch_time": "2026-05-08T06:41:26.996437",
     "title": "Program expands emotional regulation support for autistic students",
     "category": "education"
   },
+  "https://comm.wayne.edu/news/historic-finishes-for-wayne-state-university-speech-team-debate-earns-second-straight-championship-69030": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-08T06:41:27.060219",
+    "title": "Historic finishes for WSU Speech team; Debate earns second straight championship",
+    "category": "ai"
+  },
+  "https://research.wayne.edu/news/wayne-state-university-professor-to-receive-2026-scientific-award-of-distinction-from-the-american-federation-for-aging-research-69024": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-08T06:41:27.060266",
+    "title": "Wayne State University professor to receive 2026 Scientific Award of Distinction from the American Federation for Aging Research",
+    "category": "education"
+  },
+  "https://sis.wayne.edu/news/music-movement-and-storytelling-michelle-stackpooles-creative-approach-to-librarianship-69025": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-08T06:41:27.060280",
+    "title": "Music, movement and storytelling: Michelle Stackpoole’s creative approach to librarianship",
+    "category": "semiconductor"
+  },
   "https://cdis.wisc.edu/2025-26-cdis-undergraduates-honored-at-chancellors-awards-ceremony/": {
     "source": "uw_cdis",
-    "fetch_time": "2026-05-08T03:08:34.304760",
+    "fetch_time": "2026-05-08T06:41:28.247969",
     "title": "2025-26 CDIS Undergraduates Honored at Chancellor’s Awards Ceremony",
     "category": "education"
   },
   "/news/2026/05/resparc-enter-implementation-phase-revenue-efficiency-initiatives": {
     "source": "uiowa_now",
-    "fetch_time": "2026-05-08T03:08:34.830365",
+    "fetch_time": "2026-05-08T06:41:28.792305",
     "title": "reSPARC to enter implementation phase of revenue, efficiency initiatives",
     "category": "education"
   },
   "/news/2026/05/times-and-dates-spring-2026-commencement": {
     "source": "uiowa_now",
-    "fetch_time": "2026-05-08T03:08:34.830400",
+    "fetch_time": "2026-05-08T06:41:28.792337",
     "title": "Times and dates for spring 2026 commencement",
     "category": "education"
   },
   "/news/2026/05/iowa-alumni-win-2026-pulitzer-prizes-memoir-fiction": {
     "source": "uiowa_now",
-    "fetch_time": "2026-05-08T03:08:34.830413",
+    "fetch_time": "2026-05-08T06:41:28.792350",
     "title": "Iowa alumni win 2026 Pulitzer Prizes for memoir, fiction",
     "category": "education"
   },
-  "https://engineering.wisc.edu/news/second-fusion-summit-at-uw-madison-signals-the-midwests-rise-as-a-fusion-powerhouse/": {
-    "source": "uw_news",
-    "fetch_time": "2026-05-08T03:08:35.003572",
-    "title": "Second fusion summit at UW signals the Midwest’s rise as a fusion powerhouse",
-    "category": "semiconductor"
-  },
-  "https://news.wisc.edu/primatologist-karen-strier-elected-to-the-american-philosophical-society/": {
-    "source": "uw_news",
-    "fetch_time": "2026-05-08T03:08:35.003609",
-    "title": "Primatologist Karen Strier elected to the American Philosophical Society",
-    "category": "semiconductor"
-  },
-  "https://ls.wisc.edu/news/at-the-intersection-of-journalism-and-ai": {
-    "source": "uw_news",
-    "fetch_time": "2026-05-08T03:08:35.003622",
-    "title": "UW’s Public Tech Media Lab helps bridge the gap between AI and journalism",
-    "category": "ai"
-  },
-  "https://news.wisc.edu/uw-madison-finalizes-2025-27-compensation-strategy/": {
-    "source": "uw_news",
-    "fetch_time": "2026-05-08T03:08:35.003635",
-    "title": "UW–Madison finalizes 2025–27 compensation strategy",
-    "category": "education"
-  },
-  "https://showme.missouri.edu/2026/inspired-by-the-brain-mizzou-researchers-build-smarter-more-efficient-computer-hardware/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258372",
-    "title": "Inspired by the brain, Mizzou researchers build smarter, more efficient computer hardware",
-    "category": "education"
-  },
-  "https://showme.missouri.edu/2026/photo-gallery-2026-faculty-excellence-week-celebrates-teaching-research-service/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258405",
-    "title": "Photo gallery: 2026 Faculty Excellence Week celebrates teaching, research, service",
-    "category": "semiconductor"
-  },
-  "https://showme.missouri.edu/2026/a-university-of-missouri-and-bb-theatres-production-stem-cinema/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258418",
-    "title": "A University of Missouri and B&B Theatres production: STEM Cinema",
-    "category": "education"
-  },
-  "https://showme.missouri.edu/2026/a-legacy-of-growth-dean-kristofer-hagglund-reflects-on-25-years-with-college-of-health-sciences/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258430",
-    "title": "A legacy of growth: Dean Kristofer Hagglund reflects on 25 years with College of Health Sciences",
-    "category": "education"
-  },
-  "https://showme.missouri.edu/2026/less-water-same-taste-new-approach-helps-growers-produce-sweet-corn-more-efficiently/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258442",
-    "title": "Less water, same taste: New approach helps growers produce sweet corn more efficiently",
-    "category": "education"
-  },
-  "https://showme.missouri.edu/2026/meet-a-mizzou-law-student-ambassador/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258453",
-    "title": "Meet a Mizzou Law student ambassador",
-    "category": "education"
-  },
-  "https://showme.missouri.edu/2026/mizzou-veterinarian-helps-decode-animal-health/": {
-    "source": "showme_mizzou",
-    "fetch_time": "2026-05-08T03:08:35.258465",
-    "title": "Mizzou veterinarian helps decode animal health",
-    "category": "semiconductor"
-  },
   "https://insideuni.uni.edu/education/teaching-endorsements-certificates-or-degrees-which-path-right-you": {
     "source": "uni_news",
-    "fetch_time": "2026-05-08T03:08:35.352917",
+    "fetch_time": "2026-05-08T06:41:29.393632",
     "title": "Teaching endorsements, certificates, or degrees: Which path is right for you?",
     "category": "education"
   },
   "https://insideuni.uni.edu/health/accelerated-bsn-university-northern-iowa-now-enrolling-fall-launch": {
     "source": "uni_news",
-    "fetch_time": "2026-05-08T03:08:35.352952",
+    "fetch_time": "2026-05-08T06:41:29.393676",
     "title": "Accelerated BSN at University of Northern Iowa now enrolling for fall launch",
     "category": "education"
   },
   "https://insideuni.uni.edu/arts-design/anne-lefter-named-executive-director-gallagher-bluedorn-performing-arts-center": {
     "source": "uni_news",
-    "fetch_time": "2026-05-08T03:08:35.352965",
+    "fetch_time": "2026-05-08T06:41:29.393722",
     "title": "Anne Lefter named executive director of the Gallagher Bluedorn Performing Arts Center",
     "category": "education"
   },
   "https://insideuni.uni.edu/campus-community/uni-division-graduate-studies-hosts-annual-event-celebrating-excellence": {
     "source": "uni_news",
-    "fetch_time": "2026-05-08T03:08:35.352977",
+    "fetch_time": "2026-05-08T06:41:29.393738",
     "title": "UNI Division of Graduate Studies Hosts Annual Event Celebrating Excellence",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-colorado": {
+    "source": "edgov",
+    "fetch_time": "2026-05-08T06:41:29.438495",
+    "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at History Rocks! Event in Colorado",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/fact-sheet-trump-administration-making-college-more-affordable": {
+    "source": "edgov",
+    "fetch_time": "2026-05-08T06:41:29.438527",
+    "title": "Fact Sheet: The Trump Administration is Making College More Affordable",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-opens-title-ix-investigation-los-angeles-unified-school-district": {
+    "source": "edgov",
+    "fetch_time": "2026-05-08T06:41:29.438539",
+    "title": "U.S. Department of Education Opens Title IX Investigation into Los Angeles Unified School District",
+    "category": "education"
+  },
+  "https://engineering.wisc.edu/news/second-fusion-summit-at-uw-madison-signals-the-midwests-rise-as-a-fusion-powerhouse/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-08T06:41:29.607217",
+    "title": "Second fusion summit at UW signals the Midwest’s rise as a fusion powerhouse",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/primatologist-karen-strier-elected-to-the-american-philosophical-society/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-08T06:41:29.607252",
+    "title": "Primatologist Karen Strier elected to the American Philosophical Society",
+    "category": "semiconductor"
+  },
+  "https://ls.wisc.edu/news/at-the-intersection-of-journalism-and-ai": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-08T06:41:29.607265",
+    "title": "UW’s Public Tech Media Lab helps bridge the gap between AI and journalism",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/uw-madison-finalizes-2025-27-compensation-strategy/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-08T06:41:29.607277",
+    "title": "UW–Madison finalizes 2025–27 compensation strategy",
     "category": "education"
   },
   "https://www.ecampusnews.com/ai-in-education/2026/05/06/building-the-ai-ready-graduate/": {
     "source": "ecampus_news",
-    "fetch_time": "2026-05-08T03:08:36.441763",
+    "fetch_time": "2026-05-08T06:41:30.464861",
     "title": "Building the AI-ready graduate",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/the-ai-startup-aiming-to-help-all-students-find-their-reading-mojo/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613888",
-    "title": "The AI Startup Aiming to Help All Students Find Their Reading Mojo",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613932",
-    "title": "11 AI Prompts Every Teacher Should Know",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/time-for-schools-to-stop-testing-kids-like-its-the-1990s-ai-can-show-the-way/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613946",
-    "title": "Time for Schools to Stop Testing Kids Like It’s the 1990s. AI Can Show the Way",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/as-ai-rewrites-the-rules-of-coding-code-org-pushes-to-reinvent-itself/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613960",
-    "title": "As AI Rewrites the Rules of Coding, Code.org Pushes to Reinvent Itself",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613972",
-    "title": "California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/gen-z-increasingly-skeptical-of-and-angry-about-artificial-intelligence/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613985",
-    "title": "Gen Z Increasingly Skeptical of — And Angry About — Artificial Intelligence",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/behind-the-reinvention-of-summit-public-schools-with-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.613997",
-    "title": "Behind the Reinvention of Summit Public Schools With AI",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/when-it-comes-to-developing-ai-rules-who-asked-the-students/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614010",
-    "title": "When It Comes to Developing AI Rules, Who Asked the Students?",
-    "category": "education"
-  },
-  "https://www.the74million.org/zero2eight/we-dont-let-babies-play-with-electricity-why-are-we-letting-them-play-with-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614023",
-    "title": "We Don’t Let Babies Play With Electricity — Why Are We Letting Them Play With AI?",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/nyc-releases-guidelines-for-ai-in-schools-some-say-it-raises-more-questions-than-it-answers/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614035",
-    "title": "NYC Releases Guidelines for AI in Schools. Some Say it Raises More Questions Than it Answers",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-slop-is-flooding-childrens-media-parents-should-be-alarmed/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614047",
-    "title": "AI ‘Slop’ Is Flooding Children’s Media. Parents Should Be Alarmed",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/ai-in-student-assessments-promise-potential-and-risks/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614059",
-    "title": "AI in Student Assessments: Promise, Potential and Risks",
-    "category": "education"
-  },
-  "https://www.the74million.org/zero2eight/ai-slop-is-flooding-childrens-media-parents-should-be-very-alarmed/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614071",
-    "title": "AI ‘Slop’ Is Flooding Children’s Media. Parents Should Be Very Alarmed.",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/precision-learning-has-the-potential-to-do-what-personalized-learning-could-not/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614083",
-    "title": "Precision Learning Has the Potential to Do What Personalized Learning Could Not",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/two-new-reports-urge-human-centered-school-ai-adoption/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614094",
-    "title": "Two New Reports Urge ‘Human-Centered’ School AI Adoption",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/exclusive-new-google-partnership-a-sizable-investment-in-ai-for-teachers/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614106",
-    "title": "Exclusive: New Google Partnership a ‘Sizable Investment’ in AI for Teachers",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/america-is-about-to-be-graded-on-ai-literacy-we-are-not-prepared/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614118",
-    "title": "America Is About to Be Graded on AI Literacy. We Are Not Prepared.",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/stage-is-shifting-rapidly-for-high-schools-are-states-helping-them-keep-up/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614130",
-    "title": "‘Stage Is Shifting Rapidly’ for High Schools: Are States Helping Them Keep Up?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/at-these-universities-using-ai-isnt-shunned-its-a-graduation-requirement/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614142",
-    "title": "At These Universities, Using AI Isn’t Shunned — It’s a Graduation Requirement",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/schools-need-to-adopt-clear-rules-for-ai-use-parents-can-help-make-that-happen/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614155",
-    "title": "Schools Need to Adopt Clear Rules for AI Use. Parents Can Help Make That Happen",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/its-time-to-embrace-ai-literacy-for-kids/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614167",
-    "title": "It’s Time to Embrace AI Literacy for Kids",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/the-dangers-of-ai-toys-why-this-teddy-bear-was-canceled/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614179",
-    "title": "The Dangers of AI Toys: Why This Teddy Bear Was Canceled",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/reflections-on-whether-ai-is-actually-changing-schools-and-where/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614191",
-    "title": "Reflections on Whether AI is Actually Changing Schools — and Where",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-trailblazer-google-doesnt-want-schools-to-bypass-the-human/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614203",
-    "title": "AI Trailblazer Google Doesn’t Want Schools to ‘Bypass the Human’",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/how-ai-is-helping-nyc-english-teachers-improve-middle-school-reading-and-writing/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614215",
-    "title": "How AI Is Helping NYC English Teachers Improve Middle School Reading and Writing",
-    "category": "education"
-  },
-  "https://www.the74million.org/zero2eight/why-its-important-for-young-children-to-understand-whats-behind-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614227",
-    "title": "Why It’s Important for Young Children to Understand What’s Behind AI",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/what-education-leaders-can-learn-from-the-ai-gold-rush/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614240",
-    "title": "What Education Leaders Can Learn from the AI Gold Rush",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/for-ai-to-truly-work-in-the-classroom-schools-must-give-their-teachers-a-say/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614262",
-    "title": "For AI to Truly Work in the Classroom, Schools Must Give Their Teachers a Say",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/four-takeaways-from-new-report-on-ais-risks-in-education/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614275",
-    "title": "Four Takeaways from New Report on AI’s Risks in Education",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/google-deepminds-learnings-in-developing-an-ai-tutor/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614288",
-    "title": "Google DeepMind’s Learnings in Developing an AI Tutor",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/what-public-schools-and-parents-can-learn-from-a-40000-a-year-private-school/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614300",
-    "title": "What Public Schools and Parents Can Learn from a $40,000-a-Year Private School",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/10-useful-tech-tools-for-educators-in-2026-a-practical-guide/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614312",
-    "title": "10 Useful Tech Tools for Educators in 2026: A Practical Guide",
-    "category": "semiconductor"
-  },
-  "https://www.the74million.org/article/newark-teacher-says-ai-tools-help-students-write-better-ask-sharper-history-questions/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614324",
-    "title": "Newark Teacher Says AI Tools Help Students Write Better, Ask Sharper History Questions",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/texas-universities-deploy-ai-tools-to-review-how-courses-discuss-race-and-gender/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614336",
-    "title": "Texas Universities Deploy AI Tools to Review How Courses Discuss Race and Gender",
-    "category": "ai"
-  },
-  "https://www.the74million.org/zero2eight/pre-k-teachers-are-hesitant-to-use-artificial-intelligence-why/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614348",
-    "title": "Pre-K Teachers Are Hesitant to Use Artificial Intelligence —Why?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/beware-the-smart-use-divide-in-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614360",
-    "title": "Beware the Smart Use Divide in AI",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/ai-tutors-with-a-little-human-help-offer-reliable-instruction-study-finds/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614372",
-    "title": "AI Tutors, With a Little Human Help, Offer ‘Reliable’ Instruction, Study Finds",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/netflixs-reed-hastings-on-the-impact-of-ai-on-schools/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614384",
-    "title": "Netflix’s Reed Hastings on the Impact of AI on Schools",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/bernstein-theres-a-window-of-opportunity-to-create-change-in-ai-chatbots/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614396",
-    "title": "Bernstein: ‘There’s a Window of Opportunity to Create Change’ in AI Chatbots",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/why-ai-doesnt-belong-in-schools/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614408",
-    "title": "New Legislation Would Ban AI from New York’s Schools",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/new-data-shows-more-districts-are-adopting-ai-but-still-need-a-coherent-strategy/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614420",
-    "title": "New Data Shows More Districts Are Adopting AI but Still Need a Coherent Strategy",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/ai-mistakes-a-doritos-bag-for-gun-at-baltimore-high-school/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614432",
-    "title": "AI Mistakes a Doritos Bag for Gun at Baltimore High School",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/students-want-schools-to-incorporate-ai-in-learning-but-express-some-fears/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614444",
-    "title": "Students Want Schools to Incorporate AI in Learning But Express Some Fears",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/how-we-ensure-ai-delivers-for-students-and-educators/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614456",
-    "title": "How We Ensure AI Delivers for Students and Educators",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/students-love-ai-chatbots-no-really/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614468",
-    "title": "Students Love AI Chatbots — No, Really",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/can-ai-keep-students-motivated-or-does-it-do-the-opposite/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614480",
-    "title": "Can AI Keep Students Motivated, Or Does it Do the Opposite?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/using-ai-for-the-master-schedule-can-meet-student-needs-and-save-money/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614491",
-    "title": "Using AI for the Master Schedule Can Meet Student Needs — and Save Money",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/kids-need-soft-skills-in-the-age-of-ai-but-what-does-this-mean-for-schools/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614503",
-    "title": "Kids Need Soft Skills in the Age of AI, but What Does This Mean for Schools?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/new-ai-math-tutoring-app-goblins-clones-your-teachers-looks-and-voice/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614515",
-    "title": "Goblins AI Math Tutoring App Clones Your Teacher’s Looks and Voice",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/another-ai-side-effect-erosion-of-student-teacher-trust/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614527",
-    "title": "Another AI Side Effect: Erosion of Student-Teacher Trust",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/how-ai-in-my-classroom-has-helped-me-create-lightbulb-moments-for-my-students/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614539",
-    "title": "How AI in My Classroom Has Helped Me Create Lightbulb Moments for My Students",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/from-disaster-aid-to-lettuce-trees-teens-win-grants-to-tackle-local-problems/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614551",
-    "title": "From Disaster Aid to Lettuce Trees, Teens Win Grants to Tackle Local Problems",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/students-skills-and-interest-in-science-tumble-in-first-post-covid-test/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614563",
-    "title": "Students’ Skills — and Interest — in Science Tumble in First Post-COVID Test",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-is-being-used-in-schools-but-statewide-guidance-is-a-work-in-progress/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614575",
-    "title": "AI Is Being Used in Schools, but Statewide Guidance Is a Work in Progress",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-literacy-what-it-is-what-it-isnt-who-needs-it-and-why-its-hard-to-define/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614587",
-    "title": "AI Literacy: What It Is, What it Isn’t, Who Needs It and Why It’s Hard to Define",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/what-california-teachers-are-trying-building-and-learning-with-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614599",
-    "title": "What California Teachers Are Trying, Building, and Learning with AI",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-teacher-assistants-are-useful-but-can-pose-risks-in-classroom-report-finds/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614611",
-    "title": "AI Teacher Assistants Are Useful but Can Pose Risks in Classroom, Report Finds",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/will-new-ai-academy-help-teachers-or-just-improve-techs-bottom-line/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614623",
-    "title": "Will New AI Academy Help Teachers or Just Improve Tech’s Bottom Line?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/students-increasingly-rely-on-chatbots-but-at-what-cost/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614636",
-    "title": "Students Increasingly Rely on Chatbots, but at What Cost?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/more-than-half-the-states-have-issued-ai-guidance-for-schools/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614648",
-    "title": "More Than Half the States Have Issued AI Guidance for Schools",
-    "category": "education"
-  },
-  "https://www.the74million.org/zero2eight/why-ai-literacy-instruction-needs-to-start-before-kindergarten/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614660",
-    "title": "Why AI Literacy Instruction Needs to Start Before Kindergarten",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/ai-and-art-collide-in-this-engineering-course-that-puts-human-creativity-first/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614672",
-    "title": "AI and Art Collide in This Engineering Course That Puts Human Creativity First",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/expanded-ai-training-for-teachers-funded-by-openai-and-microsoft/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614684",
-    "title": "Expanded AI Training for Teachers, Funded by OpenAI and Microsoft",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/survey-60-of-teachers-used-ai-this-year-and-saved-up-to-6-hours-of-work-a-week/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614727",
-    "title": "Survey: 60% of Teachers Used AI This Year and Saved up to 6 Hours of Work a Week",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/teachers-wary-of-shuttering-the-education-department-more-optimistic-about-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614741",
-    "title": "Teachers Wary of Shuttering the Education Department, More Optimistic About AI",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/how-early-adopter-districts-are-moving-ahead-fast-with-ai-and-getting-it-right/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614754",
-    "title": "How Early Adopter Districts Are Moving Ahead Fast With AI — and Getting It Right",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/belonging-is-the-missing-link-in-ai-integrated-classrooms/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614766",
-    "title": "Belonging Is the Missing Link in AI-integrated Classrooms",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/could-an-ai-driven-job-apocalypse-push-the-best-and-brightest-into-teaching/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614779",
-    "title": "Could an AI-Driven ‘Job Apocalypse’ Push the Best and Brightest into Teaching?",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/from-english-to-automotive-class-teachers-assign-projects-to-combat-ai-cheating/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614817",
-    "title": "From English to Automotive Class, Teachers Assign Projects to Combat AI Cheating",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/artificial-intelligence-in-education-risks-opportunities-and-whats-next/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614831",
-    "title": "Artificial Intelligence in Education: Risks, Opportunities and What’s Next",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/as-duolingo-turns-to-ai-some-users-say-language-app-has-joined-the-dark-side/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614843",
-    "title": "As Duolingo Turns to AI, Some Users Say Language App Has Joined ‘The Dark Side’",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/ai-tool-shows-teachers-what-they-do-in-the-classroom-and-how-to-do-it-better/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614855",
-    "title": "AI Tool Shows Teachers What They Do in the Classroom — and How to Do It Better",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/newark-high-school-students-learn-about-ai-through-career-exploration/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614868",
-    "title": "Newark High School Students Learn About AI Through Career Exploration",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/an-antidote-to-plagiarism-new-app-uses-ai-to-help-students-think-critically/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614879",
-    "title": "An Antidote to Plagiarism: New App Uses AI to Help Students Think Critically",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-shows-racial-bias-when-grading-essays-and-cant-tell-good-writing-from-bad/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614891",
-    "title": "AI Shows Racial Bias When Grading Essays — and Can’t Tell Good Writing From Bad",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/ai-education-is-the-new-space-race-heres-how-america-must-respond/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614903",
-    "title": "AI Education Is the New Space Race. Here’s How America Must Respond",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/new-research-finds-schools-of-education-fail-to-prepare-teachers-to-use-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614915",
-    "title": "New Research Finds Schools of Education Fail to Prepare Teachers to Use AI",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-skeptic-creates-chatbot-to-help-teachers-design-courses/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614928",
-    "title": "AI Skeptic Creates Chatbot to Help Teachers Design Courses",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/educators-view-how-ai-boosts-learning-in-our-tennessee-colorado-districts/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614940",
-    "title": "Educators’ View: How AI Boosts Learning in Our Tennessee & Colorado Districts",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/openais-education-leader-on-ais-massive-productivity-boost-for-schools-teachers/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614952",
-    "title": "OpenAI’s Education Leader on AI’s ‘Massive Productivity Boost’ for Schools, Teachers",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/ai-chatbots-can-cushion-the-high-school-counselor-shortage-but-are-they-bad-for-students/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614964",
-    "title": "AI Chatbots Can Cushion the High School Counselor Shortage — But Are They Bad for Students?",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/the-future-of-ai-how-hbcus-are-leading-innovation-in-education/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614976",
-    "title": "The Future of AI: How HBCUs are Leading Innovation in Education",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/class-disrupted-podcast-ben-riley-on-why-ai-doesnt-think-like-us/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.614989",
-    "title": "Class Disrupted Podcast: Ben Riley on Why AI Doesn’t Think Like Us",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/khan-academy-artificial-intelligence-promise-kristen-dicerbo/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615001",
-    "title": "How Artificial Intelligence Could Change Schools & Change How We Test Students",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/south-by-southwest-education-2025-artificial-intelligence-ed-tech-panels/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615013",
-    "title": "SXSW EDU Cheat Sheet: 25 (Mostly AI) Sessions to Enjoy in 2025",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/class-disrupted-how-ai-is-democratizing-access-to-expertise-in-education/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615025",
-    "title": "Class Disrupted: How AI is Democratizing Access to Expertise in Education",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/pennsylvania-rejects-application-for-cyber-charter-school-with-ai-teacher-and-two-hours-of-daily-class/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615037",
-    "title": "Pennsylvania Rejects Application for Cyber Charter School with AI Teacher and Two Hours of Daily Class",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/class-disrupted-tackles-ai-exploring-its-application-for-teaching-and-learning/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615049",
-    "title": "Class Disrupted Tackles AI: Exploring its Application for Teaching and Learning",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/the-great-connector-why-data-literacy-is-vital-to-students-future-success/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615060",
-    "title": "The Great Connector: Why Data Literacy is Vital to Students’ Future Success",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/students-need-human-relationships-to-thrive-why-bots-may-stand-in-the-way/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615072",
-    "title": "Students Need Human Relationships to Thrive. Why Bots May Stand in the Way",
-    "category": "education"
-  },
-  "https://www.the74million.org/article/global-nonprofit-challenges-girls-to-solve-real-world-problems-with-ai/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615084",
-    "title": "Global Nonprofit Challenges Girls to Solve Real-World Problems With AI",
-    "category": "ai"
-  },
-  "https://www.the74million.org/article/leanlab-founder-says-ed-tech-should-root-itself-in-community-voice-co-design/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615096",
-    "title": "Leanlab Founder Says Ed Tech Should Root Itself in Community Voice, Co-Design",
-    "category": "semiconductor"
-  },
-  "https://www.the74million.org/article/ai-tools-and-student-privacy-9-tips-for-teachers/": {
-    "source": "the74_news",
-    "fetch_time": "2026-05-08T03:08:37.615108",
-    "title": "AI Tools and Student Privacy: 9 Tips for Teachers",
     "category": "education"
   },
   "https://www.augie.edu/news/2026/augustana-art-department-bestows-spitznagel-medal-achievement-three-graduating-artists": {
     "source": "augie_news",
-    "fetch_time": "2026-05-08T03:08:37.719083",
+    "fetch_time": "2026-05-08T06:41:31.583119",
     "title": "Augustana Art Department Bestows Spitznagel Medal for Achievement to Three Graduating Artists",
     "category": "education"
   },
   "https://www.augie.edu/news/2026/augustana-university-student-named-2026-truman-scholar": {
     "source": "augie_news",
-    "fetch_time": "2026-05-08T03:08:37.719116",
+    "fetch_time": "2026-05-08T06:41:31.583159",
     "title": "Augustana University Student Named 2026 Truman Scholar",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/the-ai-startup-aiming-to-help-all-students-find-their-reading-mojo/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731218",
+    "title": "The AI Startup Aiming to Help All Students Find Their Reading Mojo",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/11-ai-prompts-every-teacher-should-know/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731262",
+    "title": "11 AI Prompts Every Teacher Should Know",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/time-for-schools-to-stop-testing-kids-like-its-the-1990s-ai-can-show-the-way/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731276",
+    "title": "Time for Schools to Stop Testing Kids Like It’s the 1990s. AI Can Show the Way",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/as-ai-rewrites-the-rules-of-coding-code-org-pushes-to-reinvent-itself/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731289",
+    "title": "As AI Rewrites the Rules of Coding, Code.org Pushes to Reinvent Itself",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/california-students-author-new-digital-wellness-bill-say-phone-bans-fall-short/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731301",
+    "title": "California Students Author New ‘Digital Wellness’ Bill, Say Phone Bans Fall Short",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/gen-z-increasingly-skeptical-of-and-angry-about-artificial-intelligence/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731313",
+    "title": "Gen Z Increasingly Skeptical of — And Angry About — Artificial Intelligence",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/behind-the-reinvention-of-summit-public-schools-with-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731326",
+    "title": "Behind the Reinvention of Summit Public Schools With AI",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/when-it-comes-to-developing-ai-rules-who-asked-the-students/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731338",
+    "title": "When It Comes to Developing AI Rules, Who Asked the Students?",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/we-dont-let-babies-play-with-electricity-why-are-we-letting-them-play-with-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731350",
+    "title": "We Don’t Let Babies Play With Electricity — Why Are We Letting Them Play With AI?",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/nyc-releases-guidelines-for-ai-in-schools-some-say-it-raises-more-questions-than-it-answers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731363",
+    "title": "NYC Releases Guidelines for AI in Schools. Some Say it Raises More Questions Than it Answers",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-slop-is-flooding-childrens-media-parents-should-be-alarmed/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731375",
+    "title": "AI ‘Slop’ Is Flooding Children’s Media. Parents Should Be Alarmed",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/ai-in-student-assessments-promise-potential-and-risks/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731387",
+    "title": "AI in Student Assessments: Promise, Potential and Risks",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/ai-slop-is-flooding-childrens-media-parents-should-be-very-alarmed/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731398",
+    "title": "AI ‘Slop’ Is Flooding Children’s Media. Parents Should Be Very Alarmed.",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/precision-learning-has-the-potential-to-do-what-personalized-learning-could-not/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731411",
+    "title": "Precision Learning Has the Potential to Do What Personalized Learning Could Not",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/two-new-reports-urge-human-centered-school-ai-adoption/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731422",
+    "title": "Two New Reports Urge ‘Human-Centered’ School AI Adoption",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/exclusive-new-google-partnership-a-sizable-investment-in-ai-for-teachers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731434",
+    "title": "Exclusive: New Google Partnership a ‘Sizable Investment’ in AI for Teachers",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/america-is-about-to-be-graded-on-ai-literacy-we-are-not-prepared/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731446",
+    "title": "America Is About to Be Graded on AI Literacy. We Are Not Prepared.",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/stage-is-shifting-rapidly-for-high-schools-are-states-helping-them-keep-up/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731459",
+    "title": "‘Stage Is Shifting Rapidly’ for High Schools: Are States Helping Them Keep Up?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/at-these-universities-using-ai-isnt-shunned-its-a-graduation-requirement/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731471",
+    "title": "At These Universities, Using AI Isn’t Shunned — It’s a Graduation Requirement",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/schools-need-to-adopt-clear-rules-for-ai-use-parents-can-help-make-that-happen/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731484",
+    "title": "Schools Need to Adopt Clear Rules for AI Use. Parents Can Help Make That Happen",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/its-time-to-embrace-ai-literacy-for-kids/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731496",
+    "title": "It’s Time to Embrace AI Literacy for Kids",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/the-dangers-of-ai-toys-why-this-teddy-bear-was-canceled/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731509",
+    "title": "The Dangers of AI Toys: Why This Teddy Bear Was Canceled",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/reflections-on-whether-ai-is-actually-changing-schools-and-where/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731522",
+    "title": "Reflections on Whether AI is Actually Changing Schools — and Where",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-trailblazer-google-doesnt-want-schools-to-bypass-the-human/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731544",
+    "title": "AI Trailblazer Google Doesn’t Want Schools to ‘Bypass the Human’",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/how-ai-is-helping-nyc-english-teachers-improve-middle-school-reading-and-writing/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731557",
+    "title": "How AI Is Helping NYC English Teachers Improve Middle School Reading and Writing",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/why-its-important-for-young-children-to-understand-whats-behind-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731570",
+    "title": "Why It’s Important for Young Children to Understand What’s Behind AI",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/what-education-leaders-can-learn-from-the-ai-gold-rush/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731582",
+    "title": "What Education Leaders Can Learn from the AI Gold Rush",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/for-ai-to-truly-work-in-the-classroom-schools-must-give-their-teachers-a-say/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731595",
+    "title": "For AI to Truly Work in the Classroom, Schools Must Give Their Teachers a Say",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/four-takeaways-from-new-report-on-ais-risks-in-education/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731607",
+    "title": "Four Takeaways from New Report on AI’s Risks in Education",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/google-deepminds-learnings-in-developing-an-ai-tutor/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731619",
+    "title": "Google DeepMind’s Learnings in Developing an AI Tutor",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/what-public-schools-and-parents-can-learn-from-a-40000-a-year-private-school/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731632",
+    "title": "What Public Schools and Parents Can Learn from a $40,000-a-Year Private School",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/10-useful-tech-tools-for-educators-in-2026-a-practical-guide/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731644",
+    "title": "10 Useful Tech Tools for Educators in 2026: A Practical Guide",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/newark-teacher-says-ai-tools-help-students-write-better-ask-sharper-history-questions/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731655",
+    "title": "Newark Teacher Says AI Tools Help Students Write Better, Ask Sharper History Questions",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/texas-universities-deploy-ai-tools-to-review-how-courses-discuss-race-and-gender/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731668",
+    "title": "Texas Universities Deploy AI Tools to Review How Courses Discuss Race and Gender",
+    "category": "ai"
+  },
+  "https://www.the74million.org/zero2eight/pre-k-teachers-are-hesitant-to-use-artificial-intelligence-why/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731680",
+    "title": "Pre-K Teachers Are Hesitant to Use Artificial Intelligence —Why?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/beware-the-smart-use-divide-in-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731730",
+    "title": "Beware the Smart Use Divide in AI",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/ai-tutors-with-a-little-human-help-offer-reliable-instruction-study-finds/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731746",
+    "title": "AI Tutors, With a Little Human Help, Offer ‘Reliable’ Instruction, Study Finds",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/netflixs-reed-hastings-on-the-impact-of-ai-on-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731758",
+    "title": "Netflix’s Reed Hastings on the Impact of AI on Schools",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/bernstein-theres-a-window-of-opportunity-to-create-change-in-ai-chatbots/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731771",
+    "title": "Bernstein: ‘There’s a Window of Opportunity to Create Change’ in AI Chatbots",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/why-ai-doesnt-belong-in-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731783",
+    "title": "New Legislation Would Ban AI from New York’s Schools",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/new-data-shows-more-districts-are-adopting-ai-but-still-need-a-coherent-strategy/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731795",
+    "title": "New Data Shows More Districts Are Adopting AI but Still Need a Coherent Strategy",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/ai-mistakes-a-doritos-bag-for-gun-at-baltimore-high-school/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731807",
+    "title": "AI Mistakes a Doritos Bag for Gun at Baltimore High School",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/students-want-schools-to-incorporate-ai-in-learning-but-express-some-fears/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731820",
+    "title": "Students Want Schools to Incorporate AI in Learning But Express Some Fears",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/how-we-ensure-ai-delivers-for-students-and-educators/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731831",
+    "title": "How We Ensure AI Delivers for Students and Educators",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/students-love-ai-chatbots-no-really/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731843",
+    "title": "Students Love AI Chatbots — No, Really",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/can-ai-keep-students-motivated-or-does-it-do-the-opposite/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731855",
+    "title": "Can AI Keep Students Motivated, Or Does it Do the Opposite?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/using-ai-for-the-master-schedule-can-meet-student-needs-and-save-money/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731868",
+    "title": "Using AI for the Master Schedule Can Meet Student Needs — and Save Money",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/kids-need-soft-skills-in-the-age-of-ai-but-what-does-this-mean-for-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731880",
+    "title": "Kids Need Soft Skills in the Age of AI, but What Does This Mean for Schools?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/new-ai-math-tutoring-app-goblins-clones-your-teachers-looks-and-voice/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731892",
+    "title": "Goblins AI Math Tutoring App Clones Your Teacher’s Looks and Voice",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/another-ai-side-effect-erosion-of-student-teacher-trust/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731904",
+    "title": "Another AI Side Effect: Erosion of Student-Teacher Trust",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/how-ai-in-my-classroom-has-helped-me-create-lightbulb-moments-for-my-students/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731916",
+    "title": "How AI in My Classroom Has Helped Me Create Lightbulb Moments for My Students",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/from-disaster-aid-to-lettuce-trees-teens-win-grants-to-tackle-local-problems/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731927",
+    "title": "From Disaster Aid to Lettuce Trees, Teens Win Grants to Tackle Local Problems",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/students-skills-and-interest-in-science-tumble-in-first-post-covid-test/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731939",
+    "title": "Students’ Skills — and Interest — in Science Tumble in First Post-COVID Test",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-is-being-used-in-schools-but-statewide-guidance-is-a-work-in-progress/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731951",
+    "title": "AI Is Being Used in Schools, but Statewide Guidance Is a Work in Progress",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-literacy-what-it-is-what-it-isnt-who-needs-it-and-why-its-hard-to-define/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731963",
+    "title": "AI Literacy: What It Is, What it Isn’t, Who Needs It and Why It’s Hard to Define",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/what-california-teachers-are-trying-building-and-learning-with-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731976",
+    "title": "What California Teachers Are Trying, Building, and Learning with AI",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-teacher-assistants-are-useful-but-can-pose-risks-in-classroom-report-finds/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.731988",
+    "title": "AI Teacher Assistants Are Useful but Can Pose Risks in Classroom, Report Finds",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/will-new-ai-academy-help-teachers-or-just-improve-techs-bottom-line/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732001",
+    "title": "Will New AI Academy Help Teachers or Just Improve Tech’s Bottom Line?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/students-increasingly-rely-on-chatbots-but-at-what-cost/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732013",
+    "title": "Students Increasingly Rely on Chatbots, but at What Cost?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/more-than-half-the-states-have-issued-ai-guidance-for-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732025",
+    "title": "More Than Half the States Have Issued AI Guidance for Schools",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/why-ai-literacy-instruction-needs-to-start-before-kindergarten/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732037",
+    "title": "Why AI Literacy Instruction Needs to Start Before Kindergarten",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/ai-and-art-collide-in-this-engineering-course-that-puts-human-creativity-first/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732049",
+    "title": "AI and Art Collide in This Engineering Course That Puts Human Creativity First",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/expanded-ai-training-for-teachers-funded-by-openai-and-microsoft/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732060",
+    "title": "Expanded AI Training for Teachers, Funded by OpenAI and Microsoft",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/survey-60-of-teachers-used-ai-this-year-and-saved-up-to-6-hours-of-work-a-week/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732072",
+    "title": "Survey: 60% of Teachers Used AI This Year and Saved up to 6 Hours of Work a Week",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/teachers-wary-of-shuttering-the-education-department-more-optimistic-about-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732084",
+    "title": "Teachers Wary of Shuttering the Education Department, More Optimistic About AI",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/how-early-adopter-districts-are-moving-ahead-fast-with-ai-and-getting-it-right/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732096",
+    "title": "How Early Adopter Districts Are Moving Ahead Fast With AI — and Getting It Right",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/belonging-is-the-missing-link-in-ai-integrated-classrooms/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732108",
+    "title": "Belonging Is the Missing Link in AI-integrated Classrooms",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/could-an-ai-driven-job-apocalypse-push-the-best-and-brightest-into-teaching/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732120",
+    "title": "Could an AI-Driven ‘Job Apocalypse’ Push the Best and Brightest into Teaching?",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/from-english-to-automotive-class-teachers-assign-projects-to-combat-ai-cheating/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732132",
+    "title": "From English to Automotive Class, Teachers Assign Projects to Combat AI Cheating",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/artificial-intelligence-in-education-risks-opportunities-and-whats-next/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732144",
+    "title": "Artificial Intelligence in Education: Risks, Opportunities and What’s Next",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/as-duolingo-turns-to-ai-some-users-say-language-app-has-joined-the-dark-side/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732156",
+    "title": "As Duolingo Turns to AI, Some Users Say Language App Has Joined ‘The Dark Side’",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/ai-tool-shows-teachers-what-they-do-in-the-classroom-and-how-to-do-it-better/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732168",
+    "title": "AI Tool Shows Teachers What They Do in the Classroom — and How to Do It Better",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/newark-high-school-students-learn-about-ai-through-career-exploration/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732180",
+    "title": "Newark High School Students Learn About AI Through Career Exploration",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/an-antidote-to-plagiarism-new-app-uses-ai-to-help-students-think-critically/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732193",
+    "title": "An Antidote to Plagiarism: New App Uses AI to Help Students Think Critically",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-shows-racial-bias-when-grading-essays-and-cant-tell-good-writing-from-bad/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732204",
+    "title": "AI Shows Racial Bias When Grading Essays — and Can’t Tell Good Writing From Bad",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/ai-education-is-the-new-space-race-heres-how-america-must-respond/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732217",
+    "title": "AI Education Is the New Space Race. Here’s How America Must Respond",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/new-research-finds-schools-of-education-fail-to-prepare-teachers-to-use-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732229",
+    "title": "New Research Finds Schools of Education Fail to Prepare Teachers to Use AI",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-skeptic-creates-chatbot-to-help-teachers-design-courses/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732240",
+    "title": "AI Skeptic Creates Chatbot to Help Teachers Design Courses",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/educators-view-how-ai-boosts-learning-in-our-tennessee-colorado-districts/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732252",
+    "title": "Educators’ View: How AI Boosts Learning in Our Tennessee & Colorado Districts",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/openais-education-leader-on-ais-massive-productivity-boost-for-schools-teachers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732264",
+    "title": "OpenAI’s Education Leader on AI’s ‘Massive Productivity Boost’ for Schools, Teachers",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/ai-chatbots-can-cushion-the-high-school-counselor-shortage-but-are-they-bad-for-students/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732276",
+    "title": "AI Chatbots Can Cushion the High School Counselor Shortage — But Are They Bad for Students?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/the-future-of-ai-how-hbcus-are-leading-innovation-in-education/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732288",
+    "title": "The Future of AI: How HBCUs are Leading Innovation in Education",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/class-disrupted-podcast-ben-riley-on-why-ai-doesnt-think-like-us/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732300",
+    "title": "Class Disrupted Podcast: Ben Riley on Why AI Doesn’t Think Like Us",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/khan-academy-artificial-intelligence-promise-kristen-dicerbo/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732312",
+    "title": "How Artificial Intelligence Could Change Schools & Change How We Test Students",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/south-by-southwest-education-2025-artificial-intelligence-ed-tech-panels/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732324",
+    "title": "SXSW EDU Cheat Sheet: 25 (Mostly AI) Sessions to Enjoy in 2025",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/class-disrupted-how-ai-is-democratizing-access-to-expertise-in-education/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732336",
+    "title": "Class Disrupted: How AI is Democratizing Access to Expertise in Education",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/pennsylvania-rejects-application-for-cyber-charter-school-with-ai-teacher-and-two-hours-of-daily-class/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732348",
+    "title": "Pennsylvania Rejects Application for Cyber Charter School with AI Teacher and Two Hours of Daily Class",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/class-disrupted-tackles-ai-exploring-its-application-for-teaching-and-learning/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732359",
+    "title": "Class Disrupted Tackles AI: Exploring its Application for Teaching and Learning",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/the-great-connector-why-data-literacy-is-vital-to-students-future-success/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732371",
+    "title": "The Great Connector: Why Data Literacy is Vital to Students’ Future Success",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/students-need-human-relationships-to-thrive-why-bots-may-stand-in-the-way/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732383",
+    "title": "Students Need Human Relationships to Thrive. Why Bots May Stand in the Way",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/global-nonprofit-challenges-girls-to-solve-real-world-problems-with-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732396",
+    "title": "Global Nonprofit Challenges Girls to Solve Real-World Problems With AI",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/leanlab-founder-says-ed-tech-should-root-itself-in-community-voice-co-design/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732407",
+    "title": "Leanlab Founder Says Ed Tech Should Root Itself in Community Voice, Co-Design",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/ai-tools-and-student-privacy-9-tips-for-teachers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-08T06:41:31.732419",
+    "title": "AI Tools and Student Privacy: 9 Tips for Teachers",
     "category": "education"
   },
   "https://cse.umn.edu/college/news/student-commencement-speaker-embraces-community": {
     "source": "umn_cse",
-    "fetch_time": "2026-05-08T03:08:38.634132",
+    "fetch_time": "2026-05-08T06:41:32.212101",
     "title": "Student commencement speaker embraces community",
     "category": "education"
   },
   "https://cse.umn.edu/college/news/cse-senior-finds-passion-solving-complex-problems": {
     "source": "umn_cse",
-    "fetch_time": "2026-05-08T03:08:38.634166",
+    "fetch_time": "2026-05-08T06:41:32.212134",
     "title": "CSE senior finds passion in solving complex problems",
     "category": "education"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0507-Like-mother-like-daughter-Purdue-Engineering-graduates-share-special-bond": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890237",
+    "fetch_time": "2026-05-08T06:41:33.205071",
     "title": "Like mother, like daughter: Purdue Engineering graduates share special bond",
     "category": "education"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0429-ECEs-Jacob-earns-prestigious-highly-competitive-Guggenheim-Fellowship": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890277",
+    "fetch_time": "2026-05-08T06:41:33.205105",
     "title": "ECE's Jacob earns prestigious, highly competitive Guggenheim Fellowship",
     "category": "education"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-Purdue-launches-comprehensive-quantum-degrees-program": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890291",
+    "fetch_time": "2026-05-08T06:41:33.205117",
     "title": "Purdue launches comprehensive quantum degrees program",
     "category": "quantum"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0505-Purdue-drone-initiatives-focus-on-the-future-of-autonomy-in-the-sky": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890303",
+    "fetch_time": "2026-05-08T06:41:33.205129",
     "title": "Purdue drone initiatives focus on the future of autonomy in the sky",
     "category": "education"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0506-New-Manufacturing-Studio-supercharges-engineering-in-Indianapolis": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890316",
+    "fetch_time": "2026-05-08T06:41:33.205141",
     "title": "New Manufacturing Studio supercharges engineering in Indianapolis",
     "category": "education"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-SCALE-expands-its-national-impact-becomes-Purdues-largest-federally-funded-research-effort": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890328",
+    "fetch_time": "2026-05-08T06:41:33.205153",
     "title": "SCALE expands its national impact, becomes Purdue's largest federally funded research effort",
     "category": "education"
   },
   "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-IEs-Assistant-Professor-Yu-She-Awarded-National-Science-Foundation-Grant": {
     "source": "purdue_engineering",
-    "fetch_time": "2026-05-08T03:08:39.890341",
+    "fetch_time": "2026-05-08T06:41:33.205164",
     "title": "IE's She awarded National Science Foundation grant",
     "category": "ai"
   },
   "https://blogs.iu.edu/kelleyschool/2026/05/06/iu-kelley-student-competing-in-open-wheel-racing-while-also-pursuing-a-business-degree/": {
-    "source": "kelley",
-    "fetch_time": "2026-05-08T03:08:40.080490",
+    "source": "iu_news",
+    "fetch_time": "2026-05-08T06:41:33.648764",
     "title": "Kelley School sponsors student competing in premier open-wheel racing series",
     "category": "education"
   },
+  "https://showme.missouri.edu/2026/inspired-by-the-brain-mizzou-researchers-build-smarter-more-efficient-computer-hardware/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998269",
+    "title": "Inspired by the brain, Mizzou researchers build smarter, more efficient computer hardware",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/photo-gallery-2026-faculty-excellence-week-celebrates-teaching-research-service/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998302",
+    "title": "Photo gallery: 2026 Faculty Excellence Week celebrates teaching, research, service",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/a-university-of-missouri-and-bb-theatres-production-stem-cinema/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998315",
+    "title": "A University of Missouri and B&B Theatres production: STEM Cinema",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/a-legacy-of-growth-dean-kristofer-hagglund-reflects-on-25-years-with-college-of-health-sciences/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998327",
+    "title": "A legacy of growth: Dean Kristofer Hagglund reflects on 25 years with College of Health Sciences",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/less-water-same-taste-new-approach-helps-growers-produce-sweet-corn-more-efficiently/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998339",
+    "title": "Less water, same taste: New approach helps growers produce sweet corn more efficiently",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/meet-a-mizzou-law-student-ambassador/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998368",
+    "title": "Meet a Mizzou Law student ambassador",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-veterinarian-helps-decode-animal-health/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T06:41:33.998381",
+    "title": "Mizzou veterinarian helps decode animal health",
+    "category": "semiconductor"
+  },
   "https://oneill.indiana.edu/news/2026-0507-jumper-fellowship.html": {
     "source": "oneill",
-    "fetch_time": "2026-05-08T03:08:41.262868",
+    "fetch_time": "2026-05-08T06:41:35.419402",
     "title": "O'Neill School establishes Jumper Fellowship to support future leaders in international affairs",
     "category": "education"
   },
   "https://oneill.indiana.edu/news/2026-0505-alumni-award-winners.html": {
     "source": "oneill",
-    "fetch_time": "2026-05-08T03:08:41.262915",
+    "fetch_time": "2026-05-08T06:41:35.419439",
     "title": "O'Neill School recognizes 2026 Alumni Award winners",
-    "category": "education"
-  },
-  "https://today.uic.edu/uic-historian-jane-rhodes-elected-to-the-american-antiquarian-society/": {
-    "source": "uic_today",
-    "fetch_time": "2026-05-08T03:08:41.416202",
-    "title": "UIC historian Jane Rhodes elected to the American Antiquarian Society",
-    "category": "semiconductor"
-  },
-  "https://today.uic.edu/neuropsychiatric-institute-facade-restoration-project-nears-completion/": {
-    "source": "uic_today",
-    "fetch_time": "2026-05-08T03:08:41.416235",
-    "title": "Neuropsychiatric Institute facade restoration project nears completion",
-    "category": "semiconductor"
-  },
-  "https://today.uic.edu/uic-celebrates-2026-spring-commencement-may-6-9/": {
-    "source": "uic_today",
-    "fetch_time": "2026-05-08T03:08:41.416249",
-    "title": "UIC celebrates 2026 spring commencement May 6-9",
-    "category": "education"
-  },
-  "https://today.uic.edu/how-3-exceptional-spring-grads-made-their-mark-at-uic/": {
-    "source": "uic_today",
-    "fetch_time": "2026-05-08T03:08:41.416261",
-    "title": "How 3 exceptional spring grads made their mark at UIC",
-    "category": "education"
-  },
-  "https://today.uic.edu/margarita-arango-turning-academic-excellence-into-public-impact/": {
-    "source": "uic_today",
-    "fetch_time": "2026-05-08T03:08:41.416273",
-    "title": "Margarita Arango: Turning academic excellence into public impact",
-    "category": "education"
-  },
-  "https://today.uic.edu/what-uic-students-added-to-the-public-housing-museums-archives/": {
-    "source": "uic_today",
-    "fetch_time": "2026-05-08T03:08:41.416301",
-    "title": "What UIC students added to Housing Museum’s archives",
     "category": "education"
   },
   "https://educationminnesota.org/news/press-release/court-allows-immigration-enforcement-activity-near-minnesota-schools-to-continue/": {
     "source": "education_minnesota",
-    "fetch_time": "2026-05-08T03:08:41.869556",
+    "fetch_time": "2026-05-08T06:41:35.439665",
     "title": "Court allows immigration enforcement activity near Minnesota schools to continue",
     "category": "education"
   },
   "https://educationminnesota.org/news/press-release/education-minnesota-endorses-morrison-for-congress/": {
     "source": "education_minnesota",
-    "fetch_time": "2026-05-08T03:08:41.869589",
+    "fetch_time": "2026-05-08T06:41:35.439763",
     "title": "Education Minnesota endorses Morrison for Congress",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-historian-jane-rhodes-elected-to-the-american-antiquarian-society/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-08T06:41:35.670115",
+    "title": "UIC historian Jane Rhodes elected to the American Antiquarian Society",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/neuropsychiatric-institute-facade-restoration-project-nears-completion/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-08T06:41:35.670146",
+    "title": "Neuropsychiatric Institute facade restoration project nears completion",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/uic-celebrates-2026-spring-commencement-may-6-9/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-08T06:41:35.670159",
+    "title": "UIC celebrates 2026 spring commencement May 6-9",
+    "category": "education"
+  },
+  "https://today.uic.edu/how-3-exceptional-spring-grads-made-their-mark-at-uic/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-08T06:41:35.670171",
+    "title": "How 3 exceptional spring grads made their mark at UIC",
+    "category": "education"
+  },
+  "https://today.uic.edu/margarita-arango-turning-academic-excellence-into-public-impact/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-08T06:41:35.670183",
+    "title": "Margarita Arango: Turning academic excellence into public impact",
+    "category": "education"
+  },
+  "https://today.uic.edu/what-uic-students-added-to-the-public-housing-museums-archives/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-08T06:41:35.670195",
+    "title": "What UIC students added to Housing Museum’s archives",
     "category": "education"
   },
   "https://news.northwestern.edu/stories/2026/05/creating-life-changing-opportunities-for-northwestern-students": {
     "source": "northwestern_news",
-    "fetch_time": "2026-05-08T03:08:42.844609",
+    "fetch_time": "2026-05-08T06:41:36.127828",
     "title": "Creating life-changing opportunities for Northwestern students",
     "category": "education"
   },
   "https://news.northwestern.edu/stories/2026/05/northwestern-launches-forever-shine-campaign-for-scholarships": {
     "source": "northwestern_news",
-    "fetch_time": "2026-05-08T03:08:42.844642",
+    "fetch_time": "2026-05-08T06:41:36.127863",
     "title": "Northwestern launches Forever Shine Campaign for scholarships",
     "category": "ai"
   },
   "https://education.wisc.edu/news/three-from-school-of-education-honored-with-2026-awards-for-mentoring-undergraduates/": {
     "source": "uw_education",
-    "fetch_time": "2026-05-08T03:08:42.926473",
+    "fetch_time": "2026-05-08T06:41:36.677305",
     "title": "Three from School of Education honored with 2026 awards for mentoring undergraduates",
     "category": "education"
   },
   "https://education.wisc.edu/news/school-of-education-artists-earn-top-honors-in-2026-arts-business-competition/": {
     "source": "uw_education",
-    "fetch_time": "2026-05-08T03:08:42.926504",
+    "fetch_time": "2026-05-08T06:41:36.677336",
     "title": "School of Education artists earn top honors in 2026 Arts Business Competition",
     "category": "education"
   },
   "https://education.wisc.edu/news/two-school-of-education-students-recognized-as-spring-2026-notable-grads/": {
     "source": "uw_education",
-    "fetch_time": "2026-05-08T03:08:42.926517",
+    "fetch_time": "2026-05-08T06:41:36.677349",
     "title": "Three School of Education students recognized as spring 2026 ‘notable grads’",
+    "category": "education"
+  },
+  "https://www.mtu.edu/news/2026/05/in-the-skies-streets-and-stories-mtu-enterprise-program-continues-to-expand-after-26-years.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-05-08T06:41:36.797324",
+    "title": "In the Skies, Streets and Stories: MTU Enterprise Program Continues to Expand After 26 Years",
     "category": "education"
   },
   "https://news.ku.edu/news/article/school-of-pharmacy-to-host-david-sinclair-for-takeru-higuchi-memorial-lecture": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899599",
+    "fetch_time": "2026-05-08T06:41:37.201364",
     "title": "School of Pharmacy to host David Sinclair for Takeru Higuchi Memorial Lecture",
     "category": "education"
   },
   "https://news.ku.edu/news/article/ku-school-of-education-human-sciences-to-honor-bob-swift-with-2026-distinguished-alumni-award-ARTICLE-F0YZ5W": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899638",
+    "fetch_time": "2026-05-08T06:41:37.201404",
     "title": "KU School of Education & Human Sciences to honor Bob Swift with 2026 Distinguished Alumni Award",
     "category": "education"
   },
   "https://news.ku.edu/news/article/amy-hansen-receives-fulbright-us-scholar-award-for-water-research-in-chile-ARTICLE-75JP6R": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899652",
+    "fetch_time": "2026-05-08T06:41:37.201417",
     "title": "Amy Hansen receives Fulbright U.S. Scholar Award for water research in Chile",
     "category": "semiconductor"
   },
   "https://news.ku.edu/news/article/judith-rosenbaum-andre-to-serve-as-next-dean-of-the-ku-school-of-journalism-mass-communications-ARTICLE-PWR1NC": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899665",
+    "fetch_time": "2026-05-08T06:41:37.201429",
     "title": "Judith Rosenbaum-Andre to serve as next dean of the KU School of Journalism & Mass Communications",
     "category": "education"
   },
   "https://news.ku.edu/news/article/ku-announces-new-2026-2027-self-memorial-scholars-ARTICLE-FQHAGY": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899677",
+    "fetch_time": "2026-05-08T06:41:37.201442",
     "title": "KU announces new 2026-2027 Self Memorial Scholars",
     "category": "education"
   },
   "https://news.ku.edu/news/article/douglas-county-cultural-institutions-partner-for-america-at-250-project-honoring-public-servants-ARTICLE-CBQC01-ARTICLE-CBQC01-ARTICLE-CBQC01-ARTICLE-CBQC01": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899690",
+    "fetch_time": "2026-05-08T06:41:37.201454",
     "title": "Douglas County cultural institutions partner for America at 250 project honoring public servants",
     "category": "ai"
   },
   "https://news.ku.edu/news/article/four-students-receive-kansas-biological-survey-student-research-awards-for-2026-ARTICLE-75ZET2": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899730",
+    "fetch_time": "2026-05-08T06:41:37.201466",
     "title": "Four students receive Kansas Biological Survey Student Research Awards for 2026",
     "category": "education"
   },
   "https://news.ku.edu/news/article/study-of-nonprofit-resilience-emphasizes-importance-of-weak-ties-ARTICLE-1TK8HF-ARTICLE-1TK8HF-ARTICLE-1TK8HF-ARTICLE-1TK8HF-ARTICLE-1TK8HF": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899787",
+    "fetch_time": "2026-05-08T06:41:37.201479",
     "title": "Study of nonprofit resilience emphasizes importance of broad-based ties",
     "category": "education"
   },
   "https://news.ku.edu/news/article/ku-students-earn-top-honors-at-2026-national-student-show-and-conference-ARTICLE-8C3BRA": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899801",
+    "fetch_time": "2026-05-08T06:41:37.201491",
     "title": "KU students earn top honors at 2026 National Student Show and Conference",
     "category": "education"
   },
   "https://news.ku.edu/news/article/information-for-news-media-covering-university-of-kansas-class-of-2026-commencement-ARTICLE-8BJ0T8-ARTICLE-8BJ0T8": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899814",
+    "fetch_time": "2026-05-08T06:41:37.201503",
     "title": "Information for news media covering University of Kansas Class of 2026 Commencement",
     "category": "education"
   },
   "https://news.ku.edu/news/article/marketing-expert-develops-framework-providing-retailers-strategies-for-organizing-around-ecosystems-ARTICLE-REHDXV-ARTICLE-REHDXV": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899826",
+    "fetch_time": "2026-05-08T06:41:37.201516",
     "title": "Marketing expert develops framework providing retailers strategies for organizing around ecosystems",
     "category": "education"
   },
   "https://news.ku.edu/news/article/ku-illustration-and-animation-students-earn-national-honors-from-society-of-illustrators-ARTICLE-YB92MN": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899839",
+    "fetch_time": "2026-05-08T06:41:37.201528",
     "title": "KU illustration and animation students earn national honors from Society of Illustrators",
     "category": "education"
   },
   "https://news.ku.edu/news/article/ku-international-affairs-awards-34-grants-for-research-and-collaboration-abroad-ARTICLE-22XMQ7-ARTICLE-22XMQ7-ARTICLE-22XMQ7-ARTICLE-22XMQ7": {
     "source": "ku_news",
-    "fetch_time": "2026-05-08T03:08:43.899852",
+    "fetch_time": "2026-05-08T06:41:37.201540",
     "title": "KU International Affairs awards grants for research and collaboration abroad",
-    "category": "education"
-  },
-  "https://www.mtu.edu/news/2026/05/in-the-skies-streets-and-stories-mtu-enterprise-program-continues-to-expand-after-26-years.html": {
-    "source": "mtu_news",
-    "fetch_time": "2026-05-08T03:08:44.322228",
-    "title": "In the Skies, Streets and Stories: MTU Enterprise Program Continues to Expand After 26 Years",
     "category": "education"
   },
   "https://engineering.washu.edu/news/2026/Boundaries-of-agricultural-fields-worldwide-now-publicly-available.html": {
     "source": "washu_engineering",
-    "fetch_time": "2026-05-08T03:08:44.542451",
+    "fetch_time": "2026-05-08T06:41:37.777279",
     "title": "Boundaries of agricultural fields worldwide now publicly available",
     "category": "ai"
   },
-  "https://www.acenet.edu/News-Room/Pages/Building-Pathways-Pennsylvania.aspx": {
-    "source": "ace",
-    "fetch_time": "2026-05-08T03:08:44.742833",
-    "title": "ACE’s Building Pathways Initiative Examines the Ecosystem of Economic Growth Through Higher Education in Pennsylvania",
-    "category": "education"
-  },
   "https://news.uchicago.edu/story/four-uchicago-undergraduates-awarded-2026-goldwater-scholarship": {
     "source": "uchicago_news",
-    "fetch_time": "2026-05-08T03:08:45.120793",
+    "fetch_time": "2026-05-08T06:41:38.081425",
     "title": "Four UChicago undergraduates awarded 2026 Goldwater Scholarship",
     "category": "semiconductor"
   },
   "https://news.uchicago.edu/story/edith-rickert-novelist-chaucer-scholar-and-wwi-code-breaker": {
     "source": "uchicago_news",
-    "fetch_time": "2026-05-08T03:08:45.120832",
+    "fetch_time": "2026-05-08T06:41:38.081458",
     "title": "Edith Rickert: Novelist, Chaucer scholar and WWI code breaker",
     "category": "semiconductor"
   },
   "https://news.uchicago.edu/story/what-thousand-years-economic-history-reveals-about-modern-growth": {
     "source": "uchicago_news",
-    "fetch_time": "2026-05-08T03:08:45.120846",
+    "fetch_time": "2026-05-08T06:41:38.081471",
     "title": "What a thousand years of economic history reveals about modern growth",
     "category": "semiconductor"
   },
   "https://news.uchicago.edu/story/deep-ice-antarctic-detectors-pick-incoming-cosmic-rays-outer-space": {
     "source": "uchicago_news",
-    "fetch_time": "2026-05-08T03:08:45.120859",
+    "fetch_time": "2026-05-08T06:41:38.081484",
     "title": "Deep in the ice, Antarctic detectors pick up incoming cosmic rays from outer space",
     "category": "semiconductor"
   },
-  "https://engineering.wisc.edu/news/badgers-take-first-and-second-place-at-national-cast-in-steel-competition/": {
-    "source": "uw_engineering",
-    "fetch_time": "2026-05-08T03:08:45.177823",
-    "title": "Badgers take first and second place at national Cast in Steel competition",
+  "https://www.acenet.edu/News-Room/Pages/Building-Pathways-Pennsylvania.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-05-08T06:41:38.504100",
+    "title": "ACE’s Building Pathways Initiative Examines the Ecosystem of Economic Growth Through Higher Education in Pennsylvania",
     "category": "education"
   },
-  "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/": {
-    "source": "whitehouse",
-    "fetch_time": "2026-05-08T03:08:45.363455",
-    "title": "National Physical Fitness and Sports Month, 2026",
-    "category": "semiconductor"
+  "https://polytechnic.purdue.edu/newsroom/eight-purdue-polytechnic-students-earn-golden-hammer-awards-indianapolis": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-08T06:41:38.770622",
+    "title": "Eight Purdue Polytechnic students earn Golden Hammer Awards in Indianapolis",
+    "category": "education"
   },
-  "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/": {
-    "source": "whitehouse",
-    "fetch_time": "2026-05-08T03:08:45.363518",
-    "title": "Savings from Most-Favored-Nation Drug Pricing Policy",
+  "https://polytechnic.purdue.edu/newsroom/engineering-technology-senior-capstone-projects-tech-expo-showcase-now-feature": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-08T06:41:38.770651",
+    "title": "Engineering Technology senior capstone projects, Tech Expo showcase now feature commercialization licenses",
     "category": "semiconductor"
   },
   "https://www.rand.org/pubs/research_reports/RRA4594-4.html": {
     "source": "rand",
-    "fetch_time": "2026-05-08T03:08:46.741499",
+    "fetch_time": "2026-05-08T06:41:38.830472",
     "title": "Reading Full Books in Secondary English Language Arts Classrooms: Findings from the Spring 2025 American Instructional Resources Survey",
     "category": "education"
   },
   "https://www.rand.org/pubs/working_papers/WRA4691-1.html": {
     "source": "rand",
-    "fetch_time": "2026-05-08T03:08:46.741587",
+    "fetch_time": "2026-05-08T06:41:38.830513",
     "title": "School-Level Poverty in Education Survey Research: Can Free or Reduced-Price Lunch Be Substituted as a Weighting Variable by Other, More Reliable Measures?",
     "category": "education"
+  },
+  "https://engineering.wisc.edu/news/badgers-take-first-and-second-place-at-national-cast-in-steel-competition/": {
+    "source": "uw_engineering",
+    "fetch_time": "2026-05-08T06:41:38.899928",
+    "title": "Badgers take first and second place at national Cast in Steel competition",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-08T06:41:38.924552",
+    "title": "Victory Day for World War II, 2026",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/national-physical-fitness-and-sports-month-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-08T06:41:38.924590",
+    "title": "National Physical Fitness and Sports Month, 2026",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/research/2026/05/savings-from-most-favored-nation-drug-pricing-policy/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-08T06:41:38.924603",
+    "title": "Savings from Most-Favored-Nation Drug Pricing Policy",
+    "category": "semiconductor"
   }
 }

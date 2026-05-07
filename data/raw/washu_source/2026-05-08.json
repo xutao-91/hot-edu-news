@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-08T03:08:32.526319",
-  "total_news": 2,
+  "crawled_at": "2026-05-08T06:41:26.041311",
+  "total_news": 3,
   "news": [
+    {
+      "title": "New initiative launches to save primates, transform global conservation approaches",
+      "url": "https://source.washu.edu/2026/05/new-initiative-launches-to-save-primates-transform-global-conservation-approaches/",
+      "date": "2026-05-07",
+      "type": "Climate & Environment",
+      "summary_en": "A $1.5 million pledge from Distinguished Trustee Andy Newman for the Living Earth Collaborative will support critically endangered primates. The new project aims to transform how biodiversity is documented, modeled and protected worldwide.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "People with poor mental health report worse care worldwide",
       "url": "https://source.washu.edu/2026/05/people-with-poor-mental-health-report-worse-care-worldwide/",

@@ -1,7 +1,26 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-05-08T03:08:41.902586",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-08T06:41:38.588004",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Eight Purdue Polytechnic students earn Golden Hammer Awards in Indianapolis",
+      "url": "https://polytechnic.purdue.edu/newsroom/eight-purdue-polytechnic-students-earn-golden-hammer-awards-indianapolis",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Engineering Technology senior capstone projects, Tech Expo showcase now feature commercialization licenses",
+      "url": "https://polytechnic.purdue.edu/newsroom/engineering-technology-senior-capstone-projects-tech-expo-showcase-now-feature",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
 }

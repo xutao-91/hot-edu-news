@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-08T03:08:45.196219",
-  "total_news": 6,
+  "crawled_at": "2026-05-08T06:41:38.772293",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Military Spouse Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
+      "date": "May 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Victory Day for World War II, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/",
+      "date": "May 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on National Day of Prayer",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",

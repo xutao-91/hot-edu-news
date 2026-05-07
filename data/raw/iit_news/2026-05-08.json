@@ -1,9 +1,54 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-05-08T03:08:29.821085",
-  "total_news": 3,
+  "crawled_at": "2026-05-08T06:41:23.407019",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Trial by Fire",
+      "url": "https://www.iit.edu/news/trial-fire",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "“I took advantage of every opportunity I could, but none of it would have been possible without the support of faculty, classmates, and of course, my family,” says Serena Napolitano (LAW ’26) As a...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Research on the Cyber Battlefield",
+      "url": "https://www.iit.edu/news/research-cyber-battlefield",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Abdul Hadi Khan (M.A.S. CYF ’26) discovered a passion for cybersecurity research while working side-by-side with Illinois Tech faculty and students, and how it can bolster the United States’s national...",
+      "source": "IIT News",
+      "category": "research"
+    },
+    {
+      "title": "Creating Cultural Practice Through Architecture",
+      "url": "https://www.iit.edu/news/creating-cultural-practice-through-architecture",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Julian Stanfield had the chance to travel to and evaluate numerous cities—their history, systemic policies, people, and energy—before joining the College of Architecture’s Master of Landscape...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Difficult and Defining: Balancing Athletics, Academics, and an Internship",
+      "url": "https://www.iit.edu/news/difficult-and-defining-balancing-athletics-academics-and-internship",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "“Volleyball opened the door, but I did my homework before stepping through it,” says Victoria Vann (B.S.B.A./M.B.A Business Analytics ’26). Recruited from a small town in Texas for the Illinois Tech...",
+      "source": "IIT News",
+      "category": "academic"
+    },
+    {
+      "title": "Asking Questions for Social Impact",
+      "url": "https://www.iit.edu/news/asking-questions-social-impact",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "While working at a business consulting firm serving the health care and public service sectors straight out of her undergraduate degree program, Rhea Shah (MDes ’25) realized that when tackling her...",
+      "source": "IIT News",
+      "category": "general"
+    },
     {
       "title": "Third Successful Implantation of Wireless Visual Prosthesis Brain Implant Continues to Redefine Possibilities",
       "url": "https://www.iit.edu/news/third-successful-implantation-wireless-visual-prosthesis-brain-implant-continues-redefine",

@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-08T03:08:33.631157",
-  "total_news": 13,
+  "crawled_at": "2026-05-08T06:41:26.403316",
+  "total_news": 14,
   "news": [
+    {
+      "title": "Nebraska U to award record 3,800-plus degrees May 8-9",
+      "url": "https://news.unl.edu/article/nebraska-u-to-award-record-3800-plus-degrees-may-8-9",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Kauth-Fisher, Hadaway hang up uniforms after years as school mascots",
       "url": "https://news.unl.edu/article/kauth-fisher-hadaway-hang-up-uniforms-after-years-as-school-mascots",

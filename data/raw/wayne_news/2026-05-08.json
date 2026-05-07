@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-08T03:08:31.893900",
-  "total_news": 3,
+  "crawled_at": "2026-05-08T06:41:26.503954",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Historic finishes for WSU Speech team; Debate earns second straight championship",
+      "url": "https://comm.wayne.edu/news/historic-finishes-for-wayne-state-university-speech-team-debate-earns-second-straight-championship-69030",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
     {
       "title": "Wayne State expands open research access through Dryad pilot program",
       "url": "https://today.wayne.edu/news/2026/05/07/wayne-state-expands-open-research-access-through-dryad-pilot-program-69031",
