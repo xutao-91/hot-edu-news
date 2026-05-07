@@ -1,0 +1,35 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-05-07T11:17:15.508588",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "reSPARC to enter implementation phase of revenue, efficiency initiatives",
+      "url": "/news/2026/05/resparc-enter-implementation-phase-revenue-efficiency-initiatives",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "The University of Iowa is advancing its reSPARC initiative into a new phase focused on implementation, building on nearly a year of cross-campus collaboration to strengthen the university’s financial future.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Times and dates for spring 2026 commencement",
+      "url": "/news/2026/05/times-and-dates-spring-2026-commencement",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "This spring, more than 6,100 University of Iowa students will receive their degrees during commencement ceremonies, beginning with the College of Pharmacy’s Doctor of Pharmacy ceremony on May 14 and concluding with the College of Dentistry ceremony on June 5.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa alumni win 2026 Pulitzer Prizes for memoir, fiction",
+      "url": "/news/2026/05/iowa-alumni-win-2026-pulitzer-prizes-memoir-fiction",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "Two University of Iowa alumni have won 2026 Pulitzer Prizes, and two more were named finalists — with Yiyun Li and Daniel Kraus joining a distinguished list of more than 40 Iowa-affiliated Pulitzer winners.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

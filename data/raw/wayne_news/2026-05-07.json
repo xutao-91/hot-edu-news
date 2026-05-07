@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-07T11:17:13.789582",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Wayne State University professor to receive 2026 Scientific Award of Distinction from the American Federation for Aging Research",
+      "url": "https://research.wayne.edu/news/wayne-state-university-professor-to-receive-2026-scientific-award-of-distinction-from-the-american-federation-for-aging-research-69024",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "Academic Recognition Ceremony celebrates faculty and staff excellence",
+      "url": "https://today.wayne.edu/news/2026/05/04/wayne-state-universitys-academic-recognition-ceremony-celebrates-faculty-and-staff-excellence-68994",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State showcases statewide impact at Advocacy Day",
+      "url": "https://today.wayne.edu/news/2026/05/04/wayne-state-showcases-statewide-impact-at-advocacy-day-68997",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "MEDIA ADVISORY: Wayne State University commencement ceremonies honor the class of 2026",
+      "url": "https://today.wayne.edu/news/2026/05/04/media-advisory-wayne-state-university-commencement-ceremonies-honor-the-class-of-2026-68999",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

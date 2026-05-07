@@ -1,0 +1,26 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-05-07T11:17:24.957547",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "In the Skies, Streets and Stories: MTU Enterprise Program Continues to Expand After 26 Years",
+      "url": "https://www.mtu.edu/news/2026/05/in-the-skies-streets-and-stories-mtu-enterprise-program-continues-to-expand-after-26-years.html",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Rooted in discovery-based learning for 26 years, Michigan Tech's Enterprise Program continues to grow, offering new aerospace, data science and publishing teams with a fresh take on interdisciplinary teamwork to produce measurable results for real clients.  On a campus where  . . .",
+      "source": "MTU News",
+      "category": "general"
+    },
+    {
+      "title": "Mile by Mile: Recycled Rubber Asphalt Road Research Makes Michigan More Resilient",
+      "url": "https://www.mtu.edu/unscripted/2026/04/mile-by-mile-recycled-rubber-asphalt-road-research-makes-michigan-more-resilient.html",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "More than 10 million scrap tires are produced annually in Michigan alone. Michigan Tech researcher Zhanping You is recycling those tires and turning them into new, more durable roads across the state, expanding the field of sustainable infrastructure.  When Zhanping  . . .",
+      "source": "MTU News",
+      "category": "research"
+    }
+  ]
+}

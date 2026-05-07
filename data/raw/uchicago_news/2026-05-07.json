@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-07T11:17:26.200596",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Edith Rickert: Novelist, Chaucer scholar and WWI code breaker",
+      "url": "https://news.uchicago.edu/story/edith-rickert-novelist-chaucer-scholar-and-wwi-code-breaker",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "New biography of UChicago professor and alumna shines light on her contributions to cryptography and medieval scholarship",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What a thousand years of economic history reveals about modern growth",
+      "url": "https://news.uchicago.edu/story/what-thousand-years-economic-history-reveals-about-modern-growth",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Nobel laureates James Robinson, Joel Mokyr explored origins of the modern economy with Harris and Booth colleagues at recent Stone Center panel",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Deep in the ice, Antarctic detectors pick up incoming cosmic rays from outer space",
+      "url": "https://news.uchicago.edu/story/deep-ice-antarctic-detectors-pick-incoming-cosmic-rays-outer-space",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Detection by Askaryan Radio Array holds promise for future research into sources, nature of cosmic rays and neutrinos",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "A conductor's 50-year crescendo at UChicago",
+      "url": "https://news.uchicago.edu/story/conductors-50-year-crescendo-uchicago",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Barbara Schubert has shaped generations of University Symphony Orchestra musicians—now they're returning to play for her Opus 50 celebration",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago announces 2026 Diversity Leadership Award recipients",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-2026-diversity-leadership-award-recipients",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "250 Years into America as “The Great Experiment”",
+      "url": "https://news.uchicago.edu/250-years-america-great-experiment",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago student goes behind the lens at the White House",
+      "url": "https://news.uchicago.edu/story/uchicago-student-goes-behind-lens-white-house",
+      "date": "2026-05-04",
+      "type": "News",
+      "summary_en": "Third-year photojournalist Nathaniel Rodwell-Simon spent spring break capturing moments with the press pool",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

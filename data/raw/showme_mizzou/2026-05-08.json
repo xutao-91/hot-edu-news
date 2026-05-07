@@ -1,0 +1,89 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-08T00:23:07.040774",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Inspired by the brain, Mizzou researchers build smarter, more efficient computer hardware",
+      "url": "https://showme.missouri.edu/2026/inspired-by-the-brain-mizzou-researchers-build-smarter-more-efficient-computer-hardware/",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "A University of Missouri study shows that small material changes can boost brain-like computing, which could one day help make artificial intelligence more energy-efficient.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Photo gallery: 2026 Faculty Excellence Week celebrates teaching, research, service",
+      "url": "https://showme.missouri.edu/2026/photo-gallery-2026-faculty-excellence-week-celebrates-teaching-research-service/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Media Advisory: Mizzou hosts President’s Distinguished Lecture, groundbreaking ceremony for Radioisotope Science Center",
+      "url": "https://showme.missouri.edu/2026/media-advisory-mizzou-hosts-presidents-distinguished-lecture-groundbreaking-ceremony-for-radioisotope-science-center/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Members of the media may register to attend one or both.",
+      "source": "Show Me Mizzou",
+      "category": "science"
+    },
+    {
+      "title": "A University of Missouri and B&B Theatres production: STEM Cinema",
+      "url": "https://showme.missouri.edu/2026/a-university-of-missouri-and-bb-theatres-production-stem-cinema/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Mizzou partnered with the theater chain to tap into faculty expertise and student creativity to produce educational intros to family-friendly films.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "A legacy of growth: Dean Kristofer Hagglund reflects on 25 years with College of Health Sciences",
+      "url": "https://showme.missouri.edu/2026/a-legacy-of-growth-dean-kristofer-hagglund-reflects-on-25-years-with-college-of-health-sciences/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Retirement reception will begin at 4 p.m. on May 19 at Clark Hall.",
+      "source": "Show Me Mizzou",
+      "category": "science"
+    },
+    {
+      "title": "A look at Mizzou’s 2025 published authors",
+      "url": "https://showme.missouri.edu/2026/a-look-at-mizzous-2025-published-authors/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Less water, same taste: New approach helps growers produce sweet corn more efficiently",
+      "url": "https://showme.missouri.edu/2026/less-water-same-taste-new-approach-helps-growers-produce-sweet-corn-more-efficiently/",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "University of Missouri researchers find farmers can cut back on water without losing crop quality.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Meet a Mizzou Law student ambassador",
+      "url": "https://showme.missouri.edu/2026/meet-a-mizzou-law-student-ambassador/",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "As a law school ambassador, Elly Lang DeVeney helps incoming students build connections, find community and feel at home.",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Mizzou veterinarian helps decode animal health",
+      "url": "https://showme.missouri.edu/2026/mizzou-veterinarian-helps-decode-animal-health/",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "Lauren Delaney serves as the bridge between veterinarians and the expertise of Mizzou’s Veterinary Medical Diagnostic Laboratory, helping solve complex cases and protect animal health across Missouri and beyond.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

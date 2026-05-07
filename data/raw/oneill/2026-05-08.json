@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-05-08T00:23:11.434506",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "O'Neill School establishes Jumper Fellowship to support future leaders in international affairs",
+      "url": "https://oneill.indiana.edu/news/2026-0507-jumper-fellowship.html",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "O’Neill School establishes the Dr. Roy and Mary Ruth Jumper Fellowship to support MIA students and honor a legacy of public service and international affairs.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "O'Neill School recognizes 2026 Alumni Award winners",
+      "url": "https://oneill.indiana.edu/news/2026-0505-alumni-award-winners.html",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "O’Neill School announces 2026 Alumni Award winners, honoring graduates for leadership and impact in public service, education, and national defense.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

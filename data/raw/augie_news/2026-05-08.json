@@ -1,0 +1,26 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-05-08T00:23:06.827820",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Augustana Art Department Bestows Spitznagel Medal for Achievement to Three Graduating Artists",
+      "url": "https://www.augie.edu/news/2026/augustana-art-department-bestows-spitznagel-medal-achievement-three-graduating-artists",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "The Augustana University Art Department has presented its highest award — the Harold Spitznagel Medal for Achievement in Art — to three graduating Augustana students during the opening reception of “The Augustana Senior Show” at the Eide/Dalrymple Gallery on Friday, May 1. This marks only the second time that three individuals have been honored with the award in one year.",
+      "source": "Augustana News",
+      "category": "general"
+    },
+    {
+      "title": "Augustana University Student Named 2026 Truman Scholar",
+      "url": "https://www.augie.edu/news/2026/augustana-university-student-named-2026-truman-scholar",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Augustana University student Jessalyn Wienk ‘27 is one of 55 college students nationwide to receive the 2026 Truman Scholar Award. Wienk is the 11th Augustana student to win the award in Augustana’s history and the first honored since 2020.",
+      "source": "Augustana News",
+      "category": "students"
+    }
+  ]
+}

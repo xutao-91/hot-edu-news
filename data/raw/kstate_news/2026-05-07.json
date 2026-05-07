@@ -1,51 +1,24 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-05-07T12:45:44.352473",
+  "crawled_at": "2026-05-07T11:17:10.115852",
   "total_news": 10,
   "news": [
     {
-      "title": "K-State announces microcredential programs funded through Academic Innovation Fund",
-      "url": "https://www.k-state.edu/news/articles/2026/05/academic-innovation-fund-microcredential-workforce-skills.html",
-      "date": "2026-05-06",
+      "title": "The science of spring burning",
+      "url": "https://www.k-state.edu/news/articles/2026/05/prescribed-burning-flint-hills-cattle-grassland-management.html",
+      "date": "2026-05-07",
       "type": "News",
-      "summary_en": "Through its Academic Innovation Fund, K-State is developing nine new microcredentials — short, skills-based programs designed to meet workforce needs and expand access to high-impact...",
+      "summary_en": "Prescribed burns may look dramatic, but they're a critical tool for Flint Hills ranchers working to sustain grasslands and improve cattle grazing.",
       "source": "K-State News",
       "category": "general"
     },
     {
-      "title": "Navigate summer improvements",
-      "url": "https://www.k-state.edu/news/articles/2026/05/summer-construction-updates-manhattan-campus.html",
-      "date": "2026-05-06",
+      "title": "Back-to-back national rocketry champs",
+      "url": "https://www.k-state.edu/news/articles/2026/05/wildcat-rocketry-argonia-cup-champions.html",
+      "date": "2026-05-07",
       "type": "News",
-      "summary_en": "Summer is a busy season for construction and maintenance across the Manhattan campus, and several projects will be underway to improve campus spaces.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Plan ahead for a peaceful and productive summer",
-      "url": "https://www.k-state.edu/news/articles/2026/05/every-summer-needs-a-plan-faculty-workshop.html",
-      "date": "2026-05-06",
-      "type": "News",
-      "summary_en": "The New Faculty Institute will host Every Summer Needs a Plan to help faculty make the most of the summer months. The session will be from 8:30-9:20 a.m. on Thursday, May 7, in the...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Elevating K-State impact",
-      "url": "https://www.k-state.edu/news/articles/2026/05/wildcat-scholar-research-hub.html",
-      "date": "2026-05-06",
-      "type": "News",
-      "summary_en": "One of Wildcat Scholar's core components, Symplectic Elements, is now live. The system brings all next-gen land-grant work happening across campus into a connected, organized system...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "No Y in fungi",
-      "url": "https://www.k-state.edu/news/articles/2026/05/mushroom-bois-fungi-lab.html",
-      "date": "2026-05-06",
-      "type": "News",
-      "summary_en": "Ari Jumpponen, a University Distinguished Professor at Kansas State University, studies fungi and their vital roles in ecosystems.Through hands-on learning, students work alongside...",
+      "summary_en": "The Wildcat Rocketry team took home gold for the second consecutive year at the Argonia Cup, a national collegiate rocketry competition that hosts teams from all over the country.",
       "source": "K-State News",
       "category": "general"
     },
@@ -59,6 +32,24 @@
       "category": "general"
     },
     {
+      "title": "No Y in fungi",
+      "url": "https://www.k-state.edu/news/articles/2026/05/mushroom-bois-fungi-lab.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Ari Jumpponen, a University Distinguished Professor at Kansas State University, studies fungi and their vital roles in ecosystems.Through hands-on learning, students work alongside...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Navigate summer improvements",
+      "url": "https://www.k-state.edu/news/articles/2026/05/summer-construction-updates-manhattan-campus.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Summer is a busy season for construction and maintenance across the Manhattan campus, and several projects will be underway to improve campus spaces.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
       "title": "May’s Water Wednesday to showcase student research and future water leaders",
       "url": "https://www.k-state.edu/news/articles/2026/05/student-led-water-research-water-wednesday.html",
       "date": "2026-05-06",
@@ -68,29 +59,38 @@
       "category": "research"
     },
     {
+      "title": "Elevating K-State impact",
+      "url": "https://www.k-state.edu/news/articles/2026/05/wildcat-scholar-research-hub.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "One of Wildcat Scholar's core components, Symplectic Elements, is now live. The system brings all next-gen land-grant work happening across campus into a connected, organized system...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State announces microcredential programs funded through Academic Innovation Fund",
+      "url": "https://www.k-state.edu/news/articles/2026/05/academic-innovation-fund-microcredential-workforce-skills.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Through its Academic Innovation Fund, K-State is developing nine new microcredentials — short, skills-based programs designed to meet workforce needs and expand access to high-impact...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Plan ahead for a peaceful and productive summer",
+      "url": "https://www.k-state.edu/news/articles/2026/05/every-summer-needs-a-plan-faculty-workshop.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "The New Faculty Institute will host Every Summer Needs a Plan to help faculty make the most of the summer months. The session will be from 8:30-9:20 a.m. on Thursday, May 7, in the...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
       "title": "Commencement ceremonies celebrate Wildcat success",
       "url": "https://www.k-state.edu/news/articles/2026/05/spring-commencement-ceremonies.html",
       "date": "2026-05-05",
       "type": "News",
       "summary_en": "K-State will award more than 3,300 degrees and welcome students into its ranks of alumni at commencement ceremonies set for Saturday, May 9, at the Salina campus and Friday, May 15,...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Small talk, big impact",
-      "url": "https://www.k-state.edu/news/articles/2026/05/sarah-fenn-women-heart-health-risk-prevention.html",
-      "date": "2026-05-04",
-      "type": "News",
-      "summary_en": "Sarah Fenn, master's student in kinesiology, is developing a toolbox that doctors can use in speaking with women and helping them reduce their risk for major heart disease.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "From the groundwater up",
-      "url": "https://www.k-state.edu/news/articles/2026/05/economic-stakes-equus-beds-chloride-plume.html",
-      "date": "2026-05-04",
-      "type": "News",
-      "summary_en": "Kansas State University researchers are taking a closer look at how groundwater quality could shape the future of agriculture in south-central Kansas.",
       "source": "K-State News",
       "category": "general"
     }

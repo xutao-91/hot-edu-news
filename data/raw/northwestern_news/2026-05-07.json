@@ -1,0 +1,35 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-07T11:17:24.514166",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Five top scholars receive the 2026 Nemmers Prize",
+      "url": "https://news.northwestern.edu/stories/2026/05/five-top-scholars-receive-the-2026-nemmers-prize",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Creating life-changing opportunities for Northwestern students",
+      "url": "https://news.northwestern.edu/stories/2026/05/creating-life-changing-opportunities-for-northwestern-students",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "students"
+    },
+    {
+      "title": "Northwestern launches Forever Shine Campaign for scholarships",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-launches-forever-shine-campaign-for-scholarships",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-05-08T00:23:03.848041",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "‘Atomic snapshots’ of proofreading enzyme could lead to better COVID-19 drugs",
+      "url": "https://www.news.iastate.edu/news/atomic-snapshots-proofreading-enzyme-could-lead-better-covid-19-drugs",
+      "date": "2026-05-06",
+      "type": "Science and Technology",
+      "summary_en": "An Iowa State University scientist used images from a cryogenic electron microscope to better understand why a common type of antiviral drug struggles to fight off the virus that causes COVID-19, findings that will guide designs for more effective treatment.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Innovation at Work: 2026 By the Numbers",
+      "url": "https://www.news.iastate.edu/news/innovation-work-2026-numbers",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "Iowa State's entrepreneurial spirit has spread across campus and the state helping launch new startups, grow small businesses and develop a future workforce. The numbers illustrate the impact of this work.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

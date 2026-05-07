@@ -1,15 +1,24 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-05-07T12:45:34.006395",
-  "total_news": 3,
+  "crawled_at": "2026-05-07T11:17:11.974759",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Third Successful Implantation of Wireless Visual Prosthesis Brain Implant Continues to Redefine Possibilities",
+      "url": "https://www.iit.edu/news/third-successful-implantation-wireless-visual-prosthesis-brain-implant-continues-redefine",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "In a major milestone for the field of neurotechnology, the Intracortical Visual Prosthesis (ICVP), a revolutionary wireless brain implant that bypasses the retina and optic nerves to connect directly...",
+      "source": "IIT News",
+      "category": "general"
+    },
     {
       "title": "Third Successful Implantation of Wireless Visual Prosthesis Brain Implant Advances the Frontier of Artificial Vision",
       "url": "https://www.iit.edu/news/third-successful-implantation-wireless-visual-prosthesis-brain-implant-advances-frontier-artificial",
       "date": "2026-05-07",
       "type": "News",
-      "summary_en": "CHICAGO—April 30, 2026—In a major milestone for the field of neurotechnology, the Intracortical Visual Prosthesis (ICVP), a revolutionary wireless brain implant that bypasses the retina and optic...",
+      "summary_en": "CHICAGO—May 7, 2026—In a major milestone for the field of neurotechnology, the Intracortical Visual Prosthesis (ICVP), a revolutionary wireless brain implant that bypasses the retina and optic nerves...",
       "source": "IIT News",
       "category": "general"
     },

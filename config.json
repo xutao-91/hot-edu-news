@@ -10,7 +10,8 @@
         "crawlers_dir": "sources",
         "url_cache_file": "data/cache/url_cache.json",
         "translation_db_file": "data/cache/translation_db.json",
-        "processed_articles_file": "data/cache/processed_articles.json"
+        "processed_articles_file": "data/cache/processed_articles.json",
+        "database_file": "data/news.db"
     },
     "translation": {
         "api_key_env": "TRANSLATE_API_KEY",
@@ -20,5 +21,24 @@
     "html": {
         "output_dir": "public",
         "template_file": "templates/index.html"
+    },
+    "alert": {
+        "enabled": true,
+        "alert_interval": 300,
+        "wecom": {
+            "webhook_url": ""
+        },
+        "email": {
+            "smtp_server": "smtp.163.com",
+            "smtp_port": 465,
+            "smtp_user": "",
+            "smtp_password": "",
+            "to_email": ""
+        }
+    },
+    "backup": {
+        "enabled": true,
+        "backup_dir": "data/backups",
+        "retention_days": 30
     }
 }

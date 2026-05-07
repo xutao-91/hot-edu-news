@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-05-07T11:17:08.403152",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SLU Political Science Major Appointed to New Aspen Institute Advisory Group",
+      "url": "https://www.slu.edu/news/2026/may/faith-townsell-aspen-insitute-group.php",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Saint Louis University political science major Faith Townsell has been appointed to the Aspen Institute's Rising Generations Strategy Group, a national advisory body within the Institute's Education & Society Program. Rising Generations Strategy Group is a new initiative designed to shape a bold, shared vision for the future of American education.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

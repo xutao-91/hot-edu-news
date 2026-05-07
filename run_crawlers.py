@@ -64,12 +64,27 @@ def run_crawler(crawler_path):
             print(f"❌ {source_name} 抓取失败: {result.stderr}")
             return source_name, []
         
-        # 解析爬虫输出的JSON结果
-        try:
-            articles = json.loads(result.stdout)
-        except json.JSONDecodeError as e:
-            print(f"❌ {source_name} 输出解析失败: {str(e)}")
-            return source_name, []
+        # 直接读取爬虫保存的今日文件
+        today = datetime.now().strftime('%Y-%m-%d')
+        source_dir = os.path.join(RAW_DATA_DIR, source_name)
+        articles = []
+        if os.path.exists(source_dir):
+            for filename in os.listdir(source_dir):
+                if filename.startswith(today) and filename.endswith('.json'):
+                    file_path = os.path.join(source_dir, filename)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            # 确保是列表格式
+                            if isinstance(data, list):
+                                articles = data
+                            elif isinstance(data, dict) and 'articles' in data and isinstance(data['articles'], list):
+                                articles = data['articles']
+                            else:
+                                print(f"⚠️  {source_name} 文件 {filename} 格式不正确，跳过")
+                    except Exception as e:
+                        print(f"⚠️  读取 {source_name} 结果失败: {str(e)}")
+                        return source_name, []
         
         # 过滤已抓取过的URL
         existing_urls = load_existing_urls(source_name)
@@ -79,16 +94,7 @@ def run_crawler(crawler_path):
             print(f"✅ {source_name} 没有新内容")
             return source_name, []
         
-        # 保存新抓取的内容
-        today = datetime.now().strftime('%Y-%m-%d')
-        output_dir = os.path.join(RAW_DATA_DIR, source_name)
-        os.makedirs(output_dir, exist_ok=True)
-        output_file = os.path.join(output_dir, f"{today}_{len(new_articles)}.json")
-        
-        with open(output_file, 'w', encoding='utf-8') as f:
-            json.dump(new_articles, f, ensure_ascii=False, indent=2)
-        
-        # 更新URL缓存
+        print(f"✅ {source_name} 抓取完成，新增 {len(new_articles)} 篇文章")
         for article in new_articles:
             if 'url' in article:
                 url_cache[article['url']] = {

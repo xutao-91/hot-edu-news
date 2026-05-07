@@ -1,0 +1,44 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-05-08T00:22:56.592530",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Martin Soros selected as valedictorian; Allison Elshoff named salutatorian for the Class of 2026",
+      "url": "https://news.nd.edu/news/martin-soros-selected-as-valedictorian-allison-elshoff-named-salutatorian-for-the-class-of-2026/",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Junior Veronica Bofah named 2026 Key into Public Service Scholar",
+      "url": "https://news.nd.edu/news/junior-veronica-bofah-named-2026-key-into-public-service-scholar/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "In Memoriam: G. Robert Blakey, the William J. and Dorothy K. O’Neill Professor of Law Emeritus, Notre Dame Law School",
+      "url": "https://news.nd.edu/news/in-memoriam-g-robert-blakey-william-j-and-dorothy-k-oneill-professor-of-law-emeritus-notre-dame-law-school/",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "academic"
+    },
+    {
+      "title": "Notre Dame elects new University Trustees, Fellows",
+      "url": "https://news.nd.edu/news/notre-dame-elects-new-university-trustees-fellows/",
+      "date": "2026-05-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}
