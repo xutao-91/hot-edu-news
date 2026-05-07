@@ -1,13 +1,18 @@
 #!/usr/bin/env python3
 """
-自动生成展示页面 - 表格布局
-表头：日期 | 分类 | 来源 | 标题 | 摘要
-标题直接链接到原文
+自动生成展示页面 + RSS订阅源
+功能：
+- 现代化响应式页面
+- 全文搜索
+- 按来源/分类/日期筛选
+- 分页显示
+- RSS订阅
 """
 import json
 import os
 import sys
 from datetime import datetime, timedelta
+from email.utils import formatdate
 
 # 加载配置
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
@@ -16,6 +21,50 @@ with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
 
 TRANSLATED_DIR = config['paths']['translated_dir']
 OUTPUT_DIR = config['html']['output_dir']
+
+
+def render_template(template_name, context):
+    """简单的模板渲染函数，支持{{变量}}和{% for %}循环"""
+    template_path = os.path.join(os.path.dirname(__file__), 'templates', template_name)
+    with open(template_path, 'r', encoding='utf-8') as f:
+        template = f.read()
+    
+    # 处理for循环 {% for item in list %} ... {% endfor %}
+    import re
+    for_pattern = re.compile(r'{% for (.*?) in (.*?) %}(.*?){% endfor %}', re.DOTALL)
+    while True:
+        match = for_pattern.search(template)
+        if not match:
+            break
+        var_name, list_name, content = match.groups()
+        list_data = context.get(list_name.strip(), [])
+        rendered = ''
+        for item in list_data:
+            item_context = context.copy()
+            item_context[var_name.strip()] = item
+            # 渲染循环内部的变量
+            loop_content = content
+            # 处理变量 {{ var }}
+            var_pattern = re.compile(r'{{\s*(.*?)\s*}}')
+            def replace_var(m):
+                key = m.group(1).strip()
+                if '.' in key:
+                    # 处理属性访问 a.b
+                    obj, attr = key.split('.', 1)
+                    return str(item_context.get(obj, {}).get(attr, ''))
+                return str(item_context.get(key, ''))
+            loop_content = var_pattern.sub(replace_var, loop_content)
+            rendered += loop_content
+        template = template[:match.start()] + rendered + template[match.end():]
+    
+    # 处理剩余的变量
+    var_pattern = re.compile(r'{{\s*(.*?)\s*}}')
+    def replace_var(m):
+        key = m.group(1).strip()
+        return str(context.get(key, ''))
+    template = var_pattern.sub(replace_var, template)
+    
+    return template
 
 
 def get_all_translated_articles():

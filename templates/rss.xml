@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>热点教育信息</title>
+    <link>https://xutao-91.github.io/hot-edu-news/</link>
+    <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
+    <language>zh-CN</language>
+    <lastBuildDate>{{ build_date }}</lastBuildDate>
+    <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
+    
+    {% for article in articles %}
+    <item>
+        <title>{{ article.title }}</title>
+        <link>{{ article.url }}</link>
+        <description>{{ article.summary }}</description>
+        <pubDate>{{ article.pub_date }}</pubDate>
+        <guid isPermaLink="true">{{ article.url }}</guid>
+        <category>{{ article.category }}</category>
+        <source>{{ article.source_name }}</source>
+    </item>
+    {% endfor %}
+</channel>
+</rss>
