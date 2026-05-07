@@ -5,7 +5,7 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 07 May 2026 22:42:56 -0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 22:45:14 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
@@ -275,6 +275,22 @@
         <guid isPermaLink="true">https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/</guid>
         <category>Briefings & Statements</category>
         <source>The White House</source>
+    </item>
+    
+    <item>
+        <title>美国教育部对洛杉矶联合学区启动《教育修正案第九条》调查</title>
+        <link>https://www.ed.gov/about/news/press-release/us-department-of-education-opens-title-ix-investigation-los-angeles-unified-school-district</link>
+        <description>2026年5月5日，美国教育部民权办公室宣布对洛杉矶联合学区启动定向调查。
+
+本次调查针对洛杉矶联合学区相关政策展开，该政策规定被指控对学生实施性不当行为（包括具有剥削性质的“恋爱关系”）的教师将被自动调派至其他学校。民权办公室将核查该学区针对教师、行政人员及其他教职人员的性骚扰、性侵犯相关指控的处置方式，是否违反1972年《教育修正案第九条》相关规定。
+
+上述政策由洛杉矶联合学区与教师工会的协议确定，协议明确当教师受到以下可信指控时，官方调查期间教师将被调岗，而非被解雇或立即调离面向学生的岗位，涉及的指控情形包括：对学生实施性骚扰、出于性兴趣与学生开展不当互动、与学生或其他未成年人保持性或恋爱关系、制作售卖或使用儿童色情制品、与学生发生不必要肢体接触、未上报疑似虐童行为。
+
+美国教育部民权事务助理部长金伯利·里奇表示，《教育修正案第九条》要求学校及时妥当回应处置性不当行为相关诉求，该学区此举似乎将性侵害实施者的持续就业置于学生安全之上，无视第九条程序要求保护对学生造成终身伤害的教师的行为不合情理，特朗普政府将始终维护法律，保护全体学生安全，恢复校园常识。</description>
+        <pubDate>Tue, 05 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-opens-title-ix-investigation-los-angeles-unified-school-district</guid>
+        <category>民权</category>
+        <source>U.S. Department of Education</source>
     </item>
     
 </channel>
