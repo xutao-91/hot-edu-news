@@ -125,6 +125,10 @@ def main():
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     articles = json.load(f)
+                # 检查数据格式是否正确
+                if not isinstance(articles, list):
+                    print(f"⚠️  文件 {file_path} 格式错误，不是文章列表")
+                    continue
             except Exception as e:
                 print(f"⚠️  读取文件 {file_path} 失败: {str(e)}")
                 continue

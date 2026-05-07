@@ -3,6 +3,7 @@ import os
 import json
 import subprocess
 import concurrent.futures
+import sys
 from pathlib import Path
 from datetime import datetime, timedelta
 
@@ -53,7 +54,7 @@ def run_crawler(crawler_path):
     try:
         # 执行爬虫脚本，传入抓取天数参数
         result = subprocess.run(
-            ['python3', crawler_path, str(DAYS_TO_FETCH)],
+            [sys.executable, crawler_path, str(DAYS_TO_FETCH)],
             capture_output=True,
             text=True,
             timeout=config['crawler']['timeout']
