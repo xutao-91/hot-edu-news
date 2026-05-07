@@ -274,7 +274,7 @@ def generate_html():
     
     # 只保留最近4天的文章
     today = datetime.now()
-    cutoff = today - timedelta(days=4)
+    cutoff = today - timedelta(days=1)
     cutoff_date = cutoff.strftime('%Y-%m-%d')
     all_articles = [a for a in all_articles if a['_sort_date'] >= cutoff_date]
     
