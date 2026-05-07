@@ -151,6 +151,15 @@ def get_display_date_short(date_str):
 def get_category_name(category):
     """分类英文转中文"""
     category_map = {
+        'education': '教育政策',
+        'quantum': '量子科技',
+        'ai': '人工智能',
+        'biomanufacturing': '生物制造',
+        'space': '星际航空',
+        'bci': '脑机接口',
+        'semiconductor': '集成电路',
+        'diplomacy': '外交政策',
+        'talent': '人才政策',
         'k12': 'K-12教育',
         'higher_ed': '高等教育',
         'teacher': '教师政策',

@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-07T12:00:07.956115",
-  "total_news": 7,
+  "crawled_at": "2026-05-07T13:55:47.294143",
+  "total_news": 8,
   "news": [
+    {
+      "title": "US: Duration of status elimination moves to final review",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-07",
+      "type": "Policy",
+      "summary_en": "Replacing 'duration of status' with fixed time limits on student and visitor visas has moved one step closer to becoming a reality in the US, as the final rule is submitted for White House approval.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
     {
       "title": "Who’s in the room? Inside the new Education Sector Action Group",
       "url": "https://thepienews.com/category/news/",

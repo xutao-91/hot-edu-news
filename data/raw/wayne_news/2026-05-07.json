@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-07T12:00:15.002387",
-  "total_news": 4,
+  "crawled_at": "2026-05-07T13:55:52.705368",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Wayne State expands open research access through Dryad pilot program",
+      "url": "https://today.wayne.edu/news/2026/05/07/wayne-state-expands-open-research-access-through-dryad-pilot-program-69031",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
     {
       "title": "Wayne State University professor to receive 2026 Scientific Award of Distinction from the American Federation for Aging Research",
       "url": "https://research.wayne.edu/news/wayne-state-university-professor-to-receive-2026-scientific-award-of-distinction-from-the-american-federation-for-aging-research-69024",
@@ -12,6 +21,15 @@
       "summary_en": "",
       "source": "Wayne State News",
       "category": "research"
+    },
+    {
+      "title": "Music, movement and storytelling: Michelle Stackpoole’s creative approach to librarianship",
+      "url": "https://sis.wayne.edu/news/music-movement-and-storytelling-michelle-stackpooles-creative-approach-to-librarianship-69025",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
     },
     {
       "title": "Academic Recognition Ceremony celebrates faculty and staff excellence",

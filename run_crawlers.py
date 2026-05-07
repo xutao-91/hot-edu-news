@@ -7,6 +7,27 @@ import sys
 from pathlib import Path
 from datetime import datetime, timedelta
 
+# 新增：多领域分类规则，匹配用户要求的收录范围
+CATEGORIES = {
+    "education": ["education", "school", "student", "teacher", "learning", "university", "college", "k12", "higher education"],
+    "quantum": ["quantum", "quantum computing", "quantum technology", "量子"],
+    "ai": ["ai", "artificial intelligence", "large language model", "llm", "generative ai", "大模型", "人工智能"],
+    "biomanufacturing": ["biomanufacturing", "bioproduction", "synthetic biology", "合成生物", "生物制造"],
+    "space": ["space travel", "interstellar", "aerospace", "space exploration", "星际航行", "航天", "太空探索"],
+    "bci": ["bci", "brain computer interface", "brain machine interface", "脑机接口"],
+    "semiconductor": ["ic", "integrated circuit", "semiconductor", "chip", "集成电路", "芯片", "半导体"],
+    "diplomacy": ["diplomatic", "foreign affairs", "diplomacy", "外交", "外事"],
+    "talent": ["talent", "human resource", "人才", "人力资源"]
+}
+
+def categorize_article(title, summary=""):
+    """统一分类判断，匹配用户要求的收录领域"""
+    content = f"{title} {summary}".lower()
+    for category, keywords in CATEGORIES.items():
+        if any(keyword in content for keyword in keywords):
+            return category
+    return "general"
+
 # 加载配置
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
 with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
@@ -80,6 +101,8 @@ def run_crawler(crawler_path):
                                 articles = data
                             elif isinstance(data, dict) and 'articles' in data and isinstance(data['articles'], list):
                                 articles = data['articles']
+                            elif isinstance(data, dict) and 'news' in data and isinstance(data['news'], list):
+                                articles = data['news']
                             else:
                                 print(f"⚠️  {source_name} 文件 {filename} 格式不正确，跳过")
                     except Exception as e:
@@ -90,22 +113,31 @@ def run_crawler(crawler_path):
         existing_urls = load_existing_urls(source_name)
         new_articles = [a for a in articles if a.get('url') not in existing_urls and a.get('url') not in url_cache]
         
-        if not new_articles:
-            print(f"✅ {source_name} 没有新内容")
+        # 新增：按用户要求的领域过滤文章，只保留符合收录范围的
+        filtered_articles = []
+        for article in new_articles:
+            # 统一分类
+            category = categorize_article(article.get("title", ""), article.get("summary_en", article.get("summary", "")))
+            if category != "general":
+                article["category"] = category
+                filtered_articles.append(article)
+        
+        if not filtered_articles:
+            print(f"✅ {source_name} 没有符合收录范围的新内容")
             return source_name, []
         
-        print(f"✅ {source_name} 抓取完成，新增 {len(new_articles)} 篇文章")
-        for article in new_articles:
+        print(f"✅ {source_name} 抓取完成，新增 {len(filtered_articles)} 篇符合收录范围的文章")
+        for article in filtered_articles:
             if 'url' in article:
                 url_cache[article['url']] = {
                     'source': source_name,
                     'fetch_time': datetime.now().isoformat(),
-                    'title': article.get('title', '')
+                    'title': article.get('title', ''),
+                    'category': article.get('category', 'education')
                 }
         
-        print(f"✅ {source_name} 抓取完成，新增 {len(new_articles)} 篇文章")
-        return source_name, new_articles
-    
+        return source_name, filtered_articles
+     
     except subprocess.TimeoutExpired:
         print(f"⏰ {source_name} 抓取超时")
         return source_name, []

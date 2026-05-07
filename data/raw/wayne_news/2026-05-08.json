@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-08T02:05:41.641460",
-  "total_news": 2,
+  "crawled_at": "2026-05-08T03:08:31.893900",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Wayne State expands open research access through Dryad pilot program",
+      "url": "https://today.wayne.edu/news/2026/05/07/wayne-state-expands-open-research-access-through-dryad-pilot-program-69031",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
     {
       "title": "Wayne State University professor to receive 2026 Scientific Award of Distinction from the American Federation for Aging Research",
       "url": "https://research.wayne.edu/news/wayne-state-university-professor-to-receive-2026-scientific-award-of-distinction-from-the-american-federation-for-aging-research-69024",
