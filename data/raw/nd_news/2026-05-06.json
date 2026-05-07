@@ -1,9 +1,18 @@
 {
   "source": "University of Notre Dame News",
   "source_url": "https://news.nd.edu/news/category/university-news/",
-  "crawled_at": "2026-05-06T12:01:06.239176",
-  "total_news": 2,
+  "crawled_at": "2026-05-06T20:01:07.061377",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Junior Veronica Bofah named 2026 Key into Public Service Scholar",
+      "url": "https://news.nd.edu/news/junior-veronica-bofah-named-2026-key-into-public-service-scholar/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
     {
       "title": "In Memoriam: G. Robert Blakey, the William J. and Dorothy K. O’Neill Professor of Law Emeritus, Notre Dame Law School",
       "url": "https://news.nd.edu/news/in-memoriam-g-robert-blakey-william-j-and-dorothy-k-oneill-professor-of-law-emeritus-notre-dame-law-school/",

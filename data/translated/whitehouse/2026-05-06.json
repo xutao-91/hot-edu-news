@@ -1,9 +1,27 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-06T12:02:24.636055",
-  "total_news": 9,
+  "crawled_at": "2026-05-06T20:02:32.282814",
+  "total_news": 10,
   "news": [
+    {
+      "title": "白宫发布2026年全国护士日总统致辞",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-nurses-day/",
+      "date": "May 6, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "Presidential Message on National Nurses Day",
+      "summary_cn": "2026年5月6日，美国白宫发布主题为《全国护士日总统致辞》的官方公务文件。\n\n该文件属于美国白宫公开发布的政务类文书，核心内容为美国总统就全国护士日相关事宜发表官方致辞。\n\n本次公开的该文件明确标注发布主体为美国白宫，发布时间为2026年5月6日。"
+    },
+    {
+      "title": "美国第一夫人梅拉尼娅·特朗普致敬军人母亲 称其为国家之魂",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-honors-military-mothers-the-soul-of-our-nation/",
+      "date": "May 6, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House",
+      "original_title": "First Lady Melania Trump Honors Military Mothers, the Soul of our Nation",
+      "summary_cn": "2026年5月6日，美国白宫发布相关公务信息。\n\n本次发布的信息显示，美国第一夫人梅拉尼娅·特朗普开展致敬军人母亲的相关公务活动，活动中梅拉尼娅·特朗普对军人母亲群体作出公开评价，将该群体称作“国家之魂”，明确传递对该群体的敬意。\n\n本次相关内容由白宫官方渠道对外公开，属于美国第一夫人公务活动范畴的正式发布事项。"
+    },
     {
       "title": "Presidential Message on National Astronaut Day",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-astronaut-day-2be4/",
@@ -75,17 +93,8 @@
       "source": "The White House",
       "original_title": "Presidential Message on National Small Business Week",
       "summary_cn": "2026年5月3日，白宫公开发布题为《关于全国小企业周的总统致辞》的官方政务文件。\n\n该文件为白宫2026年5月3日对外披露的正式公开信息，核心主题与全国小企业周相关事项有关，发布主体为美国白宫官方。\n\n该文件的具体内容以白宫官方对外公开的完整正式版本为准，相关信息可通过白宫官方公开渠道查阅获取。"
-    },
-    {
-      "title": "白宫发布总统关于全国飓风防备周的致辞",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-hurricane-preparedness-week/",
-      "date": "May 3, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House",
-      "original_title": "Presidential Message on National Hurricane Preparedness Week",
-      "summary_cn": "2026年5月3日，美国白宫正式对外发布美国总统关于全国飓风防备周的官方致辞。\n\n该致辞属于美国联邦政府层面发布的正式公务文告，以全国飓风防备周为核心主题，由白宫作为官方发布主体对外公开。\n\n本次对外发布的文告核心要素明确，发布时间为2026年5月3日，发布主体为白宫，发文主体为美国总统，核心议题围绕全国飓风防备周相关事项设置，属于美国官方围绕灾害防备工作发布的正式公务文件。"
     }
   ],
-  "compiled_count": 0,
-  "skipped_count": 9
+  "compiled_count": 2,
+  "skipped_count": 8
 }

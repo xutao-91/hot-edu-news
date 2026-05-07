@@ -1,7 +1,7 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-06T12:02:18.277808",
+  "crawled_at": "2026-05-06T20:02:26.143579",
   "total_news": 7,
   "news": [
     {
@@ -82,6 +82,6 @@
       "summary_cn": "2026年5月4日，华盛顿大学发布学术荣誉授予相关公告。\n\n根据公告内容，共有4名该校学者获评最新一批维拉斯研究教授称号。\n\n本次获评的4名学者均为各自研究领域的领军人员，研究方向分别覆盖细胞研究、公众舆论研究、可持续化学、计算优化四大领域。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 5
+  "compiled_count": 0,
+  "skipped_count": 7
 }

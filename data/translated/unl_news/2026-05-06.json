@@ -1,7 +1,7 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-06T12:02:06.991610",
+  "crawled_at": "2026-05-06T20:02:14.739471",
   "total_news": 11,
   "news": [
     {
@@ -126,6 +126,6 @@
       "summary_cn": "2026年5月4日，内布拉斯加大学林肯分校发布官方消息，穆勒创作的作品《瓦卡拉的美国》成功入选国际普鲁塔克奖终选名单。\n\n国际普鲁塔克奖为本次评选活动的官方正式名称，《瓦卡拉的美国》经奖项既定评审程序筛选后进入终选环节，是本次奖项的有效候选作品。\n\n本次入围信息由内布拉斯加大学林肯分校对外公开，有关该奖项的最终评选结果及后续相关安排，将由奖项主办机构按既定流程对外发布。"
     }
   ],
-  "compiled_count": 2,
-  "skipped_count": 9
+  "compiled_count": 0,
+  "skipped_count": 11
 }

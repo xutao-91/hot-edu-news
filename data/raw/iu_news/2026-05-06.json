@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-05-06T12:00:36.579919",
-  "total_news": 2,
+  "crawled_at": "2026-05-06T20:00:46.410157",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Local students present climate solutions at geoengineering summit",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-05-06-geoengineering-summit.html",
+      "date": "May 6, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
     {
       "title": "Kelley School sponsors student competing in premier open-wheel racing series",
       "url": "https://blogs.iu.edu/kelleyschool/2026/05/06/iu-kelley-student-competing-in-open-wheel-racing-while-also-pursuing-a-business-degree/",

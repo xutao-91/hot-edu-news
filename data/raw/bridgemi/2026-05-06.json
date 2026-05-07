@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-05-06T12:00:08.794104",
-  "total_news": 2,
+  "crawled_at": "2026-05-06T20:00:08.685510",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Most school bonds pass in Tuesday’s election. Look up your district",
+      "url": "https://bridgemi.com/talent-education/most-school-bonds-pass-in-tuesdays-election-look-up-your-district/",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Statewide, 61.1% of school bonds passed. Some districts that failed to get bonds passed in November also failed Tuesday.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
     {
       "title": "More Michigan students pursue trades, but access disparities persist",
       "url": "https://bridgemi.com/talent-education/more-michigan-students-pursue-trades-but-access-disparities-persist/",

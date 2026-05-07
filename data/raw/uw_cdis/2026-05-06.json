@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison CDIS - School of Computer, Data & Information Sciences",
   "source_url": "https://cdis.wisc.edu/cdis-news/",
-  "crawled_at": "2026-05-06T12:02:10.470082",
-  "total_news": 1,
+  "crawled_at": "2026-05-06T20:02:18.175239",
+  "total_news": 2,
   "news": [
+    {
+      "title": "2025-26 CDIS Undergraduates Honored at Chancellor’s Awards Ceremony",
+      "url": "https://cdis.wisc.edu/2025-26-cdis-undergraduates-honored-at-chancellors-awards-ceremony/",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "Join us in celebrating with the CDIS students honored at Chancellor’s Undergraduate Awards Ceremony on April 28, 2026. They were selected for their academic excellence, public service and undergraduate research at the University of Wisconsin–Madison. …",
+      "source": "UW-Madison CDIS",
+      "category": "education"
+    },
     {
       "title": "Apply to SAIL, a hands-on AI summer program",
       "url": "https://cdis.wisc.edu/apply-to-sail-a-hands-on-ai-summer-program-2026/",

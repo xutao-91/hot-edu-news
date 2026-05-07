@@ -1,7 +1,17 @@
 {
   "source": "Purdue University College of Education",
   "source_url": "https://education.purdue.edu/news/",
-  "crawled_at": "2026-05-06T12:01:30.611256",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-06T20:01:34.780846",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Spencer Foundation awards Zhou team a Small Research Grant",
+      "url": "https://education.purdue.edu/news/2026/05/06/spencer-foundation-awards-zhou-team-a-small-research-grant/",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "The Spencer Foundation awarded Xiang Zhou a Small Research Grant for education research. Zhou, associate professor of counseling psychology in the College’s Department of Educational Studies, is the PI with co-PI Yukiko Maeda, professor of educational psychology and research methodology…",
+      "source": "Purdue College of Education",
+      "category": "research"
+    }
+  ]
 }

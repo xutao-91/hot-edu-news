@@ -1,9 +1,18 @@
 {
   "source": "Augustana University News",
   "source_url": "https://www.augie.edu/about/news",
-  "crawled_at": "2026-05-06T12:00:07.403403",
-  "total_news": 1,
+  "crawled_at": "2026-05-06T20:00:07.198343",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Augustana University Student Named 2026 Truman Scholar",
+      "url": "https://www.augie.edu/news/2026/augustana-university-student-named-2026-truman-scholar",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Augustana University student Jessalyn Wienk ‘27 is one of 55 college students nationwide to receive the 2026 Truman Scholar Award. Wienk is the 11th Augustana student to win the award in Augustana’s history and the first honored since 2020.",
+      "source": "Augustana News",
+      "category": "students"
+    },
     {
       "title": "Augustana University Encourages Community to go ‘All in For AU’ on Giving Day 2026",
       "url": "https://www.augie.edu/news/2026/augustana-university-encourages-community-go-all-au-giving-day-2026",

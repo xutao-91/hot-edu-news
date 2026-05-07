@@ -1,9 +1,56 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-05-06T12:01:22.182507",
-  "total_news": 1,
+  "crawled_at": "2026-05-06T20:01:26.512571",
+  "total_news": 4,
   "news": [
+    {
+      "title": "皮尤研究中心调研显示 71%的美国房主称其房屋保险成本上涨",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/06/71-of-u-s-homeowners-say-their-home-insurance-costs-have-gone-up/",
+      "date": "May 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Energy",
+        "Homeownership Renting"
+      ],
+      "summary_en": "The two reasons homeowners cite most often are insurance companies wanting to make more money and the costs of repairing and rebuilding.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "71% of U.S. homeowners say their home insurance costs have gone up",
+      "summary_cn": "2026年5月6日，美国皮尤研究中心发布涉及美国房主房屋保险成本变动情况的调研结果。\n\n本次调研核心统计数据显示，71%的受访美国房主明确表示，自身所需缴纳的房屋保险成本较此前出现上涨，该情况已成为多数美国房主面临的共性问题。\n\n针对房屋保险成本上涨的成因，受访房主提及频次最高的两项原因分别为保险公司希望获取更多盈利，以及房屋修缮、重建的相关成本有所上升，上述两项是美国房主群体对保费上涨原因的主流认知。"
+    },
+    {
+      "title": "多数美国民众认为公用事业公司应对家庭能源账单上涨承担责任",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/06/many-americans-hold-utility-companies-responsible-for-their-rising-home-energy-bills/",
+      "date": "May 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Energy",
+        "Homeownership Renting"
+      ],
+      "summary_en": "Three-quarters of U.S. adults say their home energy costs have gone up in recent years, including 42% who say these costs have gone up a lot.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "Many Americans hold utility companies responsible for their rising home energy bills",
+      "summary_cn": "2026年5月6日，美国皮尤研究中心发布针对美国家庭能源支出相关认知的民众调研结果。\n\n本次调研核心数据显示，四分之三的美国成年受访者明确表示，其家庭能源成本在近年来出现上升态势，能源支出规模较此前有所扩大。\n\n在全部受访美国成年群体中，有42%的受访者反馈，自身家庭的能源成本涨幅较为明显，支出增长幅度较大。\n\n本次调研同时反映，多数美国民众将家庭能源账单上涨的责任归于公用事业运营主体，认为相关企业应当对该情况承担对应责任。"
+    },
+    {
+      "title": "问题措辞对同性恋道德问题民意调查结果的影响",
+      "url": "https://www.pewresearch.org/decoded/2026/05/06/how-question-wording-affects-polling-on-the-morality-of-homosexuality/",
+      "date": "May 6, 2026",
+      "type": "decoded",
+      "categories": [
+        "Religion Lgbtq Acceptance",
+        "Survey Methods"
+      ],
+      "summary_en": "Americans largely don’t distinguish between the morality of “homosexuality” and “homosexual behavior,” though some subgroups may, according to a new survey experiment.",
+      "source": "Pew Research Center",
+      "category": "general",
+      "original_title": "How question wording affects polling on the morality of homosexuality",
+      "summary_cn": "2026年5月6日，美国皮尤研究中心发布一项最新调查实验研究结果，本次研究聚焦民意调查的问题表述差异对同性恋道德属性相关调研结论的影响。\n\n本次研究通过对照实验方式采集相关数据并开展分析，核心结论显示，美国民众整体在作出道德判断时，不会对“同性恋”与“同性恋行为”的道德属性进行明确区分，两类表述下收集到的民众道德判断反馈不存在显著差异。\n\n研究同时表明，上述整体层面的结论不代表所有群体的判断特征，美国国内部分特定子群体在开展相关道德判断时，可能会对“同性恋”与“同性恋行为”两个概念作出区分。本次研究结论可为同类民意调查的问卷设计、结果校验工作提供实证参考。"
+    },
     {
       "title": "皮尤研究中心民调显示近半数美国人认为特朗普政府在非法移民驱逐事务上举措过多",
       "url": "https://www.pewresearch.org/short-reads/2026/05/04/about-half-of-americans-continue-to-say-trump-administration-is-doing-too-much-on-deportations/",
@@ -22,6 +69,6 @@
       "summary_cn": "2026年5月4日，美国皮尤研究中心发布针对民众对联邦政府移民驱逐政策评价的民意调查结果。\n\n本次民调核心数据显示，接近半数的美国受访民众持续作出表态，认为特朗普政府针对在美非法居留移民开展的驱逐工作“做得过多”，该类观点在本次受访群体中占比突出。\n\n调查同时公布的态度变化数据显示，认为特朗普政府在驱逐在美非法居留移民相关工作上“做得太少”的受访者占比出现小幅上升，该占比的上升态势主要由共和党籍受访群体的态度倾向驱动。"
     }
   ],
-  "compiled_count": 0,
+  "compiled_count": 3,
   "skipped_count": 1
 }

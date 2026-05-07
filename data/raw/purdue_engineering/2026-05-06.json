@@ -1,8 +1,8 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-05-06T12:01:33.846085",
-  "total_news": 4,
+  "crawled_at": "2026-05-06T20:01:37.707619",
+  "total_news": 7,
   "news": [
     {
       "title": "Purdue drone initiatives focus on the future of autonomy in the sky",
@@ -14,6 +14,15 @@
       "category": "general"
     },
     {
+      "title": "New Manufacturing Studio supercharges engineering in Indianapolis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0506-New-Manufacturing-Studio-supercharges-engineering-in-Indianapolis",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "You can't spell \"Boilermaker\" without \"maker!\" That Purdue spirit of designing and building things carries on in the new Manufacturing Studio in Indianapolis — a haven for students to machine parts, create prototypes and supercharge their engineering education.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
       "title": "Purdue launches comprehensive quantum degrees program",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-Purdue-launches-comprehensive-quantum-degrees-program",
       "date": "May 6, 2026",
@@ -21,6 +30,24 @@
       "summary_en": "The comprehensive quantum degrees program is designed to build the quantum workforce and economy.",
       "source": "Purdue College of Engineering",
       "category": "education"
+    },
+    {
+      "title": "SCALE expands its national impact, becomes Purdue's largest federally funded research effort",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-SCALE-expands-its-national-impact-becomes-Purdues-largest-federally-funded-research-effort",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "The Scalable Asymmetric Lifecycle Engagement (SCALE) program, the only U.S. defense microelectronics public-private-academic workforce development consortium, is now Purdue University's largest-ever federally funded research effort.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "IE's She awarded National Science Foundation grant",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0506-IEs-Assistant-Professor-Yu-She-Awarded-National-Science-Foundation-Grant",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "In coordination with the US National Science Foundation, the Advancing Innovations for Empowering NextGen AGriculturE (AI-ENGAGE) initiative recently announced its six international research award recipients, collectively receiving $2.4 million to support artificial intelligence and emerging technologies.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
     },
     {
       "title": "Purdue hosts 12th Midwest Workshop on Control and Game Theory, advancing research and collaboration",

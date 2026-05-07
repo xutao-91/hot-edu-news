@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-05-06T12:02:12.481441",
-  "total_news": 3,
+  "crawled_at": "2026-05-06T20:02:20.109240",
+  "total_news": 4,
   "news": [
+    {
+      "title": "School of Education artists earn top honors in 2026 Arts Business Competition",
+      "url": "https://education.wisc.edu/news/school-of-education-artists-earn-top-honors-in-2026-arts-business-competition/",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "Two School of Education artists were recognized in the 2026 Arts Business Competition at UW–Madison: MFA candidate Fatemeh Fani received the first place award, and Maja Hastings, a 2025 Art Department alumna, finished second place.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
     {
       "title": "Three School of Education students recognized as spring 2026 ‘notable grads’",
       "url": "https://education.wisc.edu/news/two-school-of-education-students-recognized-as-spring-2026-notable-grads/",
