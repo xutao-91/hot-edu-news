@@ -1,9 +1,18 @@
 {
   "source": "University of Iowa Now",
   "source_url": "https://now.uiowa.edu/tags/featured-headlines",
-  "crawled_at": "2026-05-08T10:47:44.918330",
-  "total_news": 3,
+  "crawled_at": "2026-05-08T12:00:16.969359",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Iowa alumnus nominated for Tony Award",
+      "url": "/news/2026/05/iowa-alumnus-nominated-tony-award",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "University of Iowa alumnus Samuel D. Hunter’s Broadway debut, Little Bear Ridge Road, received a Tony Award nomination for Best Play on May 5.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
     {
       "title": "reSPARC to enter implementation phase of revenue, efficiency initiatives",
       "url": "/news/2026/05/resparc-enter-implementation-phase-revenue-efficiency-initiatives",

@@ -1,9 +1,27 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-05-08T10:47:51.221994",
-  "total_news": 7,
+  "crawled_at": "2026-05-08T12:00:25.613131",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Photos: College of Nursing seniors make waves to celebrate graduation",
+      "url": "https://today.uic.edu/photos-college-of-nursing-seniors-make-waves-to-celebrate-graduation/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Nearly 100 College of Nursing seniors took part in the decades-old tradition on May 4.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC professor, author elected to American Academy of Arts and Sciences",
+      "url": "https://today.uic.edu/uic-professor-author-elected-to-american-academy-of-arts-and-sciences/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Luis Alberto Urrea is the eighth UIC faculty member to join the prestigious honorary society.",
+      "source": "UIC Today",
+      "category": "research"
+    },
     {
       "title": "UIC historian Jane Rhodes elected to the American Antiquarian Society",
       "url": "https://today.uic.edu/uic-historian-jane-rhodes-elected-to-the-american-antiquarian-society/",

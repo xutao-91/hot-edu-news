@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-05-08T10:47:51.377634",
-  "total_news": 7,
+  "crawled_at": "2026-05-08T12:00:21.838949",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Purdue, Cook Medical build upon 50-year alliance",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0508-purdue-cook-medical-50-year-research-alliance",
+      "date": "May 8, 2026",
+      "type": "News",
+      "summary_en": "New agreement expands research for cutting-edge medical technologies, strengthens workforce pipeline",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "Like mother, like daughter: Purdue Engineering graduates share special bond",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0507-Like-mother-like-daughter-Purdue-Engineering-graduates-share-special-bond",

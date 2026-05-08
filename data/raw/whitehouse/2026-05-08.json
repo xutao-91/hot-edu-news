@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-08T10:47:55.376397",
-  "total_news": 8,
+  "crawled_at": "2026-05-08T12:00:28.971662",
+  "total_news": 10,
   "news": [
+    {
+      "title": "First Lady Melania Trump: Mothers are America’s strength",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-mothers-are-americas-strength/",
+      "date": "May 8, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "JOBS REPORT: Trump Economy Roars Ahead with Big Private Sector Job Gains",
+      "url": "https://www.whitehouse.gov/releases/2026/05/jobs-report-trump-economy-roars-ahead-with-big-private-sector-job-gains/",
+      "date": "May 8, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Military Spouse Day, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",

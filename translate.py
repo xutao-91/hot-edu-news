@@ -105,7 +105,8 @@ def translate_article(article, source):
     
     # 调用火山方舟AI翻译API
     import requests
-    api_key = "e5d43a4b-dfd7-4d96-990b-d52f4eb53187"
+    import time
+    api_key = "e5d43a4b-dfd7-4d96-990b-d52f4eb5318a"
     api_url = "https://ark.cn-beijing.volces.com/api/coding/v3/chat/completions"
     
     prompt = f"""请将以下英文教育类新闻翻译为中文，严格遵循以下要求：
@@ -136,25 +137,33 @@ def translate_article(article, source):
         "max_tokens": 1000
     }
     
-    try:
-        response = requests.post(api_url, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
-        result = response.json()
-        content = result["choices"][0]["message"]["content"].strip()
-        
-        # 解析返回的内容
-        title_cn = title
-        summary_cn = summary
-        for line in content.split("\n"):
-            if line.startswith("标题："):
-                title_cn = line[3:].strip()
-            elif line.startswith("摘要："):
-                summary_cn = line[3:].strip()
-                
-    except Exception as e:
-        print(f"翻译API调用失败：{str(e)}")
-        title_cn = f"[待翻译] {title}"
-        summary_cn = f"[待翻译] {summary}"
+    # 重试3次，避免接口超时
+    max_retries = 3
+    for retry in range(max_retries):
+        try:
+            response = requests.post(api_url, headers=headers, json=payload, timeout=60)
+            response.raise_for_status()
+            result = response.json()
+            content = result["choices"][0]["message"]["content"].strip()
+            
+            # 解析返回的内容
+            title_cn = title
+            summary_cn = summary
+            for line in content.split("\n"):
+                if line.startswith("标题："):
+                    title_cn = line[3:].strip()
+                elif line.startswith("摘要："):
+                    summary_cn = line[3:].strip()
+            # 翻译成功，跳出重试
+            break
+        except Exception as e:
+            print(f"翻译API调用失败（第{retry+1}次重试）：{str(e)}")
+            if retry < max_retries -1:
+                time.sleep(2)
+                continue
+            # 重试全部失败
+            title_cn = f"[待翻译] {title}"
+            summary_cn = f"[待翻译] {summary}"
     
     # 保存翻译结果到数据库
     translated = {
@@ -169,8 +178,13 @@ def translate_article(article, source):
     return {**article, **translated, '_sort_date': sort_date}
 
 def main():
-    print("🔄 开始翻译新增文章...")
+    print("🔄 开始翻译新增文章（仅处理最近4天的文章）...")
     os.makedirs(TRANSLATED_DIR, exist_ok=True)
+    
+    # 计算最近4天的日期范围
+    from datetime import datetime, timedelta
+    today = datetime.now()
+    four_days_ago = today - timedelta(days=4)
     
     new_translated_count = 0
     all_translated_articles = []
@@ -184,6 +198,15 @@ def main():
         for filename in os.listdir(source_dir):
             if not filename.endswith('.json'):
                 continue
+            
+            # 只处理最近4天的文件
+            date_str = filename.replace('.json', '')
+            try:
+                file_date = datetime.strptime(date_str, '%Y-%m-%d')
+                if file_date < four_days_ago:
+                    continue  # 跳过4天前的历史文件
+            except:
+                continue  # 文件名不是日期格式的也跳过
             
             file_path = os.path.join(source_dir, filename)
             file_key = f"{source}/{filename}"

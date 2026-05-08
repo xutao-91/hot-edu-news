@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-05-08T10:47:52.917897",
-  "total_news": 9,
+  "crawled_at": "2026-05-08T12:00:16.909897",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Missouri School of Journalism Professor Marty Steffens wins 2026 Distinguished Achievement Award",
+      "url": "https://showme.missouri.edu/2026/missouri-school-of-journalism-professor-marty-steffens-wins-2026-distinguished-achievement-award/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
     {
       "title": "Inspired by the brain, Mizzou researchers build smarter, more efficient computer hardware",
       "url": "https://showme.missouri.edu/2026/inspired-by-the-brain-mizzou-researchers-build-smarter-more-efficient-computer-hardware/",

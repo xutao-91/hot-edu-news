@@ -1,9 +1,18 @@
 {
   "source": "University of Kansas News",
   "source_url": "https://news.ku.edu/news",
-  "crawled_at": "2026-05-08T10:47:52.997054",
-  "total_news": 13,
+  "crawled_at": "2026-05-08T12:00:26.509150",
+  "total_news": 14,
   "news": [
+    {
+      "title": "KU Engineering student groups continue to excel at annual ASCE championship",
+      "url": "https://news.ku.edu/news/article/ku-engineering-student-groups-continue-to-excel-at-annual-asce-championship-ARTICLE-0TA8SF-ARTICLE-0TA8SF-ARTICLE-0TA8SF-ARTICLE-0TA8SF-ARTICLE-0TA8SF",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Department of Civil, Environmental & Architectural Engineering student groups took home several awards at the 2026 ASCE Symposium at the beginning of April. The KU ASCE chapter, Concrete Canoe and the Steel Bridge program traveled to Carbondale, Illinois, to take part in their respective competitions.",
+      "source": "KU News",
+      "category": "students"
+    },
     {
       "title": "School of Pharmacy to host David Sinclair for Takeru Higuchi Memorial Lecture",
       "url": "https://news.ku.edu/news/article/school-of-pharmacy-to-host-david-sinclair-for-takeru-higuchi-memorial-lecture",

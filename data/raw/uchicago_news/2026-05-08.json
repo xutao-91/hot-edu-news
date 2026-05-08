@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-08T10:47:54.326300",
-  "total_news": 4,
+  "crawled_at": "2026-05-08T12:00:28.087890",
+  "total_news": 5,
   "news": [
+    {
+      "title": "UChicago chemists invent new way to swap nitrogen into molecules",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-invent-new-way-swap-nitrogen-molecules",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Breakthrough could speed up new drug discovery",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Four UChicago undergraduates awarded 2026 Goldwater Scholarship",
       "url": "https://news.uchicago.edu/story/four-uchicago-undergraduates-awarded-2026-goldwater-scholarship",

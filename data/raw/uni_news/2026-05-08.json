@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-08T10:47:45.213687",
-  "total_news": 5,
+  "crawled_at": "2026-05-08T12:00:16.921370",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Student-athlete Julian Farber finds a support system in the Wilson College of Business",
+      "url": "https://insideuni.uni.edu/business/student-athlete-julian-farber-finds-support-system-wilson-college-business",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "From NCAA Championship runs to mastering the global supply chain, Julian Farber proves grit built on the wrestling mat creates leaders ready for business and beyond.",
+      "source": "UNI News",
+      "category": "fundraising"
+    },
     {
       "title": "Teaching endorsements, certificates, or degrees: Which path is right for you?",
       "url": "https://insideuni.uni.edu/education/teaching-endorsements-certificates-or-degrees-which-path-right-you",

@@ -1,9 +1,27 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-08T10:47:42.992777",
-  "total_news": 3,
+  "crawled_at": "2026-05-08T12:00:15.024752",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Lee installed as inaugural Stickle professor",
+      "url": "https://source.washu.edu/2026/05/lee-installed-as-inaugural-stickle-professor/",
+      "date": "2026-05-08",
+      "type": "Advancement",
+      "summary_en": "Aaron Lee, MD, a nationally acclaimed vitreoretinal surgeon and leader in applying artificial intelligence to vision research and patient care, has been named the inaugural Arthur W. Stickle Distinguished Professor of Ophthalmology and Visual Sciences at WashU Medicine.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Henson to retire as executive vice chancellor for university advancement",
+      "url": "https://source.washu.edu/2026/05/henson-to-retire-as-executive-vice-chancellor-for-university-advancement/",
+      "date": "2026-05-08",
+      "type": "Appointments & Promotions",
+      "summary_en": "Pamella A. Henson, executive vice chancellor for university advancement, will retire Jan. 4, concluding a distinguished career spanning 34 years at WashU and 40 years in the profession, according to Chancellor Andrew D. Martin.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "New initiative launches to save primates, transform global conservation approaches",
       "url": "https://source.washu.edu/2026/05/new-initiative-launches-to-save-primates-transform-global-conservation-approaches/",

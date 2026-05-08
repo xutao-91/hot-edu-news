@@ -1,9 +1,18 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-05-08T10:47:48.653240",
-  "total_news": 2,
+  "crawled_at": "2026-05-08T12:00:21.814289",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Professor Katsumi Matsumoto named Fulbright U.S. Scholar",
+      "url": "https://cse.umn.edu/college/news/professor-katsumi-matsumoto-named-fulbright-us-scholar",
+      "date": "2026-05-08",
+      "type": "Awards-Grants",
+      "summary_en": "University of Minnesota Twin Cities College of Science and Engineering Professor Katsumi Matsumoto has been named a Fulbright U.S. Scholar and will spend part of the 2026-27 academic year in Germany advancing research on the global ocean carbon cycle.",
+      "source": "UMN CSE",
+      "category": "faculty"
+    },
     {
       "title": "Student commencement speaker embraces community",
       "url": "https://cse.umn.edu/college/news/student-commencement-speaker-embraces-community",

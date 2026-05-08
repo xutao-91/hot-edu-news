@@ -1,9 +1,18 @@
 {
   "source": "Augustana University News",
   "source_url": "https://www.augie.edu/about/news",
-  "crawled_at": "2026-05-08T10:47:47.857994",
-  "total_news": 2,
+  "crawled_at": "2026-05-08T12:00:20.382592",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Augustana University Partnering With Levitt at the Falls’ Share the Stage Program",
+      "url": "https://www.augie.edu/news/2026/augustana-university-partnering-levitt-falls-share-stage-program",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Augustana University is partnering with Levitt at the Falls’ Share the Stage Program in support of local artists and their professional development. As a part of Augustana's sponsorship, the University will be hosting Share the Stage Opening Acts on five nights throughout the summer.",
+      "source": "Augustana News",
+      "category": "general"
+    },
     {
       "title": "Augustana Art Department Bestows Spitznagel Medal for Achievement to Three Graduating Artists",
       "url": "https://www.augie.edu/news/2026/augustana-art-department-bestows-spitznagel-medal-achievement-three-graduating-artists",

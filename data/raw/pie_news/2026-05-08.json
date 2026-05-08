@@ -1,9 +1,39 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-08T10:47:37.823976",
-  "total_news": 8,
+  "crawled_at": "2026-05-08T12:00:07.808972",
+  "total_news": 11,
   "news": [
+    {
+      "title": "South Korea in post-study visa push amid shift towards quality",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-08",
+      "type": "Policy",
+      "summary_en": "After surpassing its “Study Korea 300K” target ahead of schedule, South Korea says it now wants to shift focus towards “strategic quality management”, post-graduation opportunities and long-term talent retention.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Jacqui Smith: UK universities must prove local value",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-08",
+      "type": "Policy",
+      "summary_en": "The UK minister for skills, Baroness Jacqui Smith, has reiterated the government’s support for international education, while urging universities to do more to combat public scepticism of higher education.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "The PIEoneer Awards 2026 shortlist revealed",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-05-08",
+      "type": "Events",
+      "summary_en": "The shortlist for The PIEoneer Awards 2026 has been revealed, marking a major milestone as the international education sector’s flagship event celebrates its 10th anniversary this year.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
     {
       "title": "US: Duration of status elimination moves to final review",
       "url": "https://thepienews.com/category/news/government/",
