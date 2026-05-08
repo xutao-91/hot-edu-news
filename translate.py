@@ -103,10 +103,58 @@ def translate_article(article, source):
         translation_db[source][title] = translated
         return {**article, **translated, '_sort_date': sort_date}
     
-    # 这里调用实际的翻译API，暂时先用占位符（可根据实际情况替换成OpenAI/DeepL等API）
-    # 注意：实际使用时需要配置API密钥在环境变量中
-    title_cn = f"[待翻译] {title}"
-    summary_cn = f"[待翻译] {summary}"
+    # 调用火山方舟AI翻译API
+    import requests
+    api_key = "e5d43a4b-dfd7-4d96-990b-d52f4eb53187"
+    api_url = "https://ark.cn-beijing.volces.com/api/coding/v3/chat/completions"
+    
+    prompt = f"""请将以下英文教育类新闻翻译为中文，严格遵循以下要求：
+1. 完全忠实原文，仅翻译内容，不得添加任何主观评论、推测、引申或背景信息，不得编造不存在的内容
+2. 翻译风格采用中华人民共和国外交部、教育部官方公文风格，严谨、正式、客观、权威
+3. 专业术语、人名、机构名称使用官方规范译法，统一准确
+4. 标题翻译简洁准确，概括核心内容；摘要翻译通顺流畅，保留核心信息，控制在400字左右
+5. 不要添加任何说明性文字，直接返回翻译后的内容，标题和摘要分开返回，格式为：
+标题：[翻译后的中文标题]
+摘要：[翻译后的中文摘要]
+
+需要翻译的内容：
+标题：{title}
+摘要：{summary}
+"""
+    
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json"
+    }
+    
+    payload = {
+        "model": "ark-code-latest",
+        "messages": [
+            {"role": "user", "content": prompt}
+        ],
+        "temperature": 0.1,
+        "max_tokens": 1000
+    }
+    
+    try:
+        response = requests.post(api_url, headers=headers, json=payload, timeout=30)
+        response.raise_for_status()
+        result = response.json()
+        content = result["choices"][0]["message"]["content"].strip()
+        
+        # 解析返回的内容
+        title_cn = title
+        summary_cn = summary
+        for line in content.split("\n"):
+            if line.startswith("标题："):
+                title_cn = line[3:].strip()
+            elif line.startswith("摘要："):
+                summary_cn = line[3:].strip()
+                
+    except Exception as e:
+        print(f"翻译API调用失败：{str(e)}")
+        title_cn = f"[待翻译] {title}"
+        summary_cn = f"[待翻译] {summary}"
     
     # 保存翻译结果到数据库
     translated = {
