@@ -15,7 +15,7 @@ from datetime import datetime, timedelta
 from email.utils import formatdate
 from pathlib import Path
 
-def parse_date(date_str):
+def parse_date_to_str(date_str):
     """解析多种格式的日期，返回YYYY-MM-DD格式的字符串"""
     if not date_str:
         return datetime.now().strftime('%Y-%m-%d')
@@ -104,8 +104,16 @@ def get_all_translated_articles():
             try:
                 with open(file_path, "r", encoding="utf-8") as f:
                     data = json.load(f)
-                # 数组格式（旧格式）
-                if isinstance(data, dict) and "news" in data:
+                # 数组格式
+                if isinstance(data, list):
+                    for article in data:
+                        # 确保是中文（标题至少包含3个中文字符）
+                        if "title" in article:
+                            cn_count = sum(1 for c in article["title"] if '\u4e00' <= c <= '\u9fff')
+                            if cn_count >= 3:
+                                articles.append(article)
+                # 数组嵌套在news字段的格式
+                elif isinstance(data, dict) and "news" in data:
                     for article in data["news"]:
                         # 确保是中文（标题至少包含3个中文字符）
                         if "title" in article:
@@ -275,7 +283,7 @@ def generate_html():
     for article in all_articles:
         article['_source_name'] = article.get('source', '未知来源')
         article['_source_color'] = source_info_map.get(article['_source_name'], {}).get('color', '#6B7280')
-        article['_sort_date'] = parse_date(article.get('date', ''))
+        article['_sort_date'] = parse_date_to_str(article.get('date', ''))
     
     # 去重
     existing_urls = set()
