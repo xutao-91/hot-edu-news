@@ -146,11 +146,18 @@ def main():
             
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
-                    articles = json.load(f)
-                # 检查数据格式是否正确
-                if not isinstance(articles, list):
-                    print(f"⚠️  文件 {file_path} 格式错误，不是文章列表")
-                    continue
+                    data = json.load(f)
+                # 兼容不同格式的文章列表
+                if isinstance(data, list):
+                    articles = data
+                elif isinstance(data, dict):
+                    if 'articles' in data and isinstance(data['articles'], list):
+                        articles = data['articles']
+                    elif 'news' in data and isinstance(data['news'], list):
+                        articles = data['news']
+                    else:
+                        print(f"⚠️  文件 {file_path} 格式错误，不是文章列表")
+                        continue
             except Exception as e:
                 print(f"⚠️  读取文件 {file_path} 失败: {str(e)}")
                 continue

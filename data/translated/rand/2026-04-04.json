@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Missingness",
+    "url": "https://www.rand.org/pubs/external_publications/EP71281.html",
+    "date": "Apr 1, 2026",
+    "type": "Research",
+    "summary_en": "We propose bounds on causal effects for missing outcomes, accommodating the scenario where missingness is an unobserved mixture of informative and non-informative components.",
+    "source": "Rand Corporation",
+    "category": "general",
+    "title_cn": "[待翻译] Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Missingness",
+    "summary_cn": "[待翻译] ",
+    "translated_time": "2026-05-07T21:53:23.123428",
+    "_sort_date": "2026-04-01"
+  }
+]
