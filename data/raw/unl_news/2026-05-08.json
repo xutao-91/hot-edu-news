@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-08T06:41:26.403316",
-  "total_news": 14,
+  "crawled_at": "2026-05-08T08:47:20.834273",
+  "total_news": 15,
   "news": [
+    {
+      "title": "University of Nebraska–Lincoln responds to Canvas service disruption",
+      "url": "https://news.unl.edu/article/university-of-nebraska-lincoln-responds-to-canvas-service-disruption",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Nebraska U to award record 3,800-plus degrees May 8-9",
       "url": "https://news.unl.edu/article/nebraska-u-to-award-record-3800-plus-degrees-may-8-9",

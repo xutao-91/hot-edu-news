@@ -113,27 +113,26 @@ def run_crawler(crawler_path):
         existing_urls = load_existing_urls(source_name)
         new_articles = [a for a in articles if a.get('url') not in existing_urls and a.get('url') not in url_cache]
         
-        # 新增：按用户要求的领域过滤文章，只保留符合收录范围的
+        # 用户要求：暂时不设过滤限制，所有抓取到的文章全部收录
         filtered_articles = []
         for article in new_articles:
-            # 统一分类
+            # 保留自动分类功能，但不再过滤
             category = categorize_article(article.get("title", ""), article.get("summary_en", article.get("summary", "")))
-            if category != "general":
-                article["category"] = category
-                filtered_articles.append(article)
+            article["category"] = category
+            filtered_articles.append(article)
         
         if not filtered_articles:
-            print(f"✅ {source_name} 没有符合收录范围的新内容")
+            print(f"✅ {source_name} 没有新内容")
             return source_name, []
         
-        print(f"✅ {source_name} 抓取完成，新增 {len(filtered_articles)} 篇符合收录范围的文章")
+        print(f"✅ {source_name} 抓取完成，新增 {len(filtered_articles)} 篇文章")
         for article in filtered_articles:
             if 'url' in article:
                 url_cache[article['url']] = {
                     'source': source_name,
                     'fetch_time': datetime.now().isoformat(),
                     'title': article.get('title', ''),
-                    'category': article.get('category', 'education')
+                    'category': article.get('category', 'general')
                 }
         
         return source_name, filtered_articles
