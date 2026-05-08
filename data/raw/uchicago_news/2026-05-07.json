@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-07T13:56:04.235808",
-  "total_news": 7,
+  "crawled_at": "2026-05-07T20:00:29.370401",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Four UChicago undergraduates awarded 2026 Goldwater Scholarship",
+      "url": "https://news.uchicago.edu/story/four-uchicago-undergraduates-awarded-2026-goldwater-scholarship",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Third-years Arthur Costa, Shelley Fernando, Mason McCormack and Vincent Wang earn prestigious award for their research",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Edith Rickert: Novelist, Chaucer scholar and WWI code breaker",
       "url": "https://news.uchicago.edu/story/edith-rickert-novelist-chaucer-scholar-and-wwi-code-breaker",

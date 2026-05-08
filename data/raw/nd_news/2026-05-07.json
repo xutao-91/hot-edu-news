@@ -1,9 +1,18 @@
 {
   "source": "University of Notre Dame News",
   "source_url": "https://news.nd.edu/news/category/university-news/",
-  "crawled_at": "2026-05-07T13:55:45.477119",
-  "total_news": 4,
+  "crawled_at": "2026-05-07T20:00:07.232098",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Notre Dame recognized as top producer of Gilman Scholars over program’s first 25 years",
+      "url": "https://news.nd.edu/news/notre-dame-recognized-as-top-producer-of-gilman-scholars-over-programs-first-25-years/",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
     {
       "title": "Martin Soros selected as valedictorian; Allison Elshoff named salutatorian for the Class of 2026",
       "url": "https://news.nd.edu/news/martin-soros-selected-as-valedictorian-allison-elshoff-named-salutatorian-for-the-class-of-2026/",

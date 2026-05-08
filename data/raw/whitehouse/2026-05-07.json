@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-07T13:56:04.807196",
+  "crawled_at": "2026-05-07T20:00:33.390570",
   "total_news": 10,
   "news": [
+    {
+      "title": "Military Spouse Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
+      "date": "May 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Victory Day for World War II, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/",
+      "date": "May 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on National Day of Prayer",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-day-of-prayer/",
@@ -58,20 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/jewish-american-heritage-month-2026/",
       "date": "May 4, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "America 250: Presidential Message on the Anniversary of the Battle of the Coral Sea",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-battle-of-the-coral-sea/",
-      "date": "May 4, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump Celebrates Small Business Revival During National Small Business Week",
-      "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-celebrates-small-business-revival-during-national-small-business-week/",
-      "date": "May 4, 2026",
-      "category": "Releases",
       "source": "The White House"
     }
   ]
