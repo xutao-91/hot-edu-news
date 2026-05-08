@@ -49,11 +49,32 @@ def is_chinese(text):
     """判断文本是否为中文"""
     return bool(re.search(r'[\u4e00-\u9fff]', text))
 
+def parse_date(date_str):
+    """解析多种格式的日期，返回YYYY-MM-DD格式的字符串"""
+    if not date_str:
+        return datetime.now().strftime('%Y-%m-%d')
+    date_formats = [
+        '%B %d, %Y', # May 7, 2026
+        '%b %d, %Y', # May 7, 2026
+        '%Y-%m-%d', # 2026-05-07
+        '%m/%d/%Y', # 05/07/2026
+    ]
+    for fmt in date_formats:
+        try:
+            return datetime.strptime(date_str.strip(), fmt).strftime('%Y-%m-%d')
+        except:
+            continue
+    return datetime.now().strftime('%Y-%m-%d')
+
 def translate_article(article, source):
     """翻译单篇文章，优先使用缓存，没有的话调用翻译API"""
     title = article.get('title', '').strip()
     summary = article.get('summary', '').strip()
     url = article.get('url', '')
+    date_str = article.get('date', '')
+    
+    # 解析生成标准日期字段
+    sort_date = parse_date(date_str)
     
     if not title:
         return None
@@ -65,7 +86,8 @@ def translate_article(article, source):
             **article,
             'title_cn': translated.get('title_cn', title),
             'summary_cn': translated.get('summary_cn', summary),
-            'translated_time': translated.get('translated_time', datetime.now().isoformat())
+            'translated_time': translated.get('translated_time', datetime.now().isoformat()),
+            '_sort_date': sort_date
         }
     
     # 如果已经是中文，直接返回
@@ -79,7 +101,7 @@ def translate_article(article, source):
         if source not in translation_db:
             translation_db[source] = {}
         translation_db[source][title] = translated
-        return {**article, **translated}
+        return {**article, **translated, '_sort_date': sort_date}
     
     # 这里调用实际的翻译API，暂时先用占位符（可根据实际情况替换成OpenAI/DeepL等API）
     # 注意：实际使用时需要配置API密钥在环境变量中
@@ -96,7 +118,7 @@ def translate_article(article, source):
         translation_db[source] = {}
     translation_db[source][title] = translated
     
-    return {**article, **translated}
+    return {**article, **translated, '_sort_date': sort_date}
 
 def main():
     print("🔄 开始翻译新增文章...")

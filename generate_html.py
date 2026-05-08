@@ -9,10 +9,27 @@
 - RSS订阅
 """
 import json
+import json
 import os
-import sys
 from datetime import datetime, timedelta
-from email.utils import formatdate
+from pathlib import Path
+
+def parse_date(date_str):
+    """解析多种格式的日期，返回YYYY-MM-DD格式的字符串"""
+    if not date_str:
+        return datetime.now().strftime('%Y-%m-%d')
+    date_formats = [
+        '%B %d, %Y', # May 7, 2026
+        '%b %d, %Y', # May 7, 2026
+        '%Y-%m-%d', # 2026-05-07
+        '%m/%d/%Y', # 05/07/2026
+    ]
+    for fmt in date_formats:
+        try:
+            return datetime.strptime(date_str.strip(), fmt).strftime('%Y-%m-%d')
+        except:
+            continue
+    return datetime.now().strftime('%Y-%m-%d')
 
 # 加载配置
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
@@ -257,7 +274,7 @@ def generate_html():
     for article in all_articles:
         article['_source_name'] = article.get('source', '未知来源')
         article['_source_color'] = source_info_map.get(article['_source_name'], {}).get('color', '#6B7280')
-        article['_sort_date'] = format_date_key(article.get('date', ''))
+        article['_sort_date'] = parse_date(article.get('date', ''))
     
     # 去重
     existing_urls = set()
