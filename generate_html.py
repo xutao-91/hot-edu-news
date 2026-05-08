@@ -108,21 +108,24 @@ def get_all_translated_articles():
                 if isinstance(data, list):
                     for article in data:
                         # 确保是中文（标题至少包含3个中文字符）
-                        if "title" in article:
-                            cn_count = sum(1 for c in article["title"] if '\u4e00' <= c <= '\u9fff')
+                        title = article.get("title_cn", article.get("title", ""))
+                        if title:
+                            cn_count = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
                             if cn_count >= 3:
                                 articles.append(article)
                 # 数组嵌套在news字段的格式
                 elif isinstance(data, dict) and "news" in data:
                     for article in data["news"]:
                         # 确保是中文（标题至少包含3个中文字符）
-                        if "title" in article:
-                            cn_count = sum(1 for c in article["title"] if '\u4e00' <= c <= '\u9fff')
+                        title = article.get("title_cn", article.get("title", ""))
+                        if title:
+                            cn_count = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
                             if cn_count >= 3:
                                 articles.append(article)
                 # 单篇格式（新格式）
                 elif isinstance(data, dict) and "title" in data:
-                    cn_count = sum(1 for c in data["title"] if '\u4e00' <= c <= '\u9fff')
+                    title = data.get("title_cn", data.get("title", ""))
+                    cn_count = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
                     if cn_count >= 3:
                         articles.append(data)
             except:
