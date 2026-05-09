@@ -48,35 +48,7 @@ def render_template(template_name, context):
         template = f.read()
     
     import re
-    # 处理if条件 {% if condition %} ... {% endif %}
-    if_pattern = re.compile(r'{% if (.*?) %}(.*?){% endif %}', re.DOTALL)
-    while True:
-        match = if_pattern.search(template)
-        if not match:
-            break
-        condition, content = match.groups()
-        # 简单处理条件：如果变量存在且不为空则显示
-        condition = condition.strip()
-        show = False
-        try:
-            # 处理属性访问
-            if '.' in condition:
-                obj, attr = condition.split('.', 1)
-                if obj in context:
-                    val = context[obj]
-                    if isinstance(val, dict) and attr in val and val[attr]:
-                        show = True
-            else:
-                if condition in context and context[condition]:
-                    show = True
-        except:
-            pass
-        if show:
-            template = template[:match.start()] + content + template[match.end():]
-        else:
-            template = template[:match.start()] + '' + template[match.end():]
-    
-    # 处理for循环 {% for item in list %} ... {% endfor %}
+    # 先处理for循环 {% for item in list %} ... {% endfor %}，展开所有循环
     for_pattern = re.compile(r'{% for (.*?) in (.*?) %}(.*?){% endfor %}', re.DOTALL)
     while True:
         match = for_pattern.search(template)
@@ -103,7 +75,37 @@ def render_template(template_name, context):
             rendered += loop_content
         template = template[:match.start()] + rendered + template[match.end():]
     
-    # 处理剩余的变量
+    # 再处理所有if条件 {% if condition %} ... {% endif %}，不管是循环内还是循环外
+    if_pattern = re.compile(r'{% if (.*?) %}(.*?){% endif %}', re.DOTALL)
+    while True:
+        match = if_pattern.search(template)
+        if not match:
+            break
+        # 此时循环已经展开，直接处理if条件
+        # 先提取条件和内容
+        condition, content = match.groups()
+        condition = condition.strip()
+        show = False
+        try:
+            # 处理属性访问，此时变量已经是渲染后的？不对，还是要从context里判断
+            # 或者简单处理：如果条件里的变量存在且不为空则显示
+            if '.' in condition:
+                obj, attr = condition.split('.', 1)
+                if obj in context:
+                    val = context[obj]
+                    if isinstance(val, dict) and attr in val and val[attr]:
+                        show = True
+            else:
+                if condition in context and context[condition]:
+                    show = True
+        except:
+            pass
+        if show:
+            template = template[:match.start()] + content + template[match.end():]
+        else:
+            template = template[:match.start()] + '' + template[match.end():]
+    
+    # 最后处理剩余的顶层变量
     var_pattern = re.compile(r'{{\s*(.*?)\s*}}')
     def replace_var(m):
         key = m.group(1).strip()
