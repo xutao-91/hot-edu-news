@@ -1,9 +1,27 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-08T12:00:15.024752",
-  "total_news": 5,
+  "crawled_at": "2026-05-08T20:00:14.477136",
+  "total_news": 7,
   "news": [
+    {
+      "title": "New clues to disease severity identified in alpha1-antitrypsin deficiency",
+      "url": "https://source.washu.edu/2026/05/new-clues-to-disease-severity-identified-in-alpha1-antitrypsin-deficiency/",
+      "date": "2026-05-08",
+      "type": "Medicine",
+      "summary_en": "Researchers at WashU Medicine have identified a previously unknown cellular process that protects against liver disease caused by toxic protein buildup.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU to award seven honorary degrees during 165th Commencement",
+      "url": "https://source.washu.edu/2026/05/washu-to-award-seven-honorary-degrees-during-165th-commencement/",
+      "date": "2026-05-08",
+      "type": "Awards & Notables",
+      "summary_en": "WashU will confer seven honorary degrees during its 165th Commencement May 15. Here are the recipients.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Lee installed as inaugural Stickle professor",
       "url": "https://source.washu.edu/2026/05/lee-installed-as-inaugural-stickle-professor/",

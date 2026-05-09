@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison CDIS - School of Computer, Data & Information Sciences",
   "source_url": "https://cdis.wisc.edu/cdis-news/",
-  "crawled_at": "2026-05-08T12:00:15.749118",
-  "total_news": 1,
+  "crawled_at": "2026-05-08T20:00:14.247399",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Celebrating spring 2026 CDIS graduates",
+      "url": "https://cdis.wisc.edu/celebrating-spring-2026-cdis-graduates/",
+      "date": "May 8, 2026",
+      "type": "News",
+      "summary_en": "The School of Computer, Data & Information Sciences (CDIS) is proud to celebrate hundreds of spring 2026 graduates who emerge from our academic programs ready to make their mark on the world.  The graduates featured here offer a glimpse of the wide-ranging talents of students across CDIS programs. Each brings their …",
+      "source": "UW-Madison CDIS",
+      "category": "education"
+    },
     {
       "title": "2025-26 CDIS Undergraduates Honored at Chancellor’s Awards Ceremony",
       "url": "https://cdis.wisc.edu/2025-26-cdis-undergraduates-honored-at-chancellors-awards-ceremony/",

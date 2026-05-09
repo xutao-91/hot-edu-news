@@ -1,9 +1,18 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-05-08T12:00:28.735734",
-  "total_news": 1,
+  "crawled_at": "2026-05-08T20:00:28.580252",
+  "total_news": 2,
   "news": [
+    {
+      "title": "ACE Urges State Department to Prioritize Student Visa Processing Ahead of Fall",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Prioritize-Student-Visa-Processing.aspx",
+      "date": "May 8, 2026",
+      "type": "News",
+      "summary_en": "ACE and 31 other national higher education associations are urging the State Department in a May 5 letter to prioritize student and scholar visa processing during the peak season of spring-through-August.",
+      "source": "ACE",
+      "category": "general"
+    },
     {
       "title": "ACE’s Building Pathways Initiative Examines the Ecosystem of Economic Growth Through Higher Education in Pennsylvania",
       "url": "https://www.acenet.edu/News-Room/Pages/Building-Pathways-Pennsylvania.aspx",

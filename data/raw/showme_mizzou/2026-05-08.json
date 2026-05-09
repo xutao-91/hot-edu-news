@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-05-08T12:00:16.909897",
+  "crawled_at": "2026-05-08T20:00:18.443762",
   "total_news": 10,
   "news": [
+    {
+      "title": "University of Missouri unveils new Thompson Center building for world-class autism care",
+      "url": "https://showme.missouri.edu/2026/university-of-missouri-unveils-new-thompson-center-building-for-world-class-autism-care/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "State-of-the-art building for the Thompson Center for Autism & Neurodevelopment illustrates ongoing transformational support, \nopens doors to brighter futures for families.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "Missouri School of Journalism Professor Marty Steffens wins 2026 Distinguished Achievement Award",
       "url": "https://showme.missouri.edu/2026/missouri-school-of-journalism-professor-marty-steffens-wins-2026-distinguished-achievement-award/",
@@ -84,15 +93,6 @@
       "summary_en": "As a law school ambassador, Elly Lang DeVeney helps incoming students build connections, find community and feel at home.",
       "source": "Show Me Mizzou",
       "category": "students"
-    },
-    {
-      "title": "Mizzou veterinarian helps decode animal health",
-      "url": "https://showme.missouri.edu/2026/mizzou-veterinarian-helps-decode-animal-health/",
-      "date": "2026-05-05",
-      "type": "News",
-      "summary_en": "Lauren Delaney serves as the bridge between veterinarians and the expertise of Mizzou’s Veterinary Medical Diagnostic Laboratory, helping solve complex cases and protect animal health across Missouri and beyond.",
-      "source": "Show Me Mizzou",
-      "category": "general"
     }
   ]
 }

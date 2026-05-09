@@ -1,9 +1,18 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-05-08T12:00:11.474455",
-  "total_news": 8,
+  "crawled_at": "2026-05-08T20:00:11.621997",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Polarization and Punishment: Stanford Professor Awarded 2026 Palmer Prize",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "“The most sensible ways to approach criminal justice often are approaches that draw support from across the political divide,” says David A. Sklansky, Stanley Morrison Professor of Law at Stanford Law...",
+      "source": "IIT News",
+      "category": "academic"
+    },
     {
       "title": "Trial by Fire",
       "url": "https://www.iit.edu/news/trial-fire",

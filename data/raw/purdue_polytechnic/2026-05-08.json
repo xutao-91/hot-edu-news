@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-05-08T12:00:24.661863",
-  "total_news": 2,
+  "crawled_at": "2026-05-08T20:00:26.297256",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Purdue Polytechnic engineering technology professor named ASME Fellow",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-engineering-technology-professor-named-asme-fellow",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Eight Purdue Polytechnic students earn Golden Hammer Awards in Indianapolis",
       "url": "https://polytechnic.purdue.edu/newsroom/eight-purdue-polytechnic-students-earn-golden-hammer-awards-indianapolis",

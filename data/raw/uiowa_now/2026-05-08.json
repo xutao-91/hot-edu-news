@@ -1,8 +1,8 @@
 {
   "source": "University of Iowa Now",
   "source_url": "https://now.uiowa.edu/tags/featured-headlines",
-  "crawled_at": "2026-05-08T12:00:16.969359",
-  "total_news": 4,
+  "crawled_at": "2026-05-08T20:00:17.861796",
+  "total_news": 5,
   "news": [
     {
       "title": "Iowa alumnus nominated for Tony Award",
@@ -10,6 +10,15 @@
       "date": "2026-05-08",
       "type": "News",
       "summary_en": "University of Iowa alumnus Samuel D. Hunter’s Broadway debut, Little Bear Ridge Road, received a Tony Award nomination for Best Play on May 5.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "A new way to capture water — from air and with sunlight",
+      "url": "/news/2026/05/new-way-capture-water-air-and-sunlight",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Chemists at the University of Iowa have created a light-activated structure that captures and stores water from the air. The millimeter-scale lattice forms tiny cavities under ultraviolet light. While still a proof of concept, the approach could lead to water-harvesting technologies.",
       "source": "UIowa Now",
       "category": "general"
     },

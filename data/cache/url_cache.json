@@ -2014,5 +2014,101 @@
     "fetch_time": "2026-05-08T12:00:29.144882",
     "title": "JOBS REPORT: Trump Economy Roars Ahead with Big Private Sector Job Gains",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/from-compensatory-to-transformative-indigenous-women-teachers-and-the-future-of-intercultural-education-in-argentina/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-08T20:00:09.109041",
+    "title": "From compensatory to transformative: Indigenous women teachers and the future of intercultural education in Argentina",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/raising-a-city-how-addis-ababa-reimagined-early-childhood-development/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-08T20:00:09.109068",
+    "title": "Raising a city: How Addis Ababa reimagined early childhood development",
+    "category": "ai"
+  },
+  "https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-08T20:00:12.134338",
+    "title": "Polarization and Punishment: Stanford Professor Awarded 2026 Palmer Prize",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/nebraska-u-awarding-record-3885-degrees-may-8-9": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-08T20:00:14.817146",
+    "title": "Nebraska U awarding record 3,885 degrees May 8-9",
+    "category": "general"
+  },
+  "https://cdis.wisc.edu/celebrating-spring-2026-cdis-graduates/": {
+    "source": "uw_cdis",
+    "fetch_time": "2026-05-08T20:00:14.961965",
+    "title": "Celebrating spring 2026 CDIS graduates",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/new-clues-to-disease-severity-identified-in-alpha1-antitrypsin-deficiency/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-08T20:00:15.115141",
+    "title": "New clues to disease severity identified in alpha1-antitrypsin deficiency",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/05/washu-to-award-seven-honorary-degrees-during-165th-commencement/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-08T20:00:15.115195",
+    "title": "WashU to award seven honorary degrees during 165th Commencement",
+    "category": "general"
+  },
+  "/news/2026/05/new-way-capture-water-air-and-sunlight": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-05-08T20:00:18.459496",
+    "title": "A new way to capture water — from air and with sunlight",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/university-of-missouri-unveils-new-thompson-center-building-for-world-class-autism-care/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-08T20:00:19.078100",
+    "title": "University of Missouri unveils new Thompson Center building for world-class autism care",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-california": {
+    "source": "edgov",
+    "fetch_time": "2026-05-08T20:00:25.128623",
+    "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at History Rocks! Event in California",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-first-grant-competitions-under-family-engagement-and-school": {
+    "source": "edgov",
+    "fetch_time": "2026-05-08T20:00:25.128647",
+    "title": "U.S. Department of Education and U.S. Department of Health and Human Services Announce First Grant Competitions Under Family Engagement and School Support Partnership",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district-0": {
+    "source": "edgov",
+    "fetch_time": "2026-05-08T20:00:25.128658",
+    "title": "U.S. Department of Education Office for Civil Rights Opens Disability Discrimination Investigation into Texas School District",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-engineering-technology-professor-named-asme-fellow": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-08T20:00:26.971794",
+    "title": "Purdue Polytechnic engineering technology professor named ASME Fellow",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Synthetic-biology-leads-to-recyclable-textiles-Engineered-protein-fibers-for-a-cleaner-future.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-08T20:00:28.085990",
+    "title": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
+    "category": "biomanufacturing"
+  },
+  "https://engineering.washu.edu/news/2026/Mixed-plastic-waste-target-of-upcycling-process-to-cut-waste-emissions.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-08T20:00:28.086014",
+    "title": "Mixed plastic waste target of upcycling process to cut waste, emissions",
+    "category": "semiconductor"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ACE-Prioritize-Student-Visa-Processing.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-05-08T20:00:28.776420",
+    "title": "ACE Urges State Department to Prioritize Student Visa Processing Ahead of Fall",
+    "category": "education"
   }
 }

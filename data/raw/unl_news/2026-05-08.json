@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-08T12:00:14.201793",
-  "total_news": 19,
+  "crawled_at": "2026-05-08T20:00:14.164625",
+  "total_news": 20,
   "news": [
+    {
+      "title": "Nebraska U awarding record 3,885 degrees May 8-9",
+      "url": "https://news.unl.edu/article/nebraska-u-awarding-record-3885-degrees-may-8-9",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Bachman to cap 43-year career with a final commencement",
       "url": "https://news.unl.edu/article/bachman-to-cap-43-year-career-with-a-final-commencement",
