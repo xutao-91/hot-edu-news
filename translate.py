@@ -231,10 +231,10 @@ def main():
     print("🔄 开始翻译新增文章（仅处理最近4天的文章）...")
     os.makedirs(TRANSLATED_DIR, exist_ok=True)
     
-    # 计算最近4天的日期范围
+    # 计算最近30天的日期范围（临时调整处理全量历史文章）
     from datetime import datetime, timedelta
     today = datetime.now()
-    four_days_ago = today - timedelta(days=4)
+    four_days_ago = today - timedelta(days=30)
     
     new_translated_count = 0
     all_translated_articles = []
