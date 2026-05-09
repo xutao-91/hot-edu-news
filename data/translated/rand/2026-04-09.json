@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Designing Incident Reporting Systems for Harms from General-Purpose AI",
+    "url": "https://www.rand.org/pubs/external_publications/EP71295.html",
+    "date": "Apr 6, 2026",
+    "type": "Research",
+    "summary_en": "We introduce a conceptual framework and provide considerations for the institutional design of AI incident reporting (IR) systems, i.e., processes for collecting information about safety- and rights-related events caused by general-purpose AI.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "通用人工智能致害事件报告系统设计",
+    "summary_cn": "",
+    "translated_time": "2026-05-09T03:16:01.479214",
+    "_sort_date": "2026-04-06"
+  },
+  {
+    "title": "Infinite Potential—Insights from the Viral Uplift Scenario: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4727-1.html",
+    "date": "Apr 6, 2026",
+    "type": "Research",
+    "summary_en": "In this after-action report, the authors describe a series of exercises centered on the misuse of artificial intelligence models to generate novel biological threats and intended to elicit policy options that could help reduce the risks and impact.",
+    "source": "Rand Corporation",
+    "category": "general",
+    "title_cn": "无限潜能——来自病毒式提升场景的洞见：通用人工智能问世次日系列演练事后报告",
+    "summary_cn": "",
+    "translated_time": "2026-05-09T03:17:00.441286",
+    "_sort_date": "2026-04-06"
+  }
+]

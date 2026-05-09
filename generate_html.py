@@ -373,7 +373,7 @@ def generate_html():
         articles_for_template.append({
             'title': article.get('title_cn', article.get('title', '')),
             'original_title': article.get('title', ''),
-            'summary': article.get('summary_cn', article.get('summary', '')),
+            'summary': article.get('summary_cn', article.get('summary', '')).replace('\n', '<br>'), # 换行转HTML标签，保证页面分段显示
             'url': article.get('url', ''),
             'date_short': date_short,
             'sort_date': article.get('_sort_date', ''),

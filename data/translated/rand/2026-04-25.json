@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Evaluation of the Networks for School Improvement Initiative—How Network Hubs Develop and Support Continuous Improvement Networks: Final Report",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4409-1.html",
+    "date": "Apr 22, 2026",
+    "type": "Research",
+    "summary_en": "In this report, the authors examine how intermediary organizations developed and supported 25 networks of schools using continuous improvement approaches to improve educational outcomes for students who are Black, Latino, or experiencing poverty.",
+    "source": "Rand Corporation",
+    "category": "students",
+    "title_cn": "《学校改进网络计划评估——网络枢纽如何构建并支持持续改进网络：最终报告》",
+    "summary_cn": "",
+    "translated_time": "2026-05-09T03:22:51.236033",
+    "_sort_date": "2026-04-22"
+  },
+  {
+    "title": "Evaluation of the Networks for School Improvement Initiative—How Network Hubs Develop and Support Continuous Improvement Networks: Data Sources and Methodology",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4409-2.html",
+    "date": "Apr 22, 2026",
+    "type": "Research",
+    "summary_en": "The authors review the data and methods used to examine how intermediaries developed and supported 25 school networks using continuous improvement approaches to improve educational outcomes for students who are Black, Latino, or experiencing poverty.",
+    "source": "Rand Corporation",
+    "category": "students",
+    "title_cn": "《学校改进网络倡议评估——网络枢纽如何构建与支持持续改进网络：数据来源与研究方法》",
+    "summary_cn": "",
+    "translated_time": "2026-05-09T03:23:32.860357",
+    "_sort_date": "2026-04-22"
+  },
+  {
+    "title": "Evaluation of Networks for School Improvement: Impacts, Implementation, and Lessons for Network-Based Continuous Improvement",
+    "url": "https://www.rand.org/pubs/research_briefs/RBA4409-1.html",
+    "date": "Apr 22, 2026",
+    "type": "Research Summary",
+    "summary_en": "This brief summarizes the results of a network-based continuous improvement initiative to increase the proportion of students who are Black, Latino, or experiencing poverty and are on track for high school graduation and college enrollment.",
+    "source": "Rand Corporation",
+    "category": "students",
+    "title_cn": "学校改进网络评估：实施成效、推进情况及基于网络持续改进的经验启示",
+    "summary_cn": "",
+    "translated_time": "2026-05-09T03:25:29.202178",
+    "_sort_date": "2026-04-22"
+  },
+  {
+    "title": "Simpler Is Better for Autograders: Toward Cost-Effective LLM Evaluations for Open-Ended Tasks",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4618-1.html",
+    "date": "Apr 22, 2026",
+    "type": "Research",
+    "summary_en": "A simple rubric-based autograder outperformed more-complex large language model grading methods across benchmarks, often matching or beating nonexpert human graders while cutting down evaluation time and cost.",
+    "source": "Rand Corporation",
+    "category": "general",
+    "title_cn": "自动评分器宜简不宜繁：探索面向开放式任务的高成本效益大语言模型评估路径",
+    "summary_cn": "无对应英文原文内容，无法开展翻译工作。",
+    "translated_time": "2026-05-09T03:26:14.347828",
+    "_sort_date": "2026-04-22"
+  }
+]
