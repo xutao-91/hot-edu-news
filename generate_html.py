@@ -181,10 +181,19 @@ def get_all_translated_articles():
 
 def parse_date(date_str):
     """解析各种日期格式"""
+    # 预处理：去掉星期前缀和时间时区后缀，只保留日期部分
+    import re
+    # 匹配 Mon, dd Month YYYY 或者 Mon, dd Mon YYYY 格式，去掉前面的星期和后面的时间
+    date_str = re.sub(r'^[A-Za-z]{3},\s*', '', date_str.strip())
+    date_str = re.sub(r'\s+\d{2}:\d{2}:\d{2}\s+.*$', '', date_str)
+    
     formats = [
         '%B %d, %Y',      # March 25, 2026
         '%b %d, %Y',      # Mar 25, 2026
         '%Y-%m-%d',       # 2026-03-25
+        '%d %B %Y',       # 04 May 2026
+        '%d %b %Y',       # 04 May 2026
+        '%m/%d/%Y',       # 05/04/2026
     ]
     for fmt in formats:
         try:
