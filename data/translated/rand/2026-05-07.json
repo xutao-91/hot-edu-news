@@ -7,9 +7,9 @@
     "summary_en": "Amid concerns about the diminishing role of full books in schools, this report examines whether secondary English language arts teachers assign full books and how full-book assignment varies based on teachers’ curricula and context.",
     "source": "Rand Corporation",
     "category": "teachers",
-    "title_cn": "中学英语语言艺术课堂整本书阅读：2025年春季美国教学资源调查结果",
-    "summary_cn": "本次发布的为2025年春季美国教学资源调查项下中学英语语言艺术课堂整本书阅读相关调研结果。该项调查由美国教育领域专业机构组织开展，覆盖全美不同区域、不同办学属性的普通中学，旨在全面摸清当前美国中学英语语言艺术学科整本书阅读教学的实施现状、实际成效及存在的突出问题，为后续优化教学资源供给、完善学科教学规范提供数据支撑。",
-    "translated_time": "2026-05-08T21:57:22.697214",
+    "title_cn": "中学英语语言艺术课堂整本书阅读情况：2025年春季美国教学资源调查结果",
+    "summary_cn": "2025年春季，美国教育调研主管部门组织开展全国教学资源调查，形成并发布中学英语语言艺术课堂整本书阅读专项调研结果，全面反映当前美国中学英语学科整本书阅读教学的实施现状。",
+    "translated_time": "2026-05-08T22:54:35.152633",
     "_sort_date": "2026-05-06"
   },
   {
@@ -20,9 +20,9 @@
     "summary_en": "The purpose of this exploratory study was to examine the potential utility of school-level poverty measures other than free or reduced-price lunch for achieving population representativeness in survey weighting.",
     "source": "Rand Corporation",
     "category": "students",
-    "title_cn": "《校级教育贫困调查研究：免费或减价午餐作为加权变量可否由其他更可靠测算指标替代？》",
-    "summary_cn": "近期，教育领域专项研究团队就校级教育贫困测算相关问题开展专题研究，核心研究议题为现行用于衡量校级贫困水平的免费或减价午餐加权变量，是否可由其他可靠性更高的测算指标予以替代。",
-    "translated_time": "2026-05-08T21:57:50.644633",
+    "title_cn": "《校级教育贫困状况调查研究：免费或减价午餐指标作为权重变量是否可由其他更可靠测量指标替代》",
+    "summary_cn": "为进一步完善教育贫困测量工作体系，提升教育统计指标科学性与精准性，相关教育研究机构日前启动校级教育贫困状况专项调查研究，核心研究内容为论证当前普遍使用的学生免费或减价午餐指标作为权重变量的可替代性问题。",
+    "translated_time": "2026-05-08T22:54:57.451293",
     "_sort_date": "2026-05-05"
   },
   {
@@ -33,9 +33,9 @@
     "summary_en": "The author aims to inform artificial intelligence contingency planning under the premise that preserving strategic optionality for future U.S.-China engagement serves U.S. interests. He proposes five potential lines of effort for doing so.",
     "source": "Rand Corporation",
     "category": "ai_technology",
-    "title_cn": "《美中未来人工智能保障与安全合作应急框架：保留战略选择空间》",
-    "summary_cn": "近期，相关国际教育与科技政策研究主体发布题为《美中未来人工智能保障与安全合作应急框架：保留战略选择空间》的研究成果，聚焦中美两国教育领域人工智能安全保障合作的机制设计问题展开论述。",
-    "translated_time": "2026-05-08T21:58:24.271570",
+    "title_cn": "中美未来人工智能安全保障合作应急框架：保留战略选择空间",
+    "summary_cn": "",
+    "translated_time": "2026-05-08T22:55:28.051148",
     "_sort_date": "2026-05-04"
   },
   {
@@ -46,9 +46,9 @@
     "summary_en": "Open-weight AI models (OWMs) introduce distinct risk factors for which existing evaluation practices, largely designed for closed-weight model deployment, fail to account. The authors propose proportional evaluation approaches for OWMs.",
     "source": "Rand Corporation",
     "category": "ai_technology",
-    "title_cn": "开源权重人工智能模型需采用相匹配的评估方法",
-    "summary_cn": "近期，教育领域围绕开源权重人工智能模型应用管理相关研究形成明确结论，指出针对该类模型的评估工作需采用与模型定位、应用场景相匹配的实施方式，保障评估结果科学严谨，契合教育领域实际使用需求。",
-    "translated_time": "2026-05-08T21:58:50.032016",
+    "title_cn": "开源权重人工智能模型需采用适配性评估方法",
+    "summary_cn": "近期，教育领域人工智能技术应用管理研究明确提出，开源权重人工智能模型需采用相适配的评估方法，保障该类模型在教育场景应用的合规性、安全性与育人价值导向。",
+    "translated_time": "2026-05-08T22:55:59.426207",
     "_sort_date": "2026-05-04"
   }
 ]
