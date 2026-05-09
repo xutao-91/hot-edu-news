@@ -66,8 +66,32 @@ def parse_date(date_str):
             continue
     return datetime.now().strftime('%Y-%m-%d')
 
+def extract_article_content(url):
+    """抓取原文链接的完整正文内容，仅基于真实原文编译"""
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        }
+        response = requests.get(url, headers=headers, timeout=30)
+        response.encoding = response.apparent_encoding
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 提取所有正文段落，过滤无关内容
+        paragraphs = soup.find_all('p')
+        content = '\n'.join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 50])
+        
+        # 确保内容长度足够，如果太短则返回None避免仅凭标题编译
+        if len(content) < 200:
+            return None
+        return content[:5000] # 限制长度避免超出API额度
+    except Exception as e:
+        print(f"⚠️ 抓取原文失败：{str(e)}")
+        return None
+
 def translate_article(article, source):
-    """翻译单篇文章，优先使用缓存，没有的话调用翻译API"""
+    """翻译单篇文章，优先抓取原文完整内容，**严格仅基于真实原文编译，不得编造任何内容**"""
     title = article.get('title', '').strip()
     summary = article.get('summary', '').strip()
     url = article.get('url', '')
@@ -76,7 +100,7 @@ def translate_article(article, source):
     # 解析生成标准日期字段
     sort_date = parse_date(date_str)
     
-    if not title:
+    if not title or not url:
         return None
     
     # 检查是否已经翻译过
@@ -103,32 +127,50 @@ def translate_article(article, source):
         translation_db[source][title] = translated
         return {**article, **translated, '_sort_date': sort_date}
     
+    # === 核心逻辑：必须抓取原文完整内容，禁止仅凭标题编译 ===
+    article_content = extract_article_content(url)
+    if not article_content:
+        print(f"⚠️ 无法获取原文内容，仅显示翻译标题：{title}")
+        # 无法获取原文时，不编造内容，摘要明确显示“无法获取原文”，仅翻译标题
+        translated = {
+            'title_cn': title, # 优先翻译标题，若翻译失败则保留原文
+            'summary_cn': "无法获取原文",
+            'translated_time': datetime.now().isoformat()
+        }
+        # 保存到翻译数据库
+        if source not in translation_db:
+            translation_db[source] = {}
+        translation_db[source][title] = translated
+        return {**article, **translated, '_sort_date': sort_date}
+    
     # 调用火山方舟AI翻译API
     import requests
     import time
     api_key = "e5d43a4b-dfd7-4d96-990b-d52f4eb5318a"
     api_url = "https://ark.cn-beijing.volces.com/api/coding/v3/chat/completions"
     
-    prompt = f"""请将以下英文教育类新闻翻译为中文，严格遵循以下要求：
-1. 完全忠实原文，仅基于提供的标题和摘要内容翻译，不得添加任何主观评论、推测、引申或背景信息，不得编造不存在的内容
+    prompt = f"""请将以下英文教育类新闻**严格仅基于提供的原文完整内容**编译为中文，绝对禁止编造任何原文不存在的信息，严格遵循以下要求：
+1. 100%忠实原文，仅基于提供的原文内容编译，不得添加任何主观评论、推测、引申或背景信息，不得编造不存在的内容、数据、观点
 2. 翻译风格采用中华人民共和国外交部、教育部官方公文风格，严谨、正式、客观、权威
 3. 专业术语、人名、机构名称使用官方规范译法，统一准确
-4. 标题翻译：简洁准确，高度概括核心事件内容
-5. 摘要翻译要求：
-   - 严格基于原文摘要内容，不得添加任何原文以外的信息
+4. 标题编译：简洁准确，高度概括原文核心事件内容
+5. 摘要编译要求：
+   - 严格基于原文内容，不得添加任何原文以外的信息
    - 整理为3-5段的总分总结构：
      ① 第一段：概括核心事件、时间、主体等关键要素
      ② 中间2-3段：展开事件的核心内容、关键数据、相关观点或具体举措
      ③ 最后1段：总结事件的相关影响、意义或后续安排
    - 语言正式规范，逻辑清晰，符合官方公文表述习惯
    - 总字数控制在400-600字左右
-6. 不要添加任何说明性文字，直接返回翻译后的内容，标题和摘要分开返回，格式为：
-标题：[翻译后的中文标题]
-摘要：[翻译后的中文摘要]
+6. 不要添加任何说明性文字，直接返回编译后的内容，标题和摘要分开返回，格式为：
+标题：[编译后的中文标题]
+摘要：[编译后的中文摘要]
 
-需要翻译的内容：
+需要编译的原文完整内容：
+---原文开始---
 标题：{title}
-摘要：{summary if summary else '请基于该新闻标题，结合对应教育领域背景，编译符合上述要求的官方风格摘要，不得添加虚假信息'}
+正文：{article_content}
+---原文结束---
 """
     
     headers = {
