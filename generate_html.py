@@ -42,13 +42,41 @@ OUTPUT_DIR = config['html']['output_dir']
 
 
 def render_template(template_name, context):
-    """简单的模板渲染函数，支持{{变量}}和{% for %}循环"""
+    """简单的模板渲染函数，支持{{变量}}、{% for %}循环和{% if %}条件"""
     template_path = os.path.join(os.path.dirname(__file__), 'templates', template_name)
     with open(template_path, 'r', encoding='utf-8') as f:
         template = f.read()
     
-    # 处理for循环 {% for item in list %} ... {% endfor %}
     import re
+    # 处理if条件 {% if condition %} ... {% endif %}
+    if_pattern = re.compile(r'{% if (.*?) %}(.*?){% endif %}', re.DOTALL)
+    while True:
+        match = if_pattern.search(template)
+        if not match:
+            break
+        condition, content = match.groups()
+        # 简单处理条件：如果变量存在且不为空则显示
+        condition = condition.strip()
+        show = False
+        try:
+            # 处理属性访问
+            if '.' in condition:
+                obj, attr = condition.split('.', 1)
+                if obj in context:
+                    val = context[obj]
+                    if isinstance(val, dict) and attr in val and val[attr]:
+                        show = True
+            else:
+                if condition in context and context[condition]:
+                    show = True
+        except:
+            pass
+        if show:
+            template = template[:match.start()] + content + template[match.end():]
+        else:
+            template = template[:match.start()] + '' + template[match.end():]
+    
+    # 处理for循环 {% for item in list %} ... {% endfor %}
     for_pattern = re.compile(r'{% for (.*?) in (.*?) %}(.*?){% endfor %}', re.DOTALL)
     while True:
         match = for_pattern.search(template)
@@ -341,9 +369,9 @@ def generate_html():
                 pass
         
         articles_for_template.append({
-            'title': article.get('title', ''),
-            'original_title': article.get('original_title', ''),
-            'summary': summary,
+            'title': article.get('title_cn', article.get('title', '')),
+            'original_title': article.get('title', ''),
+            'summary': article.get('summary_cn', article.get('summary', '')),
             'url': article.get('url', ''),
             'date_short': date_short,
             'sort_date': article.get('_sort_date', ''),
