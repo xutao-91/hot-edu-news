@@ -1,0 +1,53 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-09T20:00:17.814400",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "A Camp Randall commencement",
+      "url": "https://news.wisc.edu/a-camp-randall-commencement/",
+      "date": "May 9, 2026",
+      "type": "News",
+      "summary_en": "Tears of joy, words of advice and some jumping around mark Saturday's ceremony.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "‘The world needs you’",
+      "url": "https://news.wisc.edu/the-world-needs-you/",
+      "date": "May 8, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison celebrated the achievements and expertise of doctoral and professional graduates at Friday’s spring commencement.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Second fusion summit at UW signals the Midwest’s rise as a fusion powerhouse",
+      "url": "https://engineering.wisc.edu/news/second-fusion-summit-at-uw-madison-signals-the-midwests-rise-as-a-fusion-powerhouse/",
+      "date": "May 7, 2026",
+      "type": "News",
+      "summary_en": "The event brought together researchers, industry leaders, government officials and investors to learn about and discuss fusion as a viable energy source.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Primatologist Karen Strier elected to the American Philosophical Society",
+      "url": "https://news.wisc.edu/primatologist-karen-strier-elected-to-the-american-philosophical-society/",
+      "date": "May 7, 2026",
+      "type": "News",
+      "summary_en": "The highly selective distinction honors her more than four decades studying and working to protect an endangered monkey species.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Badgers buckle down for finals",
+      "url": "https://news.wisc.edu/badgers-buckle-down-for-finals/",
+      "date": "May 6, 2026",
+      "type": "News",
+      "summary_en": "In study pods, on the Terrace, at the libraries and everywhere in between, Badgers are getting ready for the semester's last hurdle: finals.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

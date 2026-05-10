@@ -1,0 +1,98 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-05-09T20:00:07.379271",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Student musicians, speakers add special touch to K-State commencement",
+      "url": "https://www.k-state.edu/news/articles/2026/05/student-speakers-musicians-at-spring-commencement-ceremonies.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "K-State's spring 2026 commencement will feature student musicians and speakers during the spring ceremonies on Saturday, May 9, in Salina and Friday, May 15, and Saturday, May 16, in...",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "More than a degree",
+      "url": "https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Meet two graduate students who went beyond the degree and distinguished themselves not only through scholarly activities, but also through their presence on campus and in their communit...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Purple Praise: All-University Awards",
+      "url": "https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Highlights from K-State's All-University Awards celebrate the achievements of 'Cats across campus in this special edition of Purple Praise.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State launches pilot AI Consultation Service for researchers",
+      "url": "https://www.k-state.edu/news/articles/2026/05/ai-consultation-services-research-tool.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "K-State researchers now have access to expert advice on the potential applications of artificial intelligence in their work, from choosing appropriate tools to evaluating ethical, practical...",
+      "source": "K-State News",
+      "category": "research"
+    },
+    {
+      "title": "The science of spring burning",
+      "url": "https://www.k-state.edu/news/articles/2026/05/prescribed-burning-flint-hills-cattle-grassland-management.html",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Prescribed burns may look dramatic, but they're a critical tool for Flint Hills ranchers working to sustain grasslands and improve cattle grazing.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Back-to-back national rocketry champs",
+      "url": "https://www.k-state.edu/news/articles/2026/05/wildcat-rocketry-argonia-cup-champions.html",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "The Wildcat Rocketry team took home gold for the second consecutive year at the Argonia Cup, a national collegiate rocketry competition that hosts teams from all over the country.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Champions of the classroom and beyond",
+      "url": "https://www.k-state.edu/news/articles/2026/05/ganga-hettiarachchi-ryan-rafferty-graduate-faculty-mentor-award.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Great mentorship has a quiet way of changing everything. When graduate students feel supported as a whole person, the path forward becomes clearer. This year, K-State is honoring Ganga...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Navigate summer improvements",
+      "url": "https://www.k-state.edu/news/articles/2026/05/summer-construction-updates-manhattan-campus.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Summer is a busy season for construction and maintenance across the Manhattan campus, and several projects will be underway to improve campus spaces.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "May’s Water Wednesday to showcase student research and future water leaders",
+      "url": "https://www.k-state.edu/news/articles/2026/05/student-led-water-research-water-wednesday.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "The final Water Wednesday of the academic year will spotlight student-led water research at K-State and the programs that help students turn curiosity into real-world impact.",
+      "source": "K-State News",
+      "category": "research"
+    },
+    {
+      "title": "Elevating K-State impact",
+      "url": "https://www.k-state.edu/news/articles/2026/05/wildcat-scholar-research-hub.html",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "One of Wildcat Scholar's core components, Symplectic Elements, is now live. The system brings all next-gen land-grant work happening across campus into a connected, organized system...",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

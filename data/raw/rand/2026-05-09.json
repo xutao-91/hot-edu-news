@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-09T20:00:31.449592",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Reading Full Books in Secondary English Language Arts Classrooms: Findings from the Spring 2025 American Instructional Resources Survey",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4594-4.html",
+      "date": "May 6, 2026",
+      "type": "Research",
+      "summary_en": "Amid concerns about the diminishing role of full books in schools, this report examines whether secondary English language arts teachers assign full books and how full-book assignment varies based on teachers’ curricula and context.",
+      "source": "Rand Corporation",
+      "category": "teachers"
+    }
+  ]
+}

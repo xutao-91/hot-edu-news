@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-09T20:00:29.277472",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UChicago chemists invent new way to swap nitrogen into molecules",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-invent-new-way-swap-nitrogen-molecules",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Breakthrough could speed up new drug discovery",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Four UChicago undergraduates awarded 2026 Goldwater Scholarship",
+      "url": "https://news.uchicago.edu/story/four-uchicago-undergraduates-awarded-2026-goldwater-scholarship",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Third-years Arthur Costa, Shelley Fernando, Mason McCormack and Vincent Wang earn prestigious award for their research",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Edith Rickert: Novelist, Chaucer scholar and WWI code breaker",
+      "url": "https://news.uchicago.edu/story/edith-rickert-novelist-chaucer-scholar-and-wwi-code-breaker",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "New biography of UChicago professor and alumna shines light on her contributions to cryptography and medieval scholarship",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What a thousand years of economic history reveals about modern growth",
+      "url": "https://news.uchicago.edu/story/what-thousand-years-economic-history-reveals-about-modern-growth",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Nobel laureates James Robinson, Joel Mokyr explored origins of the modern economy with Harris and Booth colleagues at recent Stone Center panel",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Deep in the ice, Antarctic detectors pick up incoming cosmic rays from outer space",
+      "url": "https://news.uchicago.edu/story/deep-ice-antarctic-detectors-pick-incoming-cosmic-rays-outer-space",
+      "date": "2026-05-06",
+      "type": "News",
+      "summary_en": "Detection by Askaryan Radio Array holds promise for future research into sources, nature of cosmic rays and neutrinos",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

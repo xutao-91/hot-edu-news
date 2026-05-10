@@ -7,9 +7,9 @@
     "summary_en": "Amid concerns about the diminishing role of full books in schools, this report examines whether secondary English language arts teachers assign full books and how full-book assignment varies based on teachers’ curricula and context.",
     "source": "Rand Corporation",
     "category": "teachers",
-    "title_cn": "中学英语语言艺术课堂整本阅读：2025年春季美国教学资源调查结果",
-    "summary_cn": "您未提供摘要部分的待翻译英文原文，请补充相关内容后以便完成翻译工作。",
-    "translated_time": "2026-05-09T03:20:25.620639",
+    "title_cn": "2025年春季美国教学资源调查：中学英语语言艺术课堂完整书籍阅读情况",
+    "summary_cn": "兰德公司基于2025年春季美国教学资源调查数据发布报告，该调查面向全美公立学校幼儿园至十二年级教师，具有全国代表性。报告旨在考察中学英语语言艺术教师是否为学生布置完整书籍阅读、布置数量及布置情况因教师课程与背景不同而产生的差异。调查结果揭示了2024至2025学年中学英语语言艺术课堂中完整书籍阅读的整体状况。",
+    "translated_time": "2026-05-09T23:19:49.037815",
     "_sort_date": "2026-05-06"
   },
   {
@@ -20,9 +20,9 @@
     "summary_en": "The purpose of this exploratory study was to examine the potential utility of school-level poverty measures other than free or reduced-price lunch for achieving population representativeness in survey weighting.",
     "source": "Rand Corporation",
     "category": "students",
-    "title_cn": "教育调查研究中的校级贫困问题研究：作为权重变量的免费或减价午餐可否由其他更可靠测度指标替代",
+    "title_cn": "学校层面贫困测量研究：免费或减价午餐作为加权变量能否被其他更可靠指标替代",
     "summary_cn": "",
-    "translated_time": "2026-05-09T03:21:16.531672",
+    "translated_time": "2026-05-09T23:19:55.536275",
     "_sort_date": "2026-05-05"
   },
   {
@@ -33,9 +33,9 @@
     "summary_en": "The author aims to inform artificial intelligence contingency planning under the premise that preserving strategic optionality for future U.S.-China engagement serves U.S. interests. He proposes five potential lines of effort for doing so.",
     "source": "Rand Corporation",
     "category": "ai_technology",
-    "title_cn": "未来中美人工智能安全与保障合作应急框架：保留战略选择空间",
-    "summary_cn": "",
-    "translated_time": "2026-05-09T03:32:39.907733",
+    "title_cn": "未来中美人工智能保障与安全合作应急框架：保持战略可选性",
+    "summary_cn": "兰德公司各研究部门在全球范围内为各客户开展广泛而独特的研究工作。本报告旨在为人工智能领域的应急规划提供信息参考，其基本前提是：为未来中美接触保持战略可选性符合美国利益。尽管当前地缘政治竞争激烈、双方深度互不信任，且所涉战略利害关系可能使双边人工智能合作在短期内既不可行也不明智，但本分析仍对若形势发生变化时所需框架与机制进行了研判。",
+    "translated_time": "2026-05-09T23:20:08.505634",
     "_sort_date": "2026-05-04"
   },
   {
@@ -46,9 +46,9 @@
     "summary_en": "Open-weight AI models (OWMs) introduce distinct risk factors for which existing evaluation practices, largely designed for closed-weight model deployment, fail to account. The authors propose proportional evaluation approaches for OWMs.",
     "source": "Rand Corporation",
     "category": "ai_technology",
-    "title_cn": "公开权重人工智能模型需采用相匹配的评估方法",
+    "title_cn": "开放权重人工智能模型需要比例评估方法",
     "summary_cn": "",
-    "translated_time": "2026-05-09T03:34:42.692874",
+    "translated_time": "2026-05-09T23:20:21.564123",
     "_sort_date": "2026-05-04"
   }
 ]

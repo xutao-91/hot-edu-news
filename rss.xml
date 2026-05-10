@@ -5,14 +5,14 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 09 May 2026 12:23:32 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 04:28:10 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-        <title>《2026年美国科学与工程状况》</title>
+        <title>美国国家科学委员会发布《2026年美国科学与工程状况》报告</title>
         <link>https://ncses.nsf.gov/pubs/nsbsep20261</link>
-        <description>未提供对应需翻译的摘要原文内容，无法完成翻译，请补充相关原文信息。</description>
+        <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://ncses.nsf.gov/pubs/nsbsep20261</guid>
         <category>综合</category>
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-        <title>联邦研发资金：2024至2025财年</title>
+        <title>美国发布2024—2025财年联邦研发经费调查相关公告</title>
         <link>https://ncses.nsf.gov/pubs/nsf26316</link>
         <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-        <title>2024财年联邦研发承付额增长4.4% 多数机构预计2025财年将出现下滑</title>
+        <title>美国2024财年联邦研发拨付义务增长4.4% 多数机构预计2025财年将出现下滑</title>
         <link>https://ncses.nsf.gov/pubs/nsf26317</link>
         <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
@@ -40,7 +40,7 @@
     </item>
     
     <item>
-        <title>成果转化效能：美国及全球科学、技术与创新产出状况</title>
+        <title>美国政府官网刊载《从成果转化到实际影响：美国及全球科学、技术与创新产出》分析内容</title>
         <link>https://ncses.nsf.gov/pubs/nsb20262</link>
         <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
@@ -50,19 +50,39 @@
     </item>
     
     <item>
-        <title>伍德里被任命为美国教育理事会研究员</title>
-        <link>https://oneill.indiana.edu/news/woodring-named-american-council-on-education-fellow.html</link>
+        <title>内布拉斯加大学林肯分校举行毕业典礼 勉励毕业生秉持使命引领 帮扶他人成长</title>
+        <link>https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others</link>
         <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://oneill.indiana.edu/news/woodring-named-american-council-on-education-fellow.html</guid>
-        <category>综合</category>
-        <source>O'Neill School at IU</source>
+        <guid isPermaLink="true">https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others</guid>
+        <category>alumni</category>
+        <source>UNL News</source>
     </item>
     
     <item>
-        <title>《从补偿性到变革性：阿根廷原住民女教师与跨文化教育发展前景》</title>
-        <link>https://www.brookings.edu/articles/from-compensatory-to-transformative-indigenous-women-teachers-and-the-future-of-intercultural-education-in-argentina/</link>
+        <title>威斯康星大学麦迪逊分校2026年春季毕业典礼在坎普兰德尔体育场举行</title>
+        <link>https://news.wisc.edu/a-camp-randall-commencement/</link>
         <description></description>
+        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.wisc.edu/a-camp-randall-commencement/</guid>
+        <category>综合</category>
+        <source>UW-Madison News</source>
+    </item>
+    
+    <item>
+        <title>华盛顿大学一名学生被报失踪</title>
+        <link>https://www.studlife.com/news/2026/05/09/washu-student-reported-missing</link>
+        <description>据圣路易斯市警察局失踪人员组通报，就读于华盛顿大学麦凯维工程学院的2028届学生安东尼奥·阿雷利亚诺-班达（Antonio Arellano-Banda）于5月8日被报失踪。警方记录显示，阿雷利亚诺-班达与朋友的最后一次已知联系时间为5月7日。圣路易斯市警察局已就此事件发布正式通报。</description>
+        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.studlife.com/news/2026/05/09/washu-student-reported-missing</guid>
+        <category>campus</category>
+        <source>Student Life</source>
+    </item>
+    
+    <item>
+        <title>从补偿性到变革性：土著女性教师与阿根廷跨文化教育的未来</title>
+        <link>https://www.brookings.edu/articles/from-compensatory-to-transformative-indigenous-women-teachers-and-the-future-of-intercultural-education-in-argentina/</link>
+        <description>历经三十年政策发展，阿根廷绝大多数土著儿童与青少年仍无法入读跨文化双语教育学校并接受优质教育，土著女童更因性别责任与安全关切面临额外障碍。本政策简报基于对土著女性教师及政策行为主体的叙事访谈、专题小组讨论、问卷调查及参与式研讨会，探究土著女性在其教育历程中所经历的路径、遇到的障碍与支持，并分析这些经验如何从文化视角揭示实现性别平等的路径。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.brookings.edu/articles/from-compensatory-to-transformative-indigenous-women-teachers-and-the-future-of-intercultural-education-in-argentina/</guid>
         <category>K-12教育</category>
@@ -70,7 +90,7 @@
     </item>
     
     <item>
-        <title>《亚的斯亚贝巴儿童早期发展创新实践案例研究正式发布》</title>
+        <title>亚的斯亚贝巴重塑早期儿童发展：打造非洲最适合育儿城市</title>
         <link>https://www.brookings.edu/articles/raising-a-city-how-addis-ababa-reimagined-early-childhood-development/</link>
         <description></description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
@@ -80,9 +100,9 @@
     </item>
     
     <item>
-        <title>学生音乐人及发言者为堪萨斯州立大学毕业典礼增添特色</title>
+        <title>堪萨斯州立大学2026年春季毕业典礼将安排学生音乐家与演讲者参与</title>
         <link>https://www.k-state.edu/news/articles/2026/05/student-speakers-musicians-at-spring-commencement-ceremonies.html</link>
-        <description></description>
+        <description>堪萨斯州立大学2026年春季毕业典礼定于2026年5月举行。典礼将分别在该校萨利纳校区与曼哈顿校区举办，仪式现场将安排学生音乐家及学生演讲者参与，为毕业典礼增添特色。本次毕业典礼是该校本年度春季学期的重要学术活动，旨在为毕业生营造庄重而富有纪念意义的仪式氛围。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/student-speakers-musicians-at-spring-commencement-ceremonies.html</guid>
         <category>students</category>
@@ -90,9 +110,19 @@
     </item>
     
     <item>
-        <title>紫色表彰：全校性奖项</title>
+        <title>超越学位：堪萨斯州立大学颁发研究生院长奖表彰学术与社会贡献杰出学子</title>
+        <link>https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html</link>
+        <description>堪萨斯州立大学研究生院每年表彰在学术成就以及校园与社区参与方面表现突出的研究生。本年度研究生院长优秀、参与及领导力奖授予两位杰出学者：课程与教学专业博士生欧内斯廷娜·维亚福及生物学专业博士生杰克·西茨马。研究生院临时院长菲利普·佩恩表示，两位获奖者充分体现了该校研究生教育的最高水平，其服务、研究与领导力为其他研究生树立了标杆，并提升了相关项目在国内外的知名度。</description>
+        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html</guid>
+        <category>综合</category>
+        <source>K-State News</source>
+    </item>
+    
+    <item>
+        <title>堪萨斯州立大学公布2026年度多项校级奖项获得者名单</title>
         <link>https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html</link>
-        <description></description>
+        <description>堪萨斯州立大学近期发布本期《紫色赞誉》特刊，集中报道2026年度全校奖项获得者及重要荣誉，展示该校各校区师生群体的卓越才华与奉献精神。常规月度版《紫色赞誉》将于2026年5月15日恢复出版。本次公布的奖项涵盖“大十二联盟教职员进修计划”“大十二联盟年度教职员”以及多项校级教学、科研与服务类荣誉。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html</guid>
         <category>综合</category>
@@ -100,9 +130,9 @@
     </item>
     
     <item>
-        <title>堪萨斯州立大学面向科研人员推出人工智能咨询试点服务</title>
+        <title>堪萨斯州立大学面向研究人员推出人工智能咨询试点服务</title>
         <link>https://www.k-state.edu/news/articles/2026/05/ai-consultation-services-research-tool.html</link>
-        <description></description>
+        <description>堪萨斯州立大学近日面向本校教师、研究生、博士后研究人员及其他科研人员，正式启动一项全新校园服务，旨在为人工智能在研究领域的潜在应用提供专家咨询。该服务由该校计算机科学系、堪萨斯州立大学图书馆及桑德兰基金会创新实验室联合推出，系为期一年的试点项目，将持续至2027年春季学期末。资金支持来自数字农业与先进分析研究所、卡尔·R·艾斯工程学院、堪萨斯州立大学图书馆及计算机科学系。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/ai-consultation-services-research-tool.html</guid>
         <category>research</category>
@@ -110,9 +140,9 @@
     </item>
     
     <item>
-        <title>斯坦福大学教授荣获2026年度罗伊·C·帕尔默民主、公民自由与法治奖</title>
+        <title>斯坦福大学教授斯基兰斯基荣获2026年帕尔默奖</title>
         <link>https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize</link>
-        <description></description>
+        <description>斯坦福大学法学院斯坦利·莫里森法学教授戴维·A·斯基兰斯基因其著作《分裂美国的刑事司法：警察、惩罚与我们民主的未来》荣获芝加哥-肯特法学院2026年罗伊·C·帕尔默民主、公民自由与法治奖。该奖项由校友罗伊·C·帕尔默及其夫人苏珊·M·帕尔默于2007年春季设立，旨在表彰探索自由民主宪政秩序所受威胁或支持因素的学术著作，奖金为1万美元，鼓励学者就影响全球个人权利与政府职责的当前议题展开公开辩论。斯基兰斯基将于2026年11月10日前往芝加哥-肯特法学院发表帕尔默奖演讲。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize</guid>
         <category>academic</category>
@@ -120,9 +150,9 @@
     </item>
     
     <item>
-        <title>美国教育部公民教育高级顾问凯蒂·戈尔卡在加利福尼亚州“历史激荡！”活动中强调公民教育工作</title>
+        <title>美国教育部公民教育高级顾问凯蒂·戈尔卡在加州“历史震撼！”活动上强调公民教育</title>
         <link>https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-california</link>
-        <description></description>
+        <description>美国教育部公民教育高级顾问凯蒂·戈尔卡于今日造访加利福尼亚州奇诺岗市的峡谷山初中，出席由教育部发起的全国性“历史震撼！”独立之路巡游活动。该活动系为庆祝美国即将迎来建国250周年而举办，旨在通过帮助学生亲身感受美国建国原则，提升其公民素养。共有1080名学生参与了旨在加深对美国历史与公民学理解以及加利福尼亚州在国家历史中所扮演重要角色的互动游戏。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-california</guid>
         <category>公民教育</category>
@@ -130,9 +160,9 @@
     </item>
     
     <item>
-        <title>美国教育部与卫生与公众服务部宣布家庭参与和学校支持伙伴关系项下首批赠款竞标活动</title>
+        <title>美国教育部与卫生与公众服务部联合启动家庭参与及学校支持伙伴关系首批拨款竞赛</title>
         <link>https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-first-grant-competitions-under-family-engagement-and-school</link>
-        <description></description>
+        <description>美国教育部与卫生与公众服务部于今日发布2026财年“准备好学习计划”与“希望社区计划”竞赛公告。此举系特朗普政府调整家庭参与及学校支持项目的重要步骤，旨在通过投资循证识字、高影响力辅导以及利用家庭与社区满足学生需求的方案，更好地服务于学生。本次竞赛标志着教育部中小学教育办公室与卫生与公众服务部儿童与家庭管理局之间的“家庭参与及学校支持”伙伴关系正式启动，后续将于春季晚些时候开展更多拨款竞赛。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-first-grant-competitions-under-family-engagement-and-school</guid>
         <category>K-12教育</category>
@@ -140,9 +170,9 @@
     </item>
     
     <item>
-        <title>美国教育部民权办公室启动对得克萨斯州休斯敦独立学区残疾歧视问题调查</title>
+        <title>美国教育部民权办公室对德克萨斯州学区启动残疾歧视调查</title>
         <link>https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district-0</link>
-        <description></description>
+        <description>美国教育部民权办公室于今日对位于德克萨斯州休斯顿市的休斯顿独立学区启动一项调查，以确认该学区是否违反《康复法案》第504节及《美国残疾人法案》第二编的相关规定，未按照法定程序确保残疾学生与非残疾学生在最大合理范围内共同接受教育，从而构成对残疾学生的歧视。根据法律规定，公立学校须在最大程度上保证残疾学生与非残疾学生同校就读，并在作出安置决定时遵循特定程序。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district-0</guid>
         <category>民权</category>
@@ -150,9 +180,9 @@
     </item>
     
     <item>
-        <title>美国教育部就涉嫌反犹太主义歧视一事对佛罗里达州贝县学区启动调查</title>
+        <title>美国教育部对佛罗里达州贝县学区涉嫌反犹太歧视行为启动调查</title>
         <link>https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-investigation-bay-county-florida-school-district-alleged-antisemitic-discrimination</link>
-        <description></description>
+        <description>美国教育部民权办公室于今日正式受理针对佛罗里达州贝县学区的投诉，并启动专项调查，以核实该学区是否对校园内发生的严重反犹太骚扰事件未能作出有效回应。本次调查旨在判定贝县学区是否违反一九六四年民权法第六编，即因允许或未能实质性回应反犹太骚扰行为而构成歧视。根据相关指控，该学区已知悉校内存在反犹太霸凌行为，包括反复出现的刻板印象言论、针对犹太人的阴谋论，以及在教科书及校园多处地点涂画纳粹标志等。此外，有学生在课堂展示活动中公然行纳粹礼、嘲弄性佩戴圆顶小帽，并展示极具攻击性的反犹太图像。学区被指未能采取合理有效的应对措施以制止骚扰并防止其再次发生。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-investigation-bay-county-florida-school-district-alleged-antisemitic-discrimination</guid>
         <category>民权</category>
@@ -160,9 +190,9 @@
     </item>
     
     <item>
-        <title>美国教育部长琳达·麦克马洪访问阿拉斯加州 开展“教育权归还各州”及“‘历史精彩！”全国巡访</title>
+        <title>美国教育部长琳达·麦克马洪访问阿拉斯加州 推进“将教育归还各州”巡游及“历史摇滚！”全国巡展</title>
         <link>https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-alaska-returning-education-states-and-history-rocks-nationwide-tours-0</link>
-        <description></description>
+        <description>美国教育部长琳达·麦克马洪于今日访问阿拉斯加州，先后赴马塔努斯卡-苏西特纳职业与技术高中及克尼克特许学校，参与“将教育归还</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-alaska-returning-education-states-and-history-rocks-nationwide-tours-0</guid>
         <category>公民教育</category>
@@ -170,43 +200,13 @@
     </item>
     
     <item>
-        <title>为何人工智能素养“中间路径”或将成为英语课堂未来发展方向</title>
-        <link>https://www.the74million.org/article/why-the-middle-path-of-ai-literacy-may-be-the-future-of-english-class/</link>
-        <description>未获取到对应英文摘要内容，请您补充需翻译的摘要原文后，我将为您完成规范翻译工作。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/article/why-the-middle-path-of-ai-literacy-may-be-the-future-of-english-class/</guid>
-        <category>综合</category>
-        <source>the74_news</source>
-    </item>
-    
-    <item>
-        <title>威斯康星大学麦迪逊分校计算机、数据与信息科学学院庆贺2026年春季学期毕业生</title>
+        <title>计算机、数据与信息科学学院隆重庆祝2026年春季毕业生</title>
         <link>https://cdis.wisc.edu/celebrating-spring-2026-cdis-graduates/</link>
-        <description></description>
+        <description>计算机、数据与信息科学学院（CDIS）于2026年春季隆重举行毕业庆祝活动，数百名完成学业项目的毕业生正式走出校园。这些毕业生展现出该学院学生广泛的技术才能、研究经验及领导能力，并秉持运用计算、数据与信息改善世界的承诺。他们在校内外的贡献已产生显著影响，且这一影响才刚刚开始。</description>
         <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://cdis.wisc.edu/celebrating-spring-2026-cdis-graduates/</guid>
         <category>教育政策</category>
         <source>UW-Madison CDIS</source>
-    </item>
-    
-    <item>
-        <title>2026届学子准备发挥影响力</title>
-        <link>https://education.indiana.edu/news/2026/jan-jun/2026-05-08-class-of-2026-ready-to-make-an-impact.html</link>
-        <description></description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://education.indiana.edu/news/2026/jan-jun/2026-05-08-class-of-2026-ready-to-make-an-impact.html</guid>
-        <category>综合</category>
-        <source>IU School of Education</source>
-    </item>
-    
-    <item>
-        <title>内布拉斯加大学林肯分校将于5月8日至9日举办毕业典礼 授予创纪录的3885个学位</title>
-        <link>https://news.unl.edu/article/nebraska-u-awarding-record-3885-degrees-may-8-9</link>
-        <description></description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.unl.edu/article/nebraska-u-awarding-record-3885-degrees-may-8-9</guid>
-        <category>综合</category>
-        <source>UNL News</source>
     </item>
     
 </channel>

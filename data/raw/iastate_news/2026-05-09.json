@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-05-09T20:00:13.358428",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "‘Atomic snapshots’ of proofreading enzyme could lead to better COVID-19 drugs",
+      "url": "https://www.news.iastate.edu/news/atomic-snapshots-proofreading-enzyme-could-lead-better-covid-19-drugs",
+      "date": "2026-05-06",
+      "type": "Science and Technology",
+      "summary_en": "An Iowa State University scientist used images from a cryogenic electron microscope to better understand why a common type of antiviral drug struggles to fight off the virus that causes COVID-19, findings that will guide designs for more effective treatment.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-05-09T20:00:29.338250",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
+      "url": "https://engineering.washu.edu/news/2026/Synthetic-biology-leads-to-recyclable-textiles-Engineered-protein-fibers-for-a-cleaner-future.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Researchers develop engineered protein polymers that can be easily recycled and reused.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Mixed plastic waste target of upcycling process to cut waste, emissions",
+      "url": "https://engineering.washu.edu/news/2026/Mixed-plastic-waste-target-of-upcycling-process-to-cut-waste-emissions.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Christopher Cooper tackles plastic upcycling with ARPA-E grant.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

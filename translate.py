@@ -146,8 +146,8 @@ def translate_article(article, source):
     # 调用火山方舟AI翻译API
     import requests
     import time
-    api_key = "e5d43a4b-dfd7-4d96-990b-d52f4eb5318a"
-    api_url = "https://ark.cn-beijing.volces.com/api/coding/v3/chat/completions"
+    api_key = "sk-ba136b610e344938a2955e0016e43b15"
+    api_url = "https://api.deepseek.com/v1/chat/completions"
     
     prompt = f"""请将以下英文教育类新闻**严格仅基于提供的原文完整内容**编译为中文，绝对禁止编造任何原文不存在的信息，严格遵循以下要求：
 1. 100%忠实原文，仅基于提供的原文内容编译，不得添加任何主观评论、推测、引申或背景信息，不得编造不存在的内容、数据、观点
@@ -179,7 +179,7 @@ def translate_article(article, source):
     }
     
     payload = {
-        "model": "ark-code-latest",
+        "model": "deepseek-v4-flash",
         "messages": [
             {"role": "user", "content": prompt}
         ],
@@ -231,10 +231,10 @@ def main():
     print("🔄 开始翻译新增文章（仅处理最近4天的文章）...")
     os.makedirs(TRANSLATED_DIR, exist_ok=True)
     
-    # 计算最近30天的日期范围（临时调整处理全量历史文章）
+    # 计算最近4天的日期范围
     from datetime import datetime, timedelta
     today = datetime.now()
-    four_days_ago = today - timedelta(days=30)
+    four_days_ago = today - timedelta(days=4)
     
     new_translated_count = 0
     all_translated_articles = []

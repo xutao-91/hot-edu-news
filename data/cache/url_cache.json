@@ -2110,5 +2110,35 @@
     "fetch_time": "2026-05-08T20:00:28.776420",
     "title": "ACE Urges State Department to Prioritize Student Visa Processing Ahead of Fall",
     "category": "education"
+  },
+  "https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-lift-up-others": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-09T12:00:15.139153",
+    "title": "Husker graduates encouraged to lead with purpose, lift up others",
+    "category": "general"
+  },
+  "https://news.wisc.edu/the-world-needs-you/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-09T12:00:18.122794",
+    "title": "‘The world needs you’",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-09T20:00:16.045117",
+    "title": "Husker graduates encouraged to lead with purpose, uplift others",
+    "category": "general"
+  },
+  "https://news.wisc.edu/a-camp-randall-commencement/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-09T20:00:18.382241",
+    "title": "A Camp Randall commencement",
+    "category": "semiconductor"
+  },
+  "https://www.studlife.com/news/2026/05/09/washu-student-reported-missing": {
+    "source": "studlife",
+    "fetch_time": "2026-05-09T20:00:24.922886",
+    "title": "WashU student reported missing",
+    "category": "education"
   }
 }
