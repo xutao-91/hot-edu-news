@@ -1,0 +1,35 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-05-10T20:00:26.718371",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue Polytechnic engineering technology professor named ASME Fellow",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-engineering-technology-professor-named-asme-fellow",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "Eight Purdue Polytechnic students earn Golden Hammer Awards in Indianapolis",
+      "url": "https://polytechnic.purdue.edu/newsroom/eight-purdue-polytechnic-students-earn-golden-hammer-awards-indianapolis",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Engineering Technology senior capstone projects, Tech Expo showcase now feature commercialization licenses",
+      "url": "https://polytechnic.purdue.edu/newsroom/engineering-technology-senior-capstone-projects-tech-expo-showcase-now-feature",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

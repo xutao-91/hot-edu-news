@@ -1,0 +1,35 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-10T20:00:24.085241",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "University of Missouri unveils new Thompson Center building for world-class autism care",
+      "url": "https://showme.missouri.edu/2026/university-of-missouri-unveils-new-thompson-center-building-for-world-class-autism-care/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "State-of-the-art building for the Thompson Center for Autism & Neurodevelopment illustrates ongoing transformational support, \nopens doors to brighter futures for families.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Missouri School of Journalism Professor Marty Steffens wins 2026 Distinguished Achievement Award",
+      "url": "https://showme.missouri.edu/2026/missouri-school-of-journalism-professor-marty-steffens-wins-2026-distinguished-achievement-award/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
+    {
+      "title": "Inspired by the brain, Mizzou researchers build smarter, more efficient computer hardware",
+      "url": "https://showme.missouri.edu/2026/inspired-by-the-brain-mizzou-researchers-build-smarter-more-efficient-computer-hardware/",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "A University of Missouri study shows that small material changes can boost brain-like computing, which could one day help make artificial intelligence more energy-efficient.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    }
+  ]
+}

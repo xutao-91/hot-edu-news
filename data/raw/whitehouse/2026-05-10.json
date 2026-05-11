@@ -1,0 +1,50 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-05-10T20:00:30.149616",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Presidential Message on Mother’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/",
+      "date": "May 10, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Capture of Fort Ticonderoga",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/",
+      "date": "May 10, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump: Mothers are America’s strength",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-mothers-are-americas-strength/",
+      "date": "May 8, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "JOBS REPORT: Trump Economy Roars Ahead with Big Private Sector Job Gains",
+      "url": "https://www.whitehouse.gov/releases/2026/05/jobs-report-trump-economy-roars-ahead-with-big-private-sector-job-gains/",
+      "date": "May 8, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Military Spouse Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/military-spouse-day-2026/",
+      "date": "May 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Victory Day for World War II, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/victory-day-for-world-war-ii-2026/",
+      "date": "May 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}

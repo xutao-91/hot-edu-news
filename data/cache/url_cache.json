@@ -2140,5 +2140,23 @@
     "fetch_time": "2026-05-09T20:00:24.922886",
     "title": "WashU student reported missing",
     "category": "education"
+  },
+  "https://engineering.wisc.edu/news/college-of-engineering-celebrates-a-record-cohort-of-graduates-prepared-to-shape-lives/": {
+    "source": "uw_engineering",
+    "fetch_time": "2026-05-10T20:00:30.067509",
+    "title": "College of Engineering celebrates a record cohort of graduates prepared to shape lives",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-10T20:00:30.323044",
+    "title": "Presidential Message on Mother’s Day",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-10T20:00:30.323103",
+    "title": "America 250: Presidential Message on the Anniversary of the Capture of Fort Ticonderoga",
+    "category": "semiconductor"
   }
 }

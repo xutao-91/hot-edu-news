@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-10T20:00:22.488114",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue, Cook Medical build upon 50-year alliance",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0508-purdue-cook-medical-50-year-research-alliance",
+      "date": "May 8, 2026",
+      "type": "News",
+      "summary_en": "New agreement expands research for cutting-edge medical technologies, strengthens workforce pipeline",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Like mother, like daughter: Purdue Engineering graduates share special bond",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0507-Like-mother-like-daughter-Purdue-Engineering-graduates-share-special-bond",
+      "date": "May 7, 2026",
+      "type": "News",
+      "summary_en": "A daughter's path to Purdue sparks her mother's return to school. They'll graduate at the same commencement with master's degrees.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ECE's Jacob earns prestigious, highly competitive Guggenheim Fellowship",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0429-ECEs-Jacob-earns-prestigious-highly-competitive-Guggenheim-Fellowship",
+      "date": "May 7, 2026",
+      "type": "News",
+      "summary_en": "The prominence of Zubin Jacob being named a 2026 Gugggenheim Fellow is a triumph not only for Purdue University and the College of Engineering, but also the field of engineering as a whole.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

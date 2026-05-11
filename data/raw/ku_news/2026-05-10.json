@@ -1,0 +1,44 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-05-10T20:00:27.369225",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "KU Engineering student groups continue to excel at annual ASCE championship",
+      "url": "https://news.ku.edu/news/article/ku-engineering-student-groups-continue-to-excel-at-annual-asce-championship-ARTICLE-0TA8SF-ARTICLE-0TA8SF-ARTICLE-0TA8SF-ARTICLE-0TA8SF-ARTICLE-0TA8SF",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Department of Civil, Environmental & Architectural Engineering student groups took home several awards at the 2026 ASCE Symposium at the beginning of April. The KU ASCE chapter, Concrete Canoe and the Steel Bridge program traveled to Carbondale, Illinois, to take part in their respective competitions.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "School of Pharmacy to host David Sinclair for Takeru Higuchi Memorial Lecture",
+      "url": "https://news.ku.edu/news/article/school-of-pharmacy-to-host-david-sinclair-for-takeru-higuchi-memorial-lecture",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "David Sinclair, professor of genetics at Harvard Medical School, will deliver a public lecture June 2 at KU. The researcher is best known for his work in reshaping how scientists think about aging.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU School of Education & Human Sciences to honor Bob Swift with 2026 Distinguished Alumni Award",
+      "url": "https://news.ku.edu/news/article/ku-school-of-education-human-sciences-to-honor-bob-swift-with-2026-distinguished-alumni-award-ARTICLE-F0YZ5W",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Bob Swift, University of Kansas alumnus, will receive the Distinguished Alumni Award from the School of Education & Human Sciences during the school’s spring convocation ceremony May 16. He is the founder of 3rd Decade, a nonprofit providing free financial education to young adults.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Amy Hansen receives Fulbright U.S. Scholar Award for water research in Chile",
+      "url": "https://news.ku.edu/news/article/amy-hansen-receives-fulbright-us-scholar-award-for-water-research-in-chile-ARTICLE-75JP6R",
+      "date": "2026-05-07",
+      "type": "News",
+      "summary_en": "Amy Hansen, associate professor of civil & environmental engineering at KU, has received a Fulbright U.S. Scholar Award to conduct research in Chile during the 2026-2027 academic year. She will study how water sources of different densities mix in natural environments, collaborating with Chilean researchers.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

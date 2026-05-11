@@ -5,7 +5,7 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 10 May 2026 17:01:47 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 01:01:45 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
@@ -50,9 +50,29 @@
     </item>
     
     <item>
-        <title>内布拉斯加大学林肯分校举行毕业典礼 勉励毕业生秉持使命引领 帮扶他人成长</title>
+        <title>母亲节总统文告</title>
+        <link>https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/</link>
+        <description>值此美利坚合众国建国250周年之际，总统于母亲节发表文告，向全国母亲致以崇高敬意。文告指出，250年来，母亲的奉献巩固了家庭根基，培育了数代忠诚的美国人，并将推动国家走向伟大的持久价值观注入后代心中。本届政府承诺将继续推行支持母亲及其家庭的政策，以表彰她们在家庭与社会中肩负的多重使命。</description>
+        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/</guid>
+        <category>Briefings & Statements</category>
+        <source>The White House</source>
+    </item>
+    
+    <item>
+        <title>美国纪念攻占提康德罗加堡251周年</title>
+        <link>https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/</link>
+        <description>2025年5月10日，正值美国独立战争时期攻占提康德罗加堡251周年之际，美方发布总统文告，纪念这一具有历史意义的军事行动。1775年5月10日，一支美国民兵小队以出其不意的突袭方式，从英军手中夺取了提康德罗加堡，取得了独立战争期间的首次进攻性胜利。该事件证明，自由力量能够战胜当时世界上最强大的帝国，成为美国独立战争早期的重要转折点。</description>
+        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/</guid>
+        <category>Briefings & Statements</category>
+        <source>The White House</source>
+    </item>
+    
+    <item>
+        <title>内布拉斯加大学林肯分校毕业典礼鼓励毕业生以使命引领人生、助力他人成长</title>
         <link>https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others</link>
-        <description></description>
+        <description>2025年5月8日至9日，内布拉斯加大学林肯分校举行毕业典礼，共授予3885个学位，创历史新高。本届毕业生共计3762人，亦为该校历届之最，生源覆盖61个国家、美国45个州及哥伦比亚特区，以及内布拉斯加州230余个社区。临时校长凯瑟琳·S·安克森在5月9日上午举行的本科生毕业典礼上表示，当下世界比以往任何时候都更需要哈斯克人，并指出毕业生是该校激励与培养改变世界的学习者、领导者及学者的活态遗产的最新成员。她强调，该校师生以超越自我的使命感引领行动，这一使命既是高等教育的承诺，也是其责任所在。</description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others</guid>
         <category>alumni</category>
@@ -60,7 +80,7 @@
     </item>
     
     <item>
-        <title>威斯康星大学麦迪逊分校2026年春季毕业典礼于坎普·兰德尔体育场举办</title>
+        <title>威斯康星大学麦迪逊分校2026年春季毕业典礼于兰德尔营体育场举办</title>
         <link>https://news.wisc.edu/a-camp-randall-commencement/</link>
         <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
@@ -70,13 +90,23 @@
     </item>
     
     <item>
-        <title>美国华盛顿大学一名学生被报失踪</title>
+        <title>圣路易斯华盛顿大学一名在读学生被报失踪</title>
         <link>https://www.studlife.com/news/2026/05/09/washu-student-reported-missing</link>
         <description></description>
         <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.studlife.com/news/2026/05/09/washu-student-reported-missing</guid>
         <category>campus</category>
         <source>Student Life</source>
+    </item>
+    
+    <item>
+        <title>威斯康星大学麦迪逊分校工程学院庆祝史上最大规模毕业生群体</title>
+        <link>https://engineering.wisc.edu/news/college-of-engineering-celebrates-a-record-cohort-of-graduates-prepared-to-shape-lives/</link>
+        <description></description>
+        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://engineering.wisc.edu/news/college-of-engineering-celebrates-a-record-cohort-of-graduates-prepared-to-shape-lives/</guid>
+        <category>students</category>
+        <source>UW-Madison College of Engineering</source>
     </item>
     
     <item>
@@ -177,36 +207,6 @@
         <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district-0</guid>
         <category>民权</category>
         <source>U.S. Department of Education</source>
-    </item>
-    
-    <item>
-        <title>美国教育部对佛罗里达州贝县学区涉嫌反犹太歧视行为启动调查</title>
-        <link>https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-investigation-bay-county-florida-school-district-alleged-antisemitic-discrimination</link>
-        <description>美国教育部民权办公室于今日正式受理针对佛罗里达州贝县学区的投诉，并启动专项调查，以核实该学区是否对校园内发生的严重反犹太骚扰事件未能作出有效回应。本次调查旨在判定贝县学区是否违反一九六四年民权法第六编，即因允许或未能实质性回应反犹太骚扰行为而构成歧视。根据相关指控，该学区已知悉校内存在反犹太霸凌行为，包括反复出现的刻板印象言论、针对犹太人的阴谋论，以及在教科书及校园多处地点涂画纳粹标志等。此外，有学生在课堂展示活动中公然行纳粹礼、嘲弄性佩戴圆顶小帽，并展示极具攻击性的反犹太图像。学区被指未能采取合理有效的应对措施以制止骚扰并防止其再次发生。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-initiates-investigation-bay-county-florida-school-district-alleged-antisemitic-discrimination</guid>
-        <category>民权</category>
-        <source>U.S. Department of Education</source>
-    </item>
-    
-    <item>
-        <title>美国教育部长琳达·麦克马洪访问阿拉斯加州 推进“将教育归还各州”巡游及“历史摇滚！”全国巡展</title>
-        <link>https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-alaska-returning-education-states-and-history-rocks-nationwide-tours-0</link>
-        <description>美国教育部长琳达·麦克马洪于今日访问阿拉斯加州，先后赴马塔努斯卡-苏西特纳职业与技术高中及克尼克特许学校，参与“将教育归还</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-alaska-returning-education-states-and-history-rocks-nationwide-tours-0</guid>
-        <category>公民教育</category>
-        <source>U.S. Department of Education</source>
-    </item>
-    
-    <item>
-        <title>计算机、数据与信息科学学院隆重庆祝2026年春季毕业生</title>
-        <link>https://cdis.wisc.edu/celebrating-spring-2026-cdis-graduates/</link>
-        <description>计算机、数据与信息科学学院（CDIS）于2026年春季隆重举行毕业庆祝活动，数百名完成学业项目的毕业生正式走出校园。这些毕业生展现出该学院学生广泛的技术才能、研究经验及领导能力，并秉持运用计算、数据与信息改善世界的承诺。他们在校内外的贡献已产生显著影响，且这一影响才刚刚开始。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://cdis.wisc.edu/celebrating-spring-2026-cdis-graduates/</guid>
-        <category>教育政策</category>
-        <source>UW-Madison CDIS</source>
     </item>
     
 </channel>
