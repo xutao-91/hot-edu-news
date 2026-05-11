@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-05-11T12:00:15.518386",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "A Profound Impact: Engineering Professor Named Outstanding Educator",
+      "url": "https://www.iit.edu/news/profound-impact-engineering-professor-named-outstanding-educator",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Illinois Tech Associate Professor of Architectural Engineering Mohammad Heidarinejad was awarded the 2026 Outstanding Educator Award by the Architectural Engineering Institute (AEI) of the American...",
+      "source": "IIT News",
+      "category": "academic"
+    },
+    {
+      "title": "Polarization and Punishment: Stanford Professor Awarded 2026 Palmer Prize",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "“The most sensible ways to approach criminal justice often are approaches that draw support from across the political divide,” says David A. Sklansky, Stanley Morrison Professor of Law at Stanford Law...",
+      "source": "IIT News",
+      "category": "academic"
+    }
+  ]
+}

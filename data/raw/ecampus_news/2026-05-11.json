@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-05-11T12:00:23.493501",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "AI as a scaffold for learning: From access to judgment",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/05/11/ai-as-a-scaffold-for-learning-from-access-to-judgment/",
+      "date": "2026-05-11",
+      "type": "AI in Education",
+      "summary_en": "Meaningful learning should not be about memorization or developing the ability to solve problems for which solutions are already known.  Rather, it should focus on doing, experiencing, questioning and deciding, engaging with ideas in context, testing them against reality, and developing the ability to act thoughtfully under conditions of uncertainty.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "What higher ed can do about getting research into the K-12 classroom",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/05/08/what-higher-ed-can-do-about-getting-research-into-the-k-12-classroom/",
+      "date": "2026-05-08",
+      "type": "Faculty & Staff",
+      "summary_en": "Educational research has never been more abundant, yet its impact on classroom practice remains uneven at best. While universities continue to produce studies on instructional strategies, student outcomes, and emerging technologies, many K-12 educators rarely engage with this work in meaningful ways.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

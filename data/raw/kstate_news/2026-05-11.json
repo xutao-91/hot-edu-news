@@ -1,0 +1,62 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-05-11T12:00:10.431938",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "People with Purpose: Kayln Hoppe",
+      "url": "https://www.k-state.edu/news/articles/2026/05/kayln-hoppe-launches-love-of-learning.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Kayln Hoppe's work as an assistant professor of curriculum and instruction helps students become thoughtful educators who value curiosity, connection and the lasting impact of learning....",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "The college with its own Predator uncrewed aircraft",
+      "url": "https://www.k-state.edu/news/articles/2026/05/general-atomics-aeronatical-systems-kstate-partnership.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "A long-term partnership between K-State and General Atomics Aeronautical Systems, Inc. is setting the stage for top-of-the-line leadership in the next generation of aerospace profession...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Student musicians, speakers add special touch to K-State commencement",
+      "url": "https://www.k-state.edu/news/articles/2026/05/student-speakers-musicians-at-spring-commencement-ceremonies.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "K-State's spring 2026 commencement will feature student musicians and speakers during the spring ceremonies on Saturday, May 9, in Salina and Friday, May 15, and Saturday, May 16, in...",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "More than a degree",
+      "url": "https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Meet two graduate students who went beyond the degree and distinguished themselves not only through scholarly activities, but also through their presence on campus and in their communit...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Purple Praise: All-University Awards",
+      "url": "https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Highlights from K-State's All-University Awards celebrate the achievements of 'Cats across campus in this special edition of Purple Praise.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State launches pilot AI Consultation Service for researchers",
+      "url": "https://www.k-state.edu/news/articles/2026/05/ai-consultation-services-research-tool.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "K-State researchers now have access to expert advice on the potential applications of artificial intelligence in their work, from choosing appropriate tools to evaluating ethical, practical...",
+      "source": "K-State News",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-05-11T12:00:29.650387",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Photos: College of Nursing seniors make waves to celebrate graduation",
+      "url": "https://today.uic.edu/photos-college-of-nursing-seniors-make-waves-to-celebrate-graduation/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Nearly 100 College of Nursing seniors took part in the decades-old tradition on May 4.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Professor named to American Academy of Arts and Sciences",
+      "url": "https://today.uic.edu/uic-professor-author-elected-to-american-academy-of-arts-and-sciences/",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Luis Alberto Urrea is the eighth UIC faculty member to join the prestigious honorary society.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

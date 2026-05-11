@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-11T12:00:21.418888",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Universities of Wisconsin Presidential Search Committee, interim president named",
+      "url": "https://www.wisconsin.edu/news/archive/presidential-search-committee-named-to-lead-universities-of-wisconsin-presidential-search/",
+      "date": "May 11, 2026",
+      "type": "News",
+      "summary_en": "Amy B. Bogost, President of the Universities of Wisconsin Board of Regents, has appointed a 25-member Presidential Search Committee to help identify the next Universities of Wisconsin president. She appointed Renée Wachter as the Interim President of the Universities of Wisconsin.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "A Camp Randall commencement",
+      "url": "https://news.wisc.edu/a-camp-randall-commencement/",
+      "date": "May 9, 2026",
+      "type": "News",
+      "summary_en": "Tears of joy, words of advice and some jumping around mark Saturday's ceremony.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "‘The world needs you’",
+      "url": "https://news.wisc.edu/the-world-needs-you/",
+      "date": "May 8, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison celebrated the achievements and expertise of doctoral and professional graduates at Friday’s spring commencement.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

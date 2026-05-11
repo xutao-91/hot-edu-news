@@ -5,15 +5,45 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 11 May 2026 01:01:45 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:11:43 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+        <title>博士生伯克获论文创新奖学金 绘制手工艺运动数字地图</title>
+        <link>https://grad.wisc.edu/2026/05/11/phd-student-burke-receives-dissertation-fellowship-to-map-a-crafting-movement/</link>
+        <description>博士生达妮埃拉·伯克获得一项奖学金，用以协助其创建手工艺运动从业者数字地图，并邀请当前仍持有或使用这些手工作品的人士向该网站提供信息。伯克系人类生态学院设计研究专业博士生，为梅隆基金会与美国学术团体理事会2026年度论文创新奖学金获得者。该奖学金为人文与社会科学领域的博士研究生提供最高五万美元资助，涵盖研究、培训、专业发展及指导等经费。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://grad.wisc.edu/2026/05/11/phd-student-burke-receives-dissertation-fellowship-to-map-a-crafting-movement/</guid>
+        <category>fellowship</category>
+        <source>UW-Madison Graduate School</source>
+    </item>
+    
+    <item>
+        <title>密尔沃基工程学院学生为圣琼安蒂达高中学生讲授纳米科学知识</title>
+        <link>https://www.msoe.edu/about-msoe/news/details/msoe-students-share-nanoscience-with-st-joan-antida-high-schoolers</link>
+        <description>密尔沃基工程学院（MSOE）物理与化学系教授安妮-玛丽·尼克尔博士与圣琼安蒂达高中（SJA）建立并维持超过十五年的合作项目，使MSOE学生在“SCI 3750纳米科学与纳米技术”课程中担任教师角色。该项目旨在通过大学生与高中生的互动学习，实现双方共同受益。纳米科学与纳米技术课程涵盖物理学、化学、材料科学与生物学领域的基础科学概念，这些概念对于理解纳米尺度科学与纳米技术至关重要。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.msoe.edu/about-msoe/news/details/msoe-students-share-nanoscience-with-st-joan-antida-high-schoolers</guid>
+        <category>综合</category>
+        <source>MSOE</source>
+    </item>
+    
+    <item>
+        <title>密尔沃基工程学院团队将赴美国国家航空航天局月球机器人挑战赛</title>
+        <link>https://www.msoe.edu/about-msoe/news/details/msoe-heads-to-the-nasa-lunabotics-challenge</link>
+        <description></description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.msoe.edu/about-msoe/news/details/msoe-heads-to-the-nasa-lunabotics-challenge</guid>
+        <category>综合</category>
+        <source>MSOE</source>
+    </item>
     
     <item>
         <title>美国国家科学委员会发布《2026年美国科学与工程状况》报告</title>
         <link>https://ncses.nsf.gov/pubs/nsbsep20261</link>
         <description></description>
-        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://ncses.nsf.gov/pubs/nsbsep20261</guid>
         <category>综合</category>
         <source>NSF NCSES</source>
@@ -23,7 +53,7 @@
         <title>美国发布2024—2025财年联邦研发经费调查相关公告</title>
         <link>https://ncses.nsf.gov/pubs/nsf26316</link>
         <description></description>
-        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://ncses.nsf.gov/pubs/nsf26316</guid>
         <category>research</category>
         <source>NSF NCSES</source>
@@ -33,7 +63,7 @@
         <title>美国2024财年联邦研发拨付义务增长4.4% 多数机构预计2025财年将出现下滑</title>
         <link>https://ncses.nsf.gov/pubs/nsf26317</link>
         <description></description>
-        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://ncses.nsf.gov/pubs/nsf26317</guid>
         <category>funding</category>
         <source>NSF NCSES</source>
@@ -43,170 +73,140 @@
         <title>美国政府官网刊载《从成果转化到实际影响：美国及全球科学、技术与创新产出》分析内容</title>
         <link>https://ncses.nsf.gov/pubs/nsb20262</link>
         <description></description>
-        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://ncses.nsf.gov/pubs/nsb20262</guid>
         <category>国际</category>
         <source>NSF NCSES</source>
     </item>
     
     <item>
-        <title>母亲节总统文告</title>
-        <link>https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/</link>
-        <description>值此美利坚合众国建国250周年之际，总统于母亲节发表文告，向全国母亲致以崇高敬意。文告指出，250年来，母亲的奉献巩固了家庭根基，培育了数代忠诚的美国人，并将推动国家走向伟大的持久价值观注入后代心中。本届政府承诺将继续推行支持母亲及其家庭的政策，以表彰她们在家庭与社会中肩负的多重使命。</description>
-        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/</guid>
-        <category>Briefings & Statements</category>
-        <source>The White House</source>
-    </item>
-    
-    <item>
-        <title>美国纪念攻占提康德罗加堡251周年</title>
-        <link>https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/</link>
-        <description>2025年5月10日，正值美国独立战争时期攻占提康德罗加堡251周年之际，美方发布总统文告，纪念这一具有历史意义的军事行动。1775年5月10日，一支美国民兵小队以出其不意的突袭方式，从英军手中夺取了提康德罗加堡，取得了独立战争期间的首次进攻性胜利。该事件证明，自由力量能够战胜当时世界上最强大的帝国，成为美国独立战争早期的重要转折点。</description>
-        <pubDate>Sun, 10 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/</guid>
-        <category>Briefings & Statements</category>
-        <source>The White House</source>
-    </item>
-    
-    <item>
-        <title>内布拉斯加大学林肯分校毕业典礼鼓励毕业生以使命引领人生、助力他人成长</title>
-        <link>https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others</link>
-        <description>2025年5月8日至9日，内布拉斯加大学林肯分校举行毕业典礼，共授予3885个学位，创历史新高。本届毕业生共计3762人，亦为该校历届之最，生源覆盖61个国家、美国45个州及哥伦比亚特区，以及内布拉斯加州230余个社区。临时校长凯瑟琳·S·安克森在5月9日上午举行的本科生毕业典礼上表示，当下世界比以往任何时候都更需要哈斯克人，并指出毕业生是该校激励与培养改变世界的学习者、领导者及学者的活态遗产的最新成员。她强调，该校师生以超越自我的使命感引领行动，这一使命既是高等教育的承诺，也是其责任所在。</description>
-        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.unl.edu/article/husker-graduates-encouraged-to-lead-with-purpose-uplift-others</guid>
-        <category>alumni</category>
-        <source>UNL News</source>
-    </item>
-    
-    <item>
-        <title>威斯康星大学麦迪逊分校2026年春季毕业典礼于兰德尔营体育场举办</title>
-        <link>https://news.wisc.edu/a-camp-randall-commencement/</link>
-        <description></description>
-        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.wisc.edu/a-camp-randall-commencement/</guid>
-        <category>综合</category>
-        <source>UW-Madison News</source>
-    </item>
-    
-    <item>
-        <title>圣路易斯华盛顿大学一名在读学生被报失踪</title>
-        <link>https://www.studlife.com/news/2026/05/09/washu-student-reported-missing</link>
-        <description></description>
-        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.studlife.com/news/2026/05/09/washu-student-reported-missing</guid>
-        <category>campus</category>
-        <source>Student Life</source>
-    </item>
-    
-    <item>
-        <title>威斯康星大学麦迪逊分校工程学院庆祝史上最大规模毕业生群体</title>
-        <link>https://engineering.wisc.edu/news/college-of-engineering-celebrates-a-record-cohort-of-graduates-prepared-to-shape-lives/</link>
-        <description></description>
-        <pubDate>Sat, 09 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://engineering.wisc.edu/news/college-of-engineering-celebrates-a-record-cohort-of-graduates-prepared-to-shape-lives/</guid>
-        <category>students</category>
-        <source>UW-Madison College of Engineering</source>
-    </item>
-    
-    <item>
-        <title>从补偿性到变革性：土著女性教师与阿根廷跨文化教育的未来</title>
-        <link>https://www.brookings.edu/articles/from-compensatory-to-transformative-indigenous-women-teachers-and-the-future-of-intercultural-education-in-argentina/</link>
-        <description>历经三十年政策发展，阿根廷绝大多数土著儿童与青少年仍无法入读跨文化双语教育学校并接受优质教育，土著女童更因性别责任与安全关切面临额外障碍。本政策简报基于对土著女性教师及政策行为主体的叙事访谈、专题小组讨论、问卷调查及参与式研讨会，探究土著女性在其教育历程中所经历的路径、遇到的障碍与支持，并分析这些经验如何从文化视角揭示实现性别平等的路径。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.brookings.edu/articles/from-compensatory-to-transformative-indigenous-women-teachers-and-the-future-of-intercultural-education-in-argentina/</guid>
-        <category>K-12教育</category>
-        <source>Brookings Institution</source>
-    </item>
-    
-    <item>
-        <title>亚的斯亚贝巴重塑早期儿童发展：打造非洲最适合育儿城市</title>
-        <link>https://www.brookings.edu/articles/raising-a-city-how-addis-ababa-reimagined-early-childhood-development/</link>
-        <description></description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.brookings.edu/articles/raising-a-city-how-addis-ababa-reimagined-early-childhood-development/</guid>
-        <category>K-12教育</category>
-        <source>Brookings Institution</source>
-    </item>
-    
-    <item>
-        <title>堪萨斯州立大学2026年春季毕业典礼将安排学生音乐家与演讲者参与</title>
-        <link>https://www.k-state.edu/news/articles/2026/05/student-speakers-musicians-at-spring-commencement-ceremonies.html</link>
-        <description>堪萨斯州立大学2026年春季毕业典礼定于2026年5月举行。典礼将分别在该校萨利纳校区与曼哈顿校区举办，仪式现场将安排学生音乐家及学生演讲者参与，为毕业典礼增添特色。本次毕业典礼是该校本年度春季学期的重要学术活动，旨在为毕业生营造庄重而富有纪念意义的仪式氛围。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/student-speakers-musicians-at-spring-commencement-ceremonies.html</guid>
-        <category>students</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>超越学位：堪萨斯州立大学颁发研究生院长奖表彰学术与社会贡献杰出学子</title>
-        <link>https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html</link>
-        <description>堪萨斯州立大学研究生院每年表彰在学术成就以及校园与社区参与方面表现突出的研究生。本年度研究生院长优秀、参与及领导力奖授予两位杰出学者：课程与教学专业博士生欧内斯廷娜·维亚福及生物学专业博士生杰克·西茨马。研究生院临时院长菲利普·佩恩表示，两位获奖者充分体现了该校研究生教育的最高水平，其服务、研究与领导力为其他研究生树立了标杆，并提升了相关项目在国内外的知名度。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html</guid>
+        <title>凯琳·霍普：以归属感塑造未来教师的教育者</title>
+        <link>https://www.k-state.edu/news/articles/2026/05/kayln-hoppe-launches-love-of-learning.html</link>
+        <description>2025年，堪萨斯州立大学课程与教学系教学助理教授凯琳·霍普荣获该校杰出本科教学奖。霍普致力于培养能够深刻理解“学习始于书本，却扎根于归属感”这一理念的教育工作者。她认为，在教师踏入课堂之前，必须有人教会他们如何教学，而她的使命正是为此奠定基础。霍普专注于营造学习环境，帮助学生作为学习者和未来的教师成长为最佳自我，并将培养终身学习者视为其工作的核心目标。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/kayln-hoppe-launches-love-of-learning.html</guid>
         <category>综合</category>
         <source>K-State News</source>
     </item>
     
     <item>
-        <title>堪萨斯州立大学公布2026年度多项校级奖项获得者名单</title>
-        <link>https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html</link>
-        <description>堪萨斯州立大学近期发布本期《紫色赞誉》特刊，集中报道2026年度全校奖项获得者及重要荣誉，展示该校各校区师生群体的卓越才华与奉献精神。常规月度版《紫色赞誉》将于2026年5月15日恢复出版。本次公布的奖项涵盖“大十二联盟教职员进修计划”“大十二联盟年度教职员”以及多项校级教学、科研与服务类荣誉。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html</guid>
+        <title>堪萨斯州立大学获赠“捕食者”无人机 通用原子航空系统公司深化校企合作</title>
+        <link>https://www.k-state.edu/news/articles/2026/05/general-atomics-aeronatical-systems-kstate-partnership.html</link>
+        <description></description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/general-atomics-aeronatical-systems-kstate-partnership.html</guid>
         <category>综合</category>
         <source>K-State News</source>
     </item>
     
     <item>
-        <title>堪萨斯州立大学面向研究人员推出人工智能咨询试点服务</title>
-        <link>https://www.k-state.edu/news/articles/2026/05/ai-consultation-services-research-tool.html</link>
-        <description>堪萨斯州立大学近日面向本校教师、研究生、博士后研究人员及其他科研人员，正式启动一项全新校园服务，旨在为人工智能在研究领域的潜在应用提供专家咨询。该服务由该校计算机科学系、堪萨斯州立大学图书馆及桑德兰基金会创新实验室联合推出，系为期一年的试点项目，将持续至2027年春季学期末。资金支持来自数字农业与先进分析研究所、卡尔·R·艾斯工程学院、堪萨斯州立大学图书馆及计算机科学系。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/ai-consultation-services-research-tool.html</guid>
-        <category>research</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>斯坦福大学教授斯基兰斯基荣获2026年帕尔默奖</title>
-        <link>https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize</link>
-        <description>斯坦福大学法学院斯坦利·莫里森法学教授戴维·A·斯基兰斯基因其著作《分裂美国的刑事司法：警察、惩罚与我们民主的未来》荣获芝加哥-肯特法学院2026年罗伊·C·帕尔默民主、公民自由与法治奖。该奖项由校友罗伊·C·帕尔默及其夫人苏珊·M·帕尔默于2007年春季设立，旨在表彰探索自由民主宪政秩序所受威胁或支持因素的学术著作，奖金为1万美元，鼓励学者就影响全球个人权利与政府职责的当前议题展开公开辩论。斯基兰斯基将于2026年11月10日前往芝加哥-肯特法学院发表帕尔默奖演讲。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://kentlaw.iit.edu/law/news-media/news/polarization-and-punishment-stanford-professor-awarded-2026-palmer-prize</guid>
+        <title>伊利诺伊理工学院建筑工程学副教授荣获美国土木工程师学会杰出教育工作者奖</title>
+        <link>https://www.iit.edu/news/profound-impact-engineering-professor-named-outstanding-educator</link>
+        <description>2026年3月20日，在圣安东尼奥召开的建筑工程学会会议上，美国土木工程师学会下属建筑工程学会向伊利诺伊理工学院建筑工程学副教授穆罕默德·海达里内贾德授予2026年度杰出教育工作者奖。该奖项旨在表彰其在建筑能源与环境系统相关课程中的杰出教学表现以及对学生的悉心指导。海达里内贾德表示，学生的强力支持使该奖项更具意义，一群在读及往届学生联名提交了推荐信，其真诚参与令其深感自豪与感激。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.iit.edu/news/profound-impact-engineering-professor-named-outstanding-educator</guid>
         <category>academic</category>
         <source>IIT News</source>
     </item>
     
     <item>
-        <title>美国教育部公民教育高级顾问凯蒂·戈尔卡在加州“历史震撼！”活动上强调公民教育</title>
-        <link>https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-california</link>
-        <description>美国教育部公民教育高级顾问凯蒂·戈尔卡于今日造访加利福尼亚州奇诺岗市的峡谷山初中，出席由教育部发起的全国性“历史震撼！”独立之路巡游活动。该活动系为庆祝美国即将迎来建国250周年而举办，旨在通过帮助学生亲身感受美国建国原则，提升其公民素养。共有1080名学生参与了旨在加深对美国历史与公民学理解以及加利福尼亚州在国家历史中所扮演重要角色的互动游戏。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-california</guid>
-        <category>公民教育</category>
-        <source>U.S. Department of Education</source>
+        <title>爱荷华州立大学应届毕业生将发明转化为服务他人的商业项目</title>
+        <link>https://www.news.iastate.edu/news/graduating-senior-turns-invention-business-helping-others</link>
+        <description>据爱荷华州立大学消息，即将获得该校工业设计专业学士学位的应届毕业生博卢瓦林·奥乔（Boluwarin Ojo）在回顾大学经历时，对自己所取得的成就深感惊叹。奥乔自幼在明尼苏达州长大，后随家人移居加拿大温尼伯，并在当地完成高中学业，曾涉足舞蹈、篮球及音乐等多个领域。她始终希望将创意、技术及工程元素融合于一个专业方向，最终在爱荷华州立大学找到工业设计专业，并开启了精彩的学习历程。她坦言，初到爱荷华州立大学时因环境陌生、缺乏社交联系而经历了一段艰难的适应期。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.news.iastate.edu/news/graduating-senior-turns-invention-business-helping-others</guid>
+        <category>business</category>
+        <source>Iowa State News</source>
     </item>
     
     <item>
-        <title>美国教育部与卫生与公众服务部联合启动家庭参与及学校支持伙伴关系首批拨款竞赛</title>
-        <link>https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-first-grant-competitions-under-family-engagement-and-school</link>
-        <description>美国教育部与卫生与公众服务部于今日发布2026财年“准备好学习计划”与“希望社区计划”竞赛公告。此举系特朗普政府调整家庭参与及学校支持项目的重要步骤，旨在通过投资循证识字、高影响力辅导以及利用家庭与社区满足学生需求的方案，更好地服务于学生。本次竞赛标志着教育部中小学教育办公室与卫生与公众服务部儿童与家庭管理局之间的“家庭参与及学校支持”伙伴关系正式启动，后续将于春季晚些时候开展更多拨款竞赛。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-first-grant-competitions-under-family-engagement-and-school</guid>
-        <category>K-12教育</category>
-        <source>U.S. Department of Education</source>
+        <title>第三代旋风队成员融合家族传统、科研探索与领导才能</title>
+        <link>https://www.news.iastate.edu/news/third-generation-cyclone-blends-legacy-research-and-leadership</link>
+        <description>爱荷华州立大学毕业生特里斯坦·韦尔斯（Tristan Weers）系该校第三代校友。韦尔斯来自爱荷华州中央章克申的一个家庭农场，其父母及祖父母均为爱荷华州立大学校友。本毕业季，他以生物化学与遗传学双专业身份完成学业，并荣获华莱士·E·巴伦全大学高年级奖，该奖项旨在表彰获奖者的品格、学术成就及对大学和社区的重要贡献。韦尔斯延续家族传统，成为忠实的“旋风队”球迷，时常早起排队占据前排位置，身着红衣金饰为校队助威。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.news.iastate.edu/news/third-generation-cyclone-blends-legacy-research-and-leadership</guid>
+        <category>综合</category>
+        <source>Iowa State News</source>
     </item>
     
     <item>
-        <title>美国教育部民权办公室对德克萨斯州学区启动残疾歧视调查</title>
-        <link>https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district-0</link>
-        <description>美国教育部民权办公室于今日对位于德克萨斯州休斯顿市的休斯顿独立学区启动一项调查，以确认该学区是否违反《康复法案》第504节及《美国残疾人法案》第二编的相关规定，未按照法定程序确保残疾学生与非残疾学生在最大合理范围内共同接受教育，从而构成对残疾学生的歧视。根据法律规定，公立学校须在最大程度上保证残疾学生与非残疾学生同校就读，并在作出安置决定时遵循特定程序。</description>
-        <pubDate>Fri, 08 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-office-civil-rights-opens-disability-discrimination-investigation-texas-school-district-0</guid>
-        <category>民权</category>
-        <source>U.S. Department of Education</source>
+        <title>爱荷华州立大学近五千名毕业生获授学位 多名杰出学子获表彰</title>
+        <link>https://www.news.iastate.edu/news/graduating-senior-finds-his-rhythm-music-composition</link>
+        <description>爱荷华州立大学将于今年春季毕业典礼上授予近五千名学生学位。工业设计专业应届毕业生博卢瓦林·奥乔在即将离校之际回顾其在校经历，称其从校园社区建设起步，最终发明了一项正在申请专利的安全产品，并创办了一家获得全国认可的初创企业。本校庆典活动定于5月14日至16日举行，届时将举办全校毕业典礼及各学院学位授予仪式。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.news.iastate.edu/news/graduating-senior-finds-his-rhythm-music-composition</guid>
+        <category>综合</category>
+        <source>Iowa State News</source>
+    </item>
+    
+    <item>
+        <title>爱荷华州立大学将于5月14日至16日举行春季毕业典礼</title>
+        <link>https://www.news.iastate.edu/news/iowa-state-celebrates-spring-graduates-may-14-16</link>
+        <description>爱荷华州立大学定于2025年5月14日至16日举行春季毕业典礼，届时将举办多场校级毕业仪式及各学院学位授予活动。据校方统计，本春季共有约4932名学生获得学位，其中包括4121名本科生、528名硕士研究生</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.news.iastate.edu/news/iowa-state-celebrates-spring-graduates-may-14-16</guid>
+        <category>综合</category>
+        <source>Iowa State News</source>
+    </item>
+    
+    <item>
+        <title>内布拉斯加大学林肯分校会议激发关于大学未来的讨论与热情</title>
+        <link>https://news.unl.edu/article/convening-spurs-conversation-excitement-about-universitys-future</link>
+        <description></description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.unl.edu/article/convening-spurs-conversation-excitement-about-universitys-future</guid>
+        <category>综合</category>
+        <source>UNL News</source>
+    </item>
+    
+    <item>
+        <title>植物与景观系统专业学生将设计转化为实践</title>
+        <link>https://news.unl.edu/article/plant-and-landscape-systems-students-take-design-to-reality</link>
+        <description>近日，内布拉斯加大学林肯分校植物与景观系统300课程的学生在位于基姆大厅后方“后院农夫”园圃附近的一处隐蔽角落，经历了一场从设计图纸到现实建造的实践考验。学生们在实地施工过程中深刻认识到，良好的设计并不总能经受住现实世界的首次检验。他们跪坐于地面，将形状不规则的石板逐一调整就位，不仅是在铺设露台，更是在检验设计理念——原本在图纸上清晰而确定的构想，一旦引入地面坡度、现有植被与石材等实际因素，便呈现出完全不同的面貌。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.unl.edu/article/plant-and-landscape-systems-students-take-design-to-reality</guid>
+        <category>综合</category>
+        <source>UNL News</source>
+    </item>
+    
+    <item>
+        <title>内布拉斯加大学林肯分校土壤鉴定队在全国竞赛中荣获团体亚军</title>
+        <link>https://news.unl.edu/article/soil-judging-team-takes-runner-up-at-national-contest-0</link>
+        <description>2025年4月22日至25日，由伊利诺伊州立大学主办的北美高等院校农业教师土壤鉴定竞赛上，内布拉斯加大学林肯分校土壤鉴定队取得团体总分第二名。该队伍参加的是四年制大学组别，与来自美国各地的15所高校同台竞技。队员包括综合科学与可持续食品系统专业高年级学生阿德里安·考克斯、渔业与野生动物及环境科学专业三年级学生悉尼·霍纳克、植物与景观系统专业三年级学生普罗米斯·“PJ”·斯米尔、环境科学与植物生物学专业高年级学生安娜·纽科姆，以及环境科学专业三年级学生迭戈·桑切斯和拉拉·阿诺德。其中，考克斯在90名学生中脱颖而出，获得个人第三名。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.unl.edu/article/soil-judging-team-takes-runner-up-at-national-contest-0</guid>
+        <category>综合</category>
+        <source>UNL News</source>
+    </item>
+    
+    <item>
+        <title>29名预备军官训练团成员获得军事委任</title>
+        <link>https://news.unl.edu/article/29-rotc-members-receive-military-commissions-0</link>
+        <description></description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.unl.edu/article/29-rotc-members-receive-military-commissions-0</guid>
+        <category>综合</category>
+        <source>UNL News</source>
+    </item>
+    
+    <item>
+        <title>新宿舍楼将以詹姆斯·E·麦克劳德与克拉拉·P·麦克劳德夫妇命名</title>
+        <link>https://source.washu.edu/2026/05/new-residence-hall-to-be-named-james-e-and-clara-p-mcleod-house/</link>
+        <description>华盛顿大学于4月27日在哈比森楼为克拉拉·麦克劳德举办招待会，校长安德鲁·D·马丁在会上宣布，南40区新建宿舍楼将被命名为“詹姆斯·E·与克拉拉·P·麦克劳德楼”，以纪念已故分管学生事务副校长兼文理学院院长詹姆斯·麦克劳德及其夫人克拉拉对大学的持久贡献。马丁指出，麦克劳德夫妇塑造了华盛顿大学的品格，其倡导“以姓名与故事了解每位学生”的理念至今仍激励着学生事务部及全体教职员工的工作。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://source.washu.edu/2026/05/new-residence-hall-to-be-named-james-e-and-clara-p-mcleod-house/</guid>
+        <category>综合</category>
+        <source>WashU Source</source>
+    </item>
+    
+    <item>
+        <title>威尔·阿尔文被任命为圣路易斯华盛顿大学发展事务执行副校长</title>
+        <link>https://source.washu.edu/2026/05/arvin-appointed-executive-vice-chancellor-for-advancement/</link>
+        <description>圣路易斯华盛顿大学校长安德鲁·D·马丁宣布，现任该校医学发展副校长威尔·阿尔文被任命为发展事务执行副校长，任命自1月5日起生效。阿尔文将接替计划于1月4日退休的帕梅拉·A·亨森。此项人事任命旨在延续并强化该校在慈善捐赠、校友联络及合作伙伴关系建设等方面的发展战略，以支持华盛顿大学的使命与优先战略目标。</description>
+        <pubDate>Mon, 11 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://source.washu.edu/2026/05/arvin-appointed-executive-vice-chancellor-for-advancement/</guid>
+        <category>advancement</category>
+        <source>WashU Source</source>
     </item>
     
 </channel>

@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-05-11T12:00:15.594126",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Canada overhauls immigration consultant regulations",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-05-11",
+      "type": "Recruitment & agents",
+      "summary_en": "The Canadian government has announced new rules for immigration consultants including increased penalties, an expanded public register and compensation for victims of dishonest acts.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Emerging Futures 9: visa uncertainty reshapes student demand globally",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-05-11",
+      "type": "Recruitment & agents",
+      "summary_en": "More international students are ruling out study destinations earlier because of visa uncertainty, costs and a lack of clarity about what an application will involve, according to new global research from IDP Education.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Study Group sold to Arete Education",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-05-11",
+      "type": "Investor",
+      "summary_en": "Study Group has been acquired by Arete Education, the higher education venture backed by Global University Systems (GUS) and Brightstar Capital Partners.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "South Korea in post-study visa push amid shift towards quality",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-08",
+      "type": "Policy",
+      "summary_en": "After surpassing its “Study Korea 300K” target ahead of schedule, South Korea says it now wants to shift focus towards “strategic quality management”, post-graduation opportunities and long-term talent retention.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Jacqui Smith: UK universities must prove local value",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-08",
+      "type": "Policy",
+      "summary_en": "The UK minister for skills, Baroness Jacqui Smith, has reiterated the government’s support for international education, while urging universities to do more to combat public scepticism of higher education.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "The PIEoneer Awards 2026 shortlist revealed",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-05-08",
+      "type": "Events",
+      "summary_en": "The shortlist for The PIEoneer Awards 2026 has been revealed, marking a major milestone as the international education sector’s flagship event celebrates its 10th anniversary this year.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-11T12:00:33.057071",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Visual investigation: Scores of online resellers are using AI to fool customers by pretending to be mom-and-pop stores",
+      "url": "https://abcnews.com/US/visual-investigation-scores-online-resellers-ai-fool-customers/story?id=132762385",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "There Is a Better Way to Get Kids Off Screens",
+      "url": "https://www.nytimes.com/2026/05/08/opinion/social-media-teens-phones-australia-solutions.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago chemists invent new way to swap nitrogen into molecules",
+      "url": "https://news.uchicago.edu/story/uchicago-chemists-invent-new-way-swap-nitrogen-molecules",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Breakthrough could speed up new drug discovery",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
