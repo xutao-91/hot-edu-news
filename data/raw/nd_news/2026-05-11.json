@@ -1,7 +1,17 @@
 {
   "source": "University of Notre Dame News",
   "source_url": "https://news.nd.edu/news/category/university-news/",
-  "crawled_at": "2026-05-11T12:00:08.922827",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-11T20:00:07.154114",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Notre Dame to confer 3,335 degrees over Commencement Weekend, May 16-17",
+      "url": "https://news.nd.edu/news/notre-dame-to-confer-3-335-degrees-over-commencement-weekend-may-16-17/",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
 }

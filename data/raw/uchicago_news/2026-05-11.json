@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-11T12:00:33.057071",
-  "total_news": 3,
+  "crawled_at": "2026-05-11T20:00:28.536405",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Are randomized controlled trials harming nonprofits?",
+      "url": "https://news.uchicago.edu/story/are-randomized-controlled-trials-harming-nonprofits",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "In recent book, UChicago’s Nicole P. Marwell and Jennifer E. Mosley argue that the research method isn’t always the best tool",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Visual investigation: Scores of online resellers are using AI to fool customers by pretending to be mom-and-pop stores",
       "url": "https://abcnews.com/US/visual-investigation-scores-online-resellers-ai-fool-customers/story?id=132762385",

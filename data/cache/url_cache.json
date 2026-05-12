@@ -2404,5 +2404,155 @@
     "fetch_time": "2026-05-11T12:00:33.263919",
     "title": "There Is a Better Way to Get Kids Off Screens",
     "category": "general"
+  },
+  "https://news.nd.edu/news/notre-dame-to-confer-3-335-degrees-over-commencement-weekend-may-16-17/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-11T20:00:07.414157",
+    "title": "Notre Dame to confer 3,335 degrees over Commencement Weekend, May 16-17",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/politics/2026/05/11/americans-see-health-care-costs-deficit-inflation-as-big-problems-facing-the-nation/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-11T20:00:07.469615",
+    "title": "Americans See Health Care Costs, Deficit, Inflation as Big Problems Facing the Nation",
+    "category": "semiconductor"
+  },
+  "https://science.nd.edu/news-and-media/news/charlie-desnoyers-smart-innately-curious-and-genuinely-excited-about-research/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-11T20:00:07.678673",
+    "title": "Charlie Desnoyers: ‘Smart, innately curious and genuinely excited about research’",
+    "category": "general"
+  },
+  "https://www.brookings.edu/articles/care-services-climate-adaptation-naps-ndcs/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-11T20:00:09.813182",
+    "title": "Care services support effective climate adaptation:  Mapping care within National Adaptation Plans and Nationally Determined Contributions",
+    "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/why-expert-advising-matters-for-college-access/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-11T20:00:09.813207",
+    "title": "Why expert advising matters for college access",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/how-to-build-a-discovery-machine/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-11T20:00:14.998603",
+    "title": "How to build a discovery machine",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/05/11/wayne-state-university-advocates-for-greater-investment-in-michigans-future-69053": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-11T20:00:15.350641",
+    "title": "Wayne State University advocates for greater investment in Michigan’s future",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/surplus-property-management-process-transitions-govdeals.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-11T20:00:15.354214",
+    "title": "Streamlined surplus property management process starts this May",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/free-vehicle-checks.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-11T20:00:15.354238",
+    "title": "Free vehicle checks for students preparing to travel",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/dates-announced-free-gallagher-bluedorn-block-party-series": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-11T20:00:18.068940",
+    "title": "Dates announced for free Gallagher Bluedorn Block Party series",
+    "category": "education"
+  },
+  "https://news.wisc.edu/professor-emeritus-john-ralph-elected-to-national-academy-of-sciences/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-11T20:00:18.228011",
+    "title": "Professor Emeritus John Ralph elected to National Academy of Sciences",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/public-invited-may-15-to-open-house-for-ku-designed-supportive-housing-project-in-lawrence-ARTICLE-M3V0ZK-ARTICLE-M3V0ZK": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-11T20:00:26.156148",
+    "title": "Public invited May 15 to open house for KU-designed supportive housing project in Lawrence",
+    "category": "education"
+  },
+  "https://education.wisc.edu/news/five-school-of-education-faculty-honored-with-vilas-professorships-and-awards-3/": {
+    "source": "uw_education",
+    "fetch_time": "2026-05-11T20:00:26.823921",
+    "title": "Five School of Education faculty honored with Vilas professorships and awards",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-department-of-labor-announce-additional-grant-competitions-under-elementary-and-secondary-education-partnership-promote": {
+    "source": "edgov",
+    "fetch_time": "2026-05-11T20:00:27.238101",
+    "title": "U.S. Department of Education & Department of Labor Announce Additional Grant Competitions Under Elementary and Secondary Education Partnership to Promote Career Pathways",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/are-randomized-controlled-trials-harming-nonprofits": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-11T20:00:28.886248",
+    "title": "Are randomized controlled trials harming nonprofits?",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Class-Acts-Ruiqi-Wang.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-11T20:00:29.056370",
+    "title": "Class Acts: Ruiqi Wang",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/How-to-build-a-discovery-machine.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-11T20:00:29.056397",
+    "title": "How to build a discovery machine",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/WashU-DesignBuildFly-recognized-for-teamwork-at-annual-AIAA-event.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-11T20:00:29.056407",
+    "title": "WashU Design/Build/Fly recognized for teamwork at annual AIAA event",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/Class-Acts-Catalina-Bernabe-Correa.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-11T20:00:29.056417",
+    "title": "Class Acts: Catalina Bernabé Correa",
+    "category": "education"
+  },
+  "https://www.kettering.edu/governor-whitmer-reappoints-dr-robert-k-mcmahan-kettering-university-president-medc-executive": {
+    "source": "kettering_news",
+    "fetch_time": "2026-05-11T20:00:29.922827",
+    "title": "Governor Whitmer Reappoints Dr. Robert K. McMahan, Kettering University President, to MEDC Executive Committee",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-salvation-army-week/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-11T20:00:29.997825",
+    "title": "Presidential Message on National Salvation Army Week",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/peace-officers-memorial-day-and-police-week-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-11T20:00:29.997862",
+    "title": "Peace Officers Memorial Day and Police Week, 2026",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bills-s-98-and-s-1020-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-11T20:00:29.997881",
+    "title": "Congressional Bills S. 98 and S. 1020 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-and-withdrawal-sent-to-the-senate-c6ad/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-11T20:00:29.997899",
+    "title": "Nominations and Withdrawal Sent to the Senate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/05/president-trump-honors-americas-moms-with-new-support-for-families/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-11T20:00:29.997916",
+    "title": "President Trump Honors America’s Moms with New Support for Families",
+    "category": "semiconductor"
   }
 }

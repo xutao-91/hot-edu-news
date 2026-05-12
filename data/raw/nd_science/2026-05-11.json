@@ -1,7 +1,17 @@
 {
   "source": "Notre Dame College of Science",
   "source_url": "https://science.nd.edu/news-and-media/news/",
-  "crawled_at": "2026-05-11T12:00:10.281164",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-11T20:00:07.196454",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Charlie Desnoyers: ‘Smart, innately curious and genuinely excited about research’",
+      "url": "https://science.nd.edu/news-and-media/news/charlie-desnoyers-smart-innately-curious-and-genuinely-excited-about-research/",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    }
+  ]
 }

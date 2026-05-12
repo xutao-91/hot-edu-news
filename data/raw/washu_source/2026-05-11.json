@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-11T12:00:17.492462",
-  "total_news": 7,
+  "crawled_at": "2026-05-11T20:00:14.427840",
+  "total_news": 8,
   "news": [
+    {
+      "title": "How to build a discovery machine",
+      "url": "https://source.washu.edu/2026/05/how-to-build-a-discovery-machine/",
+      "date": "2026-05-11",
+      "type": "Science & Technology",
+      "summary_en": "WashU McKelvey Engineering researchers have mapped out how to create artificial intelligence machines for solving problems with potentially trillions of complicating factors.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Scaling up the circular economy",
       "url": "https://source.washu.edu/2026/05/washu-expert-scaling-up-the-circular-economy/",

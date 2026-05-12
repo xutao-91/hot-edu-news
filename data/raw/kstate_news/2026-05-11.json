@@ -1,9 +1,18 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-05-11T12:00:10.431938",
-  "total_news": 6,
+  "crawled_at": "2026-05-11T20:00:14.691292",
+  "total_news": 8,
   "news": [
+    {
+      "title": "The college with its own Predator uncrewed aircraft",
+      "url": "https://www.k-state.edu/news/articles/2026/05/general-atomics-aeronatical-systems-kstate-partnership.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "A long-term partnership between K-State and General Atomics Aeronautical Systems, Inc. is setting the stage for top-of-the-line leadership in the next generation of aerospace profession...",
+      "source": "K-State News",
+      "category": "general"
+    },
     {
       "title": "People with Purpose: Kayln Hoppe",
       "url": "https://www.k-state.edu/news/articles/2026/05/kayln-hoppe-launches-love-of-learning.html",
@@ -14,13 +23,22 @@
       "category": "general"
     },
     {
-      "title": "The college with its own Predator uncrewed aircraft",
-      "url": "https://www.k-state.edu/news/articles/2026/05/general-atomics-aeronatical-systems-kstate-partnership.html",
+      "title": "Streamlined surplus property management process starts this May",
+      "url": "https://www.k-state.edu/news/articles/2026/05/surplus-property-management-process-transitions-govdeals.html",
       "date": "2026-05-11",
       "type": "News",
-      "summary_en": "A long-term partnership between K-State and General Atomics Aeronautical Systems, Inc. is setting the stage for top-of-the-line leadership in the next generation of aerospace profession...",
+      "summary_en": "K-State’s surplus property management process will transition to GovDeals starting May 29. Register to attend an upcoming training session now to learn the ins and outs of the new...",
       "source": "K-State News",
       "category": "general"
+    },
+    {
+      "title": "Free vehicle checks for students preparing to travel",
+      "url": "https://www.k-state.edu/news/articles/2026/05/free-vehicle-checks.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Parking Services is offering free vehicle inspections from 2-5 p.m. through Friday, May 15, on the roof of the K-State parking garage. Stop by to have your tire pressure, oil and coolant...",
+      "source": "K-State News",
+      "category": "students"
     },
     {
       "title": "Student musicians, speakers add special touch to K-State commencement",
@@ -32,20 +50,20 @@
       "category": "students"
     },
     {
-      "title": "More than a degree",
-      "url": "https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html",
-      "date": "2026-05-08",
-      "type": "News",
-      "summary_en": "Meet two graduate students who went beyond the degree and distinguished themselves not only through scholarly activities, but also through their presence on campus and in their communit...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
       "title": "Purple Praise: All-University Awards",
       "url": "https://www.k-state.edu/news/articles/2026/05/purple-praise-university.html",
       "date": "2026-05-08",
       "type": "News",
       "summary_en": "Highlights from K-State's All-University Awards celebrate the achievements of 'Cats across campus in this special edition of Purple Praise.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "More than a degree",
+      "url": "https://www.k-state.edu/news/articles/2026/05/graduate-dean-award-for-excellence-engagement-leadership-jack-sytsma-ernestina-wiafe.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Meet two graduate students who went beyond the degree and distinguished themselves not only through scholarly activities, but also through their presence on campus and in their communit...",
       "source": "K-State News",
       "category": "general"
     },

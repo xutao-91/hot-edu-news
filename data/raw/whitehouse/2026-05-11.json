@@ -1,9 +1,44 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-11T12:00:33.603419",
-  "total_news": 4,
+  "crawled_at": "2026-05-11T20:00:29.819922",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Presidential Message on National Salvation Army Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-salvation-army-week/",
+      "date": "May 11, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Peace Officers Memorial Day and Police Week, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/peace-officers-memorial-day-and-police-week-2026/",
+      "date": "May 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bills S. 98 and S. 1020 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bills-s-98-and-s-1020-signed-into-law/",
+      "date": "May 11, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations and Withdrawal Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-and-withdrawal-sent-to-the-senate-c6ad/",
+      "date": "May 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Honors America’s Moms with New Support for Families",
+      "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-honors-americas-moms-with-new-support-for-families/",
+      "date": "May 11, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on Mother’s Day",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/",

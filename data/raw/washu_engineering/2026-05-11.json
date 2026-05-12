@@ -1,8 +1,8 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-05-11T12:00:31.993440",
-  "total_news": 3,
+  "crawled_at": "2026-05-11T20:00:28.828393",
+  "total_news": 7,
   "news": [
     {
       "title": "WashU Expert: Scaling up the circular economy",
@@ -14,11 +14,38 @@
       "category": "general"
     },
     {
-      "title": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
-      "url": "https://engineering.washu.edu/news/2026/Synthetic-biology-leads-to-recyclable-textiles-Engineered-protein-fibers-for-a-cleaner-future.html",
-      "date": "2026-05-08",
+      "title": "Class Acts: Ruiqi Wang",
+      "url": "https://engineering.washu.edu/news/2026/Class-Acts-Ruiqi-Wang.html",
+      "date": "2026-05-11",
       "type": "News",
-      "summary_en": "Researchers develop engineered protein polymers that can be easily recycled and reused.",
+      "summary_en": "Wang's passion for machine-learning led him to help develop the \"test kitchen.\"",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "How to build a discovery machine",
+      "url": "https://engineering.washu.edu/news/2026/How-to-build-a-discovery-machine.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Engineers at Washington University in St. Louis have mapped out further details for how to create “discovery machines” for solving problems with potentially trillions of complicating factors.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    },
+    {
+      "title": "WashU Design/Build/Fly recognized for teamwork at annual AIAA event",
+      "url": "https://engineering.washu.edu/news/2026/WashU-DesignBuildFly-recognized-for-teamwork-at-annual-AIAA-event.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Group honored for collective effort to overcome slew of adversities.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Class Acts: Catalina Bernabé Correa",
+      "url": "https://engineering.washu.edu/news/2026/Class-Acts-Catalina-Bernabe-Correa.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Passion for motorcycles and neuroscience drove student to study spinal cord injuries.",
       "source": "WashU McKelvey Engineering",
       "category": "general"
     },
@@ -28,6 +55,15 @@
       "date": "2026-05-08",
       "type": "News",
       "summary_en": "Christopher Cooper tackles plastic upcycling with ARPA-E grant.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
+      "url": "https://engineering.washu.edu/news/2026/Synthetic-biology-leads-to-recyclable-textiles-Engineered-protein-fibers-for-a-cleaner-future.html",
+      "date": "2026-05-08",
+      "type": "News",
+      "summary_en": "Researchers develop engineered protein polymers that can be easily recycled and reused.",
       "source": "WashU McKelvey Engineering",
       "category": "general"
     }

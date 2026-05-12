@@ -1,7 +1,17 @@
 {
   "source": "Kettering University News",
   "source_url": "https://www.kettering.edu/who-we-are/news-events/kettering-news",
-  "crawled_at": "2026-05-11T12:00:33.366917",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-11T20:00:29.726522",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Governor Whitmer Reappoints Dr. Robert K. McMahan, Kettering University President, to MEDC Executive Committee",
+      "url": "https://www.kettering.edu/governor-whitmer-reappoints-dr-robert-k-mcmahan-kettering-university-president-medc-executive",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "academics"
+    }
+  ]
 }

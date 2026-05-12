@@ -1,7 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-05-11T12:00:09.613482",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-11T20:00:07.047968",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Americans See Health Care Costs, Deficit, Inflation as Big Problems Facing the Nation",
+      "url": "https://www.pewresearch.org/politics/2026/05/11/americans-see-health-care-costs-deficit-inflation-as-big-problems-facing-the-nation/",
+      "date": "May 11, 2026",
+      "type": "report",
+      "categories": [
+        "Health Care",
+        "National Conditions",
+        "Political Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "Economic issues continue to dominate Americans’ ranking of the country’s top problems. Meanwhile, the share who say illegal immigration is a very big problem has dropped since the start of Trump’s second term.",
+      "source": "Pew Research Center",
+      "category": "international"
+    }
+  ]
 }

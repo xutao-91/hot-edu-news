@@ -1,7 +1,17 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-05-11T12:00:30.335783",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-11T20:00:26.275679",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Five School of Education faculty honored with Vilas professorships and awards",
+      "url": "https://education.wisc.edu/news/five-school-of-education-faculty-honored-with-vilas-professorships-and-awards-3/",
+      "date": "May 11, 2026",
+      "type": "News",
+      "summary_en": "Five faculty from the School of Education have been honored with this year’s Vilas professorships and awards. The awards recognize outstanding research, teaching, and service.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    }
+  ]
 }

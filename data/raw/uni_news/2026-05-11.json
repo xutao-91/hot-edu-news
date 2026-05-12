@@ -1,8 +1,8 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-11T12:00:21.985471",
-  "total_news": 2,
+  "crawled_at": "2026-05-11T20:00:17.532830",
+  "total_news": 3,
   "news": [
     {
       "title": "UNI celebrates completed nursing facility for BSN programs",
@@ -10,6 +10,15 @@
       "date": "2026-05-11",
       "type": "News",
       "summary_en": "The University of Northern Iowa is celebrating its newly completed nursing facility, giving students access to advanced, hands-on training designed to mirror real-world clinical environments.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Dates announced for free Gallagher Bluedorn Block Party series",
+      "url": "https://insideuni.uni.edu/campus-community/dates-announced-free-gallagher-bluedorn-block-party-series",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "The Gallagher Bluedorn Performing Arts Center has announced the 2026 schedule for its free summer Block Party series, with the University of Northern Iowa Sesquicentennial Celebration as the platinum sponsor of the series.",
       "source": "UNI News",
       "category": "general"
     },

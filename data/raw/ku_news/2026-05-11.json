@@ -1,9 +1,18 @@
 {
   "source": "University of Kansas News",
   "source_url": "https://news.ku.edu/news",
-  "crawled_at": "2026-05-11T12:00:29.668211",
-  "total_news": 5,
+  "crawled_at": "2026-05-11T20:00:25.625999",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Public invited May 15 to open house for KU-designed supportive housing project in Lawrence",
+      "url": "https://news.ku.edu/news/article/public-invited-may-15-to-open-house-for-ku-designed-supportive-housing-project-in-lawrence-ARTICLE-M3V0ZK-ARTICLE-M3V0ZK",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Students in KU’s School of Architecture & Design designed and built Kaw House, an innovative supportive housing project in Lawrence. The high-performance home demonstrates new approaches to sustainability, construction and community impact. The public is invited to an open house and ribbon cutting May 15.",
+      "source": "KU News",
+      "category": "general"
+    },
     {
       "title": "Study finds people more cynical toward news more likely to believe misinformation",
       "url": "https://news.ku.edu/news/article/study-finds-people-more-cynical-toward-news-more-likely-to-believe-misinformation-ARTICLE-F26T9T-ARTICLE-F26T9T-ARTICLE-F26T9T",
