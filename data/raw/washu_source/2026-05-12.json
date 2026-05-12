@@ -1,0 +1,62 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-05-12T12:00:15.810300",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Personalized vaccine shows promise against aggressive brain cancer",
+      "url": "https://source.washu.edu/2026/05/personalized-vaccine-shows-promise-against-aggressive-brain-cancer/",
+      "date": "2026-05-12",
+      "type": "Cancer Research",
+      "summary_en": "A WashU Medicine-led clinical trial has found that a personalized vaccine to treat glioblastoma appears to increase recurrence-free survival in a subset of patients after surgery.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Study finds digital therapy app improves student mental health",
+      "url": "https://source.washu.edu/2026/05/study-finds-digital-therapy-app-improves-student-mental-health/",
+      "date": "2026-05-12",
+      "type": "Mental Health",
+      "summary_en": "WashU researchers led a population-based study of thousands of college students showing that a phone app with text coaching increased access to care and eased symptoms of depression, anxiety and eating disorders.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "How to build a discovery machine",
+      "url": "https://source.washu.edu/2026/05/how-to-build-a-discovery-machine/",
+      "date": "2026-05-11",
+      "type": "Science & Technology",
+      "summary_en": "WashU McKelvey Engineering researchers have mapped out how to create artificial intelligence machines for solving problems with potentially trillions of complicating factors.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Scaling up the circular economy",
+      "url": "https://source.washu.edu/2026/05/washu-expert-scaling-up-the-circular-economy/",
+      "date": "2026-05-11",
+      "type": "Climate & Environment",
+      "summary_en": "Researchers at WashU McKelvey Engineering are addressing the challenges of scaling up carbon dioxide electrolysis for industrial use.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "New residence hall to be named James E. and Clara P. McLeod House",
+      "url": "https://source.washu.edu/2026/05/new-residence-hall-to-be-named-james-e-and-clara-p-mcleod-house/",
+      "date": "2026-05-11",
+      "type": "Campus & Facilities",
+      "summary_en": "The late James McLeod, vice chancellor for students and dean of the College of WashU Arts & Sciences, founded the Ervin Scholars Program and, along with his wife, Clara, challenged the WashU community to know each student “by name and by story.”",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Arvin appointed executive vice chancellor for advancement",
+      "url": "https://source.washu.edu/2026/05/arvin-appointed-executive-vice-chancellor-for-advancement/",
+      "date": "2026-05-11",
+      "type": "Appointments & Promotions",
+      "summary_en": "Will Arvin, vice chancellor for medical advancement at Washington University in St. Louis, has been appointed executive vice chancellor for advancement, effective Jan. 5, according to Chancellor Andrew D. Martin. Arvin will succeed Pamella A. Henson, who is retiring.",
+      "source": "WashU Source",
+      "category": "advancement"
+    }
+  ]
+}

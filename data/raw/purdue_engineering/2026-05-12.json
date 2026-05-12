@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-12T12:00:23.967349",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "In the news: AAE's Qiao joins BBC podcast on higher jet fuel prices and supply risks",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0512-purdue-li-qiao-sustainable-aviation-fuel-research",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "Li Qiao, professor of aeronautics and astronautics at Purdue University, is featured in this BBC podcast.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Engineering alum Markey's passion, dedication lead Engineering Student Success program",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0512-Purdue-Engineering-alum-Markeys-passion-dedication-lead-Engineering-Student-Success-program",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "New Engineering Student Success director Tamara Markey has become a mentor for students in the program.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Space Program launches in Indianapolis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0512-purdue-space-program-indianapolis-rocket-launch",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "Something new is launching in Indianapolis — literally! Purdue Space Program, the student group who have been launching rockets in West Lafayette for more than 25 years, have established a chapter in Indianapolis.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

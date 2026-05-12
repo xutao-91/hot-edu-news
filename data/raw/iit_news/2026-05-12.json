@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-05-12T12:00:12.065910",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Worth the Wait: Finding the Right Path Where Passion Turns into a Career",
+      "url": "https://www.iit.edu/news/worth-wait-finding-right-path-where-passion-turns-career",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "It was while Emily Litovchenko (M.S. CLIC ’26) was working at therapeutic clinic program in Chicago that provided a whole range of resources—including a full complement of therapists and social...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "A Profound Impact: Engineering Professor Named Outstanding Educator",
+      "url": "https://www.iit.edu/news/profound-impact-engineering-professor-named-outstanding-educator",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Illinois Tech Associate Professor of Architectural Engineering Mohammad Heidarinejad was awarded the 2026 Outstanding Educator Award by the Architectural Engineering Institute (AEI) of the American...",
+      "source": "IIT News",
+      "category": "academic"
+    }
+  ]
+}

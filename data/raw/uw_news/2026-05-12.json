@@ -1,0 +1,44 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-12T12:00:18.338054",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UW-Madison launches search for next director of athletics",
+      "url": "https://news.wisc.edu/uw-madison-launches-search-for-next-director-of-athletics/",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "The process is being initiated by incoming interim Chancellor Eric Wilcots",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Professor Emeritus John Ralph elected to National Academy of Sciences",
+      "url": "https://news.wisc.edu/professor-emeritus-john-ralph-elected-to-national-academy-of-sciences/",
+      "date": "May 11, 2026",
+      "type": "News",
+      "summary_en": "The honor recognizes his pioneering work to understand the biochemistry of an important binding compound in plants.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Universities of Wisconsin Presidential Search Committee, interim president named",
+      "url": "https://www.wisconsin.edu/news/archive/presidential-search-committee-named-to-lead-universities-of-wisconsin-presidential-search/",
+      "date": "May 11, 2026",
+      "type": "News",
+      "summary_en": "Amy B. Bogost, president of the UW System Board of Regents, has appointed a 25-member presidential search committee to help identify the next Universities of Wisconsin president. Bogost appointed Renée Wachter as the interim president of the Universities of Wisconsin.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "A Camp Randall commencement",
+      "url": "https://news.wisc.edu/a-camp-randall-commencement/",
+      "date": "May 9, 2026",
+      "type": "News",
+      "summary_en": "Tears of joy, words of advice and some jumping around mark Saturday's ceremony.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

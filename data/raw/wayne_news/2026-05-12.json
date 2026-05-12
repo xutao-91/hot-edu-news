@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-12T12:00:15.231349",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Wayne State celebrates the Class of 2026",
+      "url": "https://today.wayne.edu/news/2026/05/11/wayne-state-celebrates-the-class-of-2026-69045",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State University advocates for greater investment in Michigan’s future",
+      "url": "https://today.wayne.edu/news/2026/05/11/wayne-state-university-advocates-for-greater-investment-in-michigans-future-69053",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

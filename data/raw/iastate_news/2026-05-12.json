@@ -1,0 +1,44 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-05-12T12:00:18.244192",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Graduating senior turns invention into business helping others",
+      "url": "https://www.news.iastate.edu/news/graduating-senior-turns-invention-business-helping-others",
+      "date": "2026-05-11",
+      "type": "Student Success",
+      "summary_en": "As she prepares to graduate from Iowa State, industrial design senior Boluwarin Ojo reflects on a journey that led her from campus community-building to creating a patent‑pending safety product and launching a nationally recognized startup.",
+      "source": "Iowa State News",
+      "category": "business"
+    },
+    {
+      "title": "Third-generation Cyclone blends legacy, research and leadership",
+      "url": "https://www.news.iastate.edu/news/third-generation-cyclone-blends-legacy-research-and-leadership",
+      "date": "2026-05-11",
+      "type": "Student Success",
+      "summary_en": "Rooted in a family farming tradition, Tristan Weers will graduate from Iowa State as a double major in biochemistry and genetics and a recipient of the Wallace E. Barron All-University Senior Award.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Graduating senior finds his rhythm in music composition",
+      "url": "https://www.news.iastate.edu/news/graduating-senior-finds-his-rhythm-music-composition",
+      "date": "2026-05-11",
+      "type": "Student Success",
+      "summary_en": "Jarod Hart discovered a lifelong passion for music at a young age, studied music education and composition at Iowa State and found his calling in composition.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Iowa State celebrates spring graduates May 14-16",
+      "url": "https://www.news.iastate.edu/news/iowa-state-celebrates-spring-graduates-may-14-16",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Nearly 5,000 students are earning degrees this spring. This includes 891 first-generation students -- one who will wear a special set of regalia. Iowa State will celebrate graduates with university commencement ceremonies and college convocations May 14-16.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}
