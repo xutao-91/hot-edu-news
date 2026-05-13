@@ -1,9 +1,27 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-12T12:00:15.810300",
-  "total_news": 6,
+  "crawled_at": "2026-05-12T20:00:14.868908",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Gene-edited stem cell transplant shows promise for aggressive blood cancers",
+      "url": "https://source.washu.edu/2026/05/gene-edited-stem-cell-transplant-shows-promise-for-aggressive-blood-cancers/",
+      "date": "2026-05-12",
+      "type": "Cancer Research",
+      "summary_en": "A new study led by WashU Medicine researchers shows that, for blood cancer patients, a genetically engineered stem cell transplant helps prevent toxic side effects and potentially improves the effectiveness of therapies.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Analysis reveals AI’s impact on research, journals",
+      "url": "https://source.washu.edu/2026/05/analysis-reveals-ais-impact-on-research-journals/",
+      "date": "2026-05-12",
+      "type": "Operations & Strategy",
+      "summary_en": "As editor-in-chief of Organization Science, WashU Olin Business School’s Lamar Pierce is sounding the alarm about the increasing strain on the peer review system caused by artificial intelligence and university incentives.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "Personalized vaccine shows promise against aggressive brain cancer",
       "url": "https://source.washu.edu/2026/05/personalized-vaccine-shows-promise-against-aggressive-brain-cancer/",

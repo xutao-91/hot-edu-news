@@ -2752,5 +2752,101 @@
     "fetch_time": "2026-05-12T12:00:30.032879",
     "title": "Ready to fire",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/football-walk-on-jerry-rullo-46-headed-to-harvard-medical-school/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-12T20:00:08.430210",
+    "title": "Football walk-on Jerry Rullo #46 headed to Harvard Medical School",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/accomplished-leader-and-alumnus-paul-popiel-named-notre-dame-director-of-bands-and-professor-of-music/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-12T20:00:08.483137",
+    "title": "Accomplished leader and alumnus Paul Popiel named Notre Dame director of bands and professor of music",
+    "category": "semiconductor"
+  },
+  "https://mendoza.nd.edu/news/class-of-2026-salutatorian-allison-elshoff/": {
+    "source": "mendoza",
+    "fetch_time": "2026-05-12T20:00:13.437828",
+    "title": "Undergraduate Student Perspective: Allison Elshoff ’26",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/new-study-aims-map-how-menopause-shapes-aging-brain": {
+    "source": "iastate_news",
+    "fetch_time": "2026-05-12T20:00:14.306987",
+    "title": "New study aims to map how menopause shapes the aging brain",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/05/gene-edited-stem-cell-transplant-shows-promise-for-aggressive-blood-cancers/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-12T20:00:15.439353",
+    "title": "Gene-edited stem cell transplant shows promise for aggressive blood cancers",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/05/analysis-reveals-ais-impact-on-research-journals/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-12T20:00:15.439379",
+    "title": "Analysis reveals AI’s impact on research, journals",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/business/uni-faculty-members-build-connections-basketball-court": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-12T20:00:19.419619",
+    "title": "UNI faculty members build connections on the basketball court",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-grant-competition-empower-states-through-reimagined-comprehensive-centers-program": {
+    "source": "edgov",
+    "fetch_time": "2026-05-12T20:00:20.364603",
+    "title": "U.S. Department of Education Announces Grant Competition to Empower States Through a Reimagined Comprehensive Centers Program",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/researchers-expanding-geologic-atlases-inform-counties-land-and-well-owners": {
+    "source": "umn_cse",
+    "fetch_time": "2026-05-12T20:00:22.855021",
+    "title": "Researchers expanding geologic atlases to inform counties, land and well owners",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/college/live/news/50955-iu-earth-scientist-earns-international-honor-for": {
+    "source": "iu_news",
+    "fetch_time": "2026-05-12T20:00:25.377075",
+    "title": "Earth scientist earns international honor for pioneering research on rivers and deltas",
+    "category": "general"
+  },
+  "https://today.uic.edu/providers-as-patients-quick-response-leads-to-pharmacists-successful-stroke-recovery/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-12T20:00:26.738459",
+    "title": "Providers as patients: Quick response leads to pharmacist’s successful stroke recovery",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/researchers-turn-ideation-into-innovation-with-nsf-i-corps-at-uic/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-12T20:00:26.738487",
+    "title": "Researchers turn ideation into innovation with NSF I-Corps at UIC",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/chancellors-committee-on-the-status-of-latinos-recognizes-outstanding-uic-community-members/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-12T20:00:26.738499",
+    "title": "Chancellor’s Committee on the Status of Latinos recognizes outstanding UIC community members",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/media-advisory-ku-tests-manufactured-homes-in-hurricane-winds-tomorrow-in-florida-ARTICLE-AT6SF7-ARTICLE-AT6SF7": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-12T20:00:27.511132",
+    "title": "Media advisory: KU to test manufactured homes in hurricane winds May 13 in Florida",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-sent-to-the-senate-3857/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-12T20:00:30.837164",
+    "title": "Nominations Sent to the Senate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-10-achievements-transforming-outcomes-for-foster-youth-since-the-signing-the-fostering-the-future-executive-order-180-days-ago/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-12T20:00:30.837200",
+    "title": "First Lady Melania Trump’s 10 Achievements Transforming Outcomes for Foster Youth Since the Signing the Fostering the Future Executive Order 180 Days Ago",
+    "category": "general"
   }
 }

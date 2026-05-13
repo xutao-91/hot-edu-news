@@ -1,8 +1,8 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-12T12:00:17.684945",
-  "total_news": 4,
+  "crawled_at": "2026-05-12T20:00:18.825668",
+  "total_news": 5,
   "news": [
     {
       "title": "UNI student helps preserve hidden Grant Wood history for upcoming documentary",
@@ -10,6 +10,15 @@
       "date": "2026-05-12",
       "type": "News",
       "summary_en": "Not many college students get the chance to work with a historic piece of art created by an internationally-renowned artist – but for University of Northern Iowa student Anissa Droessler, that rare opportunity became a reality. Droessler, a UNI Art Education major, recently contributed to a documentary project centered on Grant Wood’s World War I memorial windows, located in the Cedar Rapids Veter",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI faculty members build connections on the basketball court",
+      "url": "https://insideuni.uni.edu/business/uni-faculty-members-build-connections-basketball-court",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "At University of Northern Iowa, some of the most meaningful lessons in connection, mentorship and belonging don’t just happen in the classroom — they happen on the basketball court.",
       "source": "UNI News",
       "category": "general"
     },

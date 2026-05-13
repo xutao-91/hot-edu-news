@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-12T12:00:29.895186",
-  "total_news": 7,
+  "crawled_at": "2026-05-12T20:00:30.642372",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-sent-to-the-senate-3857/",
+      "date": "May 12, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump’s 10 Achievements Transforming Outcomes for Foster Youth Since the Signing the Fostering the Future Executive Order 180 Days Ago",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-10-achievements-transforming-outcomes-for-foster-youth-since-the-signing-the-fostering-the-future-executive-order-180-days-ago/",
+      "date": "May 12, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on National Salvation Army Week",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-salvation-army-week/",
