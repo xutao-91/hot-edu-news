@@ -352,25 +352,27 @@ def generate_html():
         source_set.add(a.get('_source_name', ''))
     sources = [{'name': s} for s in sorted(source_set) if s]
 
-    # 来源类型分类：高等教育机构 vs 其他
-    HIGHER_ED_SOURCES = {
-        'augie_news', 'butler_stories', 'elmhurst_news', 'iastate_news', 'iit_news',
-        'iu_education', 'iu_news', 'kelley', 'kstate_news', 'ku_news', 'kettering_news',
-        'mendoza', 'msoe', 'msu_today', 'mtu_news', 'mcw_cancer',
-        'nd_news', 'northwestern_news', 'notre_dame', 'nd_science',
-        'purdue', 'purdue_education', 'purdue_engineering', 'purdue_polytechnic',
-        'rockhurst_news', 'slu_news', 'studlife', 'showme_mizzou',
-        'uchicago_news', 'uic_today', 'uiowa_now',
-        'umich_engineering', 'umich_ford', 'umich_isr', 'umich_medschool', 'umich_umsi',
-        'umn_cse', 'uni_news', 'unl_news',
-        'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_news',
-        'washu_engineering', 'washu_source', 'wayne_news', 'oneill',
+    # 来源类型分类：高等教育机构 vs 其他（用文章实际的英文来源名匹配）
+    HIGHER_ED_NAMES = {
+        'Kelley School of Business', 'Notre Dame News', 'Notre Dame College of Science',
+        'Mendoza College of Business', 'UW-Madison News', 'Purdue College of Engineering',
+        'Indiana University', 'WashU McKelvey Engineering', 'UW-Madison Graduate School',
+        'MSOE', 'Purdue Polytechnic Institute', 'UW-Madison School of Education',
+        'UW-Madison College of Engineering',
+        'Augustana News', 'Butler Stories', 'Elmhurst News', 'IIT News',
+        'Iowa State News', 'K-State News', 'KU News', 'Kettering News',
+        'MTU News', 'Rockhurst News', 'Show Me Mizzou', 'SLU News',
+        'Student Life', 'UChicago News', 'UIC Today', 'UIowa Now',
+        'UMN CSE', 'UNI News', 'UNL News', 'WashU Source', 'Wayne State News',
+        'IU凯利商学院', '圣母大学新闻', '圣母大学理学院',
+        '圣母大学门多萨商学院', '普渡工程学院',
+        '印第安纳大学', '密尔沃基工程学院', '普渡理工学院',
+        'F&MCW癌症网络',
     }
     source_groups = ['高等教育机构', '其他']
     for a in all_articles:
         src_name = a.get('_source_name', '')
-        src_key = source_key_by_name.get(src_name, '')
-        a['_source_group'] = '高等教育机构' if src_key in HIGHER_ED_SOURCES else '其他'
+        a['_source_group'] = '高等教育机构' if src_name in HIGHER_ED_NAMES else '其他'
 
     # 整理分类列表
     category_set = set()
