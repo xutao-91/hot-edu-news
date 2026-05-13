@@ -1,9 +1,27 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-05-13T12:55:46.495228",
-  "total_news": 7,
+  "crawled_at": "2026-05-13T12:00:15.983244",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Gayle wins Stubbendieck Great Plains Distinguished Book Prize",
+      "url": "https://news.unl.edu/article/gayle-wins-stubbendieck-great-plains-distinguished-book-prize",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Workshops help western Nebraska producers manage drought conditions",
+      "url": "https://news.unl.edu/article/workshops-help-western-nebraska-producers-manage-drought-conditions",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Cahoon elected to National Academy of Sciences",
       "url": "https://news.unl.edu/article/cahoon-elected-to-national-academy-of-sciences",

@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-05-13T12:55:54.593609",
-  "total_news": 1,
+  "crawled_at": "2026-05-13T12:00:26.652605",
+  "total_news": 3,
   "news": [
+    {
+      "title": "School of Education graduate receives Ginsberg Family Award",
+      "url": "https://education.wisc.edu/news/school-of-education-graduate-receives-ginsberg-family-award/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Rathika Murali, who graduated in May 2026 from the School of Education, has received a 2026 Ginsberg Family Award from UW–Madison Student Affairs.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
+    {
+      "title": "Department of Theatre and Drama recognized at American College Theatre Festival",
+      "url": "https://education.wisc.edu/news/department-of-theatre-and-drama-recognized-at-american-college-theatre-festival/",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison students and productions from the School of Education’s Department of Theatre and Drama received multiple honors at the American College Theatre Festival.",
+      "source": "UW-Madison School of Education",
+      "category": "theatre_drama"
+    },
     {
       "title": "Five School of Education faculty honored with Vilas professorships and awards",
       "url": "https://education.wisc.edu/news/five-school-of-education-faculty-honored-with-vilas-professorships-and-awards-3/",

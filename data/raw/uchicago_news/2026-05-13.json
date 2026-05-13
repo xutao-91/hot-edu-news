@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-13T12:55:55.962330",
-  "total_news": 3,
+  "crawled_at": "2026-05-13T12:00:29.313050",
+  "total_news": 4,
   "news": [
+    {
+      "title": "New UChicago digital research tool opens paths connecting cultures and continents",
+      "url": "https://news.uchicago.edu/story/new-uchicago-digital-research-tool-opens-paths-connecting-cultures-and-continents",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Maps of Chicago, Guerrilla Television, Middle East photographs, and more are connected with metadata to power research",
+      "source": "UChicago News",
+      "category": "research"
+    },
     {
       "title": "UChicago alumni earn Pulitzer Prizes for international and local reporting",
       "url": "https://news.uchicago.edu/story/uchicago-alumni-earn-pulitzer-prizes-international-and-local-reporting",

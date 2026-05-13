@@ -1,9 +1,36 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-13T12:55:44.239202",
-  "total_news": 8,
+  "crawled_at": "2026-05-13T12:00:14.213667",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Study reveals how, when political parties communicate with citizens in multiple languages",
+      "url": "https://source.washu.edu/2026/05/study-reveals-how-when-political-parties-communicate-with-citizens-in-multiple-languages/",
+      "date": "2026-05-13",
+      "type": "Politics",
+      "summary_en": "Analyzing 4 million Facebook posts made by 800 political parties from 87 countries around the world, including the U.S., WashU political scientists find candidates’ linguistic choices often mirror the parties’ choices.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Commencement speakers Popat, Shaver reflect on their time at WashU",
+      "url": "https://source.washu.edu/2026/05/commencement-speakers-popat-shaver-reflect-on-their-time-at-washu/",
+      "date": "2026-05-13",
+      "type": "Students",
+      "summary_en": "On Friday, May 15, graduate student speaker Sejal Popat and undergraduate student speaker Mason Shaver will join Chancellor Andrew D. Martin, honorary degree recipients and Commencement speaker Andy Cohen at WashU’s 165th Commencement ceremony. Here, they look back on their journeys to and through WashU.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU receives $200M commitment for public health",
+      "url": "https://source.washu.edu/2026/05/washu-receives-200m-commitment-for-public-health/",
+      "date": "2026-05-13",
+      "type": "Health & Society",
+      "summary_en": "The largest gift in WashU history, from the Bursky Family Foundation, will advance the School of Public Health’s vision in a post-pandemic world.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Gene-edited stem cell transplant shows promise for aggressive blood cancers",
       "url": "https://source.washu.edu/2026/05/gene-edited-stem-cell-transplant-shows-promise-for-aggressive-blood-cancers/",
@@ -66,15 +93,6 @@
       "summary_en": "The late James McLeod, vice chancellor for students and dean of the College of WashU Arts & Sciences, founded the Ervin Scholars Program and, along with his wife, Clara, challenged the WashU community to know each student “by name and by story.”",
       "source": "WashU Source",
       "category": "general"
-    },
-    {
-      "title": "Arvin appointed executive vice chancellor for advancement",
-      "url": "https://source.washu.edu/2026/05/arvin-appointed-executive-vice-chancellor-for-advancement/",
-      "date": "2026-05-11",
-      "type": "Appointments & Promotions",
-      "summary_en": "Will Arvin, vice chancellor for medical advancement at Washington University in St. Louis, has been appointed executive vice chancellor for advancement, effective Jan. 5, according to Chancellor Andrew D. Martin. Arvin will succeed Pamella A. Henson, who is retiring.",
-      "source": "WashU Source",
-      "category": "advancement"
     }
   ]
 }

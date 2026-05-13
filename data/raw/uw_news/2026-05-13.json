@@ -1,15 +1,24 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-13T12:55:46.304252",
-  "total_news": 3,
+  "crawled_at": "2026-05-13T12:00:18.735843",
+  "total_news": 4,
   "news": [
     {
-      "title": "UW-Madison launches search for next director of athletics",
+      "title": "Going above and beyond to help students succeed",
+      "url": "https://news.wisc.edu/going-above-and-beyond-to-help-students-succeed/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "The 2026 Awards for Mentoring Undergraduates recognize outstanding contributions to student growth from the classroom to the lab.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison launches search for next director of athletics",
       "url": "https://news.wisc.edu/uw-madison-launches-search-for-next-director-of-athletics/",
       "date": "May 12, 2026",
       "type": "News",
-      "summary_en": "The process is being initiated by incoming interim Chancellor Eric Wilcots",
+      "summary_en": "The process is being initiated by incoming interim Chancellor Eric Wilcots.",
       "source": "UW-Madison News",
       "category": "general"
     },

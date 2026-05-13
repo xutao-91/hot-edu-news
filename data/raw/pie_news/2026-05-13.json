@@ -1,9 +1,39 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-13T12:55:39.380410",
-  "total_news": 8,
+  "crawled_at": "2026-05-13T12:00:08.276149",
+  "total_news": 11,
   "news": [
+    {
+      "title": "NZ international enrolments hit 92k as recovery gathers pace",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-05-13",
+      "type": "Recruitment & agents",
+      "summary_en": "New Zealand’s international education recovery is accelerating, with enrolments climbing 11% year-on-year to reach 92,580 students in 2025, according to new figures from Education New Zealand (ENZ).",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "ICE director brands OPT a “magnet for fraud”",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-05-13",
+      "type": "Immigration",
+      "summary_en": "The head of America’s notorious Immigration and Customs Enforcement (ICE) has called the US post-study work program a “magnet for fraud”, vowing to “relentlessly investigate” students and employers.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Revealed: the best-performing agents for New Zealand",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-05-13",
+      "type": "Data",
+      "summary_en": "Education New Zealand has published the top-performing agents for nine source countries based on application volume and visa approval rates. The data also reveals a higher visa approval rate for agent-linked applications than in previous years.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
     {
       "title": "US phases out international student crisis protections",
       "url": "https://thepienews.com/category/news/government/",

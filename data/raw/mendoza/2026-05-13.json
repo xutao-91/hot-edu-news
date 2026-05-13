@@ -1,9 +1,18 @@
 {
   "source": "Mendoza College of Business at Notre Dame",
   "source_url": "https://mendoza.nd.edu/news/",
-  "crawled_at": "2026-05-13T12:55:41.411172",
-  "total_news": 1,
+  "crawled_at": "2026-05-13T12:00:12.727380",
+  "total_news": 2,
   "news": [
+    {
+      "title": "University awards recognize Notre Dame faculty excellence",
+      "url": "https://mendoza.nd.edu/news/university-awards-recognize-notre-dame-faculty-excellence/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Gina Shropshire, associate advising professor, received the Dockweiler award in recognition of her service as an undergraduate academic advisor",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
     {
       "title": "Undergraduate Student Perspective: Allison Elshoff ’26",
       "url": "https://mendoza.nd.edu/news/class-of-2026-salutatorian-allison-elshoff/",

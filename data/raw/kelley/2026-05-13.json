@@ -1,13 +1,22 @@
 {
   "source": "Kelley School of Business at IU",
   "source_url": "https://kelley.iu.edu/news-events/index.html",
-  "crawled_at": "2026-05-13T12:55:51.520425",
-  "total_news": 1,
+  "crawled_at": "2026-05-13T12:00:24.379192",
+  "total_news": 2,
   "news": [
+    {
+      "title": "IU Indianapolis graduates highlight community impact through business and policy work",
+      "url": "https://news.iu.edu/live/news/50966-iu-indianapolis-graduates-highlight-community",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Indiana University Indianapolis will graduate over 5,600 students this week. Graduates Aissa Condori and Evren Elliott share how IU Indianapolis shaped their growth and career paths.",
+      "source": "Kelley School of Business",
+      "category": "business"
+    },
     {
       "title": "IU Bloomington honors 2 faculty members with Distinguished Service Awards",
       "url": "https://today.iu.edu/iub/live/news/50478-iu-bloomington-honors-2-faculty-members-with",
-      "date": "2026-05-13",
+      "date": "2026-05-12",
       "type": "News",
       "summary_en": "This year’s recipients are Brad Wheeler, the Sungkyunkwan Professor of Information Systems and James H. Rudy Professor in the Kelley School of Business, and Bernice Pescosolido, a Distinguished P...",
       "source": "Kelley School of Business",

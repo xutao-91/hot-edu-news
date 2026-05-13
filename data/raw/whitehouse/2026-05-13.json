@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-13T12:55:56.428715",
-  "total_news": 9,
+  "crawled_at": "2026-05-13T12:00:30.648172",
+  "total_news": 10,
   "news": [
+    {
+      "title": "President Trump’s Unwavering Support for Law Enforcement is Making America Safe Again",
+      "url": "https://www.whitehouse.gov/releases/2026/05/president-trumps-unwavering-support-for-law-enforcement-is-making-america-safe-again/",
+      "date": "May 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Nominations Sent to the Senate",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-sent-to-the-senate-3857/",

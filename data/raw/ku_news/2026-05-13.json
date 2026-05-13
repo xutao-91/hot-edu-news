@@ -1,9 +1,27 @@
 {
   "source": "University of Kansas News",
   "source_url": "https://news.ku.edu/news",
-  "crawled_at": "2026-05-13T12:55:52.807989",
-  "total_news": 9,
+  "crawled_at": "2026-05-13T12:00:25.846936",
+  "total_news": 11,
   "news": [
+    {
+      "title": "Studio 804 to host May 16 open house for latest sustainable design-build project in Lawrence",
+      "url": "https://news.ku.edu/news/article/studio-804-to-host-may-16-open-house-for-latest-sustainable-design-build-project-in-lawrence",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "KU’s Studio 804 will host a May 16 open house for its latest student-designed and constructed home in Lawrence. Built by KU architecture students, the project highlights innovative sustainable design, material reuse and high-performance construction.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Study analyzes environmental impacts of academic conference travel, encourages rethinking alternatives",
+      "url": "https://news.ku.edu/news/article/study-analyzes-environmental-impacts-of-academic-conference-travel-encourages-rethinking-alternatives-ARTICLE-B508KK-ARTICLE-B508KK-ARTICLE-B508KK",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "A study led by a University of Kansas researcher has analyzed the environmental effects of air travel to academic conferences. The study does not call for an end to academic travel but rather to rethink how such gatherings are arranged and held, especially in fields like social welfare, that are dedicated to environmental justice.",
+      "source": "KU News",
+      "category": "research"
+    },
     {
       "title": "Media advisory: KU to test manufactured homes in hurricane winds May 13 in Florida",
       "url": "https://news.ku.edu/news/article/media-advisory-ku-tests-manufactured-homes-in-hurricane-winds-tomorrow-in-florida-ARTICLE-AT6SF7-ARTICLE-AT6SF7",

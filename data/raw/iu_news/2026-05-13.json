@@ -1,17 +1,26 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-05-13T12:55:50.107165",
-  "total_news": 2,
+  "crawled_at": "2026-05-13T12:00:24.706911",
+  "total_news": 4,
   "news": [
     {
-      "title": "Earth scientist earns international honor for pioneering research on rivers and deltas",
-      "url": "https://news.iu.edu/college/live/news/50955-iu-earth-scientist-earns-international-honor-for",
-      "date": "May 12, 2026",
-      "type": "Science and Technology",
+      "title": "IU Indianapolis graduates highlight community impact through business and policy work",
+      "url": "https://news.iu.edu/live/news/50966-iu-indianapolis-graduates-highlight-community",
+      "date": "May 13, 2026",
+      "type": "Campus Life",
       "summary_en": "",
       "source": "Indiana University",
-      "category": "science"
+      "category": "general"
+    },
+    {
+      "title": "Water safety tips from drowning prevention expert William Ramos",
+      "url": "https://news.iu.edu/live/news/50962-water-safety-tips-from-drowning-prevention-expert",
+      "date": "May 13, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
     },
     {
       "title": "Granfalloon announces lineup for outdoor concert series at Switchyard Park",
@@ -21,6 +30,15 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"
+    },
+    {
+      "title": "Earth scientist earns international honor for pioneering research on rivers and deltas",
+      "url": "https://news.iu.edu/college/live/news/50955-iu-earth-scientist-earns-international-honor-for",
+      "date": "May 12, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
     }
   ]
 }

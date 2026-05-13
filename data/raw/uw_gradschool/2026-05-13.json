@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison Graduate School",
   "source_url": "https://grad.wisc.edu/category/news/",
-  "crawled_at": "2026-05-13T12:55:38.338545",
-  "total_news": 1,
+  "crawled_at": "2026-05-13T12:00:08.097500",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Chris Brace named Graduate School Associate Dean",
+      "url": "https://grad.wisc.edu/2026/05/13/brace-named-associate-dean/",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Chris Brace, professor of radiology and biomedical engineering, will join the Graduate School as associate dean starting in June.",
+      "source": "UW-Madison Graduate School",
+      "category": "graduate"
+    },
     {
       "title": "PhD student Burke receives dissertation fellowship to map a crafting movement",
       "url": "https://grad.wisc.edu/2026/05/11/phd-student-burke-receives-dissertation-fellowship-to-map-a-crafting-movement/",
