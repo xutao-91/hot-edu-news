@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-05-13T12:55:53.331363",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Providers as patients: Quick response leads to pharmacist’s successful stroke recovery",
+      "url": "https://today.uic.edu/providers-as-patients-quick-response-leads-to-pharmacists-successful-stroke-recovery/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "Nancy Shapiro’s successful recovery reinforces the importance of knowing the signs and symptoms of stroke.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Researchers turn ideation into innovation with NSF I-Corps at UIC",
+      "url": "https://today.uic.edu/researchers-turn-ideation-into-innovation-with-nsf-i-corps-at-uic/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "Program helps scientists turn a promising idea into a technology, product or service that benefits society.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "Chancellor’s Committee on the Status of Latinos recognizes outstanding UIC community members",
+      "url": "https://today.uic.edu/chancellors-committee-on-the-status-of-latinos-recognizes-outstanding-uic-community-members/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "Six UIC community members recognized for their service.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Photos: Spring 2026 commencement",
+      "url": "https://today.uic.edu/photos-spring-2026-commencement/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "More than 6,600 University of Illinois Chicago graduates earned their […]",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

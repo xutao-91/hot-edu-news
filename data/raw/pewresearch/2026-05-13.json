@@ -1,0 +1,38 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-05-13T12:55:37.787488",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Q&A: Do AI and bogus respondents threaten polling’s future?",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/12/qa-do-ai-and-bogus-respondents-threaten-pollings-future/",
+      "date": "May 12, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Methodological Research",
+        "Online Surveys",
+        "Research Explainers"
+      ],
+      "summary_en": "Courtney Kennedy, vice president of methods and innovation, answers some common questions about the current polling landscape in the U.S.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Americans See Health Care Costs, Deficit, Inflation as Big Problems Facing the Nation",
+      "url": "https://www.pewresearch.org/politics/2026/05/11/americans-see-health-care-costs-deficit-inflation-as-big-problems-facing-the-nation/",
+      "date": "May 11, 2026",
+      "type": "report",
+      "categories": [
+        "Health Care",
+        "National Conditions",
+        "Political Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "Economic issues continue to dominate Americans’ ranking of the country’s top problems. Meanwhile, the share who say illegal immigration is a very big problem has dropped since the start of Trump’s second term.",
+      "source": "Pew Research Center",
+      "category": "international"
+    }
+  ]
+}

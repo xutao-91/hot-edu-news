@@ -137,26 +137,21 @@ def get_all_translated_articles():
                 # 数组格式
                 if isinstance(data, list):
                     for article in data:
-                        # 确保是中文（标题至少包含3个中文字符）
+                        # 标题模式下不要求中文，接受所有标题
                         title = article.get("title_cn", article.get("title", ""))
                         if title:
-                            cn_count = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
-                            if cn_count >= 3:
-                                articles.append(article)
+                            articles.append(article)
                 # 数组嵌套在news字段的格式
                 elif isinstance(data, dict) and "news" in data:
                     for article in data["news"]:
-                        # 确保是中文（标题至少包含3个中文字符）
+                        # 标题模式下不要求中文，接受所有标题
                         title = article.get("title_cn", article.get("title", ""))
                         if title:
-                            cn_count = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
-                            if cn_count >= 3:
-                                articles.append(article)
+                            articles.append(article)
                 # 单篇格式（新格式）
                 elif isinstance(data, dict) and "title" in data:
                     title = data.get("title_cn", data.get("title", ""))
-                    cn_count = sum(1 for c in title if '\u4e00' <= c <= '\u9fff')
-                    if cn_count >= 3:
+                    if title:
                         articles.append(data)
             except:
                 continue
@@ -317,7 +312,7 @@ def generate_html():
         'nea_news': {'name': 'NEA News', 'color': '#7B1FA2'}
     }
     
-    # 只加载已经翻译完成的纯中文文章，确保页面无英文内容
+    # 加载所有文章（标题模式，不要求中文）
     all_articles = get_all_translated_articles()
     
     # 补充来源信息
@@ -368,8 +363,7 @@ def generate_html():
         date_short = get_display_date_short(article.get('date', ''))
         category = get_category_name(article.get('category', 'general'))
         summary = article.get('summary', article.get('summary_cn', ''))
-        if not summary:
-            summary = '暂无摘要，点击查看原文'
+        # 标题模式：不强制要求摘要
         
         # 处理RSS日期格式
         pub_date = formatdate()

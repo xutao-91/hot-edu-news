@@ -7,23 +7,57 @@
     "summary_en": "Engineers at Washington University are addressing the challenges to scaling up CO2 electrolysis.",
     "source": "WashU McKelvey Engineering",
     "category": "general",
-    "title_cn": "华盛顿大学专家：推动循环经济规模化发展",
-    "summary_cn": "华盛顿大学麦凯维工程学院能源、环境与化学工程系教授、劳伦与李·菲克斯特聘教授焦峰近期在《自然·化学工程》期刊发表评论文章，系统阐述了推动一氧化碳与二氧化碳电解技术实现规模化应用面临的挑战与路径。该技术旨在将废弃碳转化为乙烯、甲醇、乙酸等高价值平台化学品，从而为循环经济提供关键支撑。焦峰教授指出，当前核心课题在于如何将实验室规模装置推进至商业化水平。",
-    "translated_time": "2026-05-11T12:11:20.930830",
+    "title_cn": "WashU Expert: Scaling up the circular economy",
+    "summary_cn": "",
     "_sort_date": "2026-05-11"
   },
   {
-    "title": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
-    "url": "https://engineering.washu.edu/news/2026/Synthetic-biology-leads-to-recyclable-textiles-Engineered-protein-fibers-for-a-cleaner-future.html",
-    "date": "2026-05-08",
+    "title": "Class Acts: Ruiqi Wang",
+    "url": "https://engineering.washu.edu/news/2026/Class-Acts-Ruiqi-Wang.html",
+    "date": "2026-05-11",
     "type": "News",
-    "summary_en": "Researchers develop engineered protein polymers that can be easily recycled and reused.",
+    "summary_en": "Wang's passion for machine-learning led him to help develop the \"test kitchen.\"",
     "source": "WashU McKelvey Engineering",
     "category": "general",
-    "title_cn": "圣路易斯华盛顿大学研究团队依托合成生物学技术研发可回收工程蛋白纤维纺织材料",
+    "title_cn": "Class Acts: Ruiqi Wang",
     "summary_cn": "",
-    "translated_time": "2026-05-10T01:43:27.303390",
-    "_sort_date": "2026-05-08"
+    "_sort_date": "2026-05-11"
+  },
+  {
+    "title": "How to build a discovery machine",
+    "url": "https://engineering.washu.edu/news/2026/How-to-build-a-discovery-machine.html",
+    "date": "2026-05-11",
+    "type": "News",
+    "summary_en": "Engineers at Washington University in St. Louis have mapped out further details for how to create “discovery machines” for solving problems with potentially trillions of complicating factors.",
+    "source": "WashU McKelvey Engineering",
+    "category": "research",
+    "title_cn": "How to build a discovery machine",
+    "summary_cn": "",
+    "_sort_date": "2026-05-11"
+  },
+  {
+    "title": "WashU Design/Build/Fly recognized for teamwork at annual AIAA event",
+    "url": "https://engineering.washu.edu/news/2026/WashU-DesignBuildFly-recognized-for-teamwork-at-annual-AIAA-event.html",
+    "date": "2026-05-11",
+    "type": "News",
+    "summary_en": "Group honored for collective effort to overcome slew of adversities.",
+    "source": "WashU McKelvey Engineering",
+    "category": "general",
+    "title_cn": "WashU Design/Build/Fly recognized for teamwork at annual AIAA event",
+    "summary_cn": "",
+    "_sort_date": "2026-05-11"
+  },
+  {
+    "title": "Class Acts: Catalina Bernabé Correa",
+    "url": "https://engineering.washu.edu/news/2026/Class-Acts-Catalina-Bernabe-Correa.html",
+    "date": "2026-05-11",
+    "type": "News",
+    "summary_en": "Passion for motorcycles and neuroscience drove student to study spinal cord injuries.",
+    "source": "WashU McKelvey Engineering",
+    "category": "general",
+    "title_cn": "Class Acts: Catalina Bernabé Correa",
+    "summary_cn": "",
+    "_sort_date": "2026-05-11"
   },
   {
     "title": "Mixed plastic waste target of upcycling process to cut waste, emissions",
@@ -33,9 +67,20 @@
     "summary_en": "Christopher Cooper tackles plastic upcycling with ARPA-E grant.",
     "source": "WashU McKelvey Engineering",
     "category": "general",
-    "title_cn": "圣路易斯华盛顿大学研究人员获资助研发混合塑料废弃物升级回收工艺以减少浪费与排放",
+    "title_cn": "Mixed plastic waste target of upcycling process to cut waste, emissions",
     "summary_cn": "",
-    "translated_time": "2026-05-10T01:44:18.955382",
+    "_sort_date": "2026-05-08"
+  },
+  {
+    "title": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
+    "url": "https://engineering.washu.edu/news/2026/Synthetic-biology-leads-to-recyclable-textiles-Engineered-protein-fibers-for-a-cleaner-future.html",
+    "date": "2026-05-08",
+    "type": "News",
+    "summary_en": "Researchers develop engineered protein polymers that can be easily recycled and reused.",
+    "source": "WashU McKelvey Engineering",
+    "category": "general",
+    "title_cn": "Synthetic biology leads to recyclable textiles: Engineered protein fibers for a cleaner future",
+    "summary_cn": "",
     "_sort_date": "2026-05-08"
   }
 ]

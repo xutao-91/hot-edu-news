@@ -1,0 +1,26 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-05-13T12:55:37.454640",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Accomplished leader and alumnus Paul Popiel named Kenn and Pamela Ricci Director of Bands and professor of music at Notre Dame",
+      "url": "https://news.nd.edu/news/accomplished-leader-and-alumnus-paul-popiel-named-notre-dame-director-of-bands-and-professor-of-music/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "academic"
+    },
+    {
+      "title": "Notre Dame to confer 3,335 degrees over Commencement Weekend, May 16-17",
+      "url": "https://news.nd.edu/news/notre-dame-to-confer-3-335-degrees-over-commencement-weekend-may-16-17/",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}
