@@ -317,6 +317,8 @@ def generate_html():
     
     # 补充来源信息
     source_info_map = {v['name']: v for k, v in sources.items()}
+    # 构建名称→key的反向映射，用于来源类型分类
+    source_key_by_name = {v['name']: k for k, v in sources.items()}
     for article in all_articles:
         article['_source_name'] = article.get('source', '未知来源')
         article['_source_color'] = source_info_map.get(article['_source_name'], {}).get('color', '#6B7280')
@@ -349,7 +351,27 @@ def generate_html():
     for a in all_articles:
         source_set.add(a.get('_source_name', ''))
     sources = [{'name': s} for s in sorted(source_set) if s]
-    
+
+    # 来源类型分类：高等教育机构 vs 其他
+    HIGHER_ED_SOURCES = {
+        'augie_news', 'butler_stories', 'elmhurst_news', 'iastate_news', 'iit_news',
+        'iu_education', 'iu_news', 'kelley', 'kstate_news', 'ku_news', 'kettering_news',
+        'mendoza', 'msoe', 'msu_today', 'mtu_news', 'mcw_cancer',
+        'nd_news', 'northwestern_news', 'notre_dame', 'nd_science',
+        'purdue', 'purdue_education', 'purdue_engineering', 'purdue_polytechnic',
+        'rockhurst_news', 'slu_news', 'studlife', 'showme_mizzou',
+        'uchicago_news', 'uic_today', 'uiowa_now',
+        'umich_engineering', 'umich_ford', 'umich_isr', 'umich_medschool', 'umich_umsi',
+        'umn_cse', 'uni_news', 'unl_news',
+        'uw_cdis', 'uw_education', 'uw_engineering', 'uw_gradschool', 'uw_news',
+        'washu_engineering', 'washu_source', 'wayne_news', 'oneill',
+    }
+    source_groups = ['高等教育机构', '其他']
+    for a in all_articles:
+        src_name = a.get('_source_name', '')
+        src_key = source_key_by_name.get(src_name, '')
+        a['_source_group'] = '高等教育机构' if src_key in HIGHER_ED_SOURCES else '其他'
+
     # 整理分类列表
     category_set = set()
     for a in all_articles:
@@ -383,6 +405,7 @@ def generate_html():
             'category': category,
             'source_name': article.get('_source_name', ''),
             'source_color': article.get('_source_color', '#6B7280'),
+            'source_group': article.get('_source_group', '其他'),
             'pub_date': pub_date
         })
     
@@ -391,6 +414,7 @@ def generate_html():
         'total_articles': len(all_articles),
         'update_time': update_time,
         'sources': sources,
+        'source_groups': source_groups,
         'categories': categories,
         'articles': articles_for_template
     }
