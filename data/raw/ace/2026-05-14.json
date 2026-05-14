@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-05-14T12:00:29.229906",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE’s Building Pathways Summit Caps Year-Long Series of State-Focused Convenings",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Building-Pathways-Summit-May-2026.aspx",
+      "date": "May 11, 2026",
+      "type": "News",
+      "summary_en": "After events in Richmond, Kalamazoo, and Lehigh Valley, and a national webinar, a May 26 in-person summit in Alexandria, VA, will serve as the capstone event for ACE Building Pathways series.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

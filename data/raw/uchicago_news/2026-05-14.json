@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-14T12:00:29.795640",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Our untapped superpower: Connecting with others, with Nicholas Epley",
+      "url": "https://news.uchicago.edu/big-brains-podcast-our-untapped-superpower-connecting-others-nicholas-epley",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago will offer free tuition for families with incomes below $250,000, greatly expanding undergraduate aid",
+      "url": "https://news.uchicago.edu/story/uchicago-will-offer-free-tuition-families-incomes-below-250000-greatly-expanding",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Starting in Autumn 2027, initiative covers tuition, fees, housing and meals for families with incomes below $125,000, dramatically increasing access to a transformative UChicago education",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "New UChicago digital research tool opens paths connecting cultures and continents",
+      "url": "https://news.uchicago.edu/story/new-uchicago-digital-research-tool-opens-paths-connecting-cultures-and-continents",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Maps of Chicago, Guerrilla Television, Middle East photographs, and more are connected with metadata to power research",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "UChicago alumni earn Pulitzer Prizes for international and local reporting",
+      "url": "https://news.uchicago.edu/story/uchicago-alumni-earn-pulitzer-prizes-international-and-local-reporting",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "Journalists Dake Kang, AB’16, and Caroline Kubzansky, AB’21, recognized for investigating mass surveillance in China and ‘Operation Midway Blitz’",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The Toll of the On-Again, Off-Again War in Iran",
+      "url": "https://news.uchicago.edu/toll-again-again-war-iran",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Are randomized controlled trials harming nonprofits?",
+      "url": "https://news.uchicago.edu/story/are-randomized-controlled-trials-harming-nonprofits",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "In recent book, UChicago’s Nicole P. Marwell and Jennifer E. Mosley argue that the research method isn’t always the best tool",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

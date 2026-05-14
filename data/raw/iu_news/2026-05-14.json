@@ -1,0 +1,62 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-05-14T12:00:24.446751",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "IU names former Navy research and innovation leader as chief advisor for national security R&D",
+      "url": "https://news.iu.edu/live/news/50986-iu-names-former-navy-research-and-innovation",
+      "date": "May 14, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU Indianapolis graduates highlight community impact through business and policy work",
+      "url": "https://news.iu.edu/live/news/50966-iu-indianapolis-graduates-highlight-community",
+      "date": "May 13, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Water safety tips from drowning prevention expert William Ramos",
+      "url": "https://news.iu.edu/live/news/50962-water-safety-tips-from-drowning-prevention-expert",
+      "date": "May 13, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Granfalloon announces lineup for outdoor concert series at Switchyard Park",
+      "url": "https://news.iu.edu/live/news/50961-granfalloon-announces-lineup-for-outdoor-concert",
+      "date": "May 12, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Indianapolis sport analytics students present research to Colts",
+      "url": "https://blogs.iu.edu/shhsnews/iu-indianapolis-sport-analytics-students-present-their-research-through-the-sports-innovation-institute-to-the-indianapolis-colts/",
+      "date": "May 14, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Earth scientist earns international honor for pioneering research on rivers and deltas",
+      "url": "https://news.iu.edu/college/live/news/50955-iu-earth-scientist-earns-international-honor-for",
+      "date": "May 12, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

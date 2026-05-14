@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-05-14T12:00:25.105914",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "For this graduating senior, Minnesota is where engineering meets French studies",
+      "url": "https://cse.umn.edu/college/news/graduating-senior-minnesota-where-engineering-meets-french-studies",
+      "date": "2026-05-13",
+      "type": "People-Profiles",
+      "summary_en": "University of Minnesota senior Sophia Konzen pairs mechanical engineering, French studies, and three study abroad experiences to open up her world and doors for her future career.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "Researchers expanding geologic atlases to inform counties, land and well owners",
+      "url": "https://cse.umn.edu/college/news/researchers-expanding-geologic-atlases-inform-counties-land-and-well-owners",
+      "date": "2026-05-12",
+      "type": "Research",
+      "summary_en": "With 16 new sediment samples, Minnesota Geological Survey researchers are interpreting what’s hidden below our feet — specifically, water resources — and adding to a state-funded mapping project.",
+      "source": "UMN CSE",
+      "category": "research"
+    }
+  ]
+}

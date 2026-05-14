@@ -1,0 +1,18 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-05-14T12:00:25.391311",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "May Day protest: Graduate workers, Cori Bush rally in support of international students, ArtSci PhD programs",
+      "url": "https://www.studlife.com/news/2026/05/13/may-day-protest-graduate-workers-cori-bush-rally-in-support-of-international-students-artsci-phd-programs",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "The Washington University Graduate Workers Union (WUGWU) organized a demonstration last Friday, May 1, to protest University funding cuts to College of Arts & Sciences graduate programs and demand increased protections for international students as part of nationwide May Day rallies and strikes calling for labor rights, among other causes.",
+      "author": "Tim Mellman, Tanvi Gorre, Laurel Wang",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}

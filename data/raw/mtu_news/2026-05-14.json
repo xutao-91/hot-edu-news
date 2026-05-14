@@ -1,0 +1,17 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-05-14T12:00:28.376209",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Michigan Tech Researchers Develop Self-fueling Marine Battery for DARPA BLUE Program",
+      "url": "https://www.mtu.edu/unscripted/2026/05/michigan-tech-researchers-develop-selffueling-marine-battery-for-darpa-blue-program.html",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "Michigan Tech faculty are developing a microbe-fueled power supply system that could keep ocean sensors in the water longer with fewer maintenance stops.  Underwater sensors need battery power. When the batteries die, somebody has to replace them, which can be  . . .",
+      "source": "MTU News",
+      "category": "research"
+    }
+  ]
+}

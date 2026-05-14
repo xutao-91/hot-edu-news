@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-14T12:00:23.621508",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Celebrating excellence: 2026 Co-op and Intern of the Year Award winners",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0513-Purdues-2026-Co-op-and-Intern-of-the-Year-Award-Winners",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Each year, the Purdue University Office of Professional Practice recognizes outstanding undergraduate students through the Co-op and Intern of the Year awards. Students are nominated based on their performance during a registered work experience completed in spring, summer or fall 2025.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "In the news: AAE's Qiao joins BBC podcast on higher jet fuel prices and supply risks",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0512-purdue-li-qiao-sustainable-aviation-fuel-research",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "Li Qiao, professor of aeronautics and astronautics at Purdue University, is featured in this BBC podcast.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Engineering alum Markey's passion, dedication lead Engineering Student Success program",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0512-Purdue-Engineering-alum-Markeys-passion-dedication-lead-Engineering-Student-Success-program",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "New Engineering Student Success director Tamara Markey has become a mentor for students in the program.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Space Program launches in Indianapolis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0512-purdue-space-program-indianapolis-rocket-launch",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "Something new is launching in Indianapolis — literally! Purdue Space Program, the student group who have been launching rockets in West Lafayette for more than 25 years, have established a chapter in Indianapolis.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

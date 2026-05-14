@@ -1,0 +1,26 @@
+{
+  "source": "Kettering University News",
+  "source_url": "https://www.kettering.edu/who-we-are/news-events/kettering-news",
+  "crawled_at": "2026-05-14T12:00:31.082158",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Kettering Robotics Team Goes 9–1, Captures Innovate Award at VEX U World Championship",
+      "url": "https://www.kettering.edu/kettering-robotics-team-goes-9-1-captures-innovate-award-vex-u-world-championship",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "funding"
+    },
+    {
+      "title": "Governor Whitmer Reappoints Dr. Robert K. McMahan, Kettering University President, to MEDC Executive Committee",
+      "url": "https://www.kettering.edu/governor-whitmer-reappoints-dr-robert-k-mcmahan-kettering-university-president-medc-executive",
+      "date": "2026-05-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "academics"
+    }
+  ]
+}
