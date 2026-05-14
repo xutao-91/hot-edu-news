@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-13T12:00:29.313050",
-  "total_news": 4,
+  "crawled_at": "2026-05-13T20:00:29.214325",
+  "total_news": 5,
   "news": [
+    {
+      "title": "UChicago will offer free tuition for families with incomes below $250,000, greatly expanding undergraduate aid",
+      "url": "https://news.uchicago.edu/story/uchicago-will-offer-free-tuition-families-incomes-below-250000-greatly-expanding",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Starting in Autumn 2027, initiative covers tuition, fees, housing and meals for families with incomes below $125,000, dramatically increasing access to a transformative UChicago education",
+      "source": "UChicago News",
+      "category": "ai"
+    },
     {
       "title": "New UChicago digital research tool opens paths connecting cultures and continents",
       "url": "https://news.uchicago.edu/story/new-uchicago-digital-research-tool-opens-paths-connecting-cultures-and-continents",

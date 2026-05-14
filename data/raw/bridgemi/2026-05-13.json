@@ -1,7 +1,18 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-05-13T12:00:11.654111",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-13T20:00:12.085424",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Money woes close a small Michigan college. It’s not alone",
+      "url": "https://bridgemi.com/talent-education/money-woes-close-a-small-michigan-college-its-not-alone/",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Siena Heights University in Adrian is closing for good after graduating its final class. It’s among a wave of closures for small, private, faith-based colleges regionally and in Michigan.",
+      "author": "Janelle D. James",
+      "source": "Bridge Michigan",
+      "category": "michigan"
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-13T12:00:08.276149",
+  "crawled_at": "2026-05-13T20:00:08.726463",
   "total_news": 11,
   "news": [
     {
@@ -29,7 +29,7 @@
       "url": "https://thepienews.com/category/news/data/",
       "date": "2026-05-13",
       "type": "Data",
-      "summary_en": "Education New Zealand has published the top-performing agents for nine source countries based on application volume and visa approval rates. The data also reveals a higher visa approval rate for agent-linked applications than in previous years.",
+      "summary_en": "Immigration New Zealand has published the top-performing agents for nine source countries based on application volume and visa approval rates. The data also reveals a higher visa approval rate for agent-linked applications than in previous years.",
       "source": "The PIE News",
       "category": "general",
       "author": "The PIE News team"

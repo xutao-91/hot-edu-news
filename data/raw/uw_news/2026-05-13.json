@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-13T12:00:18.735843",
-  "total_news": 4,
+  "crawled_at": "2026-05-13T20:00:18.154343",
+  "total_news": 6,
   "news": [
+    {
+      "title": "RISE-THRIVE lead and headquarters announced",
+      "url": "https://research.wisc.edu/press-release/2026/05/12/rise-thrive-lead-and-headquarters-announced/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Michal Engelman will lead the RISE-THRIVE Collaboration Headquarters in its mission to bring together researchers working at the forefront of two distinct but related research areas — immunology and healthspan.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "With deep appreciation and immense gratitude, farewell",
+      "url": "https://news.wisc.edu/with-deep-appreciation-and-immense-gratitude-farewell/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Chancellor Jennifer Mnookin offers a parting note as the academic year and her time at UW–Madison comes to a close.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Going above and beyond to help students succeed",
       "url": "https://news.wisc.edu/going-above-and-beyond-to-help-students-succeed/",

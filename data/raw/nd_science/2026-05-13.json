@@ -1,9 +1,18 @@
 {
   "source": "Notre Dame College of Science",
   "source_url": "https://science.nd.edu/news-and-media/news/",
-  "crawled_at": "2026-05-13T12:00:07.387351",
-  "total_news": 4,
+  "crawled_at": "2026-05-13T20:00:07.377002",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Start of something new: Inside two biochemistry majors’ path to musical theater",
+      "url": "https://science.nd.edu/news-and-media/news/start-of-something-new-inside-two-biochemistry-majors-path-to-musical-theater/",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
     {
       "title": "Football walk-on Jerry Rullo #46 headed to Harvard Medical School",
       "url": "https://science.nd.edu/news-and-media/news/football-walk-on-jerry-rullo-46-headed-to-harvard-medical-school/",

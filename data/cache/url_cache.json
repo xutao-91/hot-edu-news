@@ -3046,5 +3046,89 @@
     "fetch_time": "2026-05-13T12:00:30.833662",
     "title": "President Trump’s Unwavering Support for Law Enforcement is Making America Safe Again",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/reimagining-the-global-education-agenda-what-we-heard-from-the-education-community-across-6-continents/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-13T20:00:07.311149",
+    "title": "Reimagining the global education agenda: What we heard from the education community across 6 continents",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/start-of-something-new-inside-two-biochemistry-majors-path-to-musical-theater/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-13T20:00:07.942090",
+    "title": "Start of something new: Inside two biochemistry majors’ path to musical theater",
+    "category": "semiconductor"
+  },
+  "https://bridgemi.com/talent-education/money-woes-close-a-small-michigan-college-its-not-alone/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-13T20:00:12.655891",
+    "title": "Money woes close a small Michigan college. It’s not alone",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/summer-campus-parking.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-13T20:00:12.897861",
+    "title": "Enjoy flexible summer campus parking",
+    "category": "general"
+  },
+  "https://research.wisc.edu/press-release/2026/05/12/rise-thrive-lead-and-headquarters-announced/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-13T20:00:18.655390",
+    "title": "RISE-THRIVE lead and headquarters announced",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/with-deep-appreciation-and-immense-gratitude-farewell/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-13T20:00:18.655415",
+    "title": "With deep appreciation and immense gratitude, farewell",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-announce-historic-expansion-of-wioa-combined-state-plans": {
+    "source": "edgov",
+    "fetch_time": "2026-05-13T20:00:20.119077",
+    "title": "U.S. Department of Education and U.S. Department of Labor Announce Historic Expansion of WIOA Combined State Plans",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/secretary-mcmahon-announces-144m-boost-students-disabilities": {
+    "source": "edgov",
+    "fetch_time": "2026-05-13T20:00:20.119108",
+    "title": "Secretary McMahon Announces $144M Boost for Students with Disabilities",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/05/13/may-day-protest-graduate-workers-cori-bush-rally-in-support-of-international-students-artsci-phd-programs": {
+    "source": "studlife",
+    "fetch_time": "2026-05-13T20:00:25.106208",
+    "title": "May Day protest: Graduate workers, Cori Bush rally in support of international students, ArtSci PhD programs",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-researcher-honored-for-reproducible-biomedical-research/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-13T20:00:26.896750",
+    "title": "UIC researcher honored for reproducible biomedical research",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/uchicago-will-offer-free-tuition-families-incomes-below-250000-greatly-expanding": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-13T20:00:29.474230",
+    "title": "UChicago will offer free tuition for families with incomes below $250,000, greatly expanding undergraduate aid",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-womens-health-week/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-13T20:00:30.019737",
+    "title": "Presidential Message on National Women’s Health Week",
+    "category": "general"
+  },
+  "https://stories.butler.edu/built-from-the-ground-up-butler-deca-becomes-the-largest-collegiate-chapter-in-the-world/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-05-13T20:00:30.141811",
+    "title": "Built from the Ground Up: Butler DECA Becomes the Largest Collegiate Chapter in the World",
+    "category": "education"
+  },
+  "https://www.kettering.edu/kettering-robotics-team-goes-9-1-captures-innovate-award-vex-u-world-championship": {
+    "source": "kettering_news",
+    "fetch_time": "2026-05-13T20:00:33.707762",
+    "title": "Kettering Robotics Team Goes 9–1, Captures Innovate Award at VEX U World Championship",
+    "category": "semiconductor"
   }
 }

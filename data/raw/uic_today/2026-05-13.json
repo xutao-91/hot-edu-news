@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-05-13T12:00:26.376914",
-  "total_news": 4,
+  "crawled_at": "2026-05-13T20:00:26.341591",
+  "total_news": 5,
   "news": [
+    {
+      "title": "UIC researcher honored for reproducible biomedical research",
+      "url": "https://today.uic.edu/uic-researcher-honored-for-reproducible-biomedical-research/",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Jagadeesh Ramasamy receives National Institutes of Health Common Fund Replication Prize.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
     {
       "title": "Providers as patients: Quick response leads to pharmacist’s successful stroke recovery",
       "url": "https://today.uic.edu/providers-as-patients-quick-response-leads-to-pharmacists-successful-stroke-recovery/",

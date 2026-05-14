@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-13T12:00:30.648172",
+  "crawled_at": "2026-05-13T20:00:29.831221",
   "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message on National Women’s Health Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-womens-health-week/",
+      "date": "May 13, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "President Trump’s Unwavering Support for Law Enforcement is Making America Safe Again",
       "url": "https://www.whitehouse.gov/releases/2026/05/president-trumps-unwavering-support-for-law-enforcement-is-making-america-safe-again/",
@@ -63,13 +70,6 @@
     {
       "title": "Presidential Message on Mother’s Day",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-mothers-day/",
-      "date": "May 10, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "America 250: Presidential Message on the Anniversary of the Capture of Fort Ticonderoga",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-capture-of-fort-ticonderoga/",
       "date": "May 10, 2026",
       "category": "Briefings & Statements",
       "source": "The White House"
