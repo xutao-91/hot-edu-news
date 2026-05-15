@@ -1,0 +1,35 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-05-15T12:00:13.313840",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "‘Every Feature Is Intentional’: Designing and Building Inside and Outside the Classroom",
+      "url": "https://www.iit.edu/news/every-feature-intentional-designing-and-building-inside-and-outside-classroom",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "There is a certain allure, Olisaemaka Nzeribe (ME ’26) says, to designing and building your own contraptions. “I like the idea of not needing to buy everything I own in the future,” says Nzeribe, who...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Commencement 2026: A Milestone Moment",
+      "url": "https://www.iit.edu/news/commencement-2026-milestone-moment",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "On Saturday, May 16, 2026, Illinois Tech’s 2025–26 graduating class of 2,972 students will celebrate the next milestone on their life’s journey during the university’s 157th Commencement ceremony at...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Worth the Wait: Finding the Right Path Where Passion Turns into a Career",
+      "url": "https://www.iit.edu/news/worth-wait-finding-right-path-where-passion-turns-career",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "It was while Emily Litovchenko (M.S. CLIC ’26) was working at therapeutic clinic program in Chicago that provided a whole range of resources—including a full complement of therapists and social...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

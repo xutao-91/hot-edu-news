@@ -1,0 +1,35 @@
+{
+  "source": "Kelley School of Business at IU",
+  "source_url": "https://kelley.iu.edu/news-events/index.html",
+  "crawled_at": "2026-05-15T12:00:25.979002",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU names former Navy research and innovation leader as chief advisor for national security R&D",
+      "url": "https://news.iu.edu/live/news/50986-iu-names-former-navy-research-and-innovation",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "Former acting Assistant Secretary of the Navy for Research, Development and Acquisition Brett Seidle, who also performed the duties of the under secretary of the Navy, has been named Indiana Univer...",
+      "source": "Kelley School of Business",
+      "category": "research"
+    },
+    {
+      "title": "IU Indianapolis graduates highlight community impact through business and policy work",
+      "url": "https://news.iu.edu/live/news/50966-iu-indianapolis-graduates-highlight-community",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Indiana University Indianapolis will graduate over 5,600 students this week. Graduates Aissa Condori and Evren Elliott share how IU Indianapolis shaped their growth and career paths.",
+      "source": "Kelley School of Business",
+      "category": "business"
+    },
+    {
+      "title": "IU Bloomington honors 2 faculty members with Distinguished Service Awards",
+      "url": "https://today.iu.edu/iub/live/news/50478-iu-bloomington-honors-2-faculty-members-with",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "This year’s recipients are Brad Wheeler, the Sungkyunkwan Professor of Information Systems and James H. Rudy Professor in the Kelley School of Business, and Bernice Pescosolido, a Distinguished P...",
+      "source": "Kelley School of Business",
+      "category": "general"
+    }
+  ]
+}

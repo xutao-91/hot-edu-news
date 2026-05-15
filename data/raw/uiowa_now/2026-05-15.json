@@ -1,0 +1,44 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-05-15T12:00:17.957455",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "President Wilson: Your small, intentional actions help UI excel",
+      "url": "https://www.youtube.com/watch?v=o_jpJEkdIkc",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "As another academic year draws to a close, UI President Barbara Wilson reflects on your hard work to support student success and have a positive impact on communities. “You have done it with a commitment to access, excellence, and stewardship that defines Iowa. It’s not easy work, and it does not go unnoticed.”",
+      "source": "UIowa Now",
+      "category": "leadership"
+    },
+    {
+      "title": "Stanley Museum of Art debuts poetry installation by UI faculty member Donika Kelly",
+      "url": "https://stanleymuseum.uiowa.edu/news/2026/05/university-iowa-stanley-museum-art-debuts-first-literary-installation-award-winning",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "The UI Stanley Museum of Art debuted a new poetry installation as part of its Thresholds series, featuring UI associate professor of English Donika Kelly’s work in the lobby through September. The rotating series highlights Iowa-affiliated poets and invites visitors — and classes — to experience poetry as both visual art and an interactive teaching tool.",
+      "source": "UIowa Now",
+      "category": "academic"
+    },
+    {
+      "title": "Explore employee benefits you might not know about",
+      "url": "https://hr.uiowa.edu/news/2026/05/lesser-known-employee-benefits",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "In addition to exceptional health and retirement benefits, you have access to a variety of other programs and resources that support your well-being, finances, and work-life balance — including some offered through trusted external partners. Learn what’s available to you.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI launches 2 programs to support your AI exploration",
+      "url": "https://its.uiowa.edu/news/2026/05/university-iowa-launches-two-new-programs-support-ai-exploration",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Curious how AI might fit into your daily work, but not sure where to start? Two new programs — AI Pathways and AI Explorer Grants — are designed to help you explore AI thoughtfully, responsibly, and with clear, practical goals.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

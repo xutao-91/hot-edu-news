@@ -1,0 +1,38 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-05-15T12:00:11.999176",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Michigan steps up work to persuade young men to go to college, get skills training",
+      "url": "https://bridgemi.com/talent-education/michigan-steps-up-work-to-persuade-young-men-to-go-to-college-get-skills-training/",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "Michigan is among the top states where young men’s college enrollment has plummeted.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "michigan"
+    },
+    {
+      "title": "Detroit schools make gains in reading and math: 4 strategies that work",
+      "url": "https://bridgemi.com/talent-education/detroit-schools-are-making-real-gains-in-reading-and-math-4-strategies-that-are-working/",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "A new study singles out Detroit as one of the districts nationally that is ‘accelerating recovery.’ How the schools did it — and what more needs to be done",
+      "author": "Lily Altavena, Chalkbeat",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
+    {
+      "title": "Money woes close a small Michigan college. It’s not alone",
+      "url": "https://bridgemi.com/talent-education/money-woes-close-a-small-michigan-college-its-not-alone/",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Siena Heights University in Adrian is closing for good after graduating its final class. It’s among a wave of closures for small, private, faith-based colleges regionally and in Michigan.",
+      "author": "Janelle D. James",
+      "source": "Bridge Michigan",
+      "category": "michigan"
+    }
+  ]
+}

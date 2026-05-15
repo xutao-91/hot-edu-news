@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-15T12:00:19.349190",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "A campus farewell for Jennifer Mnookin",
+      "url": "https://news.wisc.edu/a-campus-farewell-for-jennifer-mnookin/",
+      "date": "May 15, 2026",
+      "type": "News",
+      "summary_en": "Faculty, staff and students joined the send-off event, where UW leaders shared their heartfelt well-wishes for the university’s 30th chancellor.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Tracing life’s hidden histories",
+      "url": "https://stat.wisc.edu/2026/04/14/tracing-lifes-hidden-histories/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "Professor Claudia Solís-Lemus’ lab brings unique statistical rigor to far-reaching biological questions, from the origin of life to the diversity we see today.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Remembering Jon Miskowski, PBS Wisconsin’s emeritus director of television",
+      "url": "https://pbswisconsin.org/article/in-memory-of-jon-miskowski/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "Miskowski leaves a legacy of statewide community focus and programmatic vision that advanced PBS Wisconsin’s prominence nationally in education, innovation and fundraising.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "RISE-THRIVE lead and headquarters announced",
+      "url": "https://research.wisc.edu/press-release/2026/05/12/rise-thrive-lead-and-headquarters-announced/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Michal Engelman will lead the RISE-THRIVE Collaboration Headquarters in its mission to bring together researchers working at the forefront of two distinct but related research areas — immunology and healthspan.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "With deep appreciation and immense gratitude, farewell",
+      "url": "https://news.wisc.edu/with-deep-appreciation-and-immense-gratitude-farewell/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "Chancellor Jennifer Mnookin offers a parting note as the academic year and her time at UW–Madison comes to a close.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Going above and beyond to help students succeed",
+      "url": "https://news.wisc.edu/going-above-and-beyond-to-help-students-succeed/",
+      "date": "May 13, 2026",
+      "type": "News",
+      "summary_en": "The 2026 Awards for Mentoring Undergraduates recognize outstanding contributions to student growth from the classroom to the lab.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison launches search for next director of athletics",
+      "url": "https://news.wisc.edu/uw-madison-launches-search-for-next-director-of-athletics/",
+      "date": "May 12, 2026",
+      "type": "News",
+      "summary_en": "The process is being initiated by incoming interim Chancellor Eric Wilcots.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

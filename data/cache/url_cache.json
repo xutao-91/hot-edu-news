@@ -3358,5 +3358,197 @@
     "fetch_time": "2026-05-14T20:00:30.510155",
     "title": "Presidential Message on the Feast of the Ascension",
     "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/trisha-moore-tuttle-creek-dredging-effects-on-sediment-levels.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709127",
+    "title": "Sedimentary sleuths",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/bilbrey-family-event-center-rodeo-venue-partnership.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709156",
+    "title": "A destination for rodeo and more",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/applied-behavioral-health-counseling-course-allows-students-to-put-skills-to-the-test.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709169",
+    "title": "Healthcare from classroom to community",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/kirmser-undergraduate-research-awardees.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709180",
+    "title": "Digging deeper",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/katie-chandler-coffman-commons-patio.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709190",
+    "title": "A study garden to love full well",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/blue-key-senior-honorary.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709200",
+    "title": "K-State Blue Key Senior Honorary initiates 2026-2027 class",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/kstate-first-award-winners.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709209",
+    "title": "K-State First celebrates annual award winners",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/regnier-chair-alexandria-algard-global-design-studio.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T12:00:07.709219",
+    "title": "Nordic visions, urban futures",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/05/15/trumps-approval-rating-hits-second-term-low-among-his-latino-voters-though-many-still-approve/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-15T12:00:08.846179",
+    "title": "Trump’s approval rating hits second-term low among his Latino voters, though many still approve",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/05/15/a-majority-of-americans-say-the-countrys-best-years-are-behind-us/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-15T12:00:08.846204",
+    "title": "A majority of Americans say the country’s best years are behind us",
+    "category": "semiconductor"
+  },
+  "https://thepienews.com/category/news/tne/": {
+    "source": "pie_news",
+    "fetch_time": "2026-05-15T12:00:10.393204",
+    "title": "India gets tough on international branch campuses",
+    "category": "general"
+  },
+  "https://thepienews.com/category/news/elt/": {
+    "source": "pie_news",
+    "fetch_time": "2026-05-15T12:00:10.393231",
+    "title": "MPs and university leaders crowned winners of 2026 Duolingo Language Challenge",
+    "category": "education"
+  },
+  "https://thepienews.com/category/news/student-experience/": {
+    "source": "pie_news",
+    "fetch_time": "2026-05-15T12:00:10.393242",
+    "title": "Korea’s international students strapped with low-paid jobs",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/05/15/wayne-state-student-jonathan-teh-earns-national-recognition-as-two-time-udall-scholar-69086": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-15T12:00:16.169690",
+    "title": "Wayne State student Jonathan Teh earns national recognition as two-time Udall Scholar",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/05/15/wayne-states-ai-institute-gains-momentum-69091": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-15T12:00:16.169744",
+    "title": "Wayne State’s AI institute gains momentum",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/front-row-families-celebrate-husker-graduates": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-15T12:00:16.177222",
+    "title": "Front-row families celebrate Husker graduates",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/husker-hospitality-campus-prepares-for-thousands-of-summer-visitors": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-15T12:00:16.177257",
+    "title": "Husker hospitality: Campus prepares for thousands of summer visitors",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/hometown-husker-races-toward-record-setting-season": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-15T12:00:16.177268",
+    "title": "Hometown Husker races toward record-setting season",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/hollands-new-nsf-funded-resource-to-boost-ai-machine-learning-research": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-15T12:00:16.177278",
+    "title": "Holland’s new NSF-funded resource to boost AI, machine learning research",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-may-15": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-15T12:00:16.177287",
+    "title": "Achievements | Honors, appointments and publications for May 15",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/a-closer-look-at-a-record-setting-commencement": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-15T12:00:16.177298",
+    "title": "A closer look at a record-setting commencement",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/philadelphia-middle-schoolers-explore-how-ai-changes-their-classrooms-and-their-lives/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-15T12:00:16.814606",
+    "title": "Philadelphia Middle Schoolers Explore How AI Changes Their Classrooms and Their Lives",
+    "category": "education"
+  },
+  "https://news.wisc.edu/a-campus-farewell-for-jennifer-mnookin/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-15T12:00:19.862076",
+    "title": "A campus farewell for Jennifer Mnookin",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/computer-science-student-wins-bizpitch-competition": {
+    "source": "umn_cse",
+    "fetch_time": "2026-05-15T12:00:23.608999",
+    "title": "Computer science student wins BizPitch Competition",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/50990-iu-hosts-nvidia-to-showcase-global-leadership-in": {
+    "source": "iu_news",
+    "fetch_time": "2026-05-15T12:00:25.895043",
+    "title": "IU hosts NVIDIA to showcase global leadership in AI, Alzheimer’s research and workforce innovation",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/kletc-honors-fallen-officers-during-police-week-memorial-service-ARTICLE-4Y5TBQ-ARTICLE-4Y5TBQ": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-15T12:00:26.973943",
+    "title": "KLETC honors fallen officers during Police Week memorial service",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-announces-promotion-and-tenure-for-146-faculty-and-researchers-ARTICLE-R54HM6-ARTICLE-R54HM6-ARTICLE-R54HM6": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-15T12:00:26.973965",
+    "title": "KU announces promotion and tenure for 146 faculty and researchers",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-natural-history-museums-exhibit-celebrates-global-biodiversity-during-international-soccer-tournament-ARTICLE-TZW6QZ-ARTICLE-TZW6QZ": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-15T12:00:26.973976",
+    "title": "KU Natural History Museum’s exhibit celebrates global biodiversity during international soccer tournament",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-law-student-awarded-fellowship-to-work-in-wichita": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-15T12:00:26.973986",
+    "title": "KU Law student awarded fellowship to work in Wichita",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/perilous-partnership-among-gender-violence-military-scrutinized-in-new-book-ARTICLE-HMTHQJ-ARTICLE-HMTHQJ": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-15T12:00:26.973996",
+    "title": "Perilous partnership among gender, violence, military scrutinized in new book",
+    "category": "education"
+  },
+  "https://education.wisc.edu/news/uw-madison-doctoral-student-jeong-wins-first-place-in-national-eboard-competition/": {
+    "source": "uw_education",
+    "fetch_time": "2026-05-15T12:00:27.887506",
+    "title": "UW–Madison doctoral student Jeong wins first place in national eBoard competition",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71334.html": {
+    "source": "rand",
+    "fetch_time": "2026-05-15T12:00:31.010380",
+    "title": "An AI Taxonomy for Criminal Justice: Principled Use of AI in the Criminal Justice System",
+    "category": "ai"
   }
 }

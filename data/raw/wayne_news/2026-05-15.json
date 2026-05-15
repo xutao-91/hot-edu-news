@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-15T12:00:15.522421",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Wayne State student Jonathan Teh earns national recognition as two-time Udall Scholar",
+      "url": "https://today.wayne.edu/news/2026/05/15/wayne-state-student-jonathan-teh-earns-national-recognition-as-two-time-udall-scholar-69086",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State’s AI institute gains momentum",
+      "url": "https://today.wayne.edu/news/2026/05/15/wayne-states-ai-institute-gains-momentum-69091",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State faculty leaders bring student-centered perspective to statewide higher education talks",
+      "url": "https://today.wayne.edu/news/2026/05/14/wayne-state-faculty-leaders-bring-student-centered-perspective-to-statewide-higher-education-talks-69073",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "How WSU uses AI to teach design",
+      "url": "https://today.wayne.edu/news/2026/05/14/at-wayne-state-ais-reach-extends-beyond-science-labs-into-the-creative-arts-69078",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "17 Detroit police officers and staff graduate",
+      "url": "https://ilitchbusiness.wayne.edu/news/17-detroit-police-officers-and-professional-staff-earn-ilitch-school-graduate-certificates-in-business-69062",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Second round of Grand Challenges awards announced",
+      "url": "https://research.wayne.edu/news/second-round-of-grand-challenges-awards-announced-69074",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

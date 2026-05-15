@@ -1,0 +1,62 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-15T12:00:19.434069",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Photo gallery: Nuclear Energy Agency Director-General visits Mizzou",
+      "url": "https://showme.missouri.edu/2026/photo-gallery-nuclear-energy-agency-director-general-visits-mizzou/",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "The University of Missouri welcomed Mr. William D. Magwood, IV, who spoke this week as part of the President's Distinguished Lecture Series. See photos from his visit.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou breaks ground on Radioisotope Science Center to strengthen nation’s supply of critical isotopes",
+      "url": "https://showme.missouri.edu/2026/mizzou-breaks-ground-on-radioisotope-science-center-to-strengthen-nations-supply-of-critical-isotopes/",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "science"
+    },
+    {
+      "title": "Inside the ‘New Nuclear Era’: Mr. William D. Magwood, IV on global resurgence of nuclear energy and what comes next",
+      "url": "https://showme.missouri.edu/2026/inside-the-new-nuclear-era-mr-william-d-magwood-iv-on-global-resurgence-of-nuclear-energy-and-what-comes-next/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "The Director-General of the Nuclear Energy Agency will deliver remarks on May 13 as part of the President’s Distinguished Lecture series.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou to recognize three trailblazers with honorary degrees during spring commencement",
+      "url": "https://showme.missouri.edu/2026/mizzou-to-recognize-three-trailblazers-with-honorary-degrees-during-spring-commencement/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "Hayes Barnard, Barbara Stubbs Cochran and Rodger O. Riney will be recognized at commencement ceremonies this weekend.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou to celebrate nearly 6,000 graduates at spring commencement",
+      "url": "https://showme.missouri.edu/2026/mizzou-to-celebrate-nearly-6000-graduates-at-spring-commencement/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "At this weekend’s ceremonies, the University of Missouri will award 6,432 degrees to 5,967 students.",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Members of Mizzou ROTC units ready to transition to commissioned officers",
+      "url": "https://showme.missouri.edu/2026/members-of-mizzou-rotc-units-ready-to-transition-to-commissioned-officers/",
+      "date": "2026-05-12",
+      "type": "News",
+      "summary_en": "Meet representatives from the university’s Air Force, Army and Navy officer training programs",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Milwaukee School of Engineering (MSOE)",
+  "source_url": "https://www.msoe.edu/about-msoe/news/1/",
+  "crawled_at": "2026-05-15T12:00:09.613160",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Nearly 100 student projects to take center stage at MSOE showcase",
+      "url": "https://www.msoe.edu/about-msoe/news/details/nearly-100-student-projects-to-take-center-stage-at-msoe-showcase",
+      "date": "2026-05-13",
+      "type": "Academics",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "Spring Commencement is May 16 at MSOE",
+      "url": "https://www.msoe.edu/about-msoe/news/details/spring-commencement-is-may-16-at-msoe",
+      "date": "2026-05-13",
+      "type": "MSOE",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "Seniors recognized at annual Student Awards Celebration",
+      "url": "https://www.msoe.edu/about-msoe/news/details/seniors-recognized-at-annual-student-awards-celebration",
+      "date": "2026-05-13",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    }
+  ]
+}
