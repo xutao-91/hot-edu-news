@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-14T12:00:18.156665",
-  "total_news": 7,
+  "crawled_at": "2026-05-14T20:00:19.189075",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Tracing life’s hidden histories",
+      "url": "https://stat.wisc.edu/2026/04/14/tracing-lifes-hidden-histories/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "Professor Claudia Solís-Lemus’ lab brings unique statistical rigor to far-reaching biological questions, from the origin of life to the diversity we see today.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Remembering Jon Miskowski, PBS Wisconsin’s emeritus director of television",
       "url": "https://pbswisconsin.org/article/in-memory-of-jon-miskowski/",

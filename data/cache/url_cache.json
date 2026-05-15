@@ -3244,5 +3244,119 @@
     "fetch_time": "2026-05-14T12:00:30.067222",
     "title": "Our untapped superpower: Connecting with others, with Nicholas Epley",
     "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/ai-data-science-childrens-movie-premiere.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-14T20:00:12.261074",
+    "title": "Computer science department to premiere AI and data science children’s film at local theater",
+    "category": "ai"
+  },
+  "https://bridgemi.com/talent-education/michigan-steps-up-work-to-persuade-young-men-to-go-to-college-get-skills-training/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-14T20:00:13.614042",
+    "title": "Michigan steps up work to persuade young men to go to college, get skills training",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/detroit-schools-are-making-real-gains-in-reading-and-math-4-strategies-that-are-working/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-14T20:00:13.614069",
+    "title": "Detroit schools make gains in reading and math: 4 strategies that work",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/synthetic-biology-leads-to-recyclable-textiles/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-14T20:00:15.698761",
+    "title": "Synthetic biology leads to recyclable textiles",
+    "category": "biomanufacturing"
+  },
+  "https://www.youtube.com/watch?v=o_jpJEkdIkc": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-05-14T20:00:19.038182",
+    "title": "President Wilson: Your small, intentional actions help UI excel",
+    "category": "education"
+  },
+  "https://hr.uiowa.edu/news/2026/05/lesser-known-employee-benefits": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-05-14T20:00:19.038207",
+    "title": "Explore employee benefits you might not know about",
+    "category": "ai"
+  },
+  "https://its.uiowa.edu/news/2026/05/university-iowa-launches-two-new-programs-support-ai-exploration": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-05-14T20:00:19.038218",
+    "title": "UI launches 2 programs to support your AI exploration",
+    "category": "ai"
+  },
+  "https://stat.wisc.edu/2026/04/14/tracing-lifes-hidden-histories/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-14T20:00:19.851077",
+    "title": "Tracing life’s hidden histories",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/photo-gallery-nuclear-energy-agency-director-general-visits-mizzou/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-14T20:00:20.576085",
+    "title": "Photo gallery: Nuclear Energy Agency Director-General visits Mizzou",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-breaks-ground-on-radioisotope-science-center-to-strengthen-nations-supply-of-critical-isotopes/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-14T20:00:20.576111",
+    "title": "Mizzou breaks ground on Radioisotope Science Center to strengthen nation’s supply of critical isotopes",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-assistant-secretary-postsecondary-education-dr-david-barker-and-arkansas-governor-sarah-huckabee-sanders-highlight-civics": {
+    "source": "edgov",
+    "fetch_time": "2026-05-14T20:00:22.142395",
+    "title": "U.S. Department of Education Assistant Secretary for Postsecondary Education Dr. David Barker and Arkansas Governor Sarah Huckabee Sanders Highlight Civics Education",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-honors-faculty-and-staff-2026-appreciation-awards": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-14T20:00:27.597000",
+    "title": "Purdue Polytechnic honors faculty and staff at 2026 appreciation awards",
+    "category": "semiconductor"
+  },
+  "https://education.wisc.edu/news/more-than-administrative-support-how-the-office-of-research-scholarship-strengthens-faculty-research/": {
+    "source": "uw_education",
+    "fetch_time": "2026-05-14T20:00:28.288078",
+    "title": "More than administrative support: How the Office of Research & Scholarship strengthens faculty research",
+    "category": "education"
+  },
+  "https://education.wisc.edu/news/fong-chan-distinguished-uw-madison-scholar-in-rehabilitation-counseling-dies/": {
+    "source": "uw_education",
+    "fetch_time": "2026-05-14T20:00:28.288103",
+    "title": "Fong Chan, distinguished UW–Madison scholar in rehabilitation counseling, dies",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/05/meet-the-northwestern-schapiro-award-winners": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-14T20:00:28.713008",
+    "title": "Meet this year’s Northwestern Schapiro Award winners",
+    "category": "general"
+  },
+  "https://news.northwestern.edu/stories/2026/05/northwestern-mourns-professor-emeritus-mark-a-ratner": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-14T20:00:28.713031",
+    "title": "Northwestern mourns Professor Emeritus Mark A. Ratner",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/story/uchicago-announces-2026-winners-quantrell-and-phd-teaching-awards": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-14T20:00:29.988163",
+    "title": "UChicago announces 2026 winners of Quantrell and Ph.D. teaching awards",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-lewis-and-clark-expedition/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-14T20:00:30.510125",
+    "title": "America 250: Presidential Message on the Anniversary of the Lewis and Clark Expedition",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-the-feast-of-the-ascension/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-14T20:00:30.510155",
+    "title": "Presidential Message on the Feast of the Ascension",
+    "category": "general"
   }
 }

@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-14T12:00:15.474355",
+  "crawled_at": "2026-05-14T20:00:14.947573",
   "total_news": 10,
   "news": [
+    {
+      "title": "Synthetic biology leads to recyclable textiles",
+      "url": "https://source.washu.edu/2026/05/synthetic-biology-leads-to-recyclable-textiles/",
+      "date": "2026-05-14",
+      "type": "Sustainability",
+      "summary_en": "Chemical engineers at WashU developed recyclable protein fibers that can be dissolved and remade without compromising their original strength and properties.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Study reveals how, when political parties communicate with citizens in multiple languages",
       "url": "https://source.washu.edu/2026/05/study-reveals-how-when-political-parties-communicate-with-citizens-in-multiple-languages/",
@@ -82,15 +91,6 @@
       "date": "2026-05-11",
       "type": "Climate & Environment",
       "summary_en": "Researchers at WashU McKelvey Engineering are addressing the challenges of scaling up carbon dioxide electrolysis for industrial use.",
-      "source": "WashU Source",
-      "category": "general"
-    },
-    {
-      "title": "New residence hall to be named James E. and Clara P. McLeod House",
-      "url": "https://source.washu.edu/2026/05/new-residence-hall-to-be-named-james-e-and-clara-p-mcleod-house/",
-      "date": "2026-05-11",
-      "type": "Campus & Facilities",
-      "summary_en": "The late James McLeod, vice chancellor for students and dean of the College of WashU Arts & Sciences, founded the Ervin Scholars Program and, along with his wife, Clara, challenged the WashU community to know each student “by name and by story.”",
       "source": "WashU Source",
       "category": "general"
     }

@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-14T12:00:30.750611",
-  "total_news": 9,
+  "crawled_at": "2026-05-14T20:00:30.323608",
+  "total_news": 10,
   "news": [
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Lewis and Clark Expedition",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-the-anniversary-of-the-lewis-and-clark-expedition/",
+      "date": "May 14, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Feast of the Ascension",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-the-feast-of-the-ascension/",
+      "date": "May 14, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on National Women’s Health Week",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-womens-health-week/",
@@ -58,13 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-and-withdrawal-sent-to-the-senate-c6ad/",
       "date": "May 11, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump Honors America’s Moms with New Support for Families",
-      "url": "https://www.whitehouse.gov/releases/2026/05/president-trump-honors-americas-moms-with-new-support-for-families/",
-      "date": "May 11, 2026",
-      "category": "Releases",
       "source": "The White House"
     }
   ]

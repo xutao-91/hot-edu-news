@@ -1,9 +1,27 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-05-14T12:00:18.146358",
+  "crawled_at": "2026-05-14T20:00:19.976354",
   "total_news": 10,
   "news": [
+    {
+      "title": "Photo gallery: Nuclear Energy Agency Director-General visits Mizzou",
+      "url": "https://showme.missouri.edu/2026/photo-gallery-nuclear-energy-agency-director-general-visits-mizzou/",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "The University of Missouri welcomed Mr. William D. Magwood, IV, who spoke this week as part of the President's Distinguished Lecture Series. See photos from his visit.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou breaks ground on Radioisotope Science Center to strengthen nation’s supply of critical isotopes",
+      "url": "https://showme.missouri.edu/2026/mizzou-breaks-ground-on-radioisotope-science-center-to-strengthen-nations-supply-of-critical-isotopes/",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "science"
+    },
     {
       "title": "Inside the ‘New Nuclear Era’: Mr. William D. Magwood, IV on global resurgence of nuclear energy and what comes next",
       "url": "https://showme.missouri.edu/2026/inside-the-new-nuclear-era-mr-william-d-magwood-iv-on-global-resurgence-of-nuclear-energy-and-what-comes-next/",
@@ -75,24 +93,6 @@
       "summary_en": "Ashwin Garlapaty grew up wanting to be an athletic trainer. A moment at a football game changed everything.",
       "source": "Show Me Mizzou",
       "category": "students"
-    },
-    {
-      "title": "Mizzou photojournalism graduate heading to National Geographic",
-      "url": "https://showme.missouri.edu/2026/mizzou-photojournalism-graduate-heading-to-national-geographic/",
-      "date": "2026-05-11",
-      "type": "News",
-      "summary_en": "How senior Annie George developed her visual voice at the Missouri School of Journalism.",
-      "source": "Show Me Mizzou",
-      "category": "students"
-    },
-    {
-      "title": "College of Health Sciences graduate asks the big questions about public health",
-      "url": "https://showme.missouri.edu/2026/college-of-health-sciences-graduate-asks-the-big-questions-about-public-health/",
-      "date": "2026-05-11",
-      "type": "News",
-      "summary_en": "The University of Missouri prepared Kate Karpinski to succeed at the intersection of public health and law.",
-      "source": "Show Me Mizzou",
-      "category": "science"
     }
   ]
 }

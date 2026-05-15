@@ -1,9 +1,54 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-05-14T12:00:12.830639",
+  "crawled_at": "2026-05-14T20:00:11.574016",
   "total_news": 10,
   "news": [
+    {
+      "title": "Computer science department to premiere AI and data science children’s film at local theater",
+      "url": "https://www.k-state.edu/news/articles/2026/05/ai-data-science-childrens-movie-premiere.html",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "The Department of Computer Science will screen \"A Data Science Tale: When Data and Pixel Met\" — a movie aimed at educating children ages 4-8 about the basic concepts behind artificial...",
+      "source": "K-State News",
+      "category": "documentary"
+    },
+    {
+      "title": "Shaping the future of learning",
+      "url": "https://www.k-state.edu/news/articles/2026/05/competency-based-education-model-next-phase.html",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Kansas State University has approved the initial framework for its Competency-Based Education model, marking a major milestone in creating flexible, mastery-focused learning pathways...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Enjoy flexible summer campus parking",
+      "url": "https://www.k-state.edu/news/articles/2026/05/summer-campus-parking.html",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "With summer open parking, you can use most lots across campus, regardless of your permit type, beginning May 18. However, please remember that a valid permit is still required.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Update from Parking Services",
+      "url": "https://www.k-state.edu/news/articles/2026/05/parking-permit-rates.html",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "Kansas State University has approved a gradual, two-year adjustment to annual campus parking permit rates. Updated permit prices will take effect on July 1, 2026, and again on July...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Classroom to the cosmos",
+      "url": "https://www.k-state.edu/news/articles/2026/05/cubesat-wildcat-space-satellite-interdisciplinary-engineering.html",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "The Wildcat Space Program is giving K-State students the opportunity to collaborate across disciplines and tackle the real-world challenges of building satellites for space missions.",
+      "source": "K-State News",
+      "category": "general"
+    },
     {
       "title": "Provost names search committee for interim dean of College of Arts and Sciences",
       "url": "https://www.k-state.edu/news/articles/2026/05/search-committee-named-interim-artsci-dean.html",
@@ -23,42 +68,6 @@
       "category": "students"
     },
     {
-      "title": "Enjoy flexible summer campus parking",
-      "url": "https://www.k-state.edu/news/articles/2026/05/summer-campus-parking.html",
-      "date": "2026-05-13",
-      "type": "News",
-      "summary_en": "With summer open parking, you can use most lots across campus, regardless of your permit type, beginning May 18. However, please remember that a valid permit is still required.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Shaping the future of learning",
-      "url": "https://www.k-state.edu/news/articles/2026/05/competency-based-education-model-next-phase.html",
-      "date": "2026-05-13",
-      "type": "News",
-      "summary_en": "Kansas State University has approved the initial framework for its Competency-Based Education model, marking a major milestone in creating flexible, mastery-focused learning pathways...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Classroom to the cosmos",
-      "url": "https://www.k-state.edu/news/articles/2026/05/cubesat-wildcat-space-satellite-interdisciplinary-engineering.html",
-      "date": "2026-05-13",
-      "type": "News",
-      "summary_en": "The Wildcat Space Program is giving K-State students the opportunity to collaborate across disciplines and tackle the real-world challenges of building satellites for space missions.",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
-      "title": "Update from Parking Services",
-      "url": "https://www.k-state.edu/news/articles/2026/05/parking-permit-rates.html",
-      "date": "2026-05-13",
-      "type": "News",
-      "summary_en": "Kansas State University has approved a gradual, two-year adjustment to annual campus parking permit rates. Updated permit prices will take effect on July 1, 2026, and again on July...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
       "title": "'A seat at the table'",
       "url": "https://www.k-state.edu/news/articles/2026/05/caroline-wingert-rural-veterinary-research-policy-career.html",
       "date": "2026-05-12",
@@ -68,22 +77,13 @@
       "category": "general"
     },
     {
-      "title": "The college with its own Predator uncrewed aircraft",
-      "url": "https://www.k-state.edu/news/articles/2026/05/general-atomics-aeronatical-systems-kstate-partnership.html",
+      "title": "People with Purpose: Kayln Hoppe",
+      "url": "https://www.k-state.edu/news/articles/2026/05/kayln-hoppe-launches-love-of-learning.html",
       "date": "2026-05-11",
       "type": "News",
-      "summary_en": "A long-term partnership between K-State and General Atomics Aeronautical Systems, Inc. is setting the stage for top-of-the-line leadership in the next generation of aerospace profession...",
+      "summary_en": "Kayln Hoppe's work as an assistant professor of curriculum and instruction helps students become thoughtful educators who value curiosity, connection and the lasting impact of learning....",
       "source": "K-State News",
       "category": "general"
-    },
-    {
-      "title": "Free vehicle checks for students preparing to travel",
-      "url": "https://www.k-state.edu/news/articles/2026/05/free-vehicle-checks.html",
-      "date": "2026-05-11",
-      "type": "News",
-      "summary_en": "Parking Services is offering free vehicle inspections from 2-5 p.m. through Friday, May 15, on the roof of the K-State parking garage. Stop by to have your tire pressure, oil and coolant...",
-      "source": "K-State News",
-      "category": "students"
     },
     {
       "title": "Streamlined surplus property management process starts this May",

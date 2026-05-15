@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-05-14T12:00:26.577070",
-  "total_news": 2,
+  "crawled_at": "2026-05-14T20:00:27.052004",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Purdue Polytechnic honors faculty and staff at 2026 appreciation awards",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-honors-faculty-and-staff-2026-appreciation-awards",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Supply chain minor takes undergrad PFAS emissions research to the international stage",
       "url": "https://polytechnic.purdue.edu/newsroom/supply-chain-minor-takes-undergrad-pfas-emissions-research-international-stage",

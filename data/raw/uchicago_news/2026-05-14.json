@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-14T12:00:29.795640",
-  "total_news": 6,
+  "crawled_at": "2026-05-14T20:00:29.786665",
+  "total_news": 7,
   "news": [
+    {
+      "title": "UChicago announces 2026 winners of Quantrell and Ph.D. teaching awards",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-2026-winners-quantrell-and-phd-teaching-awards",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
     {
       "title": "Our untapped superpower: Connecting with others, with Nicholas Epley",
       "url": "https://news.uchicago.edu/big-brains-podcast-our-untapped-superpower-connecting-others-nicholas-epley",

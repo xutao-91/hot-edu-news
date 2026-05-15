@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-05-14T12:00:27.497783",
-  "total_news": 4,
+  "crawled_at": "2026-05-14T20:00:27.702911",
+  "total_news": 6,
   "news": [
+    {
+      "title": "More than administrative support: How the Office of Research & Scholarship strengthens faculty research",
+      "url": "https://education.wisc.edu/news/more-than-administrative-support-how-the-office-of-research-scholarship-strengthens-faculty-research/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "The charge of the Office of Research & Scholarship (ORS) is to equitably support the wide range of research and scholarship underway across the School of Education.",
+      "source": "UW-Madison School of Education",
+      "category": "research"
+    },
+    {
+      "title": "Fong Chan, distinguished UW–Madison scholar in rehabilitation counseling, dies",
+      "url": "https://education.wisc.edu/news/fong-chan-distinguished-uw-madison-scholar-in-rehabilitation-counseling-dies/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "Fong Chan, a professor emeritus at the University of Wisconsin–Madison and leading scholar in the field of rehabilitation counseling, has died.",
+      "source": "UW-Madison School of Education",
+      "category": "general"
+    },
     {
       "title": "UW–Madison’s Conroy publishes article in Voice and Speech Review",
       "url": "https://education.wisc.edu/news/uw-madisons-conroy-publishes-article-in-voice-and-speech-review/",
