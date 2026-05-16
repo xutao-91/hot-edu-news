@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-16T12:00:29.108040",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Meet this year’s Northwestern Schapiro Award winners",
+      "url": "https://news.northwestern.edu/stories/2026/05/meet-the-northwestern-schapiro-award-winners",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Northwestern mourns Professor Emeritus Mark A. Ratner",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-mourns-professor-emeritus-mark-a-ratner",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "faculty"
+    }
+  ]
+}

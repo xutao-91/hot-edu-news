@@ -1,0 +1,80 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-05-16T12:00:26.054864",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "KLETC honors fallen officers during Police Week memorial service",
+      "url": "https://news.ku.edu/news/article/kletc-honors-fallen-officers-during-police-week-memorial-service-ARTICLE-4Y5TBQ-ARTICLE-4Y5TBQ",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "Students, faculty, and staff at the Kansas Law Enforcement Training Center gathered May 12 in Integrity Hall to honor fallen law enforcement officers who graduated from KLETC during a memorial service recognizing National Police Week.",
+      "source": "KU News",
+      "category": "event"
+    },
+    {
+      "title": "KU announces promotion and tenure for 146 faculty and researchers",
+      "url": "https://news.ku.edu/news/article/ku-announces-promotion-and-tenure-for-146-faculty-and-researchers-ARTICLE-R54HM6-ARTICLE-R54HM6-ARTICLE-R54HM6",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "Chancellor Douglas A. Girod has approved the promotion and award of tenure, where indicated, for 50 individuals at the University of Kansas Lawrence and Edwards campuses and 96 individuals at the KU Medical Center campuses. Promotion and tenure are effective at the start of the fall 2026 semester.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU Natural History Museum’s exhibit celebrates global biodiversity during international soccer tournament",
+      "url": "https://news.ku.edu/news/article/ku-natural-history-museums-exhibit-celebrates-global-biodiversity-during-international-soccer-tournament-ARTICLE-TZW6QZ-ARTICLE-TZW6QZ",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "The University of Kansas Natural History Museum has launched a temporary exhibit titled “Collections from Around the World,” showcasing biological specimens from eight research divisions within the Biodiversity Institute.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Law student awarded fellowship to work in Wichita",
+      "url": "https://news.ku.edu/news/article/ku-law-student-awarded-fellowship-to-work-in-wichita",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "University of Kansas School of Law student Chris Cummings has been selected as a recipient of the 2026 Judge Gregory L. Waller Public Interest Legal Fellowship.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Perilous partnership among gender, violence, military scrutinized in new book",
+      "url": "https://news.ku.edu/news/article/perilous-partnership-among-gender-violence-military-scrutinized-in-new-book-ARTICLE-HMTHQJ-ARTICLE-HMTHQJ",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "Joane Nagel, University Distinguished Professor of Sociology at the University of Kansas, has contributed a chapter to the \"Handbook on Gender and Violence.\" The scholar said the influence of gender in shaping military culture, organization, expectations and functioning cannot be overstated.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU doctoral student receives Cobell Fellowship",
+      "url": "https://news.ku.edu/news/article/ku-doctoral-student-receives-cobell-fellowship-ARTICLE-3K1NBK",
+      "date": "2026-05-14",
+      "type": "News",
+      "summary_en": "Annalise Guthrie, a University of Kansas doctoral candidate in ecology & evolutionary biology, has been named a recipient of the Elouise Cobell Dissertation Writing-Year Fellowship. The award provides $30,000 in support over 12 months to American Indian and Alaska Native scholars who are completing their doctoral dissertations.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Studio 804 to host May 16 open house for latest sustainable design-build project in Lawrence",
+      "url": "https://news.ku.edu/news/article/studio-804-to-host-may-16-open-house-for-latest-sustainable-design-build-project-in-lawrence",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "KU’s Studio 804 will host a May 16 open house for its latest student-designed and constructed home in Lawrence. Built by KU architecture students, the project highlights innovative sustainable design, material reuse and high-performance construction.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Study analyzes environmental impacts of academic conference travel, encourages rethinking alternatives",
+      "url": "https://news.ku.edu/news/article/study-analyzes-environmental-impacts-of-academic-conference-travel-encourages-rethinking-alternatives-ARTICLE-B508KK-ARTICLE-B508KK-ARTICLE-B508KK",
+      "date": "2026-05-13",
+      "type": "News",
+      "summary_en": "A study led by a University of Kansas researcher has analyzed the environmental effects of air travel to academic conferences. The study does not call for an end to academic travel but rather to rethink how such gatherings are arranged and held, especially in fields like social welfare, that are dedicated to environmental justice.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

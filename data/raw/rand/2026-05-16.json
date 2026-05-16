@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-16T12:00:30.126866",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "An AI Taxonomy for Criminal Justice: Principled Use of AI in the Criminal Justice System",
+      "url": "https://www.rand.org/pubs/external_publications/EP71334.html",
+      "date": "May 15, 2026",
+      "type": "Research",
+      "summary_en": "This report examines the scope and character of AI use in the criminal justice system by presenting a taxonomy of current and emerging AI applications and offering findings and recommendations for navigating risks, opportunities, and governance gaps.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

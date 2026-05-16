@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-05-16T12:00:23.019035",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Computer science student wins BizPitch Competition",
+      "url": "https://cse.umn.edu/college/news/computer-science-student-wins-bizpitch-competition",
+      "date": "2026-05-15",
+      "type": "Students",
+      "summary_en": "Kanav Gupta, an international student from India in the Department of Computer Science and Engineering, won the 2026 University of Minnesota BizPitch Competition.",
+      "source": "UMN CSE",
+      "category": "research"
+    },
+    {
+      "title": "For this graduating senior, Minnesota is where engineering meets French studies",
+      "url": "https://cse.umn.edu/college/news/graduating-senior-minnesota-where-engineering-meets-french-studies",
+      "date": "2026-05-13",
+      "type": "People-Profiles",
+      "summary_en": "University of Minnesota senior Sophia Konzen pairs mechanical engineering, French studies, and three study abroad experiences to open up her world and doors for her future career.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}

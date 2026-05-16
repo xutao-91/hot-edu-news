@@ -3604,5 +3604,29 @@
     "fetch_time": "2026-05-15T20:00:29.746024",
     "title": "Paolo Cherchi, distinguished Romance philologist and devoted teacher, 1937-2026",
     "category": "education"
+  },
+  "https://www.iit.edu/news/visionary-entrepreneur-carole-segal-who-used-design-build-retail-empire-will-receive-honorary-doctor": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-16T12:00:13.778429",
+    "title": "Visionary Entrepreneur Carole Segal, Who Used Design to Build a Retail Empire, Will Receive Honorary Doctor from Illinois Tech",
+    "category": "ai"
+  },
+  "https://www.iit.edu/news/legendary-investor-entrpreneur-and-civic-leader-john-w-rogers-jr-receive-honorary-doctor-illinois": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-16T12:00:13.778458",
+    "title": "Legendary Investor, Entrpreneur, and Civic Leader John W. Rogers, Jr. to Receive Honorary Doctor from Illinois Tech",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/darsh-wasan-who-helped-shape-illinois-techs-international-outreach-and-pioneered-partnership-fda": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-16T12:00:13.778471",
+    "title": "Darsh Wasan, Who Helped Shape Illinois Tech’s International Outreach and Pioneered Partnership with FDA, to Receive Honorary Doctor of Engineering",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-armed-forces-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-16T12:00:30.737200",
+    "title": "Presidential Message on Armed Forces Day",
+    "category": "general"
   }
 }
