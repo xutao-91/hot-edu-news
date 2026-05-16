@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-05-15T12:00:27.201684",
-  "total_news": 6,
+  "crawled_at": "2026-05-15T20:00:27.476655",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Six School of Education faculty, doctoral students awarded prestigious NAEd/Spencer fellowships",
+      "url": "https://education.wisc.edu/news/six-school-of-education-faculty-doctoral-students-awarded-prestigious-naed-spencer-fellowships/",
+      "date": "May 15, 2026",
+      "type": "News",
+      "summary_en": "Six members of the School of Education community have been chosen as recipients of 2026 NAEd/Spencer Dissertation and Postdoctoral Fellowships, prestigious national fellowships that support promising education research by early-career scholars.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
     {
       "title": "UW–Madison doctoral student Jeong wins first place in national eBoard competition",
       "url": "https://education.wisc.edu/news/uw-madison-doctoral-student-jeong-wins-first-place-in-national-eboard-competition/",

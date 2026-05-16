@@ -1,9 +1,18 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-05-15T12:00:07.350925",
+  "crawled_at": "2026-05-15T20:00:12.386966",
   "total_news": 10,
   "news": [
+    {
+      "title": "Nordic visions, urban futures",
+      "url": "https://www.k-state.edu/news/articles/2026/05/regnier-chair-alexandria-algard-global-design-studio.html",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "A spring studio in K-State’s College of Architecture, Planning & Design gave students hands-on experience tackling real-world urban redevelopment challenges with Norwegian architect...",
+      "source": "K-State News",
+      "category": "general"
+    },
     {
       "title": "Sedimentary sleuths",
       "url": "https://www.k-state.edu/news/articles/2026/05/trisha-moore-tuttle-creek-dredging-effects-on-sediment-levels.html",
@@ -68,11 +77,11 @@
       "category": "general"
     },
     {
-      "title": "Nordic visions, urban futures",
-      "url": "https://www.k-state.edu/news/articles/2026/05/regnier-chair-alexandria-algard-global-design-studio.html",
+      "title": "From FFA blue to K-State purple",
+      "url": "https://www.k-state.edu/news/articles/2026/05/christian-pena-kansas-state-ffa-convention.html",
       "date": "2026-05-15",
       "type": "News",
-      "summary_en": "A spring studio in K-State’s College of Architecture, Planning & Design gave students hands-on experience tackling real-world urban redevelopment challenges with Norwegian architect...",
+      "summary_en": "Christian Peña, K-State student body president and junior in agricultural education, has seen firsthand how FFA can shape a student's career path and help them succeed in college....",
       "source": "K-State News",
       "category": "general"
     },
@@ -84,15 +93,6 @@
       "summary_en": "The Department of Computer Science will screen \"A Data Science Tale: When Data and Pixel Met\" — a movie aimed at educating children ages 4-8 about the basic concepts behind artificial...",
       "source": "K-State News",
       "category": "documentary"
-    },
-    {
-      "title": "Enjoy flexible summer campus parking",
-      "url": "https://www.k-state.edu/news/articles/2026/05/summer-campus-parking.html",
-      "date": "2026-05-13",
-      "type": "News",
-      "summary_en": "With summer open parking, you can use most lots across campus, regardless of your permit type, beginning May 18. However, please remember that a valid permit is still required.",
-      "source": "K-State News",
-      "category": "general"
     }
   ]
 }

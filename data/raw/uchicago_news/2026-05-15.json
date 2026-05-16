@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-15T12:00:30.259209",
-  "total_news": 5,
+  "crawled_at": "2026-05-15T20:00:29.505756",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Paolo Cherchi, distinguished Romance philologist and devoted teacher, 1937-2026",
+      "url": "https://news.uchicago.edu/story/paolo-cherchi-distinguished-romance-philologist-and-devoted-teacher-1937-2026",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "A scholar of extraordinary range, Cherchi guided generations of UChicago students with rigor, curiosity and care",
+      "source": "UChicago News",
+      "category": "education"
+    },
     {
       "title": "UChicago announces 2026 winners of Quantrell and Ph.D. teaching awards",
       "url": "https://news.uchicago.edu/story/uchicago-announces-2026-winners-quantrell-and-phd-teaching-awards",

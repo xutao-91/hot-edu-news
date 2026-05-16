@@ -3550,5 +3550,59 @@
     "fetch_time": "2026-05-15T12:00:31.010380",
     "title": "An AI Taxonomy for Criminal Justice: Principled Use of AI in the Criminal Justice System",
     "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/christian-pena-kansas-state-ffa-convention.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-15T20:00:13.116928",
+    "title": "From FFA blue to K-State purple",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/cohen-urges-graduates-to-rethink-their-definition-of-success/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-15T20:00:15.589627",
+    "title": "Cohen urges graduates to rethink their definition of success",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-wisconsin-returning-education-states-tour": {
+    "source": "edgov",
+    "fetch_time": "2026-05-15T20:00:21.012642",
+    "title": "U.S. Secretary of Education Linda McMahon Visits Wisconsin on Returning Education to the States Tour",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/vea-statement-governor-spanbergers-veto-public-sector-collective-bargaining-legislation": {
+    "source": "nea_news",
+    "fetch_time": "2026-05-15T20:00:23.255249",
+    "title": "VEA Statement on Governor Spanberger's Veto of Public Sector Collective Bargaining Legislation",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/tennessees-clinton-smith-honored-neas-2026-higher-educator-year": {
+    "source": "nea_news",
+    "fetch_time": "2026-05-15T20:00:23.255275",
+    "title": "Tennessee’s Clinton Smith honored as NEA’s 2026 Higher Educator of the Year",
+    "category": "education"
+  },
+  "https://news.iu.edu/rural/live/news/50975-odon-reconnects-with-legacy-of-hometown-sculptor": {
+    "source": "iu_news",
+    "fetch_time": "2026-05-15T20:00:25.641563",
+    "title": "Odon reconnects with legacy of hometown sculptor through IU partnership",
+    "category": "general"
+  },
+  "https://education.wisc.edu/news/six-school-of-education-faculty-doctoral-students-awarded-prestigious-naed-spencer-fellowships/": {
+    "source": "uw_education",
+    "fetch_time": "2026-05-15T20:00:28.004192",
+    "title": "Six School of Education faculty, doctoral students awarded prestigious NAEd/Spencer fellowships",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-dedicates-bowen-school-construction-across-both-locations": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-15T20:00:28.444178",
+    "title": "Purdue Polytechnic dedicates Bowen School of Construction across both locations",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/paolo-cherchi-distinguished-romance-philologist-and-devoted-teacher-1937-2026": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-15T20:00:29.746024",
+    "title": "Paolo Cherchi, distinguished Romance philologist and devoted teacher, 1937-2026",
+    "category": "education"
   }
 }

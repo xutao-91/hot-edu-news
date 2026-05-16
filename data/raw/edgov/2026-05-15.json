@@ -1,9 +1,19 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-05-15T12:00:19.794106",
-  "total_news": 4,
+  "crawled_at": "2026-05-15T20:00:20.253346",
+  "total_news": 5,
   "news": [
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits Wisconsin on Returning Education to the States Tour",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-wisconsin-returning-education-states-tour",
+      "date": "May 15, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general",
+      "content": "May 15, 2026\nLa Crosse, WI –\nToday, U.S. Secretary of Education Linda McMahon visited Wisconsin on her\nReturning Education to the States Tour\n. Secretary McMahon began her day by touring Western Technical College La Crosse Campus to see an advanced manufacturing lab, K-12 academic collaboration space, and a workforce development hub.\nSecretary McMahon then toured Sparta Public Safety Training Facility, speaking with administrators and students about their law enforcement, fire protection, and paramedic training space.\n“Today’s stop on our Returning Education to the States Tour underscored how institutions are strategically cultivating the skilled workforce required to meet the demands of a rapidly evolving economy,”\nsaid U.S. Secretary of Education Linda McMahon.\n“At Western Technical College, the integration of advanced manufacturing technologies and K-12 collaboration reflects a deliberate investment in producing graduates who can immediately contribute to regional industry needs. My engagements at the Sparta Public Safety Training Facility further demonstrated how high‑caliber, community‑aligned training pipelines are strengthening the talent pool for critical public safety professions.\nBackground\nOn her Returning Education to the States Tour, Secretary McMahon is traveling to all 50 states to hear directly from teachers, parents, and community leaders about what is working in their communities for their students and compile a toolkit of best practices to distribute to states.\nLearn more about Secretary McMahon’s Returning Education to the States Tour\nhere\n.\nContact\nPress Office\n(202) 401-1576\npress@ed.gov\nTags\nReturning Education to the States Tour",
+      "summary_en": ""
+    },
     {
       "title": "U.S. Department of Education Assistant Secretary for Postsecondary Education Dr. David Barker and Arkansas Governor Sarah Huckabee Sanders Highlight Civics Education",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-assistant-secretary-postsecondary-education-dr-david-barker-and-arkansas-governor-sarah-huckabee-sanders-highlight-civics",

@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-15T12:00:16.242288",
-  "total_news": 8,
+  "crawled_at": "2026-05-15T20:00:14.851152",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Cohen urges graduates to rethink their definition of success",
+      "url": "https://source.washu.edu/2026/05/cohen-urges-graduates-to-rethink-their-definition-of-success/",
+      "date": "2026-05-15",
+      "type": "Students",
+      "summary_en": "To the accomplished WashU Class of 2026, Emmy Award winner Andy Cohen offered up a band of unlikely role models: the stars of “The Real Housewives.” “I’ve learned a lot about success from ‘The Real Housewives.’ And you can too,” Cohen told graduates at the university’s 165th Commencement May 15 at historic Francis Olympic Field.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Synthetic biology leads to recyclable textiles",
       "url": "https://source.washu.edu/2026/05/synthetic-biology-leads-to-recyclable-textiles/",
