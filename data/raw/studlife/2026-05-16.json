@@ -1,9 +1,19 @@
 {
   "source": "Student Life (WashU)",
   "source_url": "https://www.studlife.com/news",
-  "crawled_at": "2026-05-16T12:00:24.684993",
-  "total_news": 1,
+  "crawled_at": "2026-05-16T20:00:24.494382",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Q&A: Andy Cohen talks Blueberry Hill, post-graduate life, and celebrity worship",
+      "url": "https://www.studlife.com/news/2026/05/16/qa-andy-cohen-talks-blueberry-hill-post-graduate-life-and-celebrity-worship",
+      "date": "2026-05-16",
+      "type": "News",
+      "summary_en": "After his speech at Friday’s commencement ceremony, Andy Cohen sat down for an interview with Student Life reporter Zach Trabitz. The following Q&A has been edited for length and clarity.",
+      "author": "Zach Trabitz",
+      "source": "Student Life",
+      "category": "event"
+    },
     {
       "title": "May Day protest: Graduate workers, Cori Bush rally in support of international students, ArtSci PhD programs",
       "url": "https://www.studlife.com/news/2026/05/13/may-day-protest-graduate-workers-cori-bush-rally-in-support-of-international-students-artsci-phd-programs",

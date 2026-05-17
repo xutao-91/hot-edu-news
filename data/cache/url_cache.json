@@ -3628,5 +3628,17 @@
     "fetch_time": "2026-05-16T12:00:30.737200",
     "title": "Presidential Message on Armed Forces Day",
     "category": "general"
+  },
+  "https://www.slu.edu/news/2026/may/spring-2026-commencement-james-gunn.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-05-16T20:00:08.659993",
+    "title": "SLU Celebrates Class of 2026 at Commencement",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/05/16/qa-andy-cohen-talks-blueberry-hill-post-graduate-life-and-celebrity-worship": {
+    "source": "studlife",
+    "fetch_time": "2026-05-16T20:00:24.997547",
+    "title": "Q&A: Andy Cohen talks Blueberry Hill, post-graduate life, and celebrity worship",
+    "category": "education"
   }
 }
