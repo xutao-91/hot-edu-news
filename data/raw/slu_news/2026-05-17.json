@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-05-17T12:00:12.106308",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SLU Celebrates Class of 2026 at Commencement",
+      "url": "https://www.slu.edu/news/2026/may/spring-2026-commencement-james-gunn.php",
+      "date": "2026-05-16",
+      "type": "News",
+      "summary_en": "Filmmaker James Gunn urged the new graduates to embrace challenges during his remarks at Saint Louis University's spring commencement ceremony. In front of a packed crowd at Chaifetz Arena on Saturday, May 16, Gunn shared insights from his time at SLU and beyond.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-05-17T12:00:12.922401",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "NDIGI Book Club builds better investors",
+      "url": "https://mendoza.nd.edu/news/ndigi-book-club-builds-better-investors/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "NDIGI's Book Club, open to students and alumni, deepens their understanding of the business world and fosters a mindset of continuous learning.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "What CEOs get wrong on earnings calls",
+      "url": "https://mendoza.nd.edu/news/what-ceos-get-wrong-on-earnings-calls/",
+      "date": "May 14, 2026",
+      "type": "News",
+      "summary_en": "New research from strategic leadership associate professor Mike Mannor reveals how markets respond when CEOs communicate new strategies.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}

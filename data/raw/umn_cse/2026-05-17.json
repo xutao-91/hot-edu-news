@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-05-17T12:00:22.491501",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Computer science student wins BizPitch Competition",
+      "url": "https://cse.umn.edu/college/news/computer-science-student-wins-bizpitch-competition",
+      "date": "2026-05-15",
+      "type": "Students",
+      "summary_en": "Kanav Gupta, an international student from India in the Department of Computer Science and Engineering, won the 2026 University of Minnesota BizPitch Competition.",
+      "source": "UMN CSE",
+      "category": "research"
+    }
+  ]
+}
