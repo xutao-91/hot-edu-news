@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-18T12:00:15.051940",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "TechTown announces Kraftologie as winner of 2026 Comerica Hatch Detroit Contest",
+      "url": "https://economicdevelopment.wayne.edu/news/techtown-announces-kraftologie-as-winner-of-2026-comerica-hatch-detroit-contest-69082",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State student Jonathan Teh earns national recognition as two-time Udall Scholar",
+      "url": "https://today.wayne.edu/news/2026/05/15/wayne-state-student-jonathan-teh-earns-national-recognition-as-two-time-udall-scholar-69086",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State’s AI institute gains momentum",
+      "url": "https://today.wayne.edu/news/2026/05/15/wayne-states-ai-institute-gains-momentum-69091",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Donation fuels hands-on career learning at WDET",
+      "url": "https://provost.wayne.edu/news/donation-fuels-hands-on-career-learning-at-wdet-69095",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

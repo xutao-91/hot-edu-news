@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-05-18T12:00:09.549085",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Australia freezes new overseas student provider registrations",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-18",
+      "type": "Policy",
+      "summary_en": "Labor’s 12-month pause on new VET and ELICOS applications comes amid rising visa refusals, slowing commencements and mounting migration pressure.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Nick Clegg urges Europe to “get its act together” on AI",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-05-18",
+      "type": "Edtech",
+      "summary_en": "Former UK deputy prime minister Nick Clegg has deplored the country’s “astonishing” level of reliance on American tech, with most ed tech companies designed for US systems.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "India gets tough on international branch campuses",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-05-15",
+      "type": "Transnational education",
+      "summary_en": "New research and sector discussions suggest India’s international branch campus ecosystem is entering a more demanding era, with pressure mounting on outcomes, employability and long-term relevance.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "MPs and university leaders crowned winners of 2026 Duolingo Language Challenge",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-05-15",
+      "type": "Language learning",
+      "summary_en": "Alex Mayer and Vanessa Lemm have been named the top winners of the 2026 Duolingo Language Challenge, after competing against more than 1,300 parliamentarians and university staff across the UK.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "UK-EU youth mobility talks stall despite warming ties",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-15",
+      "type": "Policy",
+      "summary_en": "While the EU ambassador to the UK praised the strengthening UK-EU relationship at a recent industry event, reports suggest disagreements over the anticipated Youth Experience Scheme are hampering the reset.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Korea’s international students strapped with low-paid jobs",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-05-15",
+      "type": "Student experience",
+      "summary_en": "New report finds 71% of working international students are employed in food and accommodation jobs, a week after Seoul unveiled a “quality-focused” rethink of international student policy and post-study pathways",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

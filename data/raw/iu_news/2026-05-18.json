@@ -1,0 +1,44 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-05-18T12:00:24.944220",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Seismologist solves mystery of earthquake system deep beneath the Pacific",
+      "url": "https://news.iu.edu/college/live/news/51003-iu-researcher-helps-solve-mystery-of",
+      "date": "May 18, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Edward Curtis’ preservation of Arab American history earns him Guggenheim, ACLS fellowships",
+      "url": "https://news.iu.edu/live/news/51007-edward-curtis-preservation-of-arab-american",
+      "date": "May 18, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "faculty"
+    },
+    {
+      "title": "Odon reconnects with legacy of hometown sculptor through IU partnership",
+      "url": "https://news.iu.edu/rural/live/news/50975-odon-reconnects-with-legacy-of-hometown-sculptor",
+      "date": "May 15, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU hosts NVIDIA to showcase global leadership in AI, Alzheimer’s research and workforce innovation",
+      "url": "https://news.iu.edu/live/news/50990-iu-hosts-nvidia-to-showcase-global-leadership-in",
+      "date": "May 15, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

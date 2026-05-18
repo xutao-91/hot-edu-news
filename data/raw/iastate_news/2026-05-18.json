@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-05-18T12:00:16.836979",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "America’s last-mile delivery divide",
+      "url": "https://www.news.iastate.edu/news/americas-last-mile-delivery-divide",
+      "date": "2026-05-18",
+      "type": "Innovation and Research",
+      "summary_en": "More than a decade of shopping data reveals a clear split in how America gets its stuff. Big‑city shoppers have made home delivery a way of life, while rural households still prefer the trip into town. That divide is now steering everything from shipping speeds to where stores stay open, an Iowa State researcher and co-authors report in a new study examining how demand for last-mile fulfillment se",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

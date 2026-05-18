@@ -1,0 +1,17 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-18T12:00:20.012780",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Mizzou scientists discover a way to automate production of a cancer-fighting drug candidate",
+      "url": "https://showme.missouri.edu/2026/mizzou-scientists-discover-a-way-to-automate-production-of-a-cancer-fighting-drug-candidate/",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "Proof-of-concept study creates a blueprint for producing prostate cancer treatment more efficiently.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    }
+  ]
+}

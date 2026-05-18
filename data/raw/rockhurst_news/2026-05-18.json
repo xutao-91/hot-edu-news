@@ -1,0 +1,17 @@
+{
+  "source": "Rockhurst University News",
+  "source_url": "https://www.rockhurst.edu/news",
+  "crawled_at": "2026-05-18T12:00:20.866452",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Overheard on Commencement Weekend",
+      "url": "https://www.rockhurst.edu/news/2026-05-15/overheard-commencement-weekend",
+      "date": "2026-05-15",
+      "type": "News",
+      "summary_en": "The May 9 commencement ceremony at Municipal Auditorium was the culmination of a weekend’s worth of activity.The day before, master’s and doctoral students at the University were honored in ceremonial hooding ceremonies, while Bachelor of Science in nursing graduates received pins, a tradition dating back to Florence Nightingale.At each ceremony, students were invited to speak.",
+      "source": "Rockhurst News",
+      "category": "general"
+    }
+  ]
+}

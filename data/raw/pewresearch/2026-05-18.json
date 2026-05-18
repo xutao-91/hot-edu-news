@@ -1,0 +1,36 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-05-18T12:00:08.504566",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Trump’s approval rating hits second-term low among his Latino voters, though many still approve",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/15/trumps-approval-rating-hits-second-term-low-among-his-latino-voters-though-many-still-approve/",
+      "date": "May 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "Hispanic Latino Voters",
+        "Us Elections Voters",
+        "Voters Voting"
+      ],
+      "summary_en": "About two-thirds of Latino Trump voters (66%) approve of his job performance. That’s down 27 percentage points since the start of his second term.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "A majority of Americans say the country’s best years are behind us",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/15/a-majority-of-americans-say-the-countrys-best-years-are-behind-us/",
+      "date": "May 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "U S Democracy",
+        "Us Global Image"
+      ],
+      "summary_en": "Americans are also much more pessimistic (44%) than optimistic (28%) when asked to think about what things will be like in the U.S. 50 years from now.",
+      "source": "Pew Research Center",
+      "category": "international"
+    }
+  ]
+}

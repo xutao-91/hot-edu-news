@@ -1,0 +1,26 @@
+{
+  "source": "NEA Press Releases",
+  "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
+  "crawled_at": "2026-05-18T12:00:22.377433",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "VEA Statement on Governor Spanberger's Veto of Public Sector Collective Bargaining Legislation",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/vea-statement-governor-spanbergers-veto-public-sector-collective-bargaining-legislation",
+      "date": "2026-05-15",
+      "type": "Press Release",
+      "summary_en": "The Virginia Education Association (VEA) and the National Education Association (NEA)\nissued the following statement today in response to Governor Abigail Spanberger's\nannounced veto of legislation that would have guaranteed Virginia's public employees the\nright to engage in collective bargaining and protections from retaliation when they do so:",
+      "source": "NEA News",
+      "category": "ai"
+    },
+    {
+      "title": "Tennessee’s Clinton Smith honored as NEA’s 2026 Higher Educator of the Year",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/tennessees-clinton-smith-honored-neas-2026-higher-educator-year",
+      "date": "2026-05-15",
+      "type": "Press Release",
+      "summary_en": "The National Education Association (NEA) today announced that Clinton Smith, University of Tennessee at Martin (UT Martin) professor of special education, will be awarded the 2026 Higher Educator of the Year award.",
+      "source": "NEA News",
+      "category": "general"
+    }
+  ]
+}
