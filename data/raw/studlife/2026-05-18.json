@@ -1,9 +1,19 @@
 {
   "source": "Student Life (WashU)",
   "source_url": "https://www.studlife.com/news",
-  "crawled_at": "2026-05-18T12:00:25.069634",
-  "total_news": 1,
+  "crawled_at": "2026-05-18T20:00:24.539008",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Missing WashU student identified",
+      "url": "https://www.studlife.com/news/2026/05/18/missing-washu-student-identified",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "On May 18, the St. Louis Metropolitan Police Department (SLMPD) confirmed the identity of a body recovered from the Mississippi River last week as missing student Antonio Arellano-Banda. He was 20.",
+      "author": "Lewis Rand",
+      "source": "Student Life",
+      "category": "campus"
+    },
     {
       "title": "Q&A: Andy Cohen talks Blueberry Hill, post-graduate life, and celebrity worship",
       "url": "https://www.studlife.com/news/2026/05/16/qa-andy-cohen-talks-blueberry-hill-post-graduate-life-and-celebrity-worship",

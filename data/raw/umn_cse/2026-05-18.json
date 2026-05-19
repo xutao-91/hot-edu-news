@@ -1,9 +1,27 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-05-18T12:00:22.547577",
-  "total_news": 1,
+  "crawled_at": "2026-05-18T20:00:21.904967",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Boost your career with new AI summer short course",
+      "url": "https://cse.umn.edu/college/news/boost-your-career-new-ai-summer-short-course-0",
+      "date": "2026-05-18",
+      "type": "Digital Technology",
+      "summary_en": "The University of Minnesota is offering a new four-week summer short course to help professionals boost their careers and their productivity with new AI skills.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "University of Minnesota to host start of cross-country solar car competition",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-host-start-cross-country-solar-car-competition",
+      "date": "2026-05-15",
+      "type": "Students",
+      "summary_en": "For the first time in its 33-year history, the University of Minnesota Twin Cities Solar Vehicle Project Team will host the official starting line for the 2026 Electrek American Solar Challenge, one of the nation’s premier solar competitions.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
     {
       "title": "Computer science student wins BizPitch Competition",
       "url": "https://cse.umn.edu/college/news/computer-science-student-wins-bizpitch-competition",

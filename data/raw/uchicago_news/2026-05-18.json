@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-18T12:00:29.750285",
-  "total_news": 2,
+  "crawled_at": "2026-05-18T20:00:29.375807",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Summer Reads for Curious Minds",
+      "url": "https://news.uchicago.edu/summer-reads-curious-minds",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "New book traces slavery, family and early capitalism through rural Louisiana",
       "url": "https://news.uchicago.edu/story/new-book-traces-slavery-family-and-early-capitalism-through-rural-louisiana",

@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-18T12:00:30.533190",
-  "total_news": 2,
+  "crawled_at": "2026-05-18T20:00:30.164533",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Announces Expansion of TrumpRx.gov to Bring Americans Transparency and Choice on Everyday Medicines",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-announces-expansion-of-trumprx-gov-to-bring-americans-transparency-and-choice-on-everyday-medicines/",
+      "date": "May 18, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Intel Deal and Soaring Markets Prove America First Works",
+      "url": "https://www.whitehouse.gov/releases/2026/05/president-trumps-intel-deal-and-soaring-markets-prove-america-first-works/",
+      "date": "May 18, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",

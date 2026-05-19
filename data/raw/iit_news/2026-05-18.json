@@ -1,9 +1,18 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-05-18T12:00:14.426028",
-  "total_news": 4,
+  "crawled_at": "2026-05-18T20:00:12.840146",
+  "total_news": 5,
   "news": [
+    {
+      "title": "SoReMo Puts Student Research into Action",
+      "url": "https://www.iit.edu/news/soremo-puts-student-research-action",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "The SoReMo Initiative at Illinois Tech invited 11 student fellows to conduct six semester-long research projects during the 2025–26 academic year by using data science to solve real-world problems in...",
+      "source": "IIT News",
+      "category": "research"
+    },
     {
       "title": "Trailblazing Entrepreneur in Legal EdTech Tarek A. Fadel to Deliver Commencement Address at Chicago-Kent College of Law",
       "url": "https://kentlaw.iit.edu/law/news-media/news/trailblazing-entrepreneur-legal-edtech-tarek-fadel-deliver-commencement-address-chicago-kent-college",
@@ -14,11 +23,11 @@
       "category": "law"
     },
     {
-      "title": "Darsh Wasan, Who Helped Shape Illinois Tech’s International Outreach and Pioneered Partnership with FDA, to Receive Honorary Doctor of Engineering",
-      "url": "https://www.iit.edu/news/darsh-wasan-who-helped-shape-illinois-techs-international-outreach-and-pioneered-partnership-fda",
+      "title": "Legendary Investor, Entrpreneur, and Civic Leader John W. Rogers, Jr. to Receive Honorary Doctor from Illinois Tech",
+      "url": "https://www.iit.edu/news/legendary-investor-entrpreneur-and-civic-leader-john-w-rogers-jr-receive-honorary-doctor-illinois",
       "date": "2026-05-16",
       "type": "News",
-      "summary_en": "CHICAGO—May 16, 2026— Illinois Institute of Technology (Illinois Tech) will award Darsh Wasan—a longtime steward of the university who has sparked momentous growth and innovation—an Honorary Doctor of...",
+      "summary_en": "CHICAGO—May 16, 2026— Illinois Institute of Technology (Illinois Tech) will award John W. Rogers, Jr., a pioneering investor and entrepreneur, an Honorary Doctor of Economics, honoris causa, at its...",
       "source": "IIT News",
       "category": "general"
     },
@@ -32,11 +41,11 @@
       "category": "general"
     },
     {
-      "title": "Legendary Investor, Entrpreneur, and Civic Leader John W. Rogers, Jr. to Receive Honorary Doctor from Illinois Tech",
-      "url": "https://www.iit.edu/news/legendary-investor-entrpreneur-and-civic-leader-john-w-rogers-jr-receive-honorary-doctor-illinois",
+      "title": "Darsh Wasan, Who Helped Shape Illinois Tech’s International Outreach and Pioneered Partnership with FDA, to Receive Honorary Doctor of Engineering",
+      "url": "https://www.iit.edu/news/darsh-wasan-who-helped-shape-illinois-techs-international-outreach-and-pioneered-partnership-fda",
       "date": "2026-05-16",
       "type": "News",
-      "summary_en": "CHICAGO—May 16, 2026— Illinois Institute of Technology (Illinois Tech) will award John W. Rogers, Jr., a pioneering investor and entrepreneur, an Honorary Doctor of Economics, honoris causa, at its...",
+      "summary_en": "CHICAGO—May 16, 2026— Illinois Institute of Technology (Illinois Tech) will award Darsh Wasan—a longtime steward of the university who has sparked momentous growth and innovation—an Honorary Doctor of...",
       "source": "IIT News",
       "category": "general"
     }

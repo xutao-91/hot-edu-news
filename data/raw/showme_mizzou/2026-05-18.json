@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-05-18T12:00:20.012780",
-  "total_news": 1,
+  "crawled_at": "2026-05-18T20:00:21.498366",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Photo gallery: Spring commencement 2026",
+      "url": "https://showme.missouri.edu/2026/photo-gallery-spring-commencement-2026/",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "The University of Missouri celebrated the many accomplishments of nearly 6,000 Tigers across three days of commencement ceremonies. See photos from the weekend's festivities.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "Mizzou scientists discover a way to automate production of a cancer-fighting drug candidate",
       "url": "https://showme.missouri.edu/2026/mizzou-scientists-discover-a-way-to-automate-production-of-a-cancer-fighting-drug-candidate/",

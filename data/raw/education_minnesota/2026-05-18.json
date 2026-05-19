@@ -1,7 +1,17 @@
 {
   "source": "Education Minnesota",
   "source_url": "https://educationminnesota.org/news/education-headlines/",
-  "crawled_at": "2026-05-18T12:00:23.950001",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-18T20:00:24.534940",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Legislature passes vital step toward educator health insurance reform on final working day of the 2026 session",
+      "url": "https://educationminnesota.org/news/press-release/legislature-passes-vital-step-toward-educator-health-insurance-reform-on-final-working-day-of-the-2026-session/",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "The Minnesota Legislature passed several meaningful bills to improve public education in Minnesota this session, including on the last working day voting to fund the first comprehensive study of the…",
+      "source": "Education Minnesota",
+      "category": "health"
+    }
+  ]
 }
