@@ -1,0 +1,26 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-05-19T12:00:20.693846",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Augustana University Partnering With Go Beyond to Expand Opportunities for Adults With Intellectual and Developmental Disabilities",
+      "url": "https://www.augie.edu/news/2026/augustana-university-partnering-go-beyond-expand-opportunities-adults-intellectual-and",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Augustana University is partnering with Go Beyond, a new nonprofit organization dedicated to creating innovative residential and community-based opportunities for adults with intellectual and developmental disabilities (IDD). Through the partnership, Augustana and Go Beyond will collaborate on research and program development to better serve this population and expand resources. The partnership wi",
+      "source": "Augustana News",
+      "category": "general"
+    },
+    {
+      "title": "Augustana University Introduces Graduating Class of 2026",
+      "url": "https://www.augie.edu/news/2026/augustana-university-introduces-graduating-class-2026",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "Augustana University is proud to announce the graduating Class of 2026.",
+      "source": "Augustana News",
+      "category": "general"
+    }
+  ]
+}

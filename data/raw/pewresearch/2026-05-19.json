@@ -1,0 +1,21 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-05-19T12:00:07.611853",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "5 facts about Africa’s population growth",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/19/5-facts-about-africas-population-growth/",
+      "date": "May 19, 2026",
+      "type": "short reads",
+      "categories": [
+        "Birth Rate Fertility",
+        "Other Topics"
+      ],
+      "summary_en": "While global population growth is projected to slow over the rest of the century, Africa stands out for its relatively young and growing population.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    }
+  ]
+}

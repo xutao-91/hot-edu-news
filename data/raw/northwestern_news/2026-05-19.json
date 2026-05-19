@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-19T12:00:28.532873",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Northwestern chemist receives Brown Investigator Award",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-chemist-julia-kalow-receives-brown-investigator-award",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Mung Chiang named next president of Northwestern",
+      "url": "https://news.northwestern.edu/stories/2026/05/mung-chiang-named-next-president-of-northwestern",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

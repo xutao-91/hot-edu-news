@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-19T12:00:29.019040",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Summer Reads for Curious Minds",
+      "url": "https://news.uchicago.edu/summer-reads-curious-minds",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New book traces slavery, family and early capitalism through rural Louisiana",
+      "url": "https://news.uchicago.edu/story/new-book-traces-slavery-family-and-early-capitalism-through-rural-louisiana",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "‘Sweet Home Feliciana’ by UChicago’s Rashauna Johnson moves between family memoir and global events to examine how Black history is shaped",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

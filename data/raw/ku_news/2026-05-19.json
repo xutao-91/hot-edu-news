@@ -1,0 +1,44 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-05-19T12:00:24.425650",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Study shows comprehension intervention, working memory predict math achievement in English learners",
+      "url": "https://news.ku.edu/news/article/boosting-students-reading-comprehension-strong-working-memory-key-to-improving-word-problem-solving-study-finds-ARTICLE-0FE45Z-ARTICLE-0FE45Z-ARTICLE-0FE45Z-ARTICLE-0FE45Z-ARTICLE-0FE45Z-ARTICLE-0FE45Z",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "University of Kansas professor Michael Orosco led a study that found an intervention designed to improve students' reading comprehension boosted math achievement. Additionally, his research tied strong working memory to word problem-solving abilities.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Ryan Bodensteiner announced as new director of the Center for Evaluation and Educational Leadership",
+      "url": "https://news.ku.edu/news/article/ryan-bodensteiner-announced-as-new-director-of-the-center-for-evaluation-and-educational-leadership-ARTICLE-F5GX4E",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "The Achievement & Assessment Institute (AAI) at the University of Kansas has announced Ryan Bodensteiner the director of the Center for Evaluation and Educational Leadership (CEEL), a center within AAI that supports district and building level leaders in creating and sustaining effective learning environments for students.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Kudos: Faculty and staff achievements, May 2026",
+      "url": "https://news.ku.edu/news/article/ku-kudos-faculty-and-staff-achievements-may-2026-ARTICLE-4XDZKZ",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "It’s time to celebrate Jayhawk colleagues’ achievements: KU News Service accepted submissions and combed websites, social media and newsletters for recent external honors and awards for current faculty and staff at the Lawrence, Edwards and Medical Center campuses and affiliates.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Engineering professor charts unexpected career path from thermodynamics to whiskey barrels",
+      "url": "https://news.ku.edu/news/article/engineering-professor-charts-unexpected-career-path-from-thermodynamics-to-whiskey-barrels-ARTICLE-HPVA7Z-ARTICLE-HPVA7Z-ARTICLE-HPVA7Z",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "Chris Depcik, University of Kansas professor of mechanical engineering, has created a solution to help distillers better predict how spirits mature inside a barrel.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

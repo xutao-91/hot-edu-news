@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-05-19T12:00:23.813666",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Seismologist solves mystery of earthquake system deep beneath the Pacific",
+      "url": "https://news.iu.edu/college/live/news/51003-iu-researcher-helps-solve-mystery-of",
+      "date": "May 18, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Edward Curtis’ preservation of Arab American history earns him Guggenheim, ACLS fellowships",
+      "url": "https://news.iu.edu/live/news/51007-edward-curtis-preservation-of-arab-american",
+      "date": "May 18, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "faculty"
+    }
+  ]
+}

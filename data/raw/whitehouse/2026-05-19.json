@@ -1,0 +1,43 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-05-19T12:00:35.284850",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Presidential Message on World Trade Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-world-trade-week/",
+      "date": "May 19, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Announces Expansion of TrumpRx.gov to Bring Americans Transparency and Choice on Everyday Medicines",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-announces-expansion-of-trumprx-gov-to-bring-americans-transparency-and-choice-on-everyday-medicines/",
+      "date": "May 18, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Intel Deal and Soaring Markets Prove America First Works",
+      "url": "https://www.whitehouse.gov/releases/2026/05/president-trumps-intel-deal-and-soaring-markets-prove-america-first-works/",
+      "date": "May 18, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-secures-historic-deals-with-china-delivering-for-american-workers-farmers-and-industry/",
+      "date": "May 17, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Armed Forces Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-armed-forces-day/",
+      "date": "May 16, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-05-19T12:00:25.440232",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "State treasurer shares lessons in language and leadership at UIC’s German High School Day",
+      "url": "https://today.uic.edu/state-treasurer-shares-lessons-in-language-and-leadership-at-uics-german-high-school-day/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Michael Frerichs tells high school students how language study can shape career paths.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Pressed plants reveal living genetic messages, decades later",
+      "url": "https://today.uic.edu/pressed-plants-reveal-living-genetic-messages-decades-later/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "UIC biologists show that fragile RNA can survive for decades in herbarium specimens.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC, community partners monitor air pollution in Chicago",
+      "url": "https://today.uic.edu/uic-community-partners-monitor-air-pollution-in-chicago/",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "Open Air Chicago is the country’s largest hyperlocal air quality monitoring network.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}
