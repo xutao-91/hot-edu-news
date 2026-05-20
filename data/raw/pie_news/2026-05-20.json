@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-05-20T12:00:08.288625",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Trump backs Chinese students as US confidence wanes",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-20",
+      "type": "Policy",
+      "summary_en": "Following President Trump’s unexpected remarks about the value of Chinese students to US colleges, experts say rhetoric is not enough to restore Chinese families’ and students’ faith in America as a study destination.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "India’s smaller cities fuel Germany’s popularity as students rethink study abroad",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-05-20",
+      "type": "Study Abroad",
+      "summary_en": "Stakeholders say students from India’s tier-II and III cities are increasingly turning to Germany for its affordability, employability and migration pathways, even as concerns around visas, language and housing persist.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Malala seeks urgent action from ministers on girls’ education gap",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-19",
+      "type": "Policy",
+      "summary_en": "Malala Yousafzai used her platform at the Education World Forum (EWF) to remind ministers that 122 million girls remain out of school worldwide, and each year of delay in policy and funding decisions is \"a year of school that a child will never get back\".",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "K-12: international schools call for global safeguarding overhaul",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-05-19",
+      "type": "K-12",
+      "summary_en": "International school associations and safeguarding experts have found what they describe as a major loophole in international teacher accountability.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Australian budget puts research and skills in focus",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-19",
+      "type": "Policy",
+      "summary_en": "Australia’s federal budget has drawn a mixed response across the sector, with universities, TAFEs and research leaders broadly welcoming continuity in skills and innovation policy, while warning that funding pressures and reform gaps remain unresolved.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Australia freezes new overseas student provider registrations",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-05-18",
+      "type": "Policy",
+      "summary_en": "Labor’s 12-month pause on new VET and ELICOS applications comes amid rising visa refusals, slowing commencements and mounting migration pressure.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Nick Clegg urges Europe to “get its act together” on AI",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-05-18",
+      "type": "Edtech",
+      "summary_en": "Former UK deputy prime minister Nick Clegg has deplored the country’s “astonishing” level of reliance on American tech, with most ed tech companies designed for US systems.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    }
+  ]
+}

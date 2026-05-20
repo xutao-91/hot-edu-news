@@ -1,0 +1,44 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-20T12:00:27.632502",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Northwestern sets tuition and fees for the 2026-2027 academic year",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-sets-tuition-and-fees-for-2026-2027-academic-year",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern chemist Omar Farha receives the inaugural Reticular Science Prize",
+      "url": "https://news.weinberg.northwestern.edu/2026/05/19/northwestern-chemist-omar-farha-receives-inaugural-reticular-science-prize/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern chemist receives Brown Investigator Award",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-chemist-julia-kalow-receives-brown-investigator-award",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Mung Chiang named next president of Northwestern",
+      "url": "https://news.northwestern.edu/stories/2026/05/mung-chiang-named-next-president-of-northwestern",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

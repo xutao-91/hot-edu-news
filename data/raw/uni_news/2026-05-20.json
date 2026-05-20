@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-05-20T12:00:19.105400",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "What is construction management and what can you do with that degree?",
+      "url": "https://insideuni.uni.edu/stem/what-construction-management-and-what-can-you-do-degree",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Earning a construction management degree sets you up for a lucrative, in-demand career. But what is it? Keep reading to find out!",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "What are micro-credentials and how can they advance careers?",
+      "url": "https://insideuni.uni.edu/campus-community/what-are-micro-credentials-and-how-can-they-advance-careers",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "For practicing educators and working professionals, micro‑credentials offer a flexible way to grow your expertise without committing to a full degree. Here’s how they work and why they’re worth considering.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI professor awarded $30,000 grant to launch statewide religious studies initiative",
+      "url": "https://insideuni.uni.edu/campus-community/uni-professor-awarded-30000-grant-launch-statewide-religious-studies-initiative",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "A new statewide effort to strengthen and reimagine religious studies education in Iowa is taking shape at the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

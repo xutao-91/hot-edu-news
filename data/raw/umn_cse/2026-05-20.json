@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-05-20T12:00:22.202848",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "CSE professor named 2026 Faculty Innovator of the Year",
+      "url": "https://cse.umn.edu/college/news/cse-professor-named-2026-faculty-innovator-year",
+      "date": "2026-05-20",
+      "type": "Awards-Grants",
+      "summary_en": "University of Minnesota Twin Cities Professor Paul Dauenhauer was honored with the “Faculty Innovator of the Year” award at the 2026 University of Minnesota Founder’s Day.",
+      "source": "UMN CSE",
+      "category": "faculty"
+    },
+    {
+      "title": "Boost your career with new AI summer short course",
+      "url": "https://cse.umn.edu/college/news/boost-your-career-new-ai-summer-short-course-0",
+      "date": "2026-05-18",
+      "type": "Digital Technology",
+      "summary_en": "The University of Minnesota is offering a new four-week summer short course to help professionals boost their careers and their productivity with new AI skills.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-05-20T12:00:12.597793",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "SoReMo Puts Student Research into Action",
+      "url": "https://www.iit.edu/news/soremo-puts-student-research-action",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "The SoReMo Initiative at Illinois Tech invited 11 student fellows to conduct six semester-long research projects during the 2025–26 academic year by using data science to solve real-world problems in...",
+      "source": "IIT News",
+      "category": "research"
+    },
+    {
+      "title": "Trailblazing Entrepreneur in Legal EdTech Tarek A. Fadel to Deliver Commencement Address at Chicago-Kent College of Law",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/trailblazing-entrepreneur-legal-edtech-tarek-fadel-deliver-commencement-address-chicago-kent-college",
+      "date": "2026-05-17",
+      "type": "News",
+      "summary_en": "CHICAGO—May 17, 2026—Tarek A. Fadel (LAW ’03), a visionary entrepreneur in legal education, will deliver the keynote address today at the Commencement ceremony for Chicago-Kent College of Law at...",
+      "source": "IIT News",
+      "category": "law"
+    }
+  ]
+}

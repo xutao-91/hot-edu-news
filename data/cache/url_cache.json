@@ -4228,5 +4228,203 @@
     "fetch_time": "2026-05-19T20:00:29.814100",
     "title": "Decline Is a Choice: President Trump Restores Pride and Beauty to America’s Capital",
     "category": "semiconductor"
+  },
+  "https://science.nd.edu/news-and-media/news/college-of-science-awards-outstanding-students-in-the-class-of-2026/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-20T12:00:08.648955",
+    "title": "College of Science Awards Outstanding Students in the Class of 2026",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/a-tool-for-mapping-and-planning-family-and-school-partnerships/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-20T12:00:11.038997",
+    "title": "A tool for mapping and planning family and school partnerships",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/morse-family-scholarship-erin-driscoll.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-20T12:00:12.478723",
+    "title": "Bridging the gap",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/kansas-board-of-regents-may-meeting.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-20T12:00:12.478749",
+    "title": "Kansas Board of Regents to meet May 20 in Topeka",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/university-select-agent-program-toxin-regulations.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-20T12:00:12.478761",
+    "title": "Support research safety: Review inventories for biological toxins",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/fiscal-year-2027-budget-transformation-initiative.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-20T12:00:12.478772",
+    "title": "An update on the FY 2027 Budget Transformation framework",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/college-arts-sciences-interim-dean-search.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-20T12:00:12.478781",
+    "title": "Provost announces internal search for College of Arts and Sciences interim dean",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/kstate-named-top-employer-for-graduates.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-20T12:00:12.478791",
+    "title": "Forbes names K-State a top employer for new graduates",
+    "category": "education"
+  },
+  "https://poetsandquants.com/2026/05/17/2026-best-40-under-40-business-professors-yoonseock-yoon-son-mendoza-college-of-business-university-of-notre-dame/": {
+    "source": "mendoza",
+    "fetch_time": "2026-05-20T12:00:13.340502",
+    "title": "2026 Best 40-Under-40 Business Professors: Yoonseock (Yoon) Son",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/americas-schools-are-terrible-at-catching-kids-up-how-ai-can-help/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-20T12:00:14.361168",
+    "title": "America’s Schools Are Terrible at Catching Kids Up. How AI Can Help",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/weaver-earns-4m-grant-to-target-future-flu-pandemics": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-20T12:00:16.394246",
+    "title": "Weaver earns $4M grant to target future flu pandemics",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/nebraskas-small-grains-program-produces-award-winning-wheat-for-baking": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-20T12:00:16.394272",
+    "title": "Nebraska's small-grains program produces award-winning wheat for baking",
+    "category": "ai"
+  },
+  "https://education.indiana.edu/news/2026/jan-jun/2026-05-20-new-report-highlights-growing-faculty-stress-in-higher-education.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-05-20T12:00:16.645837",
+    "title": "New report highlights growing faculty stress in higher education",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-louisianas-returning-education-states-waiver": {
+    "source": "edgov",
+    "fetch_time": "2026-05-20T12:00:18.979091",
+    "title": "U.S. Department of Education Approves Louisiana’s Returning Education to the States Waiver",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/lifelong-learners-staff-members-share-how-mizzou-is-helping-further-their-education/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-20T12:00:19.227088",
+    "title": "Lifelong learners: Staff members share how Mizzou is helping further their education",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/charles-wigton-received-daad-master-studies-scholarship/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-20T12:00:19.227114",
+    "title": "Charles Wigton received DAAD Master Studies Scholarship",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/stem/what-construction-management-and-what-can-you-do-degree": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-20T12:00:19.831102",
+    "title": "What is construction management and what can you do with that degree?",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/campus-community/what-are-micro-credentials-and-how-can-they-advance-careers": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-20T12:00:19.831127",
+    "title": "What are micro-credentials and how can they advance careers?",
+    "category": "semiconductor"
+  },
+  "https://www.ecampusnews.com/student-wellbeing/2026/05/20/designing-for-finals-how-campus-shapes-the-way-students-work/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-05-20T12:00:21.309031",
+    "title": "Designing for finals: How campus shapes the way students work",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/cse-professor-named-2026-faculty-innovator-year": {
+    "source": "umn_cse",
+    "fetch_time": "2026-05-20T12:00:22.724646",
+    "title": "CSE professor named 2026 Faculty Innovator of the Year",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51022-jagstart-winner-pursues-entrepreneurial-dreams": {
+    "source": "iu_news",
+    "fetch_time": "2026-05-20T12:00:24.191646",
+    "title": "JagStart winner pursues entrepreneurial dreams with stylish workwear startup",
+    "category": "general"
+  },
+  "https://www.elmhurst.edu/news/five-students-win-top-achievement-awards/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-05-20T12:00:26.393225",
+    "title": "Five Students Win Top Achievement Awards",
+    "category": "education"
+  },
+  "https://www.elmhurst.edu/news/greek-organizations-give-back-with-big-collection-for-campus-food-closet/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-05-20T12:00:26.393250",
+    "title": "Greek Organizations Give Back with Big Collection for Campus Food Closet",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/dole-institute-of-politics-announces-summer-america-at-250-programming-ARTICLE-54M3XG": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-20T12:00:26.739962",
+    "title": "Dole Institute of Politics announces summer America at 250 programming",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-law-earns-third-consecutive-national-transactional-law-title": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-20T12:00:26.739988",
+    "title": "KU Law earns third consecutive national transactional law title",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-klobuchar-for-governor/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-05-20T12:00:27.351984",
+    "title": "Education Minnesota endorses Klobuchar for governor",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/05/northwestern-sets-tuition-and-fees-for-2026-2027-academic-year": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-20T12:00:28.233011",
+    "title": "Northwestern sets tuition and fees for the 2026-2027 academic year",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-20T12:00:29.642162",
+    "title": "Is that song AI-generated? UChicago scientists create tool to check",
+    "category": "ai"
+  },
+  "https://stories.butler.edu/meet-the-class-of-2030-joshua-sprung/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-05-20T12:00:29.910513",
+    "title": "Meet the Class of 2030: Joshua Sprung",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-4-community-centric-pillars-of-foster-care/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-20T12:00:30.542922",
+    "title": "First Lady Melania Trump’s 4 Community-Centric Pillars of Foster Care",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-cuban-independence-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-20T12:00:30.542951",
+    "title": "Presidential Message on Cuban Independence Day",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/conf_proceedings/CFA4954-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-05-20T12:00:30.636246",
+    "title": "Building Resilience Against Artificial Intelligence–Enabled Biological Threats: Conference Proceedings from a RAND and Helena Workshop",
+    "category": "ai"
+  },
+  "https://www.kettering.edu/kettering-university-students-recognized-automotive-womens-alliance-foundation-30th-anniversary": {
+    "source": "kettering_news",
+    "fetch_time": "2026-05-20T12:00:30.913564",
+    "title": "Kettering University Students Recognized at Automotive Women’s Alliance Foundation 30th Anniversary Gala",
+    "category": "education"
   }
 }

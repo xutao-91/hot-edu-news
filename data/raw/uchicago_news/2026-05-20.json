@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-20T12:00:29.276127",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Is that song AI-generated? UChicago scientists create tool to check",
+      "url": "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "‘Quicksilver’ browser extension intended to champion transparency and ethics",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Glyn Dawson, pioneering lipid biochemist, 1943-2026",
+      "url": "https://news.uchicago.edu/story/glyn-dawson-pioneering-lipid-biochemist-1943-2026",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Dawson pioneered techniques to study cell membrane lipids that play a role in neurodegenerative disorders.",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Summer Reads for Curious Minds",
+      "url": "https://news.uchicago.edu/summer-reads-curious-minds",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New book traces slavery, family and early capitalism through rural Louisiana",
+      "url": "https://news.uchicago.edu/story/new-book-traces-slavery-family-and-early-capitalism-through-rural-louisiana",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "‘Sweet Home Feliciana’ by UChicago’s Rashauna Johnson moves between family memoir and global events to examine how Black history is shaped",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

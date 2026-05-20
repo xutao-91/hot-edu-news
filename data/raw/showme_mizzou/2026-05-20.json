@@ -1,0 +1,62 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-20T12:00:18.451869",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Lifelong learners: Staff members share how Mizzou is helping further their education",
+      "url": "https://showme.missouri.edu/2026/lifelong-learners-staff-members-share-how-mizzou-is-helping-further-their-education/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Meet University of Missouri staff members who are pursuing degrees in their spare time.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Charles Wigton received DAAD Master Studies Scholarship",
+      "url": "https://showme.missouri.edu/2026/charles-wigton-received-daad-master-studies-scholarship/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Powering Mizzou, one role at a time",
+      "url": "https://showme.missouri.edu/2026/powering-mizzou-one-role-at-a-time/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "During Staff Recognition Week, meet four Mizzou employees whose daily contributions sustain operations, innovation and community.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Cross-campus collaboration leads to materials breakthrough",
+      "url": "https://showme.missouri.edu/2026/cross-campus-collaboration-leads-to-materials-breakthrough/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Materials change shape when warmed, making them useful for wearable sensors and wound treatment.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Photo gallery: Spring commencement 2026",
+      "url": "https://showme.missouri.edu/2026/photo-gallery-spring-commencement-2026/",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "The University of Missouri celebrated the many accomplishments of nearly 6,000 Tigers across three days of commencement ceremonies. See photos from the weekend's festivities.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "A cancer-fighting breakthrough gets a boost as Mizzou automates production",
+      "url": "https://showme.missouri.edu/2026/mizzou-scientists-discover-a-way-to-automate-production-of-a-cancer-fighting-drug-candidate/",
+      "date": "2026-05-18",
+      "type": "News",
+      "summary_en": "Proof-of-concept study creates a blueprint for producing prostate cancer treatment more efficiently.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

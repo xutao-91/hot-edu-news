@@ -1,0 +1,28 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-05-20T12:00:29.666361",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Meet the Class of 2030: Joshua Sprung",
+      "url": "https://stories.butler.edu/meet-the-class-of-2030-joshua-sprung/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Meet Josh, an incoming first-year student from San Diego, California.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "The Next Chapter Begins for Butler’s Class of 2026",
+      "url": "https://stories.butler.edu/the-next-chapter-begins-for-butlers-class-of-2026/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "More than 1,500 graduates turned their tassels at Hinkle Fieldhouse on Friday, May 8, as Butler University celebrated the Class of 2026 during its annual Commencement ceremony. Surrounded by proud families, faculty mentors, and friends, graduates marked the end of one chapter and the beginning of another.   Throughout the evening, speakers reflected on growth, uncertainty,…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    }
+  ]
+}
