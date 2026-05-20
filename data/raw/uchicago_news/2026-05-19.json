@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-19T12:00:29.019040",
-  "total_news": 2,
+  "crawled_at": "2026-05-19T20:00:28.995852",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Glyn Dawson, pioneering lipid biochemist, 1943-2026",
+      "url": "https://news.uchicago.edu/story/glyn-dawson-pioneering-lipid-biochemist-1943-2026",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Dawson pioneered techniques to study cell membrane lipids that play a role in neurodegenerative disorders.",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Summer Reads for Curious Minds",
       "url": "https://news.uchicago.edu/summer-reads-curious-minds",

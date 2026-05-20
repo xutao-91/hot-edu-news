@@ -1,9 +1,27 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-05-19T12:00:08.343405",
-  "total_news": 1,
+  "crawled_at": "2026-05-19T20:00:07.825471",
+  "total_news": 3,
   "news": [
+    {
+      "title": "College of Arts and Sciences Recognizes Faculty and Staff Excellence",
+      "url": "https://www.slu.edu/news/2026/may/cas-faculty-staff-excellence.php",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "SLU News",
+      "category": "academic"
+    },
+    {
+      "title": "Student Health's 'Billiken Nurse' Named Outstanding Nursing Professional",
+      "url": "https://www.slu.edu/news/2026/may/slu-student-health-nurse-named-outstanding-nursing-professional.php",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Saint Louis University Student Health Center nurse Elise Molner brings the Jesuit value of cura personalis to student care on campus.",
+      "source": "SLU News",
+      "category": "health"
+    },
     {
       "title": "SLU Celebrates Class of 2026 at Commencement",
       "url": "https://www.slu.edu/news/2026/may/spring-2026-commencement-james-gunn.php",

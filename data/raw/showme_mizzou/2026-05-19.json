@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-05-19T12:00:21.747187",
-  "total_news": 3,
+  "crawled_at": "2026-05-19T20:00:24.406560",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Powering Mizzou, one role at a time",
+      "url": "https://showme.missouri.edu/2026/powering-mizzou-one-role-at-a-time/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "During Staff Recognition Week, meet four Mizzou employees whose daily contributions sustain operations, innovation and community.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "Cross-campus collaboration leads to materials breakthrough",
       "url": "https://showme.missouri.edu/2026/cross-campus-collaboration-leads-to-materials-breakthrough/",

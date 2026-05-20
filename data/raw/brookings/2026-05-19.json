@@ -1,9 +1,36 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-05-19T12:00:07.663610",
-  "total_news": 1,
+  "crawled_at": "2026-05-19T20:00:09.377953",
+  "total_news": 4,
   "news": [
+    {
+      "title": "How to expand the nation’s pipeline of economics doctoral students",
+      "url": "https://www.brookings.edu/articles/how-to-expand-the-nations-pipeline-of-economics-doctoral-students/",
+      "author": "Kristen Broady",
+      "date": "May 19, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "economy"
+    },
+    {
+      "title": "A tool for collaborative planning between families and schools",
+      "url": "https://www.brookings.edu/articles/a-tool-for-collaborative-planning-between-families-and-schools/",
+      "author": "Emily Markovich Morris, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRichaa Hoysala",
+      "date": "May 19, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    },
+    {
+      "title": "Is it time to measure cognitive stunting?",
+      "url": "https://www.brookings.edu/articles/is-it-time-to-measure-cognitive-stunting/",
+      "author": "Rebecca Winthrop",
+      "date": "May 19, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general"
+    },
     {
       "title": "3 lessons on the role of relationships in collaborative research from the Center for Universal Education’s annual symposium",
       "url": "https://www.brookings.edu/articles/3-lessons-on-the-role-of-relationships-in-collaborative-research-from-the-center-for-universal-educations-annual-symposium/",

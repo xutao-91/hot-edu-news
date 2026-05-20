@@ -4054,5 +4054,179 @@
     "fetch_time": "2026-05-19T12:00:35.509218",
     "title": "Presidential Message on World Trade Week",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/college-of-science-announces-2025-26-faculty-awards/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-19T20:00:07.811358",
+    "title": "College of Science Announces 2025-26 Faculty Awards",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/the-commencement-of-the-class-of-2026/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-19T20:00:07.811382",
+    "title": "The commencement of the Class of 2026",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/the-commencement-of-the-graduate-school-class-of-2026/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-19T20:00:07.811395",
+    "title": "The Commencement of the Graduate School class of 2026",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/new-study-conducts-in-depth-analysis-of-multiple-sclerosis-research-models/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-19T20:00:07.811407",
+    "title": "New study conducts in-depth analysis of Multiple Sclerosis research models",
+    "category": "general"
+  },
+  "https://www.slu.edu/news/2026/may/cas-faculty-staff-excellence.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-05-19T20:00:08.294013",
+    "title": "College of Arts and Sciences Recognizes Faculty and Staff Excellence",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/may/slu-student-health-nurse-named-outstanding-nursing-professional.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-05-19T20:00:08.294040",
+    "title": "Student Health's 'Billiken Nurse' Named Outstanding Nursing Professional",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/how-to-expand-the-nations-pipeline-of-economics-doctoral-students/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-19T20:00:10.208575",
+    "title": "How to expand the nation’s pipeline of economics doctoral students",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/a-tool-for-collaborative-planning-between-families-and-schools/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-19T20:00:10.208686",
+    "title": "A tool for collaborative planning between families and schools",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/is-it-time-to-measure-cognitive-stunting/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-19T20:00:10.208732",
+    "title": "Is it time to measure cognitive stunting?",
+    "category": "general"
+  },
+  "https://bridgemi.com/talent-education/work-program-helps-michigan-students-with-disabilities-will-funding-run-dry/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-19T20:00:11.986993",
+    "title": "Work program helps Michigan students with disabilities. Will funding run dry?",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/yoonseock-son-poets-quants-40-under-40/": {
+    "source": "mendoza",
+    "fetch_time": "2026-05-19T20:00:13.331193",
+    "title": "Notre Dame’s Yoonseock Son Named to Poets & Quants’ “40-Under-40” List",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/05/19/wayne-state-joins-fellow-r1-universities-in-national-effort-to-guide-ai-use-in-cultural-collections-69106": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-19T20:00:15.935569",
+    "title": "Wayne State joins fellow R1 universities in  national effort to guide AI use in cultural collections",
+    "category": "ai"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-additional-measures-reduce-federal-burden-states": {
+    "source": "edgov",
+    "fetch_time": "2026-05-19T20:00:16.631565",
+    "title": "U.S. Department of Education Announces Additional Measures to Reduce Federal Burden on States",
+    "category": "education"
+  },
+  "/news/2026/05/11-ui-students-earn-prestigious-fulbright-awards-2026-27": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-05-19T20:00:18.240177",
+    "title": "11 UI students earn prestigious Fulbright awards for 2026–27",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-professor-awarded-30000-grant-launch-statewide-religious-studies-initiative": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-19T20:00:18.605629",
+    "title": "UNI professor awarded $30,000 grant to launch statewide religious studies initiative",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-led-wall-of-wind-research-ongoing-findings-tie-in-to-tornado-season-ARTICLE-S89WEM-ARTICLE-S89WEM-ARTICLE-S89WEM-ARTICLE-S89WEM-ARTICLE-S89WEM": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-19T20:00:24.933197",
+    "title": "KU-led ‘Wall of Wind’ research ongoing; findings tie in to tornado season",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/powering-mizzou-one-role-at-a-time/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-19T20:00:25.107500",
+    "title": "Powering Mizzou, one role at a time",
+    "category": "ai"
+  },
+  "https://polytechnic.purdue.edu/newsroom/transfer-students-make-giant-leaps-purdue-polytechnic": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-19T20:00:25.936495",
+    "title": "Transfer students make giant leaps at Purdue Polytechnic",
+    "category": "education"
+  },
+  "https://news.weinberg.northwestern.edu/2026/05/19/northwestern-chemist-omar-farha-receives-inaugural-reticular-science-prize/": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-19T20:00:28.224519",
+    "title": "Northwestern chemist Omar Farha receives the inaugural Reticular Science Prize",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/glyn-dawson-pioneering-lipid-biochemist-1943-2026": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-19T20:00:29.215878",
+    "title": "Glyn Dawson, pioneering lipid biochemist, 1943-2026",
+    "category": "general"
+  },
+  "https://engineering.wisc.edu/news/not-sorry-to-burst-this-bubble-how-x-ray-imaging-revealed-the-source-of-defects-in-premium-3d-printed-parts/": {
+    "source": "uw_engineering",
+    "fetch_time": "2026-05-19T20:00:29.411562",
+    "title": "Not sorry to burst this bubble: How X-ray imaging revealed the source of defects in premium 3D-printed parts",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trump-americas-tradition-fosters-unity/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814016",
+    "title": "First Lady Melania Trump: America’s Tradition Fosters Unity",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814041",
+    "title": "To Implement Certain Provisions in the Consolidated Appropriations Act, 2026, and for Other Purposes",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bills-h-r-972-h-r-2066-and-h-r-2815-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814051",
+    "title": "Congressional Bills H.R. 972, H.R. 2066 and H.R. 2815 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/restoring-integrity-to-americas-financial-system/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814061",
+    "title": "Restoring Integrity to America’s Financial System",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/integrating-financial-technology-innovation-into-regulatory-frameworks/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814070",
+    "title": "Integrating Financial Technology Innovation into Regulatory Frameworks",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-integrates-financial-technology-innovation-into-regulatory-frameworks/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814080",
+    "title": "Fact Sheet: President Donald J. Trump Integrates Financial Technology Innovation into Regulatory Frameworks",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-restores-integrity-to-americas-financial-system/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814091",
+    "title": "Fact Sheet: President Donald J. Trump Restores Integrity to America’s Financial System",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/05/decline-is-a-choice-president-trump-restores-pride-and-beauty-to-americas-capital/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-19T20:00:29.814100",
+    "title": "Decline Is a Choice: President Trump Restores Pride and Beauty to America’s Capital",
+    "category": "semiconductor"
   }
 }

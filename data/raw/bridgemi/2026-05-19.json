@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-05-19T12:00:13.414195",
-  "total_news": 1,
+  "crawled_at": "2026-05-19T20:00:11.408354",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Work program helps Michigan students with disabilities. Will funding run dry?",
+      "url": "https://bridgemi.com/talent-education/work-program-helps-michigan-students-with-disabilities-will-funding-run-dry/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "At Project SEARCH, students learn what jobs they do and don’t like. They also get support from peers, instructors and employers. Independence and employment are the goals.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
     {
       "title": "MSU’s new ethics policy: Gag order or commonsense loyalty guide for trustees?",
       "url": "https://bridgemi.com/talent-education/msus-new-ethics-policy-gag-order-or-common-sense-loyalty-guide-for-trustees/",

@@ -1,7 +1,17 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-19T12:00:18.678321",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-19T20:00:18.007687",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UNI professor awarded $30,000 grant to launch statewide religious studies initiative",
+      "url": "https://insideuni.uni.edu/campus-community/uni-professor-awarded-30000-grant-launch-statewide-religious-studies-initiative",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "A new statewide effort to strengthen and reimagine religious studies education in Iowa is taking shape at the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
 }
