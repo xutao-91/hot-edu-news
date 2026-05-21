@@ -4510,5 +4510,125 @@
     "fetch_time": "2026-05-20T20:00:29.721016",
     "title": "Nominations Sent to the Senate",
     "category": "general"
+  },
+  "https://www.brookings.edu/articles/addressing-the-missing-middle-in-college-financial-aid/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-21T12:00:07.267983",
+    "title": "Addressing the ‘missing middle’ in college financial aid",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/frozen-neon-as-the-key-to-a-quiet-quantum-world-new-study-shows/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-21T12:00:07.631036",
+    "title": "Frozen neon as the key to a quiet quantum world, new study shows",
+    "category": "quantum"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-men-s-track-field-caps-historic-triple-crown-season-with-record-national-contenders": {
+    "source": "msoe",
+    "fetch_time": "2026-05-21T12:00:08.162033",
+    "title": "MSOE Men’s Track & Field caps historic Triple Crown season with record national contenders",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/salina-campus-awards.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-21T12:00:12.049109",
+    "title": "K-State Salina students, faculty, staff members recognized for excellence",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/missing-action-project-searches-lost-kansan-soldiers.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-21T12:00:12.049134",
+    "title": "Waiting for a homecoming",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/steven-brockschmidt-olathe-cats-cupboard-cart.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-21T12:00:12.049145",
+    "title": "Stocked for success",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/05/konza-prairie-prescribed-burn-research.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-21T12:00:12.049154",
+    "title": "Why burn?",
+    "category": "ai"
+  },
+  "https://www.iit.edu/news/womens-track-and-field-athletic-make-6th-ncaa-championship-appearance": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-21T12:00:13.215756",
+    "title": "Women’s Track and Field Athletic to Make 6th NCAA Championship Appearance",
+    "category": "semiconductor"
+  },
+  "https://research.wayne.edu/news/nsf-career-award-to-wayne-state-university-to-create-next-generation-network-infrastructure-69121": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-21T12:00:15.595095",
+    "title": "NSF CAREER award to Wayne State University to create next generation network infrastructure",
+    "category": "education"
+  },
+  "https://cfpca.wayne.edu/art/news/student-spotlight-jenni-garcia-flores-69105": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-21T12:00:15.595120",
+    "title": "Student Spotlight: Jenni Garcia-Flores",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/students-alumni-earn-national-scholarships": {
+    "source": "iastate_news",
+    "fetch_time": "2026-05-21T12:00:15.844022",
+    "title": "Students, alumni earn national scholarships",
+    "category": "education"
+  },
+  "/news/2026/05/schreier-named-next-faculty-ombudsperson": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-05-21T12:00:17.693986",
+    "title": "Schreier named next faculty ombudsperson",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/celebrating-the-employees-who-make-mizzou-unstoppable/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-21T12:00:20.026968",
+    "title": "Celebrating the employees who make Mizzou unstoppable",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mairi-beranek-to-study-abroad-through-boren-awards/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-21T12:00:20.026999",
+    "title": "Mairi Beranek to study abroad through Boren Awards",
+    "category": "ai"
+  },
+  "https://www.augie.edu/news/2026/international-nursing-exchange-students-find-second-home-augustana-university-extend-stay": {
+    "source": "augie_news",
+    "fetch_time": "2026-05-21T12:00:21.727008",
+    "title": "International Nursing Exchange Students Find Second Home at Augustana University, Extend Stay",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/research-grant-create-sustainable-production-fuels-working-towards-zero-emissions": {
+    "source": "umn_cse",
+    "fetch_time": "2026-05-21T12:00:22.856082",
+    "title": "Research grant to create sustainable production of fuels working towards zero-emissions",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/uchicago-physicists-figure-out-how-reduce-formation-viscous-fingers": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-21T12:00:29.953889",
+    "title": "UChicago physicists figure out how to reduce formation of ‘viscous fingers’",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/please-play-syllabus": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-21T12:00:29.953916",
+    "title": "Please play this syllabus",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71341.html": {
+    "source": "rand",
+    "fetch_time": "2026-05-21T12:00:30.077482",
+    "title": "Automating Knowledge Work: A Framework for Identifying Automation Strategies for Tasks",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-reverses-biden-era-refrigerant-rules/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-21T12:00:30.217317",
+    "title": "Fact Sheet: President Donald J. Trump Reverses Biden-Era Refrigerant Rules",
+    "category": "general"
   }
 }

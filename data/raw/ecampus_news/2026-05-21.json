@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-05-21T12:00:19.813801",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Designing for finals: How campus shapes the way students work",
+      "url": "https://www.ecampusnews.com/student-wellbeing/2026/05/20/designing-for-finals-how-campus-shapes-the-way-students-work/",
+      "date": "2026-05-20",
+      "type": "Student Experience",
+      "summary_en": "Finals week is often treated as a question of whether there is enough study space on campus. Are there enough quiet seats, extended library hours, and places to concentrate?",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "To support the American workforce, prepare students for a future reshaped by climate change",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/05/18/to-support-the-american-workforce-prepare-students-for-a-future-reshaped-by-climate-change/",
+      "date": "2026-05-18",
+      "type": "Career Readiness",
+      "summary_en": "At this moment, the American workforce faces immense challenges: AI, demographic changes, and lagging academic achievement, to name only a few. To tackle these challenges, states need a future-focused strategy that expands opportunities.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

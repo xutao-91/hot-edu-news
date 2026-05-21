@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-21T12:00:29.869628",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Automating Knowledge Work: A Framework for Identifying Automation Strategies for Tasks",
+      "url": "https://www.rand.org/pubs/external_publications/EP71341.html",
+      "date": "May 21, 2026",
+      "type": "Research",
+      "summary_en": "This paper describes a systematic framework for evaluating when and how to deploy AI systems for knowledge tasks.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Building Resilience Against Artificial Intelligence–Enabled Biological Threats: Conference Proceedings from a RAND and Helena Workshop",
+      "url": "https://www.rand.org/pubs/conf_proceedings/CFA4954-1.html",
+      "date": "May 20, 2026",
+      "type": "Expert Insights",
+      "summary_en": "These conference proceedings summarize the outputs from a workshop in which participants developed broadly applicable mitigation strategies for possible threat scenarios at the intersection of artificial intelligence and biology.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
