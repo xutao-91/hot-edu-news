@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-20T12:00:30.337308",
+  "crawled_at": "2026-05-20T20:00:29.537772",
   "total_news": 10,
   "news": [
+    {
+      "title": "America 250: Presidential Message on Amelia Earhart’s Flight Across the Atlantic",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-amelia-earharts-flight-across-the-atlantic/",
+      "date": "May 20, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-sent-to-the-senate-22d2/",
+      "date": "May 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "First Lady Melania Trump’s 4 Community-Centric Pillars of Foster Care",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/first-lady-melania-trumps-4-community-centric-pillars-of-foster-care/",
@@ -58,20 +72,6 @@
       "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-integrates-financial-technology-innovation-into-regulatory-frameworks/",
       "date": "May 19, 2026",
       "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Restores Integrity to America’s Financial System",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-restores-integrity-to-americas-financial-system/",
-      "date": "May 19, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Decline Is a Choice: President Trump Restores Pride and Beauty to America’s Capital",
-      "url": "https://www.whitehouse.gov/releases/2026/05/decline-is-a-choice-president-trump-restores-pride-and-beauty-to-americas-capital/",
-      "date": "May 19, 2026",
-      "category": "Releases",
       "source": "The White House"
     }
   ]

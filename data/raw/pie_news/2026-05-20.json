@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-20T12:00:08.288625",
-  "total_news": 7,
+  "crawled_at": "2026-05-20T20:00:07.632523",
+  "total_news": 8,
   "news": [
+    {
+      "title": "“Open campuses, joint degrees”: Canada envoy signals India push",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-05-20",
+      "type": "Transnational education",
+      "summary_en": "Canada’s high commissioner to India says Canadian institutions are preparing for a deeper presence in India through branch campuses, joint degrees and talent partnerships, as the two countries rebuild education ties amid falling student mobility.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
     {
       "title": "Trump backs Chinese students as US confidence wanes",
       "url": "https://thepienews.com/category/news/government/",

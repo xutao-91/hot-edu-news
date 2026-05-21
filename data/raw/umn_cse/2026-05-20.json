@@ -1,9 +1,18 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-05-20T12:00:22.202848",
-  "total_news": 2,
+  "crawled_at": "2026-05-20T20:00:23.613005",
+  "total_news": 3,
   "news": [
+    {
+      "title": "University of Minnesota launches new center to advance microelectronics and semiconductor industries",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-launches-new-center-advance-microelectronics-and-semiconductor",
+      "date": "2026-05-20",
+      "type": "Awards-Grants",
+      "summary_en": "The University of Minnesota Twin Cities, in collaboration with Polar Semiconductor and Honeywell Aerospace, is establishing a first-of-its-kind academic-industry Spin Technology Center to advance the state’s growing microelectronics and semiconductor industry.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
     {
       "title": "CSE professor named 2026 Faculty Innovator of the Year",
       "url": "https://cse.umn.edu/college/news/cse-professor-named-2026-faculty-innovator-year",

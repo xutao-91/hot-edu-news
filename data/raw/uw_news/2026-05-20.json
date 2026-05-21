@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-20T12:00:19.044785",
-  "total_news": 1,
+  "crawled_at": "2026-05-20T20:00:16.853122",
+  "total_news": 2,
   "news": [
+    {
+      "title": "UW–Madison student awarded prestigious Udall Scholarship",
+      "url": "https://news.wisc.edu/uw-madison-student-awarded-prestigious-udall-scholarship/",
+      "date": "May 20, 2026",
+      "type": "News",
+      "summary_en": "The national honor recognizes undergraduate Aryana Wadhwani as a future leader in the environmental field.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
     {
       "title": "Getting to work in service to an extraordinary university",
       "url": "https://news.wisc.edu/getting-to-work-in-service-to-an-extraordinary-university/",

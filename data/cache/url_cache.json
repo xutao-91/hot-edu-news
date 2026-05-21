@@ -4426,5 +4426,89 @@
     "fetch_time": "2026-05-20T12:00:30.913564",
     "title": "Kettering University Students Recognized at Automotive Women’s Alliance Foundation 30th Anniversary Gala",
     "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/05/20/key-findings-about-americans-and-mental-health/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-20T20:00:06.638898",
+    "title": "Key findings about Americans and mental health",
+    "category": "semiconductor"
+  },
+  "https://bridgemi.com/talent-education/rick-snyder-provide-michigan-education-thats-more-than-academics/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-20T20:00:10.672324",
+    "title": "Rick Snyder: Provide Michigan education that’s ‘more than academics’",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/drewry-installed-as-inaugural-llorin-roa-professor/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-20T20:00:16.042129",
+    "title": "Drewry installed as inaugural Llorin-Roa professor",
+    "category": "semiconductor"
+  },
+  "https://economicdevelopment.wayne.edu/news/equipment-donation-to-eugene-applebaum-college-of-pharmacy-and-health-sciences-radiation-therapy-technology-program-supports-hands-on-learning-and-student-success-69005": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-20T20:00:16.942066",
+    "title": "Equipment donation to EACPHS' RTT program supports hands-on learning, student success",
+    "category": "education"
+  },
+  "https://news.wisc.edu/uw-madison-student-awarded-prestigious-udall-scholarship/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-20T20:00:17.561112",
+    "title": "UW–Madison student awarded prestigious Udall Scholarship",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-probes-loudoun-county-public-schools-over-alleged-bathroom-filming-incidents": {
+    "source": "edgov",
+    "fetch_time": "2026-05-20T20:00:19.671500",
+    "title": "U.S. Department of Education Probes Loudoun County Public Schools Over Alleged Bathroom Filming Incidents",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/university-minnesota-launches-new-center-advance-microelectronics-and-semiconductor": {
+    "source": "umn_cse",
+    "fetch_time": "2026-05-20T20:00:24.052299",
+    "title": "University of Minnesota launches new center to advance microelectronics and semiconductor industries",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0520-undergrad-research-initiative.html": {
+    "source": "oneill",
+    "fetch_time": "2026-05-20T20:00:25.175572",
+    "title": "O’Neill School faculty lead new undergraduate research initiative",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0520-executive-in-residence.html": {
+    "source": "oneill",
+    "fetch_time": "2026-05-20T20:00:25.175597",
+    "title": "O’Neill School alumnus appointed to lead IU national security initiatives, serve as executive-in-residence",
+    "category": "education"
+  },
+  "https://education.wisc.edu/news/uw-madison-project-joins-with-mmsd-to-meet-pressing-student-needs/": {
+    "source": "uw_education",
+    "fetch_time": "2026-05-20T20:00:27.144613",
+    "title": "UW–Madison project joins with MMSD to meet pressing student needs",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/Clinical-AI-that-is-more-honest-about-what-it-doesnt-know.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-20T20:00:28.406302",
+    "title": "Clinical AI that is more honest about what it doesn’t know",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/medicaid-work-requirements-could-cause-1-million-missed-cancer-screenings": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-20T20:00:29.394477",
+    "title": "Medicaid work requirements could cause 1 million missed cancer screenings",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/america-250-presidential-message-on-amelia-earharts-flight-across-the-atlantic/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-20T20:00:29.720947",
+    "title": "America 250: Presidential Message on Amelia Earhart’s Flight Across the Atlantic",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/nominations-sent-to-the-senate-22d2/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-20T20:00:29.721016",
+    "title": "Nominations Sent to the Senate",
+    "category": "general"
   }
 }

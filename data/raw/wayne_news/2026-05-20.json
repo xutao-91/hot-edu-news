@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-20T12:00:15.683365",
-  "total_news": 2,
+  "crawled_at": "2026-05-20T20:00:16.179503",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Equipment donation to EACPHS' RTT program supports hands-on learning, student success",
+      "url": "https://economicdevelopment.wayne.edu/news/equipment-donation-to-eugene-applebaum-college-of-pharmacy-and-health-sciences-radiation-therapy-technology-program-supports-hands-on-learning-and-student-success-69005",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
     {
       "title": "Wayne State joins fellow R1 universities in  national effort to guide AI use in cultural collections",
       "url": "https://today.wayne.edu/news/2026/05/19/wayne-state-joins-fellow-r1-universities-in-national-effort-to-guide-ai-use-in-cultural-collections-69106",

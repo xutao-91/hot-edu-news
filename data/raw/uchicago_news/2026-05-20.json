@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-20T12:00:29.276127",
-  "total_news": 4,
+  "crawled_at": "2026-05-20T20:00:29.223879",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Medicaid work requirements could cause 1 million missed cancer screenings",
+      "url": "https://news.uchicago.edu/story/medicaid-work-requirements-could-cause-1-million-missed-cancer-screenings",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "UChicago Medicine researchers find funding cuts and eligibility changes could drive thousands of undetected cancers, with younger and vulnerable adults hit hardest",
+      "source": "UChicago News",
+      "category": "ai"
+    },
     {
       "title": "Is that song AI-generated? UChicago scientists create tool to check",
       "url": "https://news.uchicago.edu/story/song-ai-generated-uchicago-scientists-create-browser-extension-check",

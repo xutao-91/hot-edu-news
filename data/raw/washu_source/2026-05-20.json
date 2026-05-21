@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-20T12:00:15.427302",
-  "total_news": 1,
+  "crawled_at": "2026-05-20T20:00:15.405549",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Drewry installed as inaugural Llorin-Roa professor",
+      "url": "https://source.washu.edu/2026/05/drewry-installed-as-inaugural-llorin-roa-professor/",
+      "date": "2026-05-20",
+      "type": "Advancement",
+      "summary_en": "Anne M. Drewry, MD, a nationally recognized leader in critical care medicine, has been installed as the inaugural Llorin-Roa Professor of Anesthesiology at WashU Medicine.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
     {
       "title": "Learning from our ‘priors’",
       "url": "https://source.washu.edu/2026/05/learning-from-our-priors/",

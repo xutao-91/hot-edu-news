@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-05-20T12:00:12.023259",
-  "total_news": 2,
+  "crawled_at": "2026-05-20T20:00:10.139684",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Rick Snyder: Provide Michigan education that’s ‘more than academics’",
+      "url": "https://bridgemi.com/talent-education/rick-snyder-provide-michigan-education-thats-more-than-academics/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "With just over half of Michigan high school graduates going off to college, leaders say more needs to be done to give them interesting and useful learning experiences in K-12 schools.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
     {
       "title": "Work program helps Michigan students with disabilities. Will funding run dry?",
       "url": "https://bridgemi.com/talent-education/work-program-helps-michigan-students-with-disabilities-will-funding-run-dry/",
