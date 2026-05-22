@@ -1,9 +1,18 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-05-21T12:00:08.097655",
-  "total_news": 2,
+  "crawled_at": "2026-05-21T20:00:12.355112",
+  "total_news": 3,
   "news": [
+    {
+      "title": "SLU Researcher Serves as Scientist in Residence for the Saint Louis Science Center's 'The Blue Whale Story,' Which Opens Saturday",
+      "url": "https://www.slu.edu/news/2026/may/jean-potvin-blue-whale.php",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "SLU professor of physics Jean Potvin, Ph.D., has spent years studying the science of whales. Soon, St. Louis residents can hear directly from him. As a part of the Saint Louis Science Center's new traveling exhibition, The Blue Whale Story, opening this weekend, Potvin is serving as scientist in residence.",
+      "source": "SLU News",
+      "category": "research"
+    },
     {
       "title": "College of Arts and Sciences Recognizes Faculty and Staff Excellence",
       "url": "https://www.slu.edu/news/2026/may/cas-faculty-staff-excellence.php",

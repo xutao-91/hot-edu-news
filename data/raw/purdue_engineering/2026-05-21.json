@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-05-21T12:00:22.581049",
-  "total_news": 6,
+  "crawled_at": "2026-05-21T20:00:23.809743",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Purdue researchers receive donations to produce soil safety guide for homeowners affected by wildfires",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0521-purdue-whelton-wildfire-soil-safety-guide-donation",
+      "date": "May 21, 2026",
+      "type": "News",
+      "summary_en": "Two Los Angeles-area donors see so much value in expertise provided by Purdue University professor Andrew Whelton and his team after the January 2025 wildfires that they are investing in it.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
     {
       "title": "Purdue students organize one of the world's largest hardware hackathons",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0519-purdue-starkhacks-hardware-hackathon",

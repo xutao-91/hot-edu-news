@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-21T12:00:17.423426",
-  "total_news": 2,
+  "crawled_at": "2026-05-21T20:00:17.633878",
+  "total_news": 4,
   "news": [
+    {
+      "title": "UW–Madison designates 2026 as the ‘Year of AI Readiness and Competency’",
+      "url": "https://news.wisc.edu/uw-madison-designates-2026-as-the-year-of-ai-readiness-and-competency/",
+      "date": "May 21, 2026",
+      "type": "News",
+      "summary_en": "The effort, which supports a number of campus priorities, will focus on a people-centered approach to guide thoughtful use of artificial intelligence on campus.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "$85.2 million gift from John and Tashia Morgridge will support Science Hall transformation",
+      "url": "https://news.wisc.edu/85-2-million-gift-from-john-and-tashia-morgridge-will-support-science-hall-transformation/",
+      "date": "May 21, 2026",
+      "type": "News",
+      "summary_en": "The historic building will undergo renovation starting in 2027 to restore its iconic exterior, create new gathering space and modernize its interior to support learning and research.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
     {
       "title": "UW–Madison student awarded prestigious Udall Scholarship",
       "url": "https://news.wisc.edu/uw-madison-student-awarded-prestigious-udall-scholarship/",

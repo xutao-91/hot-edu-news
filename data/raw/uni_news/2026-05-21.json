@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-05-21T12:00:17.896945",
-  "total_news": 3,
+  "crawled_at": "2026-05-21T20:00:18.139812",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Then and Now: At 100, Mary Kaiser Smith reflects UNI’s tradition of teacher education",
+      "url": "https://insideuni.uni.edu/campus-community/then-and-now-100-mary-kaiser-smith-reflects-unis-tradition-teacher-education",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "The sound of the Campanile ringing outside her window remains one of Mary Kaiser Smith’s most enduring memories of student life in the 1940s.",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "What is construction management and what can you do with that degree?",
       "url": "https://insideuni.uni.edu/stem/what-construction-management-and-what-can-you-do-degree",

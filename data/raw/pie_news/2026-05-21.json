@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-05-21T12:00:08.705414",
-  "total_news": 10,
+  "crawled_at": "2026-05-21T20:00:07.975068",
+  "total_news": 11,
   "news": [
+    {
+      "title": "German chancellor casts doubt on US study amid “different social climate”",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-05-21",
+      "type": "Study Abroad",
+      "summary_en": "Friedrich Merz says he would not currently recommend young people study or work in the US, as debates around employability, stability and global student mobility intensify.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
     {
       "title": "UK study visa issuance falls 32%",
       "url": "https://thepienews.com/category/news/data/",

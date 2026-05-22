@@ -4630,5 +4630,131 @@
     "fetch_time": "2026-05-21T12:00:30.217317",
     "title": "Fact Sheet: President Donald J. Trump Reverses Biden-Era Refrigerant Rules",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/douglas-and-diana-berthiaume-make-groundbreaking-gift-to-support-strategic-investment-in-biomedical-research-infrastructure/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-21T20:00:06.905348",
+    "title": "Douglas and Diana Berthiaume make groundbreaking gift to support strategic investment in biomedical research infrastructure",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/05/21/have-americans-wages-kept-up-with-inflation-that-depends/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-21T20:00:07.129504",
+    "title": "Have Americans’ wages kept up with inflation? That depends",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/shyamal-gupta-appointed-chief-operating-officer-india-ahead-illinois-tech-mumbais-launch": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-21T20:00:11.657597",
+    "title": "Shyamal Gupta Appointed as Chief Operating Officer for India, Ahead of Illinois Tech. Mumbai’s Launch",
+    "category": "ai"
+  },
+  "https://www.iit.edu/news/all-smiles-all-time-celebrating-class-2026": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-21T20:00:11.657622",
+    "title": "All Smiles, All the Time: Celebrating the Class of 2026",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/womens-track-and-field-athlete-make-6th-ncaa-championship-appearance": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-21T20:00:11.657634",
+    "title": "Women’s Track and Field Athlete to Make 6th NCAA Championship Appearance",
+    "category": "general"
+  },
+  "https://www.iit.edu/news/illinois-tech-appoints-shyamal-gupta-chief-operating-officer-india-ahead-its-mumbai-campus-launch": {
+    "source": "iit_news",
+    "fetch_time": "2026-05-21T20:00:11.657644",
+    "title": "Illinois Tech Appoints Shyamal Gupta as Chief Operating Officer for India, Ahead of Its Mumbai Campus Launch",
+    "category": "ai"
+  },
+  "https://bridgemi.com/talent-education/more-michigan-students-need-ap-classes-other-rigorous-coursework-report-says/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-21T20:00:11.700977",
+    "title": "More Michigan students need AP classes, other rigorous coursework, report says",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/may/jean-potvin-blue-whale.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-05-21T20:00:12.987684",
+    "title": "SLU Researcher Serves as Scientist in Residence for the Saint Louis Science Center's 'The Blue Whale Story,' Which Opens Saturday",
+    "category": "ai"
+  },
+  "https://ilitchbusiness.wayne.edu/news/the-compounding-interest-of-wayne-state-tena-latona-leads-with-purpose-and-impact-shaped-by-her-time-at-the-mike-ilitch-school-of-business-69128": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-21T20:00:16.677135",
+    "title": "The compounding interest of Wayne State: Tena Latona leads with purpose and impact, shaped by her time at the Mike Ilitch School of Business",
+    "category": "education"
+  },
+  "https://provost.wayne.edu/news/student-success-and-otl-partnership-opens-applications-for-fall-2026-faculty-fellowship-69136": {
+    "source": "wayne_news",
+    "fetch_time": "2026-05-21T20:00:16.677159",
+    "title": "Student success and OTL partnership opens applications for fall 2026 faculty fellowship",
+    "category": "education"
+  },
+  "https://news.wisc.edu/uw-madison-designates-2026-as-the-year-of-ai-readiness-and-competency/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-21T20:00:18.224993",
+    "title": "UW–Madison designates 2026 as the ‘Year of AI Readiness and Competency’",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/85-2-million-gift-from-john-and-tashia-morgridge-will-support-science-hall-transformation/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-21T20:00:18.225018",
+    "title": "$85.2 million gift from John and Tashia Morgridge will support Science Hall transformation",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/then-and-now-100-mary-kaiser-smith-reflects-unis-tradition-teacher-education": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-21T20:00:18.701653",
+    "title": "Then and Now: At 100, Mary Kaiser Smith reflects UNI’s tradition of teacher education",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-reaches-consensus-reform-and-strengthen-americas-higher-education-accreditation-system": {
+    "source": "edgov",
+    "fetch_time": "2026-05-21T20:00:21.510145",
+    "title": "U.S. Department of Education Reaches Consensus to Reform and Strengthen America’s Higher Education Accreditation System",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-labor-make-historic-grant-investments-programs-bolster-postsecondary-outcomes": {
+    "source": "edgov",
+    "fetch_time": "2026-05-21T20:00:21.510170",
+    "title": "U.S. Department of Education and U.S. Department of Labor Make Historic Grant Investments in Programs that Bolster Postsecondary Outcomes",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/national-education-association-and-league-women-voters-announce-partnership-recruit-next-generation": {
+    "source": "nea_news",
+    "fetch_time": "2026-05-21T20:00:23.812027",
+    "title": "National Education Association and League of Women Voters Announce Partnership to Recruit Next Generation of Poll Workers",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0521-purdue-whelton-wildfire-soil-safety-guide-donation": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-05-21T20:00:24.513030",
+    "title": "Purdue researchers receive donations to produce soil safety guide for homeowners affected by wildfires",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnics-rua-williams-host-free-robotics-summer-camp-autistic-youth": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-21T20:00:29.582541",
+    "title": "Purdue Polytechnic's Rua Williams to host free robotics summer camp for autistic youth",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/nearly-1500-polytechnic-students-graduate-purdue-spring-2026-commencement": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-21T20:00:29.582566",
+    "title": "Nearly 1,500 Polytechnic students graduate at Purdue spring 2026 commencement",
+    "category": "education"
+  },
+  "https://stories.butler.edu/meet-the-class-of-2030-mia-mendoza/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-05-21T20:00:30.076096",
+    "title": "Meet the Class of 2030: Mia Mendoza",
+    "category": "education"
+  },
+  "https://stories.butler.edu/duane-and-linnea-leatherman-%ca%bc75-endowed-professorship-to-become-first-endowed-faculty-position-in-jca/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-05-21T20:00:30.076123",
+    "title": "Duane and Linnéa Leatherman ʼ75 Endowed Professorship to Become First Endowed Faculty Position in JCA",
+    "category": "education"
   }
 }

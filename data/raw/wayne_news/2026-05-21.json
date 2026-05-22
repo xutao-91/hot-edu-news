@@ -1,9 +1,27 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-05-21T12:00:15.028820",
-  "total_news": 5,
+  "crawled_at": "2026-05-21T20:00:15.937440",
+  "total_news": 7,
   "news": [
+    {
+      "title": "The compounding interest of Wayne State: Tena Latona leads with purpose and impact, shaped by her time at the Mike Ilitch School of Business",
+      "url": "https://ilitchbusiness.wayne.edu/news/the-compounding-interest-of-wayne-state-tena-latona-leads-with-purpose-and-impact-shaped-by-her-time-at-the-mike-ilitch-school-of-business-69128",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Student success and OTL partnership opens applications for fall 2026 faculty fellowship",
+      "url": "https://provost.wayne.edu/news/student-success-and-otl-partnership-opens-applications-for-fall-2026-faculty-fellowship-69136",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
     {
       "title": "NSF CAREER award to Wayne State University to create next generation network infrastructure",
       "url": "https://research.wayne.edu/news/nsf-career-award-to-wayne-state-university-to-create-next-generation-network-infrastructure-69121",
