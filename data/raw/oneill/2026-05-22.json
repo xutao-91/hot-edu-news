@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-05-22T12:00:25.189834",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "O’Neill School faculty lead new undergraduate research initiative",
+      "url": "https://oneill.indiana.edu/news/2026-0520-undergrad-research-initiative.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "O’Neill professors André Franco and Kim Novick join IU’s Layered-Learning Program to study climate change impacts on forest ecosystems and mentor undergraduate researchers.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "O’Neill School alumnus appointed to lead IU national security initiatives, serve as executive-in-residence",
+      "url": "https://oneill.indiana.edu/news/2026-0520-executive-in-residence.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Brett Seidle named IU’s chief advisor for national security research and development and executive-in-residence at O’Neill, strengthening research and student leadership development.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

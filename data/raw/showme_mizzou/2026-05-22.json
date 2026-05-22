@@ -1,0 +1,80 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-22T12:00:19.519318",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Blooms in focus: April photos of the month",
+      "url": "https://showme.missouri.edu/2026/blooms-in-focus-april-photos-of-the-month/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "The month featured flowers, friends and fun across campus.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Six Tigers will travel abroad through Fulbright U.S. Student Program",
+      "url": "https://showme.missouri.edu/2026/six-tigers-will-travel-abroad-through-fulbright-u-s-student-program/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Celebrating the employees who make Mizzou unstoppable",
+      "url": "https://showme.missouri.edu/2026/celebrating-the-employees-who-make-mizzou-unstoppable/",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Staff members honored for going above and beyond in dedication and service to the university.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mairi Beranek to study abroad through Boren Awards",
+      "url": "https://showme.missouri.edu/2026/mairi-beranek-to-study-abroad-through-boren-awards/",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Lifelong learners: Staff members share how Mizzou is helping further their education",
+      "url": "https://showme.missouri.edu/2026/lifelong-learners-staff-members-share-how-mizzou-is-helping-further-their-education/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Meet University of Missouri staff members who are pursuing degrees in their spare time.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Charles Wigton received DAAD Master Studies Scholarship",
+      "url": "https://showme.missouri.edu/2026/charles-wigton-received-daad-master-studies-scholarship/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Powering Mizzou, one role at a time",
+      "url": "https://showme.missouri.edu/2026/powering-mizzou-one-role-at-a-time/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "During Staff Recognition Week, meet four Mizzou employees whose daily contributions sustain operations, innovation and community.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Cross-campus collaboration leads to materials breakthrough",
+      "url": "https://showme.missouri.edu/2026/cross-campus-collaboration-leads-to-materials-breakthrough/",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "Materials change shape when warmed, making them useful for wearable sensors and wound treatment.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

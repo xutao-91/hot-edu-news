@@ -1,0 +1,35 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-05-22T12:00:26.369184",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue Polytechnic's Rua Williams to host free robotics summer camp for autistic youth",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnics-rua-williams-host-free-robotics-summer-camp-autistic-youth",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "Nearly 1,500 Polytechnic students graduate at Purdue spring 2026 commencement",
+      "url": "https://polytechnic.purdue.edu/newsroom/nearly-1500-polytechnic-students-graduate-purdue-spring-2026-commencement",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Transfer students make giant leaps at Purdue Polytechnic",
+      "url": "https://polytechnic.purdue.edu/newsroom/transfer-students-make-giant-leaps-purdue-polytechnic",
+      "date": "2026-05-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    }
+  ]
+}

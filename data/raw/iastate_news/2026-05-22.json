@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-05-22T12:00:17.503601",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Students, alumni earn national scholarships",
+      "url": "https://www.news.iastate.edu/news/students-alumni-earn-national-scholarships",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Iowa State University students and alumni are recognized nationally for several prestigious scholarships, including the Goldwater scholarship, National Science Foundation Graduate Research Fellowship and Fulbright U.S. Student Program.",
+      "source": "Iowa State News",
+      "category": "students"
+    },
+    {
+      "title": "America’s last-mile delivery divide",
+      "url": "https://www.news.iastate.edu/news/americas-last-mile-delivery-divide",
+      "date": "2026-05-19",
+      "type": "Innovation and Research",
+      "summary_en": "More than a decade of shopping data shows a clear divide in how Americans get their goods, an Iowa State researcher and co-authors report in a new study examining how demand for last-mile fulfillment services has evolved over time. This split can inform decisions such as where stores stay open and how companies prioritize investments in last-mile delivery.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}
