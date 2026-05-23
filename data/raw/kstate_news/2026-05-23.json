@@ -1,0 +1,98 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-05-23T12:00:11.934165",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "K-State Salina students, faculty, staff members recognized for excellence",
+      "url": "https://www.k-state.edu/news/articles/2026/05/salina-campus-awards.html",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Two outstanding students and five faculty and staff members have been recognized for their distinct commitment and accomplishments at K-State Salina in the 2025-2026 academic year with...",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "Waiting for a homecoming",
+      "url": "https://www.k-state.edu/news/articles/2026/05/missing-action-project-searches-lost-kansan-soldiers.html",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "The K-State Missing in Action Project is blending student learning with meaningful public service, giving students the chance to contribute to real missing-in-action investigations...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Stocked for success",
+      "url": "https://www.k-state.edu/news/articles/2026/05/steven-brockschmidt-olathe-cats-cupboard-cart.html",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Through the Cats' Cupboard Cart at K-State Olathe, Steven Brockschmidt has helped bring in over 411 pounds of donated food, expanding access to basic needs and reducing stigma around...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Why burn?",
+      "url": "https://www.k-state.edu/news/articles/2026/05/konza-prairie-prescribed-burn-research.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "At Konza Prairie Biological Station, K-State researchers use  prescribed burns to study and preserve one of the last remaining tallgrass prairie ecosystems in North America.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Support research safety: Review inventories for biological toxins",
+      "url": "https://www.k-state.edu/news/articles/2026/05/university-select-agent-program-toxin-regulations.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Researchers should review inventories and notify the University Select Agent Program if they are using any listed toxin. K-State must conduct this annual survey to remain in compliance...",
+      "source": "K-State News",
+      "category": "research"
+    },
+    {
+      "title": "Kansas Board of Regents to meet May 20 in Topeka",
+      "url": "https://www.k-state.edu/news/articles/2026/05/kansas-board-of-regents-may-meeting.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "The Kansas Board of Regents meets today at the Curtis State Office Building in Topeka. Agendas, complete meeting minutes and a livestream are available online.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Provost announces internal search for College of Arts and Sciences interim dean",
+      "url": "https://www.k-state.edu/news/articles/2026/05/college-arts-sciences-interim-dean-search.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "The Office of the Provost and Executive Vice President announces an expedited internal search for the interim dean of the College of Arts and Sciences. The search is limited to current...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Forbes names K-State a top employer for new graduates",
+      "url": "https://www.k-state.edu/news/articles/2026/05/kstate-named-top-employer-for-graduates.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Kansas State University is one of just 40 colleges and universities nationwide — and one of only six Big 12 institutions — recognized by Forbes as a top employer for new graduates....",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Bridging the gap",
+      "url": "https://www.k-state.edu/news/articles/2026/05/morse-family-scholarship-erin-driscoll.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "With the support of the K‑State Libraries' Morse Family and Community Public Policy Scholarship, junior Erin Driscoll's internship will take her from congressional offices to the...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "An update on the FY 2027 Budget Transformation framework",
+      "url": "https://www.k-state.edu/news/articles/2026/05/fiscal-year-2027-budget-transformation-initiative.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "Provost Jesse Perez Mendez and vice president Ethan Erickson share an important update on the finalized Budget Transformation mechanics and guidance for FY 2027 implementation.",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

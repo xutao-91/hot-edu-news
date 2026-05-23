@@ -1,0 +1,17 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-05-23T12:00:28.835956",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Clinical AI that is more honest about what it doesn’t know",
+      "url": "https://engineering.washu.edu/news/2026/Clinical-AI-that-is-more-honest-about-what-it-doesnt-know.html",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "AI for Health Institute researchers develop framework that helps clinical language models know when to be confident, when to be cautious.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

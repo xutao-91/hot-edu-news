@@ -1,0 +1,35 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-05-23T12:00:20.239475",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Elmhurst University Celebrates 155th Commencement",
+      "url": "https://www.elmhurst.edu/news/elmhurst-university-celebrates-155th-commencement/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Five Students Win Top Achievement Awards",
+      "url": "https://www.elmhurst.edu/news/five-students-win-top-achievement-awards/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Greek Organizations Give Back with Big Collection for Campus Food Closet",
+      "url": "https://www.elmhurst.edu/news/greek-organizations-give-back-with-big-collection-for-campus-food-closet/",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}

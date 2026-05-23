@@ -4948,5 +4948,17 @@
     "fetch_time": "2026-05-22T20:00:30.453329",
     "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Sweden Regarding the Technology Prosperity Deal",
     "category": "semiconductor"
+  },
+  "https://bridgemi.com/talent-education/michigan-college-enrollment-rate-slips-despite-1b-in-state-scholarships/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-23T12:00:13.459816",
+    "title": "Michigan college enrollment rate slips, despite $1B in state scholarships",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-23T12:00:30.262255",
+    "title": "Memorial Day, 2026",
+    "category": "general"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-05-23T12:00:18.480795",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "In Bee Lab, Myers found a hive that helped her thrive",
+      "url": "https://news.unl.edu/article/in-bee-lab-myers-found-a-hive-that-helped-her-thrive",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "'Nebraska Behind Bars' wins Kennedy journalism award",
+      "url": "https://news.unl.edu/article/nebraska-behind-bars-wins-kennedy-journalism-award",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Weaver earns $4M grant to target future flu pandemics",
+      "url": "https://news.unl.edu/article/weaver-earns-4m-grant-to-target-future-flu-pandemics",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska's small-grains program produces award-winning wheat for baking",
+      "url": "https://news.unl.edu/article/nebraskas-small-grains-program-produces-award-winning-wheat-for-baking",
+      "date": "2026-05-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

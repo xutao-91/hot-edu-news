@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-23T12:00:22.187974",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "May Edition: Newly Issued Patents",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0522-purdue-engineering-newly-issued-patents-may-2026",
+      "date": "May 22, 2026",
+      "type": "News",
+      "summary_en": "Congratulations to Purdue University researchers who recently received 10 patents on their intellectual property from the U.S. Patent and Trademark Office.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ROWMow Sim: Purdue and INDOT collaborate for safer highway mowing",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0519-purdue-indot-rowmow-sim-autonomous-highway-mowing",
+      "date": "May 22, 2026",
+      "type": "News",
+      "summary_en": "Led by John Evans, assistant professor of agricultural and biological engineering (ABE) in Purdue’s College of Agriculture and mechanical engineering (by courtesy) in the College of Engineering, the project explores whether autonomous mowing systems could improve safety and efficiency.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "New director Tort's experience, connections primed to advance OPP mission",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0519-joe-tort-purdue-office-professional-practice-director",
+      "date": "May 22, 2026",
+      "type": "News",
+      "summary_en": "Joe Tort was named director of the Office of Professional Practice on March 1, replacing civil engineering professor Phillip Dunston, who had held the director role since April 2023.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue researchers receive donations to produce soil safety guide for homeowners affected by wildfires",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0521-purdue-whelton-wildfire-soil-safety-guide-donation",
+      "date": "May 21, 2026",
+      "type": "News",
+      "summary_en": "Two Los Angeles-area donors see so much value in expertise provided by Purdue University professor Andrew Whelton and his team after the January 2025 wildfires that they are investing in it.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-05-23T12:00:15.033490",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Students, alumni earn national scholarships",
+      "url": "https://www.news.iastate.edu/news/students-alumni-earn-national-scholarships",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Iowa State University students and alumni are recognized nationally for several prestigious scholarships, including the Goldwater scholarship, National Science Foundation Graduate Research Fellowship and Fulbright U.S. Student Program.",
+      "source": "Iowa State News",
+      "category": "students"
+    }
+  ]
+}

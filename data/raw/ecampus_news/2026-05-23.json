@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-05-23T12:00:19.372282",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Aligning AI with pedagogy, privacy, and outcomes",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/05/22/aligning-ai-with-pedagogy-privacy-and-outcomes/",
+      "date": "2026-05-22",
+      "type": "AI in Education",
+      "summary_en": "In a peer-reviewed study at Los Angeles Pacific University, students using a pedagogically-aligned AI assistant saw a 20 percent increase in GPA, a 13 percent increase in final scores, and a 36 percent increase in intrinsic motivation to learn.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Designing for finals: How campus shapes the way students work",
+      "url": "https://www.ecampusnews.com/student-wellbeing/2026/05/20/designing-for-finals-how-campus-shapes-the-way-students-work/",
+      "date": "2026-05-20",
+      "type": "Student Experience",
+      "summary_en": "Finals week is often treated as a question of whether there is enough study space on campus. Are there enough quiet seats, extended library hours, and places to concentrate?",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}
