@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-05-22T12:00:10.437120",
+  "crawled_at": "2026-05-22T20:00:10.681773",
   "total_news": 4,
   "news": [
+    {
+      "title": "From bans to recalls: A public health framework for AI companion bots",
+      "url": "https://www.brookings.edu/articles/from-bans-to-recalls-a-public-health-framework-for-ai-companion-bots/",
+      "author": "Gaia Bernstein",
+      "date": "May 22, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "technology"
+    },
     {
       "title": "Learning what matters in South Africa",
       "url": "https://www.brookings.edu/articles/learning-what-matters-in-south-africa/",
@@ -30,15 +39,6 @@
       "summary_en": "",
       "source": "Brookings Institution",
       "category": "economy"
-    },
-    {
-      "title": "A tool for mapping and planning family and school partnerships",
-      "url": "https://www.brookings.edu/articles/a-tool-for-mapping-and-planning-family-and-school-partnerships/",
-      "author": "Emily Markovich Morris, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRichaa Hoysala",
-      "date": "May 19, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "k12"
     }
   ]
 }

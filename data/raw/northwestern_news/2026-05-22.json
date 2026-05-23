@@ -1,9 +1,18 @@
 {
   "source": "Northwestern University News",
   "source_url": "https://news.northwestern.edu/university-news",
-  "crawled_at": "2026-05-22T12:00:28.934052",
-  "total_news": 2,
+  "crawled_at": "2026-05-22T20:00:28.986176",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Promising young researchers receive NSF CAREER awards",
+      "url": "https://news.northwestern.edu/stories/2026/05/promising-young-researchers-receive-prestigious-nsf-career-awards",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
     {
       "title": "Northwestern sets tuition and fees for the 2026-2027 academic year",
       "url": "https://news.northwestern.edu/stories/2026/05/northwestern-sets-tuition-and-fees-for-2026-2027-academic-year",

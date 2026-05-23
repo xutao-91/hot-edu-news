@@ -1,8 +1,8 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-05-22T12:00:29.349910",
-  "total_news": 5,
+  "crawled_at": "2026-05-22T20:00:29.483634",
+  "total_news": 6,
   "news": [
     {
       "title": "Meet the Class of 2030: Ethan Maher",
@@ -31,6 +31,16 @@
       "type": "News",
       "summary_en": "Meet Mia, an incoming first-year student from St. Louis.",
       "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Duane and Linnéa Leatherman ʼ75 Endowed Professorship to Become First Endowed Faculty Position in JCA",
+      "url": "https://stories.butler.edu/duane-and-linnea-leatherman-%ca%bc75-endowed-professorship-to-become-first-endowed-faculty-position-in-jca/",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Butler University recently received a $2 million estate commitment from Duane and Linnéa Leatherman ʼ75 to fund an endowed faculty position in the Jordan College of the Arts (JCA). The Duane and Linnéa Leatherman ʼ75 Endowed Professorship is the first documented endowed faculty position in the history of the Jordan College of the Arts. The…",
+      "author": "jennifer gunnels",
       "source": "Butler Stories",
       "category": "general"
     },

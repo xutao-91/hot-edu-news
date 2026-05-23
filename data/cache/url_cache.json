@@ -4858,5 +4858,95 @@
     "fetch_time": "2026-05-22T12:00:30.163358",
     "title": "University of Chicago launches ambitious campaign, ‘Chicago Minds’",
     "category": "education"
+  },
+  "https://www.brookings.edu/articles/from-bans-to-recalls-a-public-health-framework-for-ai-companion-bots/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-22T20:00:11.471584",
+    "title": "From bans to recalls: A public health framework for AI companion bots",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/05/ready-to-fire/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-22T20:00:15.698319",
+    "title": "Ready to fire",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0522-purdue-engineering-newly-issued-patents-may-2026": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-05-22T20:00:22.768356",
+    "title": "May Edition: Newly Issued Patents",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0519-purdue-indot-rowmow-sim-autonomous-highway-mowing": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-05-22T20:00:22.768381",
+    "title": "ROWMow Sim: Purdue and INDOT collaborate for safer highway mowing",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0519-joe-tort-purdue-office-professional-practice-director": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-05-22T20:00:22.768392",
+    "title": "New director Tort's experience, connections primed to advance OPP mission",
+    "category": "semiconductor"
+  },
+  "https://www.elmhurst.edu/news/elmhurst-university-celebrates-155th-commencement/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-05-22T20:00:24.277913",
+    "title": "Elmhurst University Celebrates 155th Commencement",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/05/22/st-louis-man-sentenced-for-the-fatal-shooting-of-washu-mfa-student": {
+    "source": "studlife",
+    "fetch_time": "2026-05-22T20:00:25.629005",
+    "title": "St. Louis man sentenced for the fatal shooting of WashU MFA student",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/357th-basic-training-class-completes-training-at-kletc-ARTICLE-0C7WY7": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-22T20:00:25.673149",
+    "title": "357th Basic Training Class completes training at KLETC",
+    "category": "ai"
+  },
+  "https://news.northwestern.edu/stories/2026/05/promising-young-researchers-receive-prestigious-nsf-career-awards": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-22T20:00:29.499417",
+    "title": "Promising young researchers receive NSF CAREER awards",
+    "category": "general"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-researchers-present-research-premier-human-computer-interaction": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-22T20:00:29.569664",
+    "title": "Purdue Polytechnic researchers present research at premier human-computer interaction conference",
+    "category": "semiconductor"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Groups-Urge-Accountability-Framework-Changes.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-05-22T20:00:30.135823",
+    "title": "Higher Education Groups Urge Changes to Proposed Federal Accountability Framework",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Draft-Rules-Passed-to-Overhaul-Accreditation-.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-05-22T20:00:30.135851",
+    "title": "Negotiators Pass Draft Rules to Overhaul College Accreditation",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/05/remarks-by-director-michael-kratsios-on-the-one-year-anniversary-of-president-trumps-nuclear-eos/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-22T20:00:30.453211",
+    "title": "Remarks by Director Michael Kratsios on the One Year Anniversary of President Trump’s Nuclear EOs",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-maritime-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-22T20:00:30.453283",
+    "title": "Presidential Message on National Maritime Day",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/05/technology-prosperity-deal-between-the-united-states-and-sweden/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-22T20:00:30.453329",
+    "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Sweden Regarding the Technology Prosperity Deal",
+    "category": "semiconductor"
   }
 }

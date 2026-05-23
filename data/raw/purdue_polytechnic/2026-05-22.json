@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-05-22T12:00:26.369184",
-  "total_news": 3,
+  "crawled_at": "2026-05-22T20:00:29.113784",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Purdue Polytechnic researchers present research at premier human-computer interaction conference",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-researchers-present-research-premier-human-computer-interaction",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Purdue Polytechnic's Rua Williams to host free robotics summer camp for autistic youth",
       "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnics-rua-williams-host-free-robotics-summer-camp-autistic-youth",

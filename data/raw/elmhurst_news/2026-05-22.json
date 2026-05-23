@@ -1,9 +1,18 @@
 {
   "source": "Elmhurst University News",
   "source_url": "https://www.elmhurst.edu/news/",
-  "crawled_at": "2026-05-22T12:00:23.634178",
-  "total_news": 2,
+  "crawled_at": "2026-05-22T20:00:23.730003",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Elmhurst University Celebrates 155th Commencement",
+      "url": "https://www.elmhurst.edu/news/elmhurst-university-celebrates-155th-commencement/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
     {
       "title": "Five Students Win Top Achievement Awards",
       "url": "https://www.elmhurst.edu/news/five-students-win-top-achievement-awards/",
