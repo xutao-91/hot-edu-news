@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-24T12:00:16.975502",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The compounding interest of Wayne State: Tena Latona leads with purpose and impact, shaped by her time at the Mike Ilitch School of Business",
+      "url": "https://ilitchbusiness.wayne.edu/news/the-compounding-interest-of-wayne-state-tena-latona-leads-with-purpose-and-impact-shaped-by-her-time-at-the-mike-ilitch-school-of-business-69128",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Student success and OTL partnership opens applications for fall 2026 faculty fellowship",
+      "url": "https://provost.wayne.edu/news/student-success-and-otl-partnership-opens-applications-for-fall-2026-faculty-fellowship-69136",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

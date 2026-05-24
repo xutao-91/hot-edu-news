@@ -1,0 +1,48 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-05-24T12:00:33.583482",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Meet the Class of 2030: Ethan Maher",
+      "url": "https://stories.butler.edu/meet-the-class-of-2030-ethan-maher/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "Meet Ethan, an incoming Nursing student from Illinois.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Meet an Incoming Founder’s College Student: Diana Espinoza Nunez",
+      "url": "https://stories.butler.edu/meet-an-incoming-founders-college-student-diana-espinoza-nunez/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "Meet Diana, an incoming Founder’s College student.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Meet the Class of 2030: Mia Mendoza",
+      "url": "https://stories.butler.edu/meet-the-class-of-2030-mia-mendoza/",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Meet Mia, an incoming first-year student from St. Louis.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Duane and Linnéa Leatherman ʼ75 Endowed Professorship to Become First Endowed Faculty Position in JCA",
+      "url": "https://stories.butler.edu/duane-and-linnea-leatherman-%ca%bc75-endowed-professorship-to-become-first-endowed-faculty-position-in-jca/",
+      "date": "2026-05-21",
+      "type": "News",
+      "summary_en": "Butler University recently received a $2 million estate commitment from Duane and Linnéa Leatherman ʼ75 to fund an endowed faculty position in the Jordan College of the Arts (JCA). The Duane and Linnéa Leatherman ʼ75 Endowed Professorship is the first documented endowed faculty position in the history of the Jordan College of the Arts. The…",
+      "author": "jennifer gunnels",
+      "source": "Butler Stories",
+      "category": "general"
+    }
+  ]
+}

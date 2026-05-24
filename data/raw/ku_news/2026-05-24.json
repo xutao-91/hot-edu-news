@@ -1,0 +1,35 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-05-24T12:00:27.084437",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "357th Basic Training Class completes training at KLETC",
+      "url": "https://news.ku.edu/news/article/357th-basic-training-class-completes-training-at-kletc-ARTICLE-0C7WY7",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "Friends and family gathered at the Kansas Law Enforcement Training Center to watch 23 graduates take the oath and walk across the stage in Integrity Hall, marking the beginning of their careers in law enforcement.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU recognizes 11 students with 2026 University Awards",
+      "url": "https://news.ku.edu/news/article/ku-recognizes-11-students-with-2026-university-awards-ARTICLE-ZRHFGE-ARTICLE-ZRHFGE-ARTICLE-ZRHFGE",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "The University of Kansas has awarded 11 students with honors that recognize community engagement, leadership and academics. The University Awards, among the most prestigious awards presented at KU, were established to recognize students who embody service excellence, dedication or whose academic achievements are stellar.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU scientists’ group gathers to welcome new fellows",
+      "url": "https://news.ku.edu/news/article/ku-scientists-group-gathers-to-welcome-new-fellows-ARTICLE-AZJPZ5-ARTICLE-AZJPZ5",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "On May 4, KU American Association for the Advancement of Science fellows met to network and welcome three newly elected members. Chancellor Douglas A. Girod recognized the KU inductees: Chris Beard, Jianming Qiu and Michael Wolfe.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}
