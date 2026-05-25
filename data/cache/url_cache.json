@@ -4978,5 +4978,23 @@
     "fetch_time": "2026-05-24T20:00:30.923170",
     "title": "Presidential Message on Pentecost",
     "category": "general"
+  },
+  "https://news.nd.edu/news/notre-dame-experts-respond-to-pope-leo-xivs-encyclical-magnifica-humanitas/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-25T12:00:08.297091",
+    "title": "Notre Dame experts respond to Pope Leo XIV’s encyclical Magnifica humanitas",
+    "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/statement-from-rev-robert-a-dowd-c-s-c-on-the-papal-encyclical-magnifica-humanitas/": {
+    "source": "nd_news",
+    "fetch_time": "2026-05-25T12:00:08.297122",
+    "title": "Statement from Rev. Robert A. Dowd, C.S.C., on the papal encyclical Magnifica humanitas",
+    "category": "semiconductor"
+  },
+  "https://www.ecampusnews.com/teaching-learning/2026/05/25/ai-is-reshaping-entry-level-work-and-the-talent-pipeline/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-05-25T12:00:20.665546",
+    "title": "AI is reshaping entry-level work and the talent pipeline",
+    "category": "ai"
   }
 }

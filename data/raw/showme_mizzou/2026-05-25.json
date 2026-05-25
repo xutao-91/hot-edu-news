@@ -1,0 +1,26 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-05-25T12:00:19.144227",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Blooms in focus: April photos of the month",
+      "url": "https://showme.missouri.edu/2026/blooms-in-focus-april-photos-of-the-month/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "The month featured flowers, friends and fun across campus.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Six Tigers will travel abroad through Fulbright U.S. Student Program",
+      "url": "https://showme.missouri.edu/2026/six-tigers-will-travel-abroad-through-fulbright-u-s-student-program/",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    }
+  ]
+}

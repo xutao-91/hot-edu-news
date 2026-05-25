@@ -1,0 +1,17 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-05-25T12:00:15.379932",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Ready to fire",
+      "url": "https://source.washu.edu/2026/05/ready-to-fire/",
+      "date": "2026-05-22",
+      "type": "Engineering",
+      "summary_en": "WashU biomedical engineers in Ismael Seáñez’s lab are evaluating which strategies and treatments are the most effective for spinal cord injuries.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

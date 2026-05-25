@@ -1,0 +1,26 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-05-25T12:00:15.615888",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "In Bee Lab, Myers found a hive that helped her thrive",
+      "url": "https://news.unl.edu/article/in-bee-lab-myers-found-a-hive-that-helped-her-thrive",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "'Nebraska Behind Bars' wins Kennedy journalism award",
+      "url": "https://news.unl.edu/article/nebraska-behind-bars-wins-kennedy-journalism-award",
+      "date": "2026-05-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}
