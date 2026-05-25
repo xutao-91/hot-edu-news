@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-24T12:00:34.555845",
-  "total_news": 5,
+  "crawled_at": "2026-05-24T20:00:30.729218",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Presidential Message on Pentecost",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-pentecost/",
+      "date": "May 24, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Memorial Day, 2026",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/memorial-day-2026/",

@@ -4966,5 +4966,17 @@
     "fetch_time": "2026-05-23T20:00:30.091849",
     "title": "UChicago men’s tennis team wins NCAA title—its third in five years",
     "category": "semiconductor"
+  },
+  "https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling": {
+    "source": "heritage",
+    "fetch_time": "2026-05-24T20:00:21.534252",
+    "title": "The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-pentecost/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-24T20:00:30.923170",
+    "title": "Presidential Message on Pentecost",
+    "category": "general"
   }
 }
