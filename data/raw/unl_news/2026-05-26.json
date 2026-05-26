@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-05-26T12:00:15.185764",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Mumade’s childhood experience guides her healthcare journey",
+      "url": "https://news.unl.edu/article/mumades-childhood-experience-guides-her-healthcare-journey",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Gillilan earns Fulbright Award to conduct research in Austria",
+      "url": "https://news.unl.edu/article/gillilan-earns-fulbright-award-to-conduct-research-in-austria",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Mott recognized for innovating in Natural Resources graduate studies",
+      "url": "https://news.unl.edu/article/mott-recognized-for-innovating-in-natural-resources-graduate-studies",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Turfgrass students gain competitive edge through Husker Athletics",
+      "url": "https://news.unl.edu/article/turfgrass-students-gain-competitive-edge-through-husker-athletics",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

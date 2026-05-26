@@ -1,0 +1,48 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-05-26T12:00:09.224264",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Pakistan broadens TNE eligibility under new reforms",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-05-26",
+      "type": "Transnational education",
+      "summary_en": "New HEC framework expands access for specialist institutions, formalises dual and joint degree programs and tightens oversight of international collaborations.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIE investigates: the real cost of non-refundable deposits",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-05-26",
+      "type": "Immigration",
+      "summary_en": "After UK visa rejection rates soared over the winter, thousands of students from countries like Pakistan and Bangladesh are now being told their tuition fee deposits are non-refundable. The PIE investigates the scale of the problem and how refund policies are being communicated by universities and agents.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "What New Zealand’s levy reveals about England’s international student recruitment model",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-05-26",
+      "type": "Voices",
+      "summary_en": "As conversations around England's upcoming international student levy intensify, Vincenzo Raimo looks across the world to an existing model that's been in place for decades.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Vincenzo Raimo"
+    },
+    {
+      "title": "International students must leave US to apply for green card",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-05-26",
+      "type": "Immigration",
+      "summary_en": "New US government policy guidance could significantly restrict international students and workers applying for permanent residency on American soil.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    }
+  ]
+}

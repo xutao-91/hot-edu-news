@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-05-26T12:00:20.014008",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "AI is reshaping entry-level work and the talent pipeline",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/05/25/ai-is-reshaping-entry-level-work-and-the-talent-pipeline/",
+      "date": "2026-05-25",
+      "type": "Career Readiness",
+      "summary_en": "While entry-level hiring is not disappearing entirely, AI is beginning to influence the work traditionally assigned to early career professionals and is increasing expectations for what entry-level workers can produce from day one, according to a new report.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}
