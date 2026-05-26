@@ -4996,5 +4996,11 @@
     "fetch_time": "2026-05-25T12:00:20.665546",
     "title": "AI is reshaping entry-level work and the talent pipeline",
     "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-missing-childrens-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-25T20:00:30.922750",
+    "title": "Presidential Message on National Missing Children’s Day",
+    "category": "general"
   }
 }

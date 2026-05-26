@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-25T12:00:30.398018",
-  "total_news": 5,
+  "crawled_at": "2026-05-25T20:00:30.681879",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Presidential Message on National Missing Children’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-missing-childrens-day/",
+      "date": "May 25, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on Pentecost",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-pentecost/",
