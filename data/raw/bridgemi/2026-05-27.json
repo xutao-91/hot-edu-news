@@ -1,0 +1,38 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-05-27T12:00:13.718561",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "MSU loses another president, in spite of $1 million pay raise",
+      "url": "https://bridgemi.com/talent-education/msu-loses-another-president-in-spite-of-1-million-pay-raise/",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "MSU President Guskiewicz is set to become the next president of Clemson University in South Carolina even after board voted to increase his annual salary to $2 million.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "general"
+    },
+    {
+      "title": "What to know about school tax credit program. Will Michigan opt in or stay out?",
+      "url": "https://bridgemi.com/talent-education/will-michigan-opt-in-or-stay-out-what-to-know-about-school-tax-credit-program/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Michigan private and public school students could benefit from a federal tax credit scholarship program. Here’s what to know.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
+    {
+      "title": "Michigan Teacher of the Year helps special ed students overcome hurdles",
+      "url": "https://bridgemi.com/talent-education/michigan-teacher-of-the-year-helps-special-ed-students-overcome-hurdles/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Erik Meerschaert, the 2026-27 Michigan Teacher of the Year, helps special education students find success inside and outside the classroom. As teacher of the year, he hopes to spotlight other teachers’ successes.",
+      "author": "Nate Miller",
+      "source": "Bridge Michigan",
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-05-27T12:00:15.694837",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Duch, Rockwell-Hopkins named to expanded enterprise leadership roles",
+      "url": "https://source.washu.edu/2026/05/duch-rockwell-hopkins-named-to-expanded-enterprise-leadership-roles/",
+      "date": "2026-05-26",
+      "type": "Appointments & Promotions",
+      "summary_en": "Tate Duch and Melissa Rockwell-Hopkins have been named to expanded leadership roles in the Office of the Executive Vice Chancellor for Administration and Chief Administrative Officer at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Yu installed as Art Krieg Professor",
+      "url": "https://source.washu.edu/2026/05/yu-installed-as-art-krieg-professor/",
+      "date": "2026-05-26",
+      "type": "Advancement",
+      "summary_en": "Yan Yu, a scientist trained in both chemistry and engineering whose research focuses on developing nanotechnologies to detect and treat immune-related diseases, is the inaugural Art Krieg Professor at WashU. Yu gave a talk titled “Breaking Barriers: From Immune Cells to Classrooms.”",
+      "source": "WashU Source",
+      "category": "advancement"
+    }
+  ]
+}

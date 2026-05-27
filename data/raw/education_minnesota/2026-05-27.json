@@ -1,0 +1,26 @@
+{
+  "source": "Education Minnesota",
+  "source_url": "https://educationminnesota.org/news/education-headlines/",
+  "crawled_at": "2026-05-27T12:00:24.940885",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Education Minnesota endorses Ellison for attorney general",
+      "url": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-ellison-for-attorney-general/",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "Education Minnesota has endorsed Attorney General Keith Ellison’s 2026 campaign for reelection.",
+      "source": "Education Minnesota",
+      "category": "general"
+    },
+    {
+      "title": "Education Minnesota endorses Simon for secretary of state",
+      "url": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-simon-for-secretary-of-state/",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "Education Minnesota has endorsed Secretary of State Steve Simon’s 2026 campaign for reelection.",
+      "source": "Education Minnesota",
+      "category": "general"
+    }
+  ]
+}

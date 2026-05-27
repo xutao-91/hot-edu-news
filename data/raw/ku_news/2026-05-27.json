@@ -1,0 +1,53 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-05-27T12:00:26.995859",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "University announces 2026 Kemper Fellows for Teaching Excellence",
+      "url": "https://news.ku.edu/news/article/university-announces-2026-kemper-fellows-for-teaching-excellence-ARTICLE-64E9NH",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "This spring, five faculty members from the University of Kansas Lawrence campus who exemplify innovation, expertise and leadership in the classroom were named recipients of the William T. Kemper Fellowship for Teaching Excellence.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Poet and scholar argues attention to place is one of the most urgent practices of our time",
+      "url": "https://news.ku.edu/news/article/poet-and-scholar-argues-attention-to-place-is-one-of-the-most-urgent-practices-of-our-time-ARTICLE-2JNAGS-ARTICLE-2JNAGS-ARTICLE-2JNAGS-ARTICLE-2JNAGS-ARTICLE-2JNAGS",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "“Living Roots: The Promise of Perennial Foods” (Princeton University Press) makes a cultural argument as much as an agricultural one: that perennial foods — crops that return year after year, building deep root systems and healthier soil — represent not just a different way of farming but a different way of belonging to the earth. The collection includes a contribution from Megan Kaminski, poet an",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Students in new KU course participate in NATO simulation",
+      "url": "https://news.ku.edu/news/article/students-in-new-ku-course-participate-in-nato-simulation-ARTICLE-ZR4KNS-ARTICLE-ZR4KNS-ARTICLE-ZR4KNS-ARTICLE-ZR4KNS",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "University of Kansas students recently had the opportunity to participate in a NATO simulation exercise, presented in cooperation with the North Atlantic Treaty Organization (NATO) Allied Command Transformation. The experience was part of a Model NATO class offered through the College of Liberal Arts & Sciences.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Eleven KU Law students honored for scholarship, leadership and service",
+      "url": "https://news.ku.edu/news/article/eleven-ku-law-students-honored-for-scholarship-leadership-and-service-ARTICLE-3F6JQP-ARTICLE-3F6JQP-ARTICLE-3F6JQP",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Eleven University of Kansas School of Law students received awards during the spring 2026 semester for distinguishing themselves in scholarship, leadership and service to the law school and the community.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Decline in local newspapers reshapes corporate social responsibility, research finds",
+      "url": "https://news.ku.edu/news/article/decline-in-local-newspapers-reshapes-corporate-social-responsibility-study-finds-ARTICLE-55F1TD-ARTICLE-55F1TD",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "In a new article, Jun Ho Lee, assistant professor of strategy and international business at the University of Kansas, finds that the decline of local newspapers reduces both external oversight and public visibility, weakening the demand for companies to maintain corporate social responsibility engagement.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

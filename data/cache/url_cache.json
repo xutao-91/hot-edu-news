@@ -5212,5 +5212,125 @@
     "fetch_time": "2026-05-26T20:00:29.968527",
     "title": "UChicago dedicates data science and AI building in honor of alumni supporters",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/two-members-of-congress-on-improving-american-education/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-27T12:00:07.959318",
+    "title": "Two members of Congress on improving American education",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/05/27/trading-volume-on-prediction-markets-has-soared-in-recent-months/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-27T12:00:08.067821",
+    "title": "Trading volume on prediction markets has soared in recent months",
+    "category": "semiconductor"
+  },
+  "https://bridgemi.com/talent-education/msu-loses-another-president-in-spite-of-1-million-pay-raise/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-27T12:00:14.328592",
+    "title": "MSU loses another president, in spite of $1 million pay raise",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-under-secretary-of-education-nicholas-kent-highlights-civics-education-history-rocks-event-hawaii": {
+    "source": "edgov",
+    "fetch_time": "2026-05-27T12:00:17.223179",
+    "title": "U.S. Department of Education Under Secretary of Education Nicholas Kent Highlights Civics Education at 'History Rocks!' Event in Hawaii",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/arapahoe-homecare-cooperative-now-accepting-clients": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-27T12:00:17.691159",
+    "title": "Arapahoe homecare cooperative now accepting clients",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/shoemaker-named-harvard-radcliffe-institute-fellow": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-27T12:00:17.691188",
+    "title": "Shoemaker named Harvard Radcliffe Institute fellow",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/three-recent-husker-grads-earn-nsf-graduate-research-fellowships": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-27T12:00:17.691198",
+    "title": "Three recent Husker grads earn NSF Graduate Research Fellowships",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/celebrating-mizzous-office-of-undergraduate-research-mentor-of-the-year-award-winners/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-27T12:00:19.643097",
+    "title": "Celebrating Mizzou’s Office of Undergraduate Research Mentor of the Year Award winners",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/honors-college-celebrates-student-success-faculty-staff-engagement-during-spring-awards-ceremony/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-27T12:00:19.643123",
+    "title": "Honors College celebrates student success, faculty, staff engagement during Spring Awards Ceremony",
+    "category": "education"
+  },
+  "https://onwisconsin.uwalumni.com/state-street-that-great-street/": {
+    "source": "uw_news",
+    "fetch_time": "2026-05-27T12:00:20.845352",
+    "title": "State Street, that great street",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/05/27/the-ai-literacy-paradox-why-students-feel-unprepared-for-the-ai-driven-workforce/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-05-27T12:00:22.398017",
+    "title": "The AI literacy paradox: Why students feel unprepared for the AI-driven workforce",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-ellison-for-attorney-general/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-05-27T12:00:25.690488",
+    "title": "Education Minnesota endorses Ellison for attorney general",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-simon-for-secretary-of-state/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-05-27T12:00:25.690522",
+    "title": "Education Minnesota endorses Simon for secretary of state",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/university-announces-2026-kemper-fellows-for-teaching-excellence-ARTICLE-64E9NH": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-27T12:00:27.624237",
+    "title": "University announces 2026 Kemper Fellows for Teaching Excellence",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/poet-and-scholar-argues-attention-to-place-is-one-of-the-most-urgent-practices-of-our-time-ARTICLE-2JNAGS-ARTICLE-2JNAGS-ARTICLE-2JNAGS-ARTICLE-2JNAGS-ARTICLE-2JNAGS": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-27T12:00:27.624264",
+    "title": "Poet and scholar argues attention to place is one of the most urgent practices of our time",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/students-in-new-ku-course-participate-in-nato-simulation-ARTICLE-ZR4KNS-ARTICLE-ZR4KNS-ARTICLE-ZR4KNS-ARTICLE-ZR4KNS": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-27T12:00:27.624275",
+    "title": "Students in new KU course participate in NATO simulation",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/Tool-to-predict-crop-instability-to-be-developed-at-WashU-Arizona-State.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-27T12:00:29.464104",
+    "title": "Tool to predict crop instability to be developed at WashU, Arizona State",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Yu-installed-as-Art-Krieg-Professor.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-27T12:00:29.464134",
+    "title": "Yu installed as Art Krieg Professor",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/daniel-kind-awarded-2026-hugo-f-sonnenschein-medal-excellence": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-27T12:00:30.417947",
+    "title": "Daniel Kind awarded 2026 Hugo F. Sonnenschein Medal of Excellence",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Alger-Named-Inaugural-America-250-Fellow.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-05-27T12:00:31.700986",
+    "title": "Jonathan Alger Named Inaugural America 250 Fellow in Historic ACE–AAC&U Collaboration",
+    "category": "education"
   }
 }
