@@ -1,7 +1,17 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-05-26T12:00:08.815571",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-26T20:00:07.489880",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Mark A. Varvares, M.D.: 1958-2026",
+      "url": "https://www.slu.edu/news/2026/may/mark-varvares-obituary.php",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Mark A. Varvares, M.D. (Med '86), a nationally recognized leader in otolaryngology and former director of the Saint Louis University Cancer Center, died May 20, 2026.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
 }

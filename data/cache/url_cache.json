@@ -5128,5 +5128,89 @@
     "fetch_time": "2026-05-26T12:00:30.889133",
     "title": "Trump Administration’s Full-Scale War on Fraud",
     "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/05/26/facts-about-marijuana/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-26T20:00:07.624076",
+    "title": "10 facts about Americans and marijuana",
+    "category": "semiconductor"
+  },
+  "https://www.slu.edu/news/2026/may/mark-varvares-obituary.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-05-26T20:00:08.062324",
+    "title": "Mark A. Varvares, M.D.: 1958-2026",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/jessa-alderman-and-aj-springer-earn-first-team-all-american-honors": {
+    "source": "msoe",
+    "fetch_time": "2026-05-26T20:00:11.816771",
+    "title": "Jessa Alderman and AJ Springer earn First-Team All-American Honors",
+    "category": "semiconductor"
+  },
+  "https://bridgemi.com/talent-education/will-michigan-opt-in-or-stay-out-what-to-know-about-school-tax-credit-program/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-26T20:00:13.655822",
+    "title": "What to know about school tax credit program. Will Michigan opt in or stay out?",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/duch-rockwell-hopkins-named-to-expanded-enterprise-leadership-roles/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-26T20:00:16.488070",
+    "title": "Duch, Rockwell-Hopkins named to expanded enterprise leadership roles",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/yu-installed-as-art-krieg-professor/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-26T20:00:16.488096",
+    "title": "Yu installed as Art Krieg Professor",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/campus-community/progress-purpose-uni-employees-gather-record-breaking-professional-development": {
+    "source": "uni_news",
+    "fetch_time": "2026-05-26T20:00:19.421085",
+    "title": "Progress with purpose: UNI employees gather for record-breaking professional development conference",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/05/president-elect-mung-chiang-on-campus-for-a-wildcat-weekend": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-26T20:00:27.648554",
+    "title": "President-elect on campus for a Wildcat weekend",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Ramsay-named-associate-dean-of-undergraduate-programs-in-McKelvey-Engineering.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-26T20:00:29.605354",
+    "title": "Ramsay named associate dean of undergraduate programs in McKelvey Engineering",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Samsung-grant-will-fund-better-energy-storage-systems.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-26T20:00:29.605380",
+    "title": "Samsung grant will fund better energy storage systems",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Environmental-Engineering-students-win-three-awards-at-WERC-competition.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-26T20:00:29.605391",
+    "title": "Environmental Engineering students win three awards at WERC competition",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/AI-model-looks-for-missing-pieces-to-puzzle.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-05-26T20:00:29.605402",
+    "title": "AI model looks for missing pieces to puzzle",
+    "category": "ai"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-researchers-automate-3d-bridge-modeling-reduce-engineering-time": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-26T20:00:29.666944",
+    "title": "Purdue Polytechnic researchers automate 3D bridge modeling to reduce engineering time",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/uchicago-dedicates-data-science-and-ai-building-honor-alumni-supporters": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-26T20:00:29.968527",
+    "title": "UChicago dedicates data science and AI building in honor of alumni supporters",
+    "category": "ai"
   }
 }

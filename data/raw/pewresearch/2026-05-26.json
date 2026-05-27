@@ -1,7 +1,25 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-05-26T12:00:08.056291",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-26T20:00:07.103057",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "10 facts about Americans and marijuana",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/26/facts-about-marijuana/",
+      "date": "May 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Drug Policy",
+        "Health Care",
+        "Health Policy",
+        "Medicine Health",
+        "Political Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "Nearly nine-in-ten U.S. adults say marijuana should be legal either for medical or recreational use. Just 11% say the drug should not be legal at all.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
 }

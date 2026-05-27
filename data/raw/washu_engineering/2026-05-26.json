@@ -1,7 +1,44 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-05-26T12:00:28.719647",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-26T20:00:29.017555",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Ramsay named associate dean of undergraduate programs in McKelvey Engineering",
+      "url": "https://engineering.washu.edu/news/2026/Ramsay-named-associate-dean-of-undergraduate-programs-in-McKelvey-Engineering.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Chris Ramsay returns to McKelvey Engineering; succeeds Chris Kroeger.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
+    {
+      "title": "Samsung grant will fund better energy storage systems",
+      "url": "https://engineering.washu.edu/news/2026/Samsung-grant-will-fund-better-energy-storage-systems.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "WashU’s Sang-Hoon Bae shares grant with MIT to improve electrostatic capacitors.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Environmental Engineering students win three awards at WERC competition",
+      "url": "https://engineering.washu.edu/news/2026/Environmental-Engineering-students-win-three-awards-at-WERC-competition.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Four seniors competed in the 36th annual WERC Environmental Design Contest as a part of their capstone course.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
+    {
+      "title": "AI model looks for missing pieces to puzzle",
+      "url": "https://engineering.washu.edu/news/2026/AI-model-looks-for-missing-pieces-to-puzzle.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Nathan Jacobs’ lab builds multimodal embedding model.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
 }

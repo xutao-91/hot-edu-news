@@ -1,8 +1,8 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-05-26T12:00:30.043973",
-  "total_news": 4,
+  "crawled_at": "2026-05-26T20:00:29.442167",
+  "total_news": 5,
   "news": [
     {
       "title": "It’s Becoming Impossible to Know How Your Kid Is Doing in School",
@@ -12,6 +12,15 @@
       "summary_en": "",
       "source": "UChicago News",
       "category": "education"
+    },
+    {
+      "title": "UChicago dedicates data science and AI building in honor of alumni supporters",
+      "url": "https://news.uchicago.edu/story/uchicago-dedicates-data-science-and-ai-building-honor-alumni-supporters",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "The Lorraine and Yuji Suzuki Center is the new home of the Data Science Institute",
+      "source": "UChicago News",
+      "category": "ai"
     },
     {
       "title": "Stretchable AI patch computes on your body, no server required",

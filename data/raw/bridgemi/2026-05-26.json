@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-05-26T12:00:13.459129",
-  "total_news": 2,
+  "crawled_at": "2026-05-26T20:00:12.846664",
+  "total_news": 3,
   "news": [
+    {
+      "title": "What to know about school tax credit program. Will Michigan opt in or stay out?",
+      "url": "https://bridgemi.com/talent-education/will-michigan-opt-in-or-stay-out-what-to-know-about-school-tax-credit-program/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Michigan private and public school students could benefit from a federal tax credit scholarship program. Here’s what to know.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
     {
       "title": "Michigan Teacher of the Year helps special ed students overcome hurdles",
       "url": "https://bridgemi.com/talent-education/michigan-teacher-of-the-year-helps-special-ed-students-overcome-hurdles/",
