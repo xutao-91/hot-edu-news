@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-05-28T12:00:31.890077",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Jonathan Alger Named Inaugural America 250 Fellow in Historic ACE–AAC&U Collaboration",
+      "url": "https://www.acenet.edu/News-Room/Pages/Alger-Named-Inaugural-America-250-Fellow.aspx",
+      "date": "May 27, 2026",
+      "type": "Press Release",
+      "summary_en": "Jonathan Alger has been appointed the inaugural America 250 Fellow, a fellowship created to advance the role of higher education in strengthening democratic institutions, civic learning, and informed citizenship as the country marks its 250th anniversary.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "Building Pathways Summit Explores Transformative Potential of Higher Education to Forge Futures",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Building-Pathways-Summit-Transformative-Potential-Higher-Education.aspx",
+      "date": "May 27, 2026",
+      "type": "News",
+      "summary_en": "The capstone of ACE’s Building Pathways series brought together campus, civic and business leaders, and students at the Virginia Tech Innovation Campus in Alexandria, VA.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

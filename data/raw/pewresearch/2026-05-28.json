@@ -1,0 +1,109 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-05-28T12:00:07.414808",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Worldwide, a quarter of new car sales are electric vehicles or hybrids",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/28/worldwide-a-quarter-of-new-car-sales-are-electric-vehicles-or-hybrids/",
+      "date": "May 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Climate Energy Environment",
+        "Transportation"
+      ],
+      "summary_en": "In eight countries, at least half of all new cars sold in 2025 were electric or hybrid. The U.S. reached just 10%, well below the global average of 25%.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "In several European countries, EU gets more positive ratings today than during Brexit vote",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/28/in-several-european-countries-eu-gets-more-positive-ratings-today-than-during-brexit-vote/",
+      "date": "May 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "European Union",
+        "International Affairs"
+      ],
+      "summary_en": "EU favorability has risen across Europe since the 2016 Brexit vote, with a median of 62% now viewing the organization positively.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Right-Wing Populism in the Decade Since Brexit",
+      "url": "https://www.pewresearch.org/global/2026/05/28/right-wing-populism-in-the-decade-since-brexit/",
+      "date": "May 28, 2026",
+      "type": "data essay",
+      "categories": [
+        "European Union",
+        "International Political Values",
+        "Populism",
+        "World Leaders"
+      ],
+      "summary_en": "Right-wing populist parties have had a political impact in other European nations over the past decade. These include the Netherlands and Poland, where such parties have led governments or been included in governing coalitions. Still, it’s important to note that right-wing populists have also faced setbacks. In April, for instance, Viktor Orban and his Fidesz […]",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "How much do you know about NATO? Take our quiz",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/27/how-much-do-you-know-about-nato-take-our-quiz/",
+      "date": "May 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Affairs",
+        "Nato"
+      ],
+      "summary_en": "Test your NATO knowledge and see how you compare to U.S. adults. Americans answer half of five factual questions correctly, on average.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "What Political Issues Do Americans Hear About in Church?",
+      "url": "https://www.pewresearch.org/religion/2026/05/27/what-political-issues-do-americans-hear-about-in-church/",
+      "date": "May 27, 2026",
+      "type": "report",
+      "categories": [
+        "Religion",
+        "Religion Abortion",
+        "Religion Lgbtq Acceptance",
+        "Religion Politics 1",
+        "Religion Social Values",
+        "Religious Leaders Institutions"
+      ],
+      "summary_en": "Most U.S. adults who go to religious services say they’ve recently heard from their clergy about at least one political or social issue.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Trading volume on prediction markets has soared in recent months",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/27/trading-volume-on-prediction-markets-has-soared-in-recent-months/",
+      "date": "May 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "Personal Finances",
+        "Sports"
+      ],
+      "summary_en": "Prediction market trading volume has risen from under $5 billion monthly in mid 2025 to nearly $24 billion in April 2026, with sports dominating.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "10 facts about Americans and marijuana",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/26/facts-about-marijuana/",
+      "date": "May 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Drug Policy",
+        "Health Care",
+        "Health Policy",
+        "Medicine Health",
+        "Political Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "Nearly nine-in-ten U.S. adults say marijuana should be legal either for medical or recreational use. Just 11% say the drug should not be legal at all.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-05-28T12:00:20.673434",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The AI literacy paradox: Why students feel unprepared for the AI-driven workforce",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/05/27/the-ai-literacy-paradox-why-students-feel-unprepared-for-the-ai-driven-workforce/",
+      "date": "2026-05-27",
+      "type": "AI in Education",
+      "summary_en": "Colleges and universities nurture student development by offering thousands of learning opportunities, and for most, the experience makes it possible to pursue meaningful careers.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "AI is reshaping entry-level work and the talent pipeline",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/05/25/ai-is-reshaping-entry-level-work-and-the-talent-pipeline/",
+      "date": "2026-05-25",
+      "type": "Career Readiness",
+      "summary_en": "While entry-level hiring is not disappearing entirely, AI is beginning to influence the work traditionally assigned to early career professionals and is increasing expectations for what entry-level workers can produce from day one, according to a new report.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

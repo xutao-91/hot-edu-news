@@ -1,0 +1,35 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-05-28T12:00:07.615885",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "University of Notre Dame releases external investigation report",
+      "url": "https://news.nd.edu/news/university-of-notre-dame-releases-external-investigation-report/",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Notre Dame experts respond to Pope Leo XIV’s encyclical Magnifica humanitas",
+      "url": "https://news.nd.edu/news/notre-dame-experts-respond-to-pope-leo-xivs-encyclical-magnifica-humanitas/",
+      "date": "2026-05-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "religion"
+    },
+    {
+      "title": "Statement from Rev. Robert A. Dowd, C.S.C., on the papal encyclical Magnifica humanitas",
+      "url": "https://news.nd.edu/news/statement-from-rev-robert-a-dowd-c-s-c-on-the-papal-encyclical-magnifica-humanitas/",
+      "date": "2026-05-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "religion"
+    }
+  ]
+}

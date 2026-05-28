@@ -1,0 +1,29 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-05-28T12:00:30.667618",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Powering America’s Future: President Trump’s Policies Fuel Demand for Skilled American Workers",
+      "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
+      "date": "May 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Trump Administration’s Full-Scale War on Fraud",
+      "url": "https://www.whitehouse.gov/releases/2026/05/trump-administrations-full-scale-war-on-fraud/",
+      "date": "May 26, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Missing Children’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/presidential-message-on-national-missing-childrens-day/",
+      "date": "May 25, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}
