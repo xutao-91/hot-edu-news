@@ -1,7 +1,17 @@
 {
   "source": "Notre Dame College of Science",
   "source_url": "https://science.nd.edu/news-and-media/news/",
-  "crawled_at": "2026-05-27T12:00:07.640216",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-27T20:00:06.793128",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Inside a plant geneticist’s journey to Notre Dame",
+      "url": "https://science.nd.edu/news-and-media/news/inside-a-plant-geneticists-journey-to-notre-dame/",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
 }

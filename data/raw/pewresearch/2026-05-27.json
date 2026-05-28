@@ -1,9 +1,39 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-05-27T12:00:07.533597",
-  "total_news": 2,
+  "crawled_at": "2026-05-27T20:00:07.477476",
+  "total_news": 4,
   "news": [
+    {
+      "title": "How much do you know about NATO? Take our quiz",
+      "url": "https://www.pewresearch.org/short-reads/2026/05/27/how-much-do-you-know-about-nato-take-our-quiz/",
+      "date": "May 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Affairs",
+        "Nato"
+      ],
+      "summary_en": "Test your NATO knowledge and see how you compare to U.S. adults. Americans answer half of five factual questions correctly, on average.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "What Political Issues Do Americans Hear About in Church?",
+      "url": "https://www.pewresearch.org/religion/2026/05/27/what-political-issues-do-americans-hear-about-in-church/",
+      "date": "May 27, 2026",
+      "type": "report",
+      "categories": [
+        "Religion",
+        "Religion Abortion",
+        "Religion Lgbtq Acceptance",
+        "Religion Politics 1",
+        "Religion Social Values",
+        "Religious Leaders Institutions"
+      ],
+      "summary_en": "Most U.S. adults who go to religious services say they’ve recently heard from their clergy about at least one political or social issue.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Trading volume on prediction markets has soared in recent months",
       "url": "https://www.pewresearch.org/short-reads/2026/05/27/trading-volume-on-prediction-markets-has-soared-in-recent-months/",

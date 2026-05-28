@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-05-27T12:00:20.145524",
-  "total_news": 1,
+  "crawled_at": "2026-05-27T20:00:18.572198",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Athletic director search begins next phase",
+      "url": "https://news.wisc.edu/athletic-director-search-begins-next-phase/",
+      "date": "May 27, 2026",
+      "type": "News",
+      "summary_en": "Stakeholder listening sessions have concluded and applications will be accepted through June 10.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "State Street, that great street",
       "url": "https://onwisconsin.uwalumni.com/state-street-that-great-street/",

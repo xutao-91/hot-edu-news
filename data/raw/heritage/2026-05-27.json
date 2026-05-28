@@ -1,8 +1,8 @@
 {
   "source": "Heritage Foundation - Education",
   "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-05-27T12:00:20.842329",
-  "total_news": 1,
+  "crawled_at": "2026-05-27T20:00:20.945567",
+  "total_news": 2,
   "news": [
     {
       "title": "The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...",
@@ -12,6 +12,15 @@
       "read_time": "",
       "source": "Heritage Foundation",
       "category": "policy"
+    },
+    {
+      "title": "Blue State Bill Targets Homeschoolers in Latest Government Power Grab",
+      "url": "https://www.heritage.org/parental-rights/commentary/blue-state-bill-targets-homeschoolers-latest-government-power-grab",
+      "date": "May 26, 2026",
+      "type": "Commentary",
+      "read_time": "3 min",
+      "source": "Heritage Foundation",
+      "category": "k12"
     }
   ]
 }

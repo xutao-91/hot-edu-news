@@ -1,7 +1,17 @@
 {
   "source": "Iowa State University News",
   "source_url": "https://www.news.iastate.edu/news-releases",
-  "crawled_at": "2026-05-27T12:00:12.537727",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-27T20:00:14.630088",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Helping Iowa companies build new skills and capabilities through custom education",
+      "url": "https://www.news.iastate.edu/news/helping-iowa-companies-build-new-skills-and-capabilities-through-custom-education",
+      "date": "2026-05-27",
+      "type": "Innovation and Research",
+      "summary_en": "The Ivy Custom Education program led by Iowa State’s Ivy College of Business has become a go‑to partner for Iowa companies and organizations seeking targeted, research‑driven training created to meet their specific needs. Grounded in deep discovery and a listen‑first approach, the collaborative program brings the expertise of Iowa State faculty directly to employers.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
 }
