@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-05-29T12:00:26.920600",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC and UI Health: Reshaping the future of telesurgery",
+      "url": "https://today.uic.edu/uic-and-ui-health-reshaping-the-future-of-telesurgery/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Researchers at UIC and UI Health are challenging accepted beliefs […]",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC doctoral student: Communication leads to leadership",
+      "url": "https://today.uic.edu/uic-doctoral-student-communication-leads-to-leadership/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Brandon Barksdale explains how he developed new programs as president of the Jane Addams College of Social Work student government.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-05-29T12:00:08.784314",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Student Shaped By SLU Earns Fulbright Award",
+      "url": "https://www.slu.edu/news/2026/may/bridget-guerin-fulbright.php",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "Bridget Guerin (A&S '25) has been selected for the prestigious Fulbright U.S. Student Program. The Fulbright Program is the flagship international educational exchange program sponsored by the U.S. government and is designed to increase mutual understanding between the people of the United States and the people of other countries",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "Mark A. Varvares, M.D.: 1958-2026",
+      "url": "https://www.slu.edu/news/2026/may/mark-varvares-obituary.php",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Mark A. Varvares, M.D. (Med '86), a nationally recognized leader in otolaryngology and former director of the Saint Louis University Cancer Center, died May 20, 2026.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-05-29T12:00:29.827552",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "New minor in systems engineering for social good offered at Washington University in St. Louis",
+      "url": "https://engineering.washu.edu/news/2026/New-minor-in-systems-engineering-for-social-good-offered-at-Washington-University-in-St-Louis.html",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "Program will equip students with ability to connect technical decisions with societal outcomes.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Tool to predict crop instability to be developed at WashU, Arizona State",
+      "url": "https://engineering.washu.edu/news/2026/Tool-to-predict-crop-instability-to-be-developed-at-WashU-Arizona-State.html",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "Nathan Jacobs, collaborators win award from Taylor Geospatial.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Yu installed as Art Krieg Professor",
+      "url": "https://engineering.washu.edu/news/2026/Yu-installed-as-Art-Krieg-Professor.html",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "Yu holds a joint appointment in the Department of Biomedical Engineering in McKelvey Engineering.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty"
+    },
+    {
+      "title": "AI model looks for missing pieces to puzzle",
+      "url": "https://engineering.washu.edu/news/2026/AI-model-looks-for-missing-pieces-to-puzzle.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Nathan Jacobs’ lab builds multimodal embedding model.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Samsung grant will fund better energy storage systems",
+      "url": "https://engineering.washu.edu/news/2026/Samsung-grant-will-fund-better-energy-storage-systems.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "WashU’s Sang-Hoon Bae shares grant with MIT to improve electrostatic capacitors.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Ramsay named associate dean of undergraduate programs in McKelvey Engineering",
+      "url": "https://engineering.washu.edu/news/2026/Ramsay-named-associate-dean-of-undergraduate-programs-in-McKelvey-Engineering.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Chris Ramsay returns to McKelvey Engineering; succeeds Chris Kroeger.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
+    {
+      "title": "Environmental Engineering students win three awards at WERC competition",
+      "url": "https://engineering.washu.edu/news/2026/Environmental-Engineering-students-win-three-awards-at-WERC-competition.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Four seniors competed in the 36th annual WERC Environmental Design Contest as a part of their capstone course.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    }
+  ]
+}

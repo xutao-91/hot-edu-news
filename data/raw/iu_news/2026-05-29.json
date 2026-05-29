@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-05-29T12:00:24.669621",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU names executive vice president for university clinical affairs and dean of IU School of Medicine",
+      "url": "https://news.iu.edu/live/news/iu-names-executive-vice-pres-for-university-clinical-affairs",
+      "date": "May 28, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Eskenazi Museum of Art creates engaging field trips for K-12 students from across Indiana",
+      "url": "https://news.iu.edu/live/news/51103-eskenazi-museum-of-art-creates-engaging-field-trips-fo",
+      "date": "May 28, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

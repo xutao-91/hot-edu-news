@@ -1,0 +1,29 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-05-29T12:00:31.041110",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Congressional Bill H.R. 3497 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-h-r-3497-signed-into-law/",
+      "date": "May 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Powering America’s Future: President Trump’s Policies Fuel Demand for Skilled American Workers",
+      "url": "https://www.whitehouse.gov/releases/2026/05/powering-americas-future-president-trumps-policies-fuel-historic-demand-for-skilled-american-workers/",
+      "date": "May 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Trump Administration’s Full-Scale War on Fraud",
+      "url": "https://www.whitehouse.gov/releases/2026/05/trump-administrations-full-scale-war-on-fraud/",
+      "date": "May 26, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

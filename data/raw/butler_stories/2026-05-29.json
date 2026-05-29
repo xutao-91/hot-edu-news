@@ -1,0 +1,48 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-05-29T12:00:30.152647",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "From Performer to Playwright, Sarah Ault ’21 Creates the Work She Wants to See",
+      "url": "https://stories.butler.edu/from-performer-to-playwright-sarah-ault-21-creates-the-work-she-wants-to-see/",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "By the time the lights came up on the first performance of The Lysistrata Project, Sarah Ault ’21 (she/they) was watching something that had lived in her head for years finally come to life. The actors on stage were delivering lines she had written. The audience was reacting to characters she had created. And the…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Meet the Class of 2030: Gwyneth Stroo",
+      "url": "https://stories.butler.edu/meet-the-class-of-2030-gwyneth-stroo/",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "Meet Gwyneth, an incoming nursing student from Illinois.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Meet the Class of 2030: Emma Torrico",
+      "url": "https://stories.butler.edu/meet-the-class-of-2030-emma-torrico/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "Meet Emma, an incoming student from Guatemala.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Inaugural Boston Pharmacy Trek Provides Experiential Career Preparation for Butler Students",
+      "url": "https://stories.butler.edu/inaugural-boston-pharmacy-trek-provides-experiential-career-preparation-for-butler-students/",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "This spring, 16 Butler University Pharmacy students participated in the first-ever Boston Pharmacy Trek, a donor-funded experiential learning trip made possible by Christina and Thomas Grusecki. Over three days during spring break, students visited five major pharmaceutical and biotech companies and interacted with Butler alumni living in the area. The Boston Pharmacy Trek joins a…",
+      "author": "jennifer gunnels",
+      "source": "Butler Stories",
+      "category": "general"
+    }
+  ]
+}

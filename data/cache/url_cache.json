@@ -5620,5 +5620,101 @@
     "fetch_time": "2026-05-28T20:00:30.842999",
     "title": "Congressional Bill H.R. 3497 Signed into Law",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/ostertag-with-expertise-in-rare-diseases-and-ethics-joins-faculty/": {
+    "source": "nd_science",
+    "fetch_time": "2026-05-29T12:00:08.185933",
+    "title": "Ostertag, with expertise in rare diseases and ethics, joins faculty",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/05/washu-att-partnership-helps-teachers-use-educational-tech-tools-effectively/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-29T12:00:15.626068",
+    "title": "WashU, AT&T partnership helps teachers use educational tech tools effectively",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/as-nse-leader-luna-duran-helps-huskers-find-home-at-nebraska-u": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-29T12:00:16.932159",
+    "title": "As NSE leader, Luna-Duran helps Huskers find home at Nebraska U",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/jones-named-fulbright-specialist-at-university-of-agder-in-norway": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-29T12:00:16.932187",
+    "title": "Jones named Fulbright Specialist at University of Agder in Norway",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/21-students-selected-for-nebraska-elite-11-veterinarian-program-cohort": {
+    "source": "unl_news",
+    "fetch_time": "2026-05-29T12:00:16.932198",
+    "title": "21 students selected for Nebraska Elite 11 Veterinarian Program cohort",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/ashley-mcgarrah-to-travel-to-england-through-fulbright-uk-summer-institutes-program/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-05-29T12:00:19.821082",
+    "title": "Ashley McGarrah to travel to England through Fulbright UK Summer Institutes Program",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/05/29/educause-horizon-report-higher-education-leaders/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-05-29T12:00:21.026015",
+    "title": "Higher ed’s warning light is flashing: What the 2026 EDUCAUSE Horizon Report reveals",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-gccs-silicon-carbide-research-partnership": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-05-29T12:00:23.721764",
+    "title": "Purdue, GCCS partner to scale the future of silicon carbide",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-grid-of-tomorrow-consortium-electric-power-grid": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-05-29T12:00:23.721810",
+    "title": "Collaboration Across Disciplines: The Grid of Tomorrow Consortium",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-parking-restrictions-to-increase-ahead-of-world-cup-ARTICLE-RA9PZN-ARTICLE-RA9PZN": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-29T12:00:26.789173",
+    "title": "KU parking restrictions to increase ahead of World Cup",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-department-of-theatre-dance-announces-2026-award-winners": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-29T12:00:26.789199",
+    "title": "KU Department of Theatre & Dance announces 2026 award winners",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/crees-announces-2026-laird-essay-contest-winners-ARTICLE-YYWETR-ARTICLE-YYWETR-ARTICLE-YYWETR": {
+    "source": "ku_news",
+    "fetch_time": "2026-05-29T12:00:26.789210",
+    "title": "CREES announces 2026 Laird Essay Contest winners",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-additional-grant-competition-under-family-engagement-and-school": {
+    "source": "edgov",
+    "fetch_time": "2026-05-29T12:00:27.099003",
+    "title": "U.S. Department of Education and U.S. Department of Health and Human Services Announce Additional Grant Competition Under Family Engagement and School Support Partnership",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnics-xiaonan-lu-discusses-data-center-power-demands-indianapolis-business": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-29T12:00:28.334076",
+    "title": "Purdue Polytechnic's Xiaonan Lu discusses data center power demands with Indianapolis Business Journal",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/05/northwestern-researchers-pitch-ideas-with-environmental-and-health-impact": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-05-29T12:00:29.902003",
+    "title": "Northwestern researchers pitch ideas with environmental and health impact",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71351.html": {
+    "source": "rand",
+    "fetch_time": "2026-05-29T12:00:31.488872",
+    "title": "Strategic Implications of Deploying Artificial Intelligence in Defence",
+    "category": "ai"
   }
 }

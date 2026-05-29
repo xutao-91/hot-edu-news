@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-05-29T12:00:29.546523",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Northwestern researchers pitch ideas with environmental and health impact",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-researchers-pitch-ideas-with-environmental-and-health-impact",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "research"
+    },
+    {
+      "title": "President-elect on campus for a Wildcat weekend",
+      "url": "https://news.northwestern.edu/stories/2026/05/president-elect-mung-chiang-on-campus-for-a-wildcat-weekend",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

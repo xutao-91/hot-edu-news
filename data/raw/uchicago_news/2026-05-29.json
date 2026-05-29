@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-29T12:00:30.567542",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Quantum technology, explained: A Big Brains live event",
+      "url": "https://news.uchicago.edu/big-brains-podcast-quantum-technology-explained-big-brains-live-event",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "David M. Rubenstein, JD’73, extends support of the Rubenstein Scholars Program with $15 million gift",
+      "url": "https://news.uchicago.edu/story/david-m-rubenstein-jd73-extends-support-rubenstein-scholars-program-15-million-gift",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "Since 2010, the Board of Trustees chair has provided a total of $75 million to provide 220 students with full-tuition scholarships",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Daniel Kind awarded 2026 Hugo F. Sonnenschein Medal of Excellence",
+      "url": "https://news.uchicago.edu/story/daniel-kind-awarded-2026-hugo-f-sonnenschein-medal-excellence",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "Fourth-year will receive the College honor on Class Day",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "It’s Becoming Impossible to Know How Your Kid Is Doing in School",
+      "url": "https://www.nytimes.com/2026/05/26/opinion/grades-school-test-scores.html",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "UChicago dedicates data science and AI building in honor of alumni supporters",
+      "url": "https://news.uchicago.edu/story/uchicago-dedicates-data-science-and-ai-building-honor-alumni-supporters",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "The Lorraine and Yuji Suzuki Center is the new home of the Data Science Institute",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Stretchable AI patch computes on your body, no server required",
+      "url": "https://news.uchicago.edu/story/stretchable-ai-patch-computes-your-body-no-server-required",
+      "date": "2026-05-26",
+      "type": "News",
+      "summary_en": "New fabrication method enables large-scale transistor arrays to run AI algorithms in milliseconds, a step toward guiding precision cardiac treatments",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

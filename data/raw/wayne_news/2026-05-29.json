@@ -1,0 +1,17 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-05-29T12:00:15.216505",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Celebrating Excellence in Research & Innovation",
+      "url": "https://research.wayne.edu/news/celebrating-excellence-in-research-innovation-69175",
+      "date": "2026-05-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    }
+  ]
+}
