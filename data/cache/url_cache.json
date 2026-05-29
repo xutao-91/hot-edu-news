@@ -5560,5 +5560,65 @@
     "fetch_time": "2026-05-28T12:00:31.125783",
     "title": "Students Test, Troubleshoot, and Fly at the North Central Aerial Drone Regional Championships, presented by Firefly Drone Shows",
     "category": "education"
+  },
+  "https://www.slu.edu/news/2026/may/bridget-guerin-fulbright.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-05-28T20:00:08.303270",
+    "title": "Student Shaped By SLU Earns Fulbright Award",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/science/2026/05/28/americans-are-increasingly-pessimistic-about-avoiding-the-worst-effects-of-climate-change/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-05-28T20:00:08.456968",
+    "title": "Americans Are Increasingly Pessimistic About Avoiding the Worst Effects of Climate Change",
+    "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/recess-is-crucial-for-education-outcomes-its-time-for-u-s-policy-to-catch-up/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-28T20:00:13.669308",
+    "title": "Recess is crucial for education outcomes: It’s time for U.S. policy to catch up",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/benson-education-plan-up-teacher-pay-tackle-absenteeism-change-constitution/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-05-28T20:00:14.167260",
+    "title": "Benson education plan: Up teacher pay, tackle absenteeism, change constitution",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-senior-advisor-civic-education-katie-gorka-highlights-civics-education-history-rocks-event-maine": {
+    "source": "edgov",
+    "fetch_time": "2026-05-28T20:00:20.254476",
+    "title": "U.S. Department of Education Senior Advisor for Civic Education Katie Gorka Highlights Civics Education at “History Rocks!” Event in Maine",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/presidential-1776-award-special-be-broadcast-tuesday-june-30-cbs": {
+    "source": "edgov",
+    "fetch_time": "2026-05-28T20:00:20.254501",
+    "title": "“PRESIDENTIAL 1776 AWARD” SPECIAL TO BE BROADCAST TUESDAY, JUNE 30 ON CBS",
+    "category": "general"
+  },
+  "https://www.heritage.org/american-history/commentary/losing-and-recovering-our-religion": {
+    "source": "heritage",
+    "fetch_time": "2026-05-28T20:00:20.966646",
+    "title": "Losing—and Recovering—Our Religion",
+    "category": "general"
+  },
+  "https://cse.umn.edu/college/news/cse-student-awarded-2026-zander-alumni-award-outstanding-student-leadership": {
+    "source": "umn_cse",
+    "fetch_time": "2026-05-28T20:00:23.641264",
+    "title": "CSE student awarded 2026 Zander Alumni Award for Outstanding Student Leadership",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/iu-names-executive-vice-pres-for-university-clinical-affairs": {
+    "source": "iu_news",
+    "fetch_time": "2026-05-28T20:00:26.053274",
+    "title": "IU names executive vice president for university clinical affairs and dean of IU School of Medicine",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-h-r-3497-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-28T20:00:30.842999",
+    "title": "Congressional Bill H.R. 3497 Signed into Law",
+    "category": "general"
   }
 }

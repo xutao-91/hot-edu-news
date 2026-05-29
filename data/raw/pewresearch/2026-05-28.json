@@ -1,9 +1,21 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-05-28T12:00:07.414808",
-  "total_news": 7,
+  "crawled_at": "2026-05-28T20:00:07.987536",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Americans Are Increasingly Pessimistic About Avoiding the Worst Effects of Climate Change",
+      "url": "https://www.pewresearch.org/science/2026/05/28/americans-are-increasingly-pessimistic-about-avoiding-the-worst-effects-of-climate-change/",
+      "date": "May 28, 2026",
+      "type": "report",
+      "categories": [
+        "Climate Energy Environment"
+      ],
+      "summary_en": "About six-in-ten Americans say countries around the world, including the U.S., will not do enough to avoid the worst effects of climate change. This growing pessimism is driven by Democrats.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Worldwide, a quarter of new car sales are electric vehicles or hybrids",
       "url": "https://www.pewresearch.org/short-reads/2026/05/28/worldwide-a-quarter-of-new-car-sales-are-electric-vehicles-or-hybrids/",

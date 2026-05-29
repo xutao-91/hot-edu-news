@@ -1,8 +1,8 @@
 {
   "source": "Heritage Foundation - Education",
   "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-05-28T12:00:21.572912",
-  "total_news": 2,
+  "crawled_at": "2026-05-28T20:00:20.395392",
+  "total_news": 3,
   "news": [
     {
       "title": "The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...",
@@ -21,6 +21,15 @@
       "read_time": "3 min",
       "source": "Heritage Foundation",
       "category": "k12"
+    },
+    {
+      "title": "Losing—and Recovering—Our Religion",
+      "url": "https://www.heritage.org/american-history/commentary/losing-and-recovering-our-religion",
+      "date": "May 26, 2026",
+      "type": "Commentary",
+      "read_time": "6 min",
+      "source": "Heritage Foundation",
+      "category": "general"
     }
   ]
 }
