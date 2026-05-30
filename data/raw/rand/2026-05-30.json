@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-05-30T12:00:30.421276",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Strategic Implications of Deploying Artificial Intelligence in Defence",
+      "url": "https://www.rand.org/pubs/external_publications/EP71351.html",
+      "date": "May 29, 2026",
+      "type": "Research",
+      "summary_en": "Examines strategic implications of AI in defence, analyzing how AI could shift the offence-defence balance, accelerate proliferation, empower non-state actors, and intensify great power competition.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Investigating the potential use of frontier AI models for offensive cyberattacks: A human uplift study",
+      "url": "https://www.rand.org/pubs/research_reports/RRA3892-1.html",
+      "date": "May 28, 2026",
+      "type": "Research",
+      "summary_en": "The UK Artificial Intelligence Security Institute (UK AISI) commissioned RAND to conduct a human uplift study to evaluate the impact of AI access on offensive cyber operations among lower-skilled threat actors.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

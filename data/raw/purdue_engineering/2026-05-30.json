@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-05-30T12:00:24.121776",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Purdue, GCCS partner to scale the future of silicon carbide",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-gccs-silicon-carbide-research-partnership",
+      "date": "May 29, 2026",
+      "type": "News",
+      "summary_en": "Joint initiative targets critical thermal and power bottlenecks in global AI infrastructure",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Collaboration Across Disciplines: The Grid of Tomorrow Consortium",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-grid-of-tomorrow-consortium-electric-power-grid",
+      "date": "May 29, 2026",
+      "type": "News",
+      "summary_en": "Researchers, including several from ASPIRE, have founded the Grid of Tomorrow Consortium (GoTC), headquartered at Purdue University, to provide this vital opportunity for multi-disciplinary problem-solving.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ECE's Badesha appointed as President's Fellow",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0528-santokh-badesha-purdue-presidents-fellow-electrical-engineering",
+      "date": "May 28, 2026",
+      "type": "News",
+      "summary_en": "Santokh Badesha, Distinguished Professor in the Elmore Family School of Electrical and Computer Engineering, has been appointed as a President's Fellow in recognition of his numerous and continued professional accomplishments in idea generation, management and protection of intellectual property.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue hosts national IoT4Ag retreat focused on the future of precision agriculture",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0528-purdue-iot4ag-annual-retreat-precision-agriculture",
+      "date": "May 28, 2026",
+      "type": "News",
+      "summary_en": "Purdue University welcomed university researchers, students, industry leaders and the grower community to the 2026 Annual Retreat of the Internet of Things for Precision Agriculture (IoT4Ag) from May 19-21 at the Beck Agricultural Center in West Lafayette and at regional farms in Indiana.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

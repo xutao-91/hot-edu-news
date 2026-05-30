@@ -1,0 +1,17 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-05-30T12:00:12.663419",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Rapid response fueled by Wildcat research",
+      "url": "https://www.k-state.edu/news/articles/2026/05/animal-health-intelligence-summit.html",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "In livestock disease response, timing determines whether an outbreak is contained or cascades through the entire production system. K-State experts presented research on disease response...",
+      "source": "K-State News",
+      "category": "research"
+    }
+  ]
+}

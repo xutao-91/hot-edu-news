@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-05-30T12:00:18.317283",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Hands-on from day one",
+      "url": "https://news.wisc.edu/hands-on-from-day-one/",
+      "date": "May 28, 2026",
+      "type": "News",
+      "summary_en": "UW School of Veterinary Medicine students are building clinical skills early through a curriculum designed around real-world practice.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Athletic director search begins next phase",
+      "url": "https://news.wisc.edu/athletic-director-search-begins-next-phase/",
+      "date": "May 27, 2026",
+      "type": "News",
+      "summary_en": "Stakeholder listening sessions have concluded and applications will be accepted through June 10.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "State Street, that great street",
+      "url": "https://onwisconsin.uwalumni.com/state-street-that-great-street/",
+      "date": "May 27, 2026",
+      "type": "News",
+      "summary_en": "Take a stroll down the iconic corridor, where old favorites meet new trends. Though constantly evolving, State Street remains a vibrant crossroad between the city and the UW–Madison campus.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

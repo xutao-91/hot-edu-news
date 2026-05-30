@@ -5,7 +5,7 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 30 May 2026 06:36:14 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 17:00:36 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
@@ -15,6 +15,26 @@
         <description></description>
         <pubDate>Sat, 30 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.the74million.org/article/ice-raids-caused-enrollment-to-drop-now-districts-are-paying-the-price/</guid>
+        <category>综合</category>
+        <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>Tribal Students in Central Wyoming Release Small Fish in a Big Pond</title>
+        <link>https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/</link>
+        <description></description>
+        <pubDate>Sat, 30 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/</guid>
+        <category>综合</category>
+        <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers</title>
+        <link>https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/</link>
+        <description></description>
+        <pubDate>Sat, 30 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/</guid>
         <category>综合</category>
         <source>the74_news</source>
     </item>
@@ -40,26 +60,6 @@
     </item>
     
     <item>
-        <title>The First School Year Under a Texas Law Targeting LGBTQ+ Students</title>
-        <link>https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/</link>
-        <description></description>
-        <pubDate>Sat, 30 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/</guid>
-        <category>综合</category>
-        <source>the74_news</source>
-    </item>
-    
-    <item>
-        <title>More Megachurches Want To Be Your Alma Mater</title>
-        <link>https://www.the74million.org/article/more-megachurches-want-to-be-your-alma-mater/</link>
-        <description></description>
-        <pubDate>Sat, 30 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/article/more-megachurches-want-to-be-your-alma-mater/</guid>
-        <category>综合</category>
-        <source>the74_news</source>
-    </item>
-    
-    <item>
         <title>The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...</title>
         <link>https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</link>
         <description></description>
@@ -80,6 +80,46 @@
     </item>
     
     <item>
+        <title>From policy to practice: How gender responsive pedagogy can transform classrooms in Zimbabwe</title>
+        <link>https://www.brookings.edu/articles/gender-responsive-pedagogy-zimbabwe/</link>
+        <description></description>
+        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.brookings.edu/articles/gender-responsive-pedagogy-zimbabwe/</guid>
+        <category>policy</category>
+        <source>Brookings Institution</source>
+    </item>
+    
+    <item>
+        <title>What it takes to transform education systems: Reflections from a global symposium on collaborative research and action</title>
+        <link>https://www.brookings.edu/articles/what-it-takes-to-transform-education-systems-reflections-from-a-global-symposium-on-collaborative-research-and-action/</link>
+        <description></description>
+        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.brookings.edu/articles/what-it-takes-to-transform-education-systems-reflections-from-a-global-symposium-on-collaborative-research-and-action/</guid>
+        <category>economy</category>
+        <source>Brookings Institution</source>
+    </item>
+    
+    <item>
+        <title>Where Faith Meets the Global Economy</title>
+        <link>https://mendoza.nd.edu/news/where-faith-meets-the-global-economy/</link>
+        <description></description>
+        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://mendoza.nd.edu/news/where-faith-meets-the-global-economy/</guid>
+        <category>global</category>
+        <source>Mendoza College of Business</source>
+    </item>
+    
+    <item>
+        <title>Inside the U.S. Embassy in London with Sophia Combs</title>
+        <link>https://mendoza.nd.edu/news/inside-the-us-embassy-in-london-with-sophia-combs/</link>
+        <description></description>
+        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://mendoza.nd.edu/news/inside-the-us-embassy-in-london-with-sophia-combs/</guid>
+        <category>综合</category>
+        <source>Mendoza College of Business</source>
+    </item>
+    
+    <item>
         <title>U.S. Department of Education and U.S. Department of Health and Human Services Announce Additional Grant Competition Under Family Engagement and School Support Partnership</title>
         <link>https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-additional-grant-competition-under-family-engagement-and-school</link>
         <description></description>
@@ -95,6 +135,16 @@
         <description></description>
         <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.the74million.org/zero2eight/new-documentary-traces-groundbreaking-career-of-sesame-street-star/</guid>
+        <category>综合</category>
+        <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>The First School Year Under a Texas Law Targeting LGBTQ+ Students</title>
+        <link>https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/</link>
+        <description></description>
+        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/</guid>
         <category>综合</category>
         <source>the74_news</source>
     </item>
@@ -140,6 +190,16 @@
     </item>
     
     <item>
+        <title>Lee named inaugural Selma and Herman Seldin Distinguished Professor of Medicine</title>
+        <link>https://source.washu.edu/2026/05/lee-named-inaugural-selma-and-herman-seldin-distinguished-professor-of-medicine/</link>
+        <description></description>
+        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://source.washu.edu/2026/05/lee-named-inaugural-selma-and-herman-seldin-distinguished-professor-of-medicine/</guid>
+        <category>academic</category>
+        <source>WashU Source</source>
+    </item>
+    
+    <item>
         <title>Ashley McGarrah to travel to England through Fulbright UK Summer Institutes Program</title>
         <link>https://showme.missouri.edu/2026/ashley-mcgarrah-to-travel-to-england-through-fulbright-uk-summer-institutes-program/</link>
         <description></description>
@@ -147,66 +207,6 @@
         <guid isPermaLink="true">https://showme.missouri.edu/2026/ashley-mcgarrah-to-travel-to-england-through-fulbright-uk-summer-institutes-program/</guid>
         <category>综合</category>
         <source>Show Me Mizzou</source>
-    </item>
-    
-    <item>
-        <title>Higher ed’s warning light is flashing: What the 2026 EDUCAUSE Horizon Report reveals</title>
-        <link>https://www.ecampusnews.com/campus-leadership/2026/05/29/educause-horizon-report-higher-education-leaders/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ecampusnews.com/campus-leadership/2026/05/29/educause-horizon-report-higher-education-leaders/</guid>
-        <category>综合</category>
-        <source>eCampus News</source>
-    </item>
-    
-    <item>
-        <title>Purdue, GCCS partner to scale the future of silicon carbide</title>
-        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-gccs-silicon-carbide-research-partnership</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-gccs-silicon-carbide-research-partnership</guid>
-        <category>综合</category>
-        <source>Purdue College of Engineering</source>
-    </item>
-    
-    <item>
-        <title>Collaboration Across Disciplines: The Grid of Tomorrow Consortium</title>
-        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-grid-of-tomorrow-consortium-electric-power-grid</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0529-purdue-grid-of-tomorrow-consortium-electric-power-grid</guid>
-        <category>综合</category>
-        <source>Purdue College of Engineering</source>
-    </item>
-    
-    <item>
-        <title>KU parking restrictions to increase ahead of World Cup</title>
-        <link>https://news.ku.edu/news/article/ku-parking-restrictions-to-increase-ahead-of-world-cup-ARTICLE-RA9PZN-ARTICLE-RA9PZN</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.ku.edu/news/article/ku-parking-restrictions-to-increase-ahead-of-world-cup-ARTICLE-RA9PZN-ARTICLE-RA9PZN</guid>
-        <category>综合</category>
-        <source>KU News</source>
-    </item>
-    
-    <item>
-        <title>KU Department of Theatre & Dance announces 2026 award winners</title>
-        <link>https://news.ku.edu/news/article/ku-department-of-theatre-dance-announces-2026-award-winners</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.ku.edu/news/article/ku-department-of-theatre-dance-announces-2026-award-winners</guid>
-        <category>综合</category>
-        <source>KU News</source>
-    </item>
-    
-    <item>
-        <title>CREES announces 2026 Laird Essay Contest winners</title>
-        <link>https://news.ku.edu/news/article/crees-announces-2026-laird-essay-contest-winners-ARTICLE-YYWETR-ARTICLE-YYWETR-ARTICLE-YYWETR</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.ku.edu/news/article/crees-announces-2026-laird-essay-contest-winners-ARTICLE-YYWETR-ARTICLE-YYWETR-ARTICLE-YYWETR</guid>
-        <category>综合</category>
-        <source>KU News</source>
     </item>
     
 </channel>

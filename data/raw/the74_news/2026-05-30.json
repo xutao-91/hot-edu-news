@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-05-30T01:35:13.642073",
+  "crawled_at": "2026-05-30T12:00:14.904849",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,23 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.590624"
+      "crawled_at": "2026-05-30T12:00:14.655470"
+    },
+    {
+      "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
+      "url": "https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/",
+      "date": "May 30, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-05-30T12:00:14.664648"
+    },
+    {
+      "title": "Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers",
+      "url": "https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/",
+      "date": "May 30, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-05-30T12:00:14.678325"
     },
     {
       "title": "Texas Examines Use of National Teacher Certification for Incentive Pay",
@@ -18,7 +34,7 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.593214"
+      "crawled_at": "2026-05-30T12:00:14.688945"
     },
     {
       "title": "University of Cambridge-Backed Courses to Expand in Indiana High Schools via Grant Funding",
@@ -26,23 +42,7 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.595640"
-    },
-    {
-      "title": "The First School Year Under a Texas Law Targeting LGBTQ+ Students",
-      "url": "https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/",
-      "date": "May 30, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.598760"
-    },
-    {
-      "title": "More Megachurches Want To Be Your Alma Mater",
-      "url": "https://www.the74million.org/article/more-megachurches-want-to-be-your-alma-mater/",
-      "date": "May 30, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.601655"
+      "crawled_at": "2026-05-30T12:00:14.698489"
     },
     {
       "title": "New Documentary Traces Groundbreaking Career of ‘Sesame Street’ Star",
@@ -50,7 +50,23 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.603642"
+      "crawled_at": "2026-05-30T12:00:14.707279"
+    },
+    {
+      "title": "The First School Year Under a Texas Law Targeting LGBTQ+ Students",
+      "url": "https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/",
+      "date": "May 29, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-05-30T12:00:14.716066"
+    },
+    {
+      "title": "More Megachurches Want To Be Your Alma Mater",
+      "url": "https://www.the74million.org/article/more-megachurches-want-to-be-your-alma-mater/",
+      "date": "May 28, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-05-30T12:00:14.724857"
     },
     {
       "title": "Gov. Landry: Teachers Will Avoid Pay Cut, but Not Where He Will Find the Money",
@@ -58,7 +74,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.605646"
+      "crawled_at": "2026-05-30T12:00:14.733320"
     },
     {
       "title": "To Help Teens Get More Sleep, Experts Push for Later School Start Times",
@@ -66,7 +82,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.607748"
+      "crawled_at": "2026-05-30T12:00:14.744826"
     },
     {
       "title": "New Survey of Head Start Providers in 7 States Charts ICE’s Negative Impact",
@@ -74,7 +90,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.609780"
+      "crawled_at": "2026-05-30T12:00:14.747217"
     },
     {
       "title": "4 Kansas School Districts Plan Legal Action Against State for Underfunding Public Education",
@@ -82,7 +98,7 @@
       "date": "May 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.611763"
+      "crawled_at": "2026-05-30T12:00:14.759680"
     },
     {
       "title": "What Do Parents With Young Children Want? A New National Survey Offers a Glimpse",
@@ -90,7 +106,7 @@
       "date": "May 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.613753"
+      "crawled_at": "2026-05-30T12:00:14.778592"
     },
     {
       "title": "Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’",
@@ -98,7 +114,7 @@
       "date": "May 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.615772"
+      "crawled_at": "2026-05-30T12:00:14.785475"
     },
     {
       "title": "Whiteville City Schools in North Carolina Unites Around Literacy Gains",
@@ -106,7 +122,7 @@
       "date": "May 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.617779"
+      "crawled_at": "2026-05-30T12:00:14.794225"
     },
     {
       "title": "Indiana Charters Show More Academic Growth Post-COVID Than Traditional Public Schools",
@@ -114,7 +130,7 @@
       "date": "May 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.619798"
+      "crawled_at": "2026-05-30T12:00:14.808723"
     },
     {
       "title": "A Podcast Studio, 18,000 New Books — How 3 School Librarians Won National Award",
@@ -122,7 +138,7 @@
       "date": "May 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.621819"
+      "crawled_at": "2026-05-30T12:00:14.820064"
     },
     {
       "title": "Trump Childcare Rule that Will Cost Ohioans Goes Final",
@@ -130,7 +146,7 @@
       "date": "May 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.623840"
+      "crawled_at": "2026-05-30T12:00:14.831662"
     },
     {
       "title": "Childcare Advocates Ask for Funds to ‘Sustain What we Have’ Amid Closures, Waitlists",
@@ -138,7 +154,7 @@
       "date": "May 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.625902"
+      "crawled_at": "2026-05-30T12:00:14.843176"
     },
     {
       "title": "Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign",
@@ -146,7 +162,7 @@
       "date": "May 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.627897"
+      "crawled_at": "2026-05-30T12:00:14.855344"
     },
     {
       "title": "L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College",
@@ -154,7 +170,7 @@
       "date": "May 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.629880"
+      "crawled_at": "2026-05-30T12:00:14.866987"
     },
     {
       "title": "Future of Free Childcare for All Families in New Mexico Remains Uncertain",
@@ -162,7 +178,7 @@
       "date": "May 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.631864"
+      "crawled_at": "2026-05-30T12:00:14.869419"
     },
     {
       "title": "Math Interventions Bill Would Now Exempt Some Ohio Schools From Teaching Science of Reading",
@@ -170,7 +186,7 @@
       "date": "May 22, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.633886"
+      "crawled_at": "2026-05-30T12:00:14.880229"
     },
     {
       "title": "Louisiana Gov. Landry Declares Other Government Raises Off-Limits After Teacher Pay Amendment Fails",
@@ -178,7 +194,7 @@
       "date": "May 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.635864"
+      "crawled_at": "2026-05-30T12:00:14.895944"
     },
     {
       "title": "New Study Ties Rx Kids to Decline in Flint Child Welfare Investigations",
@@ -186,23 +202,7 @@
       "date": "May 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.637832"
-    },
-    {
-      "title": "As Trump Backs Off Crackdown, New Deportation Tactic Unnerves Kids and Families",
-      "url": "https://www.the74million.org/article/as-trump-backs-off-crackdown-new-deportation-tactic-unnerves-kids-and-families/",
-      "date": "May 21, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.639806"
-    },
-    {
-      "title": "A Rising Democratic Star Disappoints Teachers’ Unions in Virginia",
-      "url": "https://www.the74million.org/article/a-rising-democratic-star-disappoints-teachers-unions-in-virginia/",
-      "date": "May 20, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-05-30T01:35:13.641777"
+      "crawled_at": "2026-05-30T12:00:14.904433"
     }
   ]
 }
