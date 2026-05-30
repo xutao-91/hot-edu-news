@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-05-29T12:00:14.881674",
-  "total_news": 4,
+  "crawled_at": "2026-05-29T20:00:15.934616",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Lee named inaugural Selma and Herman Seldin Distinguished Professor of Medicine",
+      "url": "https://source.washu.edu/2026/05/lee-named-inaugural-selma-and-herman-seldin-distinguished-professor-of-medicine/",
+      "date": "2026-05-29",
+      "type": "Advancement",
+      "summary_en": "Janet S. Lee, MD, a physician-scientist in the Division of Pulmonary & Critical Care at WashU Medicine, is internationally recognized for groundbreaking research in acute lung injury.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "WashU, AT&T partnership helps teachers use educational tech tools effectively",
       "url": "https://source.washu.edu/2026/05/washu-att-partnership-helps-teachers-use-educational-tech-tools-effectively/",

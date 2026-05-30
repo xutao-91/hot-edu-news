@@ -1,9 +1,27 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-05-29T12:00:12.348741",
-  "total_news": 2,
+  "crawled_at": "2026-05-29T20:00:07.178012",
+  "total_news": 3,
   "news": [
+    {
+      "title": "From policy to practice: How gender responsive pedagogy can transform classrooms in Zimbabwe",
+      "url": "https://www.brookings.edu/articles/gender-responsive-pedagogy-zimbabwe/",
+      "author": "Faith Nkala",
+      "date": "May 29, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "policy"
+    },
+    {
+      "title": "What it takes to transform education systems: Reflections from a global symposium on collaborative research and action",
+      "url": "https://www.brookings.edu/articles/what-it-takes-to-transform-education-systems-reflections-from-a-global-symposium-on-collaborative-research-and-action/",
+      "author": "Arushi Sharma",
+      "date": "May 29, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "economy"
+    },
     {
       "title": "Recess is crucial for education outcomes: It’s time for U.S. policy to catch up",
       "url": "https://www.brookings.edu/articles/recess-is-crucial-for-education-outcomes-its-time-for-u-s-policy-to-catch-up/",
@@ -12,15 +30,6 @@
       "summary_en": "",
       "source": "Brookings Institution",
       "category": "policy"
-    },
-    {
-      "title": "2 members of Congress on improving American education",
-      "url": "https://www.brookings.edu/articles/two-members-of-congress-on-improving-american-education/",
-      "author": "Rep. Kevin Kiley, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRep. Mark Takano, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRashawn Ray",
-      "date": "May 27, 2026",
-      "summary_en": "",
-      "source": "Brookings Institution",
-      "category": "general"
     }
   ]
 }

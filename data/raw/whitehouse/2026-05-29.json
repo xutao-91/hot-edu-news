@@ -1,9 +1,51 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-05-29T12:00:31.041110",
-  "total_news": 3,
+  "crawled_at": "2026-05-29T20:00:32.124956",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Realigning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/realigning-united-states-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/",
+      "date": "May 29, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Realigns U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-realigns-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/",
+      "date": "May 29, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bill S. 4530 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-4530-signed-into-law/",
+      "date": "May 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Approving Critical Position Pay Authority for National Security Investment Workforce",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/approving-critical-position-pay-authority-for-national-security-investment-workforce/",
+      "date": "May 29, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/05/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/",
+      "date": "May 29, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Removes Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-removes-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/",
+      "date": "May 29, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
     {
       "title": "Congressional Bill H.R. 3497 Signed into Law",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-h-r-3497-signed-into-law/",

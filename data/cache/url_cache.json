@@ -5716,5 +5716,101 @@
     "fetch_time": "2026-05-29T12:00:31.488872",
     "title": "Strategic Implications of Deploying Artificial Intelligence in Defence",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/gender-responsive-pedagogy-zimbabwe/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-29T20:00:07.743955",
+    "title": "From policy to practice: How gender responsive pedagogy can transform classrooms in Zimbabwe",
+    "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/what-it-takes-to-transform-education-systems-reflections-from-a-global-symposium-on-collaborative-research-and-action/": {
+    "source": "brookings",
+    "fetch_time": "2026-05-29T20:00:07.743982",
+    "title": "What it takes to transform education systems: Reflections from a global symposium on collaborative research and action",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/where-faith-meets-the-global-economy/": {
+    "source": "mendoza",
+    "fetch_time": "2026-05-29T20:00:12.823056",
+    "title": "Where Faith Meets the Global Economy",
+    "category": "ai"
+  },
+  "https://mendoza.nd.edu/news/inside-the-us-embassy-in-london-with-sophia-combs/": {
+    "source": "mendoza",
+    "fetch_time": "2026-05-29T20:00:12.823080",
+    "title": "Inside the U.S. Embassy in London with Sophia Combs",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/05/lee-named-inaugural-selma-and-herman-seldin-distinguished-professor-of-medicine/": {
+    "source": "washu_source",
+    "fetch_time": "2026-05-29T20:00:16.442129",
+    "title": "Lee named inaugural Selma and Herman Seldin Distinguished Professor of Medicine",
+    "category": "semiconductor"
+  },
+  "https://oneill.indiana.edu/news/2026-0529-deslatte-indiana-energy-playbook.html": {
+    "source": "oneill",
+    "fetch_time": "2026-05-29T20:00:27.564802",
+    "title": "O'Neill students produce guidebook to help Indiana communities reduce energy costs",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-law-recognized-for-innovation-access-and-experiential-learning/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-29T20:00:28.435060",
+    "title": "UIC Law recognized for innovation, access and experiential learning",
+    "category": "education"
+  },
+  "https://today.uic.edu/school-of-architecture-appoints-new-director/": {
+    "source": "uic_today",
+    "fetch_time": "2026-05-29T20:00:28.435087",
+    "title": "School of Architecture appoints new director",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-students-develop-crucial-tools-city-government-industry-partners": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-05-29T20:00:29.778021",
+    "title": "Purdue Polytechnic students develop crucial tools for city government, industry partners, universities through 16-week real-world projects",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/booth-google-alum-learns-lead-ai-innovation": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-05-29T20:00:32.211748",
+    "title": "From Booth to Google: An alum learns to lead AI innovation",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/realigning-united-states-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-29T20:00:32.390087",
+    "title": "Realigning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-realigns-u-s-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-29T20:00:32.390118",
+    "title": "Fact Sheet: President Donald J. Trump Realigns U.S. Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/05/congressional-bill-s-4530-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-29T20:00:32.390130",
+    "title": "Congressional Bill S. 4530 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/approving-critical-position-pay-authority-for-national-security-investment-workforce/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-29T20:00:32.390140",
+    "title": "Approving Critical Position Pay Authority for National Security Investment Workforce",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/05/removing-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-29T20:00:32.390151",
+    "title": "Removing Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/05/fact-sheet-president-donald-j-trump-removes-unnecessary-and-counterproductive-restrictions-on-access-to-federal-lands/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-05-29T20:00:32.390161",
+    "title": "Fact Sheet: President Donald J. Trump Removes Unnecessary and Counterproductive Restrictions on Access to Federal Lands",
+    "category": "semiconductor"
   }
 }
