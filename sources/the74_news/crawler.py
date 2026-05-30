@@ -6,7 +6,7 @@ import os
 from datetime import datetime, timedelta
 
 # 配置
-BASE_URL = "https://www.the74million.org/tag/artificial-intelligence/"
+BASE_URL = "https://www.the74million.org/news/"
 SOURCE_NAME = "the74_news"
 DAYS_TO_FETCH = 4
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../data/raw/the74_news/")
