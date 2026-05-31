@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-05-31T12:00:30.040537",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "From Booth to Google: An alum learns to lead AI innovation",
+      "url": "https://news.uchicago.edu/story/booth-google-alum-learns-lead-ai-innovation",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "Satyajeet Salgar, MBA’07, reflects on how UChicago prepared him for nearly two decades of innovation at a tech giant",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Quantum technology, explained: A Big Brains live event",
+      "url": "https://news.uchicago.edu/big-brains-podcast-quantum-technology-explained-big-brains-live-event",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "David M. Rubenstein, JD’73, extends support of the Rubenstein Scholars Program with $15 million gift",
+      "url": "https://news.uchicago.edu/story/david-m-rubenstein-jd73-extends-support-rubenstein-scholars-program-15-million-gift",
+      "date": "2026-05-28",
+      "type": "News",
+      "summary_en": "Since 2010, the Board of Trustees chair has provided a total of $75 million to provide 220 students with full-tuition scholarships",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

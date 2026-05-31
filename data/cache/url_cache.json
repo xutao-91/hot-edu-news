@@ -5974,5 +5974,17 @@
     "fetch_time": "2026-05-30T20:00:24.927192",
     "title": "Remembering Collin Maher",
     "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/04/honkmobile-app-kstate-parking.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-05-31T12:00:12.835156",
+    "title": "Pay for parking on the go with HonkMobile",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/maryland-schoolyard-farm-showcases-community-resilience/": {
+    "source": "the74_news",
+    "fetch_time": "2026-05-31T12:00:18.977466",
+    "title": "Maryland Schoolyard Farm Showcases Community Resilience",
+    "category": "education"
   }
 }

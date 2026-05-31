@@ -1,0 +1,26 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-05-31T12:00:12.931229",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Where Faith Meets the Global Economy",
+      "url": "https://mendoza.nd.edu/news/where-faith-meets-the-global-economy/",
+      "date": "May 29, 2026",
+      "type": "News",
+      "summary_en": "Father Oliver Williams’ lifelong mission has been to prove that ethical conviction belongs at the heart of business.",
+      "source": "Mendoza College of Business",
+      "category": "global"
+    },
+    {
+      "title": "Inside the U.S. Embassy in London with Sophia Combs",
+      "url": "https://mendoza.nd.edu/news/inside-the-us-embassy-in-london-with-sophia-combs/",
+      "date": "May 29, 2026",
+      "type": "News",
+      "summary_en": "Notre Dame undergraduate student Sophia Combs applies her business education to global diplomatic relations.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}
