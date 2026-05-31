@@ -1,7 +1,18 @@
 {
   "source": "Student Life (WashU)",
   "source_url": "https://www.studlife.com/news",
-  "crawled_at": "2026-05-30T12:00:25.059660",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-05-30T20:00:24.470811",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Remembering Collin Maher",
+      "url": "https://www.studlife.com/news/2026/05/30/remembering-collin-maher",
+      "date": "2026-05-30",
+      "type": "News",
+      "summary_en": "Collin Maher, who completed his first year in the College of Arts & Sciences, died by suicide on Friday, May 15, 2026. He was 19 years old.",
+      "author": "Tanvi Gorre",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
 }
