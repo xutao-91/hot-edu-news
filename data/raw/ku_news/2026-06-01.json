@@ -1,0 +1,71 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-01T12:00:27.524749",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "University of Kansas launches Center for Workplace Excellence to empower organizations across Kansas City",
+      "url": "https://news.ku.edu/news/article/university-of-kansas-launches-center-for-workplace-excellence-to-empower-organizations-across-kansas-city-ARTICLE-GC33XH-ARTICLE-GC33XH-ARTICLE-GC33XH",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "The Center for Workplace Excellence supports career development in the Greater Kansas City area, helping businesses and nonprofit organizations strengthen workforce skills, improve organizational effectiveness and navigate today’s rapidly changing workplace environment.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Student Affairs announces return of Homecoming Parade",
+      "url": "https://news.ku.edu/news/article/ku-student-affairs-announces-return-of-homecoming-parade-ARTICLE-X9893K-ARTICLE-X9893K-ARTICLE-X9893K",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "The first University of Kansas Homecoming parade in seven years will take place Oct. 23, part of the 2026 Homecoming events. The parade will be led by Student Affairs in partnership with KU Alumni, Kansas Athletics Inc. and Jayhawk Community Partners.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Kansas science teachers to take part in immersive program at KU Field Station",
+      "url": "https://news.ku.edu/news/article/kansas-science-teachers-to-take-part-in-immersive-program-at-ku-field-station-ARTICLE-G1T4X3",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Ten secondary school science teachers from Kansas will converge this week at the University of Kansas Field Station, just north of Lawrence. They’ll take part in the Ecosystems of Kansas Summer Institute, an annual immersive program that gives secondary educators the chance to work with KU scientists to explore resources and gain new ideas for their classrooms.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Love of language and libraries leads KU graduate to Rubinstein/Mason scholarship",
+      "url": "https://news.ku.edu/news/article/love-of-language-and-libraries-leads-ku-graduate-to-rubinstein/mason-scholarship-ARTICLE-PKNQ3H-ARTICLE-PKNQ3H",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "What started as a fondness for libraries and a curiosity about Korean hangul — the writing system and alphabet used for Korean language — has grown into a calling. University of Kansas graduate Daphne Tibbetts has been selected as the recipient of the 2026 Rubinstein/Mason Award to support graduate study in library science, with her sights set on becoming a Korean studies librarian.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU parking restrictions to increase ahead of World Cup",
+      "url": "https://news.ku.edu/news/article/ku-parking-restrictions-to-increase-ahead-of-world-cup-ARTICLE-RA9PZN-ARTICLE-RA9PZN",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "This summer, the University of Kansas will require a valid parking permit for all Lawrence campus lots, including those zoned for housing. Overnight parking on campus will also require a valid permit.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Department of Theatre & Dance announces 2026 award winners",
+      "url": "https://news.ku.edu/news/article/ku-department-of-theatre-dance-announces-2026-award-winners",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "The Department of Theatre & Dance's creative, public-facing work and scholarship culminated in an awards ceremony earlier this month where 30 Jayhawks received departmental honors, including students from the Lawrence, Topeka, Overland Park, Shawnee, Wichita and Kansas City areas.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "CREES announces 2026 Laird Essay Contest winners",
+      "url": "https://news.ku.edu/news/article/crees-announces-2026-laird-essay-contest-winners-ARTICLE-YYWETR-ARTICLE-YYWETR-ARTICLE-YYWETR",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "University of Kansas students Naomi Galindo and Dagan Fultz have won the graduate and undergraduate divisions of the contest for their entries in the annual Laird Essay Contest, sponsored by the Center for Russian, East European & Eurasian Studies.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

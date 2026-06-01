@@ -1,0 +1,17 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-01T12:00:29.790929",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Model uses real image to train AI to look for fakes",
+      "url": "https://engineering.washu.edu/news/2026/Model-uses-real-image-to-train-AI-to-look-for-fakes.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Nathan Jacobs’ lab tackles detecting AI-generated images with the real thing.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-01T12:00:20.324287",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Reflections on Magnifica Humanitas for college and university instructors",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/06/01/reflections-on-magnifica-humanitas-for-college-and-university-instructors/",
+      "date": "2026-06-01",
+      "type": "AI in Education",
+      "summary_en": "If you have been following recent discussion of Pope Leo XIV’s first papal encyclical, Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence, you have likely already seen its importance for educators navigating the cultural, digital, ethical, and social changes driven by generative artificial intelligence (AI).",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Higher ed’s warning light is flashing: What the 2026 EDUCAUSE Horizon Report reveals",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/05/29/educause-horizon-report-higher-education-leaders/",
+      "date": "2026-05-29",
+      "type": "Policy",
+      "summary_en": "Higher education leaders often overlook major reports because the sector is already overwhelmed by reports, dashboards, compliance notices, strategic plans, and technology forecasts.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

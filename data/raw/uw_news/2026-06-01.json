@@ -1,0 +1,17 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-01T12:00:19.259934",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "What’s the tick forecast?",
+      "url": "https://www.med.wisc.edu/news/tick-risk-forecasting-research/",
+      "date": "June 1, 2026",
+      "type": "News",
+      "summary_en": "New research from the University of Wisconsin School of Medicine and Public Health tracks tick distribution and rising disease risk across Wisconsin.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

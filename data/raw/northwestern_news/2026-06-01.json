@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-06-01T12:00:29.185226",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://news.northwestern.edu/stories/2026/06/biohub-releases-a-world-model-of-protein-biology",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern researchers pitch ideas with environmental and health impact",
+      "url": "https://news.northwestern.edu/stories/2026/05/northwestern-researchers-pitch-ideas-with-environmental-and-health-impact",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "research"
+    }
+  ]
+}

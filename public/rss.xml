@@ -5,16 +5,46 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 01 Jun 2026 01:00:35 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:00:34 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-        <title>Pay for parking on the go with HonkMobile</title>
-        <link>https://www.k-state.edu/news/articles/2026/04/honkmobile-app-kstate-parking.html</link>
+        <title>StoryCorps founder, K‑State common read author to visit campus Sept. 29</title>
+        <link>https://www.k-state.edu/news/articles/2026/06/dave-isay-callings-common-read-author-visit.html</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/04/honkmobile-app-kstate-parking.html</guid>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/06/dave-isay-callings-common-read-author-visit.html</guid>
+        <category>综合</category>
+        <source>K-State News</source>
+    </item>
+    
+    <item>
+        <title>People with Purpose: Cassie Jones</title>
+        <link>https://www.k-state.edu/news/articles/2026/05/cassie-jones-advances-agriculture-leaders.html</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/05/cassie-jones-advances-agriculture-leaders.html</guid>
+        <category>综合</category>
+        <source>K-State News</source>
+    </item>
+    
+    <item>
+        <title>Foraging solutions in foreign fields</title>
+        <link>https://www.k-state.edu/news/articles/2026/06/romulo-lollato-john-kirkegaard-fulbright-australia-wheat-research.html</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/06/romulo-lollato-john-kirkegaard-fulbright-australia-wheat-research.html</guid>
+        <category>综合</category>
+        <source>K-State News</source>
+    </item>
+    
+    <item>
+        <title>Detection at the nanoscale</title>
+        <link>https://www.k-state.edu/news/articles/2026/06/suprem-das-sensor-patent.html</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/06/suprem-das-sensor-patent.html</guid>
         <category>综合</category>
         <source>K-State News</source>
     </item>
@@ -23,8 +53,18 @@
         <title>ICE Raids Caused Enrollment to Drop. Now Districts Are Paying the Price</title>
         <link>https://www.the74million.org/article/ice-raids-caused-enrollment-to-drop-now-districts-are-paying-the-price/</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.the74million.org/article/ice-raids-caused-enrollment-to-drop-now-districts-are-paying-the-price/</guid>
+        <category>综合</category>
+        <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>Oklahoma’s Schools Are Some of the Worst in the Nation. Can They Recover?</title>
+        <link>https://www.the74million.org/article/oklahomas-schools-are-some-of-the-worst-in-the-nation-can-they-recover/</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/article/oklahomas-schools-are-some-of-the-worst-in-the-nation-can-they-recover/</guid>
         <category>综合</category>
         <source>the74_news</source>
     </item>
@@ -33,7 +73,7 @@
         <title>Maryland Schoolyard Farm Showcases Community Resilience</title>
         <link>https://www.the74million.org/article/maryland-schoolyard-farm-showcases-community-resilience/</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.the74million.org/article/maryland-schoolyard-farm-showcases-community-resilience/</guid>
         <category>综合</category>
         <source>the74_news</source>
@@ -43,7 +83,7 @@
         <title>Tribal Students in Central Wyoming Release Small Fish in a Big Pond</title>
         <link>https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.the74million.org/article/tribal-students-in-central-wyoming-release-small-fish-in-a-big-pond/</guid>
         <category>综合</category>
         <source>the74_news</source>
@@ -53,160 +93,120 @@
         <title>Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers</title>
         <link>https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/</guid>
         <category>综合</category>
         <source>the74_news</source>
     </item>
     
     <item>
-        <title>Texas Examines Use of National Teacher Certification for Incentive Pay</title>
-        <link>https://www.the74million.org/article/texas-examines-use-of-national-teacher-certification-for-incentive-pay/</link>
+        <title>Many Parents Talk About Delaying Kindergarten. Few Actually Do It</title>
+        <link>https://www.the74million.org/zero2eight/many-parents-talk-about-delaying-kindergarten-few-actually-do-it/</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/article/texas-examines-use-of-national-teacher-certification-for-incentive-pay/</guid>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/zero2eight/many-parents-talk-about-delaying-kindergarten-few-actually-do-it/</guid>
         <category>综合</category>
         <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>Hands-on precision ag lessons yield ‘aha’ moments for Iowa high school students</title>
+        <link>https://www.news.iastate.edu/news/hands-precision-ag-lessons-yield-aha-moments-iowa-high-school-students</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.news.iastate.edu/news/hands-precision-ag-lessons-yield-aha-moments-iowa-high-school-students</guid>
+        <category>students</category>
+        <source>Iowa State News</source>
+    </item>
+    
+    <item>
+        <title>Jaclyn Hauben x’28 wins Pacific Life’s continent-wide AI competition</title>
+        <link>https://cdis.wisc.edu/jaclyn-hauben-x28-wins-pacific-lifes-continent-wide-ai-competition/</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://cdis.wisc.edu/jaclyn-hauben-x28-wins-pacific-lifes-continent-wide-ai-competition/</guid>
+        <category>综合</category>
+        <source>UW-Madison CDIS</source>
+    </item>
+    
+    <item>
+        <title>129 Huskers receive stipends for summer research projects</title>
+        <link>https://news.unl.edu/article/129-huskers-receive-stipends-for-summer-research-projects</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.unl.edu/article/129-huskers-receive-stipends-for-summer-research-projects</guid>
+        <category>alumni</category>
+        <source>UNL News</source>
+    </item>
+    
+    <item>
+        <title>Mizzou releases spring 2026 dean’s list</title>
+        <link>https://showme.missouri.edu/2026/mizzou-releases-spring-2026-deans-list/</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://showme.missouri.edu/2026/mizzou-releases-spring-2026-deans-list/</guid>
+        <category>综合</category>
+        <source>Show Me Mizzou</source>
+    </item>
+    
+    <item>
+        <title>Mizzou’s Gustin Golf Course supports wildlife and learning</title>
+        <link>https://showme.missouri.edu/2026/mizzous-gustin-golf-course-supports-wildlife-and-learning/</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://showme.missouri.edu/2026/mizzous-gustin-golf-course-supports-wildlife-and-learning/</guid>
+        <category>综合</category>
+        <source>Show Me Mizzou</source>
+    </item>
+    
+    <item>
+        <title>What’s the tick forecast?</title>
+        <link>https://www.med.wisc.edu/news/tick-risk-forecasting-research/</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.med.wisc.edu/news/tick-risk-forecasting-research/</guid>
+        <category>综合</category>
+        <source>UW-Madison News</source>
+    </item>
+    
+    <item>
+        <title>Reflections on Magnifica Humanitas for college and university instructors</title>
+        <link>https://www.ecampusnews.com/ai-in-education/2026/06/01/reflections-on-magnifica-humanitas-for-college-and-university-instructors/</link>
+        <description></description>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.ecampusnews.com/ai-in-education/2026/06/01/reflections-on-magnifica-humanitas-for-college-and-university-instructors/</guid>
+        <category>高等教育</category>
+        <source>eCampus News</source>
     </item>
     
     <item>
         <title>The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...</title>
         <link>https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</link>
         <description></description>
-        <pubDate>Sun, 31 May 2026 05:00:00 -0000</pubDate>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</guid>
         <category>policy</category>
         <source>Heritage Foundation</source>
     </item>
     
     <item>
-        <title>Remembering Collin Maher</title>
-        <link>https://www.studlife.com/news/2026/05/30/remembering-collin-maher</link>
+        <title>Augustana Alumnae Rally Around Friend, Classmate in Her Final Year</title>
+        <link>https://www.augie.edu/news/2026/augustana-alumnae-rally-around-friend-classmate-her-final-year</link>
         <description></description>
-        <pubDate>Sat, 30 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.studlife.com/news/2026/05/30/remembering-collin-maher</guid>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.augie.edu/news/2026/augustana-alumnae-rally-around-friend-classmate-her-final-year</guid>
         <category>综合</category>
-        <source>Student Life</source>
+        <source>Augustana News</source>
     </item>
     
     <item>
-        <title>Ostertag, with expertise in rare diseases and ethics, joins faculty</title>
-        <link>https://science.nd.edu/news-and-media/news/ostertag-with-expertise-in-rare-diseases-and-ethics-joins-faculty/</link>
+        <title>John Pizzarelli Trio to Perform at June Jazz for 30th Anniversary Concert on June 20</title>
+        <link>https://www.elmhurst.edu/news/john-pizzarelli-trio-to-perform-at-june-jazz-for-30th-anniversary-concert-on-june-20/</link>
         <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://science.nd.edu/news-and-media/news/ostertag-with-expertise-in-rare-diseases-and-ethics-joins-faculty/</guid>
+        <pubDate>Mon, 01 Jun 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.elmhurst.edu/news/john-pizzarelli-trio-to-perform-at-june-jazz-for-30th-anniversary-concert-on-june-20/</guid>
         <category>综合</category>
-        <source>Notre Dame College of Science</source>
-    </item>
-    
-    <item>
-        <title>From policy to practice: How gender responsive pedagogy can transform classrooms in Zimbabwe</title>
-        <link>https://www.brookings.edu/articles/gender-responsive-pedagogy-zimbabwe/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.brookings.edu/articles/gender-responsive-pedagogy-zimbabwe/</guid>
-        <category>policy</category>
-        <source>Brookings Institution</source>
-    </item>
-    
-    <item>
-        <title>What it takes to transform education systems: Reflections from a global symposium on collaborative research and action</title>
-        <link>https://www.brookings.edu/articles/what-it-takes-to-transform-education-systems-reflections-from-a-global-symposium-on-collaborative-research-and-action/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.brookings.edu/articles/what-it-takes-to-transform-education-systems-reflections-from-a-global-symposium-on-collaborative-research-and-action/</guid>
-        <category>economy</category>
-        <source>Brookings Institution</source>
-    </item>
-    
-    <item>
-        <title>Where Faith Meets the Global Economy</title>
-        <link>https://mendoza.nd.edu/news/where-faith-meets-the-global-economy/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://mendoza.nd.edu/news/where-faith-meets-the-global-economy/</guid>
-        <category>global</category>
-        <source>Mendoza College of Business</source>
-    </item>
-    
-    <item>
-        <title>Inside the U.S. Embassy in London with Sophia Combs</title>
-        <link>https://mendoza.nd.edu/news/inside-the-us-embassy-in-london-with-sophia-combs/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://mendoza.nd.edu/news/inside-the-us-embassy-in-london-with-sophia-combs/</guid>
-        <category>综合</category>
-        <source>Mendoza College of Business</source>
-    </item>
-    
-    <item>
-        <title>U.S. Department of Education and U.S. Department of Health and Human Services Announce Additional Grant Competition Under Family Engagement and School Support Partnership</title>
-        <link>https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-additional-grant-competition-under-family-engagement-and-school</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-health-and-human-services-announce-additional-grant-competition-under-family-engagement-and-school</guid>
-        <category>K-12教育</category>
-        <source>U.S. Department of Education</source>
-    </item>
-    
-    <item>
-        <title>University of Cambridge-Backed Courses to Expand in Indiana High Schools via Grant Funding</title>
-        <link>https://www.the74million.org/article/university-of-cambridge-backed-courses-to-expand-in-indiana-high-schools-via-grant-funding/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/article/university-of-cambridge-backed-courses-to-expand-in-indiana-high-schools-via-grant-funding/</guid>
-        <category>综合</category>
-        <source>the74_news</source>
-    </item>
-    
-    <item>
-        <title>New Documentary Traces Groundbreaking Career of ‘Sesame Street’ Star</title>
-        <link>https://www.the74million.org/zero2eight/new-documentary-traces-groundbreaking-career-of-sesame-street-star/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/zero2eight/new-documentary-traces-groundbreaking-career-of-sesame-street-star/</guid>
-        <category>综合</category>
-        <source>the74_news</source>
-    </item>
-    
-    <item>
-        <title>The First School Year Under a Texas Law Targeting LGBTQ+ Students</title>
-        <link>https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.the74million.org/article/the-first-school-year-under-a-texas-law-targeting-lgbtq-students/</guid>
-        <category>综合</category>
-        <source>the74_news</source>
-    </item>
-    
-    <item>
-        <title>As NSE leader, Luna-Duran helps Huskers find home at Nebraska U</title>
-        <link>https://news.unl.edu/article/as-nse-leader-luna-duran-helps-huskers-find-home-at-nebraska-u</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.unl.edu/article/as-nse-leader-luna-duran-helps-huskers-find-home-at-nebraska-u</guid>
-        <category>alumni</category>
-        <source>UNL News</source>
-    </item>
-    
-    <item>
-        <title>Jones named Fulbright Specialist at University of Agder in Norway</title>
-        <link>https://news.unl.edu/article/jones-named-fulbright-specialist-at-university-of-agder-in-norway</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.unl.edu/article/jones-named-fulbright-specialist-at-university-of-agder-in-norway</guid>
-        <category>综合</category>
-        <source>UNL News</source>
-    </item>
-    
-    <item>
-        <title>21 students selected for Nebraska Elite 11 Veterinarian Program cohort</title>
-        <link>https://news.unl.edu/article/21-students-selected-for-nebraska-elite-11-veterinarian-program-cohort</link>
-        <description></description>
-        <pubDate>Fri, 29 May 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.unl.edu/article/21-students-selected-for-nebraska-elite-11-veterinarian-program-cohort</guid>
-        <category>综合</category>
-        <source>UNL News</source>
+        <source>Elmhurst News</source>
     </item>
     
 </channel>
