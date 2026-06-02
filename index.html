@@ -50,7 +50,7 @@
                         <i class="fa fa-newspaper-o"></i> 热点教育信息
                     </h1>
                     <p class="text-blue-100 mt-1 text-sm md:text-base">
-                        共 <span class="font-bold">107</span> 篇文章 | 最近更新: 2026-06-01 20:00:35
+                        共 <span class="font-bold">107</span> 篇文章 | 最近更新: 2026-06-01 22:32:34
                         <a href="rss.xml" target="_blank" class="ml-3 text-yellow-300 hover:text-yellow-100 transition-colors" title="RSS订阅">
                             <i class="fa fa-rss"></i> 订阅
                         </a>
@@ -3567,7 +3567,7 @@
         </div>
 
         <!-- 分页控件 -->
-        <div class="flex justify-center mb-8">
+        <div class="flex flex-col items-center gap-3 mb-8">
             <div class="inline-flex rounded-md shadow-sm" id="pagination">
                 <button onclick="prevPage()" class="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-l-lg hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed" id="prevBtn" disabled>
                     <i class="fa fa-chevron-left mr-1"></i> 上一页
@@ -3575,8 +3575,18 @@
                 <span class="px-4 py-2 text-sm font-medium text-gray-700 bg-white border-t border-b border-gray-300" id="pageInfo">
                     第 1 页 / 共 1 页
                 </span>
-                <button onclick="nextPage()" class="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-r-lg hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed" id="nextBtn" disabled>
+                <button onclick="nextPage()" class="px-4 py-2 text-sm font-medium text-gray-700 bg-white border border-gray-300 hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed" id="nextBtn" disabled>
                     下一页 <i class="fa fa-chevron-right ml-1"></i>
+                </button>
+            </div>
+            <div class="inline-flex items-center gap-2 text-sm text-gray-600" id="jumpToPage">
+                <span>跳至</span>
+                <input type="number" id="pageJumpInput" min="1" value="1"
+                    class="w-16 px-2 py-1.5 text-center border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-secondary"
+                    onkeydown="if(event.key==='Enter') goToPage()">
+                <span id="pageJumpTotal">/ 1 页</span>
+                <button onclick="goToPage()" class="px-3 py-1.5 bg-secondary text-white rounded-md hover:bg-primary transition-colors text-xs">
+                    确定
                 </button>
             </div>
         </div>
@@ -3692,6 +3702,11 @@
             const totalPages = Math.ceil(filteredArticles.length / pageSize);
             document.getElementById('pageInfo').textContent = `第 ${currentPage} 页 / 共 ${totalPages} 页`;
             document.getElementById('visibleCount').textContent = filteredArticles.length;
+            // 同步跳转控件
+            const jumpInput = document.getElementById('pageJumpInput');
+            const jumpTotal = document.getElementById('pageJumpTotal');
+            if (jumpInput) jumpInput.value = currentPage;
+            if (jumpTotal) jumpTotal.textContent = `/ ${totalPages} 页`;
             
             // 更新按钮状态
             document.getElementById('prevBtn').disabled = currentPage <= 1;
@@ -3742,6 +3757,22 @@
                 // 滚动到顶部
                 window.scrollTo({ top: 0, behavior: 'smooth' });
             }
+        }
+
+        // 跳转到指定页
+        function goToPage() {
+            const input = document.getElementById('pageJumpInput');
+            const totalPages = Math.ceil(filteredArticles.length / pageSize);
+            let page = parseInt(input.value);
+            if (isNaN(page) || page < 1) page = 1;
+            if (page > totalPages) page = totalPages;
+            if (page !== currentPage) {
+                currentPage = page;
+                updatePagination();
+                renderPage();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+            input.value = page;
         }
 
         // 重置筛选
