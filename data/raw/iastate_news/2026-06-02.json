@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-02T12:00:14.393155",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Hands-on precision ag lessons yield ‘aha’ moments for Iowa high school students",
+      "url": "https://www.news.iastate.edu/news/hands-precision-ag-lessons-yield-aha-moments-iowa-high-school-students",
+      "date": "2026-06-01",
+      "type": "Agriculture",
+      "summary_en": "A program sponsored by Iowa State University’s Digital Ag Innovation Lab provides Iowa ag teachers the training, tools and curriculum to introduce high school students to the basics of precision agriculture.",
+      "source": "Iowa State News",
+      "category": "students"
+    }
+  ]
+}

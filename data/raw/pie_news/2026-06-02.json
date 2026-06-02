@@ -1,0 +1,98 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-02T12:00:09.156525",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "What’s the real cost of non-refundable deposits?",
+      "url": "https://thepienews.com/category/watch-listen/",
+      "date": "2026-06-02",
+      "type": "Watch & Listen",
+      "summary_en": "After UK visa rejection rates soared over the winter, thousands of students from countries like Pakistan and Bangladesh are now being told their tuition fee deposits are non-refundable. The PIE investigates the scale of the problem and how refund policies are being communicated by universities and agents.\n\nHear insights from Nicholas Cuthbert on what this means for students.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "DHS walks back green card guidance",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-06-02",
+      "type": "Immigration",
+      "summary_en": "The US administration has partially walked back recent guidance that instructed most people seeking permanent residency to apply for a green card outside the US.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Job cuts mount across UK universities amid financial strain",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-02",
+      "type": "Recruitment & agents",
+      "summary_en": "Redundancies continue to sweep the UK higher education sector as mounting financial pressures force universities to implement cost-cutting measures.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "UK universities flying blind as visa refusals force admissions rethink",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-02",
+      "type": "Recruitment & agents",
+      "summary_en": "University leaders in the UK have warned that institutions are increasingly making high-stakes admissions and compliance decisions without enough shared data, as visa refusals, rising student costs and recruitment pressures reshape international recruitment strategies.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Amy Baker"
+    },
+    {
+      "title": "Rising travel costs add to uncertainty ahead of September student arrivals",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-06-02",
+      "type": "Study Abroad",
+      "summary_en": "Institutions are preparing for rising airfares and potential travel disruption ahead of key student intakes, while students and families navigate visa delays and broader affordability pressures.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Home Office issues amendment after The PIE reports on BCA blind spot",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-06-01",
+      "type": "Immigration",
+      "summary_en": "The Home Office has published an amendment to the student sponsor compliance policy, clarifying that only visa refusal decisions that are successfully overturned by administrative review will be exempt from BCA calculations.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "Barney Glover appointed inaugural chief commissioner of Australia’s tertiary watchdog",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-06-01",
+      "type": "Policy",
+      "summary_en": "Australia's new tertiary education watchdog is beginning to take shape, with former university leader Barney Glover appointed inaugural chief commissioner, alongside three statutory commissioners tasked with driving major sector reforms.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "US sector hails growing congressional support despite headwinds",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-06-01",
+      "type": "Events",
+      "summary_en": "While strong policy headwinds remain, US experts have welcomed signs of a gradual shift in Washington DC as Congress increasingly stands up for international education.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "New UKVI compliance metrics for universities take effect today",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-06-01",
+      "type": "Policy",
+      "summary_en": "Highly anticipated and controversial new compliance requirements for UK universities come into force today, with immigration specialists warning the measures could have \"potentially devastating consequences\" for institutions that fail to meet increasingly stringent benchmarks.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-06-02T12:00:26.352068",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Gift to School of Nursing will expand student access, address national nursing shortage",
+      "url": "https://nursing.iu.edu/news-events/vital-signs/2026/2026-05-gift-to-iu-school-of-nursing-to-expand-student-support-strengthen-workforce.html",
+      "date": "Jun 2, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Environmental Resilience Institute partners with communities to support urban forests",
+      "url": "https://eri.iu.edu/news-and-events/_news/archive/2026/20260528-eri-partnering-with-nine-indiana-communities-to-support-urban-forests.html",
+      "date": "Jun 1, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

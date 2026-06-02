@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-02T12:00:30.531943",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Class Day speakers highlight communities built during their time at UChicago",
+      "url": "https://news.uchicago.edu/story/class-day-speakers-highlight-communities-built-during-their-time-uchicago",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "Fourth-years Matteo Caloia, Ana Emilia Davalos and Vincent Li to share lessons learned at annual event",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Birthright Citizenship, Transgender Athletes, and Other Supreme Court Decisions To Watch",
+      "url": "https://news.uchicago.edu/birthright-citizenship-transgender-athletes-and-other-supreme-court-decisions-watch",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Many planets might be ‘soot factories’, according to new study",
+      "url": "https://news.uchicago.edu/story/many-planets-might-be-soot-factories-according-new-study",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "America celebrated together at 200. We won't at 250. | Opinion",
+      "url": "https://www.usatoday.com/story/opinion/voices/2026/05/30/america-us-turns-250-president-independence-day/90076128007/",
+      "date": "2026-05-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

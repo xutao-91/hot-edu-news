@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-02T12:00:31.726605",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Equilibrium Strategies on the Path to Artificial General Intelligence",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4788-1.html",
+      "date": "Jun 1, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The author models the geopolitical race toward artificial general intelligence as a series of strategic interactions between two primary actors—the United States and China—using game-theoretic frameworks inspired by Cold War–era nuclear competition.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-02T12:00:21.459066",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Reflections on Magnifica Humanitas for college and university instructors",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/06/01/reflections-on-magnifica-humanitas-for-college-and-university-instructors/",
+      "date": "2026-06-01",
+      "type": "AI in Education",
+      "summary_en": "If you have been following recent discussion of Pope Leo XIV’s first papal encyclical, Magnifica Humanitas: On Safeguarding the Human Person in the Time of Artificial Intelligence, you have likely already seen its importance for educators navigating the cultural, digital, ethical, and social changes driven by generative artificial intelligence (AI).",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}

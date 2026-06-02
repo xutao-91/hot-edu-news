@@ -1,0 +1,26 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-06-02T12:00:27.893942",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IN-MaC education, workforce director Sascha Harrell receives honorary degree from Ivy Tech",
+      "url": "https://polytechnic.purdue.edu/newsroom/mac-education-workforce-director-sascha-harrell-receives-honorary-degree-ivy-tech",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Polytechnic faculty co-deliver plenary address at national capstone conference",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-faculty-co-deliver-plenary-address-national-capstone-conference",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

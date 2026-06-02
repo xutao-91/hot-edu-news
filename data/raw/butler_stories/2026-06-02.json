@@ -1,0 +1,28 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-06-02T12:00:30.840976",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Expanding What It Means to Educate",
+      "url": "https://stories.butler.edu/expanding-what-it-means-to-educate/",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "A person’s growth is shaped by many people along the way. A educator who sparks curiosity. A counselor who helps navigate a difficult moment. A coach who builds confidence and resilience. A mentor who helps someone discover a sense of purpose. A student affairs professional who creates a sense of belonging during a time of transition.  Different roles.…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Butler University Announces New Master’s Entry-to-Practice Nursing Program",
+      "url": "https://stories.butler.edu/butler-university-announces-new-masters-entry-to-practice-nursing-program/",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Designed for individuals with non-nursing bachelor’s degrees, the MSN-ETP program offers an accelerated, graduate-level pathway into nursing while helping address growing healthcare workforce needs. As healthcare organizations across Indiana and the nation face growing nursing shortages, Butler University is expanding its healthcare education offerings with a new graduate nursing pathway designed ",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "education"
+    }
+  ]
+}
