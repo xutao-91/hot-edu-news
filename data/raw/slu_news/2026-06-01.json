@@ -1,7 +1,17 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-06-01T12:00:08.353207",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-01T20:00:12.954279",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Learn How Citrus Shaped Civilization During 2026 John Dwyer Lecture",
+      "url": "https://www.slu.edu/news/2026/june/john-dwyer-lecture.php",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Dive into the fascinating history of citrus, a global superfood with ancient roots, at the 2026 John Dwyer Lecture at the Missouri Botanical Garden. The lecture, sponsored by the Missouri Botanical Garden and Saint Louis University's Department of Biology, is free and open to the public.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
 }

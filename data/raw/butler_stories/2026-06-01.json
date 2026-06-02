@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-06-01T12:00:29.932443",
-  "total_news": 1,
+  "crawled_at": "2026-06-01T20:00:32.303064",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Expanding What It Means to Educate",
+      "url": "https://stories.butler.edu/expanding-what-it-means-to-educate/",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "A person’s growth is shaped by many people along the way. A educator who sparks curiosity. A counselor who helps navigate a difficult moment. A coach who builds confidence and resilience. A mentor who helps someone discover a sense of purpose. A student affairs professional who creates a sense of belonging during a time of transition.  Different roles.…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
     {
       "title": "Butler University Announces New Master’s Entry-to-Practice Nursing Program",
       "url": "https://stories.butler.edu/butler-university-announces-new-masters-entry-to-practice-nursing-program/",

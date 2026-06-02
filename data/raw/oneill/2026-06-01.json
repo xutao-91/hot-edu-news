@@ -1,9 +1,18 @@
 {
   "source": "O'Neill School of Public and Environmental Affairs at IU",
   "source_url": "https://oneill.indiana.edu/news/index.html",
-  "crawled_at": "2026-06-01T12:00:25.512395",
-  "total_news": 1,
+  "crawled_at": "2026-06-01T20:00:26.479906",
+  "total_news": 2,
   "news": [
+    {
+      "title": "O'Neill scholars to shine at PMRC 2026",
+      "url": "https://oneill.indiana.edu/news/2026-0601-public-management-research-conference.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "O’Neill School faculty and Ph.D. students will present research at the 2026 Public Management Research Conference, advancing solutions in governance, public administration, and organizational performance.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
     {
       "title": "O'Neill students produce guidebook to help Indiana communities reduce energy costs",
       "url": "https://oneill.indiana.edu/news/2026-0529-deslatte-indiana-energy-playbook.html",

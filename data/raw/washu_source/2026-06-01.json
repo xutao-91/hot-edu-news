@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-01T12:00:15.975999",
-  "total_news": 2,
+  "crawled_at": "2026-06-01T20:00:16.145504",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Health-related ballot measures more likely to pass",
+      "url": "https://source.washu.edu/2026/06/health-related-ballot-measures-more-likely-to-pass/",
+      "date": "2026-06-01",
+      "type": "Politics",
+      "summary_en": "As voters are increasingly asked to decide complex health policy questions at the ballot box, new research from the Brown School at Washington University in St. Louis finds that healthcare-related ballot measures draw more voters to the polls and are more likely to pass than other initiatives — but they’re also especially sensitive to opposition spending by special interest groups.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Lee named inaugural Selma and Herman Seldin Distinguished Professor of Medicine",
       "url": "https://source.washu.edu/2026/05/lee-named-inaugural-selma-and-herman-seldin-distinguished-professor-of-medicine/",

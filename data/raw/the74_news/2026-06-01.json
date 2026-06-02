@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-01T12:00:18.687948",
+  "crawled_at": "2026-06-01T20:00:14.252766",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 01, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.403523"
+      "crawled_at": "2026-06-01T20:00:14.026147"
+    },
+    {
+      "title": "California Wants to Fix Undercounting of Native American Students",
+      "url": "https://www.the74million.org/article/california-wants-to-fix-undercounting-of-native-american-students/",
+      "date": "June 01, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-01T20:00:14.037108"
     },
     {
       "title": "Oklahoma’s Schools Are Some of the Worst in the Nation. Can They Recover?",
@@ -18,7 +26,7 @@
       "date": "June 01, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.414424"
+      "crawled_at": "2026-06-01T20:00:14.047026"
     },
     {
       "title": "Maryland Schoolyard Farm Showcases Community Resilience",
@@ -26,7 +34,7 @@
       "date": "June 01, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.428468"
+      "crawled_at": "2026-06-01T20:00:14.062751"
     },
     {
       "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
@@ -34,15 +42,7 @@
       "date": "June 01, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.450179"
-    },
-    {
-      "title": "Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers",
-      "url": "https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/",
-      "date": "June 01, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.462603"
+      "crawled_at": "2026-06-01T20:00:14.072463"
     },
     {
       "title": "Many Parents Talk About Delaying Kindergarten. Few Actually Do It",
@@ -50,7 +50,15 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.474036"
+      "crawled_at": "2026-06-01T20:00:14.079521"
+    },
+    {
+      "title": "Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers",
+      "url": "https://www.the74million.org/article/ohio-bill-would-require-increased-accountability-for-schools-using-private-school-vouchers/",
+      "date": "May 30, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-01T20:00:14.086564"
     },
     {
       "title": "Texas Examines Use of National Teacher Certification for Incentive Pay",
@@ -58,7 +66,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.485680"
+      "crawled_at": "2026-06-01T20:00:14.094954"
     },
     {
       "title": "University of Cambridge-Backed Courses to Expand in Indiana High Schools via Grant Funding",
@@ -66,7 +74,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.518576"
+      "crawled_at": "2026-06-01T20:00:14.097271"
     },
     {
       "title": "New Documentary Traces Groundbreaking Career of ‘Sesame Street’ Star",
@@ -74,7 +82,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.530090"
+      "crawled_at": "2026-06-01T20:00:14.111523"
     },
     {
       "title": "The First School Year Under a Texas Law Targeting LGBTQ+ Students",
@@ -82,7 +90,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.539087"
+      "crawled_at": "2026-06-01T20:00:14.118298"
     },
     {
       "title": "More Megachurches Want To Be Your Alma Mater",
@@ -90,7 +98,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.541499"
+      "crawled_at": "2026-06-01T20:00:14.131394"
     },
     {
       "title": "Gov. Landry: Teachers Will Avoid Pay Cut, but Not Where He Will Find the Money",
@@ -98,7 +106,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.552992"
+      "crawled_at": "2026-06-01T20:00:14.143394"
     },
     {
       "title": "To Help Teens Get More Sleep, Experts Push for Later School Start Times",
@@ -106,7 +114,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.564553"
+      "crawled_at": "2026-06-01T20:00:14.148006"
     },
     {
       "title": "New Survey of Head Start Providers in 7 States Charts ICE’s Negative Impact",
@@ -114,7 +122,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.576028"
+      "crawled_at": "2026-06-01T20:00:14.157582"
     },
     {
       "title": "4 Kansas School Districts Plan Legal Action Against State for Underfunding Public Education",
@@ -122,7 +130,7 @@
       "date": "May 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.587536"
+      "crawled_at": "2026-06-01T20:00:14.166212"
     },
     {
       "title": "What Do Parents With Young Children Want? A New National Survey Offers a Glimpse",
@@ -130,7 +138,7 @@
       "date": "May 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.599141"
+      "crawled_at": "2026-06-01T20:00:14.172793"
     },
     {
       "title": "Trump Plan Would Phase Out Rural Ed Fund; District Leaders Say It’s ‘Vital’",
@@ -138,7 +146,7 @@
       "date": "May 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.601531"
+      "crawled_at": "2026-06-01T20:00:14.195251"
     },
     {
       "title": "Whiteville City Schools in North Carolina Unites Around Literacy Gains",
@@ -146,7 +154,7 @@
       "date": "May 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.613029"
+      "crawled_at": "2026-06-01T20:00:14.197548"
     },
     {
       "title": "Indiana Charters Show More Academic Growth Post-COVID Than Traditional Public Schools",
@@ -154,7 +162,7 @@
       "date": "May 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.624469"
+      "crawled_at": "2026-06-01T20:00:14.206038"
     },
     {
       "title": "A Podcast Studio, 18,000 New Books — How 3 School Librarians Won National Award",
@@ -162,7 +170,7 @@
       "date": "May 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.636013"
+      "crawled_at": "2026-06-01T20:00:14.214450"
     },
     {
       "title": "Trump Childcare Rule that Will Cost Ohioans Goes Final",
@@ -170,7 +178,7 @@
       "date": "May 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.647522"
+      "crawled_at": "2026-06-01T20:00:14.225434"
     },
     {
       "title": "Childcare Advocates Ask for Funds to ‘Sustain What we Have’ Amid Closures, Waitlists",
@@ -178,7 +186,7 @@
       "date": "May 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.659249"
+      "crawled_at": "2026-06-01T20:00:14.232589"
     },
     {
       "title": "Fixing America’s Crumbling School Infrastructure is Centerpiece of Congressional Campaign",
@@ -186,7 +194,7 @@
       "date": "May 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.661688"
+      "crawled_at": "2026-06-01T20:00:14.240976"
     },
     {
       "title": "L.A. Unified Students Who Get Real-World Job Training Are Also Better Prepared for College",
@@ -194,15 +202,7 @@
       "date": "May 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.673164"
-    },
-    {
-      "title": "Future of Free Childcare for All Families in New Mexico Remains Uncertain",
-      "url": "https://www.the74million.org/zero2eight/future-of-free-childcare-for-all-families-in-new-mexico-remains-uncertain/",
-      "date": "May 23, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-01T12:00:18.684770"
+      "crawled_at": "2026-06-01T20:00:14.252338"
     }
   ]
 }

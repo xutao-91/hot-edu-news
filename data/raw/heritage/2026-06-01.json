@@ -1,8 +1,8 @@
 {
   "source": "Heritage Foundation - Education",
   "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-06-01T12:00:20.775770",
-  "total_news": 1,
+  "crawled_at": "2026-06-01T20:00:20.014684",
+  "total_news": 2,
   "news": [
     {
       "title": "The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...",
@@ -12,6 +12,15 @@
       "read_time": "",
       "source": "Heritage Foundation",
       "category": "policy"
+    },
+    {
+      "title": "The Tenure Trap: How Universities Are Losing Their Focus",
+      "url": "https://www.heritage.org/education/commentary/the-tenure-trap-how-universities-are-losing-their-focus",
+      "date": "Jun 1, 2026",
+      "type": "Commentary",
+      "read_time": "3 min",
+      "source": "Heritage Foundation",
+      "category": "general"
     }
   ]
 }

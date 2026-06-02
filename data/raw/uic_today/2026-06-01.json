@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-06-01T12:00:26.762290",
-  "total_news": 3,
+  "crawled_at": "2026-06-01T20:00:26.313302",
+  "total_news": 4,
   "news": [
+    {
+      "title": "A new device measures BP on the go, without a cuff",
+      "url": "https://today.uic.edu/bye-bye-blood-pressure-cuff-this-new-device-measures-bp-on-the-go/",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "UIC researcher Benjamin Terrones-Sanchez is developing a wireless smartwatch to monitor blood pressure, without a cuff.",
+      "source": "UIC Today",
+      "category": "general"
+    },
     {
       "title": "A molecular path toward DNA health",
       "url": "https://today.uic.edu/a-molecular-path-toward-dna-health/",

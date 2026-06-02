@@ -1,9 +1,45 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-01T12:00:31.126316",
-  "total_news": 1,
+  "crawled_at": "2026-06-01T20:00:30.386890",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Birthright Citizenship, Transgender Athletes, and Other Supreme Court Decisions To Watch",
+      "url": "https://news.uchicago.edu/birthright-citizenship-transgender-athletes-and-other-supreme-court-decisions-watch",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Many planets might be ‘soot factories’, according to new study",
+      "url": "https://news.uchicago.edu/story/many-planets-might-be-soot-factories-according-new-study",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "America celebrated together at 200. We won't at 250. | Opinion",
+      "url": "https://www.usatoday.com/story/opinion/voices/2026/05/30/america-us-turns-250-president-independence-day/90076128007/",
+      "date": "2026-05-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The Science of Talking to Strangers",
+      "url": "https://www.wsj.com/opinion/the-science-of-talking-to-strangers-eacab1f0",
+      "date": "2026-05-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "From Booth to Google: An alum learns to lead AI innovation",
       "url": "https://news.uchicago.edu/story/booth-google-alum-learns-lead-ai-innovation",

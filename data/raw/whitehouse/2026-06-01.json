@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-01T12:00:30.908943",
-  "total_news": 6,
+  "crawled_at": "2026-06-01T20:00:30.826748",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Presidential Message on Global Coptic Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/",
+      "date": "June 1, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations and Withdrawal Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-and-withdrawal-sent-to-the-senate-9d32/",
+      "date": "June 1, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "Realigning United States Core Childhood Vaccine Recommendations with Best Practices from Peer, Developed Countries",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/05/realigning-united-states-core-childhood-vaccine-recommendations-with-best-practices-from-peer-developed-countries/",

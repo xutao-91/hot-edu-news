@@ -1,9 +1,27 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-06-01T12:00:27.745311",
-  "total_news": 1,
+  "crawled_at": "2026-06-01T20:00:28.563730",
+  "total_news": 3,
   "news": [
+    {
+      "title": "IN-MaC education, workforce director Sascha Harrell receives honorary degree from Ivy Tech",
+      "url": "https://polytechnic.purdue.edu/newsroom/mac-education-workforce-director-sascha-harrell-receives-honorary-degree-ivy-tech",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Polytechnic faculty co-deliver plenary address at national capstone conference",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-faculty-co-deliver-plenary-address-national-capstone-conference",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Purdue Polytechnic students develop crucial tools for city government, industry partners, universities through 16-week real-world projects",
       "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-students-develop-crucial-tools-city-government-industry-partners",
