@@ -1,8 +1,8 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-06-02T12:00:27.136487",
-  "total_news": 5,
+  "crawled_at": "2026-06-02T20:00:27.565575",
+  "total_news": 6,
   "news": [
     {
       "title": "Four UIC faculty featured at American Writers Festival across storytelling, history and cultural studies",
@@ -21,6 +21,15 @@
       "summary_en": "Jean-Luc Ayitou receives the 2026 New Investigator Award from the American Society for Photobiology.",
       "source": "UIC Today",
       "category": "awards"
+    },
+    {
+      "title": "Clinical trials for Alzheimer’s drugs omit key populations",
+      "url": "https://today.uic.edu/clinical-trials-for-alzheimers-drugs-omit-key-populations/",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "A review of 71 clinical trials found that more than 90% of participants identified as white.",
+      "source": "UIC Today",
+      "category": "general"
     },
     {
       "title": "Hull-House exhibit reveals settlement’s role in inspiring Chicago’s open spaces",

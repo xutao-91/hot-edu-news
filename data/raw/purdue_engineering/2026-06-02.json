@@ -1,9 +1,36 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-06-02T12:00:24.758312",
-  "total_news": 1,
+  "crawled_at": "2026-06-02T20:00:25.213669",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Purdue researchers pioneer “outside-looking-in” neural interface using DNA nanotechnology",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0602-purdue-bme-jayant-dna-nanotechnology-neural-interface",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "Researchers at Purdue University have developed synthetic DNA origami tiles that self-insert into live neuronal membranes to form stable nanopores, enabling scientists to record intracellular electrical activity and deliver drugs directly into targeted neurons — without damaging the cell membrane.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "In Print: 'Advances in Human-AI Collaboration' by IE's Duffy",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0602-vincent-duffy-purdue-advances-human-ai-collaboration-book",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "\"Advances in Human-AI Collaboration\" offers a comprehensive exploration of AI technologies and applications in the field of industrial and systems engineering.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue ECE launches gaming concentration in Indianapolis with Xbox Game Camp",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0602-Purdue-ECE-launches-Gaming-and-Interactive-Systems-Engineering-concentration-in%20Indianapolis-with-Xbox-Game-Camp",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "Purdue University's Elmore Family School of Electrical and Computer Engineering is launching a new Gaming and Interactive Systems Engineering concentration in Indianapolis, creating a new opportunity for students who want to combine their interest in gaming, technology and creativity with a Purdue engineering education.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "Purdue Engineering's Raman confirmed as U.S. undersecretary of commerce for standards and technology",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0601-arvind-raman-purdue-engineering-dean-nist-undersecretary",

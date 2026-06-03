@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-06-02T12:00:19.977455",
-  "total_news": 2,
+  "crawled_at": "2026-06-02T20:00:19.142728",
+  "total_news": 3,
   "news": [
+    {
+      "title": "True blue fun at Allen Centennial Garden",
+      "url": "https://news.wisc.edu/true-blue-fun-at-allen-centennial-garden/",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "A recent workshop at the Garden showcased the scientific wonder that comes from fermenting indigo plants.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Charles Hoslet named UW ombuds",
       "url": "https://news.wisc.edu/charles-hoslet-named-uw-ombuds/",

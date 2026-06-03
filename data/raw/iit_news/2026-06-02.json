@@ -1,9 +1,18 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-06-02T12:00:13.811727",
-  "total_news": 2,
+  "crawled_at": "2026-06-02T20:00:13.781492",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Physics Professor Accurately Calculates Critical Binding of Quantum States",
+      "url": "https://www.iit.edu/news/physics-professor-accurately-calculates-critical-binding-quantum-states",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "Illinois Tech Professor of Physics Grant Bunker’s latest published paper shows how his unconventional computational approach can exponentially increase the accuracy and range for determining the...",
+      "source": "IIT News",
+      "category": "academic"
+    },
     {
       "title": "‘Help Those People’: Chicago-Kent Celebrates Public Interest at 19th Annual Awards",
       "url": "https://kentlaw.iit.edu/law/news-media/news/help-those-people-chicago-kent-celebrates-public-interest-19th-annual-awards",

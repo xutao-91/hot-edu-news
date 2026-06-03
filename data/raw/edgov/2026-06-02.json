@@ -1,9 +1,19 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-06-02T12:00:16.762490",
-  "total_news": 2,
+  "crawled_at": "2026-06-02T20:00:18.608203",
+  "total_news": 3,
   "news": [
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits Vermont on Returning Education to the States Tour",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-vermont-returning-education-states-tour",
+      "date": "June 2, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general",
+      "content": "June 2, 2026\nEssex, VT –\nToday, U.S. Secretary of Education Linda McMahon visited Vermont on her\nReturning Education to the States Tour\n. She began at the Center for Technology, Essex in Essex Junction, a career and technical education school preparing roughly 400 students for a wide range of high-demand technical fields. During her visit, Secretary McMahon toured classrooms focused on construction, health professions, and dental assisting, and she participated in a workforce roundtable highlighting the school’s hands‑on approach to career readiness.\nNext, Secretary McMahon visited Vermont State University’s Williston Campus, where she saw firsthand how the school’s programs are tailored to meet workforce needs and prepare students for high‑skill, high‑wage careers. Her tour included stops in the medical, engineering, and dental hygiene programs.\n“Today’s visits highlighted Vermont’s innovative approach to preparing learners for the workforce through strong, locally driven career and technical education,”\nsaid U.S. Secretary of Education Linda McMahon.\n“At the Center for Technology, Essex, I saw how rigorous academics are integrated with real‑world training in high‑demand fields for high school learners. Vermont State University’s Williston Campus further demonstrated how targeted programs and hands‑on instruction are building a work‑ready talent pipeline – strengthening the state’s economy and ensuring Vermont’s students can step confidently into the careers that drive its future.”\nBackground\nOn her Returning Education to the States Tour, Secretary McMahon is traveling to all 50 states to hear directly from teachers, parents, and community leaders about what is working in their communities for their students and compile a toolkit of best practices to distribute to states.\nLearn more about Secretary McMahon’s Returning Education to the States Tour\nhere\n.\nContact\nPress Office\n(202) 401-1576\npress@ed.gov\nTags\nReturning Education to the States Tour",
+      "summary_en": ""
+    },
     {
       "title": "U.S. Secretary of Education Linda McMahon Visits Massachusetts on Returning Education to the States Tour",
       "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-massachusetts-returning-education-states-tour",

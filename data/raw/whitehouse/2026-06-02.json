@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-02T12:00:31.601599",
-  "total_news": 5,
+  "crawled_at": "2026-06-02T20:00:32.118207",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-promotes-advanced-artificial-intelligence-innovation-and-security/",
+      "date": "June 2, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
     {
       "title": "Promoting Advanced Artificial Intelligence Innovation and Security",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
