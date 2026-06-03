@@ -1,0 +1,71 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-06-03T12:00:14.726851",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "University efforts bolster Nebraska's community tree canopy",
+      "url": "https://news.unl.edu/article/university-efforts-bolster-nebraskas-community-tree-canopy",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "New Husker-developed wheat, triticale varieties support Nebraska producers",
+      "url": "https://news.unl.edu/article/new-husker-developed-wheat-triticale-varieties-support-nebraska-producers",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Nebraska in the national news: May 2026",
+      "url": "https://news.unl.edu/article/nebraska-in-the-national-news-may-2026",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker researchers study invisible plastics in everyday drinks",
+      "url": "https://news.unl.edu/article/husker-researchers-study-invisible-plastics-in-everyday-drinks",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Perez makes each student, family visit 'count'",
+      "url": "https://news.unl.edu/article/perez-makes-each-student-family-visit-count",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "McClure’s dedication leaves lasting impact on department",
+      "url": "https://news.unl.edu/article/mcclures-dedication-leaves-lasting-impact-on-department",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "129 Huskers receive stipends for summer research projects",
+      "url": "https://news.unl.edu/article/129-huskers-receive-stipends-for-summer-research-projects",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

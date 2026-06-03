@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-03T12:00:30.254013",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
+      "url": "https://www.rand.org/pubs/external_publications/EP71278.html",
+      "date": "Jun 3, 2026",
+      "type": "Research",
+      "summary_en": "The objective of this paper is to assess the prevalence, frequency, perceived helpfulness, and disclosure of AI chatbot use for mental health advice among US adolescents and young adults in 2025.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Equilibrium Strategies on the Path to Artificial General Intelligence",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4788-1.html",
+      "date": "Jun 1, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The author models the geopolitical race toward artificial general intelligence as a series of strategic interactions between two primary actors—the United States and China—using game-theoretic frameworks inspired by Cold War–era nuclear competition.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-06-03T12:00:08.862682",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "From roommates to running mates",
+      "url": "https://www.k-state.edu/news/articles/2026/06/student-government-association-kstate-salina-leadership.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Kansas State University Salina students have chosen new leadership for the upcoming academic year, selecting a duo with extensive experience in the Student Government Association.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "May 2026 at K-State",
+      "url": "https://www.k-state.edu/news/articles/2026/06/may-photo-gallery.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "As the spring semester came to a close, Wildcats continued to make an impact in classrooms, labs and communities. Look back at some of the memorable moments that defined May.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State, Stormont Vail partnership fuels global DataFest challenge",
+      "url": "https://www.k-state.edu/news/articles/2026/06/datafest-expands-learning-beyond-classroom.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "K-State undergraduate students joined more than 2,000 others worldwide in this year’s ASA DataFest, a fast-paced analytics competition focused on improving patient care through real-world...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "StoryCorps founder, K‑State common read author to visit campus Sept. 29",
+      "url": "https://www.k-state.edu/news/articles/2026/06/dave-isay-callings-common-read-author-visit.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Dave Isay — award-winning radio producer, founder of StoryCorps and author of the 2026 K-State common read \"Callings: The Purpose and Passion of Work\" — will give a public lecture...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Cassie Jones",
+      "url": "https://www.k-state.edu/news/articles/2026/05/cassie-jones-advances-agriculture-leaders.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Foraging solutions in foreign fields",
+      "url": "https://www.k-state.edu/news/articles/2026/06/romulo-lollato-john-kirkegaard-fulbright-australia-wheat-research.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "K‑State's Romulo Lollato and Australia's John Kirkegaard are collaborating to learn from each other's wheat production systems and strengthen agriculture industries separated by an...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Detection at the nanoscale",
+      "url": "https://www.k-state.edu/news/articles/2026/06/suprem-das-sensor-patent.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Graphene, the \"wonder material,\" has shaped much of Suprem Das' research career, and his continued work with the material has earned him his fourth patent, further advancing graphene's...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Pay for parking on the go with HonkMobile",
+      "url": "https://www.k-state.edu/news/articles/2026/04/honkmobile-app-kstate-parking.html",
+      "date": "2026-05-31",
+      "type": "News",
+      "summary_en": "Pay for parking in the garage and at meters across the Manhattan campus using the HonkMobile app. HonkMobile is replacing ParkMobile. ParkMobile will no longer be available after April...",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

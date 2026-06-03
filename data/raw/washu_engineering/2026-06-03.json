@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-03T12:00:29.278337",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "New minor in computational artificial intelligence offered at Washington University in St. Louis",
+      "url": "https://engineering.washu.edu/news/2026/New-minor-in-computational-artificial-intelligence-offered-at-Washington-University-in-St-Louis.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Program will prepare students for research and careers that require competence with artificial intelligence.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Model uses real image to train AI to look for fakes",
+      "url": "https://engineering.washu.edu/news/2026/Model-uses-real-image-to-train-AI-to-look-for-fakes.html",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "Nathan Jacobs’ lab tackles detecting AI-generated images with the real thing.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

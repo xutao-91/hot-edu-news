@@ -6538,5 +6538,167 @@
     "fetch_time": "2026-06-02T20:00:32.333132",
     "title": "Fact Sheet: President Donald J. Trump Promotes Advanced Artificial Intelligence Innovation and Security",
     "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/student-government-association-kstate-salina-leadership.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-03T12:00:09.556194",
+    "title": "From roommates to running mates",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/may-photo-gallery.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-03T12:00:09.556227",
+    "title": "May 2026 at K-State",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/datafest-expands-learning-beyond-classroom.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-03T12:00:09.556240",
+    "title": "K-State, Stormont Vail partnership fuels global DataFest challenge",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/integrating-citizen-science-experimental-data-helps-uncover-how-plants-adapt": {
+    "source": "iastate_news",
+    "fetch_time": "2026-06-03T12:00:14.407223",
+    "title": "Integrating ‘citizen science’ with experimental data helps uncover how plants adapt",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/artist-residency-shares-unique-art-process-des-moines-students": {
+    "source": "iastate_news",
+    "fetch_time": "2026-06-03T12:00:14.407250",
+    "title": "Artist residency shares unique art process with Des Moines students",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/oklahoma-schools-have-a-chronic-absenteeism-problem-now-it-will-no-longer-count-against-them/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-03T12:00:15.122855",
+    "title": "Oklahoma Eases School Penalties for Chronic Student Absences",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/parents-consent-at-the-heart-of-ed-tech-lawsuits/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-03T12:00:15.122881",
+    "title": "Parents’ Consent at the Heart of Ed Tech Lawsuits",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/university-efforts-bolster-nebraskas-community-tree-canopy": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-03T12:00:15.421115",
+    "title": "University efforts bolster Nebraska's community tree canopy",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/new-husker-developed-wheat-triticale-varieties-support-nebraska-producers": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-03T12:00:15.421141",
+    "title": "New Husker-developed wheat, triticale varieties support Nebraska producers",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/06/to-reduce-anxiety-during-pregnancy-make-sleep-a-priority/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-03T12:00:15.745175",
+    "title": "To reduce anxiety during pregnancy, make sleep a priority",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/06/washu-expert-research-explains-trumps-influence-on-primary-contests/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-03T12:00:15.745205",
+    "title": "Research explains Trump’s influence on primary contests",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/06/03/wayne-state-research-advances-technology-for-faster-more-secure-internet-69514": {
+    "source": "wayne_news",
+    "fetch_time": "2026-06-03T12:00:17.463903",
+    "title": "Wayne State research advances technology for faster, more secure internet",
+    "category": "general"
+  },
+  "/news/2026/06/celebrating-americas-250th-how-ui-papermakers-helped-preserve-founding-documents": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-06-03T12:00:19.540104",
+    "title": "Celebrating America's 250th: How UI papermakers helped preserve founding documents",
+    "category": "education"
+  },
+  "/news/2026/06/why-odyssey-still-matters-3000-years-later": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-06-03T12:00:19.540132",
+    "title": "Why 'The Odyssey' still matters, 3,000 years later",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/why-charming-matters-study-reveals-the-power-of-puffery/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-03T12:00:19.854103",
+    "title": "Why ‘charming’ matters: Study reveals the power of puffery",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/their-time-to-shine-inside-mizzous-sound-explorers/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-03T12:00:19.854129",
+    "title": "Their time to shine: Inside Mizzou’s Sound Explorers",
+    "category": "education"
+  },
+  "https://summer.wisc.edu/blog/student-athletes-lock-in-during-the-summer/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-03T12:00:19.910888",
+    "title": "Student athletes lock in on academics during the summer",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/06/03/the-hidden-cost-of-college-isnt-money-its-time-and-opportunity/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-03T12:00:21.382097",
+    "title": "The hidden cost of college isn’t money–it’s time and opportunity",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0603-Mark-Lundstrom-named-dean-of-the-College-of-Engineering": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-03T12:00:24.339075",
+    "title": "Mark Lundstrom named dean of the College of Engineering",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/computer-science-assistant-professor-stevie-chancellor-named-novus-faculty-impact": {
+    "source": "umn_cse",
+    "fetch_time": "2026-06-03T12:00:24.828969",
+    "title": "Computer Science Assistant Professor Stevie Chancellor named Novus Faculty Impact Fellow",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/graduate-student-aims-advance-hypersonic-turbulence-knowledge": {
+    "source": "umn_cse",
+    "fetch_time": "2026-06-03T12:00:24.828995",
+    "title": "Graduate student aims to advance hypersonic turbulence knowledge",
+    "category": "education"
+  },
+  "https://psych.indiana.edu/news-events/news/2026/decider-brain.html": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-03T12:00:25.962867",
+    "title": "Cognitive neuroscientist’s research challenges theories of decision-making",
+    "category": "general"
+  },
+  "https://news.iu.edu/live/news/51148-indiana-university-officially-launches-capital": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-03T12:00:25.962893",
+    "title": "Indiana University officially launches Capital Campus in Washington, DC",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51138-wearable-tech-startup-aims-to-diagnose-common": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-03T12:00:25.962904",
+    "title": "Wearable tech startup aims to diagnose common breathing disorder in younger athletes",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/us-tobacco-firms-used-cigarette-selling-tactics-to-globally-market-ultra-processed-foods-ARTICLE-5HS18B-ARTICLE-5HS18B": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-03T12:00:26.648807",
+    "title": "US tobacco firms used cigarette-selling tactics to globally market ultra-processed foods",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/more-than-a-century-of-ku-student-journalism-now-freely-available-online-ARTICLE-0K2KPF-ARTICLE-0K2KPF": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-03T12:00:26.648837",
+    "title": "More than a century of KU student journalism now freely available online",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71278.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-03T12:00:30.523110",
+    "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
+    "category": "ai"
   }
 }
