@@ -6808,5 +6808,137 @@
     "fetch_time": "2026-06-03T20:00:30.248770",
     "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement",
     "category": "general"
+  },
+  "https://news.nd.edu/news/rising-senior-katharine-steffes-awarded-beinecke-scholarship-for-graduate-study/": {
+    "source": "nd_news",
+    "fetch_time": "2026-06-04T12:00:09.310336",
+    "title": "Rising senior Katharine Steffes awarded Beinecke Scholarship for graduate study",
+    "category": "general"
+  },
+  "https://thepienews.com/category/analysis/": {
+    "source": "pie_news",
+    "fetch_time": "2026-06-04T12:00:09.493119",
+    "title": "Switzerland’s hospitality institutions are selling the business of good service",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-dean-s-and-honors-lists-spring-2026": {
+    "source": "msoe",
+    "fetch_time": "2026-06-04T12:00:12.431579",
+    "title": "MSOE Dean's and Honors Lists - Spring 2026",
+    "category": "general"
+  },
+  "https://www.news.iastate.edu/news/preparing-future-math-teachers-teach-data-science": {
+    "source": "iastate_news",
+    "fetch_time": "2026-06-04T12:00:13.747969",
+    "title": "Preparing future math teachers to teach data science",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/salma-aouam-regional-transportation-kansas-city-world-cup.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-04T12:00:14.485087",
+    "title": "Building beyond game day",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/06/washu-community-invited-to-join-service-saturdays/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-04T12:00:16.794107",
+    "title": "WashU community invited to join Service Saturdays",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/genetically-modified-hookworms-produce-and-deliver-therapeutics/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-04T12:00:16.794132",
+    "title": "Genetically modified hookworms produce and deliver therapeutics",
+    "category": "semiconductor"
+  },
+  "https://today.wayne.edu/news/2026/06/04/wsus-apex-accelerator-helps-detroit-businesses-compete-69479": {
+    "source": "wayne_news",
+    "fetch_time": "2026-06-04T12:00:17.039159",
+    "title": "WSU’s APEX Accelerator helps Detroit businesses compete",
+    "category": "general"
+  },
+  "https://research.wayne.edu/news/wayne-state-university-secures-new-us-patent-for-breakthrough-surgical-technology-innovation-69518": {
+    "source": "wayne_news",
+    "fetch_time": "2026-06-04T12:00:17.039184",
+    "title": "Wayne State University secures new U.S. patent for breakthrough surgical technology innovation",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/university-of-nebraska-foundation-celebrates-90-years-of-impact": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-04T12:00:17.511183",
+    "title": "University of Nebraska Foundation celebrates 90 years of impact",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/husker-team-reimagines-leadership-development": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-04T12:00:17.511210",
+    "title": "Husker team reimagines leadership development",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-actuarial-science-research-ranked-no-1-in-north-america": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-04T12:00:17.511221",
+    "title": "Nebraska actuarial science research ranked No. 1 in North America",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/report-tennessee-students-have-nearly-returned-to-pre-covid-math-achievement/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-04T12:00:18.368142",
+    "title": "Report: Tennessee Students Have Nearly Returned to Pre-COVID Math Achievement",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/at-this-ohio-high-school-students-can-skip-lectures-and-work-on-their-own-2/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-04T12:00:18.368167",
+    "title": "At This Ohio High School, Students Can Skip Lectures and Work on Their Own",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/at-this-ohio-high-school-students-can-skip-lectures-and-work-on-their-own/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-04T12:00:18.368177",
+    "title": "At this Ohio High School, Students Can Skip Lectures and Work On Their Own",
+    "category": "education"
+  },
+  "https://news.wisc.edu/zika-infections-can-cause-significant-developmental-problems/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-04T12:00:19.887075",
+    "title": "Zika infections can cause significant developmental problems",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/from-festivals-to-workforce-training-jefferson-farms-and-garden-keeps-growing/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-04T12:00:21.804820",
+    "title": "From festivals to workforce training, Jefferson Farm and Garden keeps growing",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0604-nuclear-engineering-online-smrar-technology-coursesevolution-in-nuclear-reactor-technology-and-smrs-safety-features-and-advances-in-design": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-04T12:00:25.217083",
+    "title": "Nuclear Engineering Online SMR/AR Technology Courses\r\nEvolution in Nuclear Reactor Technology and SMRs: Safety Features and Advances in Design",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0604-purdue-mit-impact-resistant-plastics-nature-koslowski": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-04T12:00:25.217109",
+    "title": "ME's Koslowski and Zapata join MIT team on design of impact-resistant plastics",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71310.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-04T12:00:31.288861",
+    "title": "Response to Ariel and Hasid’s Letter",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4881-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-04T12:00:31.288888",
+    "title": "Verified Machine Learning Infrastructure: Formal Methods for Trustworthy Artificial Intelligence Deployment",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-04T12:00:32.007870",
+    "title": "Strong Support for President Trump’s Appointment of William J. Pulte as Acting Director of National Intelligence",
+    "category": "general"
   }
 }

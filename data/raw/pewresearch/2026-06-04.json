@@ -1,0 +1,50 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-04T12:00:07.259491",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Majority of new green cards have gone to immigrants already living in U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/02/majority-of-new-green-cards-have-gone-to-immigrants-already-living-in-us/",
+      "date": "Jun 2, 2026",
+      "type": "short reads",
+      "categories": [
+        "Immigrant Populations",
+        "Immigration Migration",
+        "Race Ethnicity Politics",
+        "Race Ethnicity Politics 2"
+      ],
+      "summary_en": "A new Trump administration memo could require green card seekers already in the U.S. to apply from abroad, potentially affecting hundreds of thousands annually.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Who do Americans think is going to win the World Cup?",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/02/who-do-americans-think-is-going-to-win-the-world-cup/",
+      "date": "Jun 2, 2026",
+      "type": "short reads",
+      "categories": [
+        "Entertainment",
+        "Sports"
+      ],
+      "summary_en": "Most Americans say they are unlikely to follow the 2026 World Cup, though immigrants are far more likely than U.S.-born adults to tune in.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "Federal agency X accounts are getting far more engagement in the second Trump term than under Biden",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/01/federal-agency-x-accounts-are-getting-far-more-engagement-in-the-second-trump-term-than-under-biden/",
+      "date": "Jun 1, 2026",
+      "type": "short reads",
+      "categories": [
+        "Federal Government",
+        "Platforms Services",
+        "Twitter X"
+      ],
+      "summary_en": "Federal agencies are getting far more audience engagement on X in the second Trump administration than they did during the final year of the Biden administration.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    }
+  ]
+}

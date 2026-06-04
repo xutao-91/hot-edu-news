@@ -1,0 +1,35 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-06-04T12:00:27.750276",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue Polytechnic in Vincennes honors class of 2025-26 at commencement ceremony",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-vincennes-honors-class-2025-26-commencement-ceremony",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "IN-MaC education, workforce director Sascha Harrell receives honorary degree from Ivy Tech",
+      "url": "https://polytechnic.purdue.edu/newsroom/mac-education-workforce-director-sascha-harrell-receives-honorary-degree-ivy-tech",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Polytechnic faculty co-deliver plenary address at national capstone conference",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-faculty-co-deliver-plenary-address-national-capstone-conference",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

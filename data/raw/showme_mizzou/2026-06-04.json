@@ -1,0 +1,62 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-04T12:00:20.947401",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "From festivals to workforce training, Jefferson Farm and Garden keeps growing",
+      "url": "https://showme.missouri.edu/2026/from-festivals-to-workforce-training-jefferson-farms-and-garden-keeps-growing/",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "Expanded MU Extension facility creates new opportunities for education, technology and community connection.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Why ‘charming’ matters: Study reveals the power of puffery",
+      "url": "https://showme.missouri.edu/2026/why-charming-matters-study-reveals-the-power-of-puffery/",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "New University of Missouri research shows that vague, feel good language long dismissed by marketers and the law can meaningfully influence consumer behavior.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Their time to shine: Inside Mizzou’s Sound Explorers",
+      "url": "https://showme.missouri.edu/2026/their-time-to-shine-inside-mizzous-sound-explorers/",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Adaptive concert band pairs younger students with mentors from the School of Music.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou helps Smithsonian map more than 200 years of nature’s progress",
+      "url": "https://showme.missouri.edu/2026/mizzou-helps-smithsonian-map-more-than-200-years-of-natures-progress/",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "Scientists across the country are working together to uncover how ecosystems have transformed since Lewis and Clark’s historic expedition and what the changes mean for America today.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou releases spring 2026 dean’s list",
+      "url": "https://showme.missouri.edu/2026/mizzou-releases-spring-2026-deans-list/",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "More than 12,200 Tigers earned a spot on the list for exceptional grades.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou’s Gustin Golf Course supports wildlife and learning",
+      "url": "https://showme.missouri.edu/2026/mizzous-gustin-golf-course-supports-wildlife-and-learning/",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "The course provides habitat for birds, bees and native plants while serving as a living laboratory for students and the community.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

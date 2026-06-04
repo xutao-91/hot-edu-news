@@ -1,0 +1,53 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-06-04T12:00:24.892724",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Cognitive neuroscientist’s research challenges theories of decision-making",
+      "url": "https://psych.indiana.edu/news-events/news/2026/decider-brain.html",
+      "date": "Jun 3, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Indiana University officially launches Capital Campus in Washington, DC",
+      "url": "https://news.iu.edu/live/news/51148-indiana-university-officially-launches-capital",
+      "date": "Jun 3, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Wearable tech startup aims to diagnose common breathing disorder in younger athletes",
+      "url": "https://news.iu.edu/live/news/51138-wearable-tech-startup-aims-to-diagnose-common",
+      "date": "Jun 3, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Gift to School of Nursing will expand student access, address national nursing shortage",
+      "url": "https://nursing.iu.edu/news-events/vital-signs/2026/2026-05-gift-to-iu-school-of-nursing-to-expand-student-support-strengthen-workforce.html",
+      "date": "Jun 2, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Environmental Resilience Institute partners with communities to support urban forests",
+      "url": "https://eri.iu.edu/news-and-events/_news/archive/2026/20260528-eri-partnering-with-nine-indiana-communities-to-support-urban-forests.html",
+      "date": "Jun 1, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-06-04T12:00:15.965763",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "WashU community invited to join Service Saturdays",
+      "url": "https://source.washu.edu/2026/06/washu-community-invited-to-join-service-saturdays/",
+      "date": "2026-06-04",
+      "type": "St. Louis Region",
+      "summary_en": "WashU Serves has released volunteer dates and locations for Service Saturdays through 2026. These community volunteer days are open to WashU faculty, staff, students, alumni and all other community members.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Genetically modified hookworms produce and deliver therapeutics",
+      "url": "https://source.washu.edu/2026/06/genetically-modified-hookworms-produce-and-deliver-therapeutics/",
+      "date": "2026-06-03",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine researchers genetically modified hookworms to produce and deliver a therapeutic antibody inside a host, a proof-of-concept that could lead to long-lasting treatments for chronic disease or exposure to toxins in remote settings.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "To reduce anxiety during pregnancy, make sleep a priority",
+      "url": "https://source.washu.edu/2026/06/to-reduce-anxiety-during-pregnancy-make-sleep-a-priority/",
+      "date": "2026-06-03",
+      "type": "Mental Health",
+      "summary_en": "WashU researchers have found  connections between sleep disruption and perinatal anxiety.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Research explains Trump’s influence on primary contests",
+      "url": "https://source.washu.edu/2026/06/washu-expert-research-explains-trumps-influence-on-primary-contests/",
+      "date": "2026-06-03",
+      "type": "Politics",
+      "summary_en": "Research by Daniel Butler, a professor of political science in WashU Arts & Sciences, suggests that candidates aligned with President Trump are advancing, in part, because disappointed 2024 Republican voters are opting out of this year’s intraparty contests.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Health-related ballot measures more likely to pass",
+      "url": "https://source.washu.edu/2026/06/health-related-ballot-measures-more-likely-to-pass/",
+      "date": "2026-06-01",
+      "type": "Politics",
+      "summary_en": "As voters are increasingly asked to decide complex health policy questions at the ballot box, new research from the Brown School at Washington University in St. Louis finds that healthcare-related ballot measures draw more voters to the polls and are more likely to pass than other initiatives — but they’re also especially sensitive to opposition spending by special interest groups.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-06-04T12:00:13.139805",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Physics Professor Accurately Calculates Critical Binding of Quantum States",
+      "url": "https://www.iit.edu/news/physics-professor-accurately-calculates-critical-binding-quantum-states",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "Illinois Tech Professor of Physics Grant Bunker’s latest published paper shows how his unconventional computational approach can exponentially increase the accuracy and range for determining the...",
+      "source": "IIT News",
+      "category": "academic"
+    },
+    {
+      "title": "‘Help Those People’: Chicago-Kent Celebrates Public Interest at 19th Annual Awards",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/help-those-people-chicago-kent-celebrates-public-interest-19th-annual-awards",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "According to the Law School Admission Council, a not-for-profit organization that is committed to promoting quality, access, and equity in law and education, 49 percent of 2024–25 LSAT takers were...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Law Student Honored by American College of Bankruptcy",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/law-student-honored-american-college-bankruptcy",
+      "date": "2026-06-01",
+      "type": "News",
+      "summary_en": "The American College of Bankruptcy has chosen Rachel Lehmann ’26 as its 2026 Seventh Circuit Distinguished Student. The Distinguished Bankruptcy Student program aims to “identify and promote...",
+      "source": "IIT News",
+      "category": "law"
+    }
+  ]
+}

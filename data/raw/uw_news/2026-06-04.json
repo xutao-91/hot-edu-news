@@ -1,0 +1,62 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-04T12:00:19.143759",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Zika infections can cause significant developmental problems",
+      "url": "https://news.wisc.edu/zika-infections-can-cause-significant-developmental-problems/",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "Even babies born without the virus’s notable physical symptoms may experience sensory, attachment and anxiety issues, according to a new study.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Detailed molecular picture of tooth enamel reveals adaptions to diets",
+      "url": "https://www.physics.wisc.edu/2026/06/03/detailed-molecular-picture-of-tooth-enamel-reveals-adaptions-to-diets-gilbert-and-colleagues-find/",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "Research lead by UW–Madison physics professor suggests that enamel evolved to become tougher over millions of years.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Student-athletes lock in on academics during the summer",
+      "url": "https://summer.wisc.edu/blog/student-athletes-lock-in-during-the-summer/",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison student-athletes know that every season counts, including summer. Four Badgers share how Summer Term helps keep them prepared for the year ahead.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "True blue fun at Allen Centennial Garden",
+      "url": "https://news.wisc.edu/true-blue-fun-at-allen-centennial-garden/",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "A recent workshop at the Garden showcased the scientific wonder that comes from fermenting indigo plants.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Charles Hoslet named UW ombuds",
+      "url": "https://news.wisc.edu/charles-hoslet-named-uw-ombuds/",
+      "date": "June 1, 2026",
+      "type": "News",
+      "summary_en": "Hoslet, emeritus vice chancellor for university relations, will serve a three-year term beginning June 1.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "What’s the tick forecast?",
+      "url": "https://www.med.wisc.edu/news/tick-risk-forecasting-research/",
+      "date": "June 1, 2026",
+      "type": "News",
+      "summary_en": "New research from the University of Wisconsin School of Medicine and Public Health tracks tick distribution and rising disease risk across Wisconsin.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}
