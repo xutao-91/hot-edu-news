@@ -1,7 +1,18 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-06-03T12:00:13.254442",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-03T20:00:11.907653",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Backlash led Michigan to ease student vaccine waivers. What happened next",
+      "url": "https://bridgemi.com/michigan-health-watch/backlash-led-michigan-to-ease-student-vaccine-waivers-what-happened-next/",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Michigan health officials tried making it harder for parents to send their kids to school unvaccinated. Now, relaxed rules are helping counties move away from a policy once credited with sharply reducing vaccine waivers.",
+      "author": "Kate Wells, KFF Health News",
+      "source": "Bridge Michigan",
+      "category": "michigan"
+    }
+  ]
 }

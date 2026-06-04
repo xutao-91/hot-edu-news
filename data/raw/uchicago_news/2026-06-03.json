@@ -1,9 +1,36 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-03T12:00:29.816060",
-  "total_news": 4,
+  "crawled_at": "2026-06-03T20:00:29.406568",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Class of 2026 looks back on the journeys to Convocation",
+      "url": "https://news.uchicago.edu/story/class-2026-looks-back-journeys-convocation",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Across UChicago, graduating students built a campus space program, logged hundreds of hours of pro bono legal service and much more",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "“ElectrolyteGPT” can generate new formulations for battery development",
+      "url": "https://news.uchicago.edu/story/electrolytegpt-can-generate-new-formulations-battery-development",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "UChicago team creates new chemical language to help AI generate entire mixtures, not just the ingredients",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Two scholars to receive honorary degrees at UChicago’s 2026 Convocation",
+      "url": "https://news.uchicago.edu/story/two-scholars-receive-honorary-degrees-uchicagos-2026-convocation",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "University of Chicago will award honorary degrees to two distinguished scholars on June 6 during its Convocation celebration of the Class of 2026.",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Convocation activities to celebrate UChicago’s Class of 2026",
       "url": "https://news.uchicago.edu/story/convocation-activities-celebrate-uchicagos-class-2026",

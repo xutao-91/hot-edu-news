@@ -1,9 +1,18 @@
 {
   "source": "Northwestern University News",
   "source_url": "https://news.northwestern.edu/university-news",
-  "crawled_at": "2026-06-03T12:00:27.534059",
-  "total_news": 1,
+  "crawled_at": "2026-06-03T20:00:28.105065",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Who’s speaking to the Class of 2026?",
+      "url": "https://news.northwestern.edu/stories/2026/06/graduation-convocation-speakers-class-of-2026",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
     {
       "title": "Biohub releases a world model of protein biology",
       "url": "https://news.northwestern.edu/stories/2026/06/biohub-releases-a-world-model-of-protein-biology",

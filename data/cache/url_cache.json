@@ -6700,5 +6700,113 @@
     "fetch_time": "2026-06-03T12:00:30.523110",
     "title": "AI Chatbot Use and Disclosure for Mental Health Among US Adolescents and Young Adults",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/dreams-en-route-play-and-storytelling-among-venezuelan-migrant-children/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-03T20:00:07.059031",
+    "title": "Dreams en route: Play and storytelling among Venezuelan migrant children",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/pfrender-named-as-interim-chair-of-department-of-biological-scienc/": {
+    "source": "nd_science",
+    "fetch_time": "2026-06-03T20:00:07.502010",
+    "title": "Pfrender named as interim chair of Department of Biological Sciences",
+    "category": "ai"
+  },
+  "https://bridgemi.com/michigan-health-watch/backlash-led-michigan-to-ease-student-vaccine-waivers-what-happened-next/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-06-03T20:00:12.455069",
+    "title": "Backlash led Michigan to ease student vaccine waivers. What happened next",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/06/03/wsu-continues-juneteenth-tradition-with-celebration-on-june-17-69508": {
+    "source": "wayne_news",
+    "fetch_time": "2026-06-03T20:00:17.931053",
+    "title": "WSU continues its Juneteenth tradition with June 17 celebration",
+    "category": "general"
+  },
+  "https://www.physics.wisc.edu/2026/06/03/detailed-molecular-picture-of-tooth-enamel-reveals-adaptions-to-diets-gilbert-and-colleagues-find/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-03T20:00:18.652300",
+    "title": "Detailed molecular picture of tooth enamel reveals adaptions to diets",
+    "category": "ai"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-warning-letter-jefferson-county-public-schools-colorado-district-refuses-follow-title-ix": {
+    "source": "edgov",
+    "fetch_time": "2026-06-03T20:00:18.761187",
+    "title": "U.S. Department of Education Issues Warning Letter to Jefferson County Public Schools in Colorado as District Refuses to Follow Title IX",
+    "category": "education"
+  },
+  "https://www.augie.edu/news/2026/augustana-universitys-eide/dalrymple-gallery-presents-chad-nelson-fires-dark": {
+    "source": "augie_news",
+    "fetch_time": "2026-06-03T20:00:19.936464",
+    "title": "Augustana University’s Eide/Dalrymple Gallery Presents ‘Chad Nelson: Fires in the Dark’",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-vincennes-honors-class-2025-26-commencement-ceremony": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-03T20:00:27.958231",
+    "title": "Purdue Polytechnic in Vincennes honors class of 2025-26 at commencement ceremony",
+    "category": "semiconductor"
+  },
+  "https://education.wisc.edu/news/uw-madison-study-shows-training-in-culturally-aware-mentoring-creates-lasting-change-for-biomedical-faculty/": {
+    "source": "uw_education",
+    "fetch_time": "2026-06-03T20:00:28.318028",
+    "title": "UW–Madison study shows training in culturally aware mentoring creates lasting change for biomedical faculty",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/06/graduation-convocation-speakers-class-of-2026": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-03T20:00:28.623937",
+    "title": "Who’s speaking to the Class of 2026?",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Light-genetics-provide-insight-into-arrhythmias-effects-on-brain.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-06-03T20:00:29.492783",
+    "title": "Light, genetics provide insight into arrhythmia’s effects on brain",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/class-2026-looks-back-journeys-convocation": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-03T20:00:29.629847",
+    "title": "Class of 2026 looks back on the journeys to Convocation",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/electrolytegpt-can-generate-new-formulations-battery-development": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-03T20:00:29.629873",
+    "title": "“ElectrolyteGPT” can generate new formulations for battery development",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/two-scholars-receive-honorary-degrees-uchicagos-2026-convocation": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-03T20:00:29.629884",
+    "title": "Two scholars to receive honorary degrees at UChicago’s 2026 Convocation",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/strengthening-customs-enforcement/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-03T20:00:30.248724",
+    "title": "Strengthening Customs Enforcement",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/implementing-schedule-policy-career-in-the-excepted-service/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-03T20:00:30.248749",
+    "title": "Implementing Schedule Policy/Career in the Excepted Service",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-03T20:00:30.248760",
+    "title": "Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-03T20:00:30.248770",
+    "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement",
+    "category": "general"
   }
 }

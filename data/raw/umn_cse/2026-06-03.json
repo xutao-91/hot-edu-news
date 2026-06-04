@@ -1,7 +1,7 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-06-03T12:00:24.181943",
+  "crawled_at": "2026-06-03T20:00:22.061687",
   "total_news": 3,
   "news": [
     {
@@ -18,7 +18,7 @@
       "url": "https://cse.umn.edu/college/news/graduate-student-aims-advance-hypersonic-turbulence-knowledge",
       "date": "2026-06-03",
       "type": "Research",
-      "summary_en": "Ph.D. student Carter Vu is studying that split second transition from laminar to turbulent flow — and he’s doing it with a research group of STEM experts across the University of Minnesota.",
+      "summary_en": "Ph.D. student Carter Vu is studying that split second transition from laminar to turbulent flow — and he’s doing it with an interdisciplinary research group of STEM experts across the University of Minnesota.",
       "source": "UMN CSE",
       "category": "students"
     },

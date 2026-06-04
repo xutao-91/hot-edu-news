@@ -1,9 +1,18 @@
 {
   "source": "Augustana University News",
   "source_url": "https://www.augie.edu/about/news",
-  "crawled_at": "2026-06-03T12:00:21.419824",
-  "total_news": 1,
+  "crawled_at": "2026-06-03T20:00:19.457376",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Augustana University’s Eide/Dalrymple Gallery Presents ‘Chad Nelson: Fires in the Dark’",
+      "url": "https://www.augie.edu/news/2026/augustana-universitys-eide/dalrymple-gallery-presents-chad-nelson-fires-dark",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "The Augustana University Eide/Dalrymple Gallery presents “Chad Nelson: Fires in the Dark,” a Master of Art Education thesis exhibition — on view through Thursday, June 18. Free and open to the public, a reception for “Fires in the Dark” will take place in the Center for Visual Arts on Friday, June 5, from 6-8 p.m.",
+      "source": "Augustana News",
+      "category": "general"
+    },
     {
       "title": "Augustana Alumnae Rally Around Friend, Classmate in Her Final Year",
       "url": "https://www.augie.edu/news/2026/augustana-alumnae-rally-around-friend-classmate-her-final-year",

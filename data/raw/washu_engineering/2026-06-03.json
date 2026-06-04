@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-06-03T12:00:29.278337",
-  "total_news": 2,
+  "crawled_at": "2026-06-03T20:00:29.158452",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Light, genetics provide insight into arrhythmia’s effects on brain",
+      "url": "https://engineering.washu.edu/news/2026/Light-genetics-provide-insight-into-arrhythmias-effects-on-brain.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Chao Zhou’s lab induces on-demand arrhythmia in mouse model using light.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "New minor in computational artificial intelligence offered at Washington University in St. Louis",
       "url": "https://engineering.washu.edu/news/2026/New-minor-in-computational-artificial-intelligence-offered-at-Washington-University-in-St-Louis.html",

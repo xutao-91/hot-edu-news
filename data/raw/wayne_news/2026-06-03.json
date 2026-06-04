@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-06-03T12:00:16.732527",
-  "total_news": 3,
+  "crawled_at": "2026-06-03T20:00:17.332585",
+  "total_news": 4,
   "news": [
+    {
+      "title": "WSU continues its Juneteenth tradition with June 17 celebration",
+      "url": "https://today.wayne.edu/news/2026/06/03/wsu-continues-juneteenth-tradition-with-celebration-on-june-17-69508",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
     {
       "title": "Wayne State research advances technology for faster, more secure internet",
       "url": "https://today.wayne.edu/news/2026/06/03/wayne-state-research-advances-technology-for-faster-more-secure-internet-69514",
