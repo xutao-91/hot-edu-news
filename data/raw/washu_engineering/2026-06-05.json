@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-05T12:00:30.492874",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Five McKelvey faculty awarded Collaboration Initiation Grants",
+      "url": "https://engineering.washu.edu/news/2026/Five-McKelvey-faculty-awarded-Collaboration-Initiation-Grants.html",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "The program supports collaborative research by junior faculty.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty"
+    },
+    {
+      "title": "Light, genetics provide insight into arrhythmia’s effects on brain",
+      "url": "https://engineering.washu.edu/news/2026/Light-genetics-provide-insight-into-arrhythmias-effects-on-brain.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Chao Zhou’s lab induces on-demand arrhythmia in mouse model using light.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

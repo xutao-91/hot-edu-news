@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-05T12:00:30.802268",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "National Cancer Institute awards $66M to renew clinical trial center at UChicago",
+      "url": "https://news.uchicago.edu/story/national-cancer-institute-awards-66m-renew-clinical-trial-center-uchicago",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "Oncology Statistics and Data Management Center provides expertise and support for national clinical trials",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Two University of Chicago professors elected to British Royal Society",
+      "url": "https://news.uchicago.edu/story/two-university-chicago-professors-elected-british-royal-society",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Class of 2026 looks back on the journeys to Convocation",
+      "url": "https://news.uchicago.edu/story/class-2026-looks-back-journeys-convocation",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Across UChicago, graduating students built a campus space program, logged hundreds of hours of pro bono legal service and much more",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "“ElectrolyteGPT” can generate new formulations for battery development",
+      "url": "https://news.uchicago.edu/story/electrolytegpt-can-generate-new-formulations-battery-development",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "UChicago team creates new chemical language to help AI generate entire mixtures, not just the ingredients",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Two scholars to receive honorary degrees at UChicago’s 2026 Convocation",
+      "url": "https://news.uchicago.edu/story/two-scholars-receive-honorary-degrees-uchicagos-2026-convocation",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "University of Chicago will award honorary degrees to two distinguished scholars on June 6 during its Convocation celebration of the Class of 2026.",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Convocation activities to celebrate UChicago’s Class of 2026",
+      "url": "https://news.uchicago.edu/story/convocation-activities-celebrate-uchicagos-class-2026",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "Class Day, University-wide ceremonies to be held June 5-6",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Class Day speakers highlight communities built during their time at UChicago",
+      "url": "https://news.uchicago.edu/story/class-day-speakers-highlight-communities-built-during-their-time-uchicago",
+      "date": "2026-06-02",
+      "type": "News",
+      "summary_en": "Fourth-years Matteo Caloia, Ana Emilia Davalos and Vincent Li to share lessons learned at annual event",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

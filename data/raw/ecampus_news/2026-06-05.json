@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-05T12:00:21.920032",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The Canvas ransomware attack shows why schools must focus on containment, not just recovery",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/06/05/the-canvas-ransomware-attack-containment-not-just-recovery/",
+      "date": "2026-06-05",
+      "type": "Ransomware",
+      "summary_en": "The recent ransomware incident involving Canvas has renewed attention on one of the most difficult decisions schools and technology providers can face: how to respond when sensitive student, faculty, or institutional data is stolen and threatened with public release.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "The hidden cost of college isn’t money–it’s time and opportunity",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/06/03/the-hidden-cost-of-college-isnt-money-its-time-and-opportunity/",
+      "date": "2026-06-03",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Late last year, members of Congress met to scrutinize college costs and to press institutions to be more transparent about what students pay and what they get in return. But while the hearing focused on dollars and cents, the price of college takes many forms.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

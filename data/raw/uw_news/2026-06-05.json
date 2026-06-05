@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-05T12:00:19.056539",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "The two Owens",
+      "url": "https://onwisconsin.uwalumni.com/the-two-owens/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "The death of a six-year-old inspired a UW–Madison researcher to investigate a rare brain cancer.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Research at UW–Madison improves care for dogs undergoing surgeries",
+      "url": "https://news.wisc.edu/research-at-uw-madison-improves-care-for-dogs-undergoing-surgeries/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "A 2023 study led to an anesthesia method to keep dogs comfortable and healthy when undergoing many surgical procedures necessary for their care.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Universities of Wisconsin Board of Regents approves modest tuition increase",
+      "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-board-of-regents-approves-modest-below-inflation-tuition-increase/",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "The 2 percent increase is below the current inflation rate and is designed to help universities address rising operating costs while continuing to maintain affordability",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Zika infections can cause significant developmental problems",
+      "url": "https://news.wisc.edu/zika-infections-can-cause-significant-developmental-problems/",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "Even babies born without the virus’s notable physical symptoms may experience sensory, attachment and anxiety issues, according to a new study.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Detailed molecular picture of tooth enamel reveals adaptions to diets",
+      "url": "https://www.physics.wisc.edu/2026/06/03/detailed-molecular-picture-of-tooth-enamel-reveals-adaptions-to-diets-gilbert-and-colleagues-find/",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "Research lead by UW–Madison physics professor suggests that enamel evolved to become tougher over millions of years.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Student-athletes lock in on academics during the summer",
+      "url": "https://summer.wisc.edu/blog/student-athletes-lock-in-during-the-summer/",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison student-athletes know that every season counts, including summer. Four Badgers share how Summer Term helps keep them prepared for the year ahead.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "True blue fun at Allen Centennial Garden",
+      "url": "https://news.wisc.edu/true-blue-fun-at-allen-centennial-garden/",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "A recent workshop at the Garden showcased the scientific wonder that comes from fermenting indigo plants.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

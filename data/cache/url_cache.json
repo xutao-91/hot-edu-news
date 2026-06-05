@@ -7012,5 +7012,149 @@
     "fetch_time": "2026-06-04T20:00:33.885439",
     "title": "Butler University Breaks Ground on Whitehill Ballroom, Advancing Midtown Arts District Vision",
     "category": "education"
+  },
+  "https://www.brookings.edu/articles/local-control-national-conflict-school-boards-in-the-covid-19-and-culture-war-era/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-05T12:00:08.838651",
+    "title": "Local control, national conflict: School boards in the COVID-19 and culture war era",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/chapter-1-media-reporting-on-school-board-conflicts/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-05T12:00:08.838683",
+    "title": "Chapter 1: Media reporting on school board conflicts",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/chapter-2-school-board-members-views-of-the-covid-19-and-culture-war-era/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-05T12:00:08.838735",
+    "title": "Chapter 2: School board members’ views of the COVID-19 and culture-war era",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/05/americans-say-keeping-up-with-key-news-topics-is-crucial-but-fewer-say-theyre-highly-informed-themselves/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-05T12:00:09.336525",
+    "title": "Americans say keeping up with key news topics is crucial. But fewer say they’re highly informed themselves",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/colorados-first-public-christian-school-closes-permanently/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-05T12:00:15.605250",
+    "title": "Colorado’s ‘First Public Christian School’ Closes Permanently",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/oklahoma-teachers-just-got-a-raise-but-the-state-is-still-playing-catch-up/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-05T12:00:15.605278",
+    "title": "Oklahoma Teachers Just Got a Raise, but the State Still a ‘Lap Behind’",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/board-grants-faculty-appointments-tenure-6/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-05T12:00:15.944147",
+    "title": "Board grants faculty appointments, tenure",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/06/model-uses-real-image-to-train-ai-to-look-for-fakes/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-05T12:00:15.944174",
+    "title": "Model uses real image to train AI to look for fakes",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-june-5": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-05T12:00:17.472126",
+    "title": "Achievements | Honors, appointments and publications for June 5",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/husker-cuts-records-while-pursuing-degree": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-05T12:00:17.472153",
+    "title": "Husker cuts records while pursuing degree",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nurture-nebraska-gives-huskers-real-world-experience-in-ad-campaigns": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-05T12:00:17.472163",
+    "title": "Nurture Nebraska gives Huskers real-world experience in ad campaigns",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/06/05/fifth-school-of-public-health-gateway-session-highlights-refined-plans-and-next-steps-69539": {
+    "source": "wayne_news",
+    "fetch_time": "2026-06-05T12:00:17.785649",
+    "title": "Fifth school of public health gateway session highlights refined plans and next steps",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/sidewalk-closure-fairchild-hall.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-05T12:00:18.679008",
+    "title": "Sidewalk closure north of Fairchild Hall starts on June 8",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/interim-dean-finalists-college-of-arts-and-sciences.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-05T12:00:18.679033",
+    "title": "Finalists announced for interim dean of College of Arts and Sciences",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/world-kid-wind-challenge-winners-engineering.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-05T12:00:18.679044",
+    "title": "Engineering Extension wraps up 2026 KidWind Challenge with four Kansas teams named national champions",
+    "category": "general"
+  },
+  "/news/2026/06/wildfires-have-worsened-ozone-pollution-united-states": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-06-05T12:00:19.678013",
+    "title": "Wildfires have worsened ozone pollution in the United States",
+    "category": "ai"
+  },
+  "https://onwisconsin.uwalumni.com/the-two-owens/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-05T12:00:19.871425",
+    "title": "The two Owens",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/research-at-uw-madison-improves-care-for-dogs-undergoing-surgeries/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-05T12:00:19.871452",
+    "title": "Research at UW–Madison improves care for dogs undergoing surgeries",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-mario-lopez-will-host-presidential-1776-award-special": {
+    "source": "edgov",
+    "fetch_time": "2026-06-05T12:00:20.784187",
+    "title": "U.S. Department of Education Announces Mario Lopez Will Host “PRESIDENTIAL 1776 AWARD” Special",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-06-04/rockhurst-university-joins-mourning-bill-dunn-sr": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-06-05T12:00:21.310548",
+    "title": "Rockhurst University Joins in Mourning for Bill Dunn Sr.",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/cybersecurity/2026/06/05/the-canvas-ransomware-attack-containment-not-just-recovery/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-05T12:00:22.591836",
+    "title": "The Canvas ransomware attack shows why schools must focus on containment, not just recovery",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/cse-projects-tackle-lake-health-wild-rice-restoration-through-sustainability-grants": {
+    "source": "umn_cse",
+    "fetch_time": "2026-06-05T12:00:24.645747",
+    "title": "CSE projects tackle lake health, wild rice restoration through sustainability grants",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/students-explore-european-auto-manufacturing-and-logistics-during-study-abroad": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-05T12:00:28.182082",
+    "title": "Students explore European auto manufacturing and logistics during study abroad",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/06/local-high-school-football-rivalry-comes-to-ryan-field": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-05T12:00:29.721744",
+    "title": "Local high school football rivalry comes to Ryan Field",
+    "category": "education"
   }
 }

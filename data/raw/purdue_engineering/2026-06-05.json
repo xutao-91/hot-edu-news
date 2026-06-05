@@ -1,0 +1,62 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-06-05T12:00:24.806533",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Nuclear Engineering Online SMR/AR Technology Courses\r\nEvolution in Nuclear Reactor Technology and SMRs: Safety Features and Advances in Design",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0604-nuclear-engineering-online-smrar-technology-coursesevolution-in-nuclear-reactor-technology-and-smrs-safety-features-and-advances-in-design",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "Introducing the nation's first online professional (non-credit) credential in Small Modular Reactors! This series will prepare professional engineers to address a grand challenge: meeting the burgeoning demand for more reliable, flexible power generation as new technologies, such as AI, put increasing pressure on the grid. Each course is self-paced and contains 15 hours of content. Learners who su",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ME's Koslowski and Zapata join MIT team on design of impact-resistant plastics",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0604-purdue-mit-impact-resistant-plastics-nature-koslowski",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "Introducing weaker bonds into polystyrene and rubber helps these materials dissipate energy, making them more resistant to destructive forces.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Mark Lundstrom named dean of the College of Engineering",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0603-Mark-Lundstrom-named-dean-of-the-College-of-Engineering",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "A familiar leader and visionary pioneer has been appointed as the new John A. Edwardson Dean of the College of Engineering. Mark Lundstrom, who has been on the faculty for 46 years, assumed the role effective June 1.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "In Print: 'Advances in Human-AI Collaboration' by IE's Duffy",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0602-vincent-duffy-purdue-advances-human-ai-collaboration-book",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "\"Advances in Human-AI Collaboration\" offers a comprehensive exploration of AI technologies and applications in the field of industrial and systems engineering.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue researchers pioneer 'outside-looking-in' neural interface using DNA nanotechnology",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0602-purdue-bme-jayant-dna-nanotechnology-neural-interface",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "Researchers at Purdue University have developed synthetic DNA origami tiles that self-insert into live neuronal membranes to form stable nanopores, enabling scientists to record intracellular electrical activity and deliver drugs directly into targeted neurons, without damaging the cell membrane.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Purdue ECE launches gaming concentration in Indianapolis with Xbox Game Camp",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0602-Purdue-ECE-launches-Gaming-and-Interactive-Systems-Engineering-concentration-in%20Indianapolis-with-Xbox-Game-Camp",
+      "date": "June 2, 2026",
+      "type": "News",
+      "summary_en": "Purdue University's Elmore Family School of Electrical and Computer Engineering is launching a new Gaming and Interactive Systems Engineering concentration in Indianapolis, creating a new opportunity for students who want to combine their interest in gaming, technology and creativity with a Purdue engineering education.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

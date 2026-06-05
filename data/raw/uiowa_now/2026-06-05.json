@@ -1,0 +1,35 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-06-05T12:00:18.903306",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Wildfires have worsened ozone pollution in the United States",
+      "url": "/news/2026/06/wildfires-have-worsened-ozone-pollution-united-states",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "Wildfires over the past decade have led to rises in surface ozone pollution across much of the continental United States, creating unhealthy air and contributing to hundreds more premature deaths annually, according to a new study published in the journal Science. Researchers warn that surface ozone pollution could continue to worsen as wildfires become more prevalent.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Celebrating America's 250th: How UI papermakers helped preserve founding documents",
+      "url": "/news/2026/06/celebrating-americas-250th-how-ui-papermakers-helped-preserve-founding-documents",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Every year, more than 1 million visitors enter the quiet, reverent space inside the National Archives Rotunda in Washington, D.C., to see three of America’s founding documents: the Declaration of Independence, the U.S. Constitution, and the Bill of Rights. However, few realize as they peer through the protective glass that they’re also getting a glimpse of University of Iowa ingenuity. Each of the",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Why 'The Odyssey' still matters, 3,000 years later",
+      "url": "/news/2026/06/why-odyssey-still-matters-3000-years-later",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Celsiana Warwick, assistant professor in the University of Iowa Department of Classics, explains why the ancient poem \"The Odyssey\" still feels strikingly modern — and what students and readers can learn from it today. Her forthcoming book, Gendered Voices in the Iliad, will be published by Oxford University Press in August.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}
