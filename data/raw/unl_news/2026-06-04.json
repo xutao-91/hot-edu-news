@@ -1,18 +1,9 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-06-04T12:00:16.681949",
-  "total_news": 10,
+  "crawled_at": "2026-06-04T20:00:18.394487",
+  "total_news": 9,
   "news": [
-    {
-      "title": "University of Nebraska Foundation celebrates 90 years of impact",
-      "url": "https://news.unl.edu/article/university-of-nebraska-foundation-celebrates-90-years-of-impact",
-      "date": "2026-06-04",
-      "type": "News",
-      "summary_en": "",
-      "source": "UNL News",
-      "category": "general"
-    },
     {
       "title": "Husker team reimagines leadership development",
       "url": "https://news.unl.edu/article/husker-team-reimagines-leadership-development",

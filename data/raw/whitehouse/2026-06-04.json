@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-04T12:00:31.822642",
+  "crawled_at": "2026-06-04T20:00:30.971232",
   "total_news": 10,
   "news": [
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/",
+      "date": "June 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Strong Support for President Trump’s Appointment of William J. Pulte as Acting Director of National Intelligence",
       "url": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
@@ -65,13 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/further-adjusting-the-tariff-regimes-for-imports-of-aluminum-steel-and-copper-into-the-united-states/",
       "date": "June 1, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on Global Coptic Day",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-global-coptic-day/",
-      "date": "June 1, 2026",
-      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]

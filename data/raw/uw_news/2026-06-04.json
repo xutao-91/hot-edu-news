@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-06-04T12:00:19.143759",
-  "total_news": 6,
+  "crawled_at": "2026-06-04T20:00:18.758976",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Universities of Wisconsin Board of Regents approves modest tuition increase",
+      "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-board-of-regents-approves-modest-below-inflation-tuition-increase/",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "The 2 percent increase is below the current inflation rate and is designed to help universities address rising operating costs while continuing to maintain affordability",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Zika infections can cause significant developmental problems",
       "url": "https://news.wisc.edu/zika-infections-can-cause-significant-developmental-problems/",

@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-04T12:00:15.965763",
-  "total_news": 5,
+  "crawled_at": "2026-06-04T20:00:15.113298",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Light, genetics provide insight into arrhythmia’s effects on brain",
+      "url": "https://source.washu.edu/2026/06/light-genetics-provide-insight-into-arrhythmias-effects-on-brain/",
+      "date": "2026-06-04",
+      "type": "Engineering",
+      "summary_en": "WashU biomedical engineers used highly sensitive imaging in a mouse model to better understand arrhythmia’s effect on the brain.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "WashU community invited to join Service Saturdays",
       "url": "https://source.washu.edu/2026/06/washu-community-invited-to-join-service-saturdays/",

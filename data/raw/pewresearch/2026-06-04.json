@@ -1,9 +1,22 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-04T12:00:07.259491",
-  "total_news": 3,
+  "crawled_at": "2026-06-04T20:00:07.605653",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Most people across 36 countries have negative views of Israel and little confidence in Netanyahu",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/04/most-people-across-36-countries-have-negative-views-of-israel-and-little-confidence-in-netanyahu/",
+      "date": "Jun 4, 2026",
+      "type": "short reads",
+      "categories": [
+        "Israel Global Image",
+        "Leaders"
+      ],
+      "summary_en": "Majorities in most of the countries we surveyed express an unfavorable view of Israel and little or no confidence in Prime Minister Benjamin Netanyahu.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Majority of new green cards have gone to immigrants already living in U.S.",
       "url": "https://www.pewresearch.org/short-reads/2026/06/02/majority-of-new-green-cards-have-gone-to-immigrants-already-living-in-us/",

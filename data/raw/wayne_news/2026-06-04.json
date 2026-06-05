@@ -1,12 +1,21 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-06-04T12:00:16.252765",
-  "total_news": 6,
+  "crawled_at": "2026-06-04T20:00:16.083600",
+  "total_news": 7,
   "news": [
     {
       "title": "WSU’s APEX Accelerator helps Detroit businesses compete",
       "url": "https://today.wayne.edu/news/2026/06/04/wsus-apex-accelerator-helps-detroit-businesses-compete-69479",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "WSU ceremonial mace featured at ‘Michigan Metals’ exhibition",
+      "url": "https://cfpca.wayne.edu/news/wayne-state-university-ceremonial-mace-featured-at-michigan-metals-exhibition-69519",
       "date": "2026-06-04",
       "type": "News",
       "summary_en": "",
