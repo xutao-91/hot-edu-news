@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-05T12:00:14.922073",
+  "crawled_at": "2026-06-05T20:00:13.580358",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.678011"
+      "crawled_at": "2026-06-05T20:00:13.345556"
+    },
+    {
+      "title": "Shaw, Barrera Emerge as Front-Runners in California Superintendent Race",
+      "url": "https://www.the74million.org/article/shaw-barrera-emerge-as-front-runners-in-california-superintendent-race/",
+      "date": "June 05, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-05T20:00:13.358602"
     },
     {
       "title": "Colorado’s ‘First Public Christian School’ Closes Permanently",
@@ -18,7 +26,7 @@
       "date": "June 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.690009"
+      "crawled_at": "2026-06-05T20:00:13.367830"
     },
     {
       "title": "Oklahoma Teachers Just Got a Raise, but the State Still a ‘Lap Behind’",
@@ -26,7 +34,7 @@
       "date": "June 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.702659"
+      "crawled_at": "2026-06-05T20:00:13.377194"
     },
     {
       "title": "Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech",
@@ -34,15 +42,15 @@
       "date": "June 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.712620"
+      "crawled_at": "2026-06-05T20:00:13.394649"
     },
     {
       "title": "Report: Tennessee Students Have Nearly Returned to Pre-COVID Math Achievement",
       "url": "https://www.the74million.org/article/report-tennessee-students-have-nearly-returned-to-pre-covid-math-achievement/",
-      "date": "June 05, 2026",
+      "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.722300"
+      "crawled_at": "2026-06-05T20:00:13.402328"
     },
     {
       "title": "At This Ohio High School, Students Can Skip Lectures and Work on Their Own",
@@ -50,7 +58,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.730689"
+      "crawled_at": "2026-06-05T20:00:13.410047"
     },
     {
       "title": "At This Ohio High School, Students Can Skip Lectures and Work On Their Own",
@@ -58,7 +66,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.739176"
+      "crawled_at": "2026-06-05T20:00:13.412658"
     },
     {
       "title": "Oklahoma Eases School Penalties for Chronic Student Absences",
@@ -66,7 +74,7 @@
       "date": "June 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.750805"
+      "crawled_at": "2026-06-05T20:00:13.417612"
     },
     {
       "title": "Parents’ Consent at the Heart of Ed Tech Lawsuits",
@@ -74,7 +82,7 @@
       "date": "June 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.761300"
+      "crawled_at": "2026-06-05T20:00:13.422109"
     },
     {
       "title": "Watch: A Candid Exit Interview With Baltimore’s Schools Chief Sonja Santelises",
@@ -82,7 +90,7 @@
       "date": "June 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.763570"
+      "crawled_at": "2026-06-05T20:00:13.427576"
     },
     {
       "title": "‘A Game of Catch-Up’: How This Oklahoma School Gets Kids Reading at Grade Level",
@@ -90,7 +98,7 @@
       "date": "June 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.774995"
+      "crawled_at": "2026-06-05T20:00:13.438140"
     },
     {
       "title": "California Wants to Fix Undercounting of Native American Students",
@@ -98,7 +106,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.786337"
+      "crawled_at": "2026-06-05T20:00:13.444727"
     },
     {
       "title": "Many Parents Talk About Delaying Kindergarten. Few Actually Do It",
@@ -106,7 +114,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.797722"
+      "crawled_at": "2026-06-05T20:00:13.452167"
     },
     {
       "title": "Oklahoma’s Schools Are Some of the Worst in the Nation. Can They Recover?",
@@ -114,7 +122,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.809056"
+      "crawled_at": "2026-06-05T20:00:13.460911"
     },
     {
       "title": "Maryland Schoolyard Farm Showcases Community Resilience",
@@ -122,7 +130,7 @@
       "date": "May 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.811415"
+      "crawled_at": "2026-06-05T20:00:13.463321"
     },
     {
       "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
@@ -130,7 +138,7 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.822816"
+      "crawled_at": "2026-06-05T20:00:13.475988"
     },
     {
       "title": "Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers",
@@ -138,7 +146,7 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.834205"
+      "crawled_at": "2026-06-05T20:00:13.489486"
     },
     {
       "title": "Texas Examines Use of National Teacher Certification for Incentive Pay",
@@ -146,7 +154,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.845566"
+      "crawled_at": "2026-06-05T20:00:13.501110"
     },
     {
       "title": "University of Cambridge-Backed Courses to Expand in Indiana High Schools via Grant Funding",
@@ -154,7 +162,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.856998"
+      "crawled_at": "2026-06-05T20:00:13.508575"
     },
     {
       "title": "New Documentary Traces Groundbreaking Career of ‘Sesame Street’ Star",
@@ -162,7 +170,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.859280"
+      "crawled_at": "2026-06-05T20:00:13.520078"
     },
     {
       "title": "The First School Year Under a Texas Law Targeting LGBTQ+ Students",
@@ -170,7 +178,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.869679"
+      "crawled_at": "2026-06-05T20:00:13.534557"
     },
     {
       "title": "More Megachurches Want To Be Your Alma Mater",
@@ -178,7 +186,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.881039"
+      "crawled_at": "2026-06-05T20:00:13.551001"
     },
     {
       "title": "Gov. Landry: Teachers Will Avoid Pay Cut, but Not Where He Will Find the Money",
@@ -186,7 +194,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.892449"
+      "crawled_at": "2026-06-05T20:00:13.565577"
     },
     {
       "title": "To Help Teens Get More Sleep, Experts Push for Later School Start Times",
@@ -194,15 +202,7 @@
       "date": "May 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.913234"
-    },
-    {
-      "title": "New Survey of Head Start Providers in 7 States Charts ICE’s Negative Impact",
-      "url": "https://www.the74million.org/zero2eight/new-survey-of-head-start-providers-in-7-states-charts-ices-negative-impact/",
-      "date": "May 28, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-05T12:00:14.921683"
+      "crawled_at": "2026-06-05T20:00:13.580012"
     }
   ]
 }

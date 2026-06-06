@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-05T12:00:15.371956",
-  "total_news": 7,
+  "crawled_at": "2026-06-05T20:00:14.889417",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Engineering enzymes with potential against ALS and Parkinson’s disease",
+      "url": "https://source.washu.edu/2026/06/engineering-enzymes-with-potential-against-als-and-parkinsons-disease/",
+      "date": "2026-06-05",
+      "type": "Aging",
+      "summary_en": "Researchers WashU devised a new high-tech method to generate an enzyme that can break down the misfolded proteins that cause neurodegenerative disease.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Board grants faculty appointments, tenure",
       "url": "https://source.washu.edu/2026/06/board-grants-faculty-appointments-tenure-6/",

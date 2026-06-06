@@ -1,8 +1,8 @@
 {
   "source": "Heritage Foundation - Education",
   "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-06-05T12:00:21.637798",
-  "total_news": 1,
+  "crawled_at": "2026-06-05T20:00:27.360772",
+  "total_news": 2,
   "news": [
     {
       "title": "The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...",
@@ -12,6 +12,15 @@
       "read_time": "",
       "source": "Heritage Foundation",
       "category": "policy"
+    },
+    {
+      "title": "Congress Celebrates School Year’s End With Proposal Protecting Children",
+      "url": "https://www.heritage.org/parental-rights/commentary/congress-celebrates-school-years-end-proposal-protecting-children",
+      "date": "Jun 4, 2026",
+      "type": "Commentary",
+      "read_time": "2 min",
+      "source": "Heritage Foundation",
+      "category": "federal_policy"
     }
   ]
 }

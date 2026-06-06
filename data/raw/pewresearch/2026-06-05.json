@@ -1,9 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-05T12:00:08.661003",
-  "total_news": 4,
+  "crawled_at": "2026-06-05T20:00:07.030617",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Vance is among 1.5% of Americans who have converted to Catholicism",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/",
+      "date": "Jun 5, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Catholicism",
+        "Us Religious Demographics"
+      ],
+      "summary_en": "Converts make up 8% of U.S. Catholics. The remaining 92% of U.S. Catholics were raised in the faith and still identify with it today.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Americans say keeping up with key news topics is crucial. But fewer say they’re highly informed themselves",
       "url": "https://www.pewresearch.org/short-reads/2026/06/05/americans-say-keeping-up-with-key-news-topics-is-crucial-but-fewer-say-theyre-highly-informed-themselves/",
@@ -16,6 +30,16 @@
         "Science News Information"
       ],
       "summary_en": "Democrats and Republicans broadly show similar patterns in how they evaluate the importance of staying informed about various topics.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "60 Minutes shakeup continues",
+      "url": "https://www.pewresearch.org/?prc_email_campaign=60-minutes-shakeup-continues",
+      "date": "Jun 4, 2026",
+      "type": "report",
+      "categories": [],
+      "summary_en": "☀️ Happy Thursday! The Briefing is your guide to the world of news and information. Sign up here! In today’s email: 🔥 Featured story Longtime 60 Minutes correspondent Scott Pelley was fired on Tuesday, a day after a heated meeting in which Pelley criticized CBS News Editor-in-Chief Bari Weiss, accused her of  “murdering” the program, and questioned the qualifications of newly […]",
       "source": "Pew Research Center",
       "category": "general"
     },

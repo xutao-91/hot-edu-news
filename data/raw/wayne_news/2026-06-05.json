@@ -1,12 +1,30 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-06-05T12:00:16.921932",
-  "total_news": 8,
+  "crawled_at": "2026-06-05T20:00:14.751250",
+  "total_news": 10,
   "news": [
     {
       "title": "Fifth school of public health gateway session highlights refined plans and next steps",
       "url": "https://today.wayne.edu/news/2026/06/05/fifth-school-of-public-health-gateway-session-highlights-refined-plans-and-next-steps-69539",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "WarriorGPT brings AI into the classroom — on faculty terms",
+      "url": "https://today.wayne.edu/news/2026/06/05/warriorgpt-brings-ai-into-the-classroom-on-faculty-terms-69546",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "A single letter helped Wayne State student step into public health advocacy",
+      "url": "https://today.wayne.edu/news/2026/06/05/a-single-letter-helped-wayne-state-student-step-into-public-health-advocacy-69548",
       "date": "2026-06-05",
       "type": "News",
       "summary_en": "",

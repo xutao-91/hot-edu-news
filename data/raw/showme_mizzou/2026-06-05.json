@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-06-05T12:00:19.018601",
-  "total_news": 4,
+  "crawled_at": "2026-06-05T20:00:21.052292",
+  "total_news": 5,
   "news": [
+    {
+      "title": "MEDIA ADVISORY: MUPD, Columbia first responders to hold active assailant exercise Tuesday",
+      "url": "https://showme.missouri.edu/2026/media-advisory-mupd-columbia-first-responders-to-hold-active-assailant-exercise-tuesday/",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "From festivals to workforce training, Jefferson Farm and Garden keeps growing",
       "url": "https://showme.missouri.edu/2026/from-festivals-to-workforce-training-jefferson-farms-and-garden-keeps-growing/",
