@@ -1,0 +1,35 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-06-06T12:00:23.708319",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "CSE projects tackle lake health, wild rice restoration through sustainability grants",
+      "url": "https://cse.umn.edu/college/news/cse-projects-tackle-lake-health-wild-rice-restoration-through-sustainability-grants",
+      "date": "2026-06-05",
+      "type": "Awards-Grants",
+      "summary_en": "The Institute on the Environment (IonE) is supporting 10 outcomes-driven projects across the University of Minnesota system through its $1.5 million Impact Goals grantmaking program. Among them are two College of Science and Engineering-led initiatives.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "Computer Science Assistant Professor Stevie Chancellor named Novus Faculty Impact Fellow",
+      "url": "https://cse.umn.edu/college/news/computer-science-assistant-professor-stevie-chancellor-named-novus-faculty-impact",
+      "date": "2026-06-03",
+      "type": "Awards-Grants",
+      "summary_en": "University of Minnesota Department of Computer Science & Engineering Assistant Professor Stevie Chancellor has been named a recipient of the Novus Faculty Impact Fellowship for her groundbreaking work in human-centered AI to improve mental health outcomes online.",
+      "source": "UMN CSE",
+      "category": "awards"
+    },
+    {
+      "title": "Graduate student aims to advance hypersonic turbulence knowledge",
+      "url": "https://cse.umn.edu/college/news/graduate-student-aims-advance-hypersonic-turbulence-knowledge",
+      "date": "2026-06-03",
+      "type": "Research",
+      "summary_en": "Ph.D. student Carter Vu is studying that split second transition from laminar to turbulent flow — and he’s doing it with an interdisciplinary research group of STEM experts across the University of Minnesota.",
+      "source": "UMN CSE",
+      "category": "students"
+    }
+  ]
+}

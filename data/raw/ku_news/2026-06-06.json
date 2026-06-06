@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-06T12:00:26.623910",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "US tobacco firms used cigarette-selling tactics to globally market ultra-processed foods",
+      "url": "https://news.ku.edu/news/article/us-tobacco-firms-used-cigarette-selling-tactics-to-globally-market-ultra-processed-foods-ARTICLE-5HS18B-ARTICLE-5HS18B",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "A new study from the University of Kansas details how U.S. tobacco corporations expanded into global food markets from the mid-1980s to the mid-2000s, using strategies honed through cigarette sales to market ultra-processed foods, which are industrially processed and contain ingredients and additives that maximize their appeal.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "More than a century of KU student journalism now freely available online",
+      "url": "https://news.ku.edu/news/article/more-than-a-century-of-ku-student-journalism-now-freely-available-online-ARTICLE-0K2KPF-ARTICLE-0K2KPF",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "KU Libraries have digitized more than 140 years of University of Kansas student newspapers, from the first campus publication in 1878 through 2017, making the collection freely available through Kenneth Spencer Research Library’s digital repository.",
+      "source": "KU News",
+      "category": "students"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-06-06T12:00:16.314238",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Engineering enzymes with potential against ALS and Parkinson’s disease",
+      "url": "https://source.washu.edu/2026/06/engineering-enzymes-with-potential-against-als-and-parkinsons-disease/",
+      "date": "2026-06-05",
+      "type": "Aging",
+      "summary_en": "Researchers WashU devised a new high-tech method to generate an enzyme that can break down the misfolded proteins that cause neurodegenerative disease.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Board grants faculty appointments, tenure",
+      "url": "https://source.washu.edu/2026/06/board-grants-faculty-appointments-tenure-6/",
+      "date": "2026-06-05",
+      "type": "Appointments & Promotions",
+      "summary_en": "At the WashU Board of Trustees meeting May 1, a few faculty members were appointed, promoted or granted tenure.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Model uses real image to train AI to look for fakes",
+      "url": "https://source.washu.edu/2026/06/model-uses-real-image-to-train-ai-to-look-for-fakes/",
+      "date": "2026-06-05",
+      "type": "Data & Computer Science",
+      "summary_en": "Nathan Jacobs’ lab at WashU tackles detecting AI-generated images with the real thing.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Light, genetics provide insight into arrhythmia’s effects on brain",
+      "url": "https://source.washu.edu/2026/06/light-genetics-provide-insight-into-arrhythmias-effects-on-brain/",
+      "date": "2026-06-04",
+      "type": "Engineering",
+      "summary_en": "WashU biomedical engineers used highly sensitive imaging in a mouse model to better understand arrhythmia’s effect on the brain.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU community invited to join Service Saturdays",
+      "url": "https://source.washu.edu/2026/06/washu-community-invited-to-join-service-saturdays/",
+      "date": "2026-06-04",
+      "type": "St. Louis Region",
+      "summary_en": "WashU Serves has released volunteer dates and locations for Service Saturdays through 2026. These community volunteer days are open to WashU faculty, staff, students, alumni and all other community members.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Genetically modified hookworms produce and deliver therapeutics",
+      "url": "https://source.washu.edu/2026/06/genetically-modified-hookworms-produce-and-deliver-therapeutics/",
+      "date": "2026-06-03",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine researchers genetically modified hookworms to produce and deliver a therapeutic antibody inside a host, a proof-of-concept that could lead to long-lasting treatments for chronic disease or exposure to toxins in remote settings.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "To reduce anxiety during pregnancy, make sleep a priority",
+      "url": "https://source.washu.edu/2026/06/to-reduce-anxiety-during-pregnancy-make-sleep-a-priority/",
+      "date": "2026-06-03",
+      "type": "Mental Health",
+      "summary_en": "WashU researchers have found  connections between sleep disruption and perinatal anxiety.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Research explains Trump’s influence on primary contests",
+      "url": "https://source.washu.edu/2026/06/washu-expert-research-explains-trumps-influence-on-primary-contests/",
+      "date": "2026-06-03",
+      "type": "Politics",
+      "summary_en": "Research by Daniel Butler, a professor of political science in WashU Arts & Sciences, suggests that candidates aligned with President Trump are advancing, in part, because disappointed 2024 Republican voters are opting out of this year’s intraparty contests.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

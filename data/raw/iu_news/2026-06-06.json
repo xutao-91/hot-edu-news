@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-06-06T12:00:23.592803",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Cognitive neuroscientist’s research challenges theories of decision-making",
+      "url": "https://psych.indiana.edu/news-events/news/2026/decider-brain.html",
+      "date": "Jun 3, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Indiana University officially launches Capital Campus in Washington, DC",
+      "url": "https://news.iu.edu/live/news/51148-indiana-university-officially-launches-capital",
+      "date": "Jun 3, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Wearable tech startup aims to diagnose common breathing disorder in younger athletes",
+      "url": "https://news.iu.edu/live/news/51138-wearable-tech-startup-aims-to-diagnose-common",
+      "date": "Jun 3, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

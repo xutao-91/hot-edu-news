@@ -1,0 +1,35 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-06T12:00:12.825337",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Preparing future math teachers to teach data science",
+      "url": "https://www.news.iastate.edu/news/preparing-future-math-teachers-teach-data-science",
+      "date": "2026-06-04",
+      "type": "Innovation and Research",
+      "summary_en": "Future math teachers may be the key to bringing data science into high‑school classrooms, and curriculum designed by researchers from Iowa State University and the University of Northern Iowa is helping pre-service teachers build their data‑science skills by tapping into the math they already know.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Integrating ‘citizen science’ with experimental data helps uncover how plants adapt",
+      "url": "https://www.news.iastate.edu/news/integrating-citizen-science-experimental-data-helps-uncover-how-plants-adapt",
+      "date": "2026-06-03",
+      "type": "Agriculture",
+      "summary_en": "A research team led in part by an Iowa State University agronomy professor combined public data with designed experiments to discover how different variants of switchgrass adapt to their environment, causing the plant to flower earlier in northern latitudes.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Artist residency shares unique art process with Des Moines students",
+      "url": "https://www.news.iastate.edu/news/artist-residency-shares-unique-art-process-des-moines-students",
+      "date": "2026-06-03",
+      "type": "Arts and Humanities",
+      "summary_en": "Named artist-in-residence with Ballet Des Moines, an Iowa State professor shared her unique process of weaving movement and art with Des Moines sixth graders.",
+      "source": "Iowa State News",
+      "category": "students"
+    }
+  ]
+}

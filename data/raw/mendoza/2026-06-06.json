@@ -1,0 +1,44 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-06-06T12:00:12.597817",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Data and Drive",
+      "url": "https://mendoza.nd.edu/news/data-and-drive/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "Whether she’s visualizing consumer stats or racing for an NCAA title, Carli Cronk (BBA ’28) approaches obstacles with the same analytical precision.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "The ethical choices of powering the AI race",
+      "url": "https://mendoza.nd.edu/news/the-ethical-choices-of-powering-the-ai-race/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "New case study produced at Notre Dame grapples with questions of energy, ethics and data centers",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "When IPOs go wrong: SpaceX, AI firms face a delicate process",
+      "url": "https://www.reuters.com/legal/transactional/when-ipos-go-wrong-spacex-ai-firms-face-delicate-process-2026-06-03/",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "Mendoza finance professor Timothy Loughran weighs in on the delicate legal and financial hurdles facing the SpaceX IPO.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "Investment scorecard ‘systematically’ understates active performance, study says",
+      "url": "https://www.financial-planning.com/news/investor-scorecard-understates-active-performance-study",
+      "date": "June 3, 2026",
+      "type": "News",
+      "summary_en": "Research by finance professor K. J. Martijn Cremers was discussed in this Financial Planning article about passive versus active managers.",
+      "source": "Mendoza College of Business",
+      "category": "research"
+    }
+  ]
+}

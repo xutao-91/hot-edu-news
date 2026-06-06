@@ -1,0 +1,71 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-06-06T12:00:11.608889",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Sidewalk closure north of Fairchild Hall starts on June 8",
+      "url": "https://www.k-state.edu/news/articles/2026/06/sidewalk-closure-fairchild-hall.html",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "Beginning Monday, June 8, a section of the sidewalk on the north side of Fairchild Hall, south of Mid-Campus Drive, will be temporarily closed to pedestrians.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Finalists announced for interim dean of College of Arts and Sciences",
+      "url": "https://www.k-state.edu/news/articles/2026/06/interim-dean-finalists-college-of-arts-and-sciences.html",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "The search committee for the interim dean of the College of Arts and Sciences announces three finalists who will interview for the position.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Engineering Extension wraps up 2026 KidWind Challenge with four Kansas teams named national champions",
+      "url": "https://www.k-state.edu/news/articles/2026/06/world-kid-wind-challenge-winners-engineering.html",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "In a thrilling finish to its 2026 KidWind Challenge season, the Kansas Energy Program, part of K-State Engineering Extension, saw four Kansas teams recognized as national champions...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Building beyond game day",
+      "url": "https://www.k-state.edu/news/articles/2026/06/salma-aouam-regional-transportation-kansas-city-world-cup.html",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "What can Kansas City gain from hosting the World Cup? Salma Aouam, a spring 2026 master's graduate in regional and community planning, says the event could leave behind stronger transit...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "From roommates to running mates",
+      "url": "https://www.k-state.edu/news/articles/2026/06/student-government-association-kstate-salina-leadership.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "Kansas State University Salina students have chosen new leadership for the upcoming academic year, selecting a duo with extensive experience in the Student Government Association.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State, Stormont Vail partnership fuels global DataFest challenge",
+      "url": "https://www.k-state.edu/news/articles/2026/06/datafest-expands-learning-beyond-classroom.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "K-State undergraduate students joined more than 2,000 others worldwide in this year’s ASA DataFest, a fast-paced analytics competition focused on improving patient care through real-world...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "May 2026 at K-State",
+      "url": "https://www.k-state.edu/news/articles/2026/06/may-photo-gallery.html",
+      "date": "2026-06-03",
+      "type": "News",
+      "summary_en": "As the spring semester came to a close, Wildcats continued to make an impact in classrooms, labs and communities. Look back at some of the memorable moments that defined May.",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}
