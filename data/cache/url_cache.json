@@ -7276,5 +7276,23 @@
     "fetch_time": "2026-06-06T12:00:30.866670",
     "title": "Granting Pardon to Stephen E. Buyer",
     "category": "general"
+  },
+  "https://www.studlife.com/news/2026/06/06/remembering-collin-maher": {
+    "source": "studlife",
+    "fetch_time": "2026-06-06T20:00:24.835321",
+    "title": "Remembering Collin Maher",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/boundless-love-knowledge-uchicagos-class-2026-called-boldly-face-future": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-06T20:00:29.701942",
+    "title": "With a ‘boundless love of knowledge,’ UChicago’s Class of 2026 called to boldly face the future",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-06T20:00:30.340960",
+    "title": "America 250: Presidential Message on the Anniversary of D-Day",
+    "category": "semiconductor"
   }
 }

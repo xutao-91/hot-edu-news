@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-06T12:00:30.649924",
+  "crawled_at": "2026-06-06T20:00:30.112870",
   "total_news": 10,
   "news": [
+    {
+      "title": "America 250: Presidential Message on the Anniversary of D-Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/",
+      "date": "June 6, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Presidential Message on National Ocean Month",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/",
@@ -63,13 +70,6 @@
     {
       "title": "Fact Sheet: President Donald J. Trump Increases Accountability in the Federal Workforce",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-increases-accountability-in-the-federal-workforce/",
-      "date": "June 3, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Strengthens Customs Enforcement",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-strengthens-customs-enforcement/",
       "date": "June 3, 2026",
       "category": "Fact Sheets",
       "source": "The White House"

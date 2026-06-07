@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-06T12:00:29.833856",
-  "total_news": 6,
+  "crawled_at": "2026-06-06T20:00:29.510659",
+  "total_news": 7,
   "news": [
+    {
+      "title": "With a ‘boundless love of knowledge,’ UChicago’s Class of 2026 called to boldly face the future",
+      "url": "https://news.uchicago.edu/story/boundless-love-knowledge-uchicagos-class-2026-called-boldly-face-future",
+      "date": "2026-06-06",
+      "type": "News",
+      "summary_en": "Speakers urge new graduates to embrace the unknown, having cultivated a ‘Chicago mind’",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "‘No limit to what UChicago taught you’: Class Day speakers look to future",
       "url": "https://news.uchicago.edu/story/no-limit-what-uchicago-taught-you-class-day-speakers-look-future",
