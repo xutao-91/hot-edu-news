@@ -1,0 +1,60 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-07T12:00:06.817952",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Vance is among 1.5% of Americans who have converted to Catholicism",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/",
+      "date": "Jun 5, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Catholicism",
+        "Us Religious Demographics"
+      ],
+      "summary_en": "Converts make up 8% of U.S. Catholics. The remaining 92% of U.S. Catholics were raised in the faith and still identify with it today.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans say keeping up with key news topics is crucial. But fewer say they’re highly informed themselves",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/05/americans-say-keeping-up-with-key-news-topics-is-crucial-but-fewer-say-theyre-highly-informed-themselves/",
+      "date": "Jun 5, 2026",
+      "type": "short reads",
+      "categories": [
+        "Election News 2",
+        "Media Society",
+        "News Media Trends",
+        "Science News Information"
+      ],
+      "summary_en": "Democrats and Republicans broadly show similar patterns in how they evaluate the importance of staying informed about various topics.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "60 Minutes shakeup continues",
+      "url": "https://www.pewresearch.org/?prc_email_campaign=60-minutes-shakeup-continues",
+      "date": "Jun 4, 2026",
+      "type": "report",
+      "categories": [],
+      "summary_en": "☀️ Happy Thursday! The Briefing is your guide to the world of news and information. Sign up here! In today’s email: 🔥 Featured story Longtime 60 Minutes correspondent Scott Pelley was fired on Tuesday, a day after a heated meeting in which Pelley criticized CBS News Editor-in-Chief Bari Weiss, accused her of  “murdering” the program, and questioned the qualifications of newly […]",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Most people across 36 countries have negative views of Israel and little confidence in Netanyahu",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/04/most-people-across-36-countries-have-negative-views-of-israel-and-little-confidence-in-netanyahu/",
+      "date": "Jun 4, 2026",
+      "type": "short reads",
+      "categories": [
+        "Israel Global Image",
+        "Leaders"
+      ],
+      "summary_en": "Majorities in most of the countries we surveyed express an unfavorable view of Israel and little or no confidence in Prime Minister Benjamin Netanyahu.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

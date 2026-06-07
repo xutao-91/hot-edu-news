@@ -1,0 +1,53 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-07T12:00:17.389350",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Universities of Wisconsin to host public listening sessions for presidential search",
+      "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-to-host-public-listening-sessions-for-presidential-search/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison will serves as a listening session site on Wednesday, June 10. Students, faculty, staff and community members are invited to attend in personal or virtually.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "The two Owens",
+      "url": "https://onwisconsin.uwalumni.com/the-two-owens/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "The death of a six-year-old inspired a UW–Madison researcher to investigate a rare brain cancer.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Research at UW–Madison improves care for dogs undergoing surgeries",
+      "url": "https://news.wisc.edu/research-at-uw-madison-improves-care-for-dogs-undergoing-surgeries/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "A 2023 study led to an anesthesia method to keep dogs comfortable and healthy when undergoing many surgical procedures necessary for their care.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Universities of Wisconsin Board of Regents approves modest tuition increase",
+      "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-board-of-regents-approves-modest-below-inflation-tuition-increase/",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "The 2 percent increase is below the current inflation rate and is designed to help universities address rising operating costs while continuing to maintain affordability",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Zika infections can cause significant developmental problems",
+      "url": "https://news.wisc.edu/zika-infections-can-cause-significant-developmental-problems/",
+      "date": "June 4, 2026",
+      "type": "News",
+      "summary_en": "Even babies born without the virus’s notable physical symptoms may experience sensory, attachment and anxiety issues, according to a new study.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-07T12:00:37.585646",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "America 250: Presidential Message on the Anniversary of D-Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/",
+      "date": "June 6, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Ocean Month",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-national-ocean-month/",
+      "date": "June 5, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Signs Historic Directive on AI in the National Security Enterprise",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-signs-historic-directive-on-ai-in-the-national-security-enterprise/",
+      "date": "June 5, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "National Security Presidential Memorandum/NSPM-11",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/",
+      "date": "June 5, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Granting Pardon to Stephen E. Buyer",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/granting-pardon-to-stephen-e-buyer/",
+      "date": "June 4, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Midway",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-midway/",
+      "date": "June 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Strong Support for President Trump’s Appointment of William J. Pulte as Acting Director of National Intelligence",
+      "url": "https://www.whitehouse.gov/releases/2026/06/strong-support-for-president-trumps-appointment-of-william-j-pulte-as-acting-director-of-national-intelligence/",
+      "date": "June 4, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

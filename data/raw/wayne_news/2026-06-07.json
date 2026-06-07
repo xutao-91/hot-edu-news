@@ -1,0 +1,53 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-06-07T12:00:15.538255",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Fifth school of public health gateway session highlights refined plans and next steps",
+      "url": "https://today.wayne.edu/news/2026/06/05/fifth-school-of-public-health-gateway-session-highlights-refined-plans-and-next-steps-69539",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "WarriorGPT brings AI into the classroom — on faculty terms",
+      "url": "https://today.wayne.edu/news/2026/06/05/warriorgpt-brings-ai-into-the-classroom-on-faculty-terms-69546",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "A single letter helped Wayne State student step into public health advocacy",
+      "url": "https://today.wayne.edu/news/2026/06/05/a-single-letter-helped-wayne-state-student-step-into-public-health-advocacy-69548",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "WSU’s APEX Accelerator helps Detroit businesses compete",
+      "url": "https://today.wayne.edu/news/2026/06/04/wsus-apex-accelerator-helps-detroit-businesses-compete-69479",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "WSU ceremonial mace featured at ‘Michigan Metals’ exhibition",
+      "url": "https://cfpca.wayne.edu/news/wayne-state-university-ceremonial-mace-featured-at-michigan-metals-exhibition-69519",
+      "date": "2026-06-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-07T12:00:30.847356",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Response to Ariel and Hasid’s Letter",
+      "url": "https://www.rand.org/pubs/external_publications/EP71310.html",
+      "date": "Jun 4, 2026",
+      "type": "Research",
+      "summary_en": "This article defends the importance of studying LLMs for alcohol misuse support outside clinical settings, noting most affected individuals never engage with formal care and use digital tools independently.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Verified Machine Learning Infrastructure: Formal Methods for Trustworthy Artificial Intelligence Deployment",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4881-1.html",
+      "date": "Jun 4, 2026",
+      "type": "Research",
+      "summary_en": "The authors determine whether formal methods—using mathematical techniques to reason about software behavior and, potentially, show that systems behave as specified—could meaningfully secure the infrastructure on which artificial intelligence runs.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

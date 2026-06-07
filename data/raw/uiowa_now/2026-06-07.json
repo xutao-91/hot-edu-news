@@ -1,0 +1,17 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-06-07T12:00:20.018344",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Wildfires have worsened ozone pollution in the United States",
+      "url": "/news/2026/06/wildfires-have-worsened-ozone-pollution-united-states",
+      "date": "2026-06-05",
+      "type": "News",
+      "summary_en": "Wildfires over the past decade have led to rises in surface ozone pollution across much of the continental United States, creating unhealthy air and contributing to hundreds more premature deaths annually, according to a new study published in the journal Science. Researchers warn that surface ozone pollution could continue to worsen as wildfires become more prevalent.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

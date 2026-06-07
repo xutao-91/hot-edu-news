@@ -7294,5 +7294,17 @@
     "fetch_time": "2026-06-06T20:00:30.340960",
     "title": "America 250: Presidential Message on the Anniversary of D-Day",
     "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/nearly-84-of-detroit-district-high-schoolers-were-paid-for-attendance-this-year/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-07T12:00:21.788284",
+    "title": "Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/artificial-intelligence-is-here-to-stay-are-hawai%ca%bbi-schools-ready/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-07T12:00:21.788311",
+    "title": "Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready?",
+    "category": "education"
   }
 }

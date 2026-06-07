@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-07T12:00:13.201914",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Preparing future math teachers to teach data science",
+      "url": "https://www.news.iastate.edu/news/preparing-future-math-teachers-teach-data-science",
+      "date": "2026-06-04",
+      "type": "Innovation and Research",
+      "summary_en": "Future math teachers may be the key to bringing data science into high‑school classrooms, and curriculum designed by researchers from Iowa State University and the University of Northern Iowa is helping pre-service teachers build their data‑science skills by tapping into the math they already know.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

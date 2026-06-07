@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-07T12:00:18.806232",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The Canvas ransomware attack shows why schools must focus on containment, not just recovery",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/06/05/the-canvas-ransomware-attack-containment-not-just-recovery/",
+      "date": "2026-06-05",
+      "type": "Ransomware",
+      "summary_en": "The recent ransomware incident involving Canvas has renewed attention on one of the most difficult decisions schools and technology providers can face: how to respond when sensitive student, faculty, or institutional data is stolen and threatened with public release.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}
