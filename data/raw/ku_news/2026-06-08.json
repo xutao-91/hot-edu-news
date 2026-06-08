@@ -1,0 +1,17 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-08T12:00:26.808225",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "KU’s Spencer Museum welcomes the world with installation, programs for summer of soccer",
+      "url": "https://news.ku.edu/news/article/kus-spencer-museum-welcomes-the-world-with-installation-programs-for-summer-of-soccer-ARTICLE-5NE86T-ARTICLE-5NE86T-ARTICLE-5NE86T",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "The Spencer Museum of Art at the University of Kansas has a special installation highlighting art from the countries playing and staying in the Kansas City area this summer for the world’s premier international soccer competition.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

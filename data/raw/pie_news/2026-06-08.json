@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-08T12:00:08.681639",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Japan’s study abroad landscape shifts as short-term mobility grows",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-06-08",
+      "type": "Study Abroad",
+      "summary_en": "Japan's outbound student mobility remains below pre-pandemic levels as rising costs drive shorter study abroad experiences and shifting destination preferences.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIE investigates: The real cost of rejection in visa fees",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-08",
+      "type": "Data",
+      "summary_en": "The UK collected more than £9.3 million in visa fees over the last 12 months from students who were ultimately refused entry. The PIE investigates how the government is generating more income from visa refusals since 2012, despite falling application levels.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Nicholas Cuthbert and Dave Amor"
+    },
+    {
+      "title": "ICEF launches new agent information tool to increase transparency",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-08",
+      "type": "Recruitment & agents",
+      "summary_en": "ICEF has launched a new Appointed Agent Locator tool to help institutions publish crucial information on their websites about who they use to recruit international students.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "US trails rivals on affordability, safety and visas in global student poll",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-05",
+      "type": "Data",
+      "summary_en": "The US continues to lose its appeal among prospective international students, ranking bottom of the ‘big four’ on affordability, entry, safety, and culture in a new student survey.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Vietnam’s higher education ambitions gather pace",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-05",
+      "type": "Recruitment & agents",
+      "summary_en": "Vietnam is seeking to shift from a major outbound student market to an international study destination, driven by policy reform, English-medium growth and expanding TNE partnerships.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    }
+  ]
+}

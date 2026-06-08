@@ -1,0 +1,62 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-06-08T12:00:14.824286",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Vij named inaugural Jeffrey S. and Prue H. Gershman Distinguished Professor",
+      "url": "https://source.washu.edu/2026/06/vij-named-inaugural-jeffrey-s-and-prue-h-gershman-distinguished-professor/",
+      "date": "2026-06-08",
+      "type": "Advancement",
+      "summary_en": "Ravi Vij, MD, a national leader in the research and treatment of blood cancers, has been installed as the inaugural Jeffrey S. and Prue H. Gershman Distinguished Professor in the John T. Milliken Department of Medicine at WashU Medicine.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "WashU Medicine’s Ritchey receives Gloria White Award",
+      "url": "https://source.washu.edu/2026/06/washu-medicines-ritchey-receives-gloria-white-award/",
+      "date": "2026-06-08",
+      "type": "Awards & Notables",
+      "summary_en": "Julie Ritchey, research laboratory manager of the lab of John DiPersio, MD, in the John T. Milliken Department of Medicine at WashU Medicine, received the 2026 Gloria W. White Distinguished Service Award. For more than three decades, Richey has worked to advance research on stem cell therapies.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "How Thomas Jefferson’s Quran became test case for religious liberty",
+      "url": "https://source.washu.edu/2026/06/washu-expert-how-thomas-jeffersons-quran-became-test-case-for-religious-liberty/",
+      "date": "2026-06-08",
+      "type": "Religion",
+      "summary_en": "Tazeen Ali, an assistant professor of religion and politics at Washington University in St. Louis, says Thomas Jefferson’s Quran confronts us with the question of what the founders themselves knew they couldn’t avoid: Will the promises of 1776 stop at the edge of our own religion, or will they extend to Muslims and beyond?",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Engineering enzymes with potential against ALS and Parkinson’s disease",
+      "url": "https://source.washu.edu/2026/06/engineering-enzymes-with-potential-against-als-and-parkinsons-disease/",
+      "date": "2026-06-05",
+      "type": "Aging",
+      "summary_en": "Researchers WashU devised a new high-tech method to generate an enzyme that can break down the misfolded proteins that cause neurodegenerative disease.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Board grants faculty appointments, tenure",
+      "url": "https://source.washu.edu/2026/06/board-grants-faculty-appointments-tenure-6/",
+      "date": "2026-06-05",
+      "type": "Appointments & Promotions",
+      "summary_en": "At the WashU Board of Trustees meeting May 1, a few faculty members were appointed, promoted or granted tenure.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Model uses real image to train AI to look for fakes",
+      "url": "https://source.washu.edu/2026/06/model-uses-real-image-to-train-ai-to-look-for-fakes/",
+      "date": "2026-06-05",
+      "type": "Data & Computer Science",
+      "summary_en": "Nathan Jacobs’ lab at WashU tackles detecting AI-generated images with the real thing.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

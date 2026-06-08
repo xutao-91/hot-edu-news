@@ -1,0 +1,26 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-06-08T12:00:13.713900",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Data and Drive",
+      "url": "https://mendoza.nd.edu/news/data-and-drive/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "Whether she’s visualizing consumer stats or racing for an NCAA title, Carli Cronk (BBA ’28) approaches obstacles with the same analytical precision.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "The ethical choices of powering the AI race",
+      "url": "https://mendoza.nd.edu/news/the-ethical-choices-of-powering-the-ai-race/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "New case study produced at Notre Dame grapples with questions of energy, ethics and data centers",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}

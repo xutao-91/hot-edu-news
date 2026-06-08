@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-08T12:00:29.446142",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "State of the American Teacher Survey: 2026 Technical Documentation and Survey Results",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4404-3.html",
+      "date": "Jun 8, 2026",
+      "type": "Research",
+      "summary_en": "This technical report includes descriptions of the data, samples, and methodology for the 2026 State of the American Teacher survey and American Life Panel companion survey, including survey results.",
+      "source": "Rand Corporation",
+      "category": "teachers"
+    },
+    {
+      "title": "Teacher Well-Being, Pay, and Intentions to Leave in 2026: Selected Findings from the 2026 State of the American Teacher Survey",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4404-2.html",
+      "date": "Jun 8, 2026",
+      "type": "Research",
+      "summary_en": "This report presents selected findings from the 2026 State of the American Teacher survey, which focus on teacher well-being and factors related to retention. The authors compare teachers’ responses with those of similar working adults.",
+      "source": "Rand Corporation",
+      "category": "teachers"
+    },
+    {
+      "title": "Teaching Computational Thinking to Children in Head Start Classrooms: Results from a Randomized Controlled Trial",
+      "url": "https://www.rand.org/pubs/external_publications/EP71335.html",
+      "date": "Jun 8, 2026",
+      "type": "Research",
+      "summary_en": "This article reports on the results of a randomized controlled trial evaluation of a novel curriculum that teaches computational thinking (CT) skills to children ages three through five in Head Start classrooms.",
+      "source": "Rand Corporation",
+      "category": "teachers"
+    },
+    {
+      "title": "Advancing U.S.–UK Cooperation to Secure Frontier Artificial Intelligence",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4764-1.html",
+      "date": "Jun 8, 2026",
+      "type": "Research",
+      "summary_en": "This interim report identifies a significant opportunity for collaboration between the United States and the United Kingdom and proposes a framework for coordinating efforts to secure frontier artificial intelligence development.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

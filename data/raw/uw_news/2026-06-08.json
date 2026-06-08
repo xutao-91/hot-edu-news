@@ -1,0 +1,44 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-08T12:00:18.893857",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Four Northwoods towns unite to rebuild EMS — and cut response times in half",
+      "url": "https://impact.wisc.edu/four-northwoods-towns-unite-to-rebuild-ems-and-cut-response-times-in-half",
+      "date": "June 8, 2026",
+      "type": "News",
+      "summary_en": "With support from UW–Madison’s Wisconsin Office of Rural Health, Vilas County communities replaced a strained volunteer system with a 24/7 paramedic service.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Universities of Wisconsin to host public listening sessions for presidential search",
+      "url": "https://www.wisconsin.edu/news/archive/universities-of-wisconsin-to-host-public-listening-sessions-for-presidential-search/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison will serves as a listening session site on Wednesday, June 10. Students, faculty, staff and community members are invited to attend in personal or virtually.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "The two Owens",
+      "url": "https://onwisconsin.uwalumni.com/the-two-owens/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "The death of a six-year-old inspired a UW–Madison researcher to investigate a rare brain cancer.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Research at UW–Madison improves care for dogs undergoing surgeries",
+      "url": "https://news.wisc.edu/research-at-uw-madison-improves-care-for-dogs-undergoing-surgeries/",
+      "date": "June 5, 2026",
+      "type": "News",
+      "summary_en": "A 2023 study led to an anesthesia method to keep dogs comfortable and healthy when undergoing many surgical procedures necessary for their care.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}
