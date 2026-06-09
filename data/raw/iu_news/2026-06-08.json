@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-06-08T12:00:24.293832",
-  "total_news": 1,
+  "crawled_at": "2026-06-08T20:00:24.710868",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Poll finds broad public support for sports as drivers of culture, economy in Indianapolis",
+      "url": "https://blogs.iu.edu/shhsnews/latest-indy-sports-poll-shows-sports-strengthen-city-pride-in-research-from-iu-indianapolis/",
+      "date": "Jun 8, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "Kelley graduate pitches her phone accessory startup through IU summit",
       "url": "https://news.iu.edu/live/news/51244-kelley-graduate-pitches-her-phone-accessory",

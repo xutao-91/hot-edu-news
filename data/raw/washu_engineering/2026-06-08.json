@@ -1,7 +1,17 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-06-08T12:00:29.386438",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-08T20:00:29.861610",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Inner life of cells under investigation",
+      "url": "https://engineering.washu.edu/news/2026/Inner-life-of-cells-under-investigation.html",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "Yifan Dai to look at chemical processes in cells with NIH grant.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
 }

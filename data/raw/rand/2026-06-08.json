@@ -1,24 +1,24 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-06-08T12:00:29.446142",
+  "crawled_at": "2026-06-08T20:00:31.168765",
   "total_news": 4,
   "news": [
-    {
-      "title": "State of the American Teacher Survey: 2026 Technical Documentation and Survey Results",
-      "url": "https://www.rand.org/pubs/research_reports/RRA4404-3.html",
-      "date": "Jun 8, 2026",
-      "type": "Research",
-      "summary_en": "This technical report includes descriptions of the data, samples, and methodology for the 2026 State of the American Teacher survey and American Life Panel companion survey, including survey results.",
-      "source": "Rand Corporation",
-      "category": "teachers"
-    },
     {
       "title": "Teacher Well-Being, Pay, and Intentions to Leave in 2026: Selected Findings from the 2026 State of the American Teacher Survey",
       "url": "https://www.rand.org/pubs/research_reports/RRA4404-2.html",
       "date": "Jun 8, 2026",
       "type": "Research",
       "summary_en": "This report presents selected findings from the 2026 State of the American Teacher survey, which focus on teacher well-being and factors related to retention. The authors compare teachers’ responses with those of similar working adults.",
+      "source": "Rand Corporation",
+      "category": "teachers"
+    },
+    {
+      "title": "State of the American Teacher Survey: 2026 Technical Documentation and Survey Results",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4404-3.html",
+      "date": "Jun 8, 2026",
+      "type": "Research",
+      "summary_en": "This technical report includes descriptions of the data, samples, and methodology for the 2026 State of the American Teacher survey and American Life Panel companion survey, including survey results.",
       "source": "Rand Corporation",
       "category": "teachers"
     },

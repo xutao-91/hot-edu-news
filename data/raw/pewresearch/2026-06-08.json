@@ -1,9 +1,24 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-08T12:00:07.809995",
-  "total_news": 2,
+  "crawled_at": "2026-06-08T20:00:08.109415",
+  "total_news": 3,
   "news": [
+    {
+      "title": "About 1 in 5 Americans have used crypto; Republicans’ use has ticked up",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/08/about-1-in-5-americans-have-used-crypto-republicans-use-has-ticked-up/",
+      "date": "Jun 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Commerce",
+        "Internet Technology",
+        "Online Privacy Security",
+        "Personal Finances"
+      ],
+      "summary_en": "Some of the biggest demographic differences in cryptocurrency use are by gender, age and income.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Vance is among 1.5% of Americans who have converted to Catholicism",
       "url": "https://www.pewresearch.org/short-reads/2026/06/05/vance-is-among-1-5-of-americans-who-have-converted-to-catholicism/",

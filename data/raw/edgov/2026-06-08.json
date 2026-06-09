@@ -1,9 +1,19 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-06-08T12:00:18.453619",
-  "total_news": 3,
+  "crawled_at": "2026-06-08T20:00:19.923829",
+  "total_news": 4,
   "news": [
+    {
+      "title": "U.S. Department of Education Probes Colorado School District Amid Reports of Rampant Racially-Discriminatory Programming",
+      "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-probes-colorado-school-district-amid-reports-of-rampant-racially-discriminatory-programming",
+      "date": "June 8, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "k12",
+      "content": "June 8, 2026\nToday, the U.S. Department of Education’s Office for Civil Rights (OCR) initiated investigations into Cherry Creek School District (the District) in Colorado amid allegations that it allows or sponsors a wide range of racially-discriminatory programming. OCR will determine whether the District violated Title VI of the Civil Rights Act of 1964 (Title VI) by discriminating on the basis of race.\nOCR is investigating allegations that the District sponsors clubs that exclude students based on race. Reports further allege that the district requires teachers to consider race when assigning classes and to provide differing levels of academic support based on race. Additionally, complaints claim that the District promotes a teacher training program that restricts participation based on race.\nOCR is also investigating the District’s “Voices of Color Committee,” a parent committee that reportedly grants preferential access and participation based solely on race, denying other parents an equal opportunity to participate in decisions that directly impact their children’s education. Complaints further allege that the District promoted a training program for educators entitled “Transformational Equity Experience: To Be Seen. To Belong. To Be Whole,” which teaches that the United States was founded on “white supremacy” and categorizes individuals as “oppressors” and “oppressed” based only on their skin color, not their individual decisions and actions.\n“These allegations of racially discriminatory conduct in this District seem to permeate almost every aspect of the school community, affecting students, teachers, and parents alike,”\nsaid Assistant Secretary for Civil Rights Kimberly Richey.\n“Federal law prohibits racial discrimination, which means that race cannot be a factor in how the school educates its students or trains its teachers. Despite this, the District seems to be basing decisions about how to support students, teachers and parents solely on race. The Trump Administration will fully investigate these allegations and enforce federal education law to the fullest extent.”\nBackground\nTitle VI and its implementing regulations prohibit discrimination on the basis of race, color, and national origin in educational programs and activities receiving federal financial assistance.\nContact\nPress Office\n(202) 401-1576\npress@ed.gov\nTags\nCivil Rights\nTitle VI",
+      "summary_en": ""
+    },
     {
       "title": "U.S. Department of Education Announces Connecting Talent to Opportunity Challenge Semifinalists",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-connecting-talent-opportunity-challenge-semifinalists",

@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-08T12:00:22.548031",
+  "crawled_at": "2026-06-08T20:00:18.263148",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.231628"
+      "crawled_at": "2026-06-08T20:00:18.010157"
+    },
+    {
+      "title": "Texas Schools Say They Still Face Budget Difficulties Despite $8.5 Billion Boost",
+      "url": "https://www.the74million.org/article/texas-schools-say-they-still-face-budget-difficulties-despite-8-5-billion-boost/",
+      "date": "June 08, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-08T20:00:18.023012"
     },
     {
       "title": "Aquatic Robots, Drones and Power Tools: STEM Spans All Grades in Oklahoma School",
@@ -18,7 +26,7 @@
       "date": "June 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.244909"
+      "crawled_at": "2026-06-08T20:00:18.037097"
     },
     {
       "title": "Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year",
@@ -26,7 +34,7 @@
       "date": "June 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.263094"
+      "crawled_at": "2026-06-08T20:00:18.051079"
     },
     {
       "title": "Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready?",
@@ -34,15 +42,7 @@
       "date": "June 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.294382"
-    },
-    {
-      "title": "Shaw, Barrera Emerge as Front-Runners in California Superintendent Race",
-      "url": "https://www.the74million.org/article/shaw-barrera-emerge-as-front-runners-in-california-superintendent-race/",
-      "date": "June 08, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.306979"
+      "crawled_at": "2026-06-08T20:00:18.072415"
     },
     {
       "title": "Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship",
@@ -50,7 +50,15 @@
       "date": "June 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.315755"
+      "crawled_at": "2026-06-08T20:00:18.081743"
+    },
+    {
+      "title": "Shaw, Barrera Emerge as Front-Runners in California Superintendent Race",
+      "url": "https://www.the74million.org/article/shaw-barrera-emerge-as-front-runners-in-california-superintendent-race/",
+      "date": "June 5, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-08T20:00:18.098430"
     },
     {
       "title": "Colorado’s ‘First Public Christian School’ Closes Permanently",
@@ -58,7 +66,7 @@
       "date": "June 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.327235"
+      "crawled_at": "2026-06-08T20:00:18.104911"
     },
     {
       "title": "Oklahoma Teachers Just Got a Raise, but the State Still a ‘Lap Behind’",
@@ -66,7 +74,7 @@
       "date": "June 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.337566"
+      "crawled_at": "2026-06-08T20:00:18.116574"
     },
     {
       "title": "Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech",
@@ -74,7 +82,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.348797"
+      "crawled_at": "2026-06-08T20:00:18.128122"
     },
     {
       "title": "Report: Tennessee Students Have Nearly Returned to Pre-COVID Math Achievement",
@@ -82,7 +90,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.351038"
+      "crawled_at": "2026-06-08T20:00:18.140086"
     },
     {
       "title": "At This Ohio High School, Students Can Skip Lectures and Work on Their Own",
@@ -90,7 +98,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.368403"
+      "crawled_at": "2026-06-08T20:00:18.149664"
     },
     {
       "title": "At This Ohio High School, Students Can Skip Lectures and Work On Their Own",
@@ -98,7 +106,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.381877"
+      "crawled_at": "2026-06-08T20:00:18.162237"
     },
     {
       "title": "Oklahoma Eases School Penalties for Chronic Student Absences",
@@ -106,7 +114,7 @@
       "date": "June 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.394630"
+      "crawled_at": "2026-06-08T20:00:18.164588"
     },
     {
       "title": "Parents’ Consent at the Heart of Ed Tech Lawsuits",
@@ -114,7 +122,7 @@
       "date": "June 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.406593"
+      "crawled_at": "2026-06-08T20:00:18.176025"
     },
     {
       "title": "Watch: A Candid Exit Interview With Baltimore’s Schools Chief Sonja Santelises",
@@ -122,7 +130,7 @@
       "date": "June 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.418470"
+      "crawled_at": "2026-06-08T20:00:18.187581"
     },
     {
       "title": "‘A Game of Catch-Up’: How This Oklahoma School Gets Kids Reading at Grade Level",
@@ -130,7 +138,7 @@
       "date": "June 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.430840"
+      "crawled_at": "2026-06-08T20:00:18.199731"
     },
     {
       "title": "California Wants to Fix Undercounting of Native American Students",
@@ -138,7 +146,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.446688"
+      "crawled_at": "2026-06-08T20:00:18.208205"
     },
     {
       "title": "Many Parents Talk About Delaying Kindergarten. Few Actually Do It",
@@ -146,7 +154,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.466991"
+      "crawled_at": "2026-06-08T20:00:18.215759"
     },
     {
       "title": "Oklahoma’s Schools Are Some of the Worst in the Nation. Can They Recover?",
@@ -154,7 +162,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.484003"
+      "crawled_at": "2026-06-08T20:00:18.224230"
     },
     {
       "title": "Maryland Schoolyard Farm Showcases Community Resilience",
@@ -162,7 +170,7 @@
       "date": "May 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.498949"
+      "crawled_at": "2026-06-08T20:00:18.226595"
     },
     {
       "title": "Tribal Students in Central Wyoming Release Small Fish in a Big Pond",
@@ -170,7 +178,7 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.512954"
+      "crawled_at": "2026-06-08T20:00:18.235118"
     },
     {
       "title": "Ohio Bill Would Require Increased Accountability for Schools Using Private School Vouchers",
@@ -178,7 +186,7 @@
       "date": "May 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.522872"
+      "crawled_at": "2026-06-08T20:00:18.242569"
     },
     {
       "title": "Texas Examines Use of National Teacher Certification for Incentive Pay",
@@ -186,7 +194,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.533755"
+      "crawled_at": "2026-06-08T20:00:18.252212"
     },
     {
       "title": "University of Cambridge-Backed Courses to Expand in Indiana High Schools via Grant Funding",
@@ -194,15 +202,7 @@
       "date": "May 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.539218"
-    },
-    {
-      "title": "New Documentary Traces Groundbreaking Career of ‘Sesame Street’ Star",
-      "url": "https://www.the74million.org/zero2eight/new-documentary-traces-groundbreaking-career-of-sesame-street-star/",
-      "date": "May 29, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-08T12:00:22.547623"
+      "crawled_at": "2026-06-08T20:00:18.260023"
     }
   ]
 }

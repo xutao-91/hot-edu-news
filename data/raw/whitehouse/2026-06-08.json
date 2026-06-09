@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-08T12:00:30.653336",
-  "total_news": 4,
+  "crawled_at": "2026-06-08T20:00:33.908068",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Nomination Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
+      "date": "June 8, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "America 250: Presidential Message on the Anniversary of D-Day",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-d-day/",

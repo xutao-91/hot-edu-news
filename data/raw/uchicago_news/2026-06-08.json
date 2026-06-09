@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-08T12:00:29.477809",
-  "total_news": 5,
+  "crawled_at": "2026-06-08T20:00:29.686395",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Will a New Presidential Center Change Chicago’s South Side?",
+      "url": "https://news.uchicago.edu/will-new-presidential-center-change-chicagos-south-side",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Cancer pathology AI company takes first at 2026 Edward L. Kaplan, ’71, New Venture Challenge",
       "url": "https://news.uchicago.edu/story/cancer-pathology-ai-company-takes-first-2026-edward-l-kaplan-71-new-venture-challenge",
@@ -41,11 +50,11 @@
       "category": "general"
     },
     {
-      "title": "‘No limit to what UChicago taught you’: Class Day speakers look to future",
-      "url": "https://news.uchicago.edu/story/no-limit-what-uchicago-taught-you-class-day-speakers-look-future",
+      "title": "‘No limit to our learning’: Class Day speakers look to future",
+      "url": "https://news.uchicago.edu/story/no-limit-our-learning-class-day-speakers-look-future",
       "date": "2026-06-05",
       "type": "News",
-      "summary_en": "Students, alum reflect on embracing possibilities and overcoming uncertainty",
+      "summary_en": "UChicago students, alum reflect on embracing possibilities and overcoming uncertainty",
       "source": "UChicago News",
       "category": "general"
     }

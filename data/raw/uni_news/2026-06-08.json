@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-06-08T12:00:18.765999",
-  "total_news": 1,
+  "crawled_at": "2026-06-08T20:00:18.229655",
+  "total_news": 2,
   "news": [
+    {
+      "title": "TheatreUNI and Crooked Path Classics present William Shakespeare’s “As You Like It” at the brand-new Northern Iowa Shakespeare Festival",
+      "url": "https://insideuni.uni.edu/arts-design/theatreuni-and-crooked-path-classics-present-william-shakespeares-you-it-brand-new",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "This summer, TheatreUNI and Crooked Path Classics are teaming up to launch the Northern Iowa Shakespeare Festival.",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "Nationally recognized leaders like Anna Pesek continue their growth at UNI",
       "url": "https://insideuni.uni.edu/business/nationally-recognized-leaders-anna-pesek-continue-their-growth-uni",
