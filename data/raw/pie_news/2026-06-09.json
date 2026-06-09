@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-09T12:00:08.181392",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Canada risks losing ground as rivals invest in higher education",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-09",
+      "type": "Data",
+      "summary_en": "A newly released 2026 world university ranking saw all but one Canadian institution lose ground to global competitors, as experts warn of the “financial crunch\" facing Canada’s higher education sector.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Why are TNE approvals surging in China?",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-06-09",
+      "type": "Transnational education",
+      "summary_en": "China's Ministry of Education approved 219 new Transnational Education (TNE) partnerships in its latest approval round at the end of May, the highest annual level of approvals since 2012 according to sector analysts.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Timothy van Gardingen"
+    },
+    {
+      "title": "Japan’s study abroad landscape shifts as short-term mobility grows",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-06-08",
+      "type": "Study Abroad",
+      "summary_en": "Japan's outbound student mobility remains below pre-pandemic levels as rising costs drive shorter study abroad experiences and shifting destination preferences.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIE investigates: The real cost of rejection in visa fees",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-08",
+      "type": "Data",
+      "summary_en": "The UK collected more than £9.3 million in visa fees over the last 12 months from students who were ultimately refused entry. The PIE investigates how the government is generating more income from visa refusals since 2012, despite falling application levels.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Nicholas Cuthbert and Dave Amor"
+    },
+    {
+      "title": "ICEF launches new agent information tool to increase transparency",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-08",
+      "type": "Recruitment & agents",
+      "summary_en": "ICEF has launched a new Appointed Agent Locator tool to help institutions publish crucial information on their websites about who they use to recruit international students.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

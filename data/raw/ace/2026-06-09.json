@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-06-09T12:00:30.795737",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "White House Proposal Signals Major Shift for U.S. Research Enterprise",
+      "url": "https://www.acenet.edu/News-Room/Pages/Proposal-Signals-Major-Shift-for-Research.aspx",
+      "date": "June 8, 2026",
+      "type": "News",
+      "summary_en": "A new proposal from the Office of Management and Budget (OMB) seeks to centralize authority over federal grantmaking, introducing significant changes to how research projects are evaluated and managed.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "ACE Commission on FBCUs Convenes National Leaders to Model Civil Dialogue on Campuses",
+      "url": "https://www.acenet.edu/News-Room/Pages/Faith-Based-Colleges-Commission-June-2026-Meeting.aspx",
+      "date": "June 8, 2026",
+      "type": "Press Release",
+      "summary_en": "ACE held its third annual convening of the ACE Commission on Faith-Based Colleges and Universities today at The Catholic University of America, gathering leaders from faith-based higher education institutions from across the country.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-09T12:00:25.530404",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "KU Law Veterans Legal Support Clinic to host suicide prevention and wellness program for veterans and first responders",
+      "url": "https://news.ku.edu/news/article/ku-law-veterans-legal-support-clinic-to-host-suicide-prevention-and-wellness-program-for-veterans-and-first-responders",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "The Veterans Legal Support Clinic at the University of Kansas School of Law will host a free “Lunch and Learn” program focused on suicide prevention, de-escalation techniques and personal wellness planning for veterans and their family members, law enforcement officers and first responders on June 16, in partnership with the U.S. Department of Veterans Affairs Eastern Kansas Health Care System, Ve",
+      "source": "KU News",
+      "category": "event"
+    },
+    {
+      "title": "Statewide partnership to help improve literacy rates evaluates school readiness, educator training",
+      "url": "https://news.ku.edu/news/article/statewide-partnership-to-help-improve-literacy-rates-evaluates-school-readiness-educator-training-ARTICLE-TG960C-ARTICLE-TG960C",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "KU researchers are working to address declining literacy rates in Kansas schools, where just 1 out of 3 students are reaching grade-level proficiency. The goal through the state's Blueprint for Literacy initiative is to reach 90% proficiency for students across Kansas.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Research examines how asexual, aromantic individuals view intimacy to improve education, counseling",
+      "url": "https://news.ku.edu/news/article/research-examines-how-asexual-aromantic-individuals-view-intimacy-to-improve-education-counseling-ARTICLE-ST16VX-ARTICLE-ST16VX",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Research from KU is examining how aromantic and asexual individuals view intimacy to better understand how they view relationships, to better understand themselves and to improve everything from relationship education, sexual assault prevention and counseling for all people. The improvement could also help address the mental health crisis among young people.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "2026 KU microbiology graduate Lauren Reimer awarded KU Phi Kappa Phi Fellowship",
+      "url": "https://news.ku.edu/news/article/2026-ku-microbiology-graduate-lauren-reimer-awarded-ku-phi-kappa-phi-fellowship",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Lauren Reimer, a 2026 University of Kansas graduate in microbiology, is the winner of this year’s James Blackiston Memorial Graduate Fellowship from the KU chapter of Phi Kappa Phi. She is the chapter’s nominee for a national Phi Kappa Phi fellowship.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "2026 KU seniors honor high school teachers with Wolfe Teaching Excellence Awards",
+      "url": "https://news.ku.edu/news/article/2026-ku-seniors-honor-high-school-teachers-with-wolfe-teaching-excellence-awards",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "Educators from Blue Valley West High School and Topeka High School in Kansas and from Mundelein High School in Illinois are recipients of annual teaching awards from graduating KU seniors.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU’s Spencer Museum welcomes the world with installation, programs for summer of soccer",
+      "url": "https://news.ku.edu/news/article/kus-spencer-museum-welcomes-the-world-with-installation-programs-for-summer-of-soccer-ARTICLE-5NE86T-ARTICLE-5NE86T-ARTICLE-5NE86T",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "The Spencer Museum of Art at the University of Kansas has a special installation highlighting art from the countries playing and staying in the Kansas City area this summer for the world’s premier international soccer competition.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-06-09T12:00:26.835570",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Cynthia Coburn receives 2026 Walder Award",
+      "url": "https://news.northwestern.edu/stories/2026/06/cynthia-coburn-receives-2026-walder-award",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Jinjoo Cho and Petia Vlahovska awarded Ver Steeg Fellowship",
+      "url": "https://news.northwestern.edu/stories/2026/06/jinjoo-cho-and-petia-vlahovska-awarded-ver-steeg-fellowship",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

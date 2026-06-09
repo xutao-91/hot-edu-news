@@ -1,0 +1,36 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-09T12:00:06.688063",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Israelis, Palestinians, Americans See War in Iran Differently",
+      "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/",
+      "date": "Jun 9, 2026",
+      "type": "report",
+      "categories": [
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Three-quarters of Israelis say the U.S. made the right decision in attacking Iran, while eight-in-ten Palestinians say the opposite. Americans are more divided.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "About 1 in 5 Americans have used crypto; Republicans’ use has ticked up",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/08/about-1-in-5-americans-have-used-crypto-republicans-use-has-ticked-up/",
+      "date": "Jun 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Commerce",
+        "Internet Technology",
+        "Online Privacy Security",
+        "Personal Finances"
+      ],
+      "summary_en": "Some of the biggest demographic differences in cryptocurrency use are by gender, age and income.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

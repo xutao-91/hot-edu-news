@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-06-09T12:00:16.622325",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Rural Fellows relaunches with eight students serving across Nebraska",
+      "url": "https://news.unl.edu/article/rural-fellows-relaunches-with-eight-students-serving-across-nebraska",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "U of Nebraska Press named publisher of the year",
+      "url": "https://news.unl.edu/article/u-of-nebraska-press-named-publisher-of-the-year",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska researchers map 'missing link' in plant growth and solar energy",
+      "url": "https://news.unl.edu/article/nebraska-researchers-map-missing-link-in-plant-growth-and-solar-energy",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Hansen finds the right fit in ag at Nebraska",
+      "url": "https://news.unl.edu/article/hansen-finds-the-right-fit-in-ag-at-nebraska-0",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "NSF-funded project explores potential ally against harmful algal blooms",
+      "url": "https://news.unl.edu/article/nsf-funded-project-explores-potential-ally-against-harmful-algal-blooms",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

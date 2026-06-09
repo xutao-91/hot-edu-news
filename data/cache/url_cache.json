@@ -7546,5 +7546,185 @@
     "fetch_time": "2026-06-08T20:00:34.199083",
     "title": "Nomination Sent to the Senate",
     "category": "general"
+  },
+  "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-09T12:00:07.133108",
+    "title": "Israelis, Palestinians, Americans See War in Iran Differently",
+    "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/coca-cola-and-notre-dame-bring-poverty-alleviation-efforts-to-host-cities-during-the-fifa-world-cup-2026/": {
+    "source": "nd_news",
+    "fetch_time": "2026-06-09T12:00:07.268661",
+    "title": "Coca-Cola and Notre Dame bring poverty alleviation efforts to host cities during the FIFA World Cup 2026",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/forage-research-supports-kansas-producers.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-09T12:00:12.539071",
+    "title": "Practical research to help producers",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/tulsa-charter-network-begins-to-bounce-back-from-pandemic-decline/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-09T12:00:14.649309",
+    "title": "Tulsa Charter Network Begins to Bounce Back From Pandemic Decline",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/zero2eight/inside-vermonts-decade-long-effort-to-change-childcare/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-09T12:00:14.649336",
+    "title": "Inside Vermont’s Decade-Long Effort to Change Childcare",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/06/targeting-tumor-metabolism-to-fight-cancer/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-09T12:00:16.063826",
+    "title": "Targeting tumor metabolism to fight cancer",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/rural-fellows-relaunches-with-eight-students-serving-across-nebraska": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-09T12:00:17.205647",
+    "title": "Rural Fellows relaunches with eight students serving across Nebraska",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/u-of-nebraska-press-named-publisher-of-the-year": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-09T12:00:17.205674",
+    "title": "U of Nebraska Press named publisher of the year",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-researchers-map-missing-link-in-plant-growth-and-solar-energy": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-09T12:00:17.205685",
+    "title": "Nebraska researchers map 'missing link' in plant growth and solar energy",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/hansen-finds-the-right-fit-in-ag-at-nebraska-0": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-09T12:00:17.205734",
+    "title": "Hansen finds the right fit in ag at Nebraska",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nsf-funded-project-explores-potential-ally-against-harmful-algal-blooms": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-09T12:00:17.205746",
+    "title": "NSF-funded project explores potential ally against harmful algal blooms",
+    "category": "ai"
+  },
+  "https://www.ed.gov/about/news/press-release/fact-sheet-trump-administration-simplifying-student-loan-repayment": {
+    "source": "edgov",
+    "fetch_time": "2026-06-09T12:00:18.176247",
+    "title": "Fact Sheet: The Trump Administration Is Simplifying Student Loan Repayment",
+    "category": "education"
+  },
+  "/news/2026/06/tracers-uses-speedy-electrons-trace-solar-energys-path-earth": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-06-09T12:00:18.193602",
+    "title": "TRACERS uses speedy electrons to trace solar energy’s path to Earth",
+    "category": "education"
+  },
+  "https://www.popularmechanics.com/science/animals/a71508066/amazon-molly/?utm_campaign=942745_Morning%20Clips%20Report%3A%2006-09-26&utm_medium=email&utm_source=The_Curators_of_the_University_of_Missouri&dm_i=7IQU,K7FD,700OM4,3KYAN,1,0,0,0": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-09T12:00:18.209129",
+    "title": "This fish species has existed for 100,000 years. Every single one of them has been female.",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/how-one-world-cup-match-shaped-ryan-maddens-life-in-sports/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-09T12:00:18.209156",
+    "title": "How one World Cup match shaped Ryan Madden’s life in sports",
+    "category": "general"
+  },
+  "https://news.wisc.edu/search-committee-seeks-input-on-chancellor-hire/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-09T12:00:18.397170",
+    "title": "Search committee seeks input on chancellor hire",
+    "category": "general"
+  },
+  "https://news.wisc.edu/employee-appreciation-ice-cream-social-events/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-09T12:00:18.397194",
+    "title": "Employee appreciation Ice Cream Social events",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/pay-increase-for-uw-employees-to-become-effective-june-28/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-09T12:00:18.397205",
+    "title": "Pay increase for UW employees to become effective June 28",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0609-abigail-mizzi-purdue-1-spaceflight-graduate-researcher": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-09T12:00:23.088635",
+    "title": "AAE grad student grateful for mentors' role in her all-Purdue spaceflight",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0609-purdue-equine-hospital-storm-injured-horse-michigan": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-09T12:00:23.088667",
+    "title": "AAE grad student Inanc joins veterinary medicine team to aid horse injured in severe Michigan storm",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-law-veterans-legal-support-clinic-to-host-suicide-prevention-and-wellness-program-for-veterans-and-first-responders": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-09T12:00:25.954070",
+    "title": "KU Law Veterans Legal Support Clinic to host suicide prevention and wellness program for veterans and first responders",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/statewide-partnership-to-help-improve-literacy-rates-evaluates-school-readiness-educator-training-ARTICLE-TG960C-ARTICLE-TG960C": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-09T12:00:25.954096",
+    "title": "Statewide partnership to help improve literacy rates evaluates school readiness, educator training",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/research-examines-how-asexual-aromantic-individuals-view-intimacy-to-improve-education-counseling-ARTICLE-ST16VX-ARTICLE-ST16VX": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-09T12:00:25.954106",
+    "title": "Research examines how asexual, aromantic individuals view intimacy to improve education, counseling",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/2026-ku-microbiology-graduate-lauren-reimer-awarded-ku-phi-kappa-phi-fellowship": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-09T12:00:25.954116",
+    "title": "2026 KU microbiology graduate Lauren Reimer awarded KU Phi Kappa Phi Fellowship",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-led-monarch-butterfly-conservation-effort-surpasses-100-partners-nationwide/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-09T12:00:25.999093",
+    "title": "UIC-led monarch butterfly conservation effort surpasses 100 partners nationwide",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/06/cynthia-coburn-receives-2026-walder-award": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-09T12:00:27.361281",
+    "title": "Cynthia Coburn receives 2026 Walder Award",
+    "category": "general"
+  },
+  "https://news.northwestern.edu/stories/2026/06/jinjoo-cho-and-petia-vlahovska-awarded-ver-steeg-fellowship": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-09T12:00:27.361306",
+    "title": "Jinjoo Cho and Petia Vlahovska awarded Ver Steeg Fellowship",
+    "category": "general"
+  },
+  "https://stories.butler.edu/bulldog-crawl-returns-june-26-with-new-vendors-and-tour-stops/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-06-09T12:00:28.075059",
+    "title": "Bulldog Crawl Returns June 26 With New Vendors and Tour Stops",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/uchicago-appoints-jake-silverman-director-athletics-and-recreation": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-09T12:00:28.921008",
+    "title": "UChicago appoints Jake Silverman as Director of Athletics and Recreation",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-09T12:00:29.773056",
+    "title": "First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony",
+    "category": "ai"
   }
 }

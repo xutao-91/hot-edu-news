@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-09T12:00:28.734998",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "UChicago appoints Jake Silverman as Director of Athletics and Recreation",
+      "url": "https://news.uchicago.edu/story/uchicago-appoints-jake-silverman-director-athletics-and-recreation",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Will a New Presidential Center Change Chicago’s South Side?",
+      "url": "https://news.uchicago.edu/will-new-presidential-center-change-chicagos-south-side",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Cancer pathology AI company takes first at 2026 Edward L. Kaplan, ’71, New Venture Challenge",
+      "url": "https://news.uchicago.edu/story/cancer-pathology-ai-company-takes-first-2026-edward-l-kaplan-71-new-venture-challenge",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "$2.1 million awarded at Chicago Booth’s 30th annual startup competition",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "US Supreme Court poised to rule on gun laws and transgender athletes",
+      "url": "https://www.reuters.com/legal/government/us-supreme-court-poised-rule-gun-laws-transgender-athletes-2026-06-07/",
+      "date": "2026-06-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "As Oil Prices Spike, Talk of ‘Demand Destruction’ Sets In",
+      "url": "https://www.nytimes.com/2026/06/07/business/demand-destruction-iran-war.html",
+      "date": "2026-06-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "With a ‘boundless love of knowledge,’ UChicago’s Class of 2026 called to boldly face the future",
+      "url": "https://news.uchicago.edu/story/boundless-love-knowledge-uchicagos-class-2026-called-boldly-face-future",
+      "date": "2026-06-06",
+      "type": "News",
+      "summary_en": "Speakers urge new graduates to embrace the unknown, having cultivated a ‘Chicago mind’",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
