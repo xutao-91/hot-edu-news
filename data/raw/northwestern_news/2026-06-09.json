@@ -1,9 +1,27 @@
 {
   "source": "Northwestern University News",
   "source_url": "https://news.northwestern.edu/university-news",
-  "crawled_at": "2026-06-09T12:00:26.835570",
-  "total_news": 2,
+  "crawled_at": "2026-06-09T20:00:27.844780",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Northwestern launches the Thriving Planet Institute",
+      "url": "https://news.northwestern.edu/stories/2026/06/northwestern-launches-the-thriving-planet-institute",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Reflecting on the lasting impact of Provost Kathleen Hagerty",
+      "url": "https://news.northwestern.edu/stories/2026/06/reflecting-on-the-lasting-impact-of-provost-kathleen-hagerty",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
     {
       "title": "Cynthia Coburn receives 2026 Walder Award",
       "url": "https://news.northwestern.edu/stories/2026/06/cynthia-coburn-receives-2026-walder-award",

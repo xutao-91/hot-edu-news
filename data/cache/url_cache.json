@@ -7726,5 +7726,113 @@
     "fetch_time": "2026-06-09T12:00:29.773056",
     "title": "First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony",
     "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/09/as-trump-turns-80-who-are-the-oldest-and-youngest-current-world-leaders/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-09T20:00:07.959259",
+    "title": "As Trump turns 80, who are the oldest – and youngest – current world leaders?",
+    "category": "general"
+  },
+  "https://www.brookings.edu/articles/will-ai-in-education-succeed/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-09T20:00:10.311172",
+    "title": "Will AI in education succeed?",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/purpose-agency-breadth-of-skills-education-cross-country-collaborative-research/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-09T20:00:10.311208",
+    "title": "That they may thrive: Reimagining purpose, agency, and breadth of skills in education through cross-country collaborative research",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/gov-whitmer-has-vowed-to-boost-literacy-in-michigan-heres-where-we-stand/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-06-09T20:00:14.339048",
+    "title": "Gov. Whitmer has vowed to boost literacy in Michigan. Here’s where we stand",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/educators-inspired-by-kansas-high-school-students-hoping-to-become-teachers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-09T20:00:15.588106",
+    "title": "Educators Inspired by Kansas High School Students Hoping to Become Teachers",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/education/longtime-paraeducator-becomes-lead-teacher-thanks-unis-online-program": {
+    "source": "uni_news",
+    "fetch_time": "2026-06-09T20:00:20.565078",
+    "title": "Longtime paraeducator becomes lead teacher thanks to UNI’s online program",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51259-as-registered-apprentices-aspiring-k-12-teachers": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-09T20:00:24.687036",
+    "title": "As registered apprentices, aspiring K-12 teachers find unique career path through IU program",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0609-washington-leadership-program.html": {
+    "source": "oneill",
+    "fetch_time": "2026-06-09T20:00:25.602783",
+    "title": "O’Neill’s Washington Leadership Program among first to call IU Capital Campus home",
+    "category": "education"
+  },
+  "https://today.uic.edu/empowering-young-voices-through-civic-learning-on-chicagos-west-side/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-09T20:00:26.593275",
+    "title": "Empowering young voices through civic learning on Chicago’s West Side",
+    "category": "education"
+  },
+  "https://today.uic.edu/new-antibiotic-attacks-bacteria-in-never-before-seen-way/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-09T20:00:26.593302",
+    "title": "New antibiotic attacks bacteria in never-before-seen way",
+    "category": "ai"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-richmond-honors-nine-new-grads-2025-26": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-09T20:00:27.124647",
+    "title": "Purdue Polytechnic in Richmond honors nine new grads for 2025-26",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/06/northwestern-launches-the-thriving-planet-institute": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-09T20:00:28.475354",
+    "title": "Northwestern launches the Thriving Planet Institute",
+    "category": "general"
+  },
+  "https://news.northwestern.edu/stories/2026/06/reflecting-on-the-lasting-impact-of-provost-kathleen-hagerty": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-09T20:00:28.475379",
+    "title": "Reflecting on the lasting impact of Provost Kathleen Hagerty",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/AI-for-Health-seed-grant-program-awards-nearly-300000-to-advance-AI-driven-health-research.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-06-09T20:00:29.989230",
+    "title": "AI for Health seed grant program awards nearly $300,000 to advance AI-driven health research",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/Lake-wins-Richard-Skalak-Award.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-06-09T20:00:29.989253",
+    "title": "Lake wins Richard Skalak Award",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/how-turning-away-suffering-makes-us-deeply-human": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-09T20:00:30.089401",
+    "title": "How ‘turning away’ from suffering makes us deeply human",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-09T20:00:30.685193",
+    "title": "The Secure America Act Ends Democrat Obstruction— Fully Funds CBP, ICE and President Trump’s Border Security Agenda",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-09T20:00:30.685233",
+    "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law",
+    "category": "general"
   }
 }

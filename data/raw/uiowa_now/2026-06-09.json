@@ -1,7 +1,7 @@
 {
   "source": "University of Iowa Now",
   "source_url": "https://now.uiowa.edu/tags/featured-headlines",
-  "crawled_at": "2026-06-09T12:00:17.408513",
+  "crawled_at": "2026-06-09T20:00:17.589095",
   "total_news": 2,
   "news": [
     {
@@ -9,7 +9,7 @@
       "url": "/news/2026/06/tracers-uses-speedy-electrons-trace-solar-energys-path-earth",
       "date": "2026-06-09",
       "type": "News",
-      "summary_en": "A University of Iowa-led research team has documented how energy from the sun interacts with Earth’s magnetic field and moves closer to our planet, using detailed electron measurements. The study marks the first published results from TRACERS, the approximately $170 million NASA-funded mission and the largest external research award in university history. Energy from the sun can disrupt satellites",
+      "summary_en": "A University of Iowa-led research team has documented how energy from the sun interacts with Earth’s magnetic field and moves closer to our planet, using detailed electron measurements. The study marks the first published results from TRACERS, the approximately $170 million NASA-funded mission and the largest external research award in university history.",
       "source": "UIowa Now",
       "category": "general"
     },

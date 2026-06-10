@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-09T12:00:28.734998",
-  "total_news": 6,
+  "crawled_at": "2026-06-09T20:00:29.801033",
+  "total_news": 7,
   "news": [
+    {
+      "title": "How ‘turning away’ from suffering makes us deeply human",
+      "url": "https://news.uchicago.edu/story/how-turning-away-suffering-makes-us-deeply-human",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "In new book, UChicago’s Benjamin Saltzman traces the complex “gesture of aversion” through the history of art and literature",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "UChicago appoints Jake Silverman as Director of Athletics and Recreation",
       "url": "https://news.uchicago.edu/story/uchicago-appoints-jake-silverman-director-athletics-and-recreation",

@@ -1,7 +1,18 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-06-09T12:00:12.213572",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-09T20:00:13.676577",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Gov. Whitmer has vowed to boost literacy in Michigan. Here’s where we stand",
+      "url": "https://bridgemi.com/talent-education/gov-whitmer-has-vowed-to-boost-literacy-in-michigan-heres-where-we-stand/",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "As Michigan struggles with reading on national rankings, Gov. Gretchen Whitmer says the state must focus on literacy. What to know.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    }
+  ]
 }

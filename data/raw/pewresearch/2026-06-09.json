@@ -1,9 +1,24 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-09T12:00:06.688063",
-  "total_news": 2,
+  "crawled_at": "2026-06-09T20:00:07.313306",
+  "total_news": 3,
   "news": [
+    {
+      "title": "As Trump turns 80, who are the oldest – and youngest – current world leaders?",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/09/as-trump-turns-80-who-are-the-oldest-and-youngest-current-world-leaders/",
+      "date": "Jun 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Generations Age",
+        "Donald Trump",
+        "Generations Age Politics",
+        "World Leaders"
+      ],
+      "summary_en": "As Trump turns 80, only 16 of 186 national leaders are older. The median leader age is 63, while Nepal’s 36-year-old PM is the youngest.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
     {
       "title": "Israelis, Palestinians, Americans See War in Iran Differently",
       "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/",
