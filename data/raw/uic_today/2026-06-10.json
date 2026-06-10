@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-06-10T12:00:26.446955",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Empowering young voices through civic learning on Chicago’s West Side",
+      "url": "https://today.uic.edu/empowering-young-voices-through-civic-learning-on-chicagos-west-side/",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Program led by UIC’s Office of Community Collaboration helps young people build leadership skills.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "New antibiotic attacks bacteria in never-before-seen way",
+      "url": "https://today.uic.edu/new-antibiotic-attacks-bacteria-in-never-before-seen-way/",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "UIC scientists have discovered a new antibiotic to fight against drug-resistant superbugs.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC-led monarch butterfly conservation effort surpasses 100 partners nationwide",
+      "url": "https://today.uic.edu/uic-led-monarch-butterfly-conservation-effort-surpasses-100-partners-nationwide/",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Voluntary conservation effort now spans 47 states and 1.3 million acres.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

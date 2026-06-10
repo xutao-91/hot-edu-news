@@ -1,0 +1,53 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-10T12:00:18.718679",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Designing for access: How Mizzou students are advancing fashion for all",
+      "url": "https://showme.missouri.edu/2026/designing-for-access-how-mizzou-students-are-advancing-fashion-for-all/",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "In the Department of Textile and Apparel Management, students are turning designs into real-world solutions for people with disabilities.",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "How Mizzou propelled one alumnus to a leadership role at this year’s FIFA World Cup™",
+      "url": "https://showme.missouri.edu/2026/how-mizzou-propelled-one-alumnus-to-a-leadership-role-at-this-years-fifa-world-cup/",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "Taylor Ashford’s journey from Columbia to FIFA World Cup 2026™ in Kansas City shows how a Mizzou education can prepare you for the role of a lifetime.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "This fish species has existed for 100,000 years. Every single one of them has been female.",
+      "url": "https://www.popularmechanics.com/science/animals/a71508066/amazon-molly/?utm_campaign=942745_Morning%20Clips%20Report%3A%2006-09-26&utm_medium=email&utm_source=The_Curators_of_the_University_of_Missouri&dm_i=7IQU,K7FD,700OM4,3KYAN,1,0,0,0",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "How one World Cup match shaped Ryan Madden’s life in sports",
+      "url": "https://showme.missouri.edu/2026/how-one-world-cup-match-shaped-ryan-maddens-life-in-sports/",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Inspired by a formative childhood memory, the Mizzou alumnus now helps shape how fans experience soccer in central Texas as the world’s biggest sporting event returns to U.S. soil.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou astrophysics student explores the cosmos through science and art",
+      "url": "https://showme.missouri.edu/2026/mizzou-astrophysics-student-explores-the-cosmos-through-science-and-art/",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "For Bangzheng “Tom” Sun, studying galaxies by day and photographing them at night offers two deeply personal ways to understand the universe.",
+      "source": "Show Me Mizzou",
+      "category": "science"
+    }
+  ]
+}

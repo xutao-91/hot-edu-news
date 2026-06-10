@@ -1,0 +1,44 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-10T12:00:19.236742",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Search committee seeks input on chancellor hire",
+      "url": "https://news.wisc.edu/search-committee-seeks-input-on-chancellor-hire/",
+      "date": "June 9, 2026",
+      "type": "News",
+      "summary_en": "Virtual listening sessions will be held June 15 and 22 to gather UW–Madison community input.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Employee appreciation Ice Cream Social events",
+      "url": "https://news.wisc.edu/employee-appreciation-ice-cream-social-events/",
+      "date": "June 9, 2026",
+      "type": "News",
+      "summary_en": "Employee appreciation events will be held June 17 and 18 to thank all shifts.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Pay increase for UW employees to become effective June 28",
+      "url": "https://news.wisc.edu/pay-increase-for-uw-employees-to-become-effective-june-28/",
+      "date": "June 9, 2026",
+      "type": "News",
+      "summary_en": "Eligible UW–Madison employees will receive a 2 percent wage increase under the 2025-2027 pay plan.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Four Northwoods towns unite to rebuild EMS — and cut response times in half",
+      "url": "https://impact.wisc.edu/four-northwoods-towns-unite-to-rebuild-ems-and-cut-response-times-in-half",
+      "date": "June 8, 2026",
+      "type": "News",
+      "summary_en": "With support from UW–Madison’s Wisconsin Office of Rural Health, Vilas County communities replaced a strained volunteer system with a 24/7 paramedic service.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

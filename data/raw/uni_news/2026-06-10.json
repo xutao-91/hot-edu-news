@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-06-10T12:00:19.093019",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Longtime paraeducator becomes lead teacher thanks to UNI’s online program",
+      "url": "https://insideuni.uni.edu/education/longtime-paraeducator-becomes-lead-teacher-thanks-unis-online-program",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "After nearly 15 years as a paraeducator, Rhandi Oelmann has secured her first lead teacher job for the fall. The 40-year-old mom of three will confidently step into her new role thanks to the University of Northern Iowa’s early childhood education online transfer program.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "TheatreUNI and Crooked Path Classics present William Shakespeare’s “As You Like It” at the brand-new Northern Iowa Shakespeare Festival",
+      "url": "https://insideuni.uni.edu/arts-design/theatreuni-and-crooked-path-classics-present-william-shakespeares-you-it-brand-new",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "This summer, TheatreUNI and Crooked Path Classics are teaming up to launch the Northern Iowa Shakespeare Festival.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Nationally recognized leaders like Anna Pesek continue their growth at UNI",
+      "url": "https://insideuni.uni.edu/business/nationally-recognized-leaders-anna-pesek-continue-their-growth-uni",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "From appearing on CNN and meeting with U.S. senators to growing a farm business that ships nationwide, Anna Pesek is using her UNI MBA to expand her impact on agriculture, entrepreneurship and rural communities.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

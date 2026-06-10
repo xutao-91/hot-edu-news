@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-06-10T12:00:08.321455",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Pulitzer Prize-Winning Author Marilynne Robinson to Receive the 2027 St. Louis Literary Award",
+      "url": "https://www.slu.edu/news/2026/june/2027-literary-award.php",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "Pulitzer Prize-winning author Marilynne Robinson will be awarded the St. Louis Literary Award from Saint Louis University. Robinson will come to St. Louis in April 2027 to accept the award.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

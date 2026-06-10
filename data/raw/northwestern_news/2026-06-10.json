@@ -1,0 +1,44 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-06-10T12:00:27.853035",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Northwestern launches the Thriving Planet Institute",
+      "url": "https://news.northwestern.edu/stories/2026/06/northwestern-launches-the-thriving-planet-institute",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Reflecting on the lasting impact of Provost Kathleen Hagerty",
+      "url": "https://news.northwestern.edu/stories/2026/06/reflecting-on-the-lasting-impact-of-provost-kathleen-hagerty",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Cynthia Coburn receives 2026 Walder Award",
+      "url": "https://news.northwestern.edu/stories/2026/06/cynthia-coburn-receives-2026-walder-award",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Jinjoo Cho and Petia Vlahovska awarded Ver Steeg Fellowship",
+      "url": "https://news.northwestern.edu/stories/2026/06/jinjoo-cho-and-petia-vlahovska-awarded-ver-steeg-fellowship",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

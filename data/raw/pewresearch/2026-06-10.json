@@ -1,0 +1,51 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-10T12:00:08.938379",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "As Trump turns 80, who are the oldest – and youngest – current world leaders?",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/09/as-trump-turns-80-who-are-the-oldest-and-youngest-current-world-leaders/",
+      "date": "Jun 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Generations Age",
+        "Donald Trump",
+        "Generations Age Politics",
+        "World Leaders"
+      ],
+      "summary_en": "As Trump turns 80, only 16 of 186 national leaders are older. The median leader age is 63, while Nepal’s 36-year-old PM is the youngest.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "Israelis, Palestinians, Americans See War in Iran Differently",
+      "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/",
+      "date": "Jun 9, 2026",
+      "type": "report",
+      "categories": [
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Three-quarters of Israelis say the U.S. made the right decision in attacking Iran, while eight-in-ten Palestinians say the opposite. Americans are more divided.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "About 1 in 5 Americans have used crypto; Republicans’ use has ticked up",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/08/about-1-in-5-americans-have-used-crypto-republicans-use-has-ticked-up/",
+      "date": "Jun 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Commerce",
+        "Internet Technology",
+        "Online Privacy Security",
+        "Personal Finances"
+      ],
+      "summary_en": "Some of the biggest demographic differences in cryptocurrency use are by gender, age and income.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

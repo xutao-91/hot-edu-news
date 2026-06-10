@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-06-10T12:00:15.198360",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Wayne State students explore AI’s impact on journalism, public relations, and media careers",
+      "url": "https://today.wayne.edu/news/2026/06/08/wayne-state-students-explore-ais-impact-on-journalism-public-relations-and-media-careers-69510",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State University selects Dr. Richard D. Benson as inaugural director for Detroit Center for Black Studies",
+      "url": "https://today.wayne.edu/news/2026/06/08/wayne-state-university-selects-dr-richard-d-benson-as-inaugural-director-for-detroit-center-for-black-studies-69545",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

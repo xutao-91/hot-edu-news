@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-06-10T12:00:23.053536",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "AAE grad student grateful for mentors' role in her all-Purdue spaceflight",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0609-abigail-mizzi-purdue-1-spaceflight-graduate-researcher",
+      "date": "June 9, 2026",
+      "type": "News",
+      "summary_en": "On the Purdue 1 mission, Abigail Mizzi will become the first grad student to conduct research on a commercial suborbital flight",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "AAE grad student Inanc joins veterinary medicine team to aid horse injured in severe Michigan storm",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0609-purdue-equine-hospital-storm-injured-horse-michigan",
+      "date": "June 9, 2026",
+      "type": "News",
+      "summary_en": "Together, the large animal surgery, diagnostic imaging, and ophthalmology services worked with the help of expertise from Purdue’s School of Aeronautics and Astronautics to 3D print Sassy a protective helmet.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

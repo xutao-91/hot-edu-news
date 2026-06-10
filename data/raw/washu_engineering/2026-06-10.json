@@ -1,0 +1,35 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-10T12:00:28.862244",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "AI for Health seed grant program awards nearly $300,000 to advance AI-driven health research",
+      "url": "https://engineering.washu.edu/news/2026/AI-for-Health-seed-grant-program-awards-nearly-300000-to-advance-AI-driven-health-research.html",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Annual program supports innovative collaborations between artificial intelligence and health researchers across WashU.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Lake wins Richard Skalak Award",
+      "url": "https://engineering.washu.edu/news/2026/Lake-wins-Richard-Skalak-Award.html",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "Recognition honors best paper published in 2025 in the Journal of Biomechanical Engineering.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Inner life of cells under investigation",
+      "url": "https://engineering.washu.edu/news/2026/Inner-life-of-cells-under-investigation.html",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "Yifan Dai to look at chemical processes in cells with NIH grant.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}
