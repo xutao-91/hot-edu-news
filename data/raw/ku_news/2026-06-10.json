@@ -1,7 +1,7 @@
 {
   "source": "University of Kansas News",
   "source_url": "https://news.ku.edu/news",
-  "crawled_at": "2026-06-10T12:00:26.588842",
+  "crawled_at": "2026-06-10T20:00:25.908912",
   "total_news": 10,
   "news": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "title": "KU Libraries welcomes first international librarian-in-residence through global engagement initiative",
-      "url": "https://news.ku.edu/news/article/ku-libraries-welcomes-first-international-librarian-in-residence-through-global-engagement-initiative-ARTICLE-S1CQWE-ARTICLE-S1CQWE",
+      "url": "https://news.ku.edu/news/article/ku-libraries-welcomes-first-international-librarian-in-residence-through-global-engagement-initiative-ARTICLE-S1CQWE-ARTICLE-S1CQWE-ARTICLE-S1CQWE",
       "date": "2026-06-10",
       "type": "News",
       "summary_en": "The University of Kansas Libraries has welcomed its first international librarian-in-residence, marking a major step forward for the Institute for Globally Engaged Librarianship (IGEL) and its efforts to build meaningful global partnerships.",

@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-10T12:00:21.585996",
+  "crawled_at": "2026-06-10T20:00:14.306000",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.329464"
+      "crawled_at": "2026-06-10T20:00:14.066218"
+    },
+    {
+      "title": "North Carolina Set to Nearly Double Remote Charter Academies Next Year",
+      "url": "https://www.the74million.org/article/north-carolina-set-to-nearly-double-remote-charter-academies-next-year/",
+      "date": "June 10, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-10T20:00:14.072331"
     },
     {
       "title": "‘A Sea Change’: Public School Supporters See Potential in New Tax Credit",
@@ -18,7 +26,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.350539"
+      "crawled_at": "2026-06-10T20:00:14.078634"
     },
     {
       "title": "Long-Term NAEP Shows Growth for 9-Year-Olds, More Disappointment for Teens",
@@ -26,7 +34,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.363761"
+      "crawled_at": "2026-06-10T20:00:14.089129"
     },
     {
       "title": "Educators Inspired by Kansas High School Students Hoping to Become Teachers",
@@ -34,15 +42,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.375271"
-    },
-    {
-      "title": "Tulsa Charter Network Begins to Bounce Back From Pandemic Decline",
-      "url": "https://www.the74million.org/article/tulsa-charter-network-begins-to-bounce-back-from-pandemic-decline/",
-      "date": "June 10, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.397662"
+      "crawled_at": "2026-06-10T20:00:14.098979"
     },
     {
       "title": "Under Mamdani, New York Will Be the First to Open Free Childcare Center for City Workers",
@@ -50,7 +50,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.409111"
+      "crawled_at": "2026-06-10T20:00:14.107617"
     },
     {
       "title": "Inside Vermont’s Decade-Long Effort to Change Childcare",
@@ -58,7 +58,15 @@
       "date": "June 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.411485"
+      "crawled_at": "2026-06-10T20:00:14.116206"
+    },
+    {
+      "title": "Tulsa Charter Network Begins to Bounce Back From Pandemic Decline",
+      "url": "https://www.the74million.org/article/tulsa-charter-network-begins-to-bounce-back-from-pandemic-decline/",
+      "date": "June 9, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-10T20:00:14.124783"
     },
     {
       "title": "Texas Schools Say They Still Face Budget Difficulties Despite $8.5 Billion Boost",
@@ -66,7 +74,7 @@
       "date": "June 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.422973"
+      "crawled_at": "2026-06-10T20:00:14.133313"
     },
     {
       "title": "Aquatic Robots, Drones and Power Tools: STEM Spans All Grades in Oklahoma School",
@@ -74,7 +82,7 @@
       "date": "June 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.434472"
+      "crawled_at": "2026-06-10T20:00:14.141967"
     },
     {
       "title": "Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year",
@@ -82,7 +90,7 @@
       "date": "June 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.445960"
+      "crawled_at": "2026-06-10T20:00:14.144502"
     },
     {
       "title": "Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready?",
@@ -90,7 +98,7 @@
       "date": "June 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.457307"
+      "crawled_at": "2026-06-10T20:00:14.153026"
     },
     {
       "title": "Gov. Ayotte Signs Bill to Give Retired Grandparents Access to State Childcare Scholarship",
@@ -98,7 +106,7 @@
       "date": "June 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.459627"
+      "crawled_at": "2026-06-10T20:00:14.161560"
     },
     {
       "title": "Shaw, Barrera Emerge as Front-Runners in California Superintendent Race",
@@ -106,7 +114,7 @@
       "date": "June 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.471085"
+      "crawled_at": "2026-06-10T20:00:14.170173"
     },
     {
       "title": "Colorado’s ‘First Public Christian School’ Closes Permanently",
@@ -114,7 +122,7 @@
       "date": "June 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.482561"
+      "crawled_at": "2026-06-10T20:00:14.178896"
     },
     {
       "title": "Oklahoma Teachers Just Got a Raise, but the State Still a ‘Lap Behind’",
@@ -122,7 +130,7 @@
       "date": "June 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.493978"
+      "crawled_at": "2026-06-10T20:00:14.184364"
     },
     {
       "title": "Weingarten: Kids’ Attention Crisis Demands Widespread Curbs on AI and Tech",
@@ -130,7 +138,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.505414"
+      "crawled_at": "2026-06-10T20:00:14.189972"
     },
     {
       "title": "Report: Tennessee Students Have Nearly Returned to Pre-COVID Math Achievement",
@@ -138,7 +146,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.517948"
+      "crawled_at": "2026-06-10T20:00:14.222444"
     },
     {
       "title": "At This Ohio High School, Students Can Skip Lectures and Work on Their Own",
@@ -146,7 +154,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.520389"
+      "crawled_at": "2026-06-10T20:00:14.232234"
     },
     {
       "title": "At This Ohio High School, Students Can Skip Lectures and Work On Their Own",
@@ -154,7 +162,7 @@
       "date": "June 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.531977"
+      "crawled_at": "2026-06-10T20:00:14.243891"
     },
     {
       "title": "Oklahoma Eases School Penalties for Chronic Student Absences",
@@ -162,7 +170,7 @@
       "date": "June 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.543453"
+      "crawled_at": "2026-06-10T20:00:14.246469"
     },
     {
       "title": "Parents’ Consent at the Heart of Ed Tech Lawsuits",
@@ -170,7 +178,7 @@
       "date": "June 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.555003"
+      "crawled_at": "2026-06-10T20:00:14.261581"
     },
     {
       "title": "Watch: A Candid Exit Interview With Baltimore’s Schools Chief Sonja Santelises",
@@ -178,7 +186,7 @@
       "date": "June 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.563516"
+      "crawled_at": "2026-06-10T20:00:14.272544"
     },
     {
       "title": "‘A Game of Catch-Up’: How This Oklahoma School Gets Kids Reading at Grade Level",
@@ -186,7 +194,7 @@
       "date": "June 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.572034"
+      "crawled_at": "2026-06-10T20:00:14.285279"
     },
     {
       "title": "California Wants to Fix Undercounting of Native American Students",
@@ -194,15 +202,7 @@
       "date": "June 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.574427"
-    },
-    {
-      "title": "Many Parents Talk About Delaying Kindergarten. Few Actually Do It",
-      "url": "https://www.the74million.org/zero2eight/many-parents-talk-about-delaying-kindergarten-few-actually-do-it/",
-      "date": "June 1, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-10T12:00:21.583040"
+      "crawled_at": "2026-06-10T20:00:14.296978"
     }
   ]
 }

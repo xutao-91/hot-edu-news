@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-10T12:00:30.302278",
-  "total_news": 5,
+  "crawled_at": "2026-06-10T20:00:30.692764",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Nomination Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/",
+      "date": "June 10, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Is Restoring American Greatness One Win at a Time",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
+      "date": "June 10, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "S. 2 Signed into Law",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/",

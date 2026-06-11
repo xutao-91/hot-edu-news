@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-06-10T12:00:24.715422",
-  "total_news": 4,
+  "crawled_at": "2026-06-10T20:00:24.363442",
+  "total_news": 6,
   "news": [
+    {
+      "title": "IU LAB Bio Start-up Center to advance AI-enabled innovation in collaboration with NVIDIA Inception",
+      "url": "https://news.iu.edu/live/news/51245-iu-lab-bio-start-up-center-to-advance-ai-enabled",
+      "date": "Jun 10, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "As registered apprentices, aspiring K-12 teachers find unique career path through IU program",
       "url": "https://news.iu.edu/live/news/51259-as-registered-apprentices-aspiring-k-12-teachers",
@@ -12,15 +21,6 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "education"
-    },
-    {
-      "title": "Poll finds broad public support for sports as drivers of culture, economy in Indianapolis",
-      "url": "https://blogs.iu.edu/shhsnews/latest-indy-sports-poll-shows-sports-strengthen-city-pride-in-research-from-iu-indianapolis/",
-      "date": "Jun 8, 2026",
-      "type": "Business and Innovation",
-      "summary_en": "",
-      "source": "Indiana University",
-      "category": "general"
     },
     {
       "title": "Kelley graduate pitches her phone accessory startup through IU summit",
@@ -32,10 +32,28 @@
       "category": "general"
     },
     {
+      "title": "Hoosier communities explore landfill solar conversion with Environmental Resilience Institute",
+      "url": "https://eri.iu.edu/news-and-events/_news/archive/2026/20260609-hoosier-communities-explore-potential-of-landfill-solar-through-eri-collaboration.html",
+      "date": "Jun 10, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
       "title": "Trustees to meet June 12 at IU Bloomington",
       "url": "https://news.iu.edu/live/news/51260-trustees-to-meet-june-12-at-iu-bloomington",
       "date": "Jun 10, 2026",
       "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Poll finds broad public support for sports as drivers of culture, economy in Indianapolis",
+      "url": "https://blogs.iu.edu/shhsnews/latest-indy-sports-poll-shows-sports-strengthen-city-pride-in-research-from-iu-indianapolis/",
+      "date": "Jun 8, 2026",
+      "type": "Business and Innovation",
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"

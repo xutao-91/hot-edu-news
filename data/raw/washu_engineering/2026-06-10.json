@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-06-10T12:00:28.862244",
-  "total_news": 3,
+  "crawled_at": "2026-06-10T20:00:30.548469",
+  "total_news": 4,
   "news": [
+    {
+      "title": "WashU Racing earns best overall finish in its history",
+      "url": "https://engineering.washu.edu/news/2026/WashU-Racing-earns-best-overall-finish-in-its-history.html",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "McKelvey Engineering student-led team places 25th at FSAE Michigan event.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "AI for Health seed grant program awards nearly $300,000 to advance AI-driven health research",
       "url": "https://engineering.washu.edu/news/2026/AI-for-Health-seed-grant-program-awards-nearly-300000-to-advance-AI-driven-health-research.html",

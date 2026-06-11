@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-06-10T12:00:26.446955",
-  "total_news": 3,
+  "crawled_at": "2026-06-10T20:00:26.011385",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Vision for West Side of Chicago developed by UIC researchers recognized by World Business Chicago",
+      "url": "https://today.uic.edu/vision-for-west-side-of-chicago-developed-by-uic-researchers-recognized-by-world-business-chicago/",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "The proposal was created by UIC’s Master of City Design program faculty in partnership with the Illinois Medical District.",
+      "source": "UIC Today",
+      "category": "research"
+    },
     {
       "title": "Empowering young voices through civic learning on Chicago’s West Side",
       "url": "https://today.uic.edu/empowering-young-voices-through-civic-learning-on-chicagos-west-side/",

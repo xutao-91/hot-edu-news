@@ -1,7 +1,17 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-06-10T12:00:27.390533",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-10T20:00:28.222270",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UW–Madison’s Williams named Southern Education Foundation Research Fellow",
+      "url": "https://education.wisc.edu/news/uw-madisons-williams-named-southern-education-foundation-research-fellow/",
+      "date": "June 10, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s Rachel E. Williams, an assistant professor in the School of Education’s Department of Educational Policy Studies, has been selected as a 2026 Southern Education Foundation (SEF) Research Fellow.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    }
+  ]
 }

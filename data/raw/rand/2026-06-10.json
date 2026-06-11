@@ -1,9 +1,18 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-06-10T12:00:32.227260",
-  "total_news": 5,
+  "crawled_at": "2026-06-10T20:00:30.888395",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Will We Know if AI Takes Over? Q&A with Benjamin Boudreaux",
+      "url": "https://www.rand.org/pubs/commentary/2026/06/will-we-know-if-ai-takes-over-qa-with-benjamin-boudreaux.html",
+      "date": "Jun 10, 2026",
+      "type": "Commentary",
+      "summary_en": "What happens if we off-load our ability to make decisions, to shape the future, to machines? In this Q&A, policy researcher Benjamin Boudreaux discusses how AI could erode human agency over time—and what humans can do to stay in control.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
     {
       "title": "What Is Blocking U.S. Power Expansion for AI—and What Could Unlock It by 2030?",
       "url": "https://www.rand.org/pubs/research_briefs/RBA3845-2.html",

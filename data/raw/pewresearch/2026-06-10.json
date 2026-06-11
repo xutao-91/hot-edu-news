@@ -1,9 +1,59 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-10T12:00:08.938379",
-  "total_news": 3,
+  "crawled_at": "2026-06-10T20:00:07.391530",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Americans are more dissatisfied with how their democracy is working than people in other high-income countries",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/10/americans-are-more-dissatisfied-with-how-their-democracy-is-working-than-people-in-other-high-income-countries/",
+      "date": "Jun 10, 2026",
+      "type": "short reads",
+      "categories": [
+        "U S Democracy"
+      ],
+      "summary_en": "A large majority of Democrats (86%) are dissatisfied with how American democracy is working. Around half of Republicans (51%) say the same.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    },
+    {
+      "title": "How the political typology groups compare",
+      "url": "https://www.pewresearch.org/politics/feature/political-typology-comparison-2026/",
+      "date": "Jun 10, 2026",
+      "type": "feature",
+      "categories": [],
+      "summary_en": "Use this tool to compare the political typology groups on some key topics and their demographics.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Beyond Red vs. Blue: The Political Typology",
+      "url": "https://www.pewresearch.org/politics/2026/06/10/beyond-red-vs-blue-the-political-typology/",
+      "date": "Jun 10, 2026",
+      "type": "report",
+      "categories": [
+        "Partisanship Issues",
+        "Political Issues",
+        "Political Typology",
+        "Politics Policy",
+        "Us Elections Voters"
+      ],
+      "summary_en": "Our typology sorts the public into nine groups based on their political and cultural values, not their party – painting a picture of American politics with far more than two colors.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Political Typology 2026",
+      "url": "https://www.pewresearch.org/politics/quiz/political-typology/",
+      "date": "Jun 10, 2026",
+      "type": "quiz",
+      "categories": [
+        "Politics Policy"
+      ],
+      "summary_en": "Take our quiz to find out which one of our nine political typology groups is your best match.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "As Trump turns 80, who are the oldest – and youngest – current world leaders?",
       "url": "https://www.pewresearch.org/short-reads/2026/06/09/as-trump-turns-80-who-are-the-oldest-and-youngest-current-world-leaders/",

@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-10T12:00:15.254232",
-  "total_news": 5,
+  "crawled_at": "2026-06-10T20:00:15.386380",
+  "total_news": 6,
   "news": [
+    {
+      "title": "WashU partners with St. Louis to expand CLEAN STL tornado recovery project",
+      "url": "https://source.washu.edu/2026/06/washu-partners-with-st-louis-to-expand-clean-stl-tornado-recovery-project/",
+      "date": "2026-06-10",
+      "type": "St. Louis Region",
+      "summary_en": "Washington University in St. Louis is formally partnering with St. Louis to expand environmental monitoring and public health research in city neighborhoods affected by the devastating May 16, 2025, tornado.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "WashU Athletics wins Learfield Directors’ Cup",
       "url": "https://source.washu.edu/2026/06/washu-athletics-wins-learfield-directors-cup/",
