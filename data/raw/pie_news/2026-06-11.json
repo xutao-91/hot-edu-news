@@ -1,0 +1,148 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-11T12:00:08.414375",
+  "total_news": 14,
+  "news": [
+    {
+      "title": "Duolingo launches new ear-scanning technology at DETcon",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-06-11",
+      "type": "Language learning",
+      "summary_en": "The Duolingo English Test (DET) has revealed its patent-pending ear scan technology that uses the DET’s mobile app to detect hidden earbuds being used to cheat exams.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "IDP Australia outsources onshore visa services to Bravo Migration",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-11",
+      "type": "Recruitment & agents",
+      "summary_en": "IDP Education and Bravo Migration have announced a new partnership to provide  onshore visa support for international students across Australia.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "MPs slam HOELT as debate over international students continues",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-06-11",
+      "type": "Immigration",
+      "summary_en": "UK politicians have aired their concerns over plans to introduce a fully remote Home Office-backed English language test, suggesting the model exposes the country to a weaker immigration system.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "India steps up bid to reverse brain drain with global researcher scheme",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-06-11",
+      "type": "Policy",
+      "summary_en": "New initiative seeks to lure Indian-origin researchers home as India looks to strengthen its research ecosystem amid concerns over brain drain and growing global competition for talent.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Bloomsbury Institute sponsor license suspended",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-11",
+      "type": "Recruitment & agents",
+      "summary_en": "Bloomsbury Institute’s international student sponsor licence has been suspended by the Home Office.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Trump’s $100,000 H-1B fee ruled unlawful",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-06-10",
+      "type": "Policy",
+      "summary_en": "The Massachusetts court decision goes against a previous ruling upholding the $100,000 H-1B fee, with a third lawsuit still to be heard.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Warwick and Reading rebrand foundation and language provision as Global Academies",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "The University of Warwick and the University of Reading have both rebranded their language and foundation studies operations as Global Academies, reflecting a wider rethink of how universities support international students and where those functions sit within institutions.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Southern Cross offers TAFE graduates fast-track route into university degrees",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-06-10",
+      "type": "Student experience",
+      "summary_en": "Southern Cross University has become the latest Australian institution to offer TAFE graduates a quicker and cheaper route into higher education, with eligible students able to enter directly into the second year of selected degrees.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "India’s largest listed edtech reverses course on student lending",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-06-10",
+      "type": "Edtech",
+      "summary_en": "PhysicsWallah has abandoned plans to lend directly through its finance arm, opting instead for partnerships with regulated lenders in a move the company says will reduce risk.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Canada risks losing ground as rivals invest in higher education",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-09",
+      "type": "Data",
+      "summary_en": "A newly released 2026 world university ranking saw all but one Canadian institution lose ground to global competitors, as experts warn of the “financial crunch\" facing Canada’s higher education sector.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Why are TNE approvals surging in China?",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-06-09",
+      "type": "Transnational education",
+      "summary_en": "China's Ministry of Education approved 219 new Transnational Education (TNE) partnerships in its latest approval round at the end of May, the highest annual level of approvals since 2012 according to sector analysts.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Timothy van Gardingen"
+    },
+    {
+      "title": "Japan’s study abroad landscape shifts as short-term mobility grows",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-06-08",
+      "type": "Study Abroad",
+      "summary_en": "Japan's outbound student mobility remains below pre-pandemic levels as rising costs drive shorter study abroad experiences and shifting destination preferences.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIE investigates: The real cost of rejection in visa fees",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-08",
+      "type": "Data",
+      "summary_en": "The UK collected more than £9.3 million in visa fees over the last 12 months from students who were ultimately refused entry. The PIE investigates how the government is generating more income from visa refusals since 2012, despite falling application levels.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Nicholas Cuthbert and Dave Amor"
+    },
+    {
+      "title": "ICEF launches new agent information tool to increase transparency",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-08",
+      "type": "Recruitment & agents",
+      "summary_en": "ICEF has launched a new Appointed Agent Locator tool to help institutions publish crucial information on their websites about who they use to recruit international students.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

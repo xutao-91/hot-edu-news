@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-11T12:00:29.523916",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "How websites trick you using ‘dark patterns’",
+      "url": "https://news.uchicago.edu/big-brains-podcast-how-websites-trick-you-using-dark-patterns",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "James M. Redfield, renowned scholar of the ancient Greek world, 1935-2026",
+      "url": "https://news.uchicago.edu/story/james-m-redfield-renowned-scholar-ancient-greek-world-1935-2026",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "Longtime UChicago professor remembered as a ‘profoundly original’ thinker and encouraging teacher",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How ‘turning away’ from suffering makes us deeply human",
+      "url": "https://news.uchicago.edu/story/how-turning-away-suffering-makes-us-deeply-human",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "In new book, UChicago’s Benjamin Saltzman traces the complex “gesture of aversion” through the history of art and literature",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago appoints Jake Silverman as Director of Athletics and Recreation",
+      "url": "https://news.uchicago.edu/story/uchicago-appoints-jake-silverman-director-athletics-and-recreation",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Will a New Presidential Center Change Chicago’s South Side?",
+      "url": "https://news.uchicago.edu/will-new-presidential-center-change-chicagos-south-side",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Cancer pathology AI company takes first at 2026 Edward L. Kaplan, ’71, New Venture Challenge",
+      "url": "https://news.uchicago.edu/story/cancer-pathology-ai-company-takes-first-2026-edward-l-kaplan-71-new-venture-challenge",
+      "date": "2026-06-08",
+      "type": "News",
+      "summary_en": "$2.1 million awarded at Chicago Booth’s 30th annual startup competition",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

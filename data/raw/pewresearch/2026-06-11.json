@@ -1,0 +1,130 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-11T12:00:06.789044",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "For the 100th anniversary of the SAT, a look at standardized test scores over time",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/11/for-the-100th-anniversary-of-the-sat-a-look-at-standardized-test-scores-over-time/",
+      "date": "Jun 11, 2026",
+      "type": "short reads",
+      "categories": [
+        "Education Learning Online 2",
+        "K 12"
+      ],
+      "summary_en": "As the SAT nears its 100th anniversary, here’s a look at how the test has changed since 1926 and how scores on both the SAT and ACT have shifted over time.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "More than half of states will recognize Juneteenth as a legal holiday in 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/11/more-than-half-of-states-will-recognize-juneteenth-as-a-legal-holiday-in-2026/",
+      "date": "Jun 11, 2026",
+      "type": "short reads",
+      "categories": [
+        "Black Americans",
+        "Business Workplace",
+        "Employee Benefits",
+        "Leisure",
+        "State"
+      ],
+      "summary_en": "This year, at least 33 states and the District of Columbia will legally recognize Juneteenth as a public holiday.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans are more dissatisfied with how their democracy is working than people in other high-income countries",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/10/americans-are-more-dissatisfied-with-how-their-democracy-is-working-than-people-in-other-high-income-countries/",
+      "date": "Jun 10, 2026",
+      "type": "short reads",
+      "categories": [
+        "U S Democracy"
+      ],
+      "summary_en": "A large majority of Democrats (86%) are dissatisfied with how American democracy is working. Around half of Republicans (51%) say the same.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    },
+    {
+      "title": "How the political typology groups compare",
+      "url": "https://www.pewresearch.org/politics/feature/political-typology-comparison-2026/",
+      "date": "Jun 10, 2026",
+      "type": "feature",
+      "categories": [],
+      "summary_en": "Use this tool to compare the political typology groups on some key topics and their demographics.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Beyond Red vs. Blue: The Political Typology",
+      "url": "https://www.pewresearch.org/politics/2026/06/10/beyond-red-vs-blue-the-political-typology/",
+      "date": "Jun 10, 2026",
+      "type": "report",
+      "categories": [
+        "Partisanship Issues",
+        "Political Issues",
+        "Political Typology",
+        "Politics Policy",
+        "Us Elections Voters"
+      ],
+      "summary_en": "Our typology sorts the public into nine groups based on their political and cultural values, not their party – painting a picture of American politics with far more than two colors.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Political Typology 2026",
+      "url": "https://www.pewresearch.org/politics/quiz/political-typology/",
+      "date": "Jun 10, 2026",
+      "type": "quiz",
+      "categories": [
+        "Politics Policy"
+      ],
+      "summary_en": "Take our quiz to find out which one of our nine political typology groups is your best match.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "As Trump turns 80, who are the oldest – and youngest – current world leaders?",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/09/as-trump-turns-80-who-are-the-oldest-and-youngest-current-world-leaders/",
+      "date": "Jun 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Generations Age",
+        "Donald Trump",
+        "Generations Age Politics",
+        "World Leaders"
+      ],
+      "summary_en": "As Trump turns 80, only 16 of 186 national leaders are older. The median leader age is 63, while Nepal’s 36-year-old PM is the youngest.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "Israelis, Palestinians, Americans See War in Iran Differently",
+      "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/",
+      "date": "Jun 9, 2026",
+      "type": "report",
+      "categories": [
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Three-quarters of Israelis say the U.S. made the right decision in attacking Iran, while eight-in-ten Palestinians say the opposite. Americans are more divided.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "About 1 in 5 Americans have used crypto; Republicans’ use has ticked up",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/08/about-1-in-5-americans-have-used-crypto-republicans-use-has-ticked-up/",
+      "date": "Jun 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "E Commerce",
+        "Internet Technology",
+        "Online Privacy Security",
+        "Personal Finances"
+      ],
+      "summary_en": "Some of the biggest demographic differences in cryptocurrency use are by gender, age and income.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

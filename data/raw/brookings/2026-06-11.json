@@ -1,0 +1,35 @@
+{
+  "source": "Brookings Institution - Education",
+  "source_url": "https://www.brookings.edu/topics/education-2/",
+  "crawled_at": "2026-06-11T12:00:08.812609",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Will AI in education succeed?",
+      "url": "https://www.brookings.edu/articles/will-ai-in-education-succeed/",
+      "author": "Brad Olsen, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJobin Thomas",
+      "date": "June 9, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "technology"
+    },
+    {
+      "title": "That they may thrive: Reimagining purpose, agency, and breadth of skills in education through cross-country collaborative research",
+      "url": "https://www.brookings.edu/articles/purpose-agency-breadth-of-skills-education-cross-country-collaborative-research/",
+      "author": "Natasha Luther, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tModupe (Mo) Olateju",
+      "date": "June 9, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "economy"
+    },
+    {
+      "title": "How can we improve workforce outcomes for community college students?",
+      "url": "https://www.brookings.edu/articles/how-can-we-improve-workforce-outcomes-for-community-college-students/",
+      "author": "Harry J. Holzer, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAmy Feygin",
+      "date": "June 8, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "higher_ed"
+    }
+  ]
+}

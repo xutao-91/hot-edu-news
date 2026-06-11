@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-11T12:00:19.629662",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Invisible translators: What funky techs do for higher ed",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/06/10/invisible-translators-what-funky-techs-do-for-higher-ed/",
+      "date": "2026-06-10",
+      "type": "Faculty & Staff",
+      "summary_en": "You don’t see ‘funky tech’ in scholarly literature. But if you’ve spent time at higher-ed tech conferences, you’ve heard it. Someone introduces themselves during a networking break: “I’m a funky tech over in Academic Advising.”",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Beyond compliance: Governing higher education in the age of intelligent systems",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/06/08/beyond-compliance-governing-higher-education-in-the-age-of-ai/",
+      "date": "2026-06-08",
+      "type": "AI in Education",
+      "summary_en": "Higher education is rapidly developing AI governance frameworks through the creation/modification of policies, establishing compliance structures, conducting procurement reviews, and developing acceptable use guidelines.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}
