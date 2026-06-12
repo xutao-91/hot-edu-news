@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-06-11T12:00:29.334898",
-  "total_news": 1,
+  "crawled_at": "2026-06-11T20:00:29.384279",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Meet Kendall Johnson: A Current Butler Student and Sorority Leader",
+      "url": "https://stories.butler.edu/meet-kendall-johnson-a-current-butler-student-and-sorority-leader/",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "Kendall Johnson, a current Butler student, discusses her involvement in sorority life and how it has shaped her experience as a student.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
     {
       "title": "Bulldog Crawl Returns June 26 with New Vendors and Tour Stops",
       "url": "https://stories.butler.edu/bulldog-crawl-returns-june-26-with-new-vendors-and-tour-stops/",

@@ -1,7 +1,17 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-06-11T12:00:23.054054",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-11T20:00:22.139828",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Three CSE students awarded Astronaut Scholarships",
+      "url": "https://cse.umn.edu/college/news/three-cse-students-awarded-astronaut-scholarships",
+      "date": "2026-06-11",
+      "type": "Awards-Grants",
+      "summary_en": "Three College of Science and Engineering students were awarded 2026-27 Astronaut Scholarships: Aletta Bartok, Henry Kopp and Ahmed Sharara.",
+      "source": "UMN CSE",
+      "category": "awards"
+    }
+  ]
 }

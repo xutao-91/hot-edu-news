@@ -1,12 +1,21 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-11T12:00:29.523916",
-  "total_news": 6,
+  "crawled_at": "2026-06-11T20:00:29.649683",
+  "total_news": 7,
   "news": [
     {
       "title": "How websites trick you using ‘dark patterns’",
       "url": "https://news.uchicago.edu/big-brains-podcast-how-websites-trick-you-using-dark-patterns",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Celebrate Juneteenth 2026 at UChicago in the community",
+      "url": "https://news.uchicago.edu/story/celebrate-juneteenth-2026-uchicago-community",
       "date": "2026-06-11",
       "type": "News",
       "summary_en": "",

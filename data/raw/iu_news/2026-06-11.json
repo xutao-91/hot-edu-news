@@ -1,7 +1,7 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-06-11T12:00:23.630765",
+  "crawled_at": "2026-06-11T20:00:24.791942",
   "total_news": 6,
   "news": [
     {
@@ -41,19 +41,19 @@
       "category": "general"
     },
     {
+      "title": "School of Medicine graduate program marks 10 years advancing cancer research in Bloomington",
+      "url": "https://medicine.iu.edu/blogs/cancer-research/phd-program-in-cell-molecular-and-cancer-biology-celebrates-10-years-in-bloomington",
+      "date": "Jun 11, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
       "title": "Trustees to meet June 12 at IU Bloomington",
       "url": "https://news.iu.edu/live/news/51260-trustees-to-meet-june-12-at-iu-bloomington",
       "date": "Jun 10, 2026",
       "type": "Administration",
-      "summary_en": "",
-      "source": "Indiana University",
-      "category": "general"
-    },
-    {
-      "title": "Poll finds broad public support for sports as drivers of culture, economy in Indianapolis",
-      "url": "https://blogs.iu.edu/shhsnews/latest-indy-sports-poll-shows-sports-strengthen-city-pride-in-research-from-iu-indianapolis/",
-      "date": "Jun 8, 2026",
-      "type": "Business and Innovation",
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"

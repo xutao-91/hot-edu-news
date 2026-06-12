@@ -1,11 +1,39 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-11T12:00:30.563762",
-  "total_news": 9,
+  "crawled_at": "2026-06-11T20:00:30.422027",
+  "total_news": 10,
   "news": [
     {
-      "title": "First Lady Melania Trump Launches Fostering the Future AccountsAmerica’s First Savings & Investment Vehicle for Foster Youth",
+      "title": "Nomination and Withdrawal Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
+      "date": "June 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "75th Anniversary of the White House Navy Mess, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
+      "date": "June 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
+      "date": "June 11, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Restoring American Commercial Fishing in the Pacific",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
+      "date": "June 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings & Investment Vehicle for Foster Youth",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
       "date": "June 11, 2026",
       "category": "Briefings & Statements",
@@ -44,27 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/",
       "date": "June 9, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Congressional Bills H.R. 3490 and S. 2393 Signed into Law",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/congressional-bills-h-r-3490-and-s-2393-signed-into-law/",
-      "date": "June 9, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "First Lady Melania Trump Honors America’s Next Generation of Top AI Talent at Historic Presidential AI Challenge Awards Ceremony",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-honors-americas-next-generation-of-top-ai-talent-at-historic-presidential-ai-challenge-awards-ceremony/",
-      "date": "June 9, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Nomination Sent to the Senate",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-3556/",
-      "date": "June 8, 2026",
-      "category": "Presidential Actions",
       "source": "The White House"
     }
   ]

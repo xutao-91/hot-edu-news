@@ -1,8 +1,8 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-06-11T12:00:15.883794",
-  "total_news": 7,
+  "crawled_at": "2026-06-11T20:00:15.506458",
+  "total_news": 9,
   "news": [
     {
       "title": "Wayne State student creates publication centered on collaboration, curiosity and connection",
@@ -44,6 +44,24 @@
       "title": "Wayne State named among top 1.8% universities worldwide",
       "url": "https://today.wayne.edu/news/2026/06/11/wayne-state-named-among-top-18-universities-worldwide-69577",
       "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State University to host Juneteenth celebration honoring Black history",
+      "url": "https://today.wayne.edu/news/2026/06/11/wayne-state-university-to-host-juneteenth-celebration-honoring-black-history-69578",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Human first, AI second: Exploring how AI can connect local economies",
+      "url": "https://today.wayne.edu/news/2026/06/10/human-first-ai-second-exploring-how-ai-can-connect-local-economies-69535",
+      "date": "2026-06-10",
       "type": "News",
       "summary_en": "",
       "source": "Wayne State News",

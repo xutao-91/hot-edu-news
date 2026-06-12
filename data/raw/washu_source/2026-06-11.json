@@ -1,9 +1,27 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-11T12:00:16.142920",
-  "total_news": 8,
+  "crawled_at": "2026-06-11T20:00:15.368113",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Glauber installed as inaugural Miriam Barr Librarian for Jewish and Near Eastern Studies",
+      "url": "https://source.washu.edu/2026/06/glauber-installed-as-inaugural-miriam-barr-librarian-for-jewish-and-near-eastern-studies/",
+      "date": "2026-06-11",
+      "type": "Advancement",
+      "summary_en": "A scholar of modern Jewish history specializing in East European Jewry and its diaspora communities, Samuel Glauber’s work has appeared in numerous journals.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "New research reveals how brains update their predictions",
+      "url": "https://source.washu.edu/2026/06/new-research-reveals-how-brains-update-their-predictions/",
+      "date": "2026-06-11",
+      "type": "Neuroscience & Memory",
+      "summary_en": "Researchers in Bruce Carlson’s lab at WashU study electric fish to understand the basics of brain sensory processing and prediction.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "Provost announces leadership transitions",
       "url": "https://source.washu.edu/2026/06/provost-announces-leadership-transitions/",

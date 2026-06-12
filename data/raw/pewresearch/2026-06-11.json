@@ -1,8 +1,8 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-11T12:00:06.789044",
-  "total_news": 9,
+  "crawled_at": "2026-06-11T20:00:06.950229",
+  "total_news": 8,
   "news": [
     {
       "title": "For the 100th anniversary of the SAT, a look at standardized test scores over time",
@@ -44,16 +44,6 @@
       "summary_en": "A large majority of Democrats (86%) are dissatisfied with how American democracy is working. Around half of Republicans (51%) say the same.",
       "source": "Pew Research Center",
       "category": "workforce"
-    },
-    {
-      "title": "How the political typology groups compare",
-      "url": "https://www.pewresearch.org/politics/feature/political-typology-comparison-2026/",
-      "date": "Jun 10, 2026",
-      "type": "feature",
-      "categories": [],
-      "summary_en": "Use this tool to compare the political typology groups on some key topics and their demographics.",
-      "source": "Pew Research Center",
-      "category": "general"
     },
     {
       "title": "Beyond Red vs. Blue: The Political Typology",

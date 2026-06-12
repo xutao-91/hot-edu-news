@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison School of Education",
   "source_url": "https://education.wisc.edu/category/school-news/",
-  "crawled_at": "2026-06-11T12:00:27.034214",
-  "total_news": 1,
+  "crawled_at": "2026-06-11T20:00:26.755182",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Amid global challenges, decade-long UW–Madison–Peking University workshop advances international dialogue on higher education",
+      "url": "https://education.wisc.edu/news/amid-global-challenges-decade-long-uw-madison-peking-university-workshop-advances-international-dialogue-on-higher-education/",
+      "date": "June 11, 2026",
+      "type": "News",
+      "summary_en": "Founded in 2015 by Adam Nelson (UW–Madison) and Shen Wenqin (Peking University), the UW–PKU Workshop on Higher Education is a premier international forum that’s one of the most active and sustained collaborations between the United States and China on the comparative history, sociology, and politics of higher education — an area of increasing policy relevance.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    },
     {
       "title": "UW–Madison’s Williams named Southern Education Foundation Research Fellow",
       "url": "https://education.wisc.edu/news/uw-madisons-williams-named-southern-education-foundation-research-fellow/",
