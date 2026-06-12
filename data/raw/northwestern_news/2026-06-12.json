@@ -1,0 +1,62 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-06-12T12:00:28.877875",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Vice President for Human Resources Lorraine Goffe to step down",
+      "url": "https://news.northwestern.edu/stories/2026/06/vice-president-for-human-resources-lorraine-goffe-to-step-down",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Henry S. Bienen: ‘The right guy at the right time’",
+      "url": "https://news.northwestern.edu/stories/2026/06/henry-s-bienen-the-right-guy-at-the-right-time",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern launches the Thriving Planet Institute",
+      "url": "https://news.northwestern.edu/stories/2026/06/northwestern-launches-the-thriving-planet-institute",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Reflecting on the lasting impact of Provost Kathleen Hagerty",
+      "url": "https://news.northwestern.edu/stories/2026/06/reflecting-on-the-lasting-impact-of-provost-kathleen-hagerty",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Cynthia Coburn receives 2026 Walder Award",
+      "url": "https://news.northwestern.edu/stories/2026/06/cynthia-coburn-receives-2026-walder-award",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Jinjoo Cho and Petia Vlahovska awarded Ver Steeg Fellowship",
+      "url": "https://news.northwestern.edu/stories/2026/06/jinjoo-cho-and-petia-vlahovska-awarded-ver-steeg-fellowship",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

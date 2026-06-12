@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-12T12:00:31.112759",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Scientists show how particle interactions control flow of soft materials—like ketchup",
+      "url": "https://news.uchicago.edu/story/scientists-show-how-particle-interactions-control-flow-soft-materials-ketchup",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Research by UChicago, Argonne researchers could lead to new materials and manufacturing processes",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "How websites trick you using ‘dark patterns’",
+      "url": "https://news.uchicago.edu/big-brains-podcast-how-websites-trick-you-using-dark-patterns",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Celebrate Juneteenth 2026 at UChicago in the community",
+      "url": "https://news.uchicago.edu/story/celebrate-juneteenth-2026-uchicago-community",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "James M. Redfield, renowned scholar of the ancient Greek world, 1935-2026",
+      "url": "https://news.uchicago.edu/story/james-m-redfield-renowned-scholar-ancient-greek-world-1935-2026",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "Longtime UChicago professor remembered as a ‘profoundly original’ thinker and encouraging teacher",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How ‘turning away’ from suffering makes us deeply human",
+      "url": "https://news.uchicago.edu/story/how-turning-away-suffering-makes-us-deeply-human",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "In new book, UChicago’s Benjamin Saltzman traces the complex “gesture of aversion” through the history of art and literature",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago appoints Jake Silverman as Director of Athletics and Recreation",
+      "url": "https://news.uchicago.edu/story/uchicago-appoints-jake-silverman-director-athletics-and-recreation",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

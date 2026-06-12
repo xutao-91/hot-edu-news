@@ -1,0 +1,26 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-06-12T12:00:18.207602",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Study: Less sedentary time, more light activity may lower key health risk in pregnancy",
+      "url": "/news/2026/06/study-less-sedentary-time-more-light-activity-may-lower-key-health-risk-pregnancy",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "University of Iowa researchers recommend a daily mix of movement and sleep, along with a cap on sedentary time, to lower the risk of hypertensive disorders in pregnancy.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "TRACERS uses speedy electrons to trace solar energy’s path to Earth",
+      "url": "/news/2026/06/tracers-uses-speedy-electrons-trace-solar-energys-path-earth",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "A University of Iowa-led research team has documented how energy from the sun interacts with Earth’s magnetic field and moves closer to our planet, using detailed electron measurements. The study marks the first published results from TRACERS, the approximately $170 million NASA-funded mission and the largest external research award in university history.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

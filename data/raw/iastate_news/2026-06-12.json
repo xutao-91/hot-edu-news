@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-12T12:00:14.160306",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Hydrogen from deep under Iowa? State universities can help build a hydrogen economy",
+      "url": "https://www.news.iastate.edu/news/hydrogen-deep-under-iowa-state-universities-can-help-build-hydrogen-economy",
+      "date": "2026-06-10",
+      "type": "Science and Technology",
+      "summary_en": "As companies search for geologic hydrogen deep below Iowa's farms, towns and cities, university scientists are starting to discuss how they could help the state develop a hydrogen economy.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

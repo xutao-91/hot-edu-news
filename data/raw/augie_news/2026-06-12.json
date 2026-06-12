@@ -1,0 +1,17 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-06-12T12:00:22.116446",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Augustana University Spring 2026 Dean’s List Celebrates Nearly 900 Students",
+      "url": "https://www.augie.edu/news/2026/augustana-university-spring-2026-deans-list-celebrates-nearly-900-students",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "Augustana University announced students who have been named to the Dean's List for the spring semester of the 2025-26 academic year. This spring, the Dean's List recognizes 898 full-time students hailing from 23 states and 29 countries.",
+      "source": "Augustana News",
+      "category": "students"
+    }
+  ]
+}

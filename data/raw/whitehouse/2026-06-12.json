@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-12T12:00:31.452149",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Nomination and Withdrawal Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-and-withdrawal-sent-to-the-senate/",
+      "date": "June 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "75th Anniversary of the White House Navy Mess, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
+      "date": "June 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
+      "date": "June 11, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Restoring American Commercial Fishing in the Pacific",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/restoring-american-commercial-fishing-in-the-pacific/",
+      "date": "June 11, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Launches Fostering the Future Accounts America’s First Savings & Investment Vehicle for Foster Youth",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trump-launches-fostering-the-future-accountsamericas-first-savings-investment-vehicle-for-foster-youth/",
+      "date": "June 11, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on U.S. Catholic Bishops Honoring the 250th Anniversary of American Independence",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-u-s-catholic-bishops-honoring-the-250th-anniversary-of-american-independence/",
+      "date": "June 11, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Nomination Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-6e45/",
+      "date": "June 10, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Is Restoring American Greatness One Win at a Time",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-is-restoring-american-greatness-one-win-at-a-time/",
+      "date": "June 10, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "S. 2 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-2-signed-into-law/",
+      "date": "June 10, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "The Secure America Act Ends Democrat Obstruction— Fully Funds CBP, ICE and President Trump’s Border Security Agenda",
+      "url": "https://www.whitehouse.gov/releases/2026/06/the-secure-america-act-ends-democrat-obstruction-fully-funds-cbp-ice-and-president-trumps-border-security-agenda/",
+      "date": "June 9, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

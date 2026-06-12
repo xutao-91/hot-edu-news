@@ -1,0 +1,26 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-06-12T12:00:13.623128",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "SpaceX raised $75B in record IPO",
+      "url": "https://theconversation.com/spacex-raised-75b-in-record-ipo-heres-why-insiders-like-elon-musk-are-much-likelier-than-public-stock-buyers-to-get-rocket-powered-returns-these-days-285134",
+      "date": "June 11, 2026",
+      "type": "News",
+      "summary_en": "Accountancy Professor Brad Badertscher discusses why insiders are much likelier than public stock buyers to get rocket‑powered returns these days.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "SpaceX set to put 30% of tradeable shares in passive hands, testing markets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-09/spacex-ipo-risks-feedback-loop-as-index-funds-eye-30-of-float?sref=UE6j96Lv",
+      "date": "June 9, 2026",
+      "type": "News",
+      "summary_en": "Financial expert Timothy Loughran highlights the growing influence and risks of passive investing in the traditional IPO process.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}

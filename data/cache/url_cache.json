@@ -8380,5 +8380,191 @@
     "fetch_time": "2026-06-11T20:00:30.615566",
     "title": "Restoring American Commercial Fishing in the Pacific",
     "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/president-emeritus-rev-john-i-jenkins-c-s-c-to-receive-commonweal-centennial-award/": {
+    "source": "nd_news",
+    "fetch_time": "2026-06-12T12:00:07.505979",
+    "title": "President emeritus Rev. John I. Jenkins, C.S.C., to receive Commonweal Centennial Award",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/2026/06/12/on-the-countrys-250th-anniversary-the-american-people-are-in-a-sour-mood/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-12T12:00:08.176088",
+    "title": "On the Country’s 250th Anniversary, the American People Are in a Sour Mood",
+    "category": "semiconductor"
+  },
+  "https://www.slu.edu/news/2026/june/in-pursuit.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-06-12T12:00:09.199240",
+    "title": "SLU Expert on First Ladies Pens Essay for National Civic Education Project",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/architecture-planning-design-graduation-retention-rate-gains.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-12T12:00:12.480176",
+    "title": "Building success by design",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/kerri-day-keller-career-center-legacy.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-12T12:00:12.480210",
+    "title": "Transforming career success at K-State",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/technology-development-institute-aircraft-moving-invention.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-12T12:00:12.480221",
+    "title": "TDI partners with Kansas company to advance aircraft-moving innovation",
+    "category": "education"
+  },
+  "https://theconversation.com/spacex-raised-75b-in-record-ipo-heres-why-insiders-like-elon-musk-are-much-likelier-than-public-stock-buyers-to-get-rocket-powered-returns-these-days-285134": {
+    "source": "mendoza",
+    "fetch_time": "2026-06-12T12:00:14.166908",
+    "title": "SpaceX raised $75B in record IPO",
+    "category": "ai"
+  },
+  "https://www.bloomberg.com/news/articles/2026-06-09/spacex-ipo-risks-feedback-loop-as-index-funds-eye-30-of-float?sref=UE6j96Lv": {
+    "source": "mendoza",
+    "fetch_time": "2026-06-12T12:00:14.166934",
+    "title": "SpaceX set to put 30% of tradeable shares in passive hands, testing markets",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/06/washu-expert-why-the-first-amendments-forgotten-right-of-assembly-matters-more-than-ever/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-12T12:00:16.736897",
+    "title": "Why the First Amendment’s forgotten right of assembly matters more than ever",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/06/washu-expert-ebola-and-public-health-preparedness-during-the-world-cup/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-12T12:00:16.736922",
+    "title": "Ebola and public health preparedness during the World Cup",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/06/socioeconomic-factors-linked-to-lasting-imprint-in-kids-brains/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-12T12:00:16.736933",
+    "title": "Socioeconomic factors linked to lasting imprint in kids’ brains",
+    "category": "ai"
+  },
+  "https://www.yahoo.com/news/articles/those-potholes-street-reveal-money-090052187.html": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-12T12:00:18.488062",
+    "title": "Those potholes in your street reveal a money problem for cities and states",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-joins-two-national-efforts-to-improve-stem-student-success": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-12T12:00:19.327915",
+    "title": "Nebraska joins two national efforts to improve STEM student success",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/wiggins-fills-his-days-with-food-nature": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-12T12:00:19.327939",
+    "title": "Wiggins fills his days with food, nature",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/bullerman-follows-a-family-legacy-into-nebraskas-prairies": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-12T12:00:19.327950",
+    "title": "Bullerman follows a family legacy into Nebraska’s prairies",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/barnes-draws-liszt-society-festival-back-to-nebraska": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-12T12:00:19.327960",
+    "title": "Barnes draws Liszt Society festival back to Nebraska",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/as-ai-use-in-schools-grows-lawmakers-and-districts-scramble-to-set-up-guardrails/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-12T12:00:19.803229",
+    "title": "As AI Use in Schools Grows, Lawmakers and Districts Scramble to Set Up Guardrails",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/texas-charter-school-boom-may-soon-bust-experts-caution/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-12T12:00:19.803255",
+    "title": "Texas’ Charter School Boom May Soon Bust, Experts Caution",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/access-to-early-care-and-education-depends-on-where-you-live/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-12T12:00:19.803266",
+    "title": "Access to Early Care and Education Depends on Where You Live",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-connecticut-returning-education-states-and-history-rocks-nationwide-tours": {
+    "source": "edgov",
+    "fetch_time": "2026-06-12T12:00:19.973221",
+    "title": "U.S. Secretary of Education Linda McMahon Visits Connecticut on Returning Education to the States and 'History Rocks!' Nationwide Tours",
+    "category": "education"
+  },
+  "https://www.heritage.org/education/commentary/campus-graduation-chaos-shows-higher-education-needs-serious-moral-reset": {
+    "source": "heritage",
+    "fetch_time": "2026-06-12T12:00:20.150571",
+    "title": "Campus Graduation Chaos Shows Higher Education Needs a Serious Moral Reset",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/06/12/why-the-old-enrollment-playbook-no-longer-works/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-12T12:00:21.413363",
+    "title": "Why the old enrollment playbook no longer works",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51277-iu-to-expand-housing-in-indianapolis-modernize": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-12T12:00:26.033036",
+    "title": "IU to expand housing in Indianapolis, modernize Willkie Quad in Bloomington",
+    "category": "general"
+  },
+  "https://news.iu.edu/live/news/51268-new-degree-and-certificate-programs-approved-to": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-12T12:00:26.033061",
+    "title": "New degree and certificate programs approved to meet growing workforce demand, critical shortages",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/ku-law-graduates-named-academic-all-american-advocates-by-the-national-association-of-legal-advocacy-educators": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-12T12:00:28.167962",
+    "title": "KU Law graduates named Academic All-American Advocates by the National Association of Legal Advocacy Educators",
+    "category": "education"
+  },
+  "https://education.wisc.edu/news/merits-erdmann-recognized-at-uw-madison-it-awards/": {
+    "source": "uw_education",
+    "fetch_time": "2026-06-12T12:00:29.247575",
+    "title": "MERIT’s Erdmann recognized at UW–Madison IT Awards",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/06/vice-president-for-human-resources-lorraine-goffe-to-step-down": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-12T12:00:29.622093",
+    "title": "Vice President for Human Resources Lorraine Goffe to step down",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/New-platform-explored-to-meet-emerging-need-in-mechanobiology.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-06-12T12:00:31.010122",
+    "title": "New platform explored to meet emerging need in mechanobiology",
+    "category": "general"
+  },
+  "https://stories.butler.edu/meet-nate-kirschman-a-current-butler-student-and-fraternity-leader/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-06-12T12:00:31.025606",
+    "title": "Meet Nate Kirschman: A Current Butler Student and Fraternity Leader",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/scientists-show-how-particle-interactions-control-flow-soft-materials-ketchup": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-12T12:00:31.332612",
+    "title": "Scientists show how particle interactions control flow of soft materials—like ketchup",
+    "category": "semiconductor"
+  },
+  "https://www.kettering.edu/kettering-formula-sae-team-completes-every-dynamic-event-following-major-vehicle-redesign": {
+    "source": "kettering_news",
+    "fetch_time": "2026-06-12T12:00:31.580327",
+    "title": "Kettering Formula SAE Team Completes Every Dynamic Event Following Major Vehicle Redesign",
+    "category": "semiconductor"
   }
 }

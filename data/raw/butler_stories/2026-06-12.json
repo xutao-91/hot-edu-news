@@ -1,0 +1,38 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-06-12T12:00:30.726896",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Meet Nate Kirschman: A Current Butler Student and Fraternity Leader",
+      "url": "https://stories.butler.edu/meet-nate-kirschman-a-current-butler-student-and-fraternity-leader/",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Nate Kirschman, a current Butler student, talks about how fraternity and sorority life has positively impacted his experience on campus.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Meet Kendall Johnson: A Current Butler Student and Sorority Leader",
+      "url": "https://stories.butler.edu/meet-kendall-johnson-a-current-butler-student-and-sorority-leader/",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "Kendall Johnson, a current Butler student, discusses her involvement in sorority life and how it has shaped her experience as a student.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Bulldog Crawl Returns June 26 with New Vendors and Tour Stops",
+      "url": "https://stories.butler.edu/bulldog-crawl-returns-june-26-with-new-vendors-and-tour-stops/",
+      "date": "2026-06-09",
+      "type": "News",
+      "summary_en": "The annual Butler Bulldog Crawl event hosted by the Central Indiana Alumni Community returns to campus on Friday, June 26, featuring many returning favorites along with four new vendors: ClusterTruck, Cotton Candy University, Kona Ice, and Social Cantina. Featured stops on this year’s Crawl include the Efroymson Center for Creative Writing, Irvington House, the Gallahue…",
+      "author": "jennifer gunnels",
+      "source": "Butler Stories",
+      "category": "general"
+    }
+  ]
+}
