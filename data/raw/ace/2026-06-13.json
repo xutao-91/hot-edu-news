@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-06-13T12:00:28.910927",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "2025 Freshman Survey Shines Light on Views of Entering College Students",
+      "url": "https://www.acenet.edu/News-Room/Pages/2025-Freshman-Survey-ACE-HERI.aspx",
+      "date": "June 11, 2026",
+      "type": "News",
+      "summary_en": "The 2025 CIRP Freshman Survey features key insights about how entering college students are approaching higher education in a changing context in which questions about cost, value, well-being, and future opportunities are becoming even more important.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

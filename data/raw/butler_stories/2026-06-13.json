@@ -1,0 +1,28 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-06-13T12:00:29.666442",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Meet Nate Kirschman: A Current Butler Student and Fraternity Leader",
+      "url": "https://stories.butler.edu/meet-nate-kirschman-a-current-butler-student-and-fraternity-leader/",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Nate Kirschman, a current Butler student, talks about how fraternity and sorority life has positively impacted his experience on campus.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Meet Kendall Johnson: A Current Butler Student and Sorority Leader",
+      "url": "https://stories.butler.edu/meet-kendall-johnson-a-current-butler-student-and-sorority-leader/",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "Kendall Johnson, a current Butler student, discusses her involvement in sorority life and how it has shaped her experience as a student.",
+      "author": "Kaitlin Dillon",
+      "source": "Butler Stories",
+      "category": "general"
+    }
+  ]
+}

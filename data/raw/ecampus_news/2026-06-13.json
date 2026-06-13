@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-13T12:00:21.629171",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Why the old enrollment playbook no longer works",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/06/12/why-the-old-enrollment-playbook-no-longer-works/",
+      "date": "2026-06-12",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Key points: The demographic cliff higher education has been warned about for years isn’t coming; it’s already here. The post-2008 birthrate drop is now hitting institutions directly, arriving alongside affordability…",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Invisible translators: What funky techs do for higher ed",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/06/10/invisible-translators-what-funky-techs-do-for-higher-ed/",
+      "date": "2026-06-10",
+      "type": "Faculty & Staff",
+      "summary_en": "You don’t see ‘funky tech’ in scholarly literature. But if you’ve spent time at higher-ed tech conferences, you’ve heard it. Someone introduces themselves during a networking break: “I’m a funky tech over in Academic Advising.”",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

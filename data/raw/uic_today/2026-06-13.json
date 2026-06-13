@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-06-13T12:00:26.592660",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Donald Barge’s UI Health cancer team gave him ‘a whole new life’",
+      "url": "https://today.uic.edu/donald-barges-ui-health-cancer-team-gave-him-a-whole-new-life/",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "Patient shares experience being treated for colorectal cancer at UI Health.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Vision for West Side of Chicago developed by UIC researchers recognized by World Business Chicago",
+      "url": "https://today.uic.edu/vision-for-west-side-of-chicago-developed-by-uic-researchers-recognized-by-world-business-chicago/",
+      "date": "2026-06-10",
+      "type": "News",
+      "summary_en": "The proposal was created by UIC’s Master of City Design program faculty in partnership with the Illinois Medical District.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}
