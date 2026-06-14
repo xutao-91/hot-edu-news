@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-14T12:00:29.935909",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Levers for Increasing College Student Access to the Supplemental Nutrition Assistance Program: Evidence from Colorado",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4846-1.html",
+      "date": "Jun 11, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors aim to provide federal, state, and local decisionmakers with evidence on four different options for expanding college student participation in the Supplemental Nutrition Assistance Program.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "College Students and the Supplemental Nutrition Assistance Program in Colorado: Key Findings for State Agencies, Colleges, and Counties",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4846-1.html",
+      "date": "Jun 11, 2026",
+      "type": "Research Summary",
+      "summary_en": "This brief presents four key findings on Colorado college student participation in the Supplemental Nutrition Assistance Program and the barriers that college students face to participation.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "What Colleges Can Do to Boost Student Participation in the Supplemental Nutrition Assistance Program: Lessons from Colorado",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4846-3.html",
+      "date": "Jun 11, 2026",
+      "type": "Research Summary",
+      "summary_en": "This research brief provides an overview of how Colorado public postsecondary institutions have scaled application and case management support for the Supplemental Nutrition Assistance Program and the implications for student participation.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "What States Can Do to Boost College Student Participation in the Supplemental Nutrition Assistance Program: Evidence from Colorado",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4846-2.html",
+      "date": "Jun 11, 2026",
+      "type": "Research Summary",
+      "summary_en": "This brief describes two options that states can pursue to expand college student participation in the Supplemental Nutrition Assistance Program. Colorado data offer evidence on how these two actions might increase college student participation.",
+      "source": "Rand Corporation",
+      "category": "students"
+    }
+  ]
+}

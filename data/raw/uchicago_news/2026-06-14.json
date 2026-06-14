@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-14T12:00:28.801190",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Scientists show how particle interactions control flow of soft materials—like ketchup",
+      "url": "https://news.uchicago.edu/story/scientists-show-how-particle-interactions-control-flow-soft-materials-ketchup",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Research by UChicago, Argonne researchers could lead to new materials and manufacturing processes",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "How websites trick you using ‘dark patterns’",
+      "url": "https://news.uchicago.edu/big-brains-podcast-how-websites-trick-you-using-dark-patterns",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Celebrate Juneteenth 2026 at UChicago in the community",
+      "url": "https://news.uchicago.edu/story/celebrate-juneteenth-2026-uchicago-community",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

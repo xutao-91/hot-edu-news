@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-06-14T12:00:15.127309",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Wayne State student creates publication centered on collaboration, curiosity and connection",
+      "url": "https://today.wayne.edu/news/2026/06/11/wayne-state-student-creates-publication-centered-on-collaboration-curiosity-and-connection-69572",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Celebrating Juneteenth: WSU professor shares her remarkable genealogy journey",
+      "url": "https://today.wayne.edu/news/2026/06/11/celebrating-juneteenth-wayne-state-professor-dr-kafi-kumasi-shares-her-remarkable-genealogy-journey-69573",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "How the Campus Genealogy Project helped Detroiters connect to their family legacies",
+      "url": "https://today.wayne.edu/news/2026/06/11/celebrating-juneteenth-how-the-wsu-campus-genealogy-project-helped-detroiters-connect-to-their-family-legacies-69574",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Division of Health Affairs AI Task Force charts path for responsible innovation",
+      "url": "https://today.wayne.edu/news/2026/06/11/division-of-health-affairs-ai-task-force-charts-path-for-responsible-innovation-69576",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "Wayne State named among top 1.8% universities worldwide",
+      "url": "https://today.wayne.edu/news/2026/06/11/wayne-state-named-among-top-18-universities-worldwide-69577",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State University to host Juneteenth celebration honoring Black history",
+      "url": "https://today.wayne.edu/news/2026/06/11/wayne-state-university-to-host-juneteenth-celebration-honoring-black-history-69578",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

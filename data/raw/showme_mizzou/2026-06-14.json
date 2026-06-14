@@ -1,0 +1,35 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-14T12:00:21.788482",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Those potholes in your street reveal a money problem for cities and states",
+      "url": "https://www.yahoo.com/news/articles/those-potholes-street-reveal-money-090052187.html",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "This summer, take advantage of Mizzou Arts",
+      "url": "https://showme.missouri.edu/2026/this-summer-take-advantage-of-mizzou-arts/",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "Enjoy artwork, theatre and new music at an array of performances at the University of Missouri.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Crossing the finishing line: May photos of the month",
+      "url": "https://showme.missouri.edu/2026/crossing-the-finishing-line-may-photos-of-the-month/",
+      "date": "2026-06-11",
+      "type": "News",
+      "summary_en": "Celebrations, commencement and Tiger successes marked the end of the academic year.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

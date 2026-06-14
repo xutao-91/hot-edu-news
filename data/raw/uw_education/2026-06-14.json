@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison School of Education",
+  "source_url": "https://education.wisc.edu/category/school-news/",
+  "crawled_at": "2026-06-14T12:00:27.180326",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "MERIT’s Erdmann recognized at UW–Madison IT Awards",
+      "url": "https://education.wisc.edu/news/merits-erdmann-recognized-at-uw-madison-it-awards/",
+      "date": "June 12, 2026",
+      "type": "News",
+      "summary_en": "The School of Education’s Jason Erdmann, an IT project manager in Media, Education Resources & Information Technology (MERIT), was honored with the Ellen La Luzerne Community Builder Award at the 2026 UW–Madison IT Recognition Awards ceremony on May 28.",
+      "source": "UW-Madison School of Education",
+      "category": "awards"
+    },
+    {
+      "title": "Amid global challenges, decade-long UW–Madison–Peking University workshop advances international dialogue on higher education",
+      "url": "https://education.wisc.edu/news/amid-global-challenges-decade-long-uw-madison-peking-university-workshop-advances-international-dialogue-on-higher-education/",
+      "date": "June 11, 2026",
+      "type": "News",
+      "summary_en": "Founded in 2015 by Adam Nelson (UW–Madison) and Shen Wenqin (Peking University), the UW–PKU Workshop on Higher Education is a premier international forum that’s one of the most active and sustained collaborations between the United States and China on the comparative history, sociology, and politics of higher education — an area of increasing policy relevance.",
+      "source": "UW-Madison School of Education",
+      "category": "teacher_education"
+    }
+  ]
+}

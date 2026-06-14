@@ -1,0 +1,53 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-14T12:00:07.018165",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "On the Country’s 250th Anniversary, the American People Are in a Sour Mood",
+      "url": "https://www.pewresearch.org/2026/06/12/on-the-countrys-250th-anniversary-the-american-people-are-in-a-sour-mood/",
+      "date": "Jun 12, 2026",
+      "type": "report",
+      "categories": [
+        "Economy Work",
+        "Government",
+        "Happiness Life Satisfaction",
+        "U S Democracy",
+        "Uncategorized"
+      ],
+      "summary_en": "Still, many express some optimism: Most people say they feel “hopeful” and 54% say they’re “happy” when thinking about the future.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "For the 100th anniversary of the SAT, a look at standardized test scores over time",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/11/for-the-100th-anniversary-of-the-sat-a-look-at-standardized-test-scores-over-time/",
+      "date": "Jun 11, 2026",
+      "type": "short reads",
+      "categories": [
+        "Education Learning Online 2",
+        "K 12"
+      ],
+      "summary_en": "As the SAT nears its 100th anniversary, here’s a look at how the test has changed since 1926 and how scores on both the SAT and ACT have shifted over time.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "More than half of states will recognize Juneteenth as a legal holiday in 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/11/more-than-half-of-states-will-recognize-juneteenth-as-a-legal-holiday-in-2026/",
+      "date": "Jun 11, 2026",
+      "type": "short reads",
+      "categories": [
+        "Black Americans",
+        "Business Workplace",
+        "Employee Benefits",
+        "Leisure",
+        "State"
+      ],
+      "summary_en": "This year, at least 33 states and the District of Columbia will legally recognize Juneteenth as a public holiday.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

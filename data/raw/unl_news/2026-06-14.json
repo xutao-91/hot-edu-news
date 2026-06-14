@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-06-14T12:00:14.409965",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Nebraska joins two national efforts to improve STEM student success",
+      "url": "https://news.unl.edu/article/nebraska-joins-two-national-efforts-to-improve-stem-student-success",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Wiggins fills his days with food, nature",
+      "url": "https://news.unl.edu/article/wiggins-fills-his-days-with-food-nature",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Bullerman follows a family legacy into Nebraska’s prairies",
+      "url": "https://news.unl.edu/article/bullerman-follows-a-family-legacy-into-nebraskas-prairies",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Barnes draws Liszt Society festival back to Nebraska",
+      "url": "https://news.unl.edu/article/barnes-draws-liszt-society-festival-back-to-nebraska",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}
