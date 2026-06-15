@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-15T12:00:28.920313",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "University of Chicago's Pape on the US-Iran Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-15/university-of-chicago-s-pape-on-the-us-iran-deal-video",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Neil Shubin on Trusted Science in a ‘Deeply Partisan Age’",
+      "url": "https://www.nytimes.com/2026/06/12/science/neil-shubin-national-academcy-sciences.html",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Scientists show how particle interactions control flow of soft materials—like ketchup",
+      "url": "https://news.uchicago.edu/story/scientists-show-how-particle-interactions-control-flow-soft-materials-ketchup",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Research by UChicago, Argonne researchers could lead to new materials and manufacturing processes",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

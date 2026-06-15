@@ -1,0 +1,64 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-15T12:00:30.475947",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Presidential Message on the 251st Birthday of the United States Army",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/",
+      "date": "June 14, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/",
+      "date": "June 12, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "America 250: Presidential Message on the 250th Anniversary of the Virginia Declaration of Rights",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-250th-anniversary-of-the-virginia-declaration-of-rights/",
+      "date": "June 12, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Defends America’s Warfighters and Intelligence Officers Against Cyber Threats",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-defends-americas-warfighters-and-intelligence-officers-against-cyber-threats/",
+      "date": "June 12, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "S. 254 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-254-signed-into-law/",
+      "date": "June 12, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "National Homeownership Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-homeownership-month-2026/",
+      "date": "June 12, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Flag Day and National Flag Week, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/flag-day-and-national-flag-week-2026/",
+      "date": "June 12, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "National Security Presidential Memorandum/NSPM-12",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-12/",
+      "date": "June 12, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}

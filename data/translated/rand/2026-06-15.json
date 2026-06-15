@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Verifiable Audit Trails for AI-Enabled Biological Design Tools: A Proposal for Verifiable Biodesign Logging",
+    "url": "https://www.rand.org/pubs/perspectives/PEA4613-1.html",
+    "date": "Jun 15, 2026",
+    "type": "Expert Insights",
+    "summary_en": "The authors propose a tamper-evident audit-trail framework using cryptographic signing to establish a trustworthy chain of custody that can be used with any artificial intelligence–enabled biological design tool.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Verifiable Audit Trails for AI-Enabled Biological Design Tools: A Proposal for Verifiable Biodesign Logging",
+    "summary_cn": "",
+    "_sort_date": "2026-06-15"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-15T12:00:28.268507",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WashU partners with St. Louis to expand CLEAN STL tornado recovery project",
+      "url": "https://engineering.washu.edu/news/2026/WashU-partners-with-St-Louis-to-expand-CLEAN-STL-tornado-recovery-project.html",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Jay Turner's lab to monitor air quality amid tornado cleanup efforts in St. Louis.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "New platform explored to meet emerging need in mechanobiology",
+      "url": "https://engineering.washu.edu/news/2026/New-platform-explored-to-meet-emerging-need-in-mechanobiology.html",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Alexandra Rutz’s lab works with conducting polymers to change stiffness.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

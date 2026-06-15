@@ -1,0 +1,35 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-15T12:00:28.918957",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "New Kansas Law Enforcement Officers Graduate from KLETC",
+      "url": "https://news.ku.edu/news/article/new-kansas-law-enforcement-officers-graduate-from-kletc-ARTICLE-R3ATX4-ARTICLE-R3ATX4-ARTICLE-R3ATX4-ARTICLE-R3ATX4",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "HUTCHINSON — Cheers and applause filled Integrity Auditorium as the 358th Basic Training Class graduated from the Kansas Law Enforcement Training Center on June 12. ...",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU recognizes 2025-26 faculty and staff retirees",
+      "url": "https://news.ku.edu/news/article/ku-recognizes-2025-26-faculty-and-staff-retirees-ARTICLE-Y4VF2G-ARTICLE-Y4VF2G-ARTICLE-Y4VF2G",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "The University of Kansas has recognized the more than 100 faculty and academic, support and unclassified professional staff affiliated with the Lawrence and Edwards campuses who retired during the 2025-26 academic year.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU Law graduates named Academic All-American Advocates by the National Association of Legal Advocacy Educators",
+      "url": "https://news.ku.edu/news/article/ku-law-graduates-named-academic-all-american-advocates-by-the-national-association-of-legal-advocacy-educators",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Logan Brtek and Alex Nelson, both KU School of Law graduates, have been honored by the National Association of Legal Advocacy Educators, becoming the first KU Law students to receive the national honors. The awards recognize excellence in competition performance, academic achievement, leadership and service.",
+      "source": "KU News",
+      "category": "students"
+    }
+  ]
+}

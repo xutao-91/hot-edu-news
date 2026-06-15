@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-06-15T12:00:27.066738",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "For Northwestern’s Class of 2026, the notion of ‘what if’",
+      "url": "https://news.northwestern.edu/stories/2026/06/celebrating-the-class-of-2026-at-commencement",
+      "date": "2026-06-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Vice President for Human Resources Lorraine Goffe to step down",
+      "url": "https://news.northwestern.edu/stories/2026/06/vice-president-for-human-resources-lorraine-goffe-to-step-down",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

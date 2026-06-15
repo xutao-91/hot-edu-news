@@ -1,0 +1,18 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-06-15T12:00:24.034386",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Remembering Antonio Arellano-Banda",
+      "url": "https://www.studlife.com/news/2026/06/12/remembering-antonio-allerano-banda",
+      "date": "2026-06-12",
+      "type": "News",
+      "summary_en": "Antonio Allerano-Banda, who completed his sophomore year at the McKelvey School of Engineering, died on Wednesday, May 13, 2026. He was 20 years old.",
+      "author": "Laurel Wang",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}
