@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-14T12:00:34.873887",
+  "crawled_at": "2026-06-14T20:00:29.713745",
   "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message on the 251st Birthday of the United States Army",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/",
+      "date": "June 14, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "First Lady Melania Trump’s Remarkable Week Empowering Youth through AI Challenge and Fostering the Future Accounts",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/06/first-lady-melania-trumps-remarkable-week-empowering-youth-through-ai-challenge-and-fostering-the-future-accounts/",
@@ -65,13 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/75th-anniversary-of-the-white-house-navy-mess-2026/",
       "date": "June 11, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Restores American Commercial Fishing in the Pacific",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-restores-american-commercial-fishing-in-the-pacific/",
-      "date": "June 11, 2026",
-      "category": "Fact Sheets",
       "source": "The White House"
     }
   ]

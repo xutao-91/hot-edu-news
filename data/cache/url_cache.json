@@ -8644,5 +8644,17 @@
     "fetch_time": "2026-06-14T12:00:18.961604",
     "title": "California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught",
     "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/06/celebrating-the-class-of-2026-at-commencement": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-14T20:00:28.136096",
+    "title": "For Northwestern’s Class of 2026, the notion of ‘what if’",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-the-251st-birthday-of-the-united-states-army/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-14T20:00:29.917949",
+    "title": "Presidential Message on the 251st Birthday of the United States Army",
+    "category": "general"
   }
 }
