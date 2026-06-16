@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-15T12:00:16.302177",
-  "total_news": 2,
+  "crawled_at": "2026-06-15T20:00:15.172685",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Research reveals evolving fatherhood expectations",
+      "url": "https://source.washu.edu/2026/06/washu-expert-research-reveals-evolving-fatherhood-expectations/",
+      "date": "2026-06-15",
+      "type": "Sociology",
+      "summary_en": "Fatherhood today is shaped by two powerful expectations: to be actively involved in caregiving and to provide financially, according to research by Patrick Ishizuka, assistant professor of sociology in Arts & Sciences at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "Why the First Amendment’s forgotten right of assembly matters more than ever",
       "url": "https://source.washu.edu/2026/06/washu-expert-why-the-first-amendments-forgotten-right-of-assembly-matters-more-than-ever/",

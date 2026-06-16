@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-15T12:00:14.433068",
+  "crawled_at": "2026-06-15T20:00:17.774315",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.201308"
+      "crawled_at": "2026-06-15T20:00:17.516346"
+    },
+    {
+      "title": "Mississippi High in Education, Last in Child Health Outcomes",
+      "url": "https://www.the74million.org/article/mississippi-high-in-education-last-in-child-health-outcomes/",
+      "date": "June 15, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-15T20:00:17.528316"
     },
     {
       "title": "Ohio Republican Lawmakers Pass Bill That Includes Requiring Schools to Teach When to Have Kids",
@@ -18,7 +26,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.210325"
+      "crawled_at": "2026-06-15T20:00:17.540377"
     },
     {
       "title": "Survey: Young People Turn to AI to Be ‘Their Real, Unfiltered Selves’",
@@ -26,7 +34,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.219502"
+      "crawled_at": "2026-06-15T20:00:17.553147"
     },
     {
       "title": "California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught",
@@ -34,15 +42,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.233583"
-    },
-    {
-      "title": "Wyoming Students Spend Less Time in PE. An Expert Wants to Change That.",
-      "url": "https://www.the74million.org/article/wyoming-students-spend-less-time-in-pe-an-expert-wants-to-change-that/",
-      "date": "June 15, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.243381"
+      "crawled_at": "2026-06-15T20:00:17.565485"
     },
     {
       "title": "How San Antonio Built One of America’s Most Ambitious Pre-K Programs",
@@ -50,7 +50,15 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.255222"
+      "crawled_at": "2026-06-15T20:00:17.576890"
+    },
+    {
+      "title": "Wyoming Students Spend Less Time in PE. An Expert Wants to Change That.",
+      "url": "https://www.the74million.org/article/wyoming-students-spend-less-time-in-pe-an-expert-wants-to-change-that/",
+      "date": "June 13, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-15T20:00:17.591604"
     },
     {
       "title": "25 Babies and Toddlers Are in ICE Custody on an Average Day",
@@ -58,7 +66,7 @@
       "date": "June 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.260730"
+      "crawled_at": "2026-06-15T20:00:17.606122"
     },
     {
       "title": "As AI Use in Schools Grows, Lawmakers and Districts Scramble to Set Up Guardrails",
@@ -66,7 +74,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.269252"
+      "crawled_at": "2026-06-15T20:00:17.620539"
     },
     {
       "title": "Texas’ Charter School Boom May Soon Bust, Experts Caution",
@@ -74,7 +82,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.271569"
+      "crawled_at": "2026-06-15T20:00:17.635104"
     },
     {
       "title": "Access to Early Care and Education Depends on Where You Live",
@@ -82,7 +90,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.280054"
+      "crawled_at": "2026-06-15T20:00:17.637458"
     },
     {
       "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
@@ -90,7 +98,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.288525"
+      "crawled_at": "2026-06-15T20:00:17.648944"
     },
     {
       "title": "Transgender Arkansans and Their Families Weigh Moving or Staying in the Face of Restrictions",
@@ -98,7 +106,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.300016"
+      "crawled_at": "2026-06-15T20:00:17.660358"
     },
     {
       "title": "A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model",
@@ -106,7 +114,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.314450"
+      "crawled_at": "2026-06-15T20:00:17.671813"
     },
     {
       "title": "Exclusive: 7 Things to Know About Microschools in 2026",
@@ -114,7 +122,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.325948"
+      "crawled_at": "2026-06-15T20:00:17.683174"
     },
     {
       "title": "North Carolina Set to Nearly Double Remote Charter Academies Next Year",
@@ -122,7 +130,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.328321"
+      "crawled_at": "2026-06-15T20:00:17.685527"
     },
     {
       "title": "‘A Sea Change’: Public School Supporters See Potential in New Tax Credit",
@@ -130,7 +138,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.339792"
+      "crawled_at": "2026-06-15T20:00:17.697044"
     },
     {
       "title": "Under Mamdani, New York Will Be the First to Open Free Childcare Center for City Workers",
@@ -138,7 +146,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.351366"
+      "crawled_at": "2026-06-15T20:00:17.708544"
     },
     {
       "title": "Long-Term NAEP Shows Growth for 9-Year-Olds, More Disappointment for Teens",
@@ -146,7 +154,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.362528"
+      "crawled_at": "2026-06-15T20:00:17.719074"
     },
     {
       "title": "Educators Inspired by Kansas High School Students Hoping to Become Teachers",
@@ -154,7 +162,7 @@
       "date": "June 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.371003"
+      "crawled_at": "2026-06-15T20:00:17.727517"
     },
     {
       "title": "Inside Vermont’s Decade-Long Effort to Change Childcare",
@@ -162,7 +170,7 @@
       "date": "June 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.382359"
+      "crawled_at": "2026-06-15T20:00:17.736063"
     },
     {
       "title": "Tulsa Charter Network Begins to Bounce Back From Pandemic Decline",
@@ -170,7 +178,7 @@
       "date": "June 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.384626"
+      "crawled_at": "2026-06-15T20:00:17.738517"
     },
     {
       "title": "Texas Schools Say They Still Face Budget Difficulties Despite $8.5 Billion Boost",
@@ -178,7 +186,7 @@
       "date": "June 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.396045"
+      "crawled_at": "2026-06-15T20:00:17.750094"
     },
     {
       "title": "Aquatic Robots, Drones and Power Tools: STEM Spans All Grades in Oklahoma School",
@@ -186,7 +194,7 @@
       "date": "June 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.407505"
+      "crawled_at": "2026-06-15T20:00:17.761639"
     },
     {
       "title": "Nearly 84% of Detroit District High Schoolers Were Paid for Attendance This Year",
@@ -194,15 +202,7 @@
       "date": "June 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.418990"
-    },
-    {
-      "title": "Artificial Intelligence Is Here To Stay. Are Hawaiʻi Schools Ready?",
-      "url": "https://www.the74million.org/article/artificial-intelligence-is-here-to-stay-are-hawai%ca%bbi-schools-ready/",
-      "date": "June 7, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-15T12:00:14.430356"
+      "crawled_at": "2026-06-15T20:00:17.773973"
     }
   ]
 }

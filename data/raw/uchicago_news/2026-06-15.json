@@ -1,9 +1,27 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-15T12:00:28.920313",
-  "total_news": 3,
+  "crawled_at": "2026-06-15T20:00:29.390324",
+  "total_news": 5,
   "news": [
+    {
+      "title": "The Forces Shaping the 2026 FIFA World Cup",
+      "url": "https://news.uchicago.edu/forces-shaping-2026-fifa-world-cup",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Public school closings in Chicago linked to more gun violence in nearby neighborhoods",
+      "url": "https://news.uchicago.edu/story/public-school-closings-chicago-linked-more-gun-violence-nearby-neighborhoods",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Data shows a 10% increase in shootings can be linked to mass public school closures",
+      "source": "UChicago News",
+      "category": "education"
+    },
     {
       "title": "University of Chicago's Pape on the US-Iran Deal",
       "url": "https://www.bloomberg.com/news/videos/2026-06-15/university-of-chicago-s-pape-on-the-us-iran-deal-video",

@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-06-15T12:00:10.981957",
-  "total_news": 1,
+  "crawled_at": "2026-06-15T20:00:12.572502",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Northern Michigan found a way to cut school absenteeism. Lansing may defund it",
+      "url": "https://bridgemi.com/talent-education/northern-michigan-found-a-way-to-cut-school-absenteeism-lansing-may-defund-it/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "One reason Michigan is behind other states in test scores is because kids miss so much school. But a program hailed as a model is at risk of losing nearly half its funding.",
+      "author": "Ron French",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
     {
       "title": "Attracting Michigan preschoolers, teachers with free housing, other innovations",
       "url": "https://bridgemi.com/talent-education/attracting-michigan-preschool-teachers-with-free-housing-other-innovations/",

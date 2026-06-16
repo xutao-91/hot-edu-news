@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-06-15T12:00:23.791644",
+  "crawled_at": "2026-06-15T20:00:24.340649",
   "total_news": 2,
   "news": [
+    {
+      "title": "Luddy School, School of Medicine aim to identify new Alzheimer’s drug targets with AI",
+      "url": "https://medicine.iu.edu/news/2026/06/ai-alzheimers-drug-targets",
+      "date": "Jun 15, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "IU to expand housing in Indianapolis, modernize Willkie Quad in Bloomington",
       "url": "https://news.iu.edu/live/news/51277-iu-to-expand-housing-in-indianapolis-modernize",
@@ -12,15 +21,6 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"
-    },
-    {
-      "title": "New degree and certificate programs approved to meet growing workforce demand, critical shortages",
-      "url": "https://news.iu.edu/live/news/51268-new-degree-and-certificate-programs-approved-to",
-      "date": "Jun 12, 2026",
-      "type": "Administration",
-      "summary_en": "",
-      "source": "Indiana University",
-      "category": "education"
     }
   ]
 }

@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-06-15T12:00:18.478149",
-  "total_news": 1,
+  "crawled_at": "2026-06-15T20:00:18.678660",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Meet the 2026 University Staff Recognition Award winners",
+      "url": "https://news.wisc.edu/meet-the-2026-university-staff-recognition-award-winners/",
+      "date": "June 15, 2026",
+      "type": "News",
+      "summary_en": "Teamwork, mastery and innovation mark the work of this year's awardees.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
     {
       "title": "Badgers come home",
       "url": "https://www.uwalumni.com/news/badgers-come-home/",
