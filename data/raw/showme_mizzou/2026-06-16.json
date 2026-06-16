@@ -1,0 +1,44 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-16T12:00:19.787061",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "MEDIA ADVISORY: University of Missouri to celebrate expansion in Springfield",
+      "url": "https://showme.missouri.edu/2026/media-advisory-university-of-missouri-to-celebrate-expansion-in-springfield/",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Study: Small global temperature shifts could drive bigger weather extremes in Mississippi River Basin",
+      "url": "https://showme.missouri.edu/2026/study-small-global-temperature-shifts-could-drive-bigger-weather-extremes-in-mississippi-river-basin/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "University of Missouri researchers show how modest increases can amplify heat, rainfall variability and dry spells across one of the nation’s most important agricultural regions.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Sandy Saunders and Yoko Wang receive American Heart Association Career Development Awards",
+      "url": "https://showme.missouri.edu/2026/sandy-saunders-and-yoko-wang-receive-american-heart-association-career-development-awards/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Three Missouri School of Journalism students make strong showing in Hearst National Championships",
+      "url": "https://showme.missouri.edu/2026/three-missouri-school-of-journalism-students-make-strong-showing-in-hearst-national-championships/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    }
+  ]
+}

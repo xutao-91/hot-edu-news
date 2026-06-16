@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-06-16T12:00:19.335983",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UNI Wilson College of Business celebrates online MBA graduates",
+      "url": "https://insideuni.uni.edu/business/uni-wilson-college-business-celebrates-online-mba-graduates",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Graduates of UNI’s online Master of Business Administration crossed the stage at the 2026 spring Commencement. The program attracts a wide variety of students, ranging from young professionals to seasoned business executives seeking the highly regarded MBA from the Wilson College of Business.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Pella Corporation’s Adam Farver to headline the 2026 Iowa Family Business Conference at Vermeer Corporation in Pella",
+      "url": "https://insideuni.uni.edu/business/pella-corporations-adam-farver-headline-2026-iowa-family-business-conference-vermeer",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "The family behind Pella Corporation, one of Iowa’s most iconic multigenerational companies, will headline the 2026 Iowa Family Business Conference in Pella on Nov. 11.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

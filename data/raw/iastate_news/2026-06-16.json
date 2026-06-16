@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-16T12:00:14.071845",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Cotton’s roots trace to Yucatan Peninsula, where wild gene pool runs deepest",
+      "url": "https://www.news.iastate.edu/news/cottons-roots-trace-yucatan-peninsula-where-wild-gene-pool-runs-deepest",
+      "date": "2026-06-16",
+      "type": "Agriculture",
+      "summary_en": "A research team led by Iowa State University botanists confirmed cotton was domesticated from a diverse population native to Mexico’s Yucatan Peninsula, a potentially fruitful target for finding genetic traits that could strengthen the world’s most important fiber crop.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Writing with AI demands more thought from students, not less",
+      "url": "https://www.news.iastate.edu/news/writing-ai-demands-more-thought-students-not-less",
+      "date": "2026-06-15",
+      "type": "Innovation and Research",
+      "summary_en": "In a new study, an Iowa State researcher upends the idea that AI simplifies writing, showing instead that it raises the cognitive stakes for students. The study identifies three key thresholds that reveal why using AI well takes more judgment, experimentation and agency than many students expect.",
+      "source": "Iowa State News",
+      "category": "students"
+    }
+  ]
+}

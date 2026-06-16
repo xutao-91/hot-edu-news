@@ -8920,5 +8920,113 @@
     "fetch_time": "2026-06-15T20:00:30.596876",
     "title": "Higher Education Faces New Spending Limits as House Appropriations Bill Advances",
     "category": "education"
+  },
+  "https://www.pewresearch.org/methods/2026/06/16/video-how-to-spot-a-good-poll-vs-a-bad-poll/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-16T12:00:08.141024",
+    "title": "Video: How to spot a good poll vs. a bad poll",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-16T12:00:08.141056",
+    "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
+    "category": "general"
+  },
+  "https://www.news.iastate.edu/news/cottons-roots-trace-yucatan-peninsula-where-wild-gene-pool-runs-deepest": {
+    "source": "iastate_news",
+    "fetch_time": "2026-06-16T12:00:14.615052",
+    "title": "Cotton’s roots trace to Yucatan Peninsula, where wild gene pool runs deepest",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/knicks-ticker-tape-parade-is-on-a-school-day-and-conflicts-with-regents-exams-some-families-are-angry/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-16T12:00:16.263773",
+    "title": "Knicks Ticker-Tape Parade is on a School Day — and Conflicts with Regents Exams. Some Families Are Angry.",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/after-major-learning-growth-d-c-school-reforms-face-political-test/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-16T12:00:16.263799",
+    "title": "After Major Learning Growth, D.C. School Reforms Face Political Test",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-indianas-returning-education-states-waiver-freeing-millions-invest-students": {
+    "source": "edgov",
+    "fetch_time": "2026-06-16T12:00:16.488181",
+    "title": "U.S. Department of Education Approves Indiana’s Returning Education to the States Waiver, Freeing Up Millions to Invest in Students",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/business/uni-wilson-college-business-celebrates-online-mba-graduates": {
+    "source": "uni_news",
+    "fetch_time": "2026-06-16T12:00:19.977090",
+    "title": "UNI Wilson College of Business celebrates online MBA graduates",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/business/pella-corporations-adam-farver-headline-2026-iowa-family-business-conference-vermeer": {
+    "source": "uni_news",
+    "fetch_time": "2026-06-16T12:00:19.977114",
+    "title": "Pella Corporation’s Adam Farver to headline the 2026 Iowa Family Business Conference at Vermeer Corporation in Pella",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/media-advisory-university-of-missouri-to-celebrate-expansion-in-springfield/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-16T12:00:20.451034",
+    "title": "MEDIA ADVISORY: University of Missouri to celebrate expansion in Springfield",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/university-renews-partnership-with-union-bank-and-trust": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-16T12:00:21.069860",
+    "title": "University renews partnership with Union Bank and Trust",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/snapshot-nebraskans-satisfaction-down-since-covid-recovery-stalled": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-16T12:00:21.069887",
+    "title": "Snapshot: Nebraskans' satisfaction down since COVID, recovery stalled",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/scholar-award-enriches-early-literacy-impacts-at-ruth-staples-lab": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-16T12:00:21.069898",
+    "title": "Scholar award enriches early literacy impacts at Ruth Staples Lab",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/51294-metabolic-kitchen-feeds-nutrition-related-research": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-16T12:00:25.493031",
+    "title": "Metabolic kitchen feeds nutrition-related research under controlled conditions at IU Bloomington",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/researchers-unveil-method-for-safeguarding-privacy-of-electrocardiograms-ARTICLE-AX1VSA-ARTICLE-AX1VSA": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-16T12:00:26.246816",
+    "title": "Researchers unveil method for safeguarding privacy of electrocardiograms",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/study-finds-landback-returns-of-indigenous-lands-happening-across-country-can-lead-public-planning-ARTICLE-3EN9FC-ARTICLE-3EN9FC": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-16T12:00:26.246842",
+    "title": "Study finds landback returns of Indigenous lands happening across country, can lead public planning",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/why-do-some-americans-support-tariffs-even-when-it-costs-them": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-16T12:00:30.781056",
+    "title": "Why do some Americans support tariffs, even when it costs them?",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/commentary/2026/06/the-rand-school-is-rethinking-higher-ed-qa-with-nancy.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-16T12:00:30.987394",
+    "title": "The RAND School Is Rethinking Higher Ed: Q&A with Nancy Staudt",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/white-house-ceq-to-convene-leading-innovators-with-promising-permitting-technology/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-16T12:00:31.396939",
+    "title": "White House CEQ to Convene Leading Innovators with Promising Permitting Technology",
+    "category": "general"
   }
 }

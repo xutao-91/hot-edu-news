@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-06-16T12:00:20.437326",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "University renews partnership with Union Bank and Trust",
+      "url": "https://news.unl.edu/article/university-renews-partnership-with-union-bank-and-trust",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Snapshot: Nebraskans' satisfaction down since COVID, recovery stalled",
+      "url": "https://news.unl.edu/article/snapshot-nebraskans-satisfaction-down-since-covid-recovery-stalled",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Scholar award enriches early literacy impacts at Ruth Staples Lab",
+      "url": "https://news.unl.edu/article/scholar-award-enriches-early-literacy-impacts-at-ruth-staples-lab",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "6,200-plus Huskers named to Deans’ List for spring 2026",
+      "url": "https://news.unl.edu/article/6200-plus-huskers-named-to-deans-list-for-spring-2026",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Nearly 500 Huskers named to Deans' Commendation List for spring 2026",
+      "url": "https://news.unl.edu/article/nearly-500-huskers-named-to-deans-commendation-list-for-spring-2026",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

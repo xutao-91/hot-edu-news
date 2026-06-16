@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The RAND School Is Rethinking Higher Ed: Q&A with Nancy Staudt",
+    "url": "https://www.rand.org/pubs/commentary/2026/06/the-rand-school-is-rethinking-higher-ed-qa-with-nancy.html",
+    "date": "Jun 16, 2026",
+    "type": "Commentary",
+    "summary_en": "Nancy Staudt is leading the RAND School of Public Policy at a moment when higher education is being pushed to evolve in a world defined by constant change.",
+    "source": "Rand Corporation",
+    "category": "commentary",
+    "title_cn": "The RAND School Is Rethinking Higher Ed: Q&A with Nancy Staudt",
+    "summary_cn": "",
+    "_sort_date": "2026-06-16"
+  },
+  {
+    "title": "Verifiable Audit Trails for AI-Enabled Biological Design Tools: A Proposal for Verifiable Biodesign Logging",
+    "url": "https://www.rand.org/pubs/perspectives/PEA4613-1.html",
+    "date": "Jun 15, 2026",
+    "type": "Expert Insights",
+    "summary_en": "The authors propose a tamper-evident audit-trail framework using cryptographic signing to establish a trustworthy chain of custody that can be used with any artificial intelligence–enabled biological design tool.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Verifiable Audit Trails for AI-Enabled Biological Design Tools: A Proposal for Verifiable Biodesign Logging",
+    "summary_cn": "",
+    "_sort_date": "2026-06-15"
+  }
+]
