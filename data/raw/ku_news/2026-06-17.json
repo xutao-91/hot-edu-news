@@ -1,0 +1,53 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-17T12:00:25.738441",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Keeler Professorship fuels KU collaboration on Mars simulant research",
+      "url": "https://news.ku.edu/news/article/keeler-professorship-fuels-ku-collaboration-on-mars-simulant-research",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Steve Gurysh, associate professor of visual art, will further his exploration of Mars Global Simulant through sculpture and by contributing to evolutionary biology scholarship at KU.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Researchers unveil method for safeguarding privacy of electrocardiograms",
+      "url": "https://news.ku.edu/news/article/researchers-unveil-method-for-safeguarding-privacy-of-electrocardiograms-ARTICLE-AX1VSA-ARTICLE-AX1VSA",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Researchers from the University of Kansas have developed a privacy-preserving AI model called (PP-VAE) to protect personally sensitive data about a patient’s sex, age, race and even exact identity derived from electrocardiogram signals.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Study finds landback returns of Indigenous lands happening across country, can lead public planning",
+      "url": "https://news.ku.edu/news/article/study-finds-landback-returns-of-indigenous-lands-happening-across-country-can-lead-public-planning-ARTICLE-3EN9FC-ARTICLE-3EN9FC",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "KU researchers launched a project to document instances of “landback,” in which land is returned to Indigenous communities, tribes and owners. Analysis of the data shows the returns are happening and increasing in frequency across the country. That could be the impetus for public planning as a discipline to rethink how it approaches working with such lands and move beyond simple land acknowledgeme",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "New Kansas Law Enforcement Officers Graduate from KLETC",
+      "url": "https://news.ku.edu/news/article/new-kansas-law-enforcement-officers-graduate-from-kletc-ARTICLE-R3ATX4-ARTICLE-R3ATX4-ARTICLE-R3ATX4-ARTICLE-R3ATX4",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "HUTCHINSON — Cheers and applause filled Integrity Auditorium as the 358th Basic Training Class graduated from the Kansas Law Enforcement Training Center on June 12. ...",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU recognizes 2025-26 faculty and staff retirees",
+      "url": "https://news.ku.edu/news/article/ku-recognizes-2025-26-faculty-and-staff-retirees-ARTICLE-Y4VF2G-ARTICLE-Y4VF2G-ARTICLE-Y4VF2G",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "The University of Kansas has recognized the more than 100 faculty and academic, support and unclassified professional staff affiliated with the Lawrence and Edwards campuses who retired during the 2025-26 academic year.",
+      "source": "KU News",
+      "category": "academic"
+    }
+  ]
+}

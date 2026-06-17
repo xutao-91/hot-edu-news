@@ -1,0 +1,26 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-06-17T12:00:29.630649",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Q&A with Teaching Award Winner Zack Fredin",
+      "url": "https://www.mtu.edu/news/2026/06/qa-with-teaching-award-winner-zack-fredin.html",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Zack Fredin is the recipient of Michigan Technological University's 2026 Distinguished Teaching Award in the category for associate professors/teaching professors, professors/teaching professors, and professors of practice.  Associate Teaching Professor Zack Fredin has been with Michigan Tech for nearly a  . . .",
+      "source": "MTU News",
+      "category": "general"
+    },
+    {
+      "title": "Q&A with Distinguished Teaching Award Winner Laura Sieders",
+      "url": "https://www.mtu.edu/news/2026/06/qa-with-teaching-award-winner-laura-sieders.html",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Laura Sieders is the recipient of Michigan Technological University's 2026 Distinguished Teaching Award in the category for assistant professors/teaching professors.  Laura Sieders is an assistant teaching professor in accounting and the director of Michigan Tech's Master of Science in Accounting  . . .",
+      "source": "MTU News",
+      "category": "general"
+    }
+  ]
+}

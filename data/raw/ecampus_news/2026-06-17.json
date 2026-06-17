@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-17T12:00:25.450282",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Data centers, AI, and the next big campus debate",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/06/17/data-centers-ai-and-the-next-big-campus-debate/",
+      "date": "2026-06-17",
+      "type": "AI in Education",
+      "summary_en": "Higher education has spent the last two years debating whether students should be allowed to use artificial intelligence. That debate now looks almost quaint. The more urgent question is whether colleges and universities will help build the physical infrastructure that makes AI possible.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Stop defending and start showing: How colleges can win back trust by looking past the campus walls",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/06/15/stop-defending-and-start-showing-how-colleges-can-win-back-trust-by-looking-past-the-campus-walls/",
+      "date": "2026-06-15",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "If you work in higher education, you already know about the audience problem. Donors. Alumni. Prospective students. Current students. Faculty, staff, elected officials, local employers, community members, journalists, and more.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}

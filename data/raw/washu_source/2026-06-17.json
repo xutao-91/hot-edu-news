@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-06-17T12:00:14.860351",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WashU hosts Declaration celebration",
+      "url": "https://source.washu.edu/2026/06/washu-hosts-declaration-celebration/",
+      "date": "2026-06-17",
+      "type": "History & Education",
+      "summary_en": "WashU Libraries host “Unalienable Rights: America at 250,” a celebration of the 250th anniversary of the nation’s founding, at 2 p.m. July 2 at Olin Library. The free event features a talk about the Declaration and children’s activities.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Research reveals evolving fatherhood expectations",
+      "url": "https://source.washu.edu/2026/06/washu-expert-research-reveals-evolving-fatherhood-expectations/",
+      "date": "2026-06-15",
+      "type": "Sociology",
+      "summary_en": "Fatherhood today is shaped by two powerful expectations: to be actively involved in caregiving and to provide financially, according to research by Patrick Ishizuka, assistant professor of sociology in Arts & Sciences at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

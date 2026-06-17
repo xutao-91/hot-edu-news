@@ -9130,5 +9130,137 @@
     "fetch_time": "2026-06-16T20:00:31.348185",
     "title": "“Excellent Choice”: Jay Clayton Earns Broad Praise as President Trump’s DNI Nominee",
     "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/17/what-the-data-says-about-abortion-in-the-us/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-17T12:00:08.005095",
+    "title": "What the data says about abortion in the U.S.",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-17T12:00:08.005124",
+    "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+    "category": "ai"
+  },
+  "https://thepienews.com/category/news/testing/": {
+    "source": "pie_news",
+    "fetch_time": "2026-06-17T12:00:09.461730",
+    "title": "Ofqual fines Cambridge English £875k over IELTS marking errors",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/undocumented-kansas-high-school-graduates-find-themselves-increasingly-targeted/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-17T12:00:14.559294",
+    "title": "Undocumented Kansas High School Graduates Find Themselves Increasingly Targeted",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/international-teachers-needed-in-u-s-classrooms-threatened-by-visa-delays-fees/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-17T12:00:14.559321",
+    "title": "International Teachers Needed in U.S. Classrooms Threatened by Visa Delays, Fees",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/study-giving-kids-access-to-ai-tutors-doesnt-mean-theyll-use-them/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-17T12:00:14.559333",
+    "title": "Study: Giving Kids Access to AI Tutors Doesn’t Mean They’ll Use Them",
+    "category": "ai"
+  },
+  "https://education.indiana.edu/news/2026/jan-jun/2026-06-17-ed-library-summer-reading-program.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-06-17T12:00:15.056283",
+    "title": "Education library hosting free summer reading program",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/washu-hosts-declaration-celebration/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-17T12:00:15.623177",
+    "title": "WashU hosts Declaration celebration",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/doe-grant-to-support-nebraska-nuclear-energy-training-workforce-development": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-17T12:00:16.274133",
+    "title": "DOE grant to support Nebraska nuclear energy training, workforce development",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/nebraska-u-pioneers-breakthrough-swine-vaccine-innovation": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-17T12:00:16.274156",
+    "title": "Nebraska U pioneers breakthrough swine vaccine innovation",
+    "category": "general"
+  },
+  "https://news.wisc.edu/interwoven/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-17T12:00:19.535131",
+    "title": "Interwoven",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/uw-madison-researchers-identify-therapeutic-target-for-dangerous-fungal-infections/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-17T12:00:19.535158",
+    "title": "UW–Madison researchers identify therapeutic target for dangerous fungal infections",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/mizzou-leads-the-charge-to-protect-missouris-4-billion-cattle-industry-from-tick-threats/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-17T12:00:20.580145",
+    "title": "Mizzou leads the charge to protect Missouri’s $4 billion cattle industry from tick threats",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-concludes-50-state-history-rocks-tour-commemorate-americas-250th-birthday": {
+    "source": "edgov",
+    "fetch_time": "2026-06-17T12:00:22.899231",
+    "title": "U.S. Department of Education Concludes 50-State History Rocks! Tour to Commemorate America’s 250th Birthday",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51302-iu-names-david-rosenberg-inaugural-president-and": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-17T12:00:24.730628",
+    "title": "IU names David Rosenberg inaugural president and CEO of IU Inc.",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/06/17/data-centers-ai-and-the-next-big-campus-debate/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-17T12:00:26.226047",
+    "title": "Data centers, AI, and the next big campus debate",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/keeler-professorship-fuels-ku-collaboration-on-mars-simulant-research": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-17T12:00:26.492198",
+    "title": "Keeler Professorship fuels KU collaboration on Mars simulant research",
+    "category": "general"
+  },
+  "https://today.uic.edu/uic-library-faculty-member-serves-as-visiting-scholar-at-tecnologico-de-monterrey/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-17T12:00:27.307543",
+    "title": "UIC Library faculty member serves as visiting scholar at Tecnológico de Monterrey",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4742-3.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-17T12:00:30.426801",
+    "title": "Why Do Middle and High Schoolers Miss School? Selected Findings from the American Youth Panel and the American Parents Panel",
+    "category": "education"
+  },
+  "https://www.kettering.edu/business-insider-kettering-university-leads-michigan-graduates-earnings": {
+    "source": "kettering_news",
+    "fetch_time": "2026-06-17T12:00:31.051090",
+    "title": "Business Insider: Kettering University Leads Michigan Graduates in Earnings",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/trump-administration-delivers-another-crushing-blow-to-antifa-terrorist-network/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-17T12:00:31.138258",
+    "title": "Trump Administration Delivers Another Crushing Blow to Antifa Terrorist Network",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-17T12:00:31.138283",
+    "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts",
+    "category": "general"
   }
 }
