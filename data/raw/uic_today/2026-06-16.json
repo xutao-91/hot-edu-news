@@ -1,18 +1,9 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-06-16T12:00:26.053462",
+  "crawled_at": "2026-06-16T20:00:26.230862",
   "total_news": 4,
   "news": [
-    {
-      "title": "A UIC tradition filled with pride",
-      "url": "https://today.uic.edu/a-uic-tradition-filled-with-pride/",
-      "date": "2026-06-15",
-      "type": "News",
-      "summary_en": "See photos from this year’s Pride Picnic.",
-      "source": "UIC Today",
-      "category": "general"
-    },
     {
       "title": "Latest falcon chicks named in honor of retiring UIC leaders",
       "url": "https://today.uic.edu/latest-falcon-chicks-named-in-honor-of-retiring-uic-leaders/",
@@ -21,6 +12,15 @@
       "summary_en": "Falcons were first spotted on a 28th-floor ledge around 1999.",
       "source": "UIC Today",
       "category": "awards"
+    },
+    {
+      "title": "A UIC tradition filled with pride",
+      "url": "https://today.uic.edu/a-uic-tradition-filled-with-pride/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "See photos from this year’s Pride Picnic.",
+      "source": "UIC Today",
+      "category": "general"
     },
     {
       "title": "Meet the UIC student changing lives in his community",

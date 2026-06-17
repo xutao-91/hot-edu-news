@@ -1,8 +1,8 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-16T12:00:30.179087",
-  "total_news": 4,
+  "crawled_at": "2026-06-16T20:00:30.375527",
+  "total_news": 5,
   "news": [
     {
       "title": "Why do some Americans support tariffs, even when it costs them?",
@@ -10,6 +10,15 @@
       "date": "2026-06-16",
       "type": "News",
       "summary_en": "Survey finds desire for market exclusivity helps explain willingness to pay more",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What to read during summer 2026",
+      "url": "https://news.uchicago.edu/story/what-read-during-summer-2026",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "From mind-bending science mysteries to stories read in a single sitting, UChicago teaching award winners share their selections",
       "source": "UChicago News",
       "category": "general"
     },

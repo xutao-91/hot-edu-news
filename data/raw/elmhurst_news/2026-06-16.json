@@ -1,7 +1,17 @@
 {
   "source": "Elmhurst University News",
   "source_url": "https://www.elmhurst.edu/news/",
-  "crawled_at": "2026-06-16T12:00:22.041010",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-16T20:00:20.658820",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Summer Band Concert to Pay Tribute to John Philip Sousa on June 24",
+      "url": "https://www.elmhurst.edu/news/summer-band-concert-to-pay-tribute-to-john-philip-sousa-on-june-24/",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
 }

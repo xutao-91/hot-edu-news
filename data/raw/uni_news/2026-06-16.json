@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-06-16T12:00:19.335983",
-  "total_news": 2,
+  "crawled_at": "2026-06-16T20:00:17.864455",
+  "total_news": 3,
   "news": [
+    {
+      "title": "New center at UNI serves as hub for continuing education and more for teachers, families, schools",
+      "url": "https://insideuni.uni.edu/education/new-center-uni-serves-hub-continuing-education-and-more-teachers-families-schools",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa plans to launch EdvantageUNI, a centralized hub for professional learning, educational growth and support for school districts, practicing and aspiring educators, and families.",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "UNI Wilson College of Business celebrates online MBA graduates",
       "url": "https://insideuni.uni.edu/business/uni-wilson-college-business-celebrates-online-mba-graduates",

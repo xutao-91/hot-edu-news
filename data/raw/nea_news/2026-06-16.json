@@ -1,7 +1,17 @@
 {
   "source": "NEA Press Releases",
   "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
-  "crawled_at": "2026-06-16T12:00:24.782161",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-16T20:00:24.601383",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Students with disabilities need education experts—Not HHS",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/students-disabilities-need-education-experts-not-hhs",
+      "date": "2026-06-16",
+      "type": "Press Release",
+      "summary_en": "Pringle: Keep IDEA where it belongs, restore staffing cuts, and fully fund the services students deserve",
+      "source": "NEA News",
+      "category": "general"
+    }
+  ]
 }

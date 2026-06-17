@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-16T12:00:31.208728",
-  "total_news": 4,
+  "crawled_at": "2026-06-16T20:00:31.046232",
+  "total_news": 5,
   "news": [
+    {
+      "title": "“Excellent Choice”: Jay Clayton Earns Broad Praise as President Trump’s DNI Nominee",
+      "url": "https://www.whitehouse.gov/releases/2026/06/excellent-choice-jay-clayton-earns-broad-praise-as-president-trumps-dni-nominee/",
+      "date": "June 16, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "White House CEQ to Convene Leading Innovators with Promising Permitting Technology",
       "url": "https://www.whitehouse.gov/releases/2026/06/white-house-ceq-to-convene-leading-innovators-with-promising-permitting-technology/",

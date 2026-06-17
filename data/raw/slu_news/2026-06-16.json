@@ -1,9 +1,18 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-06-16T12:00:08.573628",
-  "total_news": 1,
+  "crawled_at": "2026-06-16T20:00:15.759768",
+  "total_news": 2,
   "news": [
+    {
+      "title": "SLU 101 Helps New Students Become SLU Students",
+      "url": "https://www.slu.edu/news/2026/june/summer-orientation-helps-new-students-become-slu-students.php",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "At SLU 101, incoming students spend time on campus, meet fellow Billikens in person -- and get all their questions about Saint Louis University answered.",
+      "source": "SLU News",
+      "category": "students"
+    },
     {
       "title": "Saint Louis University Aviation Team Set to Compete in Air Race Classic",
       "url": "https://www.slu.edu/news/2026/june/air-race-classic.php",
