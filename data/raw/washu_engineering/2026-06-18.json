@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-18T12:00:29.838024",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Quick optical biopsy could be early detection method for endometrial cancer",
+      "url": "https://engineering.washu.edu/news/2026/Quick-optical-biopsy-could-be-early-detection-method-for-endometrial-cancer.html",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Quing Zhu, WashU Medicine collaborators combine optical coherence tomography and machine learning for rapid, accurate test.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "WashU partners with St. Louis to expand CLEAN STL tornado recovery project",
+      "url": "https://engineering.washu.edu/news/2026/WashU-partners-with-St-Louis-to-expand-CLEAN-STL-tornado-recovery-project.html",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Jay Turner's lab to monitor air quality amid tornado cleanup efforts in St. Louis.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

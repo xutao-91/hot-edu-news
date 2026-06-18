@@ -1,0 +1,71 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-06-18T12:00:26.286932",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "UI Health named 2026 Recognized Leader in Caring for People Living with Diabetes",
+      "url": "https://today.uic.edu/ui-health-named-2026-recognized-leader-in-caring-for-people-living-with-diabetes/",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "UI Health was one of 37 hospitals recognized for its commitment to the safety and well-being of hospitalized people with diabetes.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC Library faculty member serves as visiting scholar at Tecnológico de Monterrey",
+      "url": "https://today.uic.edu/uic-library-faculty-member-serves-as-visiting-scholar-at-tecnologico-de-monterrey/",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "The program was sponsored by the Mexican and Mexican American Student Initiative of the University of Illinois System.",
+      "source": "UIC Today",
+      "category": "academic"
+    },
+    {
+      "title": "For the Zayad family, UIC was a second home",
+      "url": "https://today.uic.edu/for-the-zayad-family-uic-was-a-second-home/",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "‘UIC was the center of success in my family.’",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "A UIC tradition filled with pride",
+      "url": "https://today.uic.edu/a-uic-tradition-filled-with-pride/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "See photos from this year’s Pride Picnic.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Latest falcon chicks named in honor of retiring UIC leaders",
+      "url": "https://today.uic.edu/latest-falcon-chicks-named-in-honor-of-retiring-uic-leaders/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Falcons were first spotted on a 28th-floor ledge around 1999.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "Meet the UIC student changing lives in his community",
+      "url": "https://today.uic.edu/meet-the-uic-student-changing-lives-in-his-community/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Watch how college senior Jaqueza Thomas builds opportunities for young people across Chicago.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Michelle Villegas-Downs: Caring for moms and babies after delivery",
+      "url": "https://today.uic.edu/michelle-villegas-downs-bringing-a-nurses-compassion-into-the-lab/",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "A registered nurse and soon-to-be UIC professor, postdoc Villegas-Downs is helping moms and babies stay healthy.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

@@ -9388,5 +9388,95 @@
     "fetch_time": "2026-06-17T20:00:31.061902",
     "title": "Presidential Message on Men’s Health Week",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/42-year-study-tracks-how-forever-chemicals-move-through-the-great-lakes/": {
+    "source": "nd_science",
+    "fetch_time": "2026-06-18T12:00:07.500678",
+    "title": "42-year study tracks how “forever chemicals” move through the Great Lakes",
+    "category": "semiconductor"
+  },
+  "https://kentlaw.iit.edu/law/news-media/news/andrew-carnegie-foundation-awards-15-million-chicago-kent-college-law-expand-civic-mission-schools": {
+    "source": "iit_news",
+    "fetch_time": "2026-06-18T12:00:13.862029",
+    "title": "Andrew Carnegie Foundation Awards $1.5 Million to Chicago-Kent College of Law to Expand Civic Mission Schools Network Across Three States",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/supreme-court-ruling-nears-on-hugely-consequential-birthright-citizenship-case/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-18T12:00:15.965241",
+    "title": "Supreme Court Ruling Nears on Hugely Consequential Birthright Citizenship Case",
+    "category": "general"
+  },
+  "https://www.the74million.org/zero2eight/americans-agree-that-childcare-is-expensive-democrats-are-running-on-it/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-18T12:00:15.965268",
+    "title": "Americans Agree That Childcare Is Expensive. Democrats Are Running on It",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/zero2eight/teacher-turnover-in-the-early-years-is-high-more-credentialing-may-help/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-18T12:00:15.965279",
+    "title": "Teacher Turnover in the Early Years Is High. More Credentialing May Help",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/sam-fox-school-announces-new-carmon-colangelo-award-program/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-18T12:00:16.842896",
+    "title": "Sam Fox School announces new Carmon Colangelo award program",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/poust-helps-identify-new-species-of-feathered-dinosaur": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-18T12:00:17.037176",
+    "title": "Poust helps identify new species of feathered dinosaur",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/edgeworks-digitizes-nebraskas-i-80-sculpture-garden-for-america-250-0": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-18T12:00:17.037201",
+    "title": "Edgeworks digitizes Nebraska’s I-80 sculpture garden for America 250",
+    "category": "semiconductor"
+  },
+  "/news/2026/06/fy2027-p3-funding-support-brain-science-research-infrastructure": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-06-18T12:00:17.760027",
+    "title": "FY2027 P3 funding to support brain science, research infrastructure",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/two-tigers-receive-udall-undergraduate-scholarship/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-18T12:00:23.486941",
+    "title": "Two Tigers receive Udall Undergraduate Scholarship",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0614-audrey-powers-purdue-blue-origin-relentless-documentary": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-18T12:00:23.642002",
+    "title": "AAE alumna and Blue Origin vice president Powers featured in 'Relentless' video series",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0618-ajay-malshe-purdue-in-space-manufacturing-class": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-18T12:00:23.642029",
+    "title": "ME's Malshe leads first ever In-Space Manufacturing class",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51418-from-the-heartland-to-the-hill-iu-regional": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-18T12:00:25.381186",
+    "title": "From the Heartland to the Hill: IU regional students explore opportunity in Washington, DC",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-student-loan-interest-rate-reduction": {
+    "source": "edgov",
+    "fetch_time": "2026-06-18T12:00:25.568118",
+    "title": "U.S. Department of Education Announces Student Loan Interest Rate Reduction",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-18T12:00:31.401853",
+    "title": "President Trump to Award Medal of Honor",
+    "category": "general"
   }
 }

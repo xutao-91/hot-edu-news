@@ -1,0 +1,64 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-18T12:00:31.168008",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "President Trump to Award Medal of Honor",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/",
+      "date": "June 18, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Trump Administration Delivers Another Crushing Blow to Antifa Terrorist Network",
+      "url": "https://www.whitehouse.gov/releases/2026/06/trump-administration-delivers-another-crushing-blow-to-antifa-terrorist-network/",
+      "date": "June 17, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "WHAT THEY ARE SAYING: First Lady Melania Trump Launches Fostering the Future Accounts",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/what-they-are-saying-first-lady-melania-trump-launches-fostering-the-future-accounts/",
+      "date": "June 17, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "“Excellent Choice”: Jay Clayton Earns Broad Praise as President Trump’s DNI Nominee",
+      "url": "https://www.whitehouse.gov/releases/2026/06/excellent-choice-jay-clayton-earns-broad-praise-as-president-trumps-dni-nominee/",
+      "date": "June 16, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "White House CEQ to Convene Leading Innovators with Promising Permitting Technology",
+      "url": "https://www.whitehouse.gov/releases/2026/06/white-house-ceq-to-convene-leading-innovators-with-promising-permitting-technology/",
+      "date": "June 16, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Signing of Magna Carta",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-signing-of-magna-carta/",
+      "date": "June 15, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/",
+      "date": "June 15, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Men’s Health Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-mens-health-week/",
+      "date": "June 15, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}

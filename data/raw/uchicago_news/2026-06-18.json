@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-18T12:00:29.845599",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Nadya Mason appointed as UChicago’s vice president for research",
+      "url": "https://news.uchicago.edu/story/nadya-mason-appointed-uchicagos-vice-president-research",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Distinguished physicist Nadya Mason, dean of the University of Chicago Pritzker School of Molecular Engineering, has been named UChicago’s vice president for research",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why do some Americans support tariffs, even when it costs them?",
+      "url": "https://news.uchicago.edu/story/why-do-some-americans-support-tariffs-even-when-it-costs-them",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Survey finds desire for market exclusivity helps explain willingness to pay more",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What to read during summer 2026",
+      "url": "https://news.uchicago.edu/story/what-read-during-summer-2026",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "From mind-bending science mysteries to stories read in a single sitting, UChicago teaching award winners share their selections",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The Forces Shaping the 2026 FIFA World Cup",
+      "url": "https://news.uchicago.edu/forces-shaping-2026-fifa-world-cup",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Public school closings in Chicago linked to more gun violence in nearby neighborhoods",
+      "url": "https://news.uchicago.edu/story/public-school-closings-chicago-linked-more-gun-violence-nearby-neighborhoods",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "Data shows a 10% increase in shootings can be linked to mass public school closures",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "University of Chicago's Pape on the US-Iran Deal",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-15/university-of-chicago-s-pape-on-the-us-iran-deal-video",
+      "date": "2026-06-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

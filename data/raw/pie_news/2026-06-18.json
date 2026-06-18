@@ -1,0 +1,108 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-18T12:00:08.725500",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "British Council moots axing 25% of workforce to pay off pandemic loan",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-06-18",
+      "type": "Investor",
+      "summary_en": "The British Council is considering further layoffs to help pay off a £197 million government bailout, an investigation from the National Audit Office (NAO) has revealed.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "QS rankings: US loses ground on research and talent attraction",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-18",
+      "type": "Data",
+      "summary_en": "While America remains the frontrunner on graduate employability, its universities are losing ground to rivals in China and beyond as the research gap and international talent race tighten.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "India’s university rise broadens beyond IITs, but internationalisation lags",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-18",
+      "type": "Data",
+      "summary_en": "More than half of India's ranked universities improved their position in the QS World University Rankings 2027, with 18 institutions reaching record highs as gains spread beyond the IITs despite persistent internationalisation challenges.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Acumen acquires EduCorePro to boost AI-driven enrolment transformation",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-06-17",
+      "type": "Edtech",
+      "summary_en": "Acumen has announced the acquisition of EduCorePro, an AI-enabled admissions technology company, in a move aimed at accelerating the transformation of global student recruitment and enrolment services through AI.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "The Netherlands records first-ever international student drop",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-06-17",
+      "type": "Data",
+      "summary_en": "The total number of international students in The Netherlands has dropped for the first time since records began 20 years ago, new Nuffic data has shown.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Ofqual fines Cambridge English £875k over IELTS marking errors",
+      "url": "https://thepienews.com/category/news/testing/",
+      "date": "2026-06-17",
+      "type": "Testing",
+      "summary_en": "UK qualifications regulator Ofqual has fined Cambridge English £875,000 following an investigation into automated marking errors that led to incorrect IELTS results being issued to more than 62,000 learners worldwide between 2023 and 2025.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "One Nation seeks crackdown on student visa “course-hopping”",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-06-16",
+      "type": "Immigration",
+      "summary_en": "Right-wing Australian senator Pauline Hanson has reignited debate over international students, calling for tougher visa rules that would force students to leave the country before reapplying to study.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Nigerian agents report extortion over deposits kept by UK unis",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-06-16",
+      "type": "Immigration",
+      "summary_en": "The PIE understands that agents are having to “bail out” colleagues and sub-agents in Nigeria who are being arrested or extorted over tuition fee deposits being withheld by British universities.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "98% of leaders say study abroad shaped their path to leadership",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-06-15",
+      "type": "Study Abroad",
+      "summary_en": "US industry leaders have reported that international educational experiences acted as a long-term accelerator for leadership, as stakeholders call for a broadening of how we talk about study abroad opportunities.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Nigeria lifts tuition remittance cap even as visa concerns persist",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-06-15",
+      "type": "Policy",
+      "summary_en": "The Central Bank of Nigeria has increased the maximum tuition fee remittance for students studying abroad from $15,000 to $25,000 per semester, though experts say access to visas and funding remains a greater concern for many prospective students.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

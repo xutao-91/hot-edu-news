@@ -1,0 +1,53 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-06-18T12:00:19.173348",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Local Veggie Vouchers Program marks 10 years serving Cedar Valley families and farmers",
+      "url": "https://insideuni.uni.edu/campus-community/local-veggie-vouchers-program-marks-10-years-serving-cedar-valley-families-and",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "As farmers market season hits full stride in the Cedar Valley, a local program connecting families with fresh, locally grown food is celebrating a major milestone with UNI's Veggie Vouchers Program.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Fastest-growing business jobs",
+      "url": "https://insideuni.uni.edu/business/fastest-growing-business-jobs",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Majoring in business will open the door for many potential career opportunities! Rather than some majors that pigeonhole you into one very specific career, business gives you a lot of flexibility. This makes it a fantastic option if you don’t know exactly what kind of job you’d like to have, but you still have a general idea. With the best business jobs, you can expect high wages, great job securi",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "New center at UNI serves as hub for continuing education and more for teachers, families, schools",
+      "url": "https://insideuni.uni.edu/education/new-center-uni-serves-hub-continuing-education-and-more-teachers-families-schools",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa plans to launch EdvantageUNI, a centralized hub for professional learning, educational growth and support for school districts, practicing and aspiring educators, and families.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI Wilson College of Business celebrates online MBA graduates",
+      "url": "https://insideuni.uni.edu/business/uni-wilson-college-business-celebrates-online-mba-graduates",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Graduates of UNI’s online Master of Business Administration crossed the stage at the 2026 spring Commencement. The program attracts a wide variety of students, ranging from young professionals to seasoned business executives seeking the highly regarded MBA from the Wilson College of Business.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Pella Corporation’s Adam Farver to headline the 2026 Iowa Family Business Conference at Vermeer Corporation in Pella",
+      "url": "https://insideuni.uni.edu/business/pella-corporations-adam-farver-headline-2026-iowa-family-business-conference-vermeer",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "The family behind Pella Corporation, one of Iowa’s most iconic multigenerational companies, will headline the 2026 Iowa Family Business Conference in Pella on Nov. 11.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
