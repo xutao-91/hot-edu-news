@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-17T12:00:13.773942",
+  "crawled_at": "2026-06-17T20:00:13.910918",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.473070"
+      "crawled_at": "2026-06-17T20:00:13.726257"
+    },
+    {
+      "title": "Childcare Centers Across Missouri Grapple with Staff Retention Issues",
+      "url": "https://www.the74million.org/article/childcare-centers-across-missouri-grapple-with-staff-retention-issues/",
+      "date": "June 17, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-17T20:00:13.735306"
     },
     {
       "title": "Undocumented Kansas High School Graduates Find Themselves Increasingly Targeted",
@@ -18,7 +26,7 @@
       "date": "June 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.485595"
+      "crawled_at": "2026-06-17T20:00:13.744277"
     },
     {
       "title": "International Teachers Needed in U.S. Classrooms Threatened by Visa Delays, Fees",
@@ -26,7 +34,7 @@
       "date": "June 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.507111"
+      "crawled_at": "2026-06-17T20:00:13.760177"
     },
     {
       "title": "Study: Giving Kids Access to AI Tutors Doesn’t Mean They’ll Use Them",
@@ -34,15 +42,15 @@
       "date": "June 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.519997"
+      "crawled_at": "2026-06-17T20:00:13.768920"
     },
     {
       "title": "Trump Admin. Eases Few of the Federal Grant Restrictions Indiana Requested",
       "url": "https://www.the74million.org/article/trump-admin-eases-few-of-the-federal-grant-restrictions-indiana-requested/",
-      "date": "June 17, 2026",
+      "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.533232"
+      "crawled_at": "2026-06-17T20:00:13.774645"
     },
     {
       "title": "Special Ed and Civil Rights Oversight Moving Out of Education Department",
@@ -50,7 +58,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.545292"
+      "crawled_at": "2026-06-17T20:00:13.780252"
     },
     {
       "title": "Knicks Ticker-Tape Parade is on a School Day — and Conflicts with Regents Exams. Some Families Are Angry.",
@@ -58,7 +66,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.548955"
+      "crawled_at": "2026-06-17T20:00:13.782518"
     },
     {
       "title": "After Major Learning Growth, D.C. School Reforms Face Political Test",
@@ -66,7 +74,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.562464"
+      "crawled_at": "2026-06-17T20:00:13.790931"
     },
     {
       "title": "Mississippi High in Education, Last in Child Health Outcomes",
@@ -74,7 +82,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.574092"
+      "crawled_at": "2026-06-17T20:00:13.799342"
     },
     {
       "title": "Ohio Republican Lawmakers Pass Bill That Includes Requiring Schools to Teach When to Have Kids",
@@ -82,7 +90,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.585629"
+      "crawled_at": "2026-06-17T20:00:13.807748"
     },
     {
       "title": "How San Antonio Built One of America’s Most Ambitious Pre-K Programs",
@@ -90,7 +98,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.598177"
+      "crawled_at": "2026-06-17T20:00:13.816123"
     },
     {
       "title": "Survey: Young People Turn to AI to Be ‘Their Real, Unfiltered Selves’",
@@ -98,7 +106,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.600622"
+      "crawled_at": "2026-06-17T20:00:13.818407"
     },
     {
       "title": "California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught",
@@ -106,7 +114,7 @@
       "date": "June 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.612211"
+      "crawled_at": "2026-06-17T20:00:13.826834"
     },
     {
       "title": "Wyoming Students Spend Less Time in PE. An Expert Wants to Change That.",
@@ -114,7 +122,7 @@
       "date": "June 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.623740"
+      "crawled_at": "2026-06-17T20:00:13.835256"
     },
     {
       "title": "25 Babies and Toddlers Are in ICE Custody on an Average Day",
@@ -122,7 +130,7 @@
       "date": "June 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.635224"
+      "crawled_at": "2026-06-17T20:00:13.843647"
     },
     {
       "title": "As AI Use in Schools Grows, Lawmakers and Districts Scramble to Set Up Guardrails",
@@ -130,7 +138,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.650672"
+      "crawled_at": "2026-06-17T20:00:13.852265"
     },
     {
       "title": "Texas’ Charter School Boom May Soon Bust, Experts Caution",
@@ -138,7 +146,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.665132"
+      "crawled_at": "2026-06-17T20:00:13.854630"
     },
     {
       "title": "Access to Early Care and Education Depends on Where You Live",
@@ -146,7 +154,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.667548"
+      "crawled_at": "2026-06-17T20:00:13.863062"
     },
     {
       "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
@@ -154,7 +162,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.682028"
+      "crawled_at": "2026-06-17T20:00:13.871484"
     },
     {
       "title": "Transgender Arkansans and Their Families Weigh Moving or Staying in the Face of Restrictions",
@@ -162,7 +170,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.696081"
+      "crawled_at": "2026-06-17T20:00:13.879922"
     },
     {
       "title": "A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model",
@@ -170,7 +178,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.710548"
+      "crawled_at": "2026-06-17T20:00:13.888296"
     },
     {
       "title": "Exclusive: 7 Things to Know About Microschools in 2026",
@@ -178,7 +186,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.725101"
+      "crawled_at": "2026-06-17T20:00:13.890580"
     },
     {
       "title": "North Carolina Set to Nearly Double Remote Charter Academies Next Year",
@@ -186,7 +194,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.738554"
+      "crawled_at": "2026-06-17T20:00:13.899015"
     },
     {
       "title": "‘A Sea Change’: Public School Supporters See Potential in New Tax Credit",
@@ -194,15 +202,7 @@
       "date": "June 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.756279"
-    },
-    {
-      "title": "Under Mamdani, New York Will Be the First to Open Free Childcare Center for City Workers",
-      "url": "https://www.the74million.org/zero2eight/under-mamdani-ny-will-be-the-first-to-open-free-childcare-center-for-city-workers/",
-      "date": "June 10, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-17T12:00:13.758633"
+      "crawled_at": "2026-06-17T20:00:13.907448"
     }
   ]
 }

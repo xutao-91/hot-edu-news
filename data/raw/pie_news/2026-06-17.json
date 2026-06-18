@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-06-17T12:00:08.685647",
-  "total_news": 6,
+  "crawled_at": "2026-06-17T20:00:08.750100",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Acumen acquires EduCorePro to boost AI-driven enrolment transformation",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-06-17",
+      "type": "Edtech",
+      "summary_en": "Acumen has announced the acquisition of EduCorePro, an AI-enabled admissions technology company, in a move aimed at accelerating the transformation of global student recruitment and enrolment services through AI.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
     {
       "title": "The Netherlands records first-ever international student drop",
       "url": "https://thepienews.com/category/news/data/",

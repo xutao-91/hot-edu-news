@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-17T12:00:14.860351",
-  "total_news": 2,
+  "crawled_at": "2026-06-17T20:00:15.414926",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Weihl named inaugural Gabe Weil Professor",
+      "url": "https://source.washu.edu/2026/06/weihl-named-inaugural-gabe-weil-professor/",
+      "date": "2026-06-17",
+      "type": "Advancement",
+      "summary_en": "Conrad C. Weihl, MD, PhD, a leading expert in the genetic mechanisms of neuromuscular disorders such as muscular dystrophy, has been installed as the inaugural Gabe Weil Professor in the Department of Neurology at WashU Medicine.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "WashU hosts Declaration celebration",
       "url": "https://source.washu.edu/2026/06/washu-hosts-declaration-celebration/",

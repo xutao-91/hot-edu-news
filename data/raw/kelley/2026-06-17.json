@@ -1,7 +1,17 @@
 {
   "source": "Kelley School of Business at IU",
   "source_url": "https://kelley.iu.edu/news-events/index.html",
-  "crawled_at": "2026-06-17T12:00:24.777882",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-17T20:00:23.862138",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Kelley School’s new AI course designed specifically for business professionals",
+      "url": "https://blog.kelley.iu.edu/2026/06/17/kelley-school-introduces-ai-course-designed-specifically-for-business-professionals/",
+      "date": "2026-06-18",
+      "type": "News",
+      "summary_en": "Building on its success in developing one of the largest generative AI courses in higher education, the Indiana University Kelley School of Business is offering a new course for professionals looki...",
+      "source": "Kelley School of Business",
+      "category": "business"
+    }
+  ]
 }

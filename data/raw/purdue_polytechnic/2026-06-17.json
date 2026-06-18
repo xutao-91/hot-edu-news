@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-06-17T12:00:26.760871",
-  "total_news": 1,
+  "crawled_at": "2026-06-17T20:00:26.596283",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Purdue Polytechnic's Indianapolis International Airport site honors aviation class of 2025-26 at commencement ceremony",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnics-indianapolis-international-airport-site-honors-aviation-class-2025-26",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Polytechnic research awards - May 2026",
       "url": "https://polytechnic.purdue.edu/newsroom/polytechnic-research-awards-may-2026",

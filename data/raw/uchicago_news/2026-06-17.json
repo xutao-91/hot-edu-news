@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-17T12:00:29.803255",
-  "total_news": 5,
+  "crawled_at": "2026-06-17T20:00:29.548517",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Nadya Mason appointed as UChicago’s vice president for research",
+      "url": "https://news.uchicago.edu/story/nadya-mason-appointed-uchicagos-vice-president-research",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Distinguished physicist Nadya Mason, dean of the University of Chicago Pritzker School of Molecular Engineering, has been named UChicago’s vice president for research",
+      "source": "UChicago News",
+      "category": "research"
+    },
     {
       "title": "Why do some Americans support tariffs, even when it costs them?",
       "url": "https://news.uchicago.edu/story/why-do-some-americans-support-tariffs-even-when-it-costs-them",

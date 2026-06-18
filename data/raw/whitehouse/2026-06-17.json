@@ -1,8 +1,8 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-17T12:00:30.924249",
-  "total_news": 7,
+  "crawled_at": "2026-06-17T20:00:30.859906",
+  "total_news": 8,
   "news": [
     {
       "title": "Trump Administration Delivers Another Crushing Blow to Antifa Terrorist Network",
@@ -44,6 +44,13 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-4101/",
       "date": "June 15, 2026",
       "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Men’s Health Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-mens-health-week/",
+      "date": "June 15, 2026",
+      "category": "Briefings & Statements",
       "source": "The White House"
     },
     {
