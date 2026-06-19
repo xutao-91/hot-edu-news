@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-18T12:00:15.167965",
+  "crawled_at": "2026-06-18T20:00:17.712186",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.900978"
+      "crawled_at": "2026-06-18T20:00:17.456513"
+    },
+    {
+      "title": "California Lawmakers Pass Budget With Billions More for Education as Newsom Negotiations Begin",
+      "url": "https://www.the74million.org/article/california-lawmakers-pass-budget-with-billions-more-for-education-as-newsom-negotiations-begin/",
+      "date": "June 18, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-18T20:00:17.468560"
     },
     {
       "title": "Supreme Court Ruling Nears on Hugely Consequential Birthright Citizenship Case",
@@ -18,7 +26,7 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.915937"
+      "crawled_at": "2026-06-18T20:00:17.480947"
     },
     {
       "title": "Childcare Centers Across Missouri Grapple with Staff Retention Issues",
@@ -26,7 +34,7 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.927977"
+      "crawled_at": "2026-06-18T20:00:17.493477"
     },
     {
       "title": "Undocumented Kansas High School Graduates Find Themselves Increasingly Targeted",
@@ -34,15 +42,7 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.940495"
-    },
-    {
-      "title": "International Teachers Needed in U.S. Classrooms Threatened by Visa Delays, Fees",
-      "url": "https://www.the74million.org/article/international-teachers-needed-in-u-s-classrooms-threatened-by-visa-delays-fees/",
-      "date": "June 18, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.953405"
+      "crawled_at": "2026-06-18T20:00:17.505977"
     },
     {
       "title": "Americans Agree That Childcare Is Expensive. Democrats Are Running on It",
@@ -50,7 +50,7 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.974909"
+      "crawled_at": "2026-06-18T20:00:17.517453"
     },
     {
       "title": "Teacher Turnover in the Early Years Is High. More Credentialing May Help",
@@ -58,7 +58,15 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.977264"
+      "crawled_at": "2026-06-18T20:00:17.529195"
+    },
+    {
+      "title": "International Teachers Needed in U.S. Classrooms Threatened by Visa Delays, Fees",
+      "url": "https://www.the74million.org/article/international-teachers-needed-in-u-s-classrooms-threatened-by-visa-delays-fees/",
+      "date": "June 17, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-18T20:00:17.540652"
     },
     {
       "title": "Study: Giving Kids Access to AI Tutors Doesn’t Mean They’ll Use Them",
@@ -66,7 +74,7 @@
       "date": "June 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:14.988768"
+      "crawled_at": "2026-06-18T20:00:17.552109"
     },
     {
       "title": "Trump Admin. Eases Few of the Federal Grant Restrictions Indiana Requested",
@@ -74,7 +82,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.000208"
+      "crawled_at": "2026-06-18T20:00:17.554463"
     },
     {
       "title": "Special Ed and Civil Rights Oversight Moving Out of Education Department",
@@ -82,7 +90,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.011663"
+      "crawled_at": "2026-06-18T20:00:17.566133"
     },
     {
       "title": "Knicks Ticker-Tape Parade is on a School Day — and Conflicts with Regents Exams. Some Families Are Angry.",
@@ -90,7 +98,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.023179"
+      "crawled_at": "2026-06-18T20:00:17.577604"
     },
     {
       "title": "After Major Learning Growth, D.C. School Reforms Face Political Test",
@@ -98,7 +106,7 @@
       "date": "June 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.025612"
+      "crawled_at": "2026-06-18T20:00:17.589069"
     },
     {
       "title": "Mississippi High in Education, Last in Child Health Outcomes",
@@ -106,7 +114,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.037101"
+      "crawled_at": "2026-06-18T20:00:17.600505"
     },
     {
       "title": "Ohio Republican Lawmakers Pass Bill That Includes Requiring Schools to Teach When to Have Kids",
@@ -114,7 +122,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.048572"
+      "crawled_at": "2026-06-18T20:00:17.611959"
     },
     {
       "title": "How San Antonio Built One of America’s Most Ambitious Pre-K Programs",
@@ -122,7 +130,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.060281"
+      "crawled_at": "2026-06-18T20:00:17.614653"
     },
     {
       "title": "Survey: Young People Turn to AI to Be ‘Their Real, Unfiltered Selves’",
@@ -130,7 +138,7 @@
       "date": "June 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.071270"
+      "crawled_at": "2026-06-18T20:00:17.626113"
     },
     {
       "title": "California Students Must Soon Learn Personal Finance to Graduate. Here’s How It Will Be Taught",
@@ -138,7 +146,7 @@
       "date": "June 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.082801"
+      "crawled_at": "2026-06-18T20:00:17.637564"
     },
     {
       "title": "Wyoming Students Spend Less Time in PE. An Expert Wants to Change That.",
@@ -146,7 +154,7 @@
       "date": "June 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.094263"
+      "crawled_at": "2026-06-18T20:00:17.649096"
     },
     {
       "title": "25 Babies and Toddlers Are in ICE Custody on an Average Day",
@@ -154,7 +162,7 @@
       "date": "June 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.096585"
+      "crawled_at": "2026-06-18T20:00:17.660395"
     },
     {
       "title": "As AI Use in Schools Grows, Lawmakers and Districts Scramble to Set Up Guardrails",
@@ -162,7 +170,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.108001"
+      "crawled_at": "2026-06-18T20:00:17.668998"
     },
     {
       "title": "Texas’ Charter School Boom May Soon Bust, Experts Caution",
@@ -170,7 +178,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.119521"
+      "crawled_at": "2026-06-18T20:00:17.680432"
     },
     {
       "title": "Access to Early Care and Education Depends on Where You Live",
@@ -178,7 +186,7 @@
       "date": "June 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.131214"
+      "crawled_at": "2026-06-18T20:00:17.688960"
     },
     {
       "title": "Superintendents Defend Transgender Student, Parental Rights Policies on Capitol Hill",
@@ -186,7 +194,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.142741"
+      "crawled_at": "2026-06-18T20:00:17.700380"
     },
     {
       "title": "Transgender Arkansans and Their Families Weigh Moving or Staying in the Face of Restrictions",
@@ -194,15 +202,7 @@
       "date": "June 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.150731"
-    },
-    {
-      "title": "A Delaware School Once Felt Like a ‘Prison.’ Now It’s a National Model",
-      "url": "https://www.the74million.org/article/a-delaware-school-once-felt-like-a-prison-now-its-a-national-model/",
-      "date": "June 11, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-18T12:00:15.161795"
+      "crawled_at": "2026-06-18T20:00:17.711826"
     }
   ]
 }

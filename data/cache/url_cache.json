@@ -9478,5 +9478,65 @@
     "fetch_time": "2026-06-18T12:00:31.401853",
     "title": "President Trump to Award Medal of Honor",
     "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/18/catholics-in-latin-america-generally-have-positive-views-of-pope-leo/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-18T20:00:06.895777",
+    "title": "Catholics in Latin America generally have positive views of Pope Leo",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/18/most-us-catholics-view-pope-leo-favorably-many-think-trump-has-been-too-critical-of-him/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-18T20:00:06.895811",
+    "title": "Most U.S. Catholics view Pope Leo favorably; many think Trump has been too critical of him",
+    "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/from-aspiration-to-architecture-building-education-systems-for-human-flourishing/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-18T20:00:07.472994",
+    "title": "From aspiration to architecture: Building education systems for human flourishing",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/architecture-student-receives-competitive-aia-chicago-diversity-scholarship": {
+    "source": "iit_news",
+    "fetch_time": "2026-06-18T20:00:12.479815",
+    "title": "Architecture Student Receives Competitive AIA Chicago Diversity Scholarship",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/california-lawmakers-pass-budget-with-billions-more-for-education-as-newsom-negotiations-begin/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-18T20:00:18.512649",
+    "title": "California Lawmakers Pass Budget With Billions More for Education as Newsom Negotiations Begin",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0618-allen-climate-impact.html": {
+    "source": "oneill",
+    "fetch_time": "2026-06-18T20:00:25.683552",
+    "title": "From the classroom to climate action: How O’Neill student Ellie Albin is making an impact",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-opens-three-new-investigations-michigan-school-districts-alleged-title-ix-violations": {
+    "source": "edgov",
+    "fetch_time": "2026-06-18T20:00:27.059717",
+    "title": "U.S. Department of Education Opens Three New Investigations into Michigan School Districts for Alleged Title IX Violations",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-columbus-honors-class-2025-26-commencement-ceremony": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-18T20:00:29.212313",
+    "title": "Purdue Polytechnic in Columbus honors class of 2025-26 at commencement ceremony",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/powerful-seismic-waves-japans-2011-earthquake-struck-earths-core-and-bounced-back-moving": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-18T20:00:29.971296",
+    "title": "Powerful seismic waves from Japan’s 2011 earthquake struck Earth’s core and bounced back up, moving island eastward",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-18T20:00:30.422951",
+    "title": "Effects of Banning Anti-Competitive Hospital Contracts",
+    "category": "general"
   }
 }
