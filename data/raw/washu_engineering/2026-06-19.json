@@ -1,0 +1,17 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-19T12:00:29.368864",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Quick optical biopsy could be early detection method for endometrial cancer",
+      "url": "https://engineering.washu.edu/news/2026/Quick-optical-biopsy-could-be-early-detection-method-for-endometrial-cancer.html",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Quing Zhu, WashU Medicine collaborators combine optical coherence tomography and machine learning for rapid, accurate test.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-19T12:00:30.283912",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Powerful seismic waves from Japan’s 2011 earthquake struck Earth’s core and bounced back up, moving island eastward",
+      "url": "https://news.uchicago.edu/story/powerful-seismic-waves-japans-2011-earthquake-struck-earths-core-and-bounced-back-moving",
+      "date": "2026-06-18",
+      "type": "News",
+      "summary_en": "Event is first documented to involve four major tectonic plates, finds UChicago scientist Sunyoung Park",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Nadya Mason appointed as UChicago’s vice president for research",
+      "url": "https://news.uchicago.edu/story/nadya-mason-appointed-uchicagos-vice-president-research",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Distinguished physicist Nadya Mason, dean of the University of Chicago Pritzker School of Molecular Engineering, has been named UChicago’s vice president for research",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why do some Americans support tariffs, even when it costs them?",
+      "url": "https://news.uchicago.edu/story/why-do-some-americans-support-tariffs-even-when-it-costs-them",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "Survey finds desire for market exclusivity helps explain willingness to pay more",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What to read during summer 2026",
+      "url": "https://news.uchicago.edu/story/what-read-during-summer-2026",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "From mind-bending science mysteries to stories read in a single sitting, UChicago teaching award winners share their selections",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

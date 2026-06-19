@@ -1,0 +1,123 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-19T12:00:06.957001",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Catholics in Latin America generally have positive views of Pope Leo",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/18/catholics-in-latin-america-generally-have-positive-views-of-pope-leo/",
+      "date": "Jun 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Catholicism",
+        "Hispanics Latinos",
+        "Pope Leo Xiv"
+      ],
+      "summary_en": "In six Latin American countries surveyed, most Catholics view Pope Leo XIV favorably, though his ratings trail those Pope Francis received early in his papacy.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Most U.S. Catholics view Pope Leo favorably; many think Trump has been too critical of him",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/18/most-us-catholics-view-pope-leo-favorably-many-think-trump-has-been-too-critical-of-him/",
+      "date": "Jun 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Catholicism",
+        "Pope Leo Xiv",
+        "Religion Politics 1",
+        "Religion Politics 3"
+      ],
+      "summary_en": "About eight-in-ten U.S. Catholics view Pope Leo XIV favorably, though opinions on the tension between Leo and President Trump split sharply along party lines.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Is U.S. fertility at an all-time low? It depends how you measure it",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/17/is-us-fertility-at-an-all-time-low-it-depends-how-you-measure-it/",
+      "date": "Jun 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Birth Rate Fertility",
+        "Fertility"
+      ],
+      "summary_en": "U.S. fertility rates have hit historic lows, but three common measures tell different stories about whether American families are truly shrinking.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "What the data says about abortion in the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/17/what-the-data-says-about-abortion-in-the-us/",
+      "date": "Jun 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Abortion",
+        "Health Care",
+        "Medicine Health",
+        "Religion Abortion"
+      ],
+      "summary_en": "Six-in-ten US adults say abortion should be legal in all or most cases. Here’s a look at data on abortion rates, providers, demographics and more.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "date": "Jun 17, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Emerging Technology",
+        "Internet Technology",
+        "Technology Policy Issues"
+      ],
+      "summary_en": "More Americans are using chatbots, and some are adopting AI summaries and smart speakers. But views about AI and how fast it’s advancing tilt negative – even for younger adults.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Republicans, Democrats continue to differ sharply on voting access",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/16/republicans-democrats-continue-to-differ-sharply-on-voting-access-2/",
+      "date": "Jun 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Election System Voting Process",
+        "Partisanship Issues"
+      ],
+      "summary_en": "About six-in-ten Americans support no-excuse early or absentee voting, but partisan divides remain, with GOP support falling sharply since 2018.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Video: How to spot a good poll vs. a bad poll",
+      "url": "https://www.pewresearch.org/methods/2026/06/16/video-how-to-spot-a-good-poll-vs-a-bad-poll/",
+      "date": "Jun 16, 2026",
+      "type": "video",
+      "categories": [
+        "Survey Methods",
+        "Uncategorized"
+      ],
+      "summary_en": "Anyone can ask a survey question online – but does that make it a good poll? They might call themselves a pollster, but their methods aren’t exactly best practice — and the internet is flooded with these low-quality polls. Here are a few simple things you can look for to tell whether a poll is legit or sketchy.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "For Working Parents, the Boundary Between Work and Family Is Often Blurred",
+      "url": "https://www.pewresearch.org/social-trends/2026/06/16/for-working-parents-the-boundary-between-work-and-family-is-often-blurred/",
+      "date": "Jun 16, 2026",
+      "type": "report",
+      "categories": [
+        "Business Workplace",
+        "Economics Work Gender",
+        "Economy Work",
+        "Family Relationships",
+        "Parenthood",
+        "Uncategorized"
+      ],
+      "summary_en": "Parents – especially moms – often carry the mental load that comes with trying to balance what their families need with what their job demands. And with so many obligations, it’s not surprising that working parents sometimes feel like they can’t give 100% at home or at work.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "Rockhurst University News",
+  "source_url": "https://www.rockhurst.edu/news",
+  "crawled_at": "2026-06-19T12:00:20.484771",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Rockhurst University Students, Faculty, Alumni Soak in World Cup in KC",
+      "url": "https://www.rockhurst.edu/news/2026-06-16/rockhurst-university-students-faculty-alumni-soak-world-cup-kc",
+      "date": "2026-06-16",
+      "type": "News",
+      "summary_en": "The excitement is palpable in the Kansas City community as World Cup matches kick off here. Students, faculty and alumni are among them.",
+      "source": "Rockhurst News",
+      "category": "academics"
+    }
+  ]
+}

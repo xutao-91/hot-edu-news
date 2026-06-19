@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-19T12:00:18.422468",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "A sweet thank-you for UW employees",
+      "url": "https://news.wisc.edu/a-sweet-thank-you-for-uw-employees/",
+      "date": "June 17, 2026",
+      "type": "News",
+      "summary_en": "Campus leaders served up dessert — and their thanks — during the annual employee appreciation Ice Cream Social.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Interwoven",
+      "url": "https://news.wisc.edu/interwoven/",
+      "date": "June 17, 2026",
+      "type": "News",
+      "summary_en": "How Indigenous knowledge and science can work together to communicate about climate.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison researchers identify therapeutic target for dangerous fungal infections",
+      "url": "https://news.wisc.edu/uw-madison-researchers-identify-therapeutic-target-for-dangerous-fungal-infections/",
+      "date": "June 17, 2026",
+      "type": "News",
+      "summary_en": "The discovery could prevent against Candida auris, a drug-resistant fungus and global public health threat that spreads in hospitals and other care settings.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}

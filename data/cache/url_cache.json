@@ -9538,5 +9538,23 @@
     "fetch_time": "2026-06-18T20:00:30.422951",
     "title": "Effects of Banning Anti-Competitive Hospital Contracts",
     "category": "general"
+  },
+  "https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-19T12:00:07.558481",
+    "title": "Policy concerns in an era of low fertility",
+    "category": "semiconductor"
+  },
+  "https://thepienews.com/category/news/partnerships/": {
+    "source": "pie_news",
+    "fetch_time": "2026-06-19T12:00:09.091104",
+    "title": "Crizac takes 37% stake in ForeignAdmits",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/featured/2026/06/19/belonging-by-design-practical-ways-to-support-adult-learners/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-19T12:00:21.527006",
+    "title": "Belonging by design: Practical ways to support adult learners in hybrid and asynchronous courses",
+    "category": "education"
   }
 }

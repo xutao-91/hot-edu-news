@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-19T12:00:12.424439",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Cotton’s roots trace to Yucatan Peninsula, where wild gene pool runs deepest",
+      "url": "https://www.news.iastate.edu/news/cottons-roots-trace-yucatan-peninsula-where-wild-gene-pool-runs-deepest",
+      "date": "2026-06-16",
+      "type": "Agriculture",
+      "summary_en": "A research team led by Iowa State University botanists confirmed cotton was domesticated from a diverse population native to Mexico’s Yucatan Peninsula, a potentially fruitful target for finding genetic traits that could strengthen the world’s most important fiber crop.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}
