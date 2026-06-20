@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-19T12:00:30.931827",
-  "total_news": 6,
+  "crawled_at": "2026-06-19T20:00:30.341672",
+  "total_news": 7,
   "news": [
+    {
+      "title": "President Trump’s Iran Agreement Is America First in Action",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
+      "date": "June 19, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Effects of Banning Anti-Competitive Hospital Contracts",
       "url": "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/",
