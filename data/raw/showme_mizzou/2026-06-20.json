@@ -1,0 +1,26 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-20T12:00:19.232526",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Two Tigers receive Udall Undergraduate Scholarship",
+      "url": "https://showme.missouri.edu/2026/two-tigers-receive-udall-undergraduate-scholarship/",
+      "date": "2026-06-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Mizzou leads the charge to protect Missouri’s $4 billion cattle industry from tick threats",
+      "url": "https://showme.missouri.edu/2026/mizzou-leads-the-charge-to-protect-missouris-4-billion-cattle-industry-from-tick-threats/",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Researchers are tracking disease-carrying American dog ticks threatening Missouri cattle.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-20T12:00:20.630538",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Belonging by design: Practical ways to support adult learners in hybrid and asynchronous courses",
+      "url": "https://www.ecampusnews.com/featured/2026/06/19/belonging-by-design-practical-ways-to-support-adult-learners/",
+      "date": "2026-06-19",
+      "type": "Featured on eCampus News",
+      "summary_en": "For many adult learners, logging into a hybrid or asynchronous course is not the beginning of their day. It may come after a full shift at work, after helping children with homework, after managing caregiving responsibilities, or after years away from formal schooling.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Data centers, AI, and the next big campus debate",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/06/17/data-centers-ai-and-the-next-big-campus-debate/",
+      "date": "2026-06-17",
+      "type": "AI in Education",
+      "summary_en": "Higher education has spent the last two years debating whether students should be allowed to use artificial intelligence. That debate now looks almost quaint. The more urgent question is whether colleges and universities will help build the physical infrastructure that makes AI possible.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

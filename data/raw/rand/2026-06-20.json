@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-20T12:00:31.893953",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Why Do Middle and High Schoolers Miss School? Selected Findings from the American Youth Panel and the American Parents Panel",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4742-3.html",
+      "date": "Jun 17, 2026",
+      "type": "Research",
+      "summary_en": "Using data from two surveys administered in late 2025 to nationally representative samples of students and parents, the authors investigate why secondary school-age students are missing school and to what extent these reasons differ by age.",
+      "source": "Rand Corporation",
+      "category": "students"
+    }
+  ]
+}

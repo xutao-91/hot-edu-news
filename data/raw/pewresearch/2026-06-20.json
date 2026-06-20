@@ -1,0 +1,80 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-20T12:00:07.788547",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Catholics in Latin America generally have positive views of Pope Leo",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/18/catholics-in-latin-america-generally-have-positive-views-of-pope-leo/",
+      "date": "Jun 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Catholicism",
+        "Hispanics Latinos",
+        "Pope Leo Xiv"
+      ],
+      "summary_en": "In six Latin American countries surveyed, most Catholics view Pope Leo XIV favorably, though his ratings trail those Pope Francis received early in his papacy.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Most U.S. Catholics view Pope Leo favorably; many think Trump has been too critical of him",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/18/most-us-catholics-view-pope-leo-favorably-many-think-trump-has-been-too-critical-of-him/",
+      "date": "Jun 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Catholicism",
+        "Pope Leo Xiv",
+        "Religion Politics 1",
+        "Religion Politics 3"
+      ],
+      "summary_en": "About eight-in-ten U.S. Catholics view Pope Leo XIV favorably, though opinions on the tension between Leo and President Trump split sharply along party lines.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Is U.S. fertility at an all-time low? It depends how you measure it",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/17/is-us-fertility-at-an-all-time-low-it-depends-how-you-measure-it/",
+      "date": "Jun 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Birth Rate Fertility",
+        "Fertility"
+      ],
+      "summary_en": "U.S. fertility rates have hit historic lows, but three common measures tell different stories about whether American families are truly shrinking.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "What the data says about abortion in the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/17/what-the-data-says-about-abortion-in-the-us/",
+      "date": "Jun 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Abortion",
+        "Health Care",
+        "Medicine Health",
+        "Religion Abortion"
+      ],
+      "summary_en": "Six-in-ten US adults say abortion should be legal in all or most cases. Here’s a look at data on abortion rates, providers, demographics and more.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans and AI 2026: Chatbots, Smart Devices and Views on Impact",
+      "url": "https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/",
+      "date": "Jun 17, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Emerging Technology",
+        "Internet Technology",
+        "Technology Policy Issues"
+      ],
+      "summary_en": "More Americans are using chatbots, and some are adopting AI summaries and smart speakers. But views about AI and how fast it’s advancing tilt negative – even for younger adults.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

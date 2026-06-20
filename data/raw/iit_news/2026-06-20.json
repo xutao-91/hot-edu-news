@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-06-20T12:00:13.543932",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Architecture Student Receives Competitive AIA Chicago Diversity Scholarship",
+      "url": "https://www.iit.edu/news/architecture-student-receives-competitive-aia-chicago-diversity-scholarship",
+      "date": "2026-06-18",
+      "type": "News",
+      "summary_en": "Less than an hour after telling an American Institute of Architects scholarship committee what fuels his interest in the field, Cody Lopez (B.ARCH. 3rd Year) received a call. The committee head...",
+      "source": "IIT News",
+      "category": "students"
+    },
+    {
+      "title": "Andrew Carnegie Foundation Awards $1.5 Million to Chicago-Kent College of Law to Expand Civic Mission Schools Network Across Three States",
+      "url": "https://kentlaw.iit.edu/law/news-media/news/andrew-carnegie-foundation-awards-15-million-chicago-kent-college-law-expand-civic-mission-schools",
+      "date": "2026-06-18",
+      "type": "News",
+      "summary_en": "CHICAGO—June 18, 2026—The Andrew Carnegie Foundation, formerly known as Carnegie Corporation of New York, has awarded $1.5 million over 24 months to Chicago-Kent College of Law at Illinois Institute...",
+      "source": "IIT News",
+      "category": "law"
+    }
+  ]
+}

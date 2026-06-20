@@ -1,0 +1,44 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-06-20T12:00:24.426653",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "IU names David Rosenberg inaugural president and CEO of IU Inc.",
+      "url": "https://news.iu.edu/live/news/51302-iu-names-david-rosenberg-inaugural-president-and",
+      "date": "Jun 17, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "From the Heartland to the Hill: IU regional students explore opportunity in Washington, DC",
+      "url": "https://news.iu.edu/live/news/51418-from-the-heartland-to-the-hill-iu-regional",
+      "date": "Jun 18, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU-led project to study effect of immune cell aging on Parkinson’s risk",
+      "url": "https://medicine.iu.edu/news/2026/06/parkinsons-immune-cell-aging-grant",
+      "date": "Jun 17, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Kelley School’s new AI course designed specifically for business professionals",
+      "url": "https://blog.kelley.iu.edu/2026/06/17/kelley-school-introduces-ai-course-designed-specifically-for-business-professionals/",
+      "date": "Jun 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

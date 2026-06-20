@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-06-20T12:00:18.974153",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Local Veggie Vouchers Program marks 10 years serving Cedar Valley families and farmers",
+      "url": "https://insideuni.uni.edu/campus-community/local-veggie-vouchers-program-marks-10-years-serving-cedar-valley-families-and",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "As farmers market season hits full stride in the Cedar Valley, a local program connecting families with fresh, locally grown food is celebrating a major milestone with UNI's Veggie Vouchers Program.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Fastest-growing business jobs",
+      "url": "https://insideuni.uni.edu/business/fastest-growing-business-jobs",
+      "date": "2026-06-17",
+      "type": "News",
+      "summary_en": "Majoring in business will open the door for many potential career opportunities! Rather than some majors that pigeonhole you into one very specific career, business gives you a lot of flexibility. This makes it a fantastic option if you don’t know exactly what kind of job you’d like to have, but you still have a general idea. With the best business jobs, you can expect high wages, great job securi",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
