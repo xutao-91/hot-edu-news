@@ -1,0 +1,36 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-21T12:00:34.206752",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Presidential Message on Father’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/",
+      "date": "June 21, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Iran Agreement Is America First in Action",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
+      "date": "June 19, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Effects of Banning Anti-Competitive Hospital Contracts",
+      "url": "https://www.whitehouse.gov/research/2026/06/effects-of-banning-anti-competitive-hospital-contracts/",
+      "date": "June 18, 2026",
+      "category": "Research",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump to Award Medal of Honor",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/president-trump-to-award-medal-of-honor/",
+      "date": "June 18, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}
