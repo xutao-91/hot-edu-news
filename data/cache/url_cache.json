@@ -9640,5 +9640,113 @@
     "fetch_time": "2026-06-21T20:00:17.085351",
     "title": "CLAS faculty and students chase knowledge across the globe this summer",
     "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/lafene-health-center-skin-cancer-screening.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-22T12:00:18.807101",
+    "title": "Detect skin cancer early: Get screened at Lafene Health Center",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/sorghum-muffin-school-breakfast-recipe-food-science.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-22T12:00:18.807127",
+    "title": "Building a better school breakfast",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/students-gain-real-world-skills-new-game-design-program": {
+    "source": "iastate_news",
+    "fetch_time": "2026-06-22T12:00:32.276017",
+    "title": "Students gain real-world skills in new game design program",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/washu-expert-free-speech-and-judicial-independence-in-the-age-of-revolution/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-22T12:00:36.439170",
+    "title": "Free speech and judicial independence in the age of revolution",
+    "category": "education"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/michels-family-donates-27-million-to-the-medical-college-of-wisconsin-to-expand-personalized-cancer-care-and-accelerate-cancer-research": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-06-22T12:00:38.640027",
+    "title": "Michels Family Donates $27 Million to the Medical College of Wisconsin to Expand Personalized Cancer Care, Accelerate Cancer Research",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/fathers-may-play-outsized-role-in-shaping-teen-smoking-vaping-habits": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-22T12:00:39.583250",
+    "title": "Fathers may play outsized role in shaping teen smoking, vaping habits",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/alberto-carvalho-resigns-as-lausd-superintendent-after-four-months-on-leave/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-22T12:00:40.488322",
+    "title": "Alberto Carvalho Resigns as LAUSD Superintendent After Four Months on Leave",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/why-some-california-schools-get-three-times-more-funding-than-others/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-22T12:00:40.488348",
+    "title": "Why Some California Schools Get Three Times More Funding Than Others",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/iowa-declared-war-on-chronic-absenteeism-now-its-gaining-some-ground/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-22T12:00:40.488358",
+    "title": "Iowa Declared War on Chronic Absenteeism. Now It’s Gaining Some Ground",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/campus-community/university-northern-iowa-unveils-wherever-you-go-uni-campaign": {
+    "source": "uni_news",
+    "fetch_time": "2026-06-22T12:00:46.527876",
+    "title": "University of Northern Iowa unveils “Wherever You Go, UNI” campaign",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/family-expresses-lasting-gratitude-for-mizzou-veterinary-medicines-expertise-compassion/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-22T12:00:46.535146",
+    "title": "Family expresses lasting gratitude for Mizzou veterinary medicine’s expertise, compassion",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/as-the-odyssey-hits-theaters-mizzou-alumnus-revives-forgotten-epics/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-22T12:00:46.535172",
+    "title": "Mizzou alumnus revives forgotten epics",
+    "category": "semiconductor"
+  },
+  "https://www.ecampusnews.com/cybersecurity/2026/06/22/for-schools-cyber-resilience-starts-at-the-data-layer/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-22T12:00:51.290019",
+    "title": "For schools, cyber resilience starts at the data layer",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0622-purdue-hive-student-entrepreneurship-center": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-22T12:00:52.759153",
+    "title": "Buzzing HIVE for Purdue student startups",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/christian-nationalists-views-on-punishing-lawbreakers-contingent-on-identity-of-victim-and-offender-study-finds": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-22T12:00:57.974276",
+    "title": "Christian nationalists’ views on punishing lawbreakers contingent on identity of victim and offender, study finds",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/whayne-scholars-to-highlight-research-projects-kus-african-american-experience-collections-during-public-talks-july-9": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-22T12:00:57.974303",
+    "title": "Whayne Scholars to highlight research projects, KU’s African American Experience Collections during public talks July 9",
+    "category": "education"
+  },
+  "https://news.iu.edu/kokomo/live/news/51413-indiana-dunes-trip-provides-fieldwork-experience": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-22T12:00:58.475053",
+    "title": "IU Kokomo students contribute to Indiana Dunes National Park research on fieldwork trip",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/2026-Ethics-Guidance-Campus-Invitations.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-06-22T12:01:08.479023",
+    "title": "New ACE Guidance Helps Colleges Navigate Ethics Rules for Campus Visits",
+    "category": "education"
   }
 }

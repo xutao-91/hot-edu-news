@@ -1,0 +1,26 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-22T12:00:44.667620",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Family expresses lasting gratitude for Mizzou veterinary medicine’s expertise, compassion",
+      "url": "https://showme.missouri.edu/2026/family-expresses-lasting-gratitude-for-mizzou-veterinary-medicines-expertise-compassion/",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "When Maggie Moo developed a series of complex health issues, the Sterretts turned to Mizzou for specialized veterinary care. The experience not only helped restore her quality of life but also inspired the couple’s support of veterinary research and future patients.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou alumnus revives forgotten epics",
+      "url": "https://showme.missouri.edu/2026/as-the-odyssey-hits-theaters-mizzou-alumnus-revives-forgotten-epics/",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "Jordi Alonso, PhD ’21, is translating a never-before-published manuscript and a sweeping poem reimagining Christopher Columbus’ journey.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

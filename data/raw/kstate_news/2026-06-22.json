@@ -1,0 +1,26 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-06-22T12:00:18.029484",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Detect skin cancer early: Get screened at Lafene Health Center",
+      "url": "https://www.k-state.edu/news/articles/2026/06/lafene-health-center-skin-cancer-screening.html",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "Lafene Health Center is hosting a skin cancer screening clinic for K-State faculty and staff July 13-15.",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "Building a better school breakfast",
+      "url": "https://www.k-state.edu/news/articles/2026/06/sorghum-muffin-school-breakfast-recipe-food-science.html",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "A classroom project with real-world impact is helping connect Kansas agriculture to school cafeterias. Students in K‑State's Department of Grain and Food Science are working with...",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-22T12:01:11.344931",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Presidential Message on Father’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/",
+      "date": "June 21, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Iran Agreement Is America First in Action",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-iran-agreement-is-america-first-in-action/",
+      "date": "June 19, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-22T12:00:23.693003",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "AIECA launch marks new chapter for education agents",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-06-22",
+      "type": "Recruitment & agents",
+      "summary_en": "A “new era” for Australia’s education agent sector has been marked with the launch of the Australian International Education Counsellors Association (AIECA), formed through the merger of ISEAA and ECAA.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Scotland and Wales to pilot phone outreach for international graduates",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "A new graduate outcomes pilot will contact international alumni by telephone from December 2026 as the sector seeks stronger evidence of graduate outcomes beyond the UK.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Crizac takes 37% stake in ForeignAdmits",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-06-19",
+      "type": "Partnerships",
+      "summary_en": "The deal marks Crizac's latest move beyond student recruitment as it expands into education finance and visa preparation services.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Irish ELT providers hail new rules for language students moving to HE",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-06-19",
+      "type": "Language learning",
+      "summary_en": "ELT providers in Ireland have welcomed a new measure that lets eligible international students stay in the country between completing an English language program and progressing to higher education.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "From civic universities to civil universities",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-06-19",
+      "type": "Voices",
+      "summary_en": "In her June edition of Beech-side Views, Diana Beech reflects on the role of universities in rebuilding trust in a divided political landscape.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Diana Beech"
+    }
+  ]
+}
