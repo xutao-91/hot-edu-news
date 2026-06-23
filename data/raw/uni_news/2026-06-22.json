@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-06-22T12:00:44.892905",
-  "total_news": 1,
+  "crawled_at": "2026-06-22T20:00:18.911364",
+  "total_news": 2,
   "news": [
+    {
+      "title": "UNI recognizes students on Spring 2026 graduation and dean’s lists",
+      "url": "https://insideuni.uni.edu/campus-community/uni-recognizes-students-spring-2026-graduation-and-deans-lists",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa is pleased to celebrate the academic achievements of students named to the spring 2026 graduation and dean’s lists.",
+      "source": "UNI News",
+      "category": "students"
+    },
     {
       "title": "University of Northern Iowa unveils “Wherever You Go, UNI” campaign",
       "url": "https://insideuni.uni.edu/campus-community/university-northern-iowa-unveils-wherever-you-go-uni-campaign",

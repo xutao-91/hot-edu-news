@@ -9748,5 +9748,119 @@
     "fetch_time": "2026-06-22T12:01:08.479023",
     "title": "New ACE Guidance Helps Colleges Navigate Ethics Rules for Campus Visits",
     "category": "education"
+  },
+  "https://www.brookings.edu/articles/girls-agency-out-of-school-oyo-kano-nigeria/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-22T20:00:07.876601",
+    "title": "Perspectives on agency from girls who are out of school in Oyo and Kano States, Nigeria",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/ai-in-education-emergencies-should-start-with-supporting-teachers/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-22T20:00:07.876627",
+    "title": "AI in education emergencies should start with supporting teachers",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/22/many-americans-favor-prayer-in-public-schools-but-few-think-it-should-be-mandatory/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-22T20:00:08.820975",
+    "title": "Many Americans favor prayer in public schools, but few think it should be mandatory",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/washu-expert-is-the-american-dream-in-serious-trouble/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-22T20:00:16.296551",
+    "title": "Is the American Dream in serious trouble?",
+    "category": "semiconductor"
+  },
+  "https://www.slu.edu/news/2026/june/gregory-comer-obituary.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-06-22T20:00:17.403988",
+    "title": "Gregory Comer, Ph.D.: 1962-2026",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-recognizes-students-spring-2026-graduation-and-deans-lists": {
+    "source": "uni_news",
+    "fetch_time": "2026-06-22T20:00:19.653086",
+    "title": "UNI recognizes students on Spring 2026 graduation and dean’s lists",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0622-10-Boilermaker-Engineers-earn-spring-academic-all-big-ten-accolades": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-22T20:00:23.606054",
+    "title": "Ten Boilermaker Engineers earn spring Academic All-Big Ten accolades",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51425-full-scale-emergency-training-exercise-helped-iu": {
+    "source": "iu_news",
+    "fetch_time": "2026-06-22T20:00:24.613643",
+    "title": "Full-scale emergency training exercise helped IU Indianapolis strengthen preparedness for threats",
+    "category": "ai"
+  },
+  "https://www.mtu.edu/unscripted/2026/06/statistics-student-leads-published-research-exploring-links-between-cardiovascular-disease-and-alzheimers.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-06-22T20:00:29.054541",
+    "title": "Statistics Alumna's Undergraduate Research on Cardiovascular Disease and Alzheimer's Published in Journal of the American Heart Association",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/americas-founding-argument-free-expression-250-0": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-22T20:00:30.640672",
+    "title": "America’s Founding Argument: Free Expression at 250",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/nutrient-breast-milk-helps-boosts-immune-system-development-mice": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-22T20:00:30.640731",
+    "title": "Nutrient in breast milk helps boosts immune system development in mice",
+    "category": "semiconductor"
+  },
+  "https://www.nytimes.com/2026/06/19/obituaries/robbie-basho-overlooked.html": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-22T20:00:30.640744",
+    "title": "Overlooked No More: Robbie Basho, Guitar Mystic Who Sought Enlightenment in Sound",
+    "category": "semiconductor"
+  },
+  "https://www.cnn.com/2026/06/19/politics/analysis-supreme-court-missing-center": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-22T20:00:30.640754",
+    "title": "Analysis: What the missing center has meant for the Supreme Court",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/commentary/2026/06/why-human-intelligence-matters-more-in-an-ai-world.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-22T20:00:30.819271",
+    "title": "Why Human Intelligence Matters More in an AI World",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-22T20:00:31.096680",
+    "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-22T20:00:31.096787",
+    "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation",
+    "category": "quantum"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-22T20:00:31.096823",
+    "title": "Ushering in the Next Frontier of Quantum Innovation",
+    "category": "quantum"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-22T20:00:31.096855",
+    "title": "Securing the Nation Against Advanced Cryptographic Attacks",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-22T20:00:31.096888",
+    "title": "President Trump Drives Down Rents by Ending Open Borders Disaster",
+    "category": "general"
   }
 }

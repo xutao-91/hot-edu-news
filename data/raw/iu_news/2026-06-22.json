@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-06-22T12:00:56.378959",
-  "total_news": 1,
+  "crawled_at": "2026-06-22T20:00:23.949101",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Full-scale emergency training exercise helped IU Indianapolis strengthen preparedness for threats",
+      "url": "https://news.iu.edu/live/news/51425-full-scale-emergency-training-exercise-helped-iu",
+      "date": "Jun 22, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "IU Kokomo students contribute to Indiana Dunes National Park research on fieldwork trip",
       "url": "https://news.iu.edu/kokomo/live/news/51413-indiana-dunes-trip-provides-fieldwork-experience",

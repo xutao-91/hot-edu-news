@@ -1,9 +1,27 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-06-22T12:00:24.002407",
-  "total_news": 1,
+  "crawled_at": "2026-06-22T20:00:07.407911",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Perspectives on agency from girls who are out of school in Oyo and Kano States, Nigeria",
+      "url": "https://www.brookings.edu/articles/girls-agency-out-of-school-oyo-kano-nigeria/",
+      "author": "Adefunke O. Ekine, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tArmene Modi, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJennifer L. O’Donoghue",
+      "date": "June 22, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    },
+    {
+      "title": "AI in education emergencies should start with supporting teachers",
+      "url": "https://www.brookings.edu/articles/ai-in-education-emergencies-should-start-with-supporting-teachers/",
+      "author": "Sweta Shah",
+      "date": "June 22, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    },
     {
       "title": "Policy concerns in an era of low fertility",
       "url": "https://www.brookings.edu/articles/policy-concerns-in-an-era-of-low-fertility/",
