@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-23T12:00:30.480360",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Why Human Intelligence Matters More in an AI World",
+      "url": "https://www.rand.org/pubs/commentary/2026/06/why-human-intelligence-matters-more-in-an-ai-world.html",
+      "date": "Jun 22, 2026",
+      "type": "Commentary",
+      "summary_en": "AI will become an indispensable tool for case officers, agents, fabricators, counterintelligence services, and the rest of the intelligence world. But this will have the paradoxical effect of increasing the importance of old-fashioned human intelligence.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    }
+  ]
+}

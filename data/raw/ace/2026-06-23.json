@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-06-23T12:00:29.952364",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New ACE Guidance Helps Colleges Navigate Ethics Rules for Campus Visits",
+      "url": "https://www.acenet.edu/News-Room/Pages/2026-Ethics-Guidance-Campus-Invitations.aspx",
+      "date": "June 22, 2026",
+      "type": "News",
+      "summary_en": "ACE has released a new issue brief clarifying federal ethics rules for hosting members of Congress and executive branch officials on campus, as colleges and universities navigate today's complex political climate.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

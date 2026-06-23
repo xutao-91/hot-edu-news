@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-06-23T12:00:24.168290",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Scholarships, Purdue opportunities help first-generation student pursue engineering dream",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0623-jorge-hernandez-purdue-computer-engineering-first-generation-student",
+      "date": "June 23, 2026",
+      "type": "News",
+      "summary_en": "Today, Jorge Hernandez is a senior in Purdue's Elmore Family School of Electrical and Computer Engineering and is expected to graduate in December 2026. Along the way, he has built a college experience filled with research, student organizations, internships, global experiences and career opportunities that he says exceeded anything he imagined.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Ten Boilermaker Engineers earn spring Academic All-Big Ten accolades",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0622-10-Boilermaker-Engineers-earn-spring-academic-all-big-ten-accolades",
+      "date": "June 22, 2026",
+      "type": "News",
+      "summary_en": "Ten College of Engineering students are among 74 Purdue University student-athletes who earned Academic All-Big Ten accolades in the spring 2026 sports season.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Buzzing HIVE for Purdue student startups",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0622-purdue-hive-student-entrepreneurship-center",
+      "date": "June 22, 2026",
+      "type": "News",
+      "summary_en": "Launching this fall, the Purdue Hub for Innovation, Ventures and Entrepreneurship (Purdue HIVE), operated by the College of Engineering, is a new center designed to expand innovation and startup activity within Purdue University.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

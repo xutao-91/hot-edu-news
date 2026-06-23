@@ -1,0 +1,17 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-23T12:00:18.599270",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Milwaukee taps UW–Madison research to replace highest-risk lead pipes",
+      "url": "https://impact.wisc.edu/milwaukee-taps-uw-madison-research-to-replace-highest-risk-lead-pipes",
+      "date": "June 23, 2026",
+      "type": "News",
+      "summary_en": "The Area Deprivation Index, a free online tool, helps municipalities and organizations target their limited resources in addressing public health challenges.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}

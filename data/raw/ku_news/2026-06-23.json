@@ -1,0 +1,53 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-06-23T12:00:25.656415",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Research shows AI advertising can deliver relevant content without spying on users' internet behaviors",
+      "url": "https://news.ku.edu/news/article/research-shows-ai-advertising-can-deliver-relevant-content-without-spying-on-users-internet-behaviors",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Four experiments conducted by a University of Kansas researcher have shown that AI-derived ads can deliver effective, relevant advertising for users without tracking their internet behavior. The findings counter prevailing attitudes that online surveillance is necessary for effective advertising at a time when the future of online privacy is at stake, according to the study author.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Study finds estrogen-based hormone therapies could protect brain health in older women",
+      "url": "https://news.ku.edu/news/article/study-finds-estrogen-based-hormone-therapies-could-protect-brain-health-in-older-women",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Researchers from the University of Kansas discovered older women who had used hormonal birth control in young adulthood were more likely to have larger volumes in brain regions vital to memory, cognition and information processing.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Audio-Reader to host donation drive at Fairlawn Plaza in Topeka to support benefit audio sale",
+      "url": "https://news.ku.edu/news/article/audio-reader-to-host-donation-drive-at-fairlawn-plaza-in-topeka-to-support-benefit-audio-sale",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "The Audio-Reader Network, based at the University of Kansas, seeks donations of stereo equipment, speakers, vinyl records, cassette tapes and musical instruments. Audio-Reader will collect items from the public from 4 p.m. to 7 p.m. June 30 at Fairlawn Plaza in Topeka.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Christian nationalists’ views on punishing lawbreakers contingent on identity of victim and offender, study finds",
+      "url": "https://news.ku.edu/news/article/christian-nationalists-views-on-punishing-lawbreakers-contingent-on-identity-of-victim-and-offender-study-finds",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "In a new scholarly article, Kevin Mullinix, associate professor of political science, finds Christian nationalism shapes beliefs about who is most deserving of punishment in society in ways that are contingent on the identity of the offender and victim — and the extent to which the crime violates particular norms.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Whayne Scholars to highlight research projects, KU’s African American Experience Collections during public talks July 9",
+      "url": "https://news.ku.edu/news/article/whayne-scholars-to-highlight-research-projects-kus-african-american-experience-collections-during-public-talks-july-9",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "The University of Kansas Libraries will host a public presentation featuring the 2026 recipients of the Alyce Hunley Whayne Visiting Researchers Travel Awards at 3 p.m. July 9.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-06-23T12:00:30.329910",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "OMB Advances Revolutionary FAR Overhaul with Formal Publication of Regulatory Changes",
+      "url": "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/",
+      "date": "June 23, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Establishing an America First Arms Transfer Strategy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/establishing-an-america-first-arms-transfer-strategy-d174/",
+      "date": "June 23, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nominations-sent-to-the-senate-a2ce/",
+      "date": "June 23, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Okinawa",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/america-250-presidential-message-on-the-anniversary-of-the-battle-of-okinawa/",
+      "date": "June 22, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Secures the Nation Against Advanced Cryptographic Attacks",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-secures-the-nation-against-advanced-cryptographic-attacks/",
+      "date": "June 22, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Ushers in the Next Frontier of Quantum Innovation",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-ushers-in-the-next-frontier-of-quantum-innovation/",
+      "date": "June 22, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Ushering in the Next Frontier of Quantum Innovation",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
+      "date": "June 22, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Securing the Nation Against Advanced Cryptographic Attacks",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
+      "date": "June 22, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Drives Down Rents by Ending Open Borders Disaster",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
+      "date": "June 22, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Father’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/",
+      "date": "June 21, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}

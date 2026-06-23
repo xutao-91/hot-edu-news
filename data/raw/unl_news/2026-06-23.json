@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-06-23T12:00:19.536455",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Faculty, staff and student leaders help refine Bold Path Forward framework",
+      "url": "https://news.unl.edu/article/faculty-staff-and-student-leaders-help-refine-bold-path-forward-framework",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Olsen recognized for decades of service to Nebraska research",
+      "url": "https://news.unl.edu/article/olsen-recognized-for-decades-of-service-to-nebraska-research",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Daily Nebraskan celebrates 125 years of student journalism",
+      "url": "https://news.unl.edu/article/daily-nebraskan-celebrates-125-years-of-student-journalism",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "UNL, UNMC enter new era of shared national recognition, research strength",
+      "url": "https://news.unl.edu/article/unl-unmc-enter-new-era-of-shared-national-recognition-research-strength",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Fathers may play outsized role in shaping teen smoking, vaping habits",
+      "url": "https://news.unl.edu/article/fathers-may-play-outsized-role-in-shaping-teen-smoking-vaping-habits",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

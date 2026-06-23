@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-06-23T12:00:18.990021",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Brewing community for generations of Panthers",
+      "url": "https://insideuni.uni.edu/campus-community/brewing-community-generations-panthers",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Even before the \"Wherever You Go, UNI\" sign was placed on the side of her coffee shop, Dawn Wilson has always been conennected to UNI.",
+      "source": "UNI News",
+      "category": "community"
+    },
+    {
+      "title": "UNI recognizes students on Spring 2026 graduation and dean’s lists",
+      "url": "https://insideuni.uni.edu/campus-community/uni-recognizes-students-spring-2026-graduation-and-deans-lists",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa is pleased to celebrate the academic achievements of students named to the spring 2026 graduation and dean’s lists.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "University of Northern Iowa unveils “Wherever You Go, UNI” campaign",
+      "url": "https://insideuni.uni.edu/campus-community/university-northern-iowa-unveils-wherever-you-go-uni-campaign",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "The message is simple: Wherever you go, UNI. It’s the focus of a new statewide campaign highlighting the impact of the University of Northern Iowa across the state and beyond.",
+      "source": "UNI News",
+      "category": "donation"
+    }
+  ]
+}
