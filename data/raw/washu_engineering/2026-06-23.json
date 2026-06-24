@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-06-23T12:00:29.505404",
-  "total_news": 1,
+  "crawled_at": "2026-06-23T20:00:30.162990",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Genin to receive ASME Robert Henry Thurston Lecture Award",
+      "url": "https://engineering.washu.edu/news/2026/Genin-to-receive-ASME-Robert-Henry-Thurston-Lecture-Award.html",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "The award honors Guy Genin’s leadership in mechanobiology.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "Martin named among top world, U.S. environmental scientists by Research.com",
       "url": "https://engineering.washu.edu/news/2026/Martin-named-among-top-world-US-environmental-scientists-by-Researchcom.html",

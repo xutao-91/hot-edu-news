@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-06-23T12:00:08.740006",
-  "total_news": 3,
+  "crawled_at": "2026-06-23T20:00:07.597148",
+  "total_news": 4,
   "news": [
+    {
+      "title": "New Kentucky research complicates the corequisite course consensus in higher education",
+      "url": "https://www.brookings.edu/articles/new-kentucky-research-complicates-the-corequisite-course-consensus-in-higher-education/",
+      "author": "Zeyu Xu, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBen Backes",
+      "date": "June 23, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "higher_ed"
+    },
     {
       "title": "Making family, school, and community engagement integral to Zanzibar’s learning ecosystem",
       "url": "https://www.brookings.edu/articles/making-family-school-and-community-engagement-integral-to-zanzibars-learning-ecosystem/",

@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-23T12:00:29.300413",
-  "total_news": 2,
+  "crawled_at": "2026-06-23T20:00:29.660717",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Peter B. Littlewood, condensed matter physicist and internationally recognized leader, 1955–2026",
+      "url": "https://news.uchicago.edu/story/peter-b-littlewood-condensed-matter-physicist-and-internationally-recognized-leader-1955-2026",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Remembered for expansive expertise, collaborative spirit, and dynamic leadership",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "America’s Founding Argument: Free Expression at 250",
       "url": "https://news.uchicago.edu/americas-founding-argument-free-expression-250-0",

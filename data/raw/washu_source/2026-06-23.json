@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-23T12:00:16.379225",
-  "total_news": 4,
+  "crawled_at": "2026-06-23T20:00:15.024474",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Rosengart named inaugural Theodore and Bertha Bryan Professor of Environmental Medicine",
+      "url": "https://source.washu.edu/2026/06/rosengart-named-inaugural-theodore-and-bertha-bryan-professor-of-environmental-medicine/",
+      "date": "2026-06-23",
+      "type": "Advancement",
+      "summary_en": "Matthew R. Rosengart, MD, a leading expert on sepsis and circadian rhythms whose research has improved care and outcomes for vulnerable patients, has been installed as the inaugural Theodore and Bertha Bryan Professor of Environmental Medicine in the WashU Medicine Mary Culver Department of Surgery.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "‘Buenos Aires Modern, 1935–1950’",
       "url": "https://source.washu.edu/2026/06/buenos-aires-modern-1935-1950/",
