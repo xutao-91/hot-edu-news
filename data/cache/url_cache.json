@@ -10126,5 +10126,119 @@
     "fetch_time": "2026-06-23T20:00:30.402600",
     "title": "White House Unveils President Trump’s America First Resilience Strategy",
     "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/5-lessons-from-teachers-on-the-risks-of-anthropomorphic-ai/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-24T12:00:09.911315",
+    "title": "5 lessons from teachers on the risks of anthropomorphic AI",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/routine-maintenance-wireless-networks.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-24T12:00:10.868154",
+    "title": "Wireless network maintenance scheduled for June 24",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/ag45-cohort-commercialization-national-science-foundation-great-plains.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-24T12:00:10.868181",
+    "title": "Turning agricultural innovation into businesses",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/wildcat-alumnus-victor-banda-medina-brings-world-cup-to-life.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-24T12:00:10.868193",
+    "title": "From K-State to 'the beautiful game'",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-vermonts-returning-education-states-waiver": {
+    "source": "edgov",
+    "fetch_time": "2026-06-24T12:00:17.278235",
+    "title": "U.S. Department of Education Approves Vermont’s Returning Education to the States Waiver",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/auditor-school-choice-cost-iowans-258-million/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-24T12:00:19.595534",
+    "title": "Iowa Audit Analyzes Impact of State’s Education Savings Account Program",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/hope-sadness-and-uncertainty-follow-after-carvalho-resigns-as-lausd-superintendent/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-24T12:00:19.595560",
+    "title": "Hope, Sadness and Uncertainty Follow After Carvalho Resigns as LAUSD Superintendent",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/digital-innovation/2026/06/24/how-smart-campuses-are-turning-efficiency-into-growth/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-24T12:00:21.414937",
+    "title": "How smart campuses are turning efficiency into growth",
+    "category": "education"
+  },
+  "https://www.augie.edu/news/2026/forward-sioux-falls-helps-fill-gap-provides-augustana-social-work-students-paid": {
+    "source": "augie_news",
+    "fetch_time": "2026-06-24T12:00:22.180007",
+    "title": "Forward Sioux Falls Helps Fill the Gap, Provides Augustana Social Work Students With Paid Internships",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/kbia-wins-9-regional-murrow-awards/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-24T12:00:23.187083",
+    "title": "KBIA wins 9 regional Murrow Awards",
+    "category": "general"
+  },
+  "https://www.studlife.com/news/2026/06/24/st-louis-man-sentenced-for-the-fatal-shooting-of-washu-mfa-student": {
+    "source": "studlife",
+    "fetch_time": "2026-06-24T12:00:24.267024",
+    "title": "St. Louis man sentenced for the fatal shooting of WashU MFA student",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0624-purdue-engineering-newly-issued-patents-june-2026": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-24T12:00:26.093090",
+    "title": "June Edition: Newly Issued Patents",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0624-arezoo-ardekani-purdue-pharmaceutical-nanoparticle-hyperspectral-imaging": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-24T12:00:26.093116",
+    "title": "ME's Ardekani tests, validates novel method to improve pharmaceutical R&D",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-researchers-awarded-2-67-million-to-develop-pediatric-brain-tumor-treatments/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-24T12:00:27.236451",
+    "title": "UIC researchers awarded $2.67 million to develop pediatric brain tumor treatments",
+    "category": "ai"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-wins-national-award-for-defending-students-and-families-during-ice-surge/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-06-24T12:00:28.146998",
+    "title": "Education Minnesota wins national award for defending students and families during ICE surge",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/distinctive-brand-names-pay-wine-producers-study-finds": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-24T12:00:29.605154",
+    "title": "Distinctive brand names pay off for wine producers, study finds",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/06/adrian-randolph-to-step-down-as-weinberg-dean": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-06-24T12:00:29.939520",
+    "title": "Adrian Randolph to step down as Weinberg dean after the 2026-27 academic year",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4522-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-24T12:00:30.441920",
+    "title": "Looking Beyond the Government’s Regulatory Toolkit: Early Findings on How Business and Civil Society Actors Can Help Manage and Mitigate Transformative Artificial Intelligence Risks and Impacts",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-24T12:00:31.092033",
+    "title": "Nomination Sent to the Senate",
+    "category": "general"
   }
 }

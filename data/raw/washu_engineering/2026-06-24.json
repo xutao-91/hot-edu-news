@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-06-24T12:00:30.244325",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Genin to receive ASME Robert Henry Thurston Lecture Award",
+      "url": "https://engineering.washu.edu/news/2026/Genin-to-receive-ASME-Robert-Henry-Thurston-Lecture-Award.html",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "The award honors Guy Genin’s leadership in mechanobiology.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Martin named among top world, U.S. environmental scientists by Research.com",
+      "url": "https://engineering.washu.edu/news/2026/Martin-named-among-top-world-US-environmental-scientists-by-Researchcom.html",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Randall Martin ranks No. 35 worldwide, No. 15 in U.S.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    }
+  ]
+}

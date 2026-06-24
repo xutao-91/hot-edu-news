@@ -1,0 +1,26 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-06-24T12:00:21.678266",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Forward Sioux Falls Helps Fill the Gap, Provides Augustana Social Work Students With Paid Internships",
+      "url": "https://www.augie.edu/news/2026/forward-sioux-falls-helps-fill-gap-provides-augustana-social-work-students-paid",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "The Forward Sioux Falls Campaign is generously supporting Augustana University’s Harriet Emily Scott Social Work Program — awarding the program $50,000 annually over the next five years. The Forward Sioux Falls Campaign is providing compensation for qualifying Bachelor of Social Work (BSW) and Master of Social Work (MSW) students who are completing internships in health care-related fields.",
+      "source": "Augustana News",
+      "category": "students"
+    },
+    {
+      "title": "Augustana University Students Named 2026-27 Christopherson Scholars",
+      "url": "https://www.augie.edu/news/2026/augustana-university-students-named-2026-27-christopherson-scholars",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Six Augustana University students have been awarded Fred C. and J. Marie Christopherson Scholarships for the 2026-26 academic year. The recipients of the Fred C. and J. Marie Christopherson Scholarship are recognized as students who are committed to the university, respected by their peers, have a strong work ethic and a solid character.",
+      "source": "Augustana News",
+      "category": "students"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-06-24T12:00:10.068607",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Wireless network maintenance scheduled for June 24",
+      "url": "https://www.k-state.edu/news/articles/2026/06/routine-maintenance-wireless-networks.html",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "K-State will be performing routine maintenance on its wireless networks beginning at 10 p.m. on Wednesday, June 24. Some devices may display a prompt asking you to accept a security...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Turning agricultural innovation into businesses",
+      "url": "https://www.k-state.edu/news/articles/2026/06/ag45-cohort-commercialization-national-science-foundation-great-plains.html",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "Kansas State University researchers who want to turn ag innovation into validated businesses can now apply for the new Ag45 cohort of the National Science Foundation Great Plains I-Corps...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "From K-State to 'the beautiful game'",
+      "url": "https://www.k-state.edu/news/articles/2026/06/wildcat-alumnus-victor-banda-medina-brings-world-cup-to-life.html",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "Victor Banda-Medina grew up playing soccer and admiring the game, but he has a whole new perspective now that he works behind the scenes of the FIFA World Cup 2026 Kansas City. Just...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "A world of probabilities",
+      "url": "https://www.k-state.edu/news/articles/2026/06/jeff-pickering-international-military-intervention.html",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Using the International Military Intervention dataset, Jeffrey Pickering investigates the patterns, causes and consequences of military action across borders.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State steps up corn leafhopper monitoring after detections in Oklahoma",
+      "url": "https://www.k-state.edu/news/articles/2026/06/corn-leafhopper-kansas-corn-prevention-and-identification.html",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "K-State and Kansas Corn have expanded a statewide monitoring network and free testing program to help farmers track corn leafhoppers and corn stunt disease risk during the 2026 growing...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Ambyr Rios",
+      "url": "https://www.k-state.edu/news/articles/2026/06/ambyr-rios-grows-future-literacy-leaders.html",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "Through her work preparing secondary literacy educators, Ambyr Rios builds confident, effective classroom leaders who inspire a passion for learning.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Detect skin cancer early: Get screened at Lafene Health Center",
+      "url": "https://www.k-state.edu/news/articles/2026/06/lafene-health-center-skin-cancer-screening.html",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "Lafene Health Center is hosting a skin cancer screening clinic for K-State faculty and staff July 13-15.",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "Building a better school breakfast",
+      "url": "https://www.k-state.edu/news/articles/2026/06/sorghum-muffin-school-breakfast-recipe-food-science.html",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "A classroom project with real-world impact is helping connect Kansas agriculture to school cafeterias. Students in K‑State's Department of Grain and Food Science are working with...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Residents rally to rebuild grocery store in Dighton",
+      "url": "https://www.k-state.edu/news/articles/2026/06/rural-grocery-initiative-dighton-store.html",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "When Dighton's only grocery store was destroyed by fire, residents faced long drives for basic necessities. A community-led effort, supported by K-State's Rural Grocery Initiative,...",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

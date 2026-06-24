@@ -1,0 +1,17 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-06-24T12:00:26.552778",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UIC researchers awarded $2.67 million to develop pediatric brain tumor treatments",
+      "url": "https://today.uic.edu/uic-researchers-awarded-2-67-million-to-develop-pediatric-brain-tumor-treatments/",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "High-grade gliomas are the leading cause of cancer death in children.",
+      "source": "UIC Today",
+      "category": "awards"
+    }
+  ]
+}
