@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-06-25T12:00:12.257080",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Research in space yields clues to treating muscle loss back on Earth",
+      "url": "https://www.news.iastate.edu/news/research-space-yields-clues-treating-muscle-loss-back-earth",
+      "date": "2026-06-24",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State researcher Khaled Kamal is mapping how microgravity conditions during spaceflight accelerate musculoskeletal decline in the human body, work that could influence NASA’s long‑duration missions and help develop emerging therapies for muscular dystrophy, age-related sarcopenia, immobilization due to injury or long hospital stays, and even health conditions related to sedentary lifestyles h",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Students gain real-world skills in new game design program",
+      "url": "https://www.news.iastate.edu/news/students-gain-real-world-skills-new-game-design-program",
+      "date": "2026-06-22",
+      "type": "Student Success",
+      "summary_en": "The College of Design recently added a game design major that allows students to explore real-world issues and prepare for careers in a variety of fields.",
+      "source": "Iowa State News",
+      "category": "arts"
+    }
+  ]
+}

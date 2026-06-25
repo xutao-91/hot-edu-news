@@ -1,0 +1,71 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-25T12:00:20.525125",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Empowering veterans with business know-how",
+      "url": "https://showme.missouri.edu/2026/empowering-veterans-with-business-know-how/",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "For more than a decade, Mizzou has held entrepreneurship bootcamps that leverage higher education to offer training to post-9/11 veterans.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou expands in Springfield, growing Missouri’s future physician workforce",
+      "url": "https://showme.missouri.edu/2026/mizzou-expands-in-springfield-growing-missouris-future-physician-workforce/",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "New facility will double the number of medical students trained in southwest Missouri.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "KBIA wins 9 regional Murrow Awards",
+      "url": "https://showme.missouri.edu/2026/kbia-wins-9-regional-murrow-awards/",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "AI makes Pompeii victim’s final moments look shockingly real",
+      "url": "https://www.popsci.com/science/ai-pompeii-victim-with-mortar-recreation/",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Physical therapy students take clinical learning into the dance studio",
+      "url": "https://showme.missouri.edu/2026/physical-therapy-students-take-clinical-learning-into-the-dance-studio/",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "Collaboration with theatre department emphasizes importance of movement.",
+      "source": "Show Me Mizzou",
+      "category": "students"
+    },
+    {
+      "title": "Mizzou alumnus revives forgotten epics",
+      "url": "https://showme.missouri.edu/2026/as-the-odyssey-hits-theaters-mizzou-alumnus-revives-forgotten-epics/",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "Jordi Alonso, PhD ’21, is translating a never-before-published manuscript and a sweeping poem reimagining Christopher Columbus’ journey.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Family expresses lasting gratitude for Mizzou veterinary medicine’s expertise, compassion",
+      "url": "https://showme.missouri.edu/2026/family-expresses-lasting-gratitude-for-mizzou-veterinary-medicines-expertise-compassion/",
+      "date": "2026-06-22",
+      "type": "News",
+      "summary_en": "When Maggie Moo developed a series of complex health issues, the Sterretts turned to Mizzou for specialized veterinary care. The experience not only helped restore her quality of life but also inspired the couple’s support of veterinary research and future patients.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

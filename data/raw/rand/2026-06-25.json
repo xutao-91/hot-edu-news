@@ -1,0 +1,53 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-25T12:00:30.576479",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Supply Chain, Energy, and AI Nexus: Evaluating AI Energy Supply Chain Vulnerabilities",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4707-1.html",
+      "date": "Jun 25, 2026",
+      "type": "Research",
+      "summary_en": "The authors identify the inventory of critical electrical equipment for artificial intelligence (AI) data center operations and the impact of supply chain vulnerabilities on the U.S. power grid’s ability to meet AI demand by 2030.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Can LLM Agents Select and Engage with Biological Tools? An Initial Biosecurity Assessment",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4741-1.html",
+      "date": "Jun 25, 2026",
+      "type": "Research",
+      "summary_en": "Large language model agents are capable of performing initial interactions with biological tools (BTs), indicating that agents could lower expertise barriers for actors seeking to use BTs. Targeted testing of agent design capabilities is warranted.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "AI agents put offensive cyber within reach of novices: Comparing the performance of AI agents to humans in offensive cyber operations",
+      "url": "https://www.rand.org/pubs/research_reports/RRA3892-2.html",
+      "date": "Jun 25, 2026",
+      "type": "Research",
+      "summary_en": "Agentic AI models now enable non-experts to conduct advanced offensive cyberattacks. This study finds AI agents can autonomously breach complex systems rapidly, highlighting urgent needs for evolved defence and better cyber risk assessments.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Looking Beyond the Government’s Regulatory Toolkit: Early Findings on How Business and Civil Society Actors Can Help Manage and Mitigate Transformative Artificial Intelligence Risks and Impacts",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4522-1.html",
+      "date": "Jun 24, 2026",
+      "type": "Research",
+      "summary_en": "Transformative artificial intelligence presents safety and societal risks and has prospective benefits. The authors develop a structured framework for how industry and civil society can help manage and mitigate those risks.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Why Human Intelligence Matters More in an AI World",
+      "url": "https://www.rand.org/pubs/commentary/2026/06/why-human-intelligence-matters-more-in-an-ai-world.html",
+      "date": "Jun 22, 2026",
+      "type": "Commentary",
+      "summary_en": "AI will become an indispensable tool for case officers, agents, fabricators, counterintelligence services, and the rest of the intelligence world. But this will have the paradoxical effect of increasing the importance of old-fashioned human intelligence.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    }
+  ]
+}

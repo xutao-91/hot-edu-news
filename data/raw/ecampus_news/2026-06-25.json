@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-06-25T12:00:32.746894",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How smart campuses are turning efficiency into growth",
+      "url": "https://www.ecampusnews.com/digital-innovation/2026/06/24/how-smart-campuses-are-turning-efficiency-into-growth/",
+      "date": "2026-06-24",
+      "type": "Campus Innovation",
+      "summary_en": "Colleges and universities are at an inflection point. As student expectations rise and competition for talent, research funding, and enrollment intensifies, campuses have a powerful opportunity to rethink how their physical environments support long‑term growth.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "For schools, cyber resilience starts at the data layer",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/06/22/for-schools-cyber-resilience-starts-at-the-data-layer/",
+      "date": "2026-06-22",
+      "type": "Cybersecurity",
+      "summary_en": "Cyber resilience in education starts at the data layer. That is because the data layer is where schools’ most important information lives and where recovery begins when something goes wrong.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}
