@@ -1,7 +1,7 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-24T12:00:30.823785",
+  "crawled_at": "2026-06-24T20:00:29.608167",
   "total_news": 10,
   "news": [
     {
@@ -14,13 +14,6 @@
     {
       "title": "White House Unveils President Trump’s America First Resilience Strategy",
       "url": "https://www.whitehouse.gov/releases/2026/06/white-house-unveils-president-trumps-america-first-resilience-strategy/",
-      "date": "June 23, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "OMB Advances Revolutionary FAR Overhaul with Formal Publication of Regulatory Changes",
-      "url": "https://www.whitehouse.gov/releases/2026/06/omb-advances-revolutionary-far-overhaul-with-formal-publication-of-regulatory-changes/",
       "date": "June 23, 2026",
       "category": "Releases",
       "source": "The White House"
@@ -72,6 +65,13 @@
       "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
       "date": "June 22, 2026",
       "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Father’s Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/presidential-message-on-fathers-day/",
+      "date": "June 21, 2026",
+      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]

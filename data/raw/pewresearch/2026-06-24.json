@@ -1,9 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-06-24T12:00:07.224213",
-  "total_news": 4,
+  "crawled_at": "2026-06-24T20:00:06.869130",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/",
+      "date": "Jun 24, 2026",
+      "type": "short reads",
+      "categories": [
+        "Homeownership Renting",
+        "Income Wages",
+        "Wealth"
+      ],
+      "summary_en": "About nine-in-ten adults under 40 say buying a home is harder than it was for their parents, as rising prices and mortgage rates push homeownership further out of reach.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "More than half of states restrict betting on elections",
       "url": "https://www.pewresearch.org/short-reads/2026/06/23/more-than-half-of-states-restrict-betting-on-elections/",

@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-06-24T12:00:22.600205",
-  "total_news": 5,
+  "crawled_at": "2026-06-24T20:00:20.792515",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Mizzou expands in Springfield, growing Missouri’s future physician workforce",
+      "url": "https://showme.missouri.edu/2026/mizzou-expands-in-springfield-growing-missouris-future-physician-workforce/",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "New facility will double the number of medical students trained in southwest Missouri.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "KBIA wins 9 regional Murrow Awards",
       "url": "https://showme.missouri.edu/2026/kbia-wins-9-regional-murrow-awards/",

@@ -10240,5 +10240,65 @@
     "fetch_time": "2026-06-24T12:00:31.092033",
     "title": "Nomination Sent to the Senate",
     "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/24/buying-a-home-has-gotten-harder-for-young-adults-in-most-us-metro-areas/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-24T20:00:07.597600",
+    "title": "Buying a home has gotten harder for young adults in most U.S. metro areas",
+    "category": "semiconductor"
+  },
+  "https://www.news.iastate.edu/news/research-space-yields-clues-treating-muscle-loss-back-earth": {
+    "source": "iastate_news",
+    "fetch_time": "2026-06-24T20:00:13.275146",
+    "title": "Research in space yields clues to treating muscle loss back on Earth",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/06/quick-optical-biopsy-could-be-early-detection-method-for-endometrial-cancer/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-24T20:00:14.131759",
+    "title": "Quick optical biopsy could be early detection method for endometrial cancer",
+    "category": "education"
+  },
+  "/news/2026/06/july-4-celebrations-other-events-cause-parking-traffic-changes": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-06-24T20:00:18.644283",
+    "title": "July 4 celebrations, other events to cause parking, traffic changes",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-expands-in-springfield-growing-missouris-future-physician-workforce/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-24T20:00:21.384936",
+    "title": "Mizzou expands in Springfield, growing Missouri’s future physician workforce",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/how-the-story-of-young-george-washington-offers-some-important-civic-lessons/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-24T20:00:21.914590",
+    "title": "How the Story of Young George Washington Offers Some Important Civic Lessons",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/two-uic-faculty-selected-for-prestigious-national-fellowships/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-24T20:00:26.759160",
+    "title": "2 UIC faculty selected for prestigious national fellowships",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-south-bend-holds-commencement-honors-2025-26-grads": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-24T20:00:27.136661",
+    "title": "Purdue Polytechnic in South Bend holds commencement, honors 2025-26 grads",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-students-featured-national-cast-steel-metal-casting-competition": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-24T20:00:27.136686",
+    "title": "Purdue students featured in national 'Cast in Steel' metal casting competition",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/Large-language-models-to-learn-how-to-reason.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-06-24T20:00:28.308045",
+    "title": "Large language models to learn how to reason",
+    "category": "ai"
   }
 }

@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-24T12:00:16.099813",
-  "total_news": 5,
+  "crawled_at": "2026-06-24T20:00:13.617961",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Quick optical biopsy could be early detection method for endometrial cancer",
+      "url": "https://source.washu.edu/2026/06/quick-optical-biopsy-could-be-early-detection-method-for-endometrial-cancer/",
+      "date": "2026-06-24",
+      "type": "Cancer Research",
+      "summary_en": "Biomedical engineer Quing Zhu and WashU Medicine collaborators combined optical coherence tomography and machine learning for a rapid, accurate test for endometrial cancer.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Rosengart named inaugural Theodore and Bertha Bryan Professor of Environmental Medicine",
       "url": "https://source.washu.edu/2026/06/rosengart-named-inaugural-theodore-and-bertha-bryan-professor-of-environmental-medicine/",

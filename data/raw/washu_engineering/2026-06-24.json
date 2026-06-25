@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-06-24T12:00:30.244325",
-  "total_news": 2,
+  "crawled_at": "2026-06-24T20:00:27.991845",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Large language models to learn how to reason",
+      "url": "https://engineering.washu.edu/news/2026/Large-language-models-to-learn-how-to-reason.html",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "Jiaxin Huang to focus on adaptive knowledge synthesis with NSF CAREER Award.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "Genin to receive ASME Robert Henry Thurston Lecture Award",
       "url": "https://engineering.washu.edu/news/2026/Genin-to-receive-ASME-Robert-Henry-Thurston-Lecture-Award.html",
