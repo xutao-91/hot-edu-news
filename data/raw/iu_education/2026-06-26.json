@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-06-26T12:00:14.348126",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Through new book, alumna finds common ground in puppy training and classroom management",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-06-25-alumna-finds-common-ground-in-puppy-training-and-classroom-management.html",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "Shellie Harshberger was busy completing a week-long puppy trainer certification program while also studying educational psychology—and realized the two topics had much in common. The book is one Harshberger wishes someone had handed her when she began her teaching career 20 years ago.",
+      "source": "IU School of Education",
+      "category": "general"
+    },
+    {
+      "title": "New project aims to better understand incarcerated student experiences",
+      "url": "https://education.indiana.edu/news/2026/jan-jun/2026-06-23-new-project-aims-to-better-understand-incarcerated-college-student-experiences.html",
+      "date": "2026-06-23",
+      "type": "News",
+      "summary_en": "As college-in-prison programs grow across the country, researchers at the IU School of Education are launching a new survey designed to better understand and improve the experiences of incarcerated students.",
+      "source": "IU School of Education",
+      "category": "education"
+    }
+  ]
+}

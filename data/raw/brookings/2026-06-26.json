@@ -1,0 +1,35 @@
+{
+  "source": "Brookings Institution - Education",
+  "source_url": "https://www.brookings.edu/topics/education-2/",
+  "crawled_at": "2026-06-26T12:00:06.946923",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "5 lessons from teachers on the risks of anthropomorphic AI",
+      "url": "https://www.brookings.edu/articles/5-lessons-from-teachers-on-the-risks-of-anthropomorphic-ai/",
+      "author": "Rebecca Winthrop",
+      "date": "June 24, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    },
+    {
+      "title": "New Kentucky research complicates the corequisite course consensus in higher education",
+      "url": "https://www.brookings.edu/articles/new-kentucky-research-complicates-the-corequisite-course-consensus-in-higher-education/",
+      "author": "Zeyu Xu, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBen Backes",
+      "date": "June 23, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Making family, school, and community engagement integral to Zanzibar’s learning ecosystem",
+      "url": "https://www.brookings.edu/articles/making-family-school-and-community-engagement-integral-to-zanzibars-learning-ecosystem/",
+      "author": "Emily Markovich Morris, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tRichaa Hoysala, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEshe Haji",
+      "date": "June 23, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    }
+  ]
+}

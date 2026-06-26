@@ -10504,5 +10504,125 @@
     "fetch_time": "2026-06-25T20:00:33.158024",
     "title": "How Societies Can Succeed in the AI Era",
     "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/interim-dean-college-of-arts-and-sciences-update.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-26T12:00:11.592289",
+    "title": "Positioning the College of Arts and Sciences for long-term success",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/technology-innovation-showcase-participants.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-26T12:00:11.592318",
+    "title": "Showcase invites researchers to share new technologies and discoveries",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/fourth-of-july-pet-safety-anxiety-tips.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-26T12:00:11.592331",
+    "title": "Protect pets from Fourth of July stress",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/user-centered-travel-reimbursement-updates.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-26T12:00:11.592341",
+    "title": "New tools, updates streamline Concur travel reimbursement for K-State employees",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/anthony-ybarra-director-of-career-readiness.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-26T12:00:11.592351",
+    "title": "Career Center names Anthony Ybarra director of career readiness",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/edens-work-behind-the-scenes-facilitates-student-learning-savings": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-26T12:00:16.360260",
+    "title": "Eden's work behind the scenes facilitates student learning, savings",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/rural-fellow-targets-emergency-communication-upgrades-in-knox-county": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-26T12:00:16.360291",
+    "title": "Rural Fellow targets emergency communication upgrades in Knox County",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/maag-retires-after-38-years-of-advancing-special-education": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-26T12:00:16.360302",
+    "title": "Maag retires after 38 years of advancing special education",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/wayne-students-use-all-things-nebraska-for-classroom-projects": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-26T12:00:16.360312",
+    "title": "Wayne students use All Things Nebraska for classroom projects",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/cruise-named-next-director-of-center-on-children-families-and-the-law": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-26T12:00:16.360322",
+    "title": "Cruise named next director of Center on Children, Families and the Law",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/rural-areas-of-indiana-have-few-school-options/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-26T12:00:18.691512",
+    "title": "Rural Areas of Indiana Have Few School Options",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/texas-quietly-began-work-on-divisive-history-curriculum-a-year-ago/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-26T12:00:18.691546",
+    "title": "Texas Quietly Began Work on Divisive History Curriculum a Year Ago",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/zero2eight/in-toy-story-5-tech-invades-playtime-it-also-threatens-human-connection/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-26T12:00:18.691557",
+    "title": "In ‘Toy Story 5,’ Tech ‘Invades’ Playtime. It Also Threatens Human Connection.",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/four-tigers-recognized-with-universitys-top-leadership-award/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-26T12:00:19.319686",
+    "title": "Four Tigers recognized with university's top leadership award",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/06/26/the-real-work-of-ai-and-instructional-technology-is-creative/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-26T12:00:21.851283",
+    "title": "The real work of AI and instructional technology is creative",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/tickets-go-on-sale-for-day-on-the-hill-concert-featuring-turnstile": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-26T12:00:26.126860",
+    "title": "Tickets go on sale for Day on the Hill concert featuring Turnstile",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-school-of-music-chamber-choir-takes-high-prize-at-international-competition": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-26T12:00:26.126887",
+    "title": "KU School of Music Chamber Choir takes high prize at international competition",
+    "category": "education"
+  },
+  "https://www.mtu.edu/news/2026/06/2026-bhakta-rath-research-award-recipients-set-new-robust-future-for-biosensing-technologies.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-06-26T12:00:28.995249",
+    "title": "2026 Bhakta Rath Research Award Recipients Set New Robust Future for Biosensing Technologies",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71386.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-26T12:00:29.993082",
+    "title": "Compounding Asymmetries in Nucleic Acid Synthesis Screening: Policy Pathways for Strengthening Global Biosecurity Governance",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71387.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-26T12:00:29.993108",
+    "title": "Aspire to STEM: Evaluation Report",
+    "category": "education"
   }
 }
