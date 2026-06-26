@@ -1,9 +1,27 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-06-25T12:00:14.407110",
-  "total_news": 7,
+  "crawled_at": "2026-06-25T20:00:14.698375",
+  "total_news": 9,
   "news": [
+    {
+      "title": "WashU Racing drives to best finish in club history",
+      "url": "https://source.washu.edu/2026/06/washu-racing-drives-to-best-finish-in-club-history/",
+      "date": "2026-06-25",
+      "type": "Students",
+      "summary_en": "Members of WashU Racing commit more than 20 hours a week to building and testing a formula-style race car from scratch — six-hour building days, 12-hour testing days and dozens and dozens of meetings designing systems, planning logistics and finding sponsors. That work paid off this spring, when WashU Racing achieved its highest showing in club history at the annual Formula SAE competition.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Early-pregnancy air pollution exposure linked to persistent depressive symptoms",
+      "url": "https://source.washu.edu/2026/06/early-pregnancy-air-pollution-exposure-linked-to-persistent-depressive-symptoms/",
+      "date": "2026-06-25",
+      "type": "Health & Society",
+      "summary_en": "WashU Bursky Public Health researchers found the first six weeks of pregnancy may be a particularly sensitive period.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Groves named inaugural Stuart A. Kornfeld Distinguished Professor",
       "url": "https://source.washu.edu/2026/06/groves-named-inaugural-stuart-a-kornfeld-distinguished-professor/",

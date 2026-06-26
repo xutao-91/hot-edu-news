@@ -1,9 +1,30 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-25T12:00:29.553449",
-  "total_news": 9,
+  "crawled_at": "2026-06-25T20:00:30.084647",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Advancing Regenerative Agriculture and Strengthening American Farm Resilience",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/",
+      "date": "June 25, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/",
+      "date": "June 25, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Radical Lunatics Deface America’s Reflecting Pool — and President Trump Was Right (Again)",
+      "url": "https://www.whitehouse.gov/releases/2026/06/radical-lunatics-deface-americas-reflecting-pool-and-president-trump-was-right-again/",
+      "date": "June 25, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Nomination Sent to the Senate",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/nomination-sent-to-the-senate-648d/",
@@ -51,20 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/",
       "date": "June 22, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Securing the Nation Against Advanced Cryptographic Attacks",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/securing-the-nation-against-advanced-cryptographic-attacks/",
-      "date": "June 22, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump Drives Down Rents by Ending Open Borders Disaster",
-      "url": "https://www.whitehouse.gov/releases/2026/06/president-trump-drives-down-rents-by-ending-open-borders-disaster/",
-      "date": "June 22, 2026",
-      "category": "Releases",
       "source": "The White House"
     }
   ]

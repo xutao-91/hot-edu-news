@@ -1,9 +1,27 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-06-25T12:00:18.037999",
-  "total_news": 4,
+  "crawled_at": "2026-06-25T20:00:17.953042",
+  "total_news": 6,
   "news": [
+    {
+      "title": "UNI students win Gold national advertising award",
+      "url": "https://insideuni.uni.edu/campus-community/uni-students-win-gold-national-advertising-award",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "A group of UNI students came home with the competition’s highest honors at the National American Advertising Awards, the advertising industry’s largest competition, which attracts more than 25,000 entries each year from both industry professionals and students.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "UNI athletic training student becomes life-saving donor for leukemia patient",
+      "url": "https://insideuni.uni.edu/campus-community/uni-athletic-training-student-becomes-life-saving-donor-leukemia-patient",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "UNI Master of Athletic Training student Max Mullis traveled to Chicago to donate stem cells to a 73-year-old leukemia patient.",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "How Curris became the heart of business at UNI",
       "url": "https://insideuni.uni.edu/business/how-curris-became-heart-business-uni",

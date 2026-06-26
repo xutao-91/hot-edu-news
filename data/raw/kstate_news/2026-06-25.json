@@ -1,7 +1,7 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-06-25T12:00:10.962336",
+  "crawled_at": "2026-06-25T20:00:12.357884",
   "total_news": 10,
   "news": [
     {
@@ -14,11 +14,11 @@
       "category": "students"
     },
     {
-      "title": "Thomas Lane named interim chief of staff",
-      "url": "https://www.k-state.edu/news/articles/2026/06/lane-named-interim-chief-of-staff.html",
+      "title": "Wireless network maintenance scheduled for June 24",
+      "url": "https://www.k-state.edu/news/articles/2026/06/routine-maintenance-wireless-networks.html",
       "date": "2026-06-24",
       "type": "News",
-      "summary_en": "Following an internal search, Thomas Lane, vice president for academic success and student affairs and dean of students, has been appointed interim chief of staff to President Richard...",
+      "summary_en": "K-State will be performing routine maintenance on its wireless networks beginning at 10 p.m. on Wednesday, June 24. Some devices may display a prompt asking you to accept a security...",
       "source": "K-State News",
       "category": "general"
     },
@@ -32,20 +32,20 @@
       "category": "general"
     },
     {
-      "title": "From K-State to 'the beautiful game'",
-      "url": "https://www.k-state.edu/news/articles/2026/06/wildcat-alumnus-victor-banda-medina-brings-world-cup-to-life.html",
+      "title": "Thomas Lane named interim chief of staff",
+      "url": "https://www.k-state.edu/news/articles/2026/06/lane-named-interim-chief-of-staff.html",
       "date": "2026-06-24",
       "type": "News",
-      "summary_en": "Victor Banda-Medina grew up playing soccer and admiring the game, but he has a whole new perspective now that he works behind the scenes of the FIFA World Cup 2026 Kansas City. Just...",
+      "summary_en": "Following an internal search, Thomas Lane, vice president for academic success and student affairs and dean of students, has been appointed interim chief of staff to President Richard...",
       "source": "K-State News",
       "category": "general"
     },
     {
-      "title": "Wireless network maintenance scheduled for June 24",
-      "url": "https://www.k-state.edu/news/articles/2026/06/routine-maintenance-wireless-networks.html",
-      "date": "2026-06-24",
+      "title": "A world of probabilities",
+      "url": "https://www.k-state.edu/news/articles/2026/06/jeff-pickering-international-military-intervention.html",
+      "date": "2026-06-23",
       "type": "News",
-      "summary_en": "K-State will be performing routine maintenance on its wireless networks beginning at 10 p.m. on Wednesday, June 24. Some devices may display a prompt asking you to accept a security...",
+      "summary_en": "Using the International Military Intervention dataset, Jeffrey Pickering investigates the patterns, causes and consequences of military action across borders.",
       "source": "K-State News",
       "category": "general"
     },
@@ -59,13 +59,13 @@
       "category": "general"
     },
     {
-      "title": "A world of probabilities",
-      "url": "https://www.k-state.edu/news/articles/2026/06/jeff-pickering-international-military-intervention.html",
-      "date": "2026-06-23",
+      "title": "Detect skin cancer early: Get screened at Lafene Health Center",
+      "url": "https://www.k-state.edu/news/articles/2026/06/lafene-health-center-skin-cancer-screening.html",
+      "date": "2026-06-22",
       "type": "News",
-      "summary_en": "Using the International Military Intervention dataset, Jeffrey Pickering investigates the patterns, causes and consequences of military action across borders.",
+      "summary_en": "Lafene Health Center is hosting a skin cancer screening clinic for K-State faculty and staff July 13-15.",
       "source": "K-State News",
-      "category": "general"
+      "category": "community"
     },
     {
       "title": "People with Purpose: Ambyr Rios",

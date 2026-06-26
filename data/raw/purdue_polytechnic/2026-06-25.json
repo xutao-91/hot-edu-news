@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-06-25T12:00:26.772962",
-  "total_news": 3,
+  "crawled_at": "2026-06-25T20:00:25.822545",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Purdue Polytechnic in Lafayette honors class of 2025-26 at commencement ceremony",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-lafayette-honors-class-2025-26-commencement-ceremony",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Purdue Polytechnic in South Bend holds commencement, honors 2025-26 grads",
       "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-south-bend-holds-commencement-honors-2025-26-grads",

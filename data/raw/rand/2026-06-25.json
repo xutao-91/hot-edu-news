@@ -1,8 +1,8 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-06-25T12:00:30.576479",
-  "total_news": 5,
+  "crawled_at": "2026-06-25T20:00:32.932745",
+  "total_news": 6,
   "news": [
     {
       "title": "Supply Chain, Energy, and AI Nexus: Evaluating AI Energy Supply Chain Vulnerabilities",
@@ -28,6 +28,15 @@
       "date": "Jun 25, 2026",
       "type": "Research",
       "summary_en": "Agentic AI models now enable non-experts to conduct advanced offensive cyberattacks. This study finds AI agents can autonomously breach complex systems rapidly, highlighting urgent needs for evolved defence and better cyber risk assessments.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "How Societies Can Succeed in the AI Era",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/how-societies-can-succeed-in-the-ai-era.html",
+      "date": "Jun 25, 2026",
+      "type": "Podcast",
+      "summary_en": "According to RAND’s Michael Mazarr, the nations that thrive in the AI era may be the ones best able to handle social shocks—and turn disruption into advantage.",
       "source": "Rand Corporation",
       "category": "ai_technology"
     },

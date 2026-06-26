@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-06-25T12:00:23.244451",
-  "total_news": 6,
+  "crawled_at": "2026-06-25T20:00:22.856639",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Purdue researchers will test forces that could determine how we find our way, build and survive in space",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0625-purdue-1-research",
+      "date": "June 25, 2026",
+      "type": "News",
+      "summary_en": "The Purdue 1 mission is a first: a university-led, research-focused suborbital flight with an all-Boilermaker crew. In a few minutes of weightlessness, experiments that span quantum physics, manufacturing and fluid dynamics will test whether the systems that humanity will need in space can be made efficient, reliable and operationally resilient.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
     {
       "title": "Registration open for July 27 LyoHUB/FDA workshop addressing critical needs in pharmaceutical inspection and quality assurance",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0625-purdue-lyohub-visual-inspection-parenteral-workshop",
