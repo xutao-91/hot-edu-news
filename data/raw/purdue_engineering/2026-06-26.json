@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-06-26T12:00:23.533602",
-  "total_news": 5,
+  "crawled_at": "2026-06-26T20:00:23.597295",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Remembering Robert H. Buckman: A legacy of engineering excellence and generosity",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0624-robert-buckman-purdue-engineering-legacy-tribute",
+      "date": "June 26, 2026",
+      "type": "News",
+      "summary_en": "Robert H. Buckman's life and legacy stand as a model of leadership, global citizenship and unwavering dedication to Purdue University.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "Purdue researchers will test forces that could determine how we find our way, build and survive in space",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0625-purdue-1-research",

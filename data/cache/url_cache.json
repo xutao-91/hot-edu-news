@@ -10624,5 +10624,71 @@
     "fetch_time": "2026-06-26T12:00:29.993108",
     "title": "Aspire to STEM: Evaluation Report",
     "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-takes-action-against-jefferson-county-public-schools-continued-violations-of-title-ix": {
+    "source": "edgov",
+    "fetch_time": "2026-06-26T20:00:18.248041",
+    "title": "U.S. Department of Education Takes Action Against Jefferson County Public Schools for Continued Violations of Title IX",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/new-york-high-schoolers-might-be-getting-a-new-diploma-heres-what-to-know/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-26T20:00:19.141015",
+    "title": "New York High Schoolers Might Be Getting a New Diploma. Here’s What to Know.",
+    "category": "education"
+  },
+  "https://onwisconsin.uwalumni.com/the-iconic-campus-clock/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-26T20:00:19.235041",
+    "title": "The Iconic Campus Clock",
+    "category": "semiconductor"
+  },
+  "https://www.augie.edu/news/2026/augustana-art-students-featured-invitational-eide/dalrymple-gallery": {
+    "source": "augie_news",
+    "fetch_time": "2026-06-26T20:00:21.688051",
+    "title": "Augustana Art Students Featured in Invitational at Eide/Dalrymple Gallery",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/rare-martian-meteorite-reveals-new-chapter-volcanic-history-mars": {
+    "source": "umn_cse",
+    "fetch_time": "2026-06-26T20:00:22.682993",
+    "title": "Rare Martian meteorite reveals new chapter in the volcanic history of Mars",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0624-robert-buckman-purdue-engineering-legacy-tribute": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-26T20:00:24.265727",
+    "title": "Remembering Robert H. Buckman: A legacy of engineering excellence and generosity",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-new-albany-honors-class-2025-26-commencement-ceremony": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-26T20:00:26.502781",
+    "title": "Purdue Polytechnic in New Albany honors class of 2025-26 at commencement ceremony",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/webster-receives-national-engineering-education-award-asee": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-26T20:00:26.502808",
+    "title": "Webster receives national engineering education award from ASEE",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/uchicago-backed-startup-hub-third-coast-foundry-marks-grand-opening-san-francisco": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-26T20:00:29.651068",
+    "title": "UChicago-backed startup hub Third Coast Foundry marks grand opening in San Francisco",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-26T20:00:30.218904",
+    "title": "S. 1003 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-26T20:00:30.218928",
+    "title": "President Trump’s America First Agenda Scores Major Supreme Court Win on TPS Termination",
+    "category": "semiconductor"
   }
 }

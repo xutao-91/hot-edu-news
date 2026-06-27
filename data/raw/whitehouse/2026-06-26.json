@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-06-26T12:00:30.628556",
-  "total_news": 6,
+  "crawled_at": "2026-06-26T20:00:30.021763",
+  "total_news": 8,
   "news": [
+    {
+      "title": "S. 1003 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/06/s-1003-signed-into-law/",
+      "date": "June 26, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s America First Agenda Scores Major Supreme Court Win on TPS Termination",
+      "url": "https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/",
+      "date": "June 26, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Advancing Regenerative Agriculture and Strengthening American Farm Resilience",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/",

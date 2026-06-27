@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-26T12:00:17.965814",
+  "crawled_at": "2026-06-26T20:00:18.315160",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.715497"
+      "crawled_at": "2026-06-26T20:00:18.102172"
+    },
+    {
+      "title": "New York High Schoolers Might Be Getting a New Diploma. Here’s What to Know.",
+      "url": "https://www.the74million.org/article/new-york-high-schoolers-might-be-getting-a-new-diploma-heres-what-to-know/",
+      "date": "June 26, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-26T20:00:18.111121"
     },
     {
       "title": "Rural Areas of Indiana Have Few School Options",
@@ -18,7 +26,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.724998"
+      "crawled_at": "2026-06-26T20:00:18.118664"
     },
     {
       "title": "Texas Quietly Began Work on Divisive History Curriculum a Year Ago",
@@ -26,7 +34,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.734413"
+      "crawled_at": "2026-06-26T20:00:18.133260"
     },
     {
       "title": "‘Historic’: Kansas City Public Schools Teachers Win 5% Raise",
@@ -34,15 +42,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.756085"
-    },
-    {
-      "title": "Democrats Move to Impeach Linda McMahon Over ‘Willful Intent’ to Close Ed Dept.",
-      "url": "https://www.the74million.org/article/democrats-move-to-impeach-linda-mcmahon-over-willful-intent-to-close-ed-dept/",
-      "date": "June 26, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.768915"
+      "crawled_at": "2026-06-26T20:00:18.144314"
     },
     {
       "title": "In ‘Toy Story 5,’ Tech ‘Invades’ Playtime. It Also Threatens Human Connection.",
@@ -50,7 +50,15 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.780604"
+      "crawled_at": "2026-06-26T20:00:18.153819"
+    },
+    {
+      "title": "Democrats Move to Impeach Linda McMahon Over ‘Willful Intent’ to Close Ed Dept.",
+      "url": "https://www.the74million.org/article/democrats-move-to-impeach-linda-mcmahon-over-willful-intent-to-close-ed-dept/",
+      "date": "June 25, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-26T20:00:18.162246"
     },
     {
       "title": "Wisconsin’s Childcare Providers Face Uncertainty As Funding Comes to an End",
@@ -58,7 +66,7 @@
       "date": "June 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.792365"
+      "crawled_at": "2026-06-26T20:00:18.170690"
     },
     {
       "title": "Splitting Up Special Ed and Civil Rights Will Dilute Services, Experts Say",
@@ -66,7 +74,7 @@
       "date": "June 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.804024"
+      "crawled_at": "2026-06-26T20:00:18.179231"
     },
     {
       "title": "LAUSD Board Appoints Longtime Administrator Andres Chait as Next Superintendent",
@@ -74,7 +82,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.812808"
+      "crawled_at": "2026-06-26T20:00:18.181629"
     },
     {
       "title": "How the Story of Young George Washington Offers Some Important Civic Lessons",
@@ -82,7 +90,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.815270"
+      "crawled_at": "2026-06-26T20:00:18.193250"
     },
     {
       "title": "Iowa Audit Analyzes Impact of State’s Education Savings Account Program",
@@ -90,7 +98,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.826970"
+      "crawled_at": "2026-06-26T20:00:18.198727"
     },
     {
       "title": "Hope, Sadness and Uncertainty Follow After Carvalho Resigns as LAUSD Superintendent",
@@ -98,7 +106,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.832500"
+      "crawled_at": "2026-06-26T20:00:18.207162"
     },
     {
       "title": "What Today’s College Students Need That Previous Generations Didn’t",
@@ -106,7 +114,7 @@
       "date": "June 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.841009"
+      "crawled_at": "2026-06-26T20:00:18.214658"
     },
     {
       "title": "Mississippi Governor Says Oklahoma Can Achieve His State’s Reading ‘Miracle’",
@@ -114,7 +122,7 @@
       "date": "June 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.849500"
+      "crawled_at": "2026-06-26T20:00:18.224096"
     },
     {
       "title": "Exclusive: Summer Program Boosts Learning for Tens of Thousands of Charter Kids",
@@ -122,7 +130,7 @@
       "date": "June 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.858037"
+      "crawled_at": "2026-06-26T20:00:18.227552"
     },
     {
       "title": "Alberto Carvalho Resigns as LAUSD Superintendent After Four Months on Leave",
@@ -130,7 +138,7 @@
       "date": "June 22, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.865567"
+      "crawled_at": "2026-06-26T20:00:18.237171"
     },
     {
       "title": "Why Some California Schools Get Three Times More Funding Than Others",
@@ -138,7 +146,7 @@
       "date": "June 22, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.872072"
+      "crawled_at": "2026-06-26T20:00:18.245689"
     },
     {
       "title": "Iowa Declared War on Chronic Absenteeism. Now It’s Gaining Some Ground",
@@ -146,7 +154,7 @@
       "date": "June 22, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.889768"
+      "crawled_at": "2026-06-26T20:00:18.257263"
     },
     {
       "title": "Gov. Landry, Legislative Leaders Push Back on Teacher Stipend Plan Opposition",
@@ -154,7 +162,7 @@
       "date": "June 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.895410"
+      "crawled_at": "2026-06-26T20:00:18.270139"
     },
     {
       "title": "What Does It Really Cost To Plan Summer Care for Kids? These Moms Show Us the Receipts",
@@ -162,7 +170,7 @@
       "date": "June 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.907090"
+      "crawled_at": "2026-06-26T20:00:18.281953"
     },
     {
       "title": "State Education Officials Recommend Repealing, Replacing Compulsory School Attendance Rules",
@@ -170,7 +178,7 @@
       "date": "June 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.918562"
+      "crawled_at": "2026-06-26T20:00:18.292421"
     },
     {
       "title": "Indianapolis Teacher Merit Pay in Charter Schools Gets Increasing Philanthropic Support",
@@ -178,7 +186,7 @@
       "date": "June 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.930126"
+      "crawled_at": "2026-06-26T20:00:18.302951"
     },
     {
       "title": "California Lawmakers Pass Budget With Billions More for Education as Newsom Negotiations Begin",
@@ -186,7 +194,7 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.941503"
+      "crawled_at": "2026-06-26T20:00:18.305313"
     },
     {
       "title": "Americans Agree That Childcare Is Expensive. Democrats Are Running on It",
@@ -194,15 +202,7 @@
       "date": "June 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.953080"
-    },
-    {
-      "title": "Teacher Turnover in the Early Years Is High. More Credentialing May Help",
-      "url": "https://www.the74million.org/zero2eight/teacher-turnover-in-the-early-years-is-high-more-credentialing-may-help/",
-      "date": "June 18, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-26T12:00:17.955556"
+      "crawled_at": "2026-06-26T20:00:18.314783"
     }
   ]
 }
