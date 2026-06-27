@@ -1,0 +1,71 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-27T12:00:30.301653",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Compounding Asymmetries in Nucleic Acid Synthesis Screening: Policy Pathways for Strengthening Global Biosecurity Governance",
+      "url": "https://www.rand.org/pubs/external_publications/EP71386.html",
+      "date": "Jun 26, 2026",
+      "type": "Research",
+      "summary_en": "This perspective argues that narrowing global screening asymmetries requires reframing adoption as a spectrum rather than an all-or-nothing compliance threshold.",
+      "source": "Rand Corporation",
+      "category": "policy"
+    },
+    {
+      "title": "Aspire to STEM: Evaluation Report",
+      "url": "https://www.rand.org/pubs/external_publications/EP71387.html",
+      "date": "Jun 26, 2026",
+      "type": "Research",
+      "summary_en": "Evaluated the Aspire to STEM programme, which funded bespoke CPD and STEM enrichment in disadvantaged English secondary schools, finding it slightly increased pupil progression to STEM A levels but had no effect on science teacher retention.",
+      "source": "Rand Corporation",
+      "category": "stem"
+    },
+    {
+      "title": "Supply Chain, Energy, and AI Nexus: Evaluating AI Energy Supply Chain Vulnerabilities",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4707-1.html",
+      "date": "Jun 25, 2026",
+      "type": "Research",
+      "summary_en": "The authors identify the inventory of critical electrical equipment for artificial intelligence (AI) data center operations and the impact of supply chain vulnerabilities on the U.S. power grid’s ability to meet AI demand by 2030.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Can LLM Agents Select and Engage with Biological Tools? An Initial Biosecurity Assessment",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4741-1.html",
+      "date": "Jun 25, 2026",
+      "type": "Research",
+      "summary_en": "Large language model agents are capable of performing initial interactions with biological tools (BTs), indicating that agents could lower expertise barriers for actors seeking to use BTs. Targeted testing of agent design capabilities is warranted.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "AI agents put offensive cyber within reach of novices: Comparing the performance of AI agents to humans in offensive cyber operations",
+      "url": "https://www.rand.org/pubs/research_reports/RRA3892-2.html",
+      "date": "Jun 25, 2026",
+      "type": "Research",
+      "summary_en": "Agentic AI models now enable non-experts to conduct advanced offensive cyberattacks. This study finds AI agents can autonomously breach complex systems rapidly, highlighting urgent needs for evolved defence and better cyber risk assessments.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "How Societies Can Succeed in the AI Era",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/how-societies-can-succeed-in-the-ai-era.html",
+      "date": "Jun 25, 2026",
+      "type": "Podcast",
+      "summary_en": "According to RAND’s Michael Mazarr, the nations that thrive in the AI era may be the ones best able to handle social shocks—and turn disruption into advantage.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Looking Beyond the Government’s Regulatory Toolkit: Early Findings on How Business and Civil Society Actors Can Help Manage and Mitigate Transformative Artificial Intelligence Risks and Impacts",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4522-1.html",
+      "date": "Jun 24, 2026",
+      "type": "Research",
+      "summary_en": "Transformative artificial intelligence presents safety and societal risks and has prospective benefits. The authors develop a structured framework for how industry and civil society can help manage and mitigate those risks.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

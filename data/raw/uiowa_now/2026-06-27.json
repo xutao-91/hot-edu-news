@@ -1,0 +1,26 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-06-27T12:00:20.791647",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Water tower removal set to begin July 10, affecting streets, sidewalks",
+      "url": "/news/2026/06/water-tower-removal-set-begin-july-10-affecting-streets-sidewalks",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "July 4 celebrations, other events to cause parking, traffic changes",
+      "url": "/news/2026/06/july-4-celebrations-other-events-cause-parking-traffic-changes",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "The Savannah Bananas will play two sold-out games at Kinnick Stadium on July 3 and 4, which coincides with a Big & Rich concert on July 3 in Coralville and the Iowa City Jazz Festival on July 3–5 in downtown Iowa City. For those traveling in or around Iowa City on those dates, be award of increased traffic and potential parking challenges.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

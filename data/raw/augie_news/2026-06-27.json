@@ -1,0 +1,26 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-06-27T12:00:21.292150",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Augustana Art Students Featured in Invitational at Eide/Dalrymple Gallery",
+      "url": "https://www.augie.edu/news/2026/augustana-art-students-featured-invitational-eide/dalrymple-gallery",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "The Eide/Dalrymple Gallery at Augustana University is showcasing “The Augustana Student Invitational\" — on view through Friday, Aug. 28. A closing gallery reception will take place the same day from 7-9 p.m.",
+      "source": "Augustana News",
+      "category": "students"
+    },
+    {
+      "title": "Forward Sioux Falls Helps Fill the Gap, Provides Augustana Social Work Students With Paid Internships",
+      "url": "https://www.augie.edu/news/2026/forward-sioux-falls-helps-fill-gap-provides-augustana-social-work-students-paid",
+      "date": "2026-06-24",
+      "type": "News",
+      "summary_en": "The Forward Sioux Falls Campaign is generously supporting Augustana University’s Harriet Emily Scott Social Work Program — awarding the program $50,000 annually over the next five years. The Forward Sioux Falls Campaign is providing compensation for qualifying Bachelor of Social Work (BSW) and Master of Social Work (MSW) students who are completing internships in health care-related fields.",
+      "source": "Augustana News",
+      "category": "students"
+    }
+  ]
+}
