@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-06-28T12:00:08.698254",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UK unis must treat compliance as “strategic institutional risk”",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-06-26",
+      "type": "Immigration",
+      "summary_en": "UK universities must be proactive in managing compliance risks if they want to avoid falling foul of the new BCA thresholds, an immigration expert has warned.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Brand alone “no longer enough” in Asia’s international school markets, IPSEF told",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-06-26",
+      "type": "K-12",
+      "summary_en": "The international schools sector continues to grow rapidly, with more than 14,000 schools worldwide, and Asia accounting for the majority of provision, led by China and India – but speakers at IPSEF 2026 warned that the conditions for success in the region are changing fast.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Nicholas Brain, Jumeirah College",
+      "url": "https://thepienews.com/category/voices/five-mins-with/",
+      "date": "2026-06-26",
+      "type": "Five mins with",
+      "summary_en": "This week, The PIE sat down with Nicholas Brain, deputy executive vice president and principal/CEO of Jumeirah College in Dubai. We spoke about the future of schools and how to build a learning environment where young people thrive.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Compliance and access dominate university assessment plans, confirms testing giant",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-06-25",
+      "type": "Language learning",
+      "summary_en": "Growing scrutiny of international student recruitment is prompting universities to place greater emphasis on trusted and accessible English language assessments.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Amy Baker"
+    },
+    {
+      "title": "Explained: How India’s biggest medical entrance exam descended into crisis",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-06-25",
+      "type": "News",
+      "summary_en": "An alleged paper leak, an unprecedented nationwide retest and mounting political pressure have thrust NEET, India's medical entrance examination, into the spotlight, laying bare the intense pressure and high stakes behind one of the world's largest medical admissions systems.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

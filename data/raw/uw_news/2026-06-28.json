@@ -1,0 +1,17 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-06-28T12:00:18.966599",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The Iconic Campus Clock",
+      "url": "https://onwisconsin.uwalumni.com/the-iconic-campus-clock/",
+      "date": "June 26, 2026",
+      "type": "News",
+      "summary_en": "Before the era of cell phones and smartwatches, Music Hall’s 100-foot-high clock tower was one of the only places on campus to reference the official time.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
+}
