@@ -1,0 +1,26 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-06-29T12:00:18.190345",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The pursuit of happiness: Mizzou scholars explore an American ideal as the nation turns 250",
+      "url": "https://showme.missouri.edu/2026/the-pursuit-of-happiness-mizzou-scholars-explore-an-american-ideal-as-the-nation-turns-250/",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "At the University of Missouri, experts in law, classical studies and philosophy weigh in on the question that helped build the country.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Four Tigers recognized with university's top leadership award",
+      "url": "https://showme.missouri.edu/2026/four-tigers-recognized-with-universitys-top-leadership-award/",
+      "date": "2026-06-26",
+      "type": "News",
+      "summary_en": "The Remington R. Williams Award is given annually to students across the four-campus system.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

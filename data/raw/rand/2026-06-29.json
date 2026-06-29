@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-06-29T12:00:29.943511",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "The Ecology of AI Risk",
+      "url": "https://www.rand.org/pubs/external_publications/EP71375.html",
+      "date": "Jun 29, 2026",
+      "type": "Research",
+      "summary_en": "Building on the idea of studying AI using ecological and evolutionary perspectives, we propose a novel approach for assessing risk from AI using indicators derived from theoretical ecology models.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Compounding Asymmetries in Nucleic Acid Synthesis Screening: Policy Pathways for Strengthening Global Biosecurity Governance",
+      "url": "https://www.rand.org/pubs/external_publications/EP71386.html",
+      "date": "Jun 26, 2026",
+      "type": "Research",
+      "summary_en": "This perspective argues that narrowing global screening asymmetries requires reframing adoption as a spectrum rather than an all-or-nothing compliance threshold.",
+      "source": "Rand Corporation",
+      "category": "policy"
+    },
+    {
+      "title": "Aspire to STEM: Evaluation Report",
+      "url": "https://www.rand.org/pubs/external_publications/EP71387.html",
+      "date": "Jun 26, 2026",
+      "type": "Research",
+      "summary_en": "Evaluated the Aspire to STEM programme, which funded bespoke CPD and STEM enrichment in disadvantaged English secondary schools, finding it slightly increased pupil progression to STEM A levels but had no effect on science teacher retention.",
+      "source": "Rand Corporation",
+      "category": "stem"
+    }
+  ]
+}

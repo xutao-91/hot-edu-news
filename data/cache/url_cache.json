@@ -10708,5 +10708,137 @@
     "fetch_time": "2026-06-28T12:00:15.919267",
     "title": "Decision Time Has Come for Newsom’s Proposal To Shift Control of CA Department of Education",
     "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/29/which-americans-are-most-likely-to-have-spoken-with-a-local-journalist/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-29T12:00:08.151062",
+    "title": "Which Americans are most likely to have spoken with a local journalist?",
+    "category": "education"
+  },
+  "https://thepienews.com/category/news/research/": {
+    "source": "pie_news",
+    "fetch_time": "2026-06-29T12:00:09.509853",
+    "title": "France strengthens push to become leading destination for global researchers",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/grazing-tool-for-invasive-grass-macholan-research.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-29T12:00:10.661580",
+    "title": "K-State graduate student explores cattle grazing as invasive grass management tool",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/mariah-welton-crouser-compassionate-compensation-practices.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-29T12:00:10.661608",
+    "title": "People with Purpose: Mariah Welton-Crouser",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/06/powercat-motorsports-top-three-finish-formula-sae-michigan.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-06-29T12:00:10.661619",
+    "title": "Powercat Motorsports finishes top three at Formula SAE Michigan",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/06/29/bog-notebook-wayne-state-board-of-governors-adopts-refreshed-strategic-plan-moves-forward-with-emerging-school-of-public-health-approves-fy-2027-budget-69679": {
+    "source": "wayne_news",
+    "fetch_time": "2026-06-29T12:00:16.472889",
+    "title": "BOG Notebook: Wayne State Board of Governors adopts refreshed strategic plan, moves forward with emerging school of public health, approves FY 2027 budget",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/06/first-amendment-clinic-students-get-real-world-experience-results/": {
+    "source": "washu_source",
+    "fetch_time": "2026-06-29T12:00:16.798217",
+    "title": "First Amendment Clinic students get real-world experience, results",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/study-finds-intergenerational-co-parenting-benefits-children": {
+    "source": "unl_news",
+    "fetch_time": "2026-06-29T12:00:17.238602",
+    "title": "Study finds intergenerational co-parenting benefits children",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/the-pursuit-of-happiness-mizzou-scholars-explore-an-american-ideal-as-the-nation-turns-250/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-06-29T12:00:18.705746",
+    "title": "The pursuit of happiness: Mizzou scholars explore an American ideal as the nation turns 250",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/incumbent-vp-top-state-union-leaders-among-candidates-for-nea-president/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-29T12:00:19.574246",
+    "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/nyc-delays-school-ai-guidance-after-backlash/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-29T12:00:19.574271",
+    "title": "NYC Delays School AI Guidance After Backlash",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/a-big-gamble-on-revamping-petersburgs-schools-fuels-hope-in-virginia-city/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-29T12:00:19.574282",
+    "title": "A Big Gamble on Revamping Petersburg’s Schools Fuels Hope in Virginia City",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/this-childcare-program-is-100-employee-owned-will-it-help-it-retain-workers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-29T12:00:19.574292",
+    "title": "This Childcare Program Is 100% Employee-Owned. Will It Help Retain Workers?",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/06/29/transparency-appendices-may-be-the-next-essential-ai-disclosure-practice-in-higher-education/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-06-29T12:00:21.398515",
+    "title": "Transparency appendices may be the next essential AI disclosure practice in higher education",
+    "category": "education"
+  },
+  "https://today.uic.edu/cardiovascular-disease-risk-factors-linked-to-vision-loss-in-hispanic-latino-adults/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-29T12:00:26.860083",
+    "title": "Cardiovascular disease risk tied to vision loss in Latino adults",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/From-St-Louis-to-Silicon-Valley.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-06-29T12:00:29.731771",
+    "title": "From St. Louis to Silicon Valley",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/competition-may-push-ai-firms-favor-speed-over-safety-new-study-finds": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-29T12:00:30.280514",
+    "title": "Competition may push AI firms to favor speed over safety, new study finds",
+    "category": "ai"
+  },
+  "https://www.washingtonpost.com/business/2026/06/28/unintended-consequences-pandemic-pause-student-loan-payments/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-29T12:00:30.280540",
+    "title": "Student loan pause may have had a surprising impact, Post analysis shows",
+    "category": "education"
+  },
+  "https://www.wsj.com/world/russia/crimea-ukraine-russia-war-484d7827": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-29T12:00:30.280551",
+    "title": "Ukrainian Strikes Turn Crimea From Prize Asset to Liability for Putin",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71375.html": {
+    "source": "rand",
+    "fetch_time": "2026-06-29T12:00:30.367733",
+    "title": "The Ecology of AI Risk",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/official-newspaper-of-china-has-reduced-foreign-news-coverage-during-president-xi-jinpings-administration-study-finds": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-29T12:00:30.494668",
+    "title": "Official newspaper of China has reduced foreign news coverage during President Xi Jinping’s administration, study finds",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/jayhawks-compete-in-2025-2026-math-events": {
+    "source": "ku_news",
+    "fetch_time": "2026-06-29T12:00:30.494747",
+    "title": "Jayhawks compete in 2025-2026 math events",
+    "category": "education"
   }
 }

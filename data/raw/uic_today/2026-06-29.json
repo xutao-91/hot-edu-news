@@ -1,0 +1,17 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-06-29T12:00:26.205062",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Cardiovascular disease risk tied to vision loss in Latino adults",
+      "url": "https://today.uic.edu/cardiovascular-disease-risk-factors-linked-to-vision-loss-in-hispanic-latino-adults/",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "The study found having more risk factors made visual impairment more likely.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

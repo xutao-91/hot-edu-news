@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-06-29T12:00:29.817779",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Competition may push AI firms to favor speed over safety, new study finds",
+      "url": "https://news.uchicago.edu/story/competition-may-push-ai-firms-favor-speed-over-safety-new-study-finds",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "UChicago researchers highlight how incentives, market structure and public policy guide AI development toward artificial general intelligence",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Student loan pause may have had a surprising impact, Post analysis shows",
+      "url": "https://www.washingtonpost.com/business/2026/06/28/unintended-consequences-pandemic-pause-student-loan-payments/",
+      "date": "2026-06-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Ukrainian Strikes Turn Crimea From Prize Asset to Liability for Putin",
+      "url": "https://www.wsj.com/world/russia/crimea-ukraine-russia-war-484d7827",
+      "date": "2026-06-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "UChicago-backed startup hub Third Coast Foundry marks grand opening in San Francisco",
+      "url": "https://news.uchicago.edu/story/uchicago-backed-startup-hub-third-coast-foundry-marks-grand-opening-san-francisco",
+      "date": "2026-06-26",
+      "type": "News",
+      "summary_en": "Polsky Center and seven partnering innovation programs launched with events including the Midwest Deep Tech Demo Day",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
