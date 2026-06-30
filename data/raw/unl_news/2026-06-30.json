@@ -1,0 +1,35 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-06-30T12:00:15.878640",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Nebraska U ranks in top 9% worldwide for agriculture, natural resources",
+      "url": "https://news.unl.edu/article/nebraska-u-ranks-in-top-9-worldwide-for-agriculture-natural-resources",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "agriculture"
+    },
+    {
+      "title": "Metcalf uncovers passion (and mice) via research at Cedar Point",
+      "url": "https://news.unl.edu/article/metcalf-uncovers-passion-and-mice-via-research-at-cedar-point",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Study finds intergenerational co-parenting benefits children",
+      "url": "https://news.unl.edu/article/study-finds-intergenerational-co-parenting-benefits-children",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

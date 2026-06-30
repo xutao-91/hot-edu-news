@@ -50,7 +50,7 @@
                         <i class="fa fa-newspaper-o"></i> 热点教育信息
                     </h1>
                     <p class="text-blue-100 mt-1 text-sm md:text-base">
-                        共 <span class="font-bold">98</span> 篇文章 | 最近更新: 2026-06-29 20:00:35
+                        共 <span class="font-bold">106</span> 篇文章 | 最近更新: 2026-06-30 12:00:34
                         <a href="rss.xml" target="_blank" class="ml-3 text-yellow-300 hover:text-yellow-100 transition-colors" title="RSS订阅">
                             <i class="fa fa-rss"></i> 订阅
                         </a>
@@ -81,15 +81,21 @@
                     <select id="sourceFilter" class="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-secondary" onchange="filterArticles()">
                         <option value="">全部来源</option>
                         
+                        <option value="ACE">ACE</option>
+                        
                         <option value="Augustana News">Augustana News</option>
                         
                         <option value="Bridge Michigan">Bridge Michigan</option>
                         
-                        <option value="Butler Stories">Butler Stories</option>
+                        <option value="Brookings Institution">Brookings Institution</option>
+                        
+                        <option value="F&MCW Cancer Network">F&MCW Cancer Network</option>
                         
                         <option value="Heritage Foundation">Heritage Foundation</option>
                         
-                        <option value="IU School of Education">IU School of Education</option>
+                        <option value="IIT News">IIT News</option>
+                        
+                        <option value="Iowa State News">Iowa State News</option>
                         
                         <option value="K-State News">K-State News</option>
                         
@@ -99,7 +105,11 @@
                         
                         <option value="MTU News">MTU News</option>
                         
-                        <option value="Mendoza College of Business">Mendoza College of Business</option>
+                        <option value="NEA News">NEA News</option>
+                        
+                        <option value="Northwestern News">Northwestern News</option>
+                        
+                        <option value="Notre Dame News">Notre Dame News</option>
                         
                         <option value="Pew Research Center">Pew Research Center</option>
                         
@@ -111,6 +121,8 @@
                         
                         <option value="Show Me Mizzou">Show Me Mizzou</option>
                         
+                        <option value="Student Life">Student Life</option>
+                        
                         <option value="The PIE News">The PIE News</option>
                         
                         <option value="The White House">The White House</option>
@@ -121,11 +133,7 @@
                         
                         <option value="UIC Today">UIC Today</option>
                         
-                        <option value="UIowa Now">UIowa Now</option>
-                        
                         <option value="UMN CSE">UMN CSE</option>
-                        
-                        <option value="UNI News">UNI News</option>
                         
                         <option value="UNL News">UNL News</option>
                         
@@ -175,23 +183,33 @@
                         
                         <option value="academic">academic</option>
                         
+                        <option value="agriculture">agriculture</option>
+                        
                         <option value="ai_technology">ai_technology</option>
-                        
-                        <option value="arts">arts</option>
-                        
-                        <option value="business">business</option>
                         
                         <option value="campus">campus</option>
                         
+                        <option value="economy">economy</option>
+                        
                         <option value="event">event</option>
+                        
+                        <option value="faculty">faculty</option>
                         
                         <option value="health">health</option>
                         
+                        <option value="leadership">leadership</option>
+                        
+                        <option value="medical">medical</option>
+                        
                         <option value="policy">policy</option>
+                        
+                        <option value="political">political</option>
                         
                         <option value="research">research</option>
                         
                         <option value="stem">stem</option>
+                        
+                        <option value="student_aid">student_aid</option>
                         
                         <option value="students">students</option>
                         
@@ -201,15 +219,17 @@
                         
                         <option value="国际">国际</option>
                         
-                        <option value="教育政策">教育政策</option>
+                        <option value="宗教">宗教</option>
                         
-                        <option value="星际航空">星际航空</option>
+                        <option value="教育政策">教育政策</option>
                         
                         <option value="民权">民权</option>
                         
                         <option value="科技媒体">科技媒体</option>
                         
                         <option value="综合">综合</option>
+                        
+                        <option value="高等教育">高等教育</option>
                         
                     </select>
                 </div>
@@ -230,12 +250,849 @@
             </div>
             <!-- 筛选结果统计 -->
             <div class="mt-4 text-sm text-gray-600" id="filterStats">
-                显示 <span id="visibleCount">98</span> 篇文章
+                显示 <span id="visibleCount">106</span> 篇文章
             </div>
         </div>
 
         <!-- 文章列表 -->
         <div id="articlesList" class="grid grid-cols-1 gap-4 mb-8">
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Notre Dame News"
+                data-source-group="高等教育机构"
+                data-category="leadership"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Notre Dame News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            leadership
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.nd.edu/news/tracy-weber-appointed-vice-president-and-chief-information-officer-at-notre-dame/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Tracy Weber appointed vice president and chief information officer at Notre Dame
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="MSOE"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            MSOE
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.msoe.edu/about-msoe/news/details/students-gain-experience-working-on-msoe-s-robert-d-kern-engineering-innovation-center-construction-site" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Students gain experience working on MSOE’s Robert D. Kern Engineering Innovation Center construction site
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Pew Research Center"
+                data-source-group="其他"
+                data-category="宗教"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Pew Research Center
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            宗教
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            5 facts about religion in the Philippines
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="IIT News"
+                data-source-group="高等教育机构"
+                data-category="research"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #CC0000">
+                            IIT News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            research
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.iit.edu/news/global-impact-architecture-faculty-present-their-research-around-world" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Global Impact: Architecture Faculty Present Their Research Around the World
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="U.S. Department of Education"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            U.S. Department of Education
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.ed.gov/about/news/speech/us-secretary-of-education-linda-mcmahon-issues-statement-us-supreme-court-decision-west-virginia-v-bpj" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            U.S. Secretary of Education Linda McMahon Issues Statement on U.S. Supreme Court Decision in West Virginia v. B.P.J.
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="the74_news"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            the74_news
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.the74million.org/article/lana%ca%bbi-school-relies-on-temporary-power-lines-for-years/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Lānaʻi School Relies on Temporary Power Lines for Years
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="the74_news"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            the74_news
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.the74million.org/article/more-than-half-of-georgia-teachers-now-use-artificial-intelligence-to-prepare-for-class/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="the74_news"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            the74_news
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.the74million.org/article/alaska-districts-close-12-schools-this-year-amid-severe-budget-cuts/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="the74_news"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            the74_news
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.the74million.org/zero2eight/new-report-finds-five-year-drop-in-preschool-enrollment-but-covids-effects-loom/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            New Report Finds Five-Year Drop in Preschool Enrollment, but COVID’s Effects Loom
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Iowa State News"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #C8102E">
+                            Iowa State News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.news.iastate.edu/news/training-gains-momentum-senior-nutrition-workforce-faces-growing-demand" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Training gains momentum as senior nutrition workforce faces growing demand
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="F&MCW Cancer Network"
+                data-source-group="其他"
+                data-category="medical"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            F&MCW Cancer Network
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            medical
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-to-lead-landmark-multi-center-clinical-trial-in-traumatic-brain-injury-rehabilitation" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Medical College of Wisconsin to Lead Landmark Multi-Center Clinical Trial in Traumatic Brain Injury Rehabilitation
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UNL News"
+                data-source-group="高等教育机构"
+                data-category="agriculture"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #D00000">
+                            UNL News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            agriculture
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.unl.edu/article/nebraska-u-ranks-in-top-9-worldwide-for-agriculture-natural-resources" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Nebraska U ranks in top 9% worldwide for agriculture, natural resources
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UNL News"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #D00000">
+                            UNL News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.unl.edu/article/metcalf-uncovers-passion-and-mice-via-research-at-cedar-point" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Metcalf uncovers passion (and mice) via research at Cedar Point
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="WashU Source"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #A51417">
+                            WashU Source
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://source.washu.edu/2026/06/carolina-caycedo-growing-deep-roots/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            ‘Carolina Caycedo: Growing Deep Roots’
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Show Me Mizzou"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #F1B82D">
+                            Show Me Mizzou
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://showme.missouri.edu/2026/mizzou-helps-alumna-relish-her-wienermobile-experience/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Mizzou helps alumna relish her Wienermobile experience
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Show Me Mizzou"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #F1B82D">
+                            Show Me Mizzou
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://showme.missouri.edu/2026/bess-pierce-inducted-as-a-fellow-of-the-veterinary-medicine-academy/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Bess Pierce inducted as a fellow of the Veterinary Medicine Academy
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Heritage Foundation"
+                data-source-group="其他"
+                data-category="policy"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Heritage Foundation
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            policy
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Purdue College of Engineering"
+                data-source-group="高等教育机构"
+                data-category="教育政策"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Purdue College of Engineering
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            教育政策
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0701-chris-lombardo-epics-purdue-director-engineers-without-borders" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Lombardo named EPICS at Purdue director
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="NEA News"
+                data-source-group="其他"
+                data-category="人工智能"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #7B1FA2">
+                            NEA News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            人工智能
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.nea.org/about-nea/media-center/press-releases/student-teacher-illinois-elected-nea-aspiring-educators-chairperson" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Student teacher from Illinois elected NEA Aspiring Educators Chairperson
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="NEA News"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #7B1FA2">
+                            NEA News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.nea.org/about-nea/media-center/press-releases/win-us-born-children-supreme-court-reaffirms-birthright-citizenship" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            In a win for U.S.-born children, Supreme Court reaffirms birthright citizenship
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="NEA News"
+                data-source-group="其他"
+                data-category="political"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #7B1FA2">
+                            NEA News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            political
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.nea.org/about-nea/media-center/press-releases/nea-president-supreme-court-decision-will-impact-not-only-transgender-student-athletes-students-all" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            NEA President: Supreme Court decision will impact not only transgender student-athletes but students of all genders
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="KU News"
+                data-source-group="高等教育机构"
+                data-category="research"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #0051BA">
+                            KU News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            research
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Study reveals what people really see when they read lips
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="KU News"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #0051BA">
+                            KU News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.ku.edu/news/article/ku-scholar-can-comment-on-presidents-planned-july-4-remarks-about-nations-250th-anniversary" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            KU scholar can comment on president’s planned July 4 remarks about nation’s 250th anniversary
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Student Life"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #154734">
+                            Student Life
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.studlife.com/news/2026/06/30/remembering-professor-guoyan-zhao" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Remembering Professor Guoyan Zhao
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Northwestern News"
+                data-source-group="其他"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #4E2A84">
+                            Northwestern News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.northwestern.edu/stories/2026/06/xuemao-wang-to-step-down-as-dean-of-libraries" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Xuemao Wang to step down as dean of Libraries in 2027
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UChicago News"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #800000">
+                            UChicago News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.uchicago.edu/story/america-turns-250-how-declaration-independence-endures" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            As America turns 250, how the Declaration of Independence endures
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="The White House"
+                data-source-group="其他"
+                data-category="Releases"
+                data-date="2026-06-30">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            The White House
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            Releases
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-30
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.whitehouse.gov/releases/2026/06/trump-administration-nepa-reforms-a-win-for-all-americans/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Trump Administration NEPA Reforms: A Win for All Americans
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
             
             <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
                 data-title=""
@@ -364,6 +1221,37 @@
             <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
                 data-title=""
                 data-summary=""
+                data-source="Brookings Institution"
+                data-source-group="其他"
+                data-category="economy"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Brookings Institution
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            economy
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.brookings.edu/articles/learning-what-matters-in-malawi/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Learning what matters in Malawi
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
                 data-source="Pew Research Center"
                 data-source-group="其他"
                 data-category="综合"
@@ -476,6 +1364,99 @@
                     <h2 class="text-lg md:text-xl font-bold mb-3">
                         <a href="https://www.k-state.edu/news/articles/2026/06/powercat-motorsports-top-three-finish-formula-sae-michigan.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
                             Powercat Motorsports finishes top three at Formula SAE Michigan
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Bridge Michigan"
+                data-source-group="其他"
+                data-category="policy"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #1E5288">
+                            Bridge Michigan
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            policy
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://bridgemi.com/talent-education/michigan-schools-sweat-as-deadline-looms-without-state-budget-its-super-frustrating/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Michigan schools sweat as deadline looms without state budget: It’s ‘super frustrating’
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Bridge Michigan"
+                data-source-group="其他"
+                data-category="教育政策"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #1E5288">
+                            Bridge Michigan
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            教育政策
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://bridgemi.com/talent-education/michigan-must-focus-literacy-efforts-on-older-students-too-experts-say/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Michigan must focus literacy efforts on older students, too, experts say
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="U.S. Department of Education"
+                data-source-group="其他"
+                data-category="高等教育"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            U.S. Department of Education
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            高等教育
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.ed.gov/about/news/press-release/us-department-of-education-issues-final-rule-hold-all-colleges-and-universities-accountable-low-earning-programs" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            U.S. Department of Education Issues Final Rule to Hold All Colleges and Universities Accountable for Low-Earning Programs
                         </a>
                     </h2>
                     <p class="text-gray-600 leading-relaxed text-sm md:text-base">
@@ -798,6 +1779,68 @@
             <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
                 data-title=""
                 data-summary=""
+                data-source="UW-Madison News"
+                data-source-group="高等教育机构"
+                data-category="campus"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            UW-Madison News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            campus
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://alerts.wisc.edu/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Important details regarding campus cooling issues
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UW-Madison News"
+                data-source-group="高等教育机构"
+                data-category="faculty"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            UW-Madison News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            faculty
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.wisc.edu/with-a-focus-on-the-great-lakes-uw-faculty-and-staff-reflect-on-the-wisconsin-idea/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            With a focus on the Great Lakes, UW faculty and staff reflect on the Wisconsin Idea
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
                 data-source="eCampus News"
                 data-source-group="其他"
                 data-category="人工智能"
@@ -829,37 +1872,6 @@
             <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
                 data-title=""
                 data-summary=""
-                data-source="Heritage Foundation"
-                data-source-group="其他"
-                data-category="policy"
-                data-date="2026-06-29">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Heritage Foundation
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            policy
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
                 data-source="Augustana News"
                 data-source-group="高等教育机构"
                 data-category="students"
@@ -879,6 +1891,99 @@
                     <h2 class="text-lg md:text-xl font-bold mb-3">
                         <a href="https://www.augie.edu/news/2026/augustana-art-students-featured-invitational-eide/dalrymple-gallery" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
                             Augustana Art Students Featured in Invitational at Eide/Dalrymple Gallery
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Purdue College of Engineering"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Purdue College of Engineering
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0629-scott-tingle-purdue-nasa-chief-astronaut-artemis-ii" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            NASA's Chief of the Astronaut Office Scott Tingle reflects on historic Artemis II mission
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="Purdue College of Engineering"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            Purdue College of Engineering
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0629-david-simchi-levi-purdue-supply-chain-recovery-data-science" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Predicting the path to supply-chain recovery: IE's Simchi-Levi
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UMN CSE"
+                data-source-group="高等教育机构"
+                data-category="faculty"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #7A0019">
+                            UMN CSE
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            faculty
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://cse.umn.edu/college/news/zooniverse-co-founded-university-minnesota-professor-reaches-one-billion-volunteer" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Zooniverse, co-founded by University of Minnesota professor, reaches one billion volunteer classifications
                         </a>
                     </h2>
                     <p class="text-gray-600 leading-relaxed text-sm md:text-base">
@@ -953,6 +2058,37 @@
             <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
                 data-title=""
                 data-summary=""
+                data-source="ACE"
+                data-source-group="其他"
+                data-category="student_aid"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #003366">
+                            ACE
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            student_aid
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.acenet.edu/News-Room/Pages/New-ED-Rules-in-Effect-July-1.aspx" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Professional Degree Definition Remains Contested as Student Loan Changes Take Effect July 1
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
                 data-source="UIC Today"
                 data-source-group="高等教育机构"
                 data-category="综合"
@@ -972,6 +2108,37 @@
                     <h2 class="text-lg md:text-xl font-bold mb-3">
                         <a href="https://today.uic.edu/cardiovascular-disease-risk-factors-linked-to-vision-loss-in-hispanic-latino-adults/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
                             Cardiovascular disease risk tied to vision loss in Latino adults
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UIC Today"
+                data-source-group="高等教育机构"
+                data-category="students"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #001E62">
+                            UIC Today
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            students
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://today.uic.edu/in-london-and-milan-engineering-students-get-in-depth-look-at-tech-field/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            In London and Milan, engineering students get in-depth look at tech field
                         </a>
                     </h2>
                     <p class="text-gray-600 leading-relaxed text-sm md:text-base">
@@ -1065,6 +2232,161 @@
                     <h2 class="text-lg md:text-xl font-bold mb-3">
                         <a href="https://news.uchicago.edu/story/competition-may-push-ai-firms-favor-speed-over-safety-new-study-finds" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
                             Competition may push AI firms to favor speed over safety, new study finds
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="UChicago News"
+                data-source-group="高等教育机构"
+                data-category="综合"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #800000">
+                            UChicago News
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            综合
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://news.uchicago.edu/teen-takeovers-summer-violence-and-search-solutions" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Teen Takeovers, Summer Violence, and the Search for Solutions
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="The White House"
+                data-source-group="其他"
+                data-category="Presidential Actions"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            The White House
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            Presidential Actions
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="The White House"
+                data-source-group="其他"
+                data-category="Fact Sheets"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            The White House
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            Fact Sheets
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="The White House"
+                data-source-group="其他"
+                data-category="Fact Sheets"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            The White House
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            Fact Sheets
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix
+                        </a>
+                    </h2>
+                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
+                        
+                    </p>
+                    
+                </div>
+            </div>
+            
+            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
+                data-title=""
+                data-summary=""
+                data-source="The White House"
+                data-source-group="其他"
+                data-category="Presidential Actions"
+                data-date="2026-06-29">
+                <div class="p-5">
+                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
+                            The White House
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
+                            Presidential Actions
+                        </span>
+                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
+                            <i class="fa fa-calendar-o mr-1"></i> 06-29
+                        </span>
+                    </div>
+                    <h2 class="text-lg md:text-xl font-bold mb-3">
+                        <a href="https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
+                            Lowering the Cost of Living by Promoting the Freedom to Fix
                         </a>
                     </h2>
                     <p class="text-gray-600 leading-relaxed text-sm md:text-base">
@@ -2212,1060 +3534,6 @@
                     <h2 class="text-lg md:text-xl font-bold mb-3">
                         <a href="https://www.whitehouse.gov/releases/2026/06/president-trumps-america-first-agenda-scores-major-supreme-court-win-on-tps-termination/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
                             President Trump’s America First Agenda Scores Major Supreme Court Win on TPS Termination
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="The PIE News"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #F26522">
-                            The PIE News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://thepienews.com/category/news/elt/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Compliance and access dominate university assessment plans, confirms testing giant
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="The PIE News"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #F26522">
-                            The PIE News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://thepienews.com/category/news/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Explained: How India’s biggest medical entrance exam descended into crisis
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="MSOE"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            MSOE
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.msoe.edu/about-msoe/news/details/growth-in-mechanical-engineering-department-prompts-name-change" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Growth in Mechanical Engineering Department prompts name change
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="K-State News"
-                data-source-group="高等教育机构"
-                data-category="students"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #512888">
-                            K-State News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            students
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.k-state.edu/news/articles/2026/06/diversified-ag-program-kstate-southwest-office-expand-access-to-ag-education.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Expanding access to agricultural education
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Bridge Michigan"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #1E5288">
-                            Bridge Michigan
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://bridgemi.com/talent-education/u-m-regent-jordan-acker-apologizes-after-probe-confirms-lewd-comment-allegations/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            U-M Regent Jordan Acker apologizes after probe confirms lewd comment allegations
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Mendoza College of Business"
-                data-source-group="高等教育机构"
-                data-category="business"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Mendoza College of Business
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            business
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://mendoza.nd.edu/news/inside-notre-dame-mba-global-business-immersion-in-santiago-chile/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Inside Notre Dame MBA Global Business Immersion in Santiago, Chile
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="the74_news"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            the74_news
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.the74million.org/article/historic-kansas-city-public-schools-teachers-win-5-raise/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            ‘Historic’: Kansas City Public Schools Teachers Win 5% Raise
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="the74_news"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            the74_news
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.the74million.org/article/democrats-move-to-impeach-linda-mcmahon-over-willful-intent-to-close-ed-dept/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Democrats Move to Impeach Linda McMahon Over ‘Willful Intent’ to Close Ed Dept.
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="the74_news"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            the74_news
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.the74million.org/zero2eight/wisconsins-childcare-providers-face-uncertainty-as-funding-comes-to-an-end/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Wisconsin’s Childcare Providers Face Uncertainty As Funding Comes to an End
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="the74_news"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            the74_news
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.the74million.org/article/splitting-up-special-ed-and-civil-rights-will-dilute-services-for-students-experts-say/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Splitting Up Special Ed and Civil Rights Will Dilute Services, Experts Say
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="IU School of Education"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            IU School of Education
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://education.indiana.edu/news/2026/jan-jun/2026-06-25-alumna-finds-common-ground-in-puppy-training-and-classroom-management.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Through new book, alumna finds common ground in puppy training and classroom management
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UNL News"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #D00000">
-                            UNL News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://news.unl.edu/article/chime-enhancing-well-being-among-head-start-early-head-start-educators" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            CHIME enhancing well-being among Head Start, Early Head Start educators
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UNL News"
-                data-source-group="高等教育机构"
-                data-category="星际航空"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #D00000">
-                            UNL News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            星际航空
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://news.unl.edu/article/nebraska-joins-nasa-acres-farm-innovation-ambassador-team" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Nebraska joins NASA Acres Farm Innovation Ambassador Team
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UNL News"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #D00000">
-                            UNL News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://news.unl.edu/article/awards-expand-research-on-melanin-producing-fungi-microbial-communities" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Awards expand research on melanin-producing fungi, microbial communities
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="WashU Source"
-                data-source-group="高等教育机构"
-                data-category="academic"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #A51417">
-                            WashU Source
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            academic
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://source.washu.edu/2026/06/groves-named-inaugural-stuart-a-kornfeld-distinguished-professor/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Groves named inaugural Stuart A. Kornfeld Distinguished Professor
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="WashU Source"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #A51417">
-                            WashU Source
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://source.washu.edu/2026/06/washu-racing-drives-to-best-finish-in-club-history/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            WashU Racing drives to best finish in club history
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="WashU Source"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #A51417">
-                            WashU Source
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://source.washu.edu/2026/06/early-pregnancy-air-pollution-exposure-linked-to-persistent-depressive-symptoms/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Early-pregnancy air pollution exposure linked to persistent depressive symptoms
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UIowa Now"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #FFCD00">
-                            UIowa Now
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="/news/2026/06/water-tower-removal-set-begin-july-10-affecting-streets-sidewalks" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Water tower removal set to begin July 10, affecting streets, sidewalks
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Show Me Mizzou"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #F1B82D">
-                            Show Me Mizzou
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://showme.missouri.edu/2026/empowering-veterans-with-business-know-how/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Empowering veterans with business know-how
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UNI News"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #4B116F">
-                            UNI News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://insideuni.uni.edu/business/how-curris-became-heart-business-uni" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            How Curris became the heart of business at UNI
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UNI News"
-                data-source-group="高等教育机构"
-                data-category="students"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #4B116F">
-                            UNI News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            students
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://insideuni.uni.edu/campus-community/uni-students-win-gold-national-advertising-award" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            UNI students win Gold national advertising award
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UNI News"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #4B116F">
-                            UNI News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://insideuni.uni.edu/campus-community/uni-athletic-training-student-becomes-life-saving-donor-leukemia-patient" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            UNI athletic training student becomes life-saving donor for leukemia patient
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Purdue College of Engineering"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Purdue College of Engineering
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0625-purdue-lyohub-visual-inspection-parenteral-workshop" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Registration open for July 27 LyoHUB/FDA workshop addressing critical needs in pharmaceutical inspection and quality assurance
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Purdue College of Engineering"
-                data-source-group="高等教育机构"
-                data-category="research"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Purdue College of Engineering
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            research
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0625-purdue-1-research" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Purdue researchers will test forces that could determine how we find our way, build and survive in space
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Purdue Polytechnic Institute"
-                data-source-group="高等教育机构"
-                data-category="科技媒体"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Purdue Polytechnic Institute
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            科技媒体
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-lafayette-honors-class-2025-26-commencement-ceremony" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Purdue Polytechnic in Lafayette honors class of 2025-26 at commencement ceremony
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Rand Corporation"
-                data-source-group="其他"
-                data-category="ai_technology"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Rand Corporation
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            ai_technology
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.rand.org/pubs/research_reports/RRA4707-1.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Supply Chain, Energy, and AI Nexus: Evaluating AI Energy Supply Chain Vulnerabilities
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Rand Corporation"
-                data-source-group="其他"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Rand Corporation
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.rand.org/pubs/research_reports/RRA4741-1.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Can LLM Agents Select and Engage with Biological Tools? An Initial Biosecurity Assessment
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Rand Corporation"
-                data-source-group="其他"
-                data-category="ai_technology"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Rand Corporation
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            ai_technology
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.rand.org/pubs/research_reports/RRA3892-2.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            AI agents put offensive cyber within reach of novices: Comparing the performance of AI agents to humans in offensive cyber operations
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Rand Corporation"
-                data-source-group="其他"
-                data-category="ai_technology"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            Rand Corporation
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            ai_technology
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.rand.org/pubs/podcasts/policy-minded/2026/how-societies-can-succeed-in-the-ai-era.html" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            How Societies Can Succeed in the AI Era
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="Butler Stories"
-                data-source-group="高等教育机构"
-                data-category="arts"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #13294B">
-                            Butler Stories
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            arts
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://stories.butler.edu/former-dean-ronald-caltabiano-commits-1-1-million-to-jordan-college-of-the-arts-to-support-innovative-and-experiential-arts-initiatives/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Former Dean Ronald Caltabiano Commits $1.1 Million to Jordan College of the Arts to Support Innovative and Experiential Arts Initiatives
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="UChicago News"
-                data-source-group="高等教育机构"
-                data-category="综合"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #800000">
-                            UChicago News
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            综合
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://news.uchicago.edu/big-brains-podcast-what-our-trash-problem-says-about-our-culture-sarah-newman" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            What our trash problem says about our culture, with Sarah Newman
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="The White House"
-                data-source-group="其他"
-                data-category="Presidential Actions"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            The White House
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            Presidential Actions
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.whitehouse.gov/presidential-actions/2026/06/advancing-regenerative-agriculture-and-strengthening-american-farm-resilience/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Advancing Regenerative Agriculture and Strengthening American Farm Resilience
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="The White House"
-                data-source-group="其他"
-                data-category="Fact Sheets"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            The White House
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            Fact Sheets
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-advances-regenerative-agriculture-and-strengthens-american-farm-resilience/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Fact Sheet: President Donald J. Trump Advances Regenerative Agriculture and Strengthens American Farm Resilience
-                        </a>
-                    </h2>
-                    <p class="text-gray-600 leading-relaxed text-sm md:text-base">
-                        
-                    </p>
-                    
-                </div>
-            </div>
-            
-            <div class="article-card bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden card-hover"
-                data-title=""
-                data-summary=""
-                data-source="The White House"
-                data-source-group="其他"
-                data-category="Releases"
-                data-date="2026-06-25">
-                <div class="p-5">
-                    <div class="flex flex-wrap gap-2 mb-3 text-sm">
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold text-white" style="background: #6B7280">
-                            The White House
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-gray-100 text-gray-700">
-                            Releases
-                        </span>
-                        <span class="px-2.5 py-1 rounded-full text-xs font-semibold bg-blue-50 text-blue-700">
-                            <i class="fa fa-calendar-o mr-1"></i> 06-25
-                        </span>
-                    </div>
-                    <h2 class="text-lg md:text-xl font-bold mb-3">
-                        <a href="https://www.whitehouse.gov/releases/2026/06/radical-lunatics-deface-americas-reflecting-pool-and-president-trump-was-right-again/" target="_blank" class="text-gray-800 hover:text-primary transition-colors">
-                            Radical Lunatics Deface America’s Reflecting Pool — and President Trump Was Right (Again)
                         </a>
                     </h2>
                     <p class="text-gray-600 leading-relaxed text-sm md:text-base">

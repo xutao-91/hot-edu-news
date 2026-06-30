@@ -1,0 +1,37 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-06-30T12:00:08.134858",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "5 facts about religion in the Philippines",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/30/5-facts-about-religion-in-the-philippines/",
+      "date": "Jun 30, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Catholicism",
+        "Pope Leo Xiv",
+        "Religion Government 1"
+      ],
+      "summary_en": "Nearly all Filipinos believe in God, most pray daily and 92% identify as Christian, with Catholics as the majority.",
+      "source": "Pew Research Center",
+      "category": "religion"
+    },
+    {
+      "title": "Which Americans are most likely to have spoken with a local journalist?",
+      "url": "https://www.pewresearch.org/short-reads/2026/06/29/which-americans-are-most-likely-to-have-spoken-with-a-local-journalist/",
+      "date": "Jun 29, 2026",
+      "type": "short reads",
+      "categories": [
+        "Journalists 2",
+        "Journalists 1",
+        "Local News"
+      ],
+      "summary_en": "About a quarter of Americans have spoken with a local journalist, with education, income, race and community attachment linked to higher rates of interaction.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}
