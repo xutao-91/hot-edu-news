@@ -10840,5 +10840,101 @@
     "fetch_time": "2026-06-29T12:00:30.494747",
     "title": "Jayhawks compete in 2025-2026 math events",
     "category": "education"
+  },
+  "https://www.brookings.edu/articles/learning-what-matters-in-malawi/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-29T20:00:07.203182",
+    "title": "Learning what matters in Malawi",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/michigan-schools-sweat-as-deadline-looms-without-state-budget-its-super-frustrating/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-06-29T20:00:12.176148",
+    "title": "Michigan schools sweat as deadline looms without state budget: It’s ‘super frustrating’",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/michigan-must-focus-literacy-efforts-on-older-students-too-experts-say/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-06-29T20:00:12.176173",
+    "title": "Michigan must focus literacy efforts on older students, too, experts say",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-final-rule-hold-all-colleges-and-universities-accountable-low-earning-programs": {
+    "source": "edgov",
+    "fetch_time": "2026-06-29T20:00:15.376270",
+    "title": "U.S. Department of Education Issues Final Rule to Hold All Colleges and Universities Accountable for Low-Earning Programs",
+    "category": "education"
+  },
+  "https://news.wisc.edu/with-a-focus-on-the-great-lakes-uw-faculty-and-staff-reflect-on-the-wisconsin-idea/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-29T20:00:18.133610",
+    "title": "With a focus on the Great Lakes, UW faculty and staff reflect on the Wisconsin Idea",
+    "category": "ai"
+  },
+  "https://cse.umn.edu/college/news/zooniverse-co-founded-university-minnesota-professor-reaches-one-billion-volunteer": {
+    "source": "umn_cse",
+    "fetch_time": "2026-06-29T20:00:21.923854",
+    "title": "Zooniverse, co-founded by University of Minnesota professor, reaches one billion volunteer classifications",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0629-scott-tingle-purdue-nasa-chief-astronaut-artemis-ii": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-29T20:00:22.645572",
+    "title": "NASA's Chief of the Astronaut Office Scott Tingle reflects on historic Artemis II mission",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0629-david-simchi-levi-purdue-supply-chain-recovery-data-science": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-06-29T20:00:22.645598",
+    "title": "Predicting the path to supply-chain recovery: IE's Simchi-Levi",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/alaska-districts-close-12-schools-this-year-amid-severe-budget-cuts/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-29T20:00:22.933067",
+    "title": "Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts",
+    "category": "education"
+  },
+  "https://today.uic.edu/in-london-and-milan-engineering-students-get-in-depth-look-at-tech-field/": {
+    "source": "uic_today",
+    "fetch_time": "2026-06-29T20:00:26.027505",
+    "title": "In London and Milan, engineering students get in-depth look at tech field",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/New-ED-Rules-in-Effect-July-1.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-06-29T20:00:29.235678",
+    "title": "Professional Degree Definition Remains Contested as Student Loan Changes Take Effect July 1",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/teen-takeovers-summer-violence-and-search-solutions": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-06-29T20:00:29.621114",
+    "title": "Teen Takeovers, Summer Violence, and the Search for Solutions",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/declaration-of-emergency-and-authorization-for-temporary-duty-free-importation-of-phosphate-fertilizer-morocco/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-29T20:00:33.437439",
+    "title": "Declaration of Emergency and Authorization for Temporary Duty Free Importation of Phosphate Fertilizer Morocco",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-declares-an-emergency-and-authorizes-the-temporary-suspension-of-certain-duties-on-phosphate-fertilizer-from-morocco/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-29T20:00:33.437476",
+    "title": "Fact Sheet: President Donald J. Trump Declares an Emergency and Authorizes the Temporary Suspension of Certain Duties on Phosphate Fertilizer from Morocco",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/06/fact-sheet-president-donald-j-trump-lowers-the-cost-of-living-by-promoting-the-freedom-to-fix/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-29T20:00:33.437499",
+    "title": "Fact Sheet: President Donald J. Trump Lowers the Cost of Living by Promoting the Freedom to Fix",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/06/lowering-the-cost-of-living-by-promoting-the-freedom-to-fix/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-06-29T20:00:33.437519",
+    "title": "Lowering the Cost of Living by Promoting the Freedom to Fix",
+    "category": "general"
   }
 }

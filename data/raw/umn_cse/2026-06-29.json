@@ -1,9 +1,18 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-06-29T12:00:22.976841",
-  "total_news": 1,
+  "crawled_at": "2026-06-29T20:00:21.352479",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Zooniverse, co-founded by University of Minnesota professor, reaches one billion volunteer classifications",
+      "url": "https://cse.umn.edu/college/news/zooniverse-co-founded-university-minnesota-professor-reaches-one-billion-volunteer",
+      "date": "2026-06-29",
+      "type": "Research",
+      "summary_en": "Zooniverse's billionth classification milestone highlights the University of Minnesota College of Science & Engineering's commitment to developing innovative approaches that accelerate scientific discovery. Image courtesy of Snapshot Serengeti.",
+      "source": "UMN CSE",
+      "category": "faculty"
+    },
     {
       "title": "Rare Martian meteorite reveals new chapter in the volcanic history of Mars",
       "url": "https://cse.umn.edu/college/news/rare-martian-meteorite-reveals-new-chapter-volcanic-history-mars",

@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-06-29T12:00:18.871188",
-  "total_news": 1,
+  "crawled_at": "2026-06-29T20:00:17.565043",
+  "total_news": 2,
   "news": [
+    {
+      "title": "With a focus on the Great Lakes, UW faculty and staff reflect on the Wisconsin Idea",
+      "url": "https://news.wisc.edu/with-a-focus-on-the-great-lakes-uw-faculty-and-staff-reflect-on-the-wisconsin-idea/",
+      "date": "June 29, 2026",
+      "type": "News",
+      "summary_en": "This year's Wisconsin Ideas Seminar highlighted the ancient waterways of Wisconsin and how they continue to sustain life and community across the state.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
     {
       "title": "The iconic campus clock",
       "url": "https://onwisconsin.uwalumni.com/the-iconic-campus-clock/",

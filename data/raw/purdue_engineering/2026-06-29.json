@@ -1,9 +1,27 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-06-29T12:00:24.218186",
-  "total_news": 1,
+  "crawled_at": "2026-06-29T20:00:22.076968",
+  "total_news": 3,
   "news": [
+    {
+      "title": "NASA's Chief of the Astronaut Office Scott Tingle reflects on historic Artemis II mission",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0629-scott-tingle-purdue-nasa-chief-astronaut-artemis-ii",
+      "date": "June 29, 2026",
+      "type": "News",
+      "summary_en": "When NASA’s Artemis II crew successfully slingshotted around the Moon in April 2026, it marked the first time in more than 50 years that humans made such a journey.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Predicting the path to supply-chain recovery: IE's Simchi-Levi",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0629-david-simchi-levi-purdue-supply-chain-recovery-data-science",
+      "date": "June 29, 2026",
+      "type": "News",
+      "summary_en": "David Simchi-Levi joined Purdue in January 2026 and directs the Data Science Center for Decision Making, which integrates predictive (AI and Machine Learning), prescriptive (Optimization and Simulation) and generative (Large Language Models) technologies.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "Remembering Robert H. Buckman: A legacy of engineering excellence and generosity",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0624-robert-buckman-purdue-engineering-legacy-tribute",

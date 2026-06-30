@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-06-29T12:00:29.817779",
-  "total_news": 4,
+  "crawled_at": "2026-06-29T20:00:29.451743",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Teen Takeovers, Summer Violence, and the Search for Solutions",
+      "url": "https://news.uchicago.edu/teen-takeovers-summer-violence-and-search-solutions",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Competition may push AI firms to favor speed over safety, new study finds",
       "url": "https://news.uchicago.edu/story/competition-may-push-ai-firms-favor-speed-over-safety-new-study-finds",
