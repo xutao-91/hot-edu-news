@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-06-30T12:00:18.649545",
-  "total_news": 2,
+  "crawled_at": "2026-06-30T20:00:17.957345",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Helping new Badgers feel at home",
+      "url": "https://news.wisc.edu/helping-new-badgers-feel-at-home/",
+      "date": "June 30, 2026",
+      "type": "News",
+      "summary_en": "Student orientation leaders for the annual SOAR program spend their summers guiding incoming UW–Madison students through their transition to college.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Important details regarding campus cooling issues",
       "url": "https://alerts.wisc.edu/",

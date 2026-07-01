@@ -11092,5 +11092,71 @@
     "fetch_time": "2026-06-30T12:00:30.609607",
     "title": "Trump Administration NEPA Reforms: A Win for All Americans",
     "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/06/30/about-a-third-of-us-democrats-like-political-leaders-who-identify-as-democratic-socialists/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-06-30T20:00:06.988681",
+    "title": "About a third of U.S. Democrats like political leaders who identify as democratic socialists",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/june/world-cup-soccer.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-06-30T20:00:08.002982",
+    "title": "Billikens Excited to See One of Their Own in World Cup",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/care-services-climate-adaptation-finance/": {
+    "source": "brookings",
+    "fetch_time": "2026-06-30T20:00:10.639771",
+    "title": "Making a case for integrating a comprehensive care services infrastructure into climate adaptation planning and finance",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/helping-new-badgers-feel-at-home/": {
+    "source": "uw_news",
+    "fetch_time": "2026-06-30T20:00:18.669393",
+    "title": "Helping new Badgers feel at home",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/supreme-court-sides-with-red-states-over-bans-on-trans-athletes/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-30T20:00:19.107327",
+    "title": "Supreme Court Sides With Red States Over Bans on Trans Athletes",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/supreme-court-rejects-trumps-attempt-to-end-birthright-citizenship/": {
+    "source": "the74_news",
+    "fetch_time": "2026-06-30T20:00:19.107352",
+    "title": "Supreme Court Rejects Trump’s Attempt to End Birthright Citizenship",
+    "category": "general"
+  },
+  "https://www.ed.gov/about/news/press-release/presidential-1776-award-ultimate-civics-showdown-air-cbs-tonight": {
+    "source": "edgov",
+    "fetch_time": "2026-06-30T20:00:19.927270",
+    "title": "“Presidential 1776 Award: The Ultimate Civics Showdown” to Air on CBS Tonight",
+    "category": "ai"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-partners-us-department-of-justice-protect-parental-rights": {
+    "source": "edgov",
+    "fetch_time": "2026-06-30T20:00:19.927300",
+    "title": "U.S. Department of Education Partners with the U.S. Department of Justice to Protect Parental Rights",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/cse-student-named-18th-block-captain-university-minnesota-marching-band": {
+    "source": "umn_cse",
+    "fetch_time": "2026-06-30T20:00:23.844994",
+    "title": "CSE student named 18th Block Captain for University of Minnesota Marching Band",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/endresshauser-deepens-purdue-mac-partnership-new-studio-designed-strengthen-future": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-06-30T20:00:28.005664",
+    "title": "Endress+Hauser deepens Purdue IN-MaC partnership with new studio designed to strengthen future workforce",
+    "category": "general"
+  },
+  "https://www.mtu.edu/news/2026/06/kelly-kamm-honored-with-faculty-distinguished-service-award-for-public-health-initiatives.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-06-30T20:00:29.316073",
+    "title": "Kelly Kamm Honored with Faculty Distinguished Service Award for Public Health Initiatives",
+    "category": "education"
   }
 }

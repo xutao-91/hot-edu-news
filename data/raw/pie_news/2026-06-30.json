@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-06-30T12:00:09.278195",
-  "total_news": 8,
+  "crawled_at": "2026-06-30T20:00:08.104835",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Student visa fees rise again as Australia adds ELICOS pricing tier",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-06-30",
+      "type": "Policy",
+      "summary_en": "Australia has hiked visa fees overnight, lifting the student visa to AUD $2,500 and introducing a separate $2,050 ELICOS rate.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
     {
       "title": "UK universities to sponsor refugees under new asylum “safe routes” overhaul",
       "url": "https://thepienews.com/category/news/immigration/",

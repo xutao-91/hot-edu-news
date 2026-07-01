@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-06-30T12:00:21.960070",
+  "crawled_at": "2026-06-30T20:00:18.310578",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,23 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.890275"
+      "crawled_at": "2026-06-30T20:00:18.104070"
+    },
+    {
+      "title": "Supreme Court Sides With Red States Over Bans on Trans Athletes",
+      "url": "https://www.the74million.org/article/supreme-court-sides-with-red-states-over-bans-on-trans-athletes/",
+      "date": "June 30, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-30T20:00:18.120323"
+    },
+    {
+      "title": "Supreme Court Rejects Trump’s Attempt to End Birthright Citizenship",
+      "url": "https://www.the74million.org/article/supreme-court-rejects-trumps-attempt-to-end-birthright-citizenship/",
+      "date": "June 30, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-30T20:00:18.129779"
     },
     {
       "title": "Lānaʻi School Relies on Temporary Power Lines for Years",
@@ -18,7 +34,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.896252"
+      "crawled_at": "2026-06-30T20:00:18.139243"
     },
     {
       "title": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class",
@@ -26,23 +42,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.900593"
-    },
-    {
-      "title": "Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts",
-      "url": "https://www.the74million.org/article/alaska-districts-close-12-schools-this-year-amid-severe-budget-cuts/",
-      "date": "June 30, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.903906"
-    },
-    {
-      "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
-      "url": "https://www.the74million.org/article/incumbent-vp-top-state-union-leaders-among-candidates-for-nea-president/",
-      "date": "June 30, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.907550"
+      "crawled_at": "2026-06-30T20:00:18.148854"
     },
     {
       "title": "New Report Finds Five-Year Drop in Preschool Enrollment, but COVID’s Effects Loom",
@@ -50,7 +50,23 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.909909"
+      "crawled_at": "2026-06-30T20:00:18.157379"
+    },
+    {
+      "title": "Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts",
+      "url": "https://www.the74million.org/article/alaska-districts-close-12-schools-this-year-amid-severe-budget-cuts/",
+      "date": "June 29, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-30T20:00:18.165991"
+    },
+    {
+      "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
+      "url": "https://www.the74million.org/article/incumbent-vp-top-state-union-leaders-among-candidates-for-nea-president/",
+      "date": "June 29, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-06-30T20:00:18.174375"
     },
     {
       "title": "NYC Delays School AI Guidance After Backlash",
@@ -58,7 +74,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.912268"
+      "crawled_at": "2026-06-30T20:00:18.182802"
     },
     {
       "title": "This Childcare Program Is 100% Employee-Owned. Will It Help Retain Workers?",
@@ -66,7 +82,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.914626"
+      "crawled_at": "2026-06-30T20:00:18.185246"
     },
     {
       "title": "A Big Gamble on Revamping Petersburg’s Schools Fuels Hope in Virginia City",
@@ -74,7 +90,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.917034"
+      "crawled_at": "2026-06-30T20:00:18.196752"
     },
     {
       "title": "Decision Time Has Come for Newsom’s Proposal To Shift Control of CA Department of Education",
@@ -82,7 +98,7 @@
       "date": "June 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.919362"
+      "crawled_at": "2026-06-30T20:00:18.208214"
     },
     {
       "title": "Connecticut Schools Double Down on Early Detection to Help Reading Scores",
@@ -90,7 +106,7 @@
       "date": "June 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.924004"
+      "crawled_at": "2026-06-30T20:00:18.219651"
     },
     {
       "title": "What Should Delaware Do With Half-Empty Schools?",
@@ -98,7 +114,7 @@
       "date": "June 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.926800"
+      "crawled_at": "2026-06-30T20:00:18.231058"
     },
     {
       "title": "New York High Schoolers Might Be Getting a New Diploma. Here’s What to Know.",
@@ -106,7 +122,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.929166"
+      "crawled_at": "2026-06-30T20:00:18.233486"
     },
     {
       "title": "Rural Areas of Indiana Have Few School Options",
@@ -114,7 +130,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.932786"
+      "crawled_at": "2026-06-30T20:00:18.245125"
     },
     {
       "title": "In ‘Toy Story 5,’ Tech ‘Invades’ Playtime. It Also Threatens Human Connection.",
@@ -122,7 +138,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.935035"
+      "crawled_at": "2026-06-30T20:00:18.253589"
     },
     {
       "title": "Texas Quietly Began Work on Divisive History Curriculum a Year Ago",
@@ -130,7 +146,7 @@
       "date": "June 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.937286"
+      "crawled_at": "2026-06-30T20:00:18.262087"
     },
     {
       "title": "‘Historic’: Kansas City Public Schools Teachers Win 5% Raise",
@@ -138,7 +154,7 @@
       "date": "June 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.939597"
+      "crawled_at": "2026-06-30T20:00:18.270659"
     },
     {
       "title": "Democrats Move to Impeach Linda McMahon Over ‘Willful Intent’ to Close Ed Dept.",
@@ -146,7 +162,7 @@
       "date": "June 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.942286"
+      "crawled_at": "2026-06-30T20:00:18.275364"
     },
     {
       "title": "Wisconsin’s Childcare Providers Face Uncertainty As Funding Comes to an End",
@@ -154,7 +170,7 @@
       "date": "June 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.944558"
+      "crawled_at": "2026-06-30T20:00:18.284107"
     },
     {
       "title": "Splitting Up Special Ed and Civil Rights Will Dilute Services, Experts Say",
@@ -162,7 +178,7 @@
       "date": "June 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.947030"
+      "crawled_at": "2026-06-30T20:00:18.286402"
     },
     {
       "title": "LAUSD Board Appoints Longtime Administrator Andres Chait as Next Superintendent",
@@ -170,7 +186,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.949509"
+      "crawled_at": "2026-06-30T20:00:18.299281"
     },
     {
       "title": "How the Story of Young George Washington Offers Some Important Civic Lessons",
@@ -178,7 +194,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.952223"
+      "crawled_at": "2026-06-30T20:00:18.307955"
     },
     {
       "title": "Iowa Audit Analyzes Impact of State’s Education Savings Account Program",
@@ -186,23 +202,7 @@
       "date": "June 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.954498"
-    },
-    {
-      "title": "Hope, Sadness and Uncertainty Follow After Carvalho Resigns as LAUSD Superintendent",
-      "url": "https://www.the74million.org/article/hope-sadness-and-uncertainty-follow-after-carvalho-resigns-as-lausd-superintendent/",
-      "date": "June 24, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.956829"
-    },
-    {
-      "title": "What Today’s College Students Need That Previous Generations Didn’t",
-      "url": "https://www.the74million.org/article/what-todays-college-students-need-that-previous-generations-didnt/",
-      "date": "June 23, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-06-30T12:00:21.959631"
+      "crawled_at": "2026-06-30T20:00:18.310232"
     }
   ]
 }

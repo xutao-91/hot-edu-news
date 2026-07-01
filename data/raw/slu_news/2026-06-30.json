@@ -1,7 +1,17 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-06-30T12:00:12.782499",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-30T20:00:07.430395",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Billikens Excited to See One of Their Own in World Cup",
+      "url": "https://www.slu.edu/news/2026/june/world-cup-soccer.php",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "Every four years, soccer fans across the globe stop to watch the men’s soccer World Cup. Saint Louis University men’s soccer coach Kevin Kalish is no different. Kalish (CSB ‘99) has plans to meet up with old SLU teammates and enjoy the role of fan as he watches the United States men’s soccer team. Kalish will be tuning in for Round of 32 where the USMNT will face Bosnia and Herzegovina at 7 p.m. o",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
 }

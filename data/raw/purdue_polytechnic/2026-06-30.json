@@ -1,7 +1,17 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-06-30T12:00:29.067856",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-06-30T20:00:27.460501",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Endress+Hauser deepens Purdue IN-MaC partnership with new studio designed to strengthen future workforce",
+      "url": "https://polytechnic.purdue.edu/newsroom/endresshauser-deepens-purdue-mac-partnership-new-studio-designed-strengthen-future",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    }
+  ]
 }
