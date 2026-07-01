@@ -1,0 +1,35 @@
+{
+  "source": "NEA Press Releases",
+  "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
+  "crawled_at": "2026-07-01T12:00:26.910085",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Student teacher from Illinois elected NEA Aspiring Educators Chairperson",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/student-teacher-illinois-elected-nea-aspiring-educators-chairperson",
+      "date": "2026-06-30",
+      "type": "Press Release",
+      "summary_en": "Stephanie Chávez, member of NEA Board of Directors, will mobilize future teachers to shape the direction of public education and grow our movement",
+      "source": "NEA News",
+      "category": "ai"
+    },
+    {
+      "title": "In a win for U.S.-born children, Supreme Court reaffirms birthright citizenship",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/win-us-born-children-supreme-court-reaffirms-birthright-citizenship",
+      "date": "2026-06-30",
+      "type": "Press Release",
+      "summary_en": "Court rejects Trump’s attempt to redefine who is American",
+      "source": "NEA News",
+      "category": "general"
+    },
+    {
+      "title": "NEA President: Supreme Court decision will impact not only transgender student-athletes but students of all genders",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-president-supreme-court-decision-will-impact-not-only-transgender-student-athletes-students-all",
+      "date": "2026-06-30",
+      "type": "Press Release",
+      "summary_en": "“We will not rest until every student has fully resourced, inclusive, and supportive schools—including where LGBTQ+ youth are free to be their authentic selves and pursue their dreams.”",
+      "source": "NEA News",
+      "category": "political"
+    }
+  ]
+}

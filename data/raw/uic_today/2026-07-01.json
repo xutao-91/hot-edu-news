@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-07-01T12:00:25.476963",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Cardiovascular disease risk tied to vision loss in Latino adults",
+      "url": "https://today.uic.edu/cardiovascular-disease-risk-factors-linked-to-vision-loss-in-hispanic-latino-adults/",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "The study found having more risk factors made visual impairment more likely.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "In London and Milan, engineering students get in-depth look at tech field",
+      "url": "https://today.uic.edu/in-london-and-milan-engineering-students-get-in-depth-look-at-tech-field/",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "UIC students visited biomedical engineering startups in England and Italy.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}
