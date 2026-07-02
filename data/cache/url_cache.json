@@ -11356,5 +11356,41 @@
     "fetch_time": "2026-07-01T20:00:30.442761",
     "title": "Supreme Court Bolsters President Trump’s Push to Eliminate Transgender Insanity",
     "category": "general"
+  },
+  "https://www.slu.edu/news/2026/july/ajay-jain-medicine-award-merit.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-02T12:00:08.735268",
+    "title": "Jain Honored for Outstanding Contributions to Scientific Medicine",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/regenerative-ag-soil-health-research-with-kansas-farmers.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-02T12:00:09.268924",
+    "title": "K-State conducts regenerative agriculture research alongside Kansas farmers",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/eight-huskers-earn-peace-corps-prep-certificate": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-02T12:00:16.358828",
+    "title": "Eight Huskers earn Peace Corps Prep certificate",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/business/unis-family-business-center-expands-industry-network-four-leading-iowa-firms": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-02T12:00:19.128078",
+    "title": "UNI’s Family Business Center expands industry network with four leading Iowa firms",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/before-brown-v-board-another-segregation-case-changed-public-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-02T12:00:21.686424",
+    "title": "Before Brown v. Board, Another Segregation Case Changed Public Schools",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-student-from-lawrence-named-astronaut-scholar": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-02T12:00:26.668587",
+    "title": "KU student from Lawrence named Astronaut Scholar",
+    "category": "education"
   }
 }

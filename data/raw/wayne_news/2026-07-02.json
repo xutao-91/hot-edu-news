@@ -1,0 +1,17 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-07-02T12:00:14.936413",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "BOG Notebook: Wayne State Board of Governors adopts refreshed strategic plan, moves forward with emerging school of public health, approves FY 2027 budget",
+      "url": "https://today.wayne.edu/news/2026/06/29/bog-notebook-wayne-state-board-of-governors-adopts-refreshed-strategic-plan-moves-forward-with-emerging-school-of-public-health-approves-fy-2027-budget-69679",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    }
+  ]
+}

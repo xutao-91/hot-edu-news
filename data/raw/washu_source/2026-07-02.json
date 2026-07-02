@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-07-02T12:00:15.539859",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "‘Carolina Caycedo: Growing Deep Roots’",
+      "url": "https://source.washu.edu/2026/06/carolina-caycedo-growing-deep-roots/",
+      "date": "2026-06-30",
+      "type": "Art & Design",
+      "summary_en": "The Kemper Art Museum at Washington University in St. Louis will present “Carolina Caycedo: Growing Deep Roots,” a solo exhibition of new and recent work by the Los Angeles–based Colombian artist Carolina Caycedo, Sept. 9 to Jan. 4.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "First Amendment Clinic students get real-world experience, results",
+      "url": "https://source.washu.edu/2026/06/first-amendment-clinic-students-get-real-world-experience-results/",
+      "date": "2026-06-29",
+      "type": "Law",
+      "summary_en": "The First Amendment Clinic at Washington University in St. Louis School of Law has secured several major courtroom victories in recent years, influenced public policy and trained a new generation of advocates defending freedom of expression.Now, a major investment from the Stanton Foundation will ensure the clinic’s work continues well into the future.",
+      "source": "WashU Source",
+      "category": "campus"
+    }
+  ]
+}

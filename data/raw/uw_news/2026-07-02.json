@@ -1,0 +1,62 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-02T12:00:18.611908",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "The future is now: College of Computing & Artificial Intelligence officially launches",
+      "url": "https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/",
+      "date": "July 1, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s first new college in more than four decades will explore and inform technological change for societal benefit.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Veteran college athletics administrator Shawn Eichorst appointed University of Wisconsin Director of Athletics",
+      "url": "https://uwbadgers.com/feature/eichorst-wisconsin-director-of-athletics",
+      "date": "July 1, 2026",
+      "type": "News",
+      "summary_en": "A proven and respected college sports executive, attorney and former collegiate athlete, Shawn Eichorst has been appointed as the University of Wisconsin–Madison's Director of Athletics.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Helping new Badgers feel at home",
+      "url": "https://news.wisc.edu/helping-new-badgers-feel-at-home/",
+      "date": "June 30, 2026",
+      "type": "News",
+      "summary_en": "Student orientation leaders for the annual SOAR program spend their summers guiding incoming UW–Madison students through their transition to college.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "June 30 campus cooling update",
+      "url": "https://news.wisc.edu/june-30-campus-cooling-update/",
+      "date": "June 30, 2026",
+      "type": "News",
+      "summary_en": "From: Robert Cramer, Vice Chancellor for Finance and Administration To the campus community, Latest information about campus cooling issues Find the…",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Important details regarding campus cooling issues",
+      "url": "https://news.wisc.edu/campus-cooling-issues/",
+      "date": "June 29, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison is open, but the university is adjusting many building operations because of limited availability of air conditioning.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "With a focus on the Great Lakes, UW faculty and staff reflect on the Wisconsin Idea",
+      "url": "https://news.wisc.edu/with-a-focus-on-the-great-lakes-uw-faculty-and-staff-reflect-on-the-wisconsin-idea/",
+      "date": "June 29, 2026",
+      "type": "News",
+      "summary_en": "This year’s Wisconsin Idea Seminar highlighted the ancient waterways of Wisconsin and how they continue to sustain life and community across the state.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    }
+  ]
+}

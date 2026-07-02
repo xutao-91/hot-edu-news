@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-02T12:00:29.424990",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Thirteen UChicago faculty members receive named, distinguished service professorships in July 2026",
+      "url": "https://news.uchicago.edu/story/thirteen-uchicago-faculty-members-receive-named-distinguished-service-professorships-july",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Fourteen members of the University of Chicago faculty have received distinguished service professorships or named professorships.",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "As America turns 250, how the Declaration of Independence endures",
+      "url": "https://news.uchicago.edu/story/america-turns-250-how-declaration-independence-endures",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "UChicago scholars explore what the words promised to a new nation, and how generations transformed them since",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Teen Takeovers, Summer Violence, and the Search for Solutions",
+      "url": "https://news.uchicago.edu/teen-takeovers-summer-violence-and-search-solutions",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Competition may push AI firms to favor speed over safety, new study finds",
+      "url": "https://news.uchicago.edu/story/competition-may-push-ai-firms-favor-speed-over-safety-new-study-finds",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "UChicago researchers highlight how incentives, market structure and public policy guide AI development toward artificial general intelligence",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

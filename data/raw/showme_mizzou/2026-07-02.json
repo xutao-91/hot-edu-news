@@ -1,0 +1,44 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-07-02T12:00:18.054161",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Mizzou uncovers breakthrough clue to help soybeans fight a billion-dollar pest",
+      "url": "https://showme.missouri.edu/2026/mizzou-uncovers-breakthrough-clue-to-help-soybeans-fight-a-billion-dollar-pest/",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Mizzou researchers study plant resistance to the worms that cause $1 billion in annual losses to U.S. soybean industry.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou helps alumna relish her Wienermobile experience",
+      "url": "https://showme.missouri.edu/2026/mizzou-helps-alumna-relish-her-wienermobile-experience/",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "Spending a year driving the Oscar Mayer Wienermobile gave one alumna a powerful start to her career in public relations.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Bess Pierce inducted as a fellow of the Veterinary Medicine Academy",
+      "url": "https://showme.missouri.edu/2026/bess-pierce-inducted-as-a-fellow-of-the-veterinary-medicine-academy/",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "Pierce’s work in rehabilitation, teaching and team-based care is earning national recognition and shaping how the next generation of veterinarians thinks about outcomes.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "The pursuit of happiness: Mizzou scholars explore an American ideal as the nation turns 250",
+      "url": "https://showme.missouri.edu/2026/the-pursuit-of-happiness-mizzou-scholars-explore-an-american-ideal-as-the-nation-turns-250/",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "At the University of Missouri, experts in law, classical studies and philosophy weigh in on the question that helped build the country.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

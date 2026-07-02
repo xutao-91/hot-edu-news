@@ -1,0 +1,62 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-07-02T12:00:26.041852",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "KU student from Lawrence named Astronaut Scholar",
+      "url": "https://news.ku.edu/news/article/ku-student-from-lawrence-named-astronaut-scholar",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "Arthur Benson, a Lawrence native and School of Engineering student, has been named a 2026-2027 Astronaut Scholar. The program awards approximately 60 scholarships annually to sophomores and juniors in STEM who demonstrate exceptional academic performance, significant research experience and a commitment to pursuing a career in research.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Audio-Reader receives 3 awards, honorable mention from the International Association of Audio Information Services",
+      "url": "https://news.ku.edu/news/article/audio-reader-receives-3-awards-honorable-mention-from-the-international-association-of-audio-information-services",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Audio-Reader, based at the University of Kansas, was recently honored at the 2026 Annual IAAIS Program Awards presentation. Awarded categories include Newspapers, Magazines, Books/Short Story Programs and the Now Hear This category for short works.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Study reveals what people really see when they read lips",
+      "url": "https://news.ku.edu/news/article/study-reveals-what-people-really-see-when-they-read-lips",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "New research from the University of Kansas uses network science to determine why people make mistakes when lip reading. The research could improve lip-reading training as well as help the advancement of automatic transcription. The results appear in the Journal of the Acoustical Society of America.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU scholar can comment on president’s planned July 4 remarks about nation’s 250th anniversary",
+      "url": "https://news.ku.edu/news/article/ku-scholar-can-comment-on-presidents-planned-july-4-remarks-about-nations-250th-anniversary",
+      "date": "2026-06-30",
+      "type": "News",
+      "summary_en": "Robert Rowland, a communication studies scholar and presidential rhetoric expert at the University of Kansas, can discuss President Donald Trump’s planned July 4 remarks at the nation’s 250th anniversary celebration and how the president’s remarks are a radical departure from traditional presidential rhetoric.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Official newspaper of China has reduced foreign news coverage during President Xi Jinping’s administration, study finds",
+      "url": "https://news.ku.edu/news/article/official-newspaper-of-china-has-reduced-foreign-news-coverage-during-president-xi-jinpings-administration-study-finds",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "In a new article, Jack Zhang, associate professor of political science at the University of Kansas, finds that the People’s Daily newspaper has reduced foreign news coverage during President Xi Jinping’s administration, suggesting such coverage is influenced more by domestic politics than by China’s growing international interests.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Jayhawks compete in 2025-2026 math events",
+      "url": "https://news.ku.edu/news/article/jayhawks-compete-in-2025-2026-math-events",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "University of Kansas students recently competed at math events at the local, state and national level. KU undergraduate students took fourth and eighth place in the team competition at the 2026 Kansas Collegiate Math Competition.",
+      "source": "KU News",
+      "category": "event"
+    }
+  ]
+}

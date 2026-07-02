@@ -1,0 +1,62 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-02T12:00:08.534841",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "K-State conducts regenerative agriculture research alongside Kansas farmers",
+      "url": "https://www.k-state.edu/news/articles/2026/07/regenerative-ag-soil-health-research-with-kansas-farmers.html",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "As K-State works to advance agriculture, it leverages a network of Kansas farmers, known as the Kansas Soil Health Network, to conduct soil research at seven farms across the state....",
+      "source": "K-State News",
+      "category": "research"
+    },
+    {
+      "title": "Outstanding K-State graduate researchers recognized for advancing discovery in human health and agricultural pest management",
+      "url": "https://www.k-state.edu/news/articles/2026/07/sarachek-awards-recognize-research-and-scholarship.html",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Three K-State doctoral students have earned 2026 Sarachek Predoctoral Honors awards for research pushing the boundaries of science and innovation. From new strategies to fight antibiotic-resistant...",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "Carl R. Ice College of Engineering names Pahwa interim associate dean for research and graduate programs",
+      "url": "https://www.k-state.edu/news/articles/2026/07/anil-pahwa-interim-associate-dean-college-of-engineering.html",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Anil Pahwa has been named interim associate dean for research and graduate programs for the Carl R. Ice College of Engineering by interim dean Bradley Kramer, effective June 29.",
+      "source": "K-State News",
+      "category": "research"
+    },
+    {
+      "title": "Powercat Motorsports finishes top three at Formula SAE Michigan",
+      "url": "https://www.k-state.edu/news/articles/2026/06/powercat-motorsports-top-three-finish-formula-sae-michigan.html",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "The team's trend of constant improvement at the competition continued in 2026 with the club cracking the top three at Formula SAE Michigan, once again resetting the mark for the best...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Mariah Welton-Crouser",
+      "url": "https://www.k-state.edu/news/articles/2026/06/mariah-welton-crouser-compassionate-compensation-practices.html",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "As a compensation analyst, Mariah Welton-Crouser helps balance organizational needs with fairness for employees.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "K-State graduate student explores cattle grazing as invasive grass management tool",
+      "url": "https://www.k-state.edu/news/articles/2026/06/grazing-tool-for-invasive-grass-macholan-research.html",
+      "date": "2026-06-29",
+      "type": "News",
+      "summary_en": "Tasha Macholan is studying whether one routine management decision — where producers place cattle supplement — could improve calf performance while helping manage invasive Old World...",
+      "source": "K-State News",
+      "category": "students"
+    }
+  ]
+}

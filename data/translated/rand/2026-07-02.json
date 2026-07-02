@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Insights from table-top exercises in Europe on AI safety and cyber misuse",
+    "url": "https://www.rand.org/pubs/research_reports/RRA5082-1.html",
+    "date": "Jul 1, 2026",
+    "type": "Research",
+    "summary_en": "This report presents findings from table-top exercises with senior policymakers in Germany, the Netherlands, and France, identifying governance gaps and capability priorities for responding to AI-enabled cyberattack crises.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Insights from table-top exercises in Europe on AI safety and cyber misuse",
+    "summary_cn": "",
+    "_sort_date": "2026-07-01"
+  },
+  {
+    "title": "The Ecology of AI Risk",
+    "url": "https://www.rand.org/pubs/external_publications/EP71375.html",
+    "date": "Jun 29, 2026",
+    "type": "Research",
+    "summary_en": "Building on the idea of studying AI using ecological and evolutionary perspectives, we propose a novel approach for assessing risk from AI using indicators derived from theoretical ecology models.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "The Ecology of AI Risk",
+    "summary_cn": "",
+    "_sort_date": "2026-06-29"
+  }
+]
