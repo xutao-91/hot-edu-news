@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-07-01T12:00:23.764223",
-  "total_news": 3,
+  "crawled_at": "2026-07-01T20:00:22.744651",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Needed: Food, Energy, and Water Security",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/needed-food-energy-and-water-security",
+      "date": "July 1, 2026",
+      "type": "News",
+      "summary_en": "Dave Cappelleri's work in IoT4Ag, an NSF Engineering Research Center, is putting autonomous ag-robots and physical AI to work on the grand challenge of feeding a growing planet.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "Lombardo named EPICS at Purdue director",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0701-chris-lombardo-epics-purdue-director-engineers-without-borders",

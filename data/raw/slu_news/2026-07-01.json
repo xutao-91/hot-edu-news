@@ -1,9 +1,18 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-07-01T12:00:07.982066",
-  "total_news": 1,
+  "crawled_at": "2026-07-01T20:00:06.720894",
+  "total_news": 2,
   "news": [
+    {
+      "title": "SLU’s President Meets Pope Leo XIV During Gathering of Jesuit University Leaders in Rome",
+      "url": "https://www.slu.edu/news/2026/july/pope-leo-meeting-ajcu-rome-trip.php",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "The presidents of 19 Jesuit colleges and universities in North America recently traveled to Rome for a series of meetings coordinated by the Association of Jesuit Colleges and Universities (AJCU). SLU President Edward Feser, Ph.D., who was joined by his wife Kathy Feser, said it was “deeply moving” to hear from and pray alongside the Holy Father.",
+      "source": "SLU News",
+      "category": "general"
+    },
     {
       "title": "Billikens Excited to See One of Their Own in World Cup",
       "url": "https://www.slu.edu/news/2026/june/world-cup-soccer.php",

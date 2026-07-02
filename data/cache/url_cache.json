@@ -11296,5 +11296,65 @@
     "fetch_time": "2026-07-01T12:00:32.193383",
     "title": "Applications Open for Butler University’s Master of Science in Nursing–Entry-to-Practice Program",
     "category": "education"
+  },
+  "https://www.slu.edu/news/2026/july/pope-leo-meeting-ajcu-rome-trip.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-01T20:00:07.161501",
+    "title": "SLU’s President Meets Pope Leo XIV During Gathering of Jesuit University Leaders in Rome",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/u-m-shrinks-pay-for-dearborn-flint-chancellors-as-it-doubles-it-in-ann-arbor/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-01T20:00:12.098275",
+    "title": "U-M shrinks pay for Dearborn, Flint chancellors as it doubles it in Ann Arbor",
+    "category": "education"
+  },
+  "https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-01T20:00:19.246572",
+    "title": "The future is now: College of Computing & Artificial Intelligence officially launches",
+    "category": "education"
+  },
+  "https://news.wisc.edu/june-30-campus-cooling-update/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-01T20:00:19.246596",
+    "title": "June 30 campus cooling update",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/campus-cooling-issues/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-01T20:00:19.246607",
+    "title": "Important details regarding campus cooling issues",
+    "category": "education"
+  },
+  "https://news.wisc.edu/update-important-details-regarding-campus-cooling-issues/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-01T20:00:19.246617",
+    "title": "Update: Important details regarding campus cooling issues",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-marks-end-of-second-annual-title-ix-month-major-enforcement-recap": {
+    "source": "edgov",
+    "fetch_time": "2026-07-01T20:00:21.959963",
+    "title": "U.S. Department of Education Marks End of Second Annual Title IX Month with Major Enforcement Recap",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/needed-food-energy-and-water-security": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-01T20:00:23.404827",
+    "title": "Needed: Food, Energy, and Water Security",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/Wu-named-Fellow-of-Electrochemical-Society.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-01T20:00:28.508120",
+    "title": "Wu named Fellow of Electrochemical Society",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/06/supreme-court-bolsters-president-trumps-push-to-eliminate-transgender-insanity/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-01T20:00:30.442761",
+    "title": "Supreme Court Bolsters President Trump’s Push to Eliminate Transgender Insanity",
+    "category": "general"
   }
 }
