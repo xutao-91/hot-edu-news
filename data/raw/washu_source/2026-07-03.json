@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-07-03T12:00:15.956493",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Bursky Public Health earns accreditation",
+      "url": "https://source.washu.edu/2026/07/bursky-public-health-earns-accreditation/",
+      "date": "2026-07-02",
+      "type": "Health & Society",
+      "summary_en": "Bursky Public Health met all 36 accreditation criteria while documenting a new institution still taking shape behind the scenes.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "‘Carolina Caycedo: Growing Deep Roots’",
+      "url": "https://source.washu.edu/2026/06/carolina-caycedo-growing-deep-roots/",
+      "date": "2026-06-30",
+      "type": "Art & Design",
+      "summary_en": "The Kemper Art Museum at Washington University in St. Louis will present “Carolina Caycedo: Growing Deep Roots,” a solo exhibition of new and recent work by the Los Angeles–based Colombian artist Carolina Caycedo, Sept. 9 to Jan. 4.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

@@ -11440,5 +11440,29 @@
     "fetch_time": "2026-07-02T20:00:30.572172",
     "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
     "category": "ai"
+  },
+  "https://www.the74million.org/article/california-bill-aims-to-enlist-educators-and-parents-in-preventing-youth-suicide/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-03T12:00:15.078877",
+    "title": "California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/campus-community/july-marks-major-milestones-uni-history": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-03T12:00:19.367087",
+    "title": "July marks major milestones in UNI history",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/husker-led-camp-helps-montecuollo-impact-families-battling-cancer": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-03T12:00:19.826437",
+    "title": "Husker-led camp helps Montecuollo impact families battling cancer",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/07/03/before-students-use-ai-they-should-prove-they-dont-need-it/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-03T12:00:21.097504",
+    "title": "Before students use AI, they should prove they don’t need it",
+    "category": "education"
   }
 }

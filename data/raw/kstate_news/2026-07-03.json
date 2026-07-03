@@ -1,0 +1,35 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-03T12:00:13.516788",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "K-State conducts regenerative agriculture research alongside Kansas farmers",
+      "url": "https://www.k-state.edu/news/articles/2026/07/regenerative-ag-soil-health-research-with-kansas-farmers.html",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "As K-State works to advance agriculture, it leverages a network of Kansas farmers, known as the Kansas Soil Health Network, to conduct soil research at seven farms across the state....",
+      "source": "K-State News",
+      "category": "research"
+    },
+    {
+      "title": "Outstanding K-State graduate researchers recognized for advancing discovery in human health and agricultural pest management",
+      "url": "https://www.k-state.edu/news/articles/2026/07/sarachek-awards-recognize-research-and-scholarship.html",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Three K-State doctoral students have earned 2026 Sarachek Predoctoral Honors awards for research pushing the boundaries of science and innovation. From new strategies to fight antibiotic-resistant...",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "Carl R. Ice College of Engineering names Pahwa interim associate dean for research and graduate programs",
+      "url": "https://www.k-state.edu/news/articles/2026/07/anil-pahwa-interim-associate-dean-college-of-engineering.html",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Anil Pahwa has been named interim associate dean for research and graduate programs for the Carl R. Ice College of Engineering by interim dean Bradley Kramer, effective June 29.",
+      "source": "K-State News",
+      "category": "research"
+    }
+  ]
+}
