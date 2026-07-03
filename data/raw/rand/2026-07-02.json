@@ -1,9 +1,18 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-07-02T12:00:30.533156",
-  "total_news": 2,
+  "crawled_at": "2026-07-02T20:00:30.391969",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+      "url": "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html",
+      "date": "Jul 2, 2026",
+      "type": "Commentary",
+      "summary_en": "With social media, product adoption raced ahead while Congress debated causation and passed no meaningful national protections for children. With AI chatbots, we still have a chance to build something sturdier.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
     {
       "title": "Insights from table-top exercises in Europe on AI safety and cyber misuse",
       "url": "https://www.rand.org/pubs/research_reports/RRA5082-1.html",

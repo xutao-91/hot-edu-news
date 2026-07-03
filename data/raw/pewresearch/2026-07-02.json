@@ -1,9 +1,21 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-02T12:00:07.063674",
-  "total_news": 5,
+  "crawled_at": "2026-07-02T20:00:07.370009",
+  "total_news": 6,
   "news": [
+    {
+      "title": "8 ways that U.S.-style democracy stands out globally",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/02/8-ways-that-us-style-democracy-stands-out-globally/",
+      "date": "Jul 2, 2026",
+      "type": "short reads",
+      "categories": [
+        "U S Democracy"
+      ],
+      "summary_en": "As the U.S. celebrates the 250th anniversary of the Declaration of Independence this year, here are eight ways its political system stands apart from the world’s other 105 democracies.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
     {
       "title": "Majority of Americans support banning social media for kids under 16",
       "url": "https://www.pewresearch.org/short-reads/2026/07/01/majority-of-americans-support-banning-social-media-for-kids-under-16/",

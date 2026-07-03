@@ -11392,5 +11392,53 @@
     "fetch_time": "2026-07-02T12:00:26.668587",
     "title": "KU student from Lawrence named Astronaut Scholar",
     "category": "education"
+  },
+  "https://www.brookings.edu/articles/learning-what-matters-in-chile/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-02T20:00:07.625545",
+    "title": "Learning what matters in Chile",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/02/8-ways-that-us-style-democracy-stands-out-globally/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-02T20:00:07.929642",
+    "title": "8 ways that U.S.-style democracy stands out globally",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/07/bursky-public-health-earns-accreditation/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-02T20:00:15.291995",
+    "title": "Bursky Public Health earns accreditation",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/campus-community/fireworks-over-dome-caps-historic-holiday-weekend-july-5": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-02T20:00:20.080017",
+    "title": "Fireworks Over the Dome caps off historic holiday weekend on July 5",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-help-train-over-115-k-12-teachers-teach-microelectronics-summer": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-02T20:00:28.042756",
+    "title": "Purdue Polytechnic to help train over 115 K-12 teachers to teach microelectronics in summer workshop",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/07/president-mung-chiang-first-day-at-northwestern": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-07-02T20:00:28.952762",
+    "title": "President’s first day: Mung Chiang is off and running",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/story/fossil-fish-preserved-brain-sheds-light-bottom-evolutionary-tree": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-02T20:00:29.919134",
+    "title": "Fossil fish with preserved brain sheds light on ‘bottom of the evolutionary tree’",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/commentary/2026/07/teens-are-turning-to-chatbots-for-mental-health-help.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-02T20:00:30.572172",
+    "title": "Teens Are Turning to Chatbots for Mental Health Help. We Need Rules to Keep Them Safe",
+    "category": "ai"
   }
 }
