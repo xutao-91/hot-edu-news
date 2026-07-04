@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-04T12:00:29.561657",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Fossil fish with preserved brain sheds light on ‘bottom of the evolutionary tree’",
+      "url": "https://news.uchicago.edu/story/fossil-fish-preserved-brain-sheds-light-bottom-evolutionary-tree",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "Scans of a 300-million-year-old minnow  reveal well-preserved neural tissues that can be used to study other early fish",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Thirteen UChicago faculty members receive named, distinguished service professorships in July 2026",
+      "url": "https://news.uchicago.edu/story/thirteen-uchicago-faculty-members-receive-named-distinguished-service-professorships-july",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Fourteen members of the University of Chicago faculty have received distinguished service professorships or named professorships.",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

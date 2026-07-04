@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-07-04T12:00:25.022326",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "KU student from Lawrence named Astronaut Scholar",
+      "url": "https://news.ku.edu/news/article/ku-student-from-lawrence-named-astronaut-scholar",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "Arthur Benson, a Lawrence native and School of Engineering student, has been named a 2026-2027 Astronaut Scholar. The program awards approximately 60 scholarships annually to sophomores and juniors in STEM who demonstrate exceptional academic performance, significant research experience and a commitment to pursuing a career in research.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Audio-Reader receives 3 awards, honorable mention from the International Association of Audio Information Services",
+      "url": "https://news.ku.edu/news/article/audio-reader-receives-3-awards-honorable-mention-from-the-international-association-of-audio-information-services",
+      "date": "2026-07-01",
+      "type": "News",
+      "summary_en": "Audio-Reader, based at the University of Kansas, was recently honored at the 2026 Annual IAAIS Program Awards presentation. Awarded categories include Newspapers, Magazines, Books/Short Story Programs and the Now Hear This category for short works.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

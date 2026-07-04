@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-04T12:00:18.341163",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The future is now: College of Computing & Artificial Intelligence officially launches",
+      "url": "https://news.wisc.edu/the-future-is-now-college-of-computing-artificial-intelligence-officially-launches/",
+      "date": "July 1, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s first new college in more than four decades will explore and inform technological change for societal benefit.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Veteran college athletics administrator Shawn Eichorst appointed University of Wisconsin Director of Athletics",
+      "url": "https://uwbadgers.com/feature/eichorst-wisconsin-director-of-athletics",
+      "date": "July 1, 2026",
+      "type": "News",
+      "summary_en": "A proven and respected college sports executive, attorney and former collegiate athlete, Shawn Eichorst has been appointed as the University of Wisconsin–Madison's Director of Athletics.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}
