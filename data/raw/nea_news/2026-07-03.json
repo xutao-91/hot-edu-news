@@ -1,9 +1,18 @@
 {
   "source": "NEA Press Releases",
   "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
-  "crawled_at": "2026-07-03T12:00:25.699274",
-  "total_news": 3,
+  "crawled_at": "2026-07-03T20:00:24.012954",
+  "total_news": 4,
   "news": [
+    {
+      "title": "NEA Names WNBA Legend Helen Darling as its next Read Across America Ambassador",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-names-wnba-legend-helen-darling-its-next-read-across-america-ambassador",
+      "date": "2026-07-03",
+      "type": "Press Release",
+      "summary_en": "“A child with a book in their hands has an opportunity in front of them.\"",
+      "source": "NEA News",
+      "category": "general"
+    },
     {
       "title": "Student teacher from Illinois elected NEA Aspiring Educators Chairperson",
       "url": "https://www.nea.org/about-nea/media-center/press-releases/student-teacher-illinois-elected-nea-aspiring-educators-chairperson",

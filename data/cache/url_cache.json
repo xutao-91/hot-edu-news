@@ -11464,5 +11464,23 @@
     "fetch_time": "2026-07-03T12:00:21.097504",
     "title": "Before students use AI, they should prove they don’t need it",
     "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-names-wnba-legend-helen-darling-its-next-read-across-america-ambassador": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-03T20:00:24.697846",
+    "title": "NEA Names WNBA Legend Helen Darling as its next Read Across America Ambassador",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-03T20:00:31.279292",
+    "title": "250th Anniversary of the Adoption of the Declaration of Independence",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-03T20:00:31.279340",
+    "title": "One Year Later: President Trump’s Working Families Tax Cuts Are Delivering for American Workers",
+    "category": "semiconductor"
   }
 }

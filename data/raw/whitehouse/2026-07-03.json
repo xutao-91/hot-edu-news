@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-03T12:00:30.267400",
-  "total_news": 2,
+  "crawled_at": "2026-07-03T20:00:31.043324",
+  "total_news": 4,
   "news": [
+    {
+      "title": "250th Anniversary of the Adoption of the Declaration of Independence",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/",
+      "date": "July 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "One Year Later: President Trump’s Working Families Tax Cuts Are Delivering for American Workers",
+      "url": "https://www.whitehouse.gov/releases/2026/07/one-year-later-president-trumps-working-families-tax-cuts-are-delivering-for-american-workers/",
+      "date": "July 3, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Supreme Court Bolsters President Trump’s Push to Eliminate Transgender Insanity",
       "url": "https://www.whitehouse.gov/releases/2026/06/supreme-court-bolsters-president-trumps-push-to-eliminate-transgender-insanity/",
