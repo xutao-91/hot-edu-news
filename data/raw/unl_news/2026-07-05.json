@@ -1,0 +1,26 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-05T12:00:15.925887",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Husker-led camp helps Montecuollo impact families battling cancer",
+      "url": "https://news.unl.edu/article/husker-led-camp-helps-montecuollo-impact-families-battling-cancer",
+      "date": "2026-07-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Eight Huskers earn Peace Corps Prep certificate",
+      "url": "https://news.unl.edu/article/eight-huskers-earn-peace-corps-prep-certificate",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-05T12:00:10.574664",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "K-State conducts regenerative agriculture research alongside Kansas farmers",
+      "url": "https://www.k-state.edu/news/articles/2026/07/regenerative-ag-soil-health-research-with-kansas-farmers.html",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "As K-State works to advance agriculture, it leverages a network of Kansas farmers, known as the Kansas Soil Health Network, to conduct soil research at seven farms across the state....",
+      "source": "K-State News",
+      "category": "research"
+    }
+  ]
+}

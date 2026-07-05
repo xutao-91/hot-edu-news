@@ -11512,5 +11512,23 @@
     "fetch_time": "2026-07-04T20:00:29.545110",
     "title": "Saving America’s Story",
     "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/in-memoriam-emeritus-trustee-martin-naughton/": {
+    "source": "nd_news",
+    "fetch_time": "2026-07-05T12:00:08.377471",
+    "title": "In Memoriam: Emeritus Trustee Martin Naughton",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/mississippi-focuses-on-boosting-middle-school-students-reading-scores/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-05T12:00:15.895284",
+    "title": "Mississippi Focuses on Boosting Middle School Students’ Reading Scores",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/california-school-libraries-blindsided-by-catastrophic-budget-cut/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-05T12:00:15.895311",
+    "title": "California School Libraries Blindsided by ‘Catastrophic’ Budget Cut",
+    "category": "education"
   }
 }

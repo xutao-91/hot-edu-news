@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-07-05T12:00:16.418980",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Jain Honored for Outstanding Contributions to Scientific Medicine",
+      "url": "https://www.slu.edu/news/2026/july/ajay-jain-medicine-award-merit.php",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "Saint Louis University Professor of Pediatrics Ajay Jain, M.D., has earned the St. Louis Metropolitan Medicine Award of Merit. The St. Louis Metropolitan Medicine Society recognized Jain for his national leadership in pediatric gastroenterology and nutrition, excellence in research and clinical innovation, and advancing pediatric care, physician leadership, and organized medicine.",
+      "source": "SLU News",
+      "category": "health"
+    }
+  ]
+}

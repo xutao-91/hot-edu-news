@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-07-05T12:00:19.390356",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "July marks major milestones in UNI history",
+      "url": "https://insideuni.uni.edu/campus-community/july-marks-major-milestones-uni-history",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "As we celebrate the UNI Sesquicentennial, July brings several significant anniversaries in the university's history.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Fireworks Over the Dome caps off historic holiday weekend on July 5",
+      "url": "https://insideuni.uni.edu/campus-community/fireworks-over-dome-caps-historic-holiday-weekend-july-5",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "Originally scheduled for July 2, the event was moved because of inclement weather, creating a fitting grand finale to the extended holiday weekend.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI’s Family Business Center expands industry network with four leading Iowa firms",
+      "url": "https://insideuni.uni.edu/business/unis-family-business-center-expands-industry-network-four-leading-iowa-firms",
+      "date": "2026-07-02",
+      "type": "News",
+      "summary_en": "Four Iowa firms have pledged their support to the University of Northern Iowa Family Business Center (FBC) for the 2026-27 program year.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
