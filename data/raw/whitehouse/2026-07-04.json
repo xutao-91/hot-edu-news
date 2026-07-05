@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-04T12:00:29.883268",
-  "total_news": 2,
+  "crawled_at": "2026-07-04T20:00:29.334489",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Saving America’s Story",
+      "url": "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/",
+      "date": "July 4, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "250th Anniversary of the Adoption of the Declaration of Independence",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/07/250th-anniversary-of-the-adoption-of-the-declaration-of-independence/",

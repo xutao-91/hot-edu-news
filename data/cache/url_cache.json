@@ -11494,5 +11494,23 @@
     "fetch_time": "2026-07-04T12:00:24.341496",
     "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
     "category": "general"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-recognizes-ten-exceptional-individuals-and-organizations-its-highest-honor": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-04T20:00:23.899197",
+    "title": "NEA Recognizes Ten Exceptional Individuals and Organizations with Its Highest Honor",
+    "category": "general"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/becky-pringle-addresses-delegates-105th-representative-assembly": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-04T20:00:23.899229",
+    "title": "Becky Pringle addresses delegates to the 105th Representative Assembly",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-04T20:00:29.545110",
+    "title": "Saving America’s Story",
+    "category": "semiconductor"
   }
 }
