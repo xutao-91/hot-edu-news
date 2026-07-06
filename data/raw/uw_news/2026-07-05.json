@@ -1,7 +1,17 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-05T12:00:19.816098",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-05T20:00:19.128967",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Celebrating America’s 250th at the Terrace",
+      "url": "https://news.wisc.edu/celebrating-americas-250th-at-the-terrace/",
+      "date": "July 5, 2026",
+      "type": "News",
+      "summary_en": "The Stars, Stripes & Shorelines event put on a red, white and blue spectacle for the UW–Madison community.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
 }

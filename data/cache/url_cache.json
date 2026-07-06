@@ -11530,5 +11530,41 @@
     "fetch_time": "2026-07-05T12:00:15.895311",
     "title": "California School Libraries Blindsided by ‘Catastrophic’ Budget Cut",
     "category": "education"
+  },
+  "https://news.wisc.edu/celebrating-americas-250th-at-the-terrace/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-05T20:00:19.862353",
+    "title": "Celebrating America’s 250th at the Terrace",
+    "category": "semiconductor"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-posthumously-awards-teacher-illinois-native-its-highest-honor": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-05T20:00:23.471591",
+    "title": "NEA posthumously awards teacher, Illinois native with its highest honor",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-executive-director-addresses-delegates-105th-representative-assembly": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-05T20:00:23.471619",
+    "title": "NEA Executive Director addresses delegates to the 105th Representative Assembly",
+    "category": "general"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-recognizes-ten-exceptional-individuals-and-organizations": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-05T20:00:23.471631",
+    "title": "NEA Recognizes Ten Exceptional Individuals and Organizations",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/america-250-presidential-message-on-the-anniversary-of-the-battle-of-chippawa/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-05T20:00:34.242400",
+    "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-united-states-secret-service/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-05T20:00:34.242425",
+    "title": "Presidential Message on the Anniversary of the United States Secret Service",
+    "category": "semiconductor"
   }
 }

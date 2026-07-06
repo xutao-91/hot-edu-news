@@ -1,12 +1,30 @@
 {
   "source": "NEA Press Releases",
   "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
-  "crawled_at": "2026-07-05T12:00:23.894870",
-  "total_news": 3,
+  "crawled_at": "2026-07-05T20:00:22.642655",
+  "total_news": 5,
   "news": [
     {
-      "title": "NEA Recognizes Ten Exceptional Individuals and Organizations with Its Highest Honor",
-      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-recognizes-ten-exceptional-individuals-and-organizations-its-highest-honor",
+      "title": "NEA posthumously awards teacher, Illinois native with its highest honor",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-posthumously-awards-teacher-illinois-native-its-highest-honor",
+      "date": "2026-07-05",
+      "type": "Press Release",
+      "summary_en": "Former Illinois Education Association President Al Llorens receives the NEA Friend of Education Award for his tireless dedication to defending public education.",
+      "source": "NEA News",
+      "category": "general"
+    },
+    {
+      "title": "NEA Executive Director addresses delegates to the 105th Representative Assembly",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-executive-director-addresses-delegates-105th-representative-assembly",
+      "date": "2026-07-05",
+      "type": "Press Release",
+      "summary_en": "Kim Anderson's remarks as prepared in Denver, Colorado, July 5, 2026.",
+      "source": "NEA News",
+      "category": "general"
+    },
+    {
+      "title": "NEA Recognizes Ten Exceptional Individuals and Organizations",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-recognizes-ten-exceptional-individuals-and-organizations",
       "date": "2026-07-04",
       "type": "Press Release",
       "summary_en": "2026 NEA Human and Civil Rights Award recipients speak out, show up, and refuse to leave anyone behind",

@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-05T12:00:31.007684",
-  "total_news": 3,
+  "crawled_at": "2026-07-05T20:00:34.013990",
+  "total_news": 5,
   "news": [
+    {
+      "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/america-250-presidential-message-on-the-anniversary-of-the-battle-of-chippawa/",
+      "date": "July 5, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Anniversary of the United States Secret Service",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-anniversary-of-the-united-states-secret-service/",
+      "date": "July 5, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Saving America’s Story",
       "url": "https://www.whitehouse.gov/releases/2026/07/saving-americas-story/",
