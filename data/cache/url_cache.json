@@ -11566,5 +11566,155 @@
     "fetch_time": "2026-07-05T20:00:34.242425",
     "title": "Presidential Message on the Anniversary of the United States Secret Service",
     "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/global/2026/07/06/nato-gets-high-marks-from-member-states/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-06T12:00:07.504753",
+    "title": "NATO Gets High Marks From Member States",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/applied-learning-sustainable-engineering-japan.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-06T12:00:12.124406",
+    "title": "Engineering a global perspective",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/alex-wimmer-band-director-the-power-of-music.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-06T12:00:12.124433",
+    "title": "People with Purpose: Alex Wimmer",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/apdesign-rensen-student-light-design-competition.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-06T12:00:12.124444",
+    "title": "Designing with light",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-07-06-mccarthy-institute.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-07-06T12:00:13.872868",
+    "title": "McCarthy Institute brings education law experts together",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/cui-elected-fellow-of-the-american-ceramic-society": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-06T12:00:15.854092",
+    "title": "Cui elected fellow of the American Ceramic Society",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/marching-mizzou-showcases-tiger-pride-on-global-stage-at-london-band-week/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-06T12:00:18.880482",
+    "title": "Marching Mizzou showcases Tiger pride on global stage at London Band Week",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-librarians-help-you-find-your-next-great-summer-read/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-06T12:00:18.880507",
+    "title": "Mizzou librarians help you find your next great summer read",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/survival-comes-at-a-price-mizzou-study-links-salt-adaptation-to-increased-risk-of-disease/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-06T12:00:18.880518",
+    "title": "Survival comes at a price: Mizzou study links salt adaptation to increased risk of disease",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/spurring-tiger-research-momentum-through-internal-funding/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-06T12:00:18.880528",
+    "title": "Spurring Tiger research momentum through internal funding",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/july-6-campus-cooling-update/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-06T12:00:19.328364",
+    "title": "July 6 campus cooling update",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/07/06/beyond-governance-purpose-ethics-visibility-assurance-and-compliance-in-the-age-of-ai/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-06T12:00:19.846448",
+    "title": "Beyond governance: Purpose, ethics, visibility, assurance, and compliance in the age of AI",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-members-elect-new-leaders-champion-public-education-nationwide": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-06T12:00:22.032879",
+    "title": "NEA members elect new leaders to champion public education nationwide",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/middle-school-english-teacher-and-union-activist-california-elected-nea-executive-committee": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-06T12:00:22.032917",
+    "title": "Middle school English teacher and union activist from California elected to NEA Executive Committee",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/middle-school-special-education-teacher-washington-state-reelected-nea-executive-committee": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-06T12:00:22.032929",
+    "title": "Middle school special education teacher from Washington state reelected to NEA Executive Committee",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/a-restored-detroit-rail-station-looks-to-the-future-offering-training-for-teens/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-06T12:00:22.197042",
+    "title": "A Restored Detroit Rail Station Looks to the Future, Offering Training for Teens",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/new-jersey-invests-record-money-in-preschool-but-serving-multilingual-learners-is-another-story/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-06T12:00:22.197068",
+    "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/elementary-principals-are-getting-a-crash-course-in-how-young-kids-learn-best/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-06T12:00:22.197079",
+    "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/entrepreneurs-need-partners-unless-solo-founder-has-broad-and-deep-experience-study-finds": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-06T12:00:25.480217",
+    "title": "Entrepreneurs need partners unless solo founder has broad and deep experience, study finds",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0706-purdue-engineering-sustainability-engineering-masters-degree-online": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-06T12:00:27.530773",
+    "title": "College of Engineering introduces new sustainability engineering degree",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0706-Americas-250th-anniversary-is-celebrated-by-Purdue-innovators-researchers-and-record-breakers": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-06T12:00:27.530799",
+    "title": "America's 250th anniversary is celebrated by Purdue innovators, researchers and record breakers",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0706-mike-moran-purdue-alumnus-coin-historian-geare-scholarship": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-06T12:00:27.530810",
+    "title": "How CCE alumnus Moran’s love for coins grew into opportunities for Boilermakers",
+    "category": "education"
+  },
+  "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-06T12:00:28.501882",
+    "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
+    "category": "ai"
+  },
+  "https://stories.butler.edu/chasing-the-checkered-flag-alex-corbys-path-to-the-indy-500/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-07-06T12:00:28.871186",
+    "title": "Chasing the Checkered Flag: Alex Corby’s Path to the Indy 500",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA4718-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-06T12:00:30.794437",
+    "title": "Winning the AI Pentathlon Requires Endurance: The Case for Resilience and Risk Management as Core Elements of Competitive National AI Strategy",
+    "category": "ai"
   }
 }

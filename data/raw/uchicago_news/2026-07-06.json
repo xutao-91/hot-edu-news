@@ -1,0 +1,17 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-06T12:00:28.126258",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
+      "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

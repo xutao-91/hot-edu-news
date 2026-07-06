@@ -1,0 +1,26 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-06T12:00:15.164619",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Cui elected fellow of the American Ceramic Society",
+      "url": "https://news.unl.edu/article/cui-elected-fellow-of-the-american-ceramic-society",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker-led camp helps Montecuollo impact families battling cancer",
+      "url": "https://news.unl.edu/article/husker-led-camp-helps-montecuollo-impact-families-battling-cancer",
+      "date": "2026-07-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-07-06T12:00:08.194688",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Irish stakeholders hail progress on ‘sex for rent’ legal crackdown",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "Stakeholders in Ireland have welcomed progress on upcoming laws that will make 'sex for rent' a criminal offence, as the government moves to put an end to sexual harrassment when seeking housing.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "How Australia is losing at international education",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "\"Australia’s international education sector should be a global powerhouse, but there is instead a story of squandered promise,\" writes Felix Pirie, CEO of the\nIndependent Tertiary Education Council Australia (ITECA).",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Felix Pirie"
+    },
+    {
+      "title": "Australia maintains 2027 international student planning level at 295,000",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-03",
+      "type": "Policy",
+      "summary_en": "The Australian government keeps the National Planning Level unchanged at 295,000 after saying international student commencements are on track to remain below it, while confirming no active provider will receive a lower allocation in 2027.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "TNE drives UK export growth as international enrolment revenue slows",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-07-03",
+      "type": "Data",
+      "summary_en": "The UK's total education exports grew modestly in 2024 to reach £36.7 billion, as the government eyes its target of £40 billion by the end of the decade.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    }
+  ]
+}
