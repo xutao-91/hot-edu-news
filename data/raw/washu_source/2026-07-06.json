@@ -1,7 +1,17 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-06T12:00:15.318887",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-06T20:00:15.195654",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "How to live a more gratifying life",
+      "url": "https://source.washu.edu/2026/07/how-to-live-a-more-gratifying-life/",
+      "date": "2026-07-06",
+      "type": "Cultural Studies",
+      "summary_en": "In “The Small Stuff: How to Lead a More Gratifying Life,” WashU’s Ian Bogost explores the real but often unremarked delights to be found in ordinary encounters with the physical world. “While you are waiting for the supposedly important stuff to arrive,” Bogost writes, “a million cases of the small stuff come and go.”",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
 }

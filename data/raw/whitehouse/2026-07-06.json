@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-06T12:00:29.104094",
-  "total_news": 5,
+  "crawled_at": "2026-07-06T20:00:29.959286",
+  "total_news": 6,
   "news": [
+    {
+      "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office",
+      "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",
+      "date": "July 6, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "America 250: Presidential Message on the Anniversary of the Battle of Chippawa",
       "url": "https://www.whitehouse.gov/briefings-statements/2026/07/america-250-presidential-message-on-the-anniversary-of-the-battle-of-chippawa/",

@@ -11716,5 +11716,89 @@
     "fetch_time": "2026-07-06T12:00:30.794437",
     "title": "Winning the AI Pentathlon Requires Endurance: The Case for Resilience and Risk Management as Core Elements of Competitive National AI Strategy",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/scaling-edtech-south-southeast-asia/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-06T20:00:09.322415",
+    "title": "From access to impact",
+    "category": "general"
+  },
+  "https://www.brookings.edu/articles/tracking-lawsuits-challenging-the-trump-administrations-k-12-education-agenda/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-06T20:00:09.322442",
+    "title": "Tracking lawsuits challenging the Trump administration’s K-12 education agenda",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/how-4-year-olds-are-giving-michigan-districts-an-incentive-to-build-expand/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-06T20:00:12.438112",
+    "title": "How 4-year-olds are giving Michigan districts an incentive to build, expand",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/kevin-guskiewicz-makes-an-about-face-will-remain-msus-president/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-06T20:00:12.438136",
+    "title": "Kevin Guskiewicz makes an about-face, will remain MSU’s president",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/07/how-to-live-a-more-gratifying-life/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-06T20:00:15.794020",
+    "title": "How to live a more gratifying life",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/princess-moss-elected-nea-president-with-votes-from-50-of-assembly-members/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-06T20:00:21.972011",
+    "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
+    "category": "general"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-education-support-professional-year-addresses-delegates-105th-representative-assembly": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-06T20:00:23.773859",
+    "title": "NEA Education Support Professional of the Year addresses delegates to the 105th Representative Assembly",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-higher-educator-year-addresses-delegates-105th-representative-assembly": {
+    "source": "nea_news",
+    "fetch_time": "2026-07-06T20:00:23.773883",
+    "title": "NEA Higher Educator of the Year addresses delegates to the 105th Representative Assembly",
+    "category": "general"
+  },
+  "https://today.uic.edu/uic-business-partners-with-chicago-sky-foundation-to-support-local-entrepreneurs/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-06T20:00:26.368132",
+    "title": "UIC Business partners with Chicago Sky Foundation to support local entrepreneurs",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/sleep-study-finds-targeted-benefits-for-people-with-type-1-diabetes/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-06T20:00:26.368159",
+    "title": "Sleep study finds targeted benefits for people with Type 1 diabetes",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/uic-business-launches-map-left-behind-podcast/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-06T20:00:26.368170",
+    "title": "UIC Business launches ‘Map Left Behind’ podcast",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ACE-Releases-New-Guidance-on-Political-Campaigns-Voting.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-07-06T20:00:29.452723",
+    "title": "ACE Releases New Guidance to Help Campuses Protect Civic Engagement During the 2026 Election Cycle",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/south-pole-telescope-analysis-releases-new-catalog-more-7000-galaxy-clusters": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-06T20:00:29.456190",
+    "title": "South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-06T20:00:30.328366",
+    "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office",
+    "category": "semiconductor"
   }
 }

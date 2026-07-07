@@ -1,7 +1,7 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-07-06T12:00:18.247941",
+  "crawled_at": "2026-07-06T20:00:20.292147",
   "total_news": 4,
   "news": [
     {
@@ -10,15 +10,6 @@
       "date": "2026-07-06",
       "type": "News",
       "summary_en": "From Buckingham Palace to Tower Bridge, the University of Missouri’s iconic marching band took top honors, representing the university before global audiences.",
-      "source": "Show Me Mizzou",
-      "category": "general"
-    },
-    {
-      "title": "Mizzou librarians help you find your next great summer read",
-      "url": "https://showme.missouri.edu/2026/mizzou-librarians-help-you-find-your-next-great-summer-read/",
-      "date": "2026-07-06",
-      "type": "News",
-      "summary_en": "These handpicked recommendations are perfect for road trips, pool days and just-one-more-chapter nights.",
       "source": "Show Me Mizzou",
       "category": "general"
     },
@@ -39,6 +30,15 @@
       "summary_en": "Research Council grants help faculty kick-start projects and pivot to new lines of inquiry.",
       "source": "Show Me Mizzou",
       "category": "research"
+    },
+    {
+      "title": "Mizzou librarians help you find your next great summer read",
+      "url": "https://showme.missouri.edu/2026/mizzou-librarians-help-you-find-your-next-great-summer-read/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "These handpicked recommendations are perfect for road trips, pool days and just-one-more-chapter nights.",
+      "source": "Show Me Mizzou",
+      "category": "general"
     }
   ]
 }
