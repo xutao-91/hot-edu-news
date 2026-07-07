@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-07-07T12:00:07.880120",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Germany adds new test to pre-visa checks for Indian master’s applicants",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-07",
+      "type": "Policy",
+      "summary_en": "The Digital Master Test (dMAT) will become a mandatory part of APS documentation for selected Indian master's applicants from the summer semester 2027.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Protecting students, supporting staff, strengthening the sector: a call for unified leadership",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-07-07",
+      "type": "Voices",
+      "summary_en": "The UK higher education sector has always been resilient. We have weathered political shifts, policy swings, and waves of public scrutiny. We have adapted, innovated, and continued to welcome students who enrich our campuses, communities, and economy. But today, something feels different, write Diana Beech and Sandy Bhangal.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Diana Beech and Sandy Bhangal"
+    },
+    {
+      "title": "Italy launches €420m international mobility program for schools",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-07",
+      "type": "Policy",
+      "summary_en": "Government-backed program will fund overseas language learning and school immersion for 150,000 Italian upper secondary students as part of what the government describes as the country's largest international mobility program for schools.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Irish stakeholders hail progress on ‘sex for rent’ legal crackdown",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "Stakeholders in Ireland have welcomed progress on upcoming laws that will make 'sex for rent' a criminal offence, as the government moves to put an end to sexual harrassment when seeking housing.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "How Australia is losing at international education",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "\"Australia’s international education sector should be a global powerhouse, but there is instead a story of squandered promise,\" writes Felix Pirie, CEO of the\nIndependent Tertiary Education Council Australia (ITECA).",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Felix Pirie"
+    }
+  ]
+}

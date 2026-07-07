@@ -1,0 +1,35 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-07T12:00:15.093522",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Nebraska Ranch Practicum spreads research, resources to region's producers",
+      "url": "https://news.unl.edu/article/nebraska-ranch-practicum-spreads-research-resources-to-regions-producers",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Financial planning option students get head start on credential requirements",
+      "url": "https://news.unl.edu/article/financial-planning-option-students-get-head-start-on-credential-requirements",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Cui elected fellow of the American Ceramic Society",
+      "url": "https://news.unl.edu/article/cui-elected-fellow-of-the-american-ceramic-society",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

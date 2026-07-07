@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-07T12:00:17.785338",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "July 6 campus cooling update",
+      "url": "https://news.wisc.edu/july-6-campus-cooling-update/",
+      "date": "July 6, 2026",
+      "type": "News",
+      "summary_en": "Campus continues to be open and operating and cooling repairs are continuing",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Celebrating America’s 250th at the Terrace",
+      "url": "https://news.wisc.edu/celebrating-americas-250th-at-the-terrace/",
+      "date": "July 5, 2026",
+      "type": "News",
+      "summary_en": "The Stars, Stripes & Shorelines event put on a red, white and blue spectacle for the UW–Madison community.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

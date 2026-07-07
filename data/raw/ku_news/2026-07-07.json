@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-07-07T12:00:24.474984",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "University of Kansas announces spring 2026 honor roll",
+      "url": "https://news.ku.edu/news/article/university-of-kansas-announces-spring-2026-honor-roll",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "More than 9,000 Jayhawks were named to the dean's lists for their respective schools for academic excellence in the spring 2026 semester.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Entrepreneurs need partners unless solo founder has broad and deep experience, study finds",
+      "url": "https://news.ku.edu/news/article/entrepreneurs-need-partners-unless-solo-founder-has-broad-and-deep-experience-study-finds",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "In a new scholarly article published in the Strategic Management Journal, a University of Kansas business scholar explored whether entrepreneurs need co-founders, finding disadvantages partially diminished when a solo founder has broad and/or deep experience.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

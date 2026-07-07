@@ -11800,5 +11800,89 @@
     "fetch_time": "2026-07-06T20:00:30.328366",
     "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office",
     "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/school-spending-equity-since-1976/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-07T12:00:07.006949",
+    "title": "School spending equity since 1976",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/newsoms-final-education-budget-by-the-numbers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-07T12:00:14.021389",
+    "title": "Newsom’s Final Education Budget, by the Numbers",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/rehumaning-education-banning-screens-is-only-part-of-the-solution/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-07T12:00:14.021415",
+    "title": "‘Rehumaning’ Education: Banning Screens Is Only Part of the Solution",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/july/australia-visit-ipe.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-07T12:00:15.530647",
+    "title": "SLU Students Gain Global Health Insights Through Australia Visit",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/lenschow-named-inaugural-john-s-daniels-professor/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-07T12:00:15.561166",
+    "title": "Lenschow named inaugural John S. Daniels Professor",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/nebraska-ranch-practicum-spreads-research-resources-to-regions-producers": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-07T12:00:15.822506",
+    "title": "Nebraska Ranch Practicum spreads research, resources to region's producers",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/financial-planning-option-students-get-head-start-on-credential-requirements": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-07T12:00:15.822537",
+    "title": "Financial planning option students get head start on credential requirements",
+    "category": "education"
+  },
+  "https://app.publicnewsservice.org/story/michigan-study-uncovers-gene-that-could-lower-colorectal-cancer-risk/65dd191d-59a7-4505-abd7-ad2addc884ee?": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-07T12:00:17.532856",
+    "title": "Michigan study uncovers gene that could lower colorectal cancer risk",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-celebrates-tiger-success-releases-spring-2026-graduation-list/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-07T12:00:18.540609",
+    "title": "Mizzou celebrates Tiger success, releases spring 2026 graduation list",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/clinical-care-community-service-shape-health-science-majors-goals/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-07T12:00:18.540633",
+    "title": "Clinical care, community service shape health science major’s goals",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/university-of-kansas-announces-spring-2026-honor-roll": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-07T12:00:25.415308",
+    "title": "University of Kansas announces spring 2026 honor roll",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ED-Finalizes-Accountability-Rule.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-07-07T12:00:28.777169",
+    "title": "ED Finalizes Rule Tying Federal Aid to Graduate Earnings",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA4931-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-07T12:00:29.640786",
+    "title": "The Strategist's Dilemma: Agent-Neutral and Agent-Relative Reasons in U.S. AI Strategy",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4754-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-07T12:00:29.640827",
+    "title": "The Transatlantic Artificial Intelligence Calculus: U.S.–European Union and Member State AI Cooperation in an Era of Strategic Competition",
+    "category": "ai"
   }
 }
