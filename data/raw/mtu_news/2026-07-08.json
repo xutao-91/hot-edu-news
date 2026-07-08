@@ -1,0 +1,17 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-07-08T12:00:28.432398",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Michigan Tech Research Award Winner Turns Data into Better Decisions and Bigger Discoveries",
+      "url": "https://www.mtu.edu/news/2026/07/michigan-tech-research-award-winner-turns-data-into-better-decisions-and-bigger-discoveries.html",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "An internationally recognized research leader in computational intelligence, machine learning, data fusion and signal processing, Tim Havens is a community catalyst for advances in his fields. At Michigan Tech, he has also worked to develop a sustainable, interdisciplinary research infrastructure  . . .",
+      "source": "MTU News",
+      "category": "research"
+    }
+  ]
+}

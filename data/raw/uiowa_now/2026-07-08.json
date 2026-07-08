@@ -1,0 +1,26 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-07-08T12:00:18.454466",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Savannah Bananas hit home run at Kinnick Stadium",
+      "url": "/news/2026/07/savannah-bananas-hit-home-run-kinnick-stadium",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "Over the Fourth of July weekend, the Savannah Bananas rolled into town for two unforgettable sold-out Banana Ball games, transforming Kinnick Stadium into a baseball field unlike anything fans had ever seen.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI statistician shares prestigious $1M Rousseeuw Prize for helping transform statistical computing",
+      "url": "/news/2026/07/ui-statistician-shares-prestigious-1m-rousseeuw-prize-helping-transform-statistical",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

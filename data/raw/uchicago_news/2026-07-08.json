@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-08T12:00:29.908944",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UChicago convenes leaders from across country to explore free expression, academic freedom",
+      "url": "https://news.uchicago.edu/story/uchicago-convenes-leaders-across-country-explore-free-expression-academic-freedom",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "Participants at Academic Freedom Institute debate ideas and share experiences from their campuses",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago’s Kiphart Center helps faculty tackle global health, social development issues",
+      "url": "https://news.uchicago.edu/story/uchicagos-kiphart-center-helps-faculty-tackle-global-health-social-development-issues",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "With a focus on interdisciplinary, out-of-the-box solutions, the center funds projects that aim to make a difference",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
+      "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "South Pole Telescope analysis releases new catalog of more than 7,000 galaxy clusters",
+      "url": "https://news.uchicago.edu/story/south-pole-telescope-analysis-releases-new-catalog-more-7000-galaxy-clusters",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "New cosmic census, led by Argonne and UChicago, shows how universe grew and changed",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

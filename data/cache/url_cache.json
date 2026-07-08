@@ -11968,5 +11968,143 @@
     "fetch_time": "2026-07-07T20:00:29.835795",
     "title": "Democrats Fought Against Historic Tax Cuts. Now They’re Fighting Against Opportunity for America’s Kids.",
     "category": "ai"
+  },
+  "https://news.nd.edu/news/michelle-v-joyce-appointed-vice-president-of-institutional-research-innovation-and-strategy/": {
+    "source": "nd_news",
+    "fetch_time": "2026-07-08T12:00:08.607748",
+    "title": "Michelle V. Joyce appointed vice president of institutional research, innovation and strategy",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/quantum-inspired-framework-predicting-corporate-performance-developed-and-validated-illinois-tech": {
+    "source": "iit_news",
+    "fetch_time": "2026-07-08T12:00:14.024048",
+    "title": "Quantum-Inspired Framework for Predicting Corporate Performance Developed and Validated by Illinois Tech, Columbia College Chicago Faculty",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/elif-peker-sorghum-electrospinning-food-biofilm.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-08T12:00:15.832134",
+    "title": "Spinning sustainable food packaging",
+    "category": "ai"
+  },
+  "https://podcasts.apple.com/us/podcast/wayne-state-to-open-new-public-health-school/id1305152868?i=1000775791626": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-08T12:00:16.058811",
+    "title": "School of public health coming to Wayne State University",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/study-explores-social-medias-role-in-tornado-disaster-communication": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-08T12:00:16.851075",
+    "title": "Study explores social media's role in tornado disaster communication",
+    "category": "semiconductor"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/biotech-company-co-founded-by-mcw-researcher-begins-phase-ii-trial-of-first-pepsin-inhibitor-for-reflux-disease": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-07-08T12:00:18.767073",
+    "title": "Biotech Company Co-founded by MCW Researcher Begins Phase II Trial of First Pepsin Inhibitor for Reflux Disease",
+    "category": "education"
+  },
+  "https://news.wisc.edu/gillaspy-to-move-into-new-rural-leadership-role/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-08T12:00:19.517114",
+    "title": "Gillaspy to move into new rural leadership role",
+    "category": "education"
+  },
+  "https://news.wisc.edu/an-emotional-day-welcoming-home-new-athletic-director-shawn-eichorst/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-08T12:00:19.517143",
+    "title": "‘An emotional day’: Welcoming home new Athletic Director Shawn Eichorst",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/business/ken-brown-named-dean-uni-wilson-college-business": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-08T12:00:19.614288",
+    "title": "Ken Brown named dean of UNI Wilson College of Business",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/meet-two-summer-welcome-leaders/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-08T12:00:19.779092",
+    "title": "Meet two Summer Welcome Leaders",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/planting-the-future-mizzou-researchers-put-ai-to-work-on-the-farm/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-08T12:00:19.779116",
+    "title": "Planting the future: Mizzou researchers put AI to work on the farm",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/07/08/nobodys-a-loser-what-genuine-school-leaders-realize/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-08T12:00:20.757254",
+    "title": "Nobody’s a loser: What genuine education leaders realize",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/appeals-court-says-religious-schools-cant-be-exempt-from-maines-nondiscrimination-laws/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-08T12:00:22.289665",
+    "title": "Appeals Court Says Religious Schools Can’t be Exempt From Maine’s Nondiscrimination Laws",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/nc-high-school-students-pitch-local-tech-companies-at-annual-teamship-showcase/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-08T12:00:22.289690",
+    "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/understanding-impact-neonicotinoids-minnesotas-water": {
+    "source": "umn_cse",
+    "fetch_time": "2026-07-08T12:00:22.851043",
+    "title": "Understanding the impact of neonicotinoids on Minnesota’s water",
+    "category": "semiconductor"
+  },
+  "https://www.studlife.com/news/2026/07/07/washu-and-vanderbilt-commissioned-report-on-the-humanities-comes-under-fire": {
+    "source": "studlife",
+    "fetch_time": "2026-07-08T12:00:25.890079",
+    "title": "WashU- and Vanderbilt-commissioned report on the humanities comes under fire",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-autism-ai-tool-launched-to-provide-resources-to-kansas-families": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-08T12:00:26.983999",
+    "title": "KU autism AI tool launched to provide resources to Kansas families",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-theatre-dance-unveils-2026-27-season": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-08T12:00:26.984025",
+    "title": "KU Theatre & Dance unveils 2026-27 season",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/20-ku-students-receive-undergraduate-research-awards-for-summer-and-fall-2026": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-08T12:00:26.984037",
+    "title": "20 KU students receive Undergraduate Research Awards for summer and fall 2026",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-school-of-education-human-sciences-dean-delivers-address-at-un-world-cup-diplomacy-summit": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-08T12:00:26.984047",
+    "title": "KU School of Education & Human Sciences dean delivers address at UN World Cup Diplomacy Summit",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/07/northwestern-to-launch-all-evanston-hiring-hub-to-connect-workforce-training-to-jobs": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-07-08T12:00:28.985065",
+    "title": "Northwestern to launch All Evanston Hiring Hub to connect workforce training to jobs",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/uchicago-convenes-leaders-across-country-explore-free-expression-academic-freedom": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-08T12:00:30.281495",
+    "title": "UChicago convenes leaders from across country to explore free expression, academic freedom",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA3801-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-08T12:00:32.442879",
+    "title": "Private Industry Approaches to Network and Security Operations Centers: Best Practices for the Department of the Air Force",
+    "category": "ai"
   }
 }

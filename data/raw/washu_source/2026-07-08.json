@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-07-08T12:00:16.332247",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Lenschow named inaugural John S. Daniels Professor",
+      "url": "https://source.washu.edu/2026/07/lenschow-named-inaugural-john-s-daniels-professor/",
+      "date": "2026-07-07",
+      "type": "Advancement",
+      "summary_en": "Deborah J. Lenschow, MD, PhD, a pioneering scientist who has made significant contributions to the fields of immunology, rheumatology and medicine, has been installed as the inaugural John S. Daniels Professor at WashU Medicine.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "How to live a more gratifying life",
+      "url": "https://source.washu.edu/2026/07/how-to-live-a-more-gratifying-life/",
+      "date": "2026-07-06",
+      "type": "Cultural Studies",
+      "summary_en": "In “The Small Stuff: How to Lead a More Gratifying Life,” WashU’s Ian Bogost explores the real but often unremarked delights to be found in ordinary encounters with the physical world. “While you are waiting for the supposedly important stuff to arrive,” Bogost writes, “a million cases of the small stuff come and go.”",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

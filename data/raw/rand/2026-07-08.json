@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-07-08T12:00:32.230727",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Private Industry Approaches to Network and Security Operations Centers: Best Practices for the Department of the Air Force",
+      "url": "https://www.rand.org/pubs/perspectives/PEA3801-1.html",
+      "date": "Jul 8, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors describe how private companies structure, organize, and staff network and security operations centers, highlighting practices that could be applied to the Department of the Air Force’s efforts to modernize command and control.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "The Strategist's Dilemma: Agent-Neutral and Agent-Relative Reasons in U.S. AI Strategy",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4931-1.html",
+      "date": "Jul 7, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Advanced artificial intelligence (AI) creates a strategist’s dilemma: U.S. leaders owe duties to their citizens and face obligations to prevent catastrophic harm to anyone. The author argues that both kinds of reasons should shape U.S. AI strategy.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "The Transatlantic Artificial Intelligence Calculus: U.S.–European Union and Member State AI Cooperation in an Era of Strategic Competition",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4754-1.html",
+      "date": "Jul 7, 2026",
+      "type": "Research",
+      "summary_en": "This report provides a strategic framework for assessing the conditional value of artificial intelligence partnerships across different technological futures and presents options for transatlantic cooperation that advance U.S. strategic interests.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Winning the AI Pentathlon Requires Endurance: The Case for Resilience and Risk Management as Core Elements of Competitive National AI Strategy",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4718-1.html",
+      "date": "Jul 6, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Global artificial intelligence (AI) competition is not just a sprint to develop advanced AI but also a marathon to accumulate its net benefits. Resilience is a strategic advantage as AI integration likely will involve persistent disruption.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

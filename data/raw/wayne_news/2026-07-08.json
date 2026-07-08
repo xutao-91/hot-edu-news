@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-07-08T12:00:15.310396",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "School of public health coming to Wayne State University",
+      "url": "https://podcasts.apple.com/us/podcast/wayne-state-to-open-new-public-health-school/id1305152868?i=1000775791626",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "Michigan study uncovers gene that could lower colorectal cancer risk",
+      "url": "https://app.publicnewsservice.org/story/michigan-study-uncovers-gene-that-could-lower-colorectal-cancer-risk/65dd191d-59a7-4505-abd7-ad2addc884ee?",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    }
+  ]
+}

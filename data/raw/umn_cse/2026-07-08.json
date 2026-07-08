@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-07-08T12:00:22.202082",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Understanding the impact of neonicotinoids on Minnesota’s water",
+      "url": "https://cse.umn.edu/college/news/understanding-impact-neonicotinoids-minnesotas-water",
+      "date": "2026-07-08",
+      "type": "People-Profiles",
+      "summary_en": "The Minnesota Department of Agriculture is currently seeking public comment to determine whether Minnesota’s existing pesticide rules are adequate to protect the state's natural resources, including our lakes and rivers.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}
