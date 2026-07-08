@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-07T12:00:17.785338",
-  "total_news": 2,
+  "crawled_at": "2026-07-07T20:00:17.766229",
+  "total_news": 3,
   "news": [
+    {
+      "title": "When should schools ban cellphones?",
+      "url": "https://news.wisc.edu/when-should-schools-ban-cellphones/",
+      "date": "July 7, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison students from the La Follette School of Public Affairs developed research-based recommendations to help a K-12 district implement new policies.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "July 6 campus cooling update",
       "url": "https://news.wisc.edu/july-6-campus-cooling-update/",

@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-07T12:00:28.417897",
-  "total_news": 2,
+  "crawled_at": "2026-07-07T20:00:28.877787",
+  "total_news": 3,
   "news": [
+    {
+      "title": "UChicago’s Kiphart Center helps faculty tackle global health, social development issues",
+      "url": "https://news.uchicago.edu/story/uchicagos-kiphart-center-helps-faculty-tackle-global-health-social-development-issues",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "With a focus on interdisciplinary, out-of-the-box solutions, the center funds projects that aim to make a difference",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
       "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/",

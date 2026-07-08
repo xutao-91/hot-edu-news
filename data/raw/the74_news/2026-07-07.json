@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-07T12:00:13.259993",
+  "crawled_at": "2026-07-07T20:00:13.541978",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "July 07, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:12.987681"
+      "crawled_at": "2026-07-07T20:00:13.291898"
+    },
+    {
+      "title": "NYC Budget Gives Every Public School Kindergartner $1,000 for College, Restores Education Programs",
+      "url": "https://www.the74million.org/article/nyc-budget-gives-every-public-school-kindergartner-1000-for-college-restores-education-programs/",
+      "date": "July 07, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-07T20:00:13.301172"
     },
     {
       "title": "Newsom’s Final Education Budget, by the Numbers",
@@ -18,7 +26,7 @@
       "date": "July 07, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.008392"
+      "crawled_at": "2026-07-07T20:00:13.309204"
     },
     {
       "title": "‘Rehumaning’ Education: Banning Screens Is Only Part of the Solution",
@@ -26,7 +34,7 @@
       "date": "July 07, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.021125"
+      "crawled_at": "2026-07-07T20:00:13.319581"
     },
     {
       "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
@@ -34,15 +42,15 @@
       "date": "July 07, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.033879"
+      "crawled_at": "2026-07-07T20:00:13.335372"
     },
     {
       "title": "A Restored Detroit Rail Station Looks to the Future, Offering Training for Teens",
       "url": "https://www.the74million.org/article/a-restored-detroit-rail-station-looks-to-the-future-offering-training-for-teens/",
-      "date": "July 07, 2026",
+      "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.056306"
+      "crawled_at": "2026-07-07T20:00:13.337638"
     },
     {
       "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
@@ -50,7 +58,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.068080"
+      "crawled_at": "2026-07-07T20:00:13.346048"
     },
     {
       "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
@@ -58,7 +66,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.070527"
+      "crawled_at": "2026-07-07T20:00:13.354624"
     },
     {
       "title": "Mississippi Focuses on Boosting Middle School Students’ Reading Scores",
@@ -66,7 +74,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.082059"
+      "crawled_at": "2026-07-07T20:00:13.363408"
     },
     {
       "title": "California School Libraries Blindsided by ‘Catastrophic’ Budget Cut",
@@ -74,7 +82,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.093552"
+      "crawled_at": "2026-07-07T20:00:13.378117"
     },
     {
       "title": "Native Hawaiian Teens Learn To ‘Make Change’ for the Islands",
@@ -82,7 +90,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.105099"
+      "crawled_at": "2026-07-07T20:00:13.389786"
     },
     {
       "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
@@ -90,7 +98,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.116592"
+      "crawled_at": "2026-07-07T20:00:13.401476"
     },
     {
       "title": "California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide",
@@ -98,7 +106,7 @@
       "date": "July 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.128091"
+      "crawled_at": "2026-07-07T20:00:13.413182"
     },
     {
       "title": "Before Brown v. Board, Another Segregation Case Changed Public Schools",
@@ -106,7 +114,7 @@
       "date": "July 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.130505"
+      "crawled_at": "2026-07-07T20:00:13.424750"
     },
     {
       "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
@@ -114,7 +122,7 @@
       "date": "July 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.142061"
+      "crawled_at": "2026-07-07T20:00:13.427302"
     },
     {
       "title": "Supreme Court Sides With Red States Over Bans on Trans Athletes",
@@ -122,7 +130,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.156282"
+      "crawled_at": "2026-07-07T20:00:13.439019"
     },
     {
       "title": "Supreme Court Rejects Trump’s Attempt to End Birthright Citizenship",
@@ -130,7 +138,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.164909"
+      "crawled_at": "2026-07-07T20:00:13.450537"
     },
     {
       "title": "Lānaʻi School Relies on Temporary Power Lines for Years",
@@ -138,7 +146,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.176374"
+      "crawled_at": "2026-07-07T20:00:13.461742"
     },
     {
       "title": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class",
@@ -146,7 +154,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.187901"
+      "crawled_at": "2026-07-07T20:00:13.473176"
     },
     {
       "title": "New Report Finds Five-Year Drop in Preschool Enrollment, but COVID’s Effects Loom",
@@ -154,7 +162,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.199499"
+      "crawled_at": "2026-07-07T20:00:13.482619"
     },
     {
       "title": "Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts",
@@ -162,7 +170,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.211099"
+      "crawled_at": "2026-07-07T20:00:13.494086"
     },
     {
       "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
@@ -170,7 +178,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.213508"
+      "crawled_at": "2026-07-07T20:00:13.496396"
     },
     {
       "title": "NYC Delays School AI Guidance After Backlash",
@@ -178,7 +186,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.224992"
+      "crawled_at": "2026-07-07T20:00:13.511961"
     },
     {
       "title": "This Childcare Program Is 100% Employee-Owned. Will It Help Retain Workers?",
@@ -186,7 +194,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.236486"
+      "crawled_at": "2026-07-07T20:00:13.520441"
     },
     {
       "title": "A Big Gamble on Revamping Petersburg’s Schools Fuels Hope in Virginia City",
@@ -194,15 +202,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.248081"
-    },
-    {
-      "title": "Decision Time Has Come for Newsom’s Proposal To Shift Control of CA Department of Education",
-      "url": "https://www.the74million.org/article/decision-time-has-come-for-newsoms-proposal-to-shift-control-of-ca-doe/",
-      "date": "June 28, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-07T12:00:13.259594"
+      "crawled_at": "2026-07-07T20:00:13.531992"
     }
   ]
 }

@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-07T12:00:29.327602",
-  "total_news": 4,
+  "crawled_at": "2026-07-07T20:00:29.641905",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Democrats Fought Against Historic Tax Cuts. Now They’re Fighting Against Opportunity for America’s Kids.",
+      "url": "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/",
+      "date": "July 7, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "President Trump Rings in Trump Accounts with Historic Opening Bell Ceremony from the Oval Office",
       "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-rings-in-trump-accounts-with-historic-opening-bell-ceremony-from-the-oval-office/",

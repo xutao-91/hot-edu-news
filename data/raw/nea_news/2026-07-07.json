@@ -1,9 +1,18 @@
 {
   "source": "NEA Press Releases",
   "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
-  "crawled_at": "2026-07-07T12:00:20.962233",
-  "total_news": 9,
+  "crawled_at": "2026-07-07T20:00:23.145973",
+  "total_news": 10,
   "news": [
+    {
+      "title": "From Merger to Movement: A Legacy of Keeping Hope Alive",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/merger-movement-legacy-keeping-hope-alive",
+      "date": "2026-07-07",
+      "type": "Press Release",
+      "summary_en": "Celebrating 60 years of partnership with the American Teachers Association",
+      "source": "NEA News",
+      "category": "general"
+    },
     {
       "title": "NEA Education Support Professional of the Year addresses delegates to the 105th Representative Assembly",
       "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-education-support-professional-year-addresses-delegates-105th-representative-assembly",
