@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-08T12:00:21.595545",
+  "crawled_at": "2026-07-08T20:00:15.457041",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "date": "July 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.399719"
+      "crawled_at": "2026-07-08T20:00:15.166093"
     },
     {
       "title": "Appeals Court Says Religious Schools Can’t be Exempt From Maine’s Nondiscrimination Laws",
@@ -18,7 +18,7 @@
       "date": "July 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.409094"
+      "crawled_at": "2026-07-08T20:00:15.185453"
     },
     {
       "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
@@ -26,7 +26,7 @@
       "date": "July 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.418085"
+      "crawled_at": "2026-07-08T20:00:15.199547"
     },
     {
       "title": "NYC Budget Gives Every Public School Kindergartner $1,000 for College, Restores Education Programs",
@@ -34,7 +34,7 @@
       "date": "July 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.427546"
+      "crawled_at": "2026-07-08T20:00:15.234492"
     },
     {
       "title": "Newsom’s Final Education Budget, by the Numbers",
@@ -42,7 +42,15 @@
       "date": "July 08, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.442137"
+      "crawled_at": "2026-07-08T20:00:15.253789"
+    },
+    {
+      "title": "Hoosier Childcare Providers Slam Education Requirement Rollback",
+      "url": "https://www.the74million.org/zero2eight/hoosier-childcare-providers-slam-education-requirement-rollback/",
+      "date": "July 8, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-08T20:00:15.270363"
     },
     {
       "title": "‘Rehumaning’ Education: Banning Screens Is Only Part of the Solution",
@@ -50,7 +58,7 @@
       "date": "July 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.444676"
+      "crawled_at": "2026-07-08T20:00:15.287001"
     },
     {
       "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
@@ -58,7 +66,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.453105"
+      "crawled_at": "2026-07-08T20:00:15.298587"
     },
     {
       "title": "A Restored Detroit Rail Station Looks to the Future, Offering Training for Teens",
@@ -66,7 +74,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.461564"
+      "crawled_at": "2026-07-08T20:00:15.310203"
     },
     {
       "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
@@ -74,7 +82,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.469988"
+      "crawled_at": "2026-07-08T20:00:15.321918"
     },
     {
       "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
@@ -82,7 +90,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.478304"
+      "crawled_at": "2026-07-08T20:00:15.324295"
     },
     {
       "title": "Mississippi Focuses on Boosting Middle School Students’ Reading Scores",
@@ -90,7 +98,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.480601"
+      "crawled_at": "2026-07-08T20:00:15.332827"
     },
     {
       "title": "California School Libraries Blindsided by ‘Catastrophic’ Budget Cut",
@@ -98,7 +106,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.489045"
+      "crawled_at": "2026-07-08T20:00:15.341341"
     },
     {
       "title": "Native Hawaiian Teens Learn To ‘Make Change’ for the Islands",
@@ -106,7 +114,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.497770"
+      "crawled_at": "2026-07-08T20:00:15.359957"
     },
     {
       "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
@@ -114,7 +122,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.506490"
+      "crawled_at": "2026-07-08T20:00:15.367784"
     },
     {
       "title": "California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide",
@@ -122,7 +130,7 @@
       "date": "July 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.515127"
+      "crawled_at": "2026-07-08T20:00:15.382213"
     },
     {
       "title": "Before Brown v. Board, Another Segregation Case Changed Public Schools",
@@ -130,7 +138,7 @@
       "date": "July 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.523762"
+      "crawled_at": "2026-07-08T20:00:15.395640"
     },
     {
       "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
@@ -138,7 +146,7 @@
       "date": "July 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.532201"
+      "crawled_at": "2026-07-08T20:00:15.403115"
     },
     {
       "title": "Supreme Court Sides With Red States Over Bans on Trans Athletes",
@@ -146,7 +154,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.534556"
+      "crawled_at": "2026-07-08T20:00:15.408535"
     },
     {
       "title": "Supreme Court Rejects Trump’s Attempt to End Birthright Citizenship",
@@ -154,7 +162,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.543156"
+      "crawled_at": "2026-07-08T20:00:15.414200"
     },
     {
       "title": "Lānaʻi School Relies on Temporary Power Lines for Years",
@@ -162,7 +170,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.551657"
+      "crawled_at": "2026-07-08T20:00:15.422674"
     },
     {
       "title": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class",
@@ -170,7 +178,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.562959"
+      "crawled_at": "2026-07-08T20:00:15.431239"
     },
     {
       "title": "New Report Finds Five-Year Drop in Preschool Enrollment, but COVID’s Effects Loom",
@@ -178,7 +186,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.568488"
+      "crawled_at": "2026-07-08T20:00:15.439641"
     },
     {
       "title": "Alaska Districts Close 12 Schools This Year, Amid Severe Budget Cuts",
@@ -186,7 +194,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.577152"
+      "crawled_at": "2026-07-08T20:00:15.448099"
     },
     {
       "title": "Incumbent VP, Top State Union Leaders Among Candidates for NEA President",
@@ -194,15 +202,7 @@
       "date": "June 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.585798"
-    },
-    {
-      "title": "NYC Delays School AI Guidance After Backlash",
-      "url": "https://www.the74million.org/article/nyc-delays-school-ai-guidance-after-backlash/",
-      "date": "June 29, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-08T12:00:21.594394"
+      "crawled_at": "2026-07-08T20:00:15.450403"
     }
   ]
 }

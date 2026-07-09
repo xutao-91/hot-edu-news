@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-07-08T12:00:15.310396",
-  "total_news": 2,
+  "crawled_at": "2026-07-08T20:00:15.424324",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Wayne State celebrates graduates of dual-degree partnership in Ningbo, China",
+      "url": "https://oip.wayne.edu/news/wayne-state-celebrates-graduates-of-dual-degree-partnership-in-ningbo-china-69720",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
     {
       "title": "School of public health coming to Wayne State University",
       "url": "https://podcasts.apple.com/us/podcast/wayne-state-to-open-new-public-health-school/id1305152868?i=1000775791626",
@@ -17,6 +26,15 @@
       "title": "Michigan study uncovers gene that could lower colorectal cancer risk",
       "url": "https://app.publicnewsservice.org/story/michigan-study-uncovers-gene-that-could-lower-colorectal-cancer-risk/65dd191d-59a7-4505-abd7-ad2addc884ee?",
       "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "Cutting-edge Wayne State cancer research accelerated by award from RevitaLash Cosmetics",
+      "url": "https://giving.wayne.edu/story/cutting-edge-wayne-state-cancer-research-accelerated-by-award-from-revitalash-cosmetics-69711",
+      "date": "2026-07-06",
       "type": "News",
       "summary_en": "",
       "source": "Wayne State News",

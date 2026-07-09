@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-08T12:00:30.798176",
-  "total_news": 4,
+  "crawled_at": "2026-07-08T20:00:31.032882",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Defense Investment from NATO Allies, Powering American Industry",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-historic-defense-investment-from-nato-allies-powering-american-industry/",
+      "date": "July 8, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
     {
       "title": "Democrats Fought Against Historic Tax Cuts. Now They’re Fighting Against Opportunity for America’s Kids.",
       "url": "https://www.whitehouse.gov/releases/2026/07/democrats-fought-against-historic-tax-cuts-now-theyre-fighting-against-opportunity-for-americas-kids/",

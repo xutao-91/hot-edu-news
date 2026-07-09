@@ -1,0 +1,49 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-08T20:00:07.805919",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
+      "date": "Jul 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Climate Energy Environment",
+        "Energy"
+      ],
+      "summary_en": "Over 100 countries have enacted energy policy changes in response to the Middle East conflict, from tax adjustments to fuel subsidies.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "What to know about U.S. oil production and consumption in 6 charts",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/what-to-know-about-us-oil-production-and-consumption-in-6-charts/",
+      "date": "Jul 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Climate Energy Environment",
+        "Energy"
+      ],
+      "summary_en": "Here are six facts about U.S. oil production, consumption, imports and the Strategic Petroleum Reserve.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "NATO Gets High Marks From Member States",
+      "url": "https://www.pewresearch.org/global/2026/07/06/nato-gets-high-marks-from-member-states/",
+      "date": "Jul 6, 2026",
+      "type": "report",
+      "categories": [
+        "Global Image Of Countries",
+        "Nato",
+        "War International Conflict 2",
+        "World Leaders"
+      ],
+      "summary_en": "NATO is seen positively in most of 13 member states surveyed. Across 37 countries, views of Russia are negative and most people lack confidence in Putin and Zelenskyy.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

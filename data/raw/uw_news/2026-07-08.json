@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-08T12:00:18.752955",
-  "total_news": 5,
+  "crawled_at": "2026-07-08T20:00:20.089861",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Brian Moulton named UW–Madison’s senior director of federal relations",
+      "url": "https://news.wisc.edu/brian-moulton-named-uw-madisons-senior-director-of-federal-relations/",
+      "date": "July 8, 2026",
+      "type": "News",
+      "summary_en": "Moulton brings more than two decades of experience in public policy, government affairs and the non-profit sector to the role.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
     {
       "title": "Gillaspy to move into new rural leadership role",
       "url": "https://news.wisc.edu/gillaspy-to-move-into-new-rural-leadership-role/",

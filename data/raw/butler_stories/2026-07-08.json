@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-07-08T12:00:29.894603",
-  "total_news": 1,
+  "crawled_at": "2026-07-08T20:00:30.914477",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Butler University Alumni Association Welcomes New Board Members",
+      "url": "https://stories.butler.edu/butler-university-alumni-association-welcomes-new-board-members/",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "The Butler University Alumni Association (BUAA) recently welcomed seven new members to its Board of Directors. The new members began a four-year term in June and will attend their first quarterly BUAA Board meeting later this month. The BUAA, in partnership with the Office of Butler Community Engagement, serves as a champion of alumni engagement…",
+      "author": "jennifer gunnels",
+      "source": "Butler Stories",
+      "category": "education"
+    },
     {
       "title": "Chasing the Checkered Flag: Alex Corby’s Path to the Indy 500",
       "url": "https://stories.butler.edu/chasing-the-checkered-flag-alex-corbys-path-to-the-indy-500/",
