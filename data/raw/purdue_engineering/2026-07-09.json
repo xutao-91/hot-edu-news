@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-07-09T12:00:24.838222",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "College of Engineering introduces new sustainability engineering degree",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0706-purdue-engineering-sustainability-engineering-masters-degree-online",
+      "date": "July 6, 2026",
+      "type": "News",
+      "summary_en": "As the demand for more sustainable practices grows, Purdue University’s College of Engineering is introducing a new online sustainability engineering master’s degree with two majors.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "America's 250th anniversary is celebrated by Purdue innovators, researchers and record breakers",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0706-Americas-250th-anniversary-is-celebrated-by-Purdue-innovators-researchers-and-record-breakers",
+      "date": "July 6, 2026",
+      "type": "News",
+      "summary_en": "For more than 150 years, Purdue University has helped transform America: preparing leaders, expanding access to education and driving discoveries that influence daily life everywhere.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "How CCE alumnus Moran’s love for coins grew into opportunities for Boilermakers",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0706-mike-moran-purdue-alumnus-coin-historian-geare-scholarship",
+      "date": "July 6, 2026",
+      "type": "News",
+      "summary_en": "When a young Moran transferred to Purdue in January 1967, he worked toward his civil engineering degree within what today is the Lyles School of Civil and Construction Engineering.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-07-09T12:00:29.430295",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "ACE Releases New Guidance to Help Campuses Protect Civic Engagement During the 2026 Election Cycle",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Releases-New-Guidance-on-Political-Campaigns-Voting.aspx",
+      "date": "July 6, 2026",
+      "type": "News",
+      "summary_en": "As colleges and universities prepare for the upcoming fall semester and the 2026 midterm elections, ACE has released an updated issue brief: Voting and College Political Campaign Related- Activities in America’s 250th Year.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "ED Finalizes Rule Tying Federal Aid to Graduate Earnings",
+      "url": "https://www.acenet.edu/News-Room/Pages/ED-Finalizes-Accountability-Rule.aspx",
+      "date": "July 6, 2026",
+      "type": "News",
+      "summary_en": "In a separate development, two federal courts block the department's new limits on Public Service Loan Forgiveness.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
+}

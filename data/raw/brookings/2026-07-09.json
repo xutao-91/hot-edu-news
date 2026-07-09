@@ -1,0 +1,35 @@
+{
+  "source": "Brookings Institution - Education",
+  "source_url": "https://www.brookings.edu/topics/education-2/",
+  "crawled_at": "2026-07-09T12:00:08.213104",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "School spending equity since 1976",
+      "url": "https://www.brookings.edu/articles/school-spending-equity-since-1976/",
+      "author": "Sarah Reber, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBeyond Deng, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGabriela Goodman",
+      "date": "July 7, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    },
+    {
+      "title": "From access to impact",
+      "url": "https://www.brookings.edu/articles/scaling-edtech-south-southeast-asia/",
+      "author": "Molly Curtiss Wyss, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBrad Olsen",
+      "date": "July 6, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general"
+    },
+    {
+      "title": "Tracking lawsuits challenging the Trump administration’s K-12 education agenda",
+      "url": "https://www.brookings.edu/articles/tracking-lawsuits-challenging-the-trump-administrations-k-12-education-agenda/",
+      "author": "Rachel M. Perera, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tThalia González, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAidan Tomlinson",
+      "date": "July 6, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    }
+  ]
+}

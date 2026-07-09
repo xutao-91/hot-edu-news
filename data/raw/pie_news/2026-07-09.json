@@ -1,0 +1,128 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-07-09T12:00:09.273462",
+  "total_news": 12,
+  "news": [
+    {
+      "title": "Ruth Fenton, Stafford House Study Holidays",
+      "url": "https://thepienews.com/category/voices/five-mins-with/",
+      "date": "2026-07-09",
+      "type": "Five mins with",
+      "summary_en": "This week, The PIE sat down with Ruth Fenton, founder and director of Stafford House Study Holidays. We spoke about building her business, the challenges facing young people and global policy shifts.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "US students’ study abroad appetite holds strong",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-07-09",
+      "type": "Study Abroad",
+      "summary_en": "Two new surveys have found strong demand for study abroad among US students, even as global conflicts and financial barriers weigh heavily on decision-making.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Survey highlights gaps in universities’ international recruitment strategies",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "New research presented at the Explore UK Forum by student recruitment platform Cialfo, part of Manifest Global, highlights three gaps in how universities recruit internationally, based on survey findings shared at the event.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Diya Singh"
+    },
+    {
+      "title": "Is Andy Burnham going to save UK higher ed?",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-09",
+      "type": "Policy",
+      "summary_en": "If Andy Burnham becomes Prime Minister, will he save UK higher education? That was one question at this year's BUILA conference, where panellists delivered a dose of realism.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Modi meets with Australian higher ed as Flinders announces India campus",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-07-09",
+      "type": "Transnational education",
+      "summary_en": "Flinders University is set to open a campus in Bengaluru, India, Australian Prime Minister Anthony Albanese has revealed during Narendra Modi's visit to the country.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "60% of US colleges report fall in international applications",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-07-08",
+      "type": "Data",
+      "summary_en": "Nearly six in 10 US colleges have seen a drop in international applications for 2026/27, driven by a sharp decline in interest from Indian students.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Students left in limbo weeks after Irish language school closes",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-07-08",
+      "type": "Language learning",
+      "summary_en": "Irish stakeholders have called for urgent clarity as English language students studying at a school in Limerick are left in the dark weeks after its apparent closure.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Germany adds new test to pre-visa checks for Indian master’s applicants",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-07",
+      "type": "Policy",
+      "summary_en": "The Digital Master Test (dMAT) will become a mandatory part of APS documentation for selected Indian master's applicants from the summer semester 2027.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Protecting students, supporting staff, strengthening the sector: a call for unified leadership",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-07-07",
+      "type": "Voices",
+      "summary_en": "The UK higher education sector has always been resilient. We have weathered political shifts, policy swings, and waves of public scrutiny. We have adapted, innovated, and continued to welcome students who enrich our campuses, communities, and economy. But today, something feels different, write Diana Beech and Sandy Bhangal.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Diana Beech and Sandy Bhangal"
+    },
+    {
+      "title": "Italy launches €420m international mobility program for schools",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-07",
+      "type": "Policy",
+      "summary_en": "Government-backed program will fund overseas language learning and school immersion for 150,000 Italian upper secondary students as part of what the government describes as the country's largest international mobility program for schools.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Irish stakeholders hail progress on ‘sex for rent’ legal crackdown",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "Stakeholders in Ireland have welcomed progress on upcoming laws that will make 'sex for rent' a criminal offence, as the government moves to put an end to sexual harrassment when seeking housing.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "How Australia is losing at international education",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "\"Australia’s international education sector should be a global powerhouse, but there is instead a story of squandered promise,\" writes Felix Pirie, CEO of the\nIndependent Tertiary Education Council Australia (ITECA).",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Felix Pirie"
+    }
+  ]
+}

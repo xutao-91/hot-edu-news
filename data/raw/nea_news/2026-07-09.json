@@ -1,0 +1,35 @@
+{
+  "source": "NEA Press Releases",
+  "source_url": "https://www.nea.org/about-nea/media-center/press-releases",
+  "crawled_at": "2026-07-09T12:00:25.009039",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "From Merger to Movement: A Legacy of Keeping Hope Alive",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/merger-movement-legacy-keeping-hope-alive",
+      "date": "2026-07-07",
+      "type": "Press Release",
+      "summary_en": "Celebrating 60 years of partnership with the American Teachers Association",
+      "source": "NEA News",
+      "category": "general"
+    },
+    {
+      "title": "NEA Education Support Professional of the Year addresses delegates to the 105th Representative Assembly",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-education-support-professional-year-addresses-delegates-105th-representative-assembly",
+      "date": "2026-07-06",
+      "type": "Press Release",
+      "summary_en": "Ric Calhoun's remarks as prepared for July 6, in Denver, Colorado.",
+      "source": "NEA News",
+      "category": "general"
+    },
+    {
+      "title": "NEA Higher Educator of the Year addresses delegates to the 105th Representative Assembly",
+      "url": "https://www.nea.org/about-nea/media-center/press-releases/nea-higher-educator-year-addresses-delegates-105th-representative-assembly",
+      "date": "2026-07-06",
+      "type": "Press Release",
+      "summary_en": "Clinton Smith's remarks as prepared for July 6, in Denver, Colorado.",
+      "source": "NEA News",
+      "category": "general"
+    }
+  ]
+}

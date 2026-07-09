@@ -1,0 +1,79 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-09T12:00:07.643555",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Americans’ views of Israelis have grown increasingly negative, but views of Palestinians have held fairly steady",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/09/americans-views-of-israelis-have-grown-increasingly-negative-but-views-of-palestinians-have-held-fairly-steady/",
+      "date": "Jul 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Israel Global Image",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Americans’ views of the Israeli people and government have grown more negative across party lines and age groups, while opinions of Palestinians have held largely steady.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "U.S. Hispanics Are Divided on Whether Their Identity Helps or Hurts Them in America",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/u-s-hispanics-are-divided-on-whether-their-identity-helps-or-hurts-them-in-america/",
+      "date": "Jul 9, 2026",
+      "type": "report",
+      "categories": [
+        "Hispanic Latino Identity",
+        "Hispanic Latino Voters",
+        "Hispanics Latinos",
+        "Race Ethnicity",
+        "Racial Ethnic Groups"
+      ],
+      "summary_en": "Some say being Latino is a source of advantage or connection but others say it is tied to barriers and discrimination.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Dozens of countries have lowered energy taxes or taken other policy steps in response to Iran war",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/dozens-of-countries-have-lowered-energy-taxes-or-taken-other-policy-steps-in-response-to-iran-war/",
+      "date": "Jul 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Climate Energy Environment",
+        "Energy"
+      ],
+      "summary_en": "Over 100 countries have enacted energy policy changes in response to the Middle East conflict, from tax adjustments to fuel subsidies.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "What to know about U.S. oil production and consumption in 6 charts",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/07/what-to-know-about-us-oil-production-and-consumption-in-6-charts/",
+      "date": "Jul 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Climate Energy Environment",
+        "Energy"
+      ],
+      "summary_en": "Here are six facts about U.S. oil production, consumption, imports and the Strategic Petroleum Reserve.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "NATO Gets High Marks From Member States",
+      "url": "https://www.pewresearch.org/global/2026/07/06/nato-gets-high-marks-from-member-states/",
+      "date": "Jul 6, 2026",
+      "type": "report",
+      "categories": [
+        "Global Image Of Countries",
+        "Nato",
+        "War International Conflict 2",
+        "World Leaders"
+      ],
+      "summary_en": "NATO is seen positively in most of 13 member states surveyed. Across 37 countries, views of Russia are negative and most people lack confidence in Putin and Zelenskyy.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

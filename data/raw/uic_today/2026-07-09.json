@@ -1,0 +1,53 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-07-09T12:00:26.265187",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UIC Center for Literacy’s GED program opens doors for adult learners",
+      "url": "https://today.uic.edu/uic-center-for-literacys-ged-program-opens-doors-for-adult-learners/",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "This spring marks the first graduating cohort since the program’s return.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "How immune cells in our gut mesentery fight salmonella",
+      "url": "https://today.uic.edu/how-immune-cells-in-our-gut-mesentery-fight-salmonella/",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "Immune cells in our gut mesentery prevent systemic infection by regulating inflammation.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC Business partners with Chicago Sky Foundation to support local entrepreneurs",
+      "url": "https://today.uic.edu/uic-business-partners-with-chicago-sky-foundation-to-support-local-entrepreneurs/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "UIC hosts workshop on strategic competitive advantage and innovation.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Sleep study finds targeted benefits for people with Type 1 diabetes",
+      "url": "https://today.uic.edu/sleep-study-finds-targeted-benefits-for-people-with-type-1-diabetes/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "Significant improvement found in glucose targets after a sleep optimization program led by UIC Nursing researchers.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC College of Business launches ‘Map Left Behind’ podcast",
+      "url": "https://today.uic.edu/uic-business-launches-map-left-behind-podcast/",
+      "date": "2026-07-06",
+      "type": "News",
+      "summary_en": "Powerful stories and personal roadmaps of students, alums, business professionals and corporate leaders.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

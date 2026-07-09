@@ -12154,5 +12154,107 @@
     "fetch_time": "2026-07-08T20:00:31.349970",
     "title": "Fact Sheet: President Donald J. Trump Secures Historic Defense Investment from NATO Allies, Powering American Industry",
     "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/09/americans-views-of-israelis-have-grown-increasingly-negative-but-views-of-palestinians-have-held-fairly-steady/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-09T12:00:08.318192",
+    "title": "Americans’ views of Israelis have grown increasingly negative, but views of Palestinians have held fairly steady",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/u-s-hispanics-are-divided-on-whether-their-identity-helps-or-hurts-them-in-america/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-09T12:00:08.318223",
+    "title": "U.S. Hispanics Are Divided on Whether Their Identity Helps or Hurts Them in America",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/raiders-set-record-for-third-consecutive-year-for-nacc-scholar-athletes": {
+    "source": "msoe",
+    "fetch_time": "2026-07-09T12:00:09.178266",
+    "title": "Raiders set record for third consecutive year for NACC Scholar-Athletes",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/housing-dining-summer-camp-student-recruitment.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-09T12:00:10.483620",
+    "title": "A first taste of K‑State",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/national-honors-recognize-culture-support-military-affiliated-students": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-09T12:00:14.683022",
+    "title": "National honors recognize culture of support for military-affiliated students",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/some-microschools-in-limbo-as-they-await-new-federal-tax-credit-rules/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-09T12:00:16.802543",
+    "title": "Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/dana-suskind-on-how-to-protect-childhood-in-the-age-of-ai/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-09T12:00:16.802580",
+    "title": "Dana Suskind on How To Protect Childhood in the Age of AI",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/07/you-have-to-have-a-vision/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-09T12:00:17.697183",
+    "title": "‘You have to have a vision’",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/bursky-public-health-names-first-farm-distinguished-professors/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-09T12:00:17.697212",
+    "title": "Bursky Public Health names first FARM distinguished professors",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/making-mythology-childs-play-how-a-mizzou-alum-is-bringing-ancient-stories-to-new-audiences/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-09T12:00:25.534478",
+    "title": "Making mythology child’s play: How a Mizzou alum is bringing ancient stories to new audiences",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/dinosaurs-probably-dined-upon-a-variety-of-fruits-and-seeds": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-09T12:00:27.012035",
+    "title": "Dinosaurs probably dined upon a variety of fruits and seeds",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA4748-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-09T12:00:31.370653",
+    "title": "High Bandwidth Memory: What It Is and Why It Matters",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/rgs_dissertations/RGSDA5114-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-09T12:00:31.370684",
+    "title": "Do Robots Lure Us to War? The Impact of the Robotic Revolution on the Propensity for Armed Conflict",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Reducing-power-temporarily-improves-carbon-dioxide-conversion.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-09T12:00:31.432069",
+    "title": "Reducing power temporarily improves carbon dioxide conversion",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Tendon-variations-effects-on-mechanics-to-get-a-closer-look.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-09T12:00:31.432093",
+    "title": "Tendon variations’ effects on mechanics to get a closer look",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/big-brains-podcast-how-raise-kids-age-ai-dana-suskind": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-09T12:00:31.489473",
+    "title": "How to raise kids in the age of AI, with Dana Suskind",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/white-house-ceq-announces-technology-solutions-selected-to-showcase-at-permitting-innovators-expo/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-09T12:00:31.878531",
+    "title": "White House CEQ Announces Technology Solutions Selected to Showcase at Permitting Innovators Expo",
+    "category": "general"
   }
 }
