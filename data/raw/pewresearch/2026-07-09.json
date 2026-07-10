@@ -1,9 +1,19 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-09T12:00:07.643555",
-  "total_news": 5,
+  "crawled_at": "2026-07-09T20:00:08.314448",
+  "total_news": 6,
   "news": [
+    {
+      "title": "The FCC, The View and what it means to be “news”",
+      "url": "https://www.pewresearch.org/newsletter/campaign/the-fcc-the-view-and-what-it-means-to-be-news/",
+      "date": "Jul 9, 2026",
+      "type": "newsletter",
+      "categories": [],
+      "summary_en": "The Briefing ☀️ Happy Thursday! The Briefing is your guide to the world of news and information. Sign up here! In today’s email: 🔥 Featured story Earlier this year, the Federal Communications Commission ordered an early review of ABC’s broadcast licenses. The FCC is also investigating whether The View – one of the network’s flagship […]",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Americans’ views of Israelis have grown increasingly negative, but views of Palestinians have held fairly steady",
       "url": "https://www.pewresearch.org/short-reads/2026/07/09/americans-views-of-israelis-have-grown-increasingly-negative-but-views-of-palestinians-have-held-fairly-steady/",

@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-07-09T12:00:20.083930",
-  "total_news": 1,
+  "crawled_at": "2026-07-09T20:00:18.117733",
+  "total_news": 2,
   "news": [
+    {
+      "title": "UNI President Mark Nook voices support for federal teacher education legislation",
+      "url": "https://insideuni.uni.edu/education/uni-president-mark-nook-voices-support-federal-teacher-education-legislation",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "University of Northern Iowa President Mark Nook joined U.S. Rep. Ashley Hinson on Thursday to support the bipartisan TEACH Improvement Act, introduced in the House of Representatives.",
+      "source": "UNI News",
+      "category": "fundraising"
+    },
     {
       "title": "Ken Brown named dean of UNI Wilson College of Business",
       "url": "https://insideuni.uni.edu/business/ken-brown-named-dean-uni-wilson-college-business",

@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-07-09T12:00:30.940976",
-  "total_news": 2,
+  "crawled_at": "2026-07-09T20:00:30.690788",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Butler Mobile Launches New Wireless Service That Supports Butler University Programs",
+      "url": "https://stories.butler.edu/butler-mobile-launches-new-wireless-service-that-supports-butler-university-programs/",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "Bulldog Nation shows up everywhere, from the student section at Hinkle Fieldhouse to alumni and employees who carry Butler with them long after graduation. Now, Butler University is introducing a new wireless service built for that community. Butler Mobile launches today through a partnership between Collegiate Mobile, Butler University Athletics, and sports marketing leader Playfly…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "community"
+    },
     {
       "title": "Butler University Alumni Association Welcomes New Board Members",
       "url": "https://stories.butler.edu/butler-university-alumni-association-welcomes-new-board-members/",

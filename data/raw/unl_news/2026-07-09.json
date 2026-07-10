@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-07-09T12:00:16.779914",
-  "total_news": 4,
+  "crawled_at": "2026-07-09T20:00:19.895689",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Study sheds light on how mountaineering mice survive extreme environments",
+      "url": "https://news.unl.edu/article/study-sheds-light-on-how-mountaineering-mice-survive-extreme-environments",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "agriculture"
+    },
     {
       "title": "Study explores social media's role in tornado disaster communication",
       "url": "https://news.unl.edu/article/study-explores-social-medias-role-in-tornado-disaster-communication",

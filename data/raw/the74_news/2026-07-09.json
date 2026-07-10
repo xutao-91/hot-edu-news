@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-09T12:00:15.983034",
+  "crawled_at": "2026-07-09T20:00:21.829232",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "July 09, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.731842"
+      "crawled_at": "2026-07-09T20:00:21.726760"
+    },
+    {
+      "title": "Market Share Continues to Hold Steady for NC Public Schools",
+      "url": "https://www.the74million.org/article/market-share-declines-for-homeschools-increases-for-private-schools-holds-steady-for-public-schools-overall/",
+      "date": "July 09, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-09T20:00:21.731859"
     },
     {
       "title": "Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules",
@@ -18,7 +26,7 @@
       "date": "July 09, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.741351"
+      "crawled_at": "2026-07-09T20:00:21.735094"
     },
     {
       "title": "Appeals Court Says Religious Schools Can’t be Exempt From Maine’s Nondiscrimination Laws",
@@ -26,7 +34,7 @@
       "date": "July 09, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.750439"
+      "crawled_at": "2026-07-09T20:00:21.738599"
     },
     {
       "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
@@ -34,15 +42,7 @@
       "date": "July 09, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.762333"
-    },
-    {
-      "title": "NYC Budget Gives Every Public School Kindergartner $1,000 for College, Restores Education Programs",
-      "url": "https://www.the74million.org/article/nyc-budget-gives-every-public-school-kindergartner-1000-for-college-restores-education-programs/",
-      "date": "July 09, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.776057"
+      "crawled_at": "2026-07-09T20:00:21.742223"
     },
     {
       "title": "Dana Suskind on How To Protect Childhood in the Age of AI",
@@ -50,7 +50,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.778671"
+      "crawled_at": "2026-07-09T20:00:21.744590"
     },
     {
       "title": "Hoosier Childcare Providers Slam Education Requirement Rollback",
@@ -58,7 +58,15 @@
       "date": "July 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.787215"
+      "crawled_at": "2026-07-09T20:00:21.750148"
+    },
+    {
+      "title": "NYC Budget Gives Every Public School Kindergartner $1,000 for College, Restores Education Programs",
+      "url": "https://www.the74million.org/article/nyc-budget-gives-every-public-school-kindergartner-1000-for-college-restores-education-programs/",
+      "date": "July 7, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-09T20:00:21.752580"
     },
     {
       "title": "Newsom’s Final Education Budget, by the Numbers",
@@ -66,7 +74,7 @@
       "date": "July 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.795768"
+      "crawled_at": "2026-07-09T20:00:21.761282"
     },
     {
       "title": "‘Rehumaning’ Education: Banning Screens Is Only Part of the Solution",
@@ -74,7 +82,7 @@
       "date": "July 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.806304"
+      "crawled_at": "2026-07-09T20:00:21.768847"
     },
     {
       "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
@@ -82,7 +90,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.818929"
+      "crawled_at": "2026-07-09T20:00:21.774395"
     },
     {
       "title": "A Restored Detroit Rail Station Looks to the Future, Offering Training for Teens",
@@ -90,7 +98,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.829367"
+      "crawled_at": "2026-07-09T20:00:21.780178"
     },
     {
       "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
@@ -98,7 +106,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.840255"
+      "crawled_at": "2026-07-09T20:00:21.782471"
     },
     {
       "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
@@ -106,7 +114,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.842609"
+      "crawled_at": "2026-07-09T20:00:21.787964"
     },
     {
       "title": "Mississippi Focuses on Boosting Middle School Students’ Reading Scores",
@@ -114,7 +122,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.857018"
+      "crawled_at": "2026-07-09T20:00:21.792450"
     },
     {
       "title": "California School Libraries Blindsided by ‘Catastrophic’ Budget Cut",
@@ -122,7 +130,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.868405"
+      "crawled_at": "2026-07-09T20:00:21.797896"
     },
     {
       "title": "Native Hawaiian Teens Learn To ‘Make Change’ for the Islands",
@@ -130,7 +138,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.880133"
+      "crawled_at": "2026-07-09T20:00:21.803308"
     },
     {
       "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
@@ -138,7 +146,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.894605"
+      "crawled_at": "2026-07-09T20:00:21.808903"
     },
     {
       "title": "California Bill Aims To Enlist Educators and Parents in Preventing Youth Suicide",
@@ -146,7 +154,7 @@
       "date": "July 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.907143"
+      "crawled_at": "2026-07-09T20:00:21.811285"
     },
     {
       "title": "Before Brown v. Board, Another Segregation Case Changed Public Schools",
@@ -154,7 +162,7 @@
       "date": "July 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.909474"
+      "crawled_at": "2026-07-09T20:00:21.816773"
     },
     {
       "title": "Trump Wanted To Cut Ed Department Into Irrelevancy. New Report Shows How He Did It",
@@ -162,7 +170,7 @@
       "date": "July 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.920917"
+      "crawled_at": "2026-07-09T20:00:21.819371"
     },
     {
       "title": "Supreme Court Sides With Red States Over Bans on Trans Athletes",
@@ -170,7 +178,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.932421"
+      "crawled_at": "2026-07-09T20:00:21.821830"
     },
     {
       "title": "Supreme Court Rejects Trump’s Attempt to End Birthright Citizenship",
@@ -178,7 +186,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.943973"
+      "crawled_at": "2026-07-09T20:00:21.824181"
     },
     {
       "title": "Lānaʻi School Relies on Temporary Power Lines for Years",
@@ -186,7 +194,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.956093"
+      "crawled_at": "2026-07-09T20:00:21.826459"
     },
     {
       "title": "More Than Half of Georgia Teachers Now Use Artificial Intelligence to Prepare for Class",
@@ -194,15 +202,7 @@
       "date": "June 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.967618"
-    },
-    {
-      "title": "New Report Finds Five-Year Drop in Preschool Enrollment, but COVID’s Effects Loom",
-      "url": "https://www.the74million.org/zero2eight/new-report-finds-five-year-drop-in-preschool-enrollment-but-covids-effects-loom/",
-      "date": "June 30, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-09T12:00:15.979109"
+      "crawled_at": "2026-07-09T20:00:21.828846"
     }
   ]
 }

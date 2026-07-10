@@ -12256,5 +12256,65 @@
     "fetch_time": "2026-07-09T12:00:31.878531",
     "title": "White House CEQ Announces Technology Solutions Selected to Showcase at Permitting Innovators Expo",
     "category": "general"
+  },
+  "https://www.pewresearch.org/newsletter/campaign/the-fcc-the-view-and-what-it-means-to-be-news/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-09T20:00:08.929033",
+    "title": "The FCC, The View and what it means to be “news”",
+    "category": "ai"
+  },
+  "https://www.brookings.edu/articles/feminist-and-global-south-perspectives-on-ai-supported-learning-environments/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-09T20:00:08.969637",
+    "title": "Feminist and Global South perspectives on AI-supported learning environments",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/ai-platform-reduces-paperwork-for-washu-medicine-and-bjc-physicians/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-09T20:00:16.438606",
+    "title": "AI platform reduces paperwork for WashU Medicine and BJC physicians",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/education/uni-president-mark-nook-voices-support-federal-teacher-education-legislation": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-09T20:00:18.672298",
+    "title": "UNI President Mark Nook voices support for federal teacher education legislation",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/study-sheds-light-on-how-mountaineering-mice-survive-extreme-environments": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-09T20:00:20.428444",
+    "title": "Study sheds light on how mountaineering mice survive extreme environments",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/market-share-declines-for-homeschools-increases-for-private-schools-holds-steady-for-public-schools-overall/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-09T20:00:22.395262",
+    "title": "Market Share Continues to Hold Steady for NC Public Schools",
+    "category": "education"
+  },
+  "https://www.elmhurst.edu/news/shannon-dale-11-is-named-new-alumni-board-president/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-07-09T20:00:23.406950",
+    "title": "Shannon Dale ’11 Is Named New Alumni Board President",
+    "category": "general"
+  },
+  "https://stories.butler.edu/butler-mobile-launches-new-wireless-service-that-supports-butler-university-programs/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-07-09T20:00:30.875232",
+    "title": "Butler Mobile Launches New Wireless Service That Supports Butler University Programs",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-adjusts-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-09T20:00:35.622985",
+    "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/adjusting-imports-of-commercial-aircraft-jet-engines-and-aircraft-and-engine-parts-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-09T20:00:35.623022",
+    "title": "Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
+    "category": "ai"
   }
 }

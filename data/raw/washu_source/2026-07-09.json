@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-09T12:00:16.742669",
-  "total_news": 4,
+  "crawled_at": "2026-07-09T20:00:15.817514",
+  "total_news": 5,
   "news": [
+    {
+      "title": "AI platform reduces paperwork for WashU Medicine and BJC physicians",
+      "url": "https://source.washu.edu/2026/07/ai-platform-reduces-paperwork-for-washu-medicine-and-bjc-physicians/",
+      "date": "2026-07-09",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine and BJC doctors can now focus less on note-taking and more on interacting with patients with the aid of an AI transcriber.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "‘You have to have a vision’",
       "url": "https://source.washu.edu/2026/07/you-have-to-have-a-vision/",
