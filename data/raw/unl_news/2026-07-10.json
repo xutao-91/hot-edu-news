@@ -1,0 +1,71 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-10T12:00:15.620173",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Husker entrepreneurs score big at New Venture Competition",
+      "url": "https://news.unl.edu/article/husker-entrepreneurs-score-big-at-new-venture-competition",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Achievements | Honors, appointments and publications for July 10",
+      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-july-10",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Olmstead spends summer on the world stage",
+      "url": "https://news.unl.edu/article/olmstead-spends-summer-on-the-world-stage",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Study sheds light on how mountaineering mice survive extreme environments",
+      "url": "https://news.unl.edu/article/study-sheds-light-on-how-mountaineering-mice-survive-extreme-environments",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "agriculture"
+    },
+    {
+      "title": "Study explores social media's role in tornado disaster communication",
+      "url": "https://news.unl.edu/article/study-explores-social-medias-role-in-tornado-disaster-communication",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska Ranch Practicum spreads research, resources to region's producers",
+      "url": "https://news.unl.edu/article/nebraska-ranch-practicum-spreads-research-resources-to-regions-producers",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Financial planning option students get head start on credential requirements",
+      "url": "https://news.unl.edu/article/financial-planning-option-students-get-head-start-on-credential-requirements",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

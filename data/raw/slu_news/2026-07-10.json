@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-07-10T12:00:08.113937",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SLU Students Gain Global Health Insights Through Australia Visit",
+      "url": "https://www.slu.edu/news/2026/july/australia-visit-ipe.php",
+      "date": "2026-07-07",
+      "type": "News",
+      "summary_en": "Saint Louis University students recently took part in a two-week study at the University of Notre Dame Australia, exploring Australia's healthcare and community service sectors. The visit was part of a partnership between the two universities to deliver interprofessional learning for its nursing and health sciences students.",
+      "source": "SLU News",
+      "category": "health"
+    }
+  ]
+}

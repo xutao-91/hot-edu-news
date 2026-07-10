@@ -1,0 +1,44 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-10T12:00:16.366253",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "One K‑State Fund selects project to enhance sustainable food production on campus",
+      "url": "https://www.k-state.edu/news/articles/2026/07/one-kstate-fund-sustainable-campus-food-system.html",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "A new multidisciplinary project will position Kansas State University as a national model for campus-scale sustainable food production systems, thanks in large part to a $500,000 award...",
+      "source": "K-State News",
+      "category": "community"
+    },
+    {
+      "title": "Renew annual parking permits before July 31",
+      "url": "https://www.k-state.edu/news/articles/2026/07/annual-parking-permit-renewals.html",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "Faculty and staff must renew their parking permits before Friday, July 31. To complete the renewal process, you will need your license plate number and vehicle information. Renewals...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "A first taste of K‑State",
+      "url": "https://www.k-state.edu/news/articles/2026/07/housing-dining-summer-camp-student-recruitment.html",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "Every summer, thousands of middle and high school students come to Manhattan for camps that introduce them to new careers, new friends and, for many, their first glimpse of what life...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Spinning sustainable food packaging",
+      "url": "https://www.k-state.edu/news/articles/2026/07/elif-peker-sorghum-electrospinning-food-biofilm.html",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "Elif Peker, a spring 2026 master's graduate in food sciences, is developing methods that can electrospin sorghum byproducts into useful, biodegradable packaging that can extend the...",
+      "source": "K-State News",
+      "category": "community"
+    }
+  ]
+}

@@ -12316,5 +12316,83 @@
     "fetch_time": "2026-07-09T20:00:35.623022",
     "title": "Adjusting Imports of Commercial Aircraft, Jet Engines, and Aircraft and Engine Parts into the United States",
     "category": "ai"
+  },
+  "https://news.unl.edu/article/husker-entrepreneurs-score-big-at-new-venture-competition": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-10T12:00:16.383226",
+    "title": "Husker entrepreneurs score big at New Venture Competition",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-july-10": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-10T12:00:16.383257",
+    "title": "Achievements | Honors, appointments and publications for July 10",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/olmstead-spends-summer-on-the-world-stage": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-10T12:00:16.383270",
+    "title": "Olmstead spends summer on the world stage",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/one-kstate-fund-sustainable-campus-food-system.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-10T12:00:17.025153",
+    "title": "One K‑State Fund selects project to enhance sustainable food production on campus",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/annual-parking-permit-renewals.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-10T12:00:17.025180",
+    "title": "Renew annual parking permits before July 31",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/runge-named-cals-interim-dean/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-10T12:00:18.703523",
+    "title": "Runge named CALS interim dean",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/5-key-education-stories-this-week-future-of-college-rehumaning-school-more/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-10T12:00:19.170493",
+    "title": "5 Key Education Stories This Week: Future of College, ‘Rehumaning’ School & More",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/math-wars-new-york-wants-to-reform-math-instruction-but-experts-disagree-on-how/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-10T12:00:19.170520",
+    "title": "‘Math Wars’: New York Wants To Reform Math Instruction, but Experts Disagree on How",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/07/10/the-case-for-centralized-admissions-in-graduate-medical-education/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-10T12:00:20.245818",
+    "title": "The case for centralized admissions in graduate medical education",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-launches-national-k-12-initiative-protect-students-adult-sexual-predators-schools": {
+    "source": "edgov",
+    "fetch_time": "2026-07-10T12:00:20.583762",
+    "title": "U.S. Department of Education Launches National K-12 Initiative to Protect Students from Adult Sexual Predators in Schools",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/presidential-1776-award-ultimate-civics-showdown-draws-163-million-live-viewers": {
+    "source": "edgov",
+    "fetch_time": "2026-07-10T12:00:20.583789",
+    "title": "“Presidential 1776 Award: The Ultimate Civics Showdown” Draws 1.63 Million Live Viewers",
+    "category": "semiconductor"
+  },
+  "https://www.rockhurst.edu/news/2026-07-09/rockhurst-president-meets-pope-leo": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-07-10T12:00:23.296051",
+    "title": "Rockhurst President Meets with Pope Leo",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/researchers-build-light-powered-artificial-leaf-wireless-medical-implants": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-10T12:00:30.460159",
+    "title": "Researchers build light-powered ‘artificial leaf’ for wireless medical implants",
+    "category": "semiconductor"
   }
 }
