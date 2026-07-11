@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-07-10T12:00:15.620173",
-  "total_news": 7,
+  "crawled_at": "2026-07-10T20:00:17.358156",
+  "total_news": 8,
   "news": [
+    {
+      "title": "NU leaders seek clarity, next steps following budget memo",
+      "url": "https://news.unl.edu/article/nu-leaders-seek-clarity-next-steps-following-budget-memo",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Husker entrepreneurs score big at New Venture Competition",
       "url": "https://news.unl.edu/article/husker-entrepreneurs-score-big-at-new-venture-competition",

@@ -1,7 +1,17 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-07-10T12:00:29.974877",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-10T20:00:29.339181",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Higher Ed Groups Warn OMB Rule Would Shift Grant Decisions From Merit to Politics",
+      "url": "https://www.acenet.edu/Pages/Groups-Warn-OMB-Rule-Shift-Grant-Decisions.aspx",
+      "date": "July 10, 2026",
+      "type": "News",
+      "summary_en": "ACE and 48 other higher education associations have submitted formal comments opposing a proposed federal rule that would significantly expand political appointees' control over the awarding, administration, and termination of federal grants.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
 }

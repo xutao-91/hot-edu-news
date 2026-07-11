@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-10T12:00:18.017254",
-  "total_news": 5,
+  "crawled_at": "2026-07-10T20:00:18.065658",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Don’t Click on That Link!",
+      "url": "https://onwisconsin.uwalumni.com/dont-click-on-that-link/",
+      "date": "July 10, 2026",
+      "type": "News",
+      "summary_en": "From spam to phishing, scams are getting smarter, but two UW–Madison professors have tips for protecting yourself online.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Runge named CALS interim dean",
       "url": "https://news.wisc.edu/runge-named-cals-interim-dean/",

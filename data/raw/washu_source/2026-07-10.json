@@ -1,8 +1,8 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-10T12:00:15.331762",
-  "total_news": 4,
+  "crawled_at": "2026-07-10T20:00:15.271626",
+  "total_news": 5,
   "news": [
     {
       "title": "AI platform reduces paperwork for WashU Medicine and BJC physicians",
@@ -30,6 +30,15 @@
       "summary_en": "Nutrition scientist Lora Iannotti and engineer Feng Jiao become inaugural Lauren and Lee Fixel Distinguished Professors, advancing interdisciplinary solutions for food, agriculture and health.",
       "source": "WashU Source",
       "category": "academic"
+    },
+    {
+      "title": "Gut bacteria linked to malnutrition may pass to younger generations",
+      "url": "https://source.washu.edu/2026/07/gut-bacteria-linked-to-malnutrition-may-pass-to-younger-generations/",
+      "date": "2026-07-07",
+      "type": "Nutrition & Wellness",
+      "summary_en": "A new study led by WashU Medicine researchers including Jeffrey I. Gordon, MD, suggests that an intestinal disorder linked to malnutrition and stunted growth may be transmitted from one generation to the next via the small intestine’s microbiome.",
+      "source": "WashU Source",
+      "category": "general"
     },
     {
       "title": "Lenschow named inaugural John S. Daniels Professor",
