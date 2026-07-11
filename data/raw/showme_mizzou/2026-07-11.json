@@ -1,0 +1,35 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-07-11T12:00:18.548780",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Making mythology child’s play: How a Mizzou alum is bringing ancient stories to new audiences",
+      "url": "https://showme.missouri.edu/2026/making-mythology-childs-play-how-a-mizzou-alum-is-bringing-ancient-stories-to-new-audiences/",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "Robert Carpenter created The Classical Workshop to bring the classics to children through books, games and imaginative play.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Meet two Summer Welcome Leaders",
+      "url": "https://showme.missouri.edu/2026/meet-two-summer-welcome-leaders/",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "Zoriana Novy and John Valerio are part of a team of Tigers helping incoming and transfer students navigate their transition to Mizzou and find their place on campus.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Planting the future: Mizzou researchers put AI to work on the farm",
+      "url": "https://showme.missouri.edu/2026/planting-the-future-mizzou-researchers-put-ai-to-work-on-the-farm/",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "A recent study focuses on corn and soybeans, two of the most common crops in the United States.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    }
+  ]
+}

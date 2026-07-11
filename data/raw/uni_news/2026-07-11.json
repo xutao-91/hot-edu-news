@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-07-11T12:00:18.928144",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UNI President Mark Nook voices support for federal teacher education legislation",
+      "url": "https://insideuni.uni.edu/education/uni-president-mark-nook-voices-support-federal-teacher-education-legislation",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "The legislation aims to strengthen the TEACH Grant Program by improving accountability, providing additional support for grant recipients and helping students successfully meet their service commitments.",
+      "source": "UNI News",
+      "category": "fundraising"
+    },
+    {
+      "title": "Ken Brown named dean of UNI Wilson College of Business",
+      "url": "https://insideuni.uni.edu/business/ken-brown-named-dean-uni-wilson-college-business",
+      "date": "2026-07-08",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa has selected Ken Brown as its next dean of the David W. Wilson College of Business. Brown returns to UNI after serving as a faculty member for nearly 20 years and will begin his new role on July 15.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
