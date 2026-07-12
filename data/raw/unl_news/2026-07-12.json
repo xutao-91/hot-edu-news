@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-12T12:00:19.592156",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "NU leaders seek clarity, next steps following budget memo",
+      "url": "https://news.unl.edu/article/nu-leaders-seek-clarity-next-steps-following-budget-memo",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker entrepreneurs score big at New Venture Competition",
+      "url": "https://news.unl.edu/article/husker-entrepreneurs-score-big-at-new-venture-competition",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Achievements | Honors, appointments and publications for July 10",
+      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-july-10",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Olmstead spends summer on the world stage",
+      "url": "https://news.unl.edu/article/olmstead-spends-summer-on-the-world-stage",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Study sheds light on how mountaineering mice survive extreme environments",
+      "url": "https://news.unl.edu/article/study-sheds-light-on-how-mountaineering-mice-survive-extreme-environments",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "agriculture"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-07-12T12:00:18.753402",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UNI President Mark Nook voices support for federal teacher education legislation",
+      "url": "https://insideuni.uni.edu/education/uni-president-mark-nook-voices-support-federal-teacher-education-legislation",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "The legislation aims to strengthen the TEACH Grant Program by improving accountability, providing additional support for grant recipients and helping students successfully meet their service commitments.",
+      "source": "UNI News",
+      "category": "fundraising"
+    }
+  ]
+}

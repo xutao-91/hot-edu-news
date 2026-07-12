@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-07-12T12:00:29.821361",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Reducing power temporarily improves carbon dioxide conversion",
+      "url": "https://engineering.washu.edu/news/2026/Reducing-power-temporarily-improves-carbon-dioxide-conversion.html",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "Research in Feng Jiao’s lab shows modifying power strategy helps save money, protects catalyst.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Tendon variations’ effects on mechanics to get a closer look",
+      "url": "https://engineering.washu.edu/news/2026/Tendon-variations-effects-on-mechanics-to-get-a-closer-look.html",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "Spencer Lake will link local properties of tendons to functional outcomes with NSF grant.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

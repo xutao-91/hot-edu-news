@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-07-12T12:00:20.573272",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The case for centralized admissions in graduate medical education",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/07/10/the-case-for-centralized-admissions-in-graduate-medical-education/",
+      "date": "2026-07-10",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Centralized application services transformed how students apply to medical school. They gave applicants a single point of entry, standardized how programs receive and review data, and provided comparable information institutions could actually use.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

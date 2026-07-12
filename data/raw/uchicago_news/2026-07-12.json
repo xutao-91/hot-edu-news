@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-12T12:00:29.875241",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Researchers build light-powered ‘artificial leaf’ for wireless medical implants",
+      "url": "https://news.uchicago.edu/story/researchers-build-light-powered-artificial-leaf-wireless-medical-implants",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "UChicago PME team creates new nanomaterial that harvests light energy for sensing and stimulation",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "How to raise kids in the age of AI, with Dana Suskind",
+      "url": "https://news.uchicago.edu/big-brains-podcast-how-raise-kids-age-ai-dana-suskind",
+      "date": "2026-07-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

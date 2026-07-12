@@ -1,0 +1,38 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-12T12:00:08.018863",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Americans’ views of Israelis have grown increasingly negative, but views of Palestinians have held fairly steady",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/09/americans-views-of-israelis-have-grown-increasingly-negative-but-views-of-palestinians-have-held-fairly-steady/",
+      "date": "Jul 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Israel Global Image",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Americans’ views of the Israeli people and government have grown more negative across party lines and age groups, while opinions of Palestinians have held largely steady.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "U.S. Hispanics Are Divided on Whether Their Identity Helps or Hurts Them in America",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/07/09/u-s-hispanics-are-divided-on-whether-their-identity-helps-or-hurts-them-in-america/",
+      "date": "Jul 9, 2026",
+      "type": "report",
+      "categories": [
+        "Hispanic Latino Identity",
+        "Hispanic Latino Voters",
+        "Hispanics Latinos",
+        "Race Ethnicity",
+        "Racial Ethnic Groups"
+      ],
+      "summary_en": "Some say being Latino is a source of advantage or connection but others say it is tied to barriers and discrimination.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}
