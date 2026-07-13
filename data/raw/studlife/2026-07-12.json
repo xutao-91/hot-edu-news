@@ -1,7 +1,18 @@
 {
   "source": "Student Life (WashU)",
   "source_url": "https://www.studlife.com/news",
-  "crawled_at": "2026-07-12T12:00:24.972689",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-12T20:00:24.327019",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New School of Public Health receives largest donation in WashU history",
+      "url": "https://www.studlife.com/news/2026/07/12/new-school-of-public-health-receives-largest-donation-in-washu-history",
+      "date": "2026-07-12",
+      "type": "News",
+      "summary_en": "WashU’s new School of Public Health received $200 million, the largest donation in the history of the University, from the Bursky Family Foundation in May. The school has been renamed the Andrew M. and Jane M. Bursky School of Public Health after foundation founders and alumni Andrew Bursky, outgoing chair of the WashU Board of Trustees, and his wife, Jane Bursky.",
+      "author": "Coby Rinke, Tanvi Gorre",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
 }
