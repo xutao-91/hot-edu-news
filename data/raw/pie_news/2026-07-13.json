@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-07-13T12:00:08.061017",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Australian regulators raise compliance concerns over agent commission ban",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-07-13",
+      "type": "Recruitment & agents",
+      "summary_en": "Australia’s higher education and vocational education regulators have issued a joint sector alert warning providers over practices that may undermine a ban on education agent commissions linked to onshore overseas student transfers.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Made Impact aims to “change the narrative” with UN summit",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "The inaugural Made Impact Summit 2026 will take place at the United Nations in New York, it has been confirmed.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "White House proposal to “dramatically weaken” US research, experts warn",
+      "url": "https://thepienews.com/category/news/research/",
+      "date": "2026-07-10",
+      "type": "Research",
+      "summary_en": "US higher education leaders are calling on Congress to reject a Trump administration proposal to hand political appointees control over federal grantmaking, potentially impacting $1.1 trillion in funding.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "UK unis must pivot towards partnerships as China market evolves",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-07-10",
+      "type": "Recruitment & agents",
+      "summary_en": "UK universities must move beyond viewing China as a recruitment market and instead build deeper strategic partnerships if they are to remain competitive, delegates heard at the British Universities China Association's (BUCA) ninth annual conference.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Rongrong Walker"
+    },
+    {
+      "title": "Every 10 international students generate £1m for UK economy",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-07-10",
+      "type": "Immigration",
+      "summary_en": "International students represent a major economic benefit to the UK, generating billions during their time in the country, a new report has found.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Erasmus+ to replace Turing and Taith as sector calls for best of both",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "As the UK winds down Turing and Taith in favour of a more generously funded Erasmus+, stakeholders say the transition must preserve the former schemes' successes.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-13T12:00:28.770070",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Distant exoplanets may be hiding water beyond Webb Telescope's reach, study finds",
+      "url": "https://news.uchicago.edu/story/distant-exoplanets-may-be-hiding-water-beyond-webb-telescopes-reach-study-finds",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "UChicago scientists offer new way to read atmospheric data on a vast class of 'sub-Neptune' worlds",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Researchers build light-powered ‘artificial leaf’ for wireless medical implants",
+      "url": "https://news.uchicago.edu/story/researchers-build-light-powered-artificial-leaf-wireless-medical-implants",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "UChicago PME team creates new nanomaterial that harvests light energy for sensing and stimulation",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

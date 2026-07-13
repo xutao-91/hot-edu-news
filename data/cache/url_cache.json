@@ -12466,5 +12466,137 @@
     "fetch_time": "2026-07-12T20:00:24.921576",
     "title": "New School of Public Health receives largest donation in WashU history",
     "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/college-of-science-announces-new-assistant-associate-dean-appointments/": {
+    "source": "nd_science",
+    "fetch_time": "2026-07-13T12:00:06.577809",
+    "title": "College of Science announces new assistant, associate dean appointments",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/researchers-show-how-early-rna-based-life-may-have-repaired-its-genome-providing-insight-into-the-origins-of-life/": {
+    "source": "nd_science",
+    "fetch_time": "2026-07-13T12:00:06.577836",
+    "title": "Researchers show how early RNA-based life may have repaired its genome, providing insight into the origins of life",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/five-huskers-awarded-fellowships-for-language-learning": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-13T12:00:15.344414",
+    "title": "Five Huskers awarded fellowships for language learning",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/master-gardener-program-continues-to-benefit-volunteers-communities": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-13T12:00:15.344440",
+    "title": "Master Gardener program continues to benefit volunteers, communities",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/as-christopher-nolans-the-odyssey-arrives-a-mizzou-professor-explains-why-the-epic-still-resonates/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-13T12:00:17.493019",
+    "title": "As Christopher Nolan’s ‘The Odyssey’ arrives, a Mizzou professor explains why the epic still resonates",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/show-me-the-difference-mizzou-volunteers-make/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-13T12:00:17.493047",
+    "title": "Show-Me the difference Mizzou volunteers make",
+    "category": "education"
+  },
+  "https://news.wisc.edu/july-13-campus-cooling-update/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-13T12:00:17.612374",
+    "title": "July 13 campus cooling update",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/07/13/how-should-we-evaluate-professorial-work/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-13T12:00:20.497015",
+    "title": "How should we evaluate professorial work?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/states-try-new-measures-to-get-chronically-absent-students-back-to-class/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-13T12:00:21.547341",
+    "title": "States Try New Measures To Get Chronically Absent Students Back to Class",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/nebraska-head-starts-use-vests-with-talk-pedometers-to-boost-early-literacy/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-13T12:00:21.547367",
+    "title": "Nebraska Head Starts Use Vests With ‘Talk Pedometers’ To Boost Early Literacy",
+    "category": "general"
+  },
+  "https://www.studlife.com/news/2026/07/12/remembering-professor-guoyan-zhao": {
+    "source": "studlife",
+    "fetch_time": "2026-07-13T12:00:24.031099",
+    "title": "Remembering Professor Guoyan Zhao",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/07/12/washu-and-vanderbilt-commissioned-report-on-the-humanities-comes-under-fire": {
+    "source": "studlife",
+    "fetch_time": "2026-07-13T12:00:24.031130",
+    "title": "WashU- and Vanderbilt-commissioned report on the humanities comes under fire",
+    "category": "education"
+  },
+  "https://news.iu.edu/science/live/news/51746-beyond-the-shunt-inside-the-hydrocephalus-research-cen": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-13T12:00:24.218056",
+    "title": "IU Indianapolis research center working to develop first hydrocephalus drug therapy",
+    "category": "general"
+  },
+  "https://news.iu.edu/live/news/51763-students-archive-marketable-skills-along-with": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-13T12:00:24.218081",
+    "title": "Students archive marketable skills along with university’s physical and digital data",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0713-ava-flynn-purdue-biomedical-engineering-tyler-trent-award": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-13T12:00:24.652376",
+    "title": "Boilermaker in biomedical engineering receives 2025 Tyler Trent Award",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/graduates-of-kletcs-359th-basic-training-class-take-oath-of-office": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-13T12:00:26.051244",
+    "title": "Graduates of KLETC’s 359th Basic Training Class take oath of office",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-chapter-of-phi-beta-kappa-initiates-new-members": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-13T12:00:26.051272",
+    "title": "KU chapter of Phi Beta Kappa initiates new members",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-jazz-sets-record-at-downbeat-student-music-awards": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-13T12:00:26.051283",
+    "title": "KU Jazz sets record at DownBeat Student Music Awards",
+    "category": "education"
+  },
+  "https://today.uic.edu/renovation-work-begins-on-science-and-engineering-south-building-exterior/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-13T12:00:27.148826",
+    "title": "Renovation work begins on Science and Engineering South building exterior",
+    "category": "general"
+  },
+  "https://today.uic.edu/latest-uic-fulbright-grantees-prepare-to-embark/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-13T12:00:27.148854",
+    "title": "UIC’s newest Fulbright recipients prepare to embark",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/distant-exoplanets-may-be-hiding-water-beyond-webb-telescopes-reach-study-finds": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-13T12:00:29.011349",
+    "title": "Distant exoplanets may be hiding water beyond Webb Telescope's reach, study finds",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T12:00:30.175075",
+    "title": "Death of Senator Lindsey Graham",
+    "category": "general"
   }
 }

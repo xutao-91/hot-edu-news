@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-07-13T12:00:12.691304",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Scientists to use superpowers of AI and innovative synthesis to develop new, stronger magnets",
+      "url": "https://www.news.iastate.edu/news/scientists-use-superpowers-ai-and-innovative-synthesis-develop-new-stronger-magnets",
+      "date": "2026-07-10",
+      "type": "Innovation and Research",
+      "summary_en": "A team led by Kirill Kovnir, an Iowa State University chemist, will use artificial intelligence tools and innovative synthesis methods to develop new, super-strong magnets. The U.S. Department of Energy's Advanced Research Projects Agency -- Energy is supporting the work with a $2.7 million grant.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

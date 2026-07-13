@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-07-13T12:00:23.425114",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU Indianapolis research center working to develop first hydrocephalus drug therapy",
+      "url": "https://news.iu.edu/science/live/news/51746-beyond-the-shunt-inside-the-hydrocephalus-research-cen",
+      "date": "Jul 13, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Students archive marketable skills along with university’s physical and digital data",
+      "url": "https://news.iu.edu/live/news/51763-students-archive-marketable-skills-along-with",
+      "date": "Jul 10, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}
