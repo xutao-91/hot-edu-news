@@ -1,0 +1,17 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-14T12:00:18.198081",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "July 13 campus cooling update",
+      "url": "https://news.wisc.edu/july-13-campus-cooling-update/",
+      "date": "July 13, 2026",
+      "type": "News",
+      "summary_en": "Campus remains open and operating as higher temperatures return to the region.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
+}

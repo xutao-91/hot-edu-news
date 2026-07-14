@@ -1,0 +1,71 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-07-14T12:00:30.138671",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/",
+      "date": "July 13, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/",
+      "date": "July 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Modifying the Bears Ears National Monument",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/",
+      "date": "July 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/",
+      "date": "July 13, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Modifying the Grand Staircase-Escalante National Monument",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/",
+      "date": "July 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/",
+      "date": "July 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Relentless Strategy Is Dismantling Fentanyl Networks and Saving Lives",
+      "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-relentless-strategy-is-dismantling-fentanyl-networks-and-saving-lives/",
+      "date": "July 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham",
+      "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-honors-the-life-and-legacy-of-senator-lindsey-graham/",
+      "date": "July 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Death of Senator Lindsey Graham",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/",
+      "date": "July 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}

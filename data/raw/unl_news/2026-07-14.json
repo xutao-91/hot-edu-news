@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-14T12:00:15.244866",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Huskers build skills, support local charities through Sheds for Hope",
+      "url": "https://news.unl.edu/article/huskers-build-skills-support-local-charities-through-sheds-for-hope",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Mamo's leadership, commitment recognized with O'Hanlon Award",
+      "url": "https://news.unl.edu/article/mamos-leadership-commitment-recognized-with-ohanlon-award",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "New project explores multilingual students’ engagement with science of reading",
+      "url": "https://news.unl.edu/article/new-project-explores-multilingual-students-engagement-with-science-of-reading",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "science"
+    },
+    {
+      "title": "Five Huskers awarded fellowships for language learning",
+      "url": "https://news.unl.edu/article/five-huskers-awarded-fellowships-for-language-learning",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Master Gardener program continues to benefit volunteers, communities",
+      "url": "https://news.unl.edu/article/master-gardener-program-continues-to-benefit-volunteers-communities",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

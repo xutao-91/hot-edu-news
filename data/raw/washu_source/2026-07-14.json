@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-07-14T12:00:16.292490",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "‘Plants get sick!’: WashU scientists, U. City students research plants together",
+      "url": "https://source.washu.edu/2026/07/plants-get-sick-washu-scientists-u-city-students-research-plants-together/",
+      "date": "2026-07-14",
+      "type": "St. Louis Region",
+      "summary_en": "Biologist Rachel Penczykowski, in WashU Arts & Sciences, is an expert in infectious disease in plants. She conducts much of her research in the field — rural farmland, urban parks and, on this sunny day, a garden bed at Jackson Park Elementary School in the University City School District.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "What mice and crayfish can teach us about evolution",
+      "url": "https://source.washu.edu/2026/07/what-mice-and-crayfish-can-teach-us-about-evolution/",
+      "date": "2026-07-14",
+      "type": "Biology",
+      "summary_en": "By studying two very different animals, biologist Andreas Kautt in WashU Arts & Sciences is uncovering the genetic changes that help species adapt and diversify.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

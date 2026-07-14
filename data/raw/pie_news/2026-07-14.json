@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-07-14T12:00:08.571208",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "India on the rise as a study destination for local students",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-07-14",
+      "type": "Data",
+      "summary_en": "As the ‘big four’ study destinations continue to lose market share, new data reveals a surge in Indian students opting for in-country postgraduate education.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Scottish minister urges UK government to “get behind” international higher education",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-14",
+      "type": "Policy",
+      "summary_en": "International collaboration has “never been more important” and the UK must “stand up for the benefits of higher education as a true UK asset”, Scotland’s tertiary education minister told the BUILA conference in Glasgow.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "England to push on with international student levy despite sector’s concerns",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-13",
+      "type": "Policy",
+      "summary_en": "The UK government is pressing ahead with plans to introduce a levy on the international student fee income of English universities despite concerns raised by the sector.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Australian regulators raise compliance concerns over agent commission ban",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-07-13",
+      "type": "Recruitment & agents",
+      "summary_en": "Australia’s higher education and vocational education regulators have issued a joint sector alert warning providers over practices that may undermine a ban on education agent commissions linked to onshore overseas student transfers.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Made Impact aims to “change the narrative” with UN summit",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "The inaugural Made Impact Summit 2026 will take place at the United Nations in New York, it has been confirmed.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    }
+  ]
+}

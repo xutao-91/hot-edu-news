@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-07-14T12:00:20.486521",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "How should we evaluate professorial work?",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/07/13/how-should-we-evaluate-professorial-work/",
+      "date": "2026-07-13",
+      "type": "Faculty & Staff",
+      "summary_en": "College faculty are all aware of the three pillars of professorial work: instruction, scholarship, and service. Faculty are generally assessed on peer review publications, academic presentations, grants authored, and service on university and professional committees.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

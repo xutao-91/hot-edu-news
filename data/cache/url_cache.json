@@ -12712,5 +12712,143 @@
     "fetch_time": "2026-07-13T20:00:31.091147",
     "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/new-approach-to-cancer-immunotherapy-improves-efficacy-and-decreases-toxicity/": {
+    "source": "nd_science",
+    "fetch_time": "2026-07-14T12:00:07.201047",
+    "title": "New Approach to Cancer Immunotherapy Improves Efficacy and Decreases Toxicity",
+    "category": "semiconductor"
+  },
+  "https://www.slu.edu/news/2026/july/sarah-conroy-upaa-honors.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-14T12:00:08.876779",
+    "title": "SLU Photographer Honored by University Photographers' Association of America",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/fountain-wars-asabe-competition.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-14T12:00:11.760645",
+    "title": "High-stakes engineering in a kiddie pool",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/jay-harris-extends-knowledge-to-cottonwood-district.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-14T12:00:11.760671",
+    "title": "People with Purpose: Jay Harris",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/huskers-build-skills-support-local-charities-through-sheds-for-hope": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-14T12:00:16.217085",
+    "title": "Huskers build skills, support local charities through Sheds for Hope",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/mamos-leadership-commitment-recognized-with-ohanlon-award": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-14T12:00:16.217110",
+    "title": "Mamo's leadership, commitment recognized with O'Hanlon Award",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/new-project-explores-multilingual-students-engagement-with-science-of-reading": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-14T12:00:16.217122",
+    "title": "New project explores multilingual students’ engagement with science of reading",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/plants-get-sick-washu-scientists-u-city-students-research-plants-together/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-14T12:00:17.073236",
+    "title": "‘Plants get sick!’: WashU scientists, U. City students research plants together",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/what-mice-and-crayfish-can-teach-us-about-evolution/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-14T12:00:17.073271",
+    "title": "What mice and crayfish can teach us about evolution",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/veterinary-medicine-faculty-receive-zoetis-awards-for-excellence-in-research-teaching/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-14T12:00:18.617068",
+    "title": "Veterinary medicine faculty receive Zoetis awards for excellence in research, teaching",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/can-ethnic-studies-bridge-the-achievement-gap-san-francisco-program-shows-gains/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-14T12:00:19.128087",
+    "title": "Can Ethnic Studies Bridge the Achievement Gap? San Francisco Program Shows Gains",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/homework-artificial-intelligence-cheating/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-14T12:00:19.128116",
+    "title": "The End of Homework? Teachers Grapple With Cheating in the Age of AI",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0713-purdue-mem-students-tusafishe-uganda-water-social-impact": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-14T12:00:24.129154",
+    "title": "Purdue MEM students join Ugandan social enterprise to chart path for sustainable growth",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0714-purdue-mem-silo-africa-kenya-agritech-food-security": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-14T12:00:24.129183",
+    "title": "Purdue MEM students team with Kenyan agritech startup to strengthen food security through business innovation",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0714-david-bernal-neira-purdue-quantum-computing-optimization": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-14T12:00:24.129195",
+    "title": "In the news: ChE's Neira featured in POLITICO's quantum coverage (subscription required)",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0714-purdue-semiconductor-academy-nycu-taiwan-workforce-education": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-14T12:00:24.129205",
+    "title": "Purdue expands semiconductor professional education portfolio to advance global workforce development",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0714-sharon-miller-purdue-biomedical-engineering-indianapolis-inscribe": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-14T12:00:24.129214",
+    "title": "BME's Miller designs experiences to help students gain real-world skills in Indianapolis",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/examining-epic-behind-blockbuster-odyssey": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-14T12:00:29.674943",
+    "title": "Examining the Epic Behind the Blockbuster: The Odyssey",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Activating-glass-for-next-generation-semiconductor-substrates.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-14T12:00:29.799747",
+    "title": "Activating glass for next generation semiconductor substrates",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-14T12:00:30.569838",
+    "title": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA4901-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-14T12:00:30.569865",
+    "title": "Artificial Intelligence and the Risk of Strategic Cyberattack",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4737-3.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-14T12:00:30.569875",
+    "title": "Technical Documentation for the Thirteenth American School District Panel Survey",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4737-4.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-14T12:00:30.569885",
+    "title": "Shrinking Budgets, Fewer Students: How District Leaders are Navigating a New Landscape of Reduced Resources and Competitive Pressures",
+    "category": "education"
   }
 }
