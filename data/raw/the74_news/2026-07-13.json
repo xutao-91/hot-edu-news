@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-13T12:00:20.750890",
+  "crawled_at": "2026-07-13T20:00:18.229369",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.551929"
+      "crawled_at": "2026-07-13T20:00:17.973096"
+    },
+    {
+      "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
+      "url": "https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/",
+      "date": "July 13, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-13T20:00:17.985210"
     },
     {
       "title": "States Try New Measures To Get Chronically Absent Students Back to Class",
@@ -18,7 +26,7 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.560802"
+      "crawled_at": "2026-07-13T20:00:17.997193"
     },
     {
       "title": "In Mississippi, Summer Can Increase Risk of Hunger for 3 in 4 Kids Who Rely on In-School Meals",
@@ -26,7 +34,7 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.570095"
+      "crawled_at": "2026-07-13T20:00:18.008666"
     },
     {
       "title": "Are Detroit’s Health Hubs the Solution to DPSCD’s Chronic Absenteeism Problem?",
@@ -34,15 +42,7 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.579822"
-    },
-    {
-      "title": "First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law",
-      "url": "https://www.the74million.org/article/first-columbia-charter-school-targets-2027-opening-amid-lawsuit-over-missouri-law/",
-      "date": "July 13, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.589342"
+      "crawled_at": "2026-07-13T20:00:18.021212"
     },
     {
       "title": "Nebraska Head Starts Use Vests With ‘Talk Pedometers’ To Boost Early Literacy",
@@ -50,7 +50,15 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.597840"
+      "crawled_at": "2026-07-13T20:00:18.032901"
+    },
+    {
+      "title": "First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law",
+      "url": "https://www.the74million.org/article/first-columbia-charter-school-targets-2027-opening-amid-lawsuit-over-missouri-law/",
+      "date": "July 10, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-13T20:00:18.044416"
     },
     {
       "title": "5 Key Education Stories This Week: Future of College, ‘Rehumaning’ School & More",
@@ -58,7 +66,7 @@
       "date": "July 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.606345"
+      "crawled_at": "2026-07-13T20:00:18.055863"
     },
     {
       "title": "‘Math Wars’: New York Wants To Reform Math Instruction, but Experts Disagree on How",
@@ -66,7 +74,7 @@
       "date": "July 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.614882"
+      "crawled_at": "2026-07-13T20:00:18.067293"
     },
     {
       "title": "Market Share Continues to Hold Steady for NC Public Schools",
@@ -74,7 +82,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.623331"
+      "crawled_at": "2026-07-13T20:00:18.069584"
     },
     {
       "title": "Dana Suskind on How To Protect Childhood in the Age of AI",
@@ -82,7 +90,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.625657"
+      "crawled_at": "2026-07-13T20:00:18.080952"
     },
     {
       "title": "Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules",
@@ -90,7 +98,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.634095"
+      "crawled_at": "2026-07-13T20:00:18.092384"
     },
     {
       "title": "Hoosier Childcare Providers Slam Education Requirement Rollback",
@@ -98,7 +106,7 @@
       "date": "July 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.642593"
+      "crawled_at": "2026-07-13T20:00:18.103906"
     },
     {
       "title": "Appeals Court Says Religious Schools Can’t be Exempt From Maine’s Nondiscrimination Laws",
@@ -106,7 +114,7 @@
       "date": "July 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.650983"
+      "crawled_at": "2026-07-13T20:00:18.115293"
     },
     {
       "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
@@ -114,7 +122,7 @@
       "date": "July 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.659573"
+      "crawled_at": "2026-07-13T20:00:18.117553"
     },
     {
       "title": "NYC Budget Gives Every Public School Kindergartner $1,000 for College, Restores Education Programs",
@@ -122,7 +130,7 @@
       "date": "July 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.667966"
+      "crawled_at": "2026-07-13T20:00:18.128986"
     },
     {
       "title": "Newsom’s Final Education Budget, by the Numbers",
@@ -130,7 +138,7 @@
       "date": "July 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.670182"
+      "crawled_at": "2026-07-13T20:00:18.140426"
     },
     {
       "title": "‘Rehumaning’ Education: Banning Screens Is Only Part of the Solution",
@@ -138,7 +146,7 @@
       "date": "July 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.678754"
+      "crawled_at": "2026-07-13T20:00:18.152035"
     },
     {
       "title": "Princess Moss Elected NEA President With Votes From 50% of Assembly Members",
@@ -146,7 +154,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.687128"
+      "crawled_at": "2026-07-13T20:00:18.169174"
     },
     {
       "title": "A Restored Detroit Rail Station Looks to the Future, Offering Training for Teens",
@@ -154,7 +162,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.695487"
+      "crawled_at": "2026-07-13T20:00:18.181648"
     },
     {
       "title": "New Jersey Invests Record Money in Preschool, But Serving Multilingual Learners is Another Story",
@@ -162,7 +170,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.703938"
+      "crawled_at": "2026-07-13T20:00:18.190108"
     },
     {
       "title": "Elementary Principals Are Getting a Crash Course in How Young Kids Learn Best",
@@ -170,7 +178,7 @@
       "date": "July 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.706287"
+      "crawled_at": "2026-07-13T20:00:18.192466"
     },
     {
       "title": "Mississippi Focuses on Boosting Middle School Students’ Reading Scores",
@@ -178,7 +186,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.718920"
+      "crawled_at": "2026-07-13T20:00:18.206940"
     },
     {
       "title": "California School Libraries Blindsided by ‘Catastrophic’ Budget Cut",
@@ -186,7 +194,7 @@
       "date": "July 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.727473"
+      "crawled_at": "2026-07-13T20:00:18.218559"
     },
     {
       "title": "Native Hawaiian Teens Learn To ‘Make Change’ for the Islands",
@@ -194,15 +202,7 @@
       "date": "July 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.738937"
-    },
-    {
-      "title": "State Museum Debuts Exhibit Highlighting SC’s Role in Revolutionary War",
-      "url": "https://www.the74million.org/article/state-museum-debuts-exhibit-highlighting-scs-role-in-revolutionary-war/",
-      "date": "July 4, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-13T12:00:20.750398"
+      "crawled_at": "2026-07-13T20:00:18.228992"
     }
   ]
 }

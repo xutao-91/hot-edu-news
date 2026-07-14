@@ -1,7 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-13T12:00:06.712803",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-13T20:00:07.502935",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Nearly 6 in 10 young women get health and wellness information from influencers",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/13/nearly-6-in-10-young-women-get-health-and-wellness-information-from-influencers/",
+      "date": "Jul 13, 2026",
+      "type": "short reads",
+      "categories": [
+        "Health Care",
+        "Healthcare Online",
+        "Influencers",
+        "Medicine Health"
+      ],
+      "summary_en": "Young women are especially likely to say they often see influencer content about beauty and appearance.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
 }

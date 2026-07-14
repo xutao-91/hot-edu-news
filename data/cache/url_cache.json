@@ -12598,5 +12598,119 @@
     "fetch_time": "2026-07-13T12:00:30.175075",
     "title": "Death of Senator Lindsey Graham",
     "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/13/nearly-6-in-10-young-women-get-health-and-wellness-information-from-influencers/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-13T20:00:08.314196",
+    "title": "Nearly 6 in 10 young women get health and wellness information from influencers",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-13T20:00:18.969280",
+    "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/july/doe-run-research.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-13T20:00:20.583666",
+    "title": "SLU Research Helps Bring Justice to Peruvian Children Poisoned by Toxic Smelter",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51769-all-iu-campuses-earn-collegiate-purple-star-of": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-13T20:00:24.364067",
+    "title": "All IU campuses earn Collegiate Purple Star of Indiana for supporting military-connected students",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51776-ask-the-expert-world-cup-music-facts-from-eduardo": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-13T20:00:24.364093",
+    "title": "Ask the Expert: World Cup music facts from Eduardo Herrera",
+    "category": "semiconductor"
+  },
+  "https://oneill.indiana.edu/news/2026-0713-franco-sweet-solution.html": {
+    "source": "oneill",
+    "fetch_time": "2026-07-13T20:00:26.323995",
+    "title": "Sweet Solution: O’Neill School research reveals powerful link between chocolate and carbon sequestration",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-hosts-inaugural-world-food-prize-illinois-youth-institute/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-13T20:00:28.308681",
+    "title": "UIC hosts inaugural World Food Prize Illinois Youth Institute",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/forbes-ranks-purdues-online-masters-it-best-nation": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-13T20:00:28.962089",
+    "title": "Forbes ranks Purdue’s online master’s in IT as best in the nation",
+    "category": "general"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ACE-COE-TRIO-Grant-Competition-Changes.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-07-13T20:00:30.444516",
+    "title": "ACE, COE Warn Proposed TRIO Changes Would Undermine Decades of College Access Success",
+    "category": "education"
+  },
+  "https://www.forbes.com/sites/michaeltnietzel/2026/07/11/at-the-university-of-chicago-law-school-socrates-is-in-laptops-are-out/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-13T20:00:30.669413",
+    "title": "At The University Of Chicago Law School, Socrates Is In, Laptops Are Out",
+    "category": "education"
+  },
+  "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-13T20:00:30.669438",
+    "title": "Bloomberg Money 7/10/2026",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091051",
+    "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/regulatory-relief-for-certain-stationary-sources-to-promote-american-chemical-manufacturing-security-be40/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091083",
+    "title": "Regulatory Relief for Certain Stationary Sources to Promote American Chemical Manufacturing Security",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-bears-ears-national-monument/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091095",
+    "title": "Modifying the Bears Ears National Monument",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-modifies-two-national-monuments-restoring-sensible-land-management/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091106",
+    "title": "Fact Sheet: President Donald J. Trump Modifies Two National Monuments, Restoring Sensible Land Management",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/modifying-the-grand-staircase-escalante-national-monument/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091117",
+    "title": "Modifying the Grand Staircase-Escalante National Monument",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-sent-to-the-senate-3fd0/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091127",
+    "title": "Nominations Sent to the Senate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/president-trumps-relentless-strategy-is-dismantling-fentanyl-networks-and-saving-lives/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091137",
+    "title": "President Trump’s Relentless Strategy Is Dismantling Fentanyl Networks and Saving Lives",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/president-trump-honors-the-life-and-legacy-of-senator-lindsey-graham/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-13T20:00:31.091147",
+    "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham",
+    "category": "general"
   }
 }

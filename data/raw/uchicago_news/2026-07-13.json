@@ -1,8 +1,8 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-13T12:00:28.770070",
-  "total_news": 2,
+  "crawled_at": "2026-07-13T20:00:30.207369",
+  "total_news": 4,
   "news": [
     {
       "title": "Distant exoplanets may be hiding water beyond Webb Telescope's reach, study finds",
@@ -12,6 +12,24 @@
       "summary_en": "UChicago scientists offer new way to read atmospheric data on a vast class of 'sub-Neptune' worlds",
       "source": "UChicago News",
       "category": "research"
+    },
+    {
+      "title": "At The University Of Chicago Law School, Socrates Is In, Laptops Are Out",
+      "url": "https://www.forbes.com/sites/michaeltnietzel/2026/07/11/at-the-university-of-chicago-law-school-socrates-is-in-laptops-are-out/",
+      "date": "2026-07-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Bloomberg Money 7/10/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video",
+      "date": "2026-07-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
     },
     {
       "title": "Researchers build light-powered ‘artificial leaf’ for wireless medical implants",

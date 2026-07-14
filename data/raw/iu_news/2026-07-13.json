@@ -1,9 +1,27 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-07-13T12:00:23.425114",
-  "total_news": 2,
+  "crawled_at": "2026-07-13T20:00:23.740802",
+  "total_news": 4,
   "news": [
+    {
+      "title": "All IU campuses earn Collegiate Purple Star of Indiana for supporting military-connected students",
+      "url": "https://news.iu.edu/live/news/51769-all-iu-campuses-earn-collegiate-purple-star-of",
+      "date": "Jul 13, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Ask the Expert: World Cup music facts from Eduardo Herrera",
+      "url": "https://news.iu.edu/live/news/51776-ask-the-expert-world-cup-music-facts-from-eduardo",
+      "date": "Jul 13, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "IU Indianapolis research center working to develop first hydrocephalus drug therapy",
       "url": "https://news.iu.edu/science/live/news/51746-beyond-the-shunt-inside-the-hydrocephalus-research-cen",

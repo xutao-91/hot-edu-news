@@ -1,7 +1,7 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-13T12:00:16.880638",
+  "crawled_at": "2026-07-13T20:00:18.894178",
   "total_news": 3,
   "news": [
     {
@@ -14,7 +14,7 @@
       "category": "campus"
     },
     {
-      "title": "Don’t Click on That Link!",
+      "title": "Don’t click on that link!",
       "url": "https://onwisconsin.uwalumni.com/dont-click-on-that-link/",
       "date": "July 10, 2026",
       "type": "News",

@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-07-13T12:00:08.061017",
-  "total_news": 6,
+  "crawled_at": "2026-07-13T20:00:09.185588",
+  "total_news": 7,
   "news": [
+    {
+      "title": "England to push on with international student levy despite sector’s concerns",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-13",
+      "type": "Policy",
+      "summary_en": "The UK government is pressing ahead with plans to introduce a levy on the international student fee income of English universities despite concerns raised by the sector.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
     {
       "title": "Australian regulators raise compliance concerns over agent commission ban",
       "url": "https://thepienews.com/category/news/agencies/",

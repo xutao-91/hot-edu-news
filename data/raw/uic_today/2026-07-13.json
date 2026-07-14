@@ -1,9 +1,18 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-07-13T12:00:26.602592",
-  "total_news": 2,
+  "crawled_at": "2026-07-13T20:00:27.386332",
+  "total_news": 3,
   "news": [
+    {
+      "title": "UIC hosts inaugural World Food Prize Illinois Youth Institute",
+      "url": "https://today.uic.edu/uic-hosts-inaugural-world-food-prize-illinois-youth-institute/",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "High school students explore global food security, sustainability and STEM-focused career pathways.",
+      "source": "UIC Today",
+      "category": "general"
+    },
     {
       "title": "Renovation work begins on Science and Engineering South building exterior",
       "url": "https://today.uic.edu/renovation-work-begins-on-science-and-engineering-south-building-exterior/",
