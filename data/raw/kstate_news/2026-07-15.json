@@ -1,0 +1,35 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-15T12:00:08.420879",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Powercat Financial announces Sara Ray as director",
+      "url": "https://www.k-state.edu/news/articles/2026/07/sara-ray-named-director-of-powercat-financial.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "Effective Aug. 2, Powercat Financial will be guided by Sara Ray. Ray brings more than a decade of collegiate financial wellness leadership to the role.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "High-stakes engineering in a kiddie pool",
+      "url": "https://www.k-state.edu/news/articles/2026/07/fountain-wars-asabe-competition.html",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "Mixing high-stakes engineering with an Indy 500-themed backyard kiddie pool, a team of K-State students is hoping to return as champions again from the hands-on, real-time ASABE Fountain...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Jay Harris",
+      "url": "https://www.k-state.edu/news/articles/2026/07/jay-harris-extends-knowledge-to-cottonwood-district.html",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "Jay Harris' leadership helps connect Kansas communities with research-based education that improves lives.",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

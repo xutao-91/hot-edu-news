@@ -12958,5 +12958,161 @@
     "fetch_time": "2026-07-14T20:00:34.897656",
     "title": "Nominations and Withdrawals Sent to the Senate",
     "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/sara-ray-named-director-of-powercat-financial.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-15T12:00:09.180803",
+    "title": "Powercat Financial announces Sara Ray as director",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-15T12:00:09.682649",
+    "title": "People in Many Countries Now View China More Positively Than the U.S.",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/global/2026/07/15/views-of-china-and-xi-are-improving-globally/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-15T12:00:09.682676",
+    "title": "Views of China and Xi Are Improving Globally",
+    "category": "general"
+  },
+  "https://www.news.iastate.edu/news/long-shadow-short-fuse": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-15T12:00:13.086406",
+    "title": "The long shadow of a short fuse",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/07/global-consortium-launches-ai-tools-to-accelerate-alzheimers-research-treatments/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-15T12:00:15.612921",
+    "title": "Global consortium launches AI tools to accelerate Alzheimer’s research, treatments",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/07/dementia-rising-across-latino-populations-multidecade-study-finds/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-15T12:00:15.612950",
+    "title": "Dementia rising across Latino populations, multidecade study finds",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/webinar-to-help-tax-professionals-navigate-rules-after-farm-disaster": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-15T12:00:16.726175",
+    "title": "Webinar to help tax professionals navigate rules after farm disaster",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/uni-smithsonian-finding-place-museum-world": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-15T12:00:18.459331",
+    "title": "From UNI to the Smithsonian: Finding a place in the museum world",
+    "category": "semiconductor"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/07/15/most-states-struggle-to-bring-adult-learners-back-to-college/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-15T12:00:20.610973",
+    "title": "Most states struggle to bring adult learners back to college",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/indiana-sets-standards-for-4-day-school-week-waivers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-15T12:00:21.155428",
+    "title": "Indiana Sets Standards for 4-Day School Week Waivers",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mu-extension-helps-turn-setbacks-into-new-beginnings/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-15T12:00:23.326927",
+    "title": "MU Extension helps turn setbacks into new beginnings",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-on-the-front-lines-of-tracking-tick-borne-diseases-in-missouri/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-15T12:00:23.326952",
+    "title": "Mizzou on the front lines of tracking tick-borne diseases in Missouri",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/51788-iu-indianapolis-museum-studies-grad-protects": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-15T12:00:23.801574",
+    "title": "IU Indianapolis museum studies grad protects treasures of US space flight",
+    "category": "general"
+  },
+  "https://oneill.indiana.edu/news/2026-0715-gronbjerg-nonprofits-covid.html": {
+    "source": "oneill",
+    "fetch_time": "2026-07-15T12:00:24.234761",
+    "title": "Slow recovery for Indiana’s nonprofits from COVID-19 employment losses",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-engineering-researcher-receives-nsf-career-award-for-work-on-reliable-healthcare-ai": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-15T12:00:25.441842",
+    "title": "KU Engineering researcher receives NSF CAREER award for work on reliable healthcare AI",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/dorris-mbogo-selected-as-kus-interim-university-ombuds": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-15T12:00:25.441866",
+    "title": "Dorris Mbogo selected as KU’s interim university ombuds",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/startups-co-innovation-outcomes-depend-on-venture-capitalist-type-study-finds": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-15T12:00:25.441877",
+    "title": "Startups’ co-innovation outcomes depend on venture capitalist type, study finds",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/national-science-foundation-honors-ku-engineering-researcher-for-protecting-public-trust-in-global-supply-chains": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-15T12:00:25.441888",
+    "title": "National Science Foundation honors KU Engineering researcher for protecting public trust in global supply chains",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/study-finds-effective-method-to-help-teachers-address-gap-between-finding-a-good-practice-and-getting-started": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-15T12:00:25.441898",
+    "title": "Study finds effective method to help teachers address gap between finding a good practice and getting started",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/christopher-johnson-serving-as-school-of-music-interim-dean": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-15T12:00:25.441907",
+    "title": "Christopher Johnson serving as School of Music interim dean",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/court-theatre-marks-10-years-spotlighting-black-playwrights": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-15T12:00:29.119062",
+    "title": "Court Theatre marks 10 years of ‘spotlighting’ Black playwrights",
+    "category": "general"
+  },
+  "https://stories.butler.edu/boldly-forward-donors-contribute-more-than-31-million-to-advance-boldly-butler-priorities-in-2025-2026/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-07-15T12:00:29.335423",
+    "title": "Boldly Forward: Donors Contribute More Than $31 Million To Advance Boldly Butler Priorities in 2025-2026",
+    "category": "education"
+  },
+  "https://stories.butler.edu/how-startedup-sparked-miles-osheas-entrepreneurial-journey/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-07-15T12:00:29.335450",
+    "title": "How STARTedUP Sparked Miles O’Shea’s Entrepreneurial Journey",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71418.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-15T12:00:29.449474",
+    "title": "Strategic Autonomy in the Age of Artificial Intelligence",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71419.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-15T12:00:29.449500",
+    "title": "AI as Strategist: Four Hypotheses on the Nature of Agentic Strategy",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-15T12:00:30.172147",
+    "title": "Measuring Balance of Payments Deficits",
+    "category": "semiconductor"
   }
 }

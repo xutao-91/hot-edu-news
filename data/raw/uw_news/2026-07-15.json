@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-15T12:00:17.742740",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How to beat phone addiction",
+      "url": "https://onwisconsin.uwalumni.com/how-to-beat-phone-addiction/",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "Two Badgers have created the Brick, a small device that you tap with your phone to temporarily block apps and eliminate digital distractions.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "July 13 campus cooling update",
+      "url": "https://news.wisc.edu/july-13-campus-cooling-update/",
+      "date": "July 13, 2026",
+      "type": "News",
+      "summary_en": "Campus remains open and operating as higher temperatures return to the region.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
+}
