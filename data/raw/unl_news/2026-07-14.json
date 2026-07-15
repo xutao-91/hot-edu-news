@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-07-14T12:00:15.244866",
-  "total_news": 5,
+  "crawled_at": "2026-07-14T20:00:15.441556",
+  "total_news": 6,
   "news": [
+    {
+      "title": "UNL partners with Iowa State, others on major biomanufacturing initiative",
+      "url": "https://news.unl.edu/article/unl-partners-with-iowa-state-others-on-major-biomanufacturing-initiative",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Huskers build skills, support local charities through Sheds for Hope",
       "url": "https://news.unl.edu/article/huskers-build-skills-support-local-charities-through-sheds-for-hope",

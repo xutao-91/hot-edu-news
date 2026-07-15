@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-07-14T12:00:17.907344",
-  "total_news": 3,
+  "crawled_at": "2026-07-14T20:00:18.982013",
+  "total_news": 4,
   "news": [
+    {
+      "title": "University of Missouri (UM) System Critical Materials Crossroads Engine selected for $160 million NSF award",
+      "url": "https://showme.missouri.edu/2026/university-of-missouri-um-system-critical-materials-crossroads-engine-selected-for-160-million-nsf-award/",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "Led by University of Missouri-Kansas City, this regional consortium includes all four institutions of the UM System — the University of Missouri, Missouri University of Science and Technology, the University of Missouri-St. Louis and UMKC. This partnership will build an ecosystem to ensure national security and energy independence as well as economic development.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "Veterinary medicine faculty receive Zoetis awards for excellence in research, teaching",
       "url": "https://showme.missouri.edu/2026/veterinary-medicine-faculty-receive-zoetis-awards-for-excellence-in-research-teaching/",

@@ -1,9 +1,34 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-14T12:00:07.223042",
-  "total_news": 1,
+  "crawled_at": "2026-07-14T20:00:06.964023",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Party Affiliation Fact Sheet (NPORS)",
+      "url": "https://www.pewresearch.org/politics/fact-sheet/party-affiliation-fact-sheet-npors/",
+      "date": "Jul 14, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Political Parties",
+        "Voter Demographics"
+      ],
+      "summary_en": "Explore trends in partisan identification among U.S. adults using data from Pew Research Center’s National Public Opinion Reference Survey (NPORS).",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "National Public Opinion Reference Survey (NPORS)",
+      "url": "https://www.pewresearch.org/methods/fact-sheet/national-public-opinion-reference-survey-npors/",
+      "date": "Jul 14, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Online Surveys"
+      ],
+      "summary_en": "NPORS is an annual survey of U.S. adults conducted by the Pew Research Center used to to produce benchmark estimates for several topics.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
     {
       "title": "Nearly 6 in 10 young women get health and wellness information from influencers",
       "url": "https://www.pewresearch.org/short-reads/2026/07/13/nearly-6-in-10-young-women-get-health-and-wellness-information-from-influencers/",

@@ -1,9 +1,30 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-14T12:00:30.138671",
-  "total_news": 9,
+  "crawled_at": "2026-07-14T20:00:34.532369",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Law Enforcement Leaders Across America Support Todd Blanche for Attorney General",
+      "url": "https://www.whitehouse.gov/releases/2026/07/law-enforcement-leaders-across-america-support-todd-blanche-for-attorney-general/",
+      "date": "July 14, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination",
+      "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
+      "date": "July 14, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations and Withdrawals Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
+      "date": "July 14, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "Fact Sheet: President Donald J. Trump Grants Further Regulatory Relief from Burdensome EPA Restrictions to Promote American Security",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-grants-further-regulatory-relief-from-burdensome-epa-restrictions-to-promote-american-security/",
@@ -51,20 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/07/president-trumps-relentless-strategy-is-dismantling-fentanyl-networks-and-saving-lives/",
       "date": "July 13, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump Honors the Life and Legacy of Senator Lindsey Graham",
-      "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-honors-the-life-and-legacy-of-senator-lindsey-graham/",
-      "date": "July 13, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Death of Senator Lindsey Graham",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/death-of-senator-lindsey-graham/",
-      "date": "July 13, 2026",
-      "category": "Presidential Actions",
       "source": "The White House"
     }
   ]

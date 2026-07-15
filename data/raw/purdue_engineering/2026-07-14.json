@@ -1,8 +1,8 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-07-14T12:00:23.471774",
-  "total_news": 6,
+  "crawled_at": "2026-07-14T20:00:23.995015",
+  "total_news": 7,
   "news": [
     {
       "title": "Purdue MEM students join Ugandan social enterprise to chart path for sustainable growth",
@@ -48,6 +48,15 @@
       "summary_en": "For Sharon Miller, being an educator isn’t just about passing on technical knowledge — it’s about giving students the tools to recognize their strengths and gain confidence in settings that help turn theory into practice.",
       "source": "Purdue College of Engineering",
       "category": "education"
+    },
+    {
+      "title": "NE’s Hassanein receives prestigious IEEE Distinguished Member Award",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/ne8217s-hassanein-receives-prestigious-ieee-distinguished-member-award",
+      "date": "July 13, 2026",
+      "type": "News",
+      "summary_en": "Ahmed Hassanein, the Paul L. Wattelet Distinguished Professor of Nuclear Engineering and director of the Center for Materials under Extreme Environment (CMUXE), has been selected to receive the 2026 IEEE Nuclear and Plasma Sciences Society (NPSS) Richard F. Shea Distinguished Member Award. The honor marks Hassanein’s fourth major international award and recognizes his decades of leadership, servic",
+      "source": "Purdue College of Engineering",
+      "category": "general"
     },
     {
       "title": "Boilermaker in biomedical engineering receives 2025 Tyler Trent Award",

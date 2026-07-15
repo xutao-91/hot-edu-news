@@ -1,7 +1,17 @@
 {
   "source": "Iowa State University News",
   "source_url": "https://www.news.iastate.edu/news-releases",
-  "crawled_at": "2026-07-14T12:00:13.751409",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-14T20:00:15.992143",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Initiative to strengthen rural communities through biomanufacturing receives $15 million in federal funding",
+      "url": "https://www.news.iastate.edu/news/initiative-strengthen-rural-communities-through-biomanufacturing-receives-15-million-federal",
+      "date": "2026-07-14",
+      "type": "Science and Technology",
+      "summary_en": "An Iowa State University-led research initiative to bolster the economic vitality of rural communities is one of 12 projects selected for the National Science Foundation’s Regional Innovation Engines (NSF Engines) awards. RuralSTAMINA is focused on creating new value-added products through the discovery and commercialization of innovations in biomass conversion and biomanufacturing.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
 }

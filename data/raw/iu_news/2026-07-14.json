@@ -1,8 +1,8 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-07-14T12:00:23.835351",
-  "total_news": 3,
+  "crawled_at": "2026-07-14T20:00:24.767262",
+  "total_news": 4,
   "news": [
     {
       "title": "All IU campuses earn Collegiate Purple Star of Indiana for supporting military-connected students",
@@ -18,6 +18,15 @@
       "url": "https://news.iu.edu/live/news/51776-ask-the-expert-world-cup-music-facts-from-eduardo",
       "date": "Jul 13, 2026",
       "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU-led coalition named NSF IMPACT Engine in Indiana to advance treatment of musculoskeletal health conditions",
+      "url": "https://news.iu.edu/live/news/51783-iu-led-coalition-named-nsf-impact-engine",
+      "date": "Jul 14, 2026",
+      "type": "Administration",
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"

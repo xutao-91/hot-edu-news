@@ -1,9 +1,27 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-14T12:00:29.318534",
-  "total_news": 3,
+  "crawled_at": "2026-07-14T20:00:30.036314",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Statement: UChicago Comment on Proposed Federal Rule",
+      "url": "https://news.uchicago.edu/media/statement/statement-uchicago-comment-proposed-federal-rule",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Department of Energy extends contract with UChicago Argonne, LLC",
+      "url": "https://news.uchicago.edu/story/department-energy-extends-contract-uchicago-argonne-llc",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "Agreement continues partnership with Argonne National Laboratory, driving advances in energy, computing, materials science and national security",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Examining the Epic Behind the Blockbuster: The Odyssey",
       "url": "https://news.uchicago.edu/examining-epic-behind-blockbuster-odyssey",

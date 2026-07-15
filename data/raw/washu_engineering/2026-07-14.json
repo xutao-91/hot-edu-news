@@ -1,8 +1,8 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-07-14T12:00:29.523606",
-  "total_news": 1,
+  "crawled_at": "2026-07-14T20:00:30.082466",
+  "total_news": 3,
   "news": [
     {
       "title": "Activating glass for next generation semiconductor substrates",
@@ -10,6 +10,24 @@
       "date": "2026-07-14",
       "type": "News",
       "summary_en": "Sang-Hoon Bae plans to use glass to grow 2D crystals with NSF CAREER Award.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "CSE faculty, students win ACL Outstanding Paper award",
+      "url": "https://engineering.washu.edu/news/2026/CSE-faculty-students-win-ACL-Outstanding-Paper-award.html",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "Doctoral student Luise Ge, alumnus Ryan Zhang and Professor Yevgeniy Vorobeychik won the Outstanding Paper award from the Association for Computational Linguistics.",
+      "source": "WashU McKelvey Engineering",
+      "category": "faculty"
+    },
+    {
+      "title": "Dhakal receives 2026 Google PhD residency",
+      "url": "https://engineering.washu.edu/news/2026/Dhakal-receives-2026-Google-PhD-residency.html",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "Aayush Dhakal, a doctoral student in Nathan Jacobs’ lab, will work on building AI-powered platform to modernize electrical grid.",
       "source": "WashU McKelvey Engineering",
       "category": "general"
     }

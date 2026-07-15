@@ -1,7 +1,17 @@
 {
   "source": "Milwaukee School of Engineering (MSOE)",
   "source_url": "https://www.msoe.edu/about-msoe/news/1/",
-  "crawled_at": "2026-07-14T12:00:10.601655",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-14T20:00:10.800501",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Faculty Liaison Fellows serve intersection of MSOE and industry",
+      "url": "https://www.msoe.edu/about-msoe/news/details/faculty-liaison-fellows-serve-intersection-of-msoe-and-industry",
+      "date": "2026-07-14",
+      "type": "Faculty & Staff",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "faculty"
+    }
+  ]
 }
