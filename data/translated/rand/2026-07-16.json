@@ -1,0 +1,98 @@
+[
+  {
+    "title": "A Mile Wide, an Inch Deep: The State of Civic Learning in U.S. School Districts",
+    "url": "https://www.rand.org/pubs/external_publications/EP71411.html",
+    "date": "Jul 16, 2026",
+    "type": "Research",
+    "summary_en": "This brief is the first in a three-part series from the American School District Panel, a research partnership between RAND and CRPE that surveys hundreds of school district leaders.",
+    "source": "Rand Corporation",
+    "category": "students",
+    "title_cn": "A Mile Wide, an Inch Deep: The State of Civic Learning in U.S. School Districts",
+    "summary_cn": "",
+    "_sort_date": "2026-07-16"
+  },
+  {
+    "title": "Pooling Europe's compute: The promise of distributed training for European frontier AI",
+    "url": "https://www.rand.org/pubs/research_reports/RRA5013-1.html",
+    "date": "Jul 16, 2026",
+    "type": "Research",
+    "summary_en": "Frontier AI training has needed compute at one site, hard in Europe given power, chip and political limits. RAND Europe finds distributed training eases the power and political constraints and pools Europe's scattered chips, but adds no new chips.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Pooling Europe's compute: The promise of distributed training for European frontier AI",
+    "summary_cn": "",
+    "_sort_date": "2026-07-16"
+  },
+  {
+    "title": "Strategic Autonomy in the Age of Artificial Intelligence",
+    "url": "https://www.rand.org/pubs/external_publications/EP71418.html",
+    "date": "Jul 15, 2026",
+    "type": "Research",
+    "summary_en": "This essay argues that the rapid advance of AI will frustrate ambitions for strategic autonomy.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Strategic Autonomy in the Age of Artificial Intelligence",
+    "summary_cn": "",
+    "_sort_date": "2026-07-15"
+  },
+  {
+    "title": "AI as Strategist: Four Hypotheses on the Nature of Agentic Strategy",
+    "url": "https://www.rand.org/pubs/external_publications/EP71419.html",
+    "date": "Jul 15, 2026",
+    "type": "Research",
+    "summary_en": "In this chapter, the author considers a radical future, a world in which nations pursue relative advantage, for national security, and for other national objectives guided by AI models that are mostly playing these strategy games against other models.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "AI as Strategist: Four Hypotheses on the Nature of Agentic Strategy",
+    "summary_cn": "",
+    "_sort_date": "2026-07-15"
+  },
+  {
+    "title": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+    "url": "https://www.rand.org/pubs/commentary/2026/07/bilateral-ai-partnerships-alone-wont-secure-australia.html",
+    "date": "Jul 14, 2026",
+    "type": "Commentary",
+    "summary_en": "Australia's answer to regional AI collaboration lies in federated learning, an AI model that allows cross-border collaboration on transnational security issues whilst preserving data sovereignty.",
+    "source": "Rand Corporation",
+    "category": "commentary",
+    "title_cn": "Bilateral AI Partnerships Alone Won't Secure Australia. Here’s a Multilateral Alternative",
+    "summary_cn": "",
+    "_sort_date": "2026-07-14"
+  },
+  {
+    "title": "Technical Documentation for the Thirteenth American School District Panel Survey",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4737-3.html",
+    "date": "Jul 14, 2026",
+    "type": "Research",
+    "summary_en": "This report provides technical information about the spring 2026 survey of the American School District Panel. The authors describe the survey administration and weighting processes they used to produce nationally representative estimates.",
+    "source": "Rand Corporation",
+    "category": "students",
+    "title_cn": "Technical Documentation for the Thirteenth American School District Panel Survey",
+    "summary_cn": "",
+    "_sort_date": "2026-07-14"
+  },
+  {
+    "title": "Artificial Intelligence and the Risk of Strategic Cyberattack",
+    "url": "https://www.rand.org/pubs/perspectives/PEA4901-1.html",
+    "date": "Jul 14, 2026",
+    "type": "Expert Insights",
+    "summary_en": "The author argues that agentic artificial intelligence will alleviate the key constraints on cyber operations and may unlock strategic potential in cyber weapons that has, until now, remained largely theoretical.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Artificial Intelligence and the Risk of Strategic Cyberattack",
+    "summary_cn": "",
+    "_sort_date": "2026-07-14"
+  },
+  {
+    "title": "Shrinking Budgets, Fewer Students: How District Leaders are Navigating a New Landscape of Reduced Resources and Competitive Pressures",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4737-4.html",
+    "date": "Jul 14, 2026",
+    "type": "Research",
+    "summary_en": "This report presents findings from the spring 2026 American School District Panel survey. Budget shortfalls and declining enrollment have risen to the top of district leaders’ concerns, worsening other challenges that districts are facing.",
+    "source": "Rand Corporation",
+    "category": "students",
+    "title_cn": "Shrinking Budgets, Fewer Students: How District Leaders are Navigating a New Landscape of Reduced Resources and Competitive Pressures",
+    "summary_cn": "",
+    "_sort_date": "2026-07-14"
+  }
+]

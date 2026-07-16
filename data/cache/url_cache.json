@@ -13174,5 +13174,149 @@
     "fetch_time": "2026-07-15T20:00:31.098647",
     "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini",
     "category": "ai"
+  },
+  "https://news.nd.edu/news/in-memoriam-anthony-m-trozzolo-charles-l-huisking-professor-emeritus/": {
+    "source": "nd_news",
+    "fetch_time": "2026-07-16T12:00:20.377517",
+    "title": "In Memoriam: Anthony M. Trozzolo, Charles L. Huisking Professor Emeritus",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-16T12:00:21.005299",
+    "title": "Mexicans view President Claudia Sheinbaum favorably, but less so than in 2025",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/decoded/2026/07/16/how-we-measured-americans-engagement-in-public-life/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-16T12:00:21.005331",
+    "title": "How we measured Americans’ engagement in public life",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-16T12:00:21.005345",
+    "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+    "category": "semiconductor"
+  },
+  "https://thepienews.com/category/news/credentials/": {
+    "source": "pie_news",
+    "fetch_time": "2026-07-16T12:00:22.916442",
+    "title": "Fraud increases 38% in UK university admissions",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/iowa-state-total-external-funding-drops-federal-research-landscape-evolves": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-16T12:00:51.295060",
+    "title": "Iowa State total external funding drops as federal research landscape evolves",
+    "category": "education"
+  },
+  "https://news.wisc.edu/uw-madison-monitoring-air-quality/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-16T12:00:56.201917",
+    "title": "UW–Madison monitoring air quality",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/mizzou-veterinarians-give-young-racehorse-a-second-chance/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-16T12:00:56.602303",
+    "title": "Mizzou veterinarians give young racehorse a second chance",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/report-education-department-scaled-back-special-education-monitoring/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-16T12:00:58.401012",
+    "title": "Report: Education Department Scaled Back Special Education Monitoring",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/the-massive-collapse-in-college-confidence-isnt-getting-any-better/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-16T12:00:58.401040",
+    "title": "The Massive Collapse in College Confidence Isn’t Getting Any Better",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/exclusive-study-finds-boston-charters-fell-off-in-2010s-recovered-during-covid/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-16T12:00:58.401051",
+    "title": "Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-researchers-link-gut-microbe-to-cancer-fighting-immune-response": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-16T12:00:59.582367",
+    "title": "Nebraska researchers link gut microbe to cancer-fighting immune response",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/claas-foundation-unl-partner-to-empower-ag-engineering-students": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-16T12:00:59.582409",
+    "title": "CLAAS Foundation, UNL partner to empower ag engineering students",
+    "category": "education"
+  },
+  "/news/2026/07/ui-research-advances-discoveries-improve-lives-iowa-and-beyond": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-07-16T12:00:59.793004",
+    "title": "UI research advances discoveries that improve lives in Iowa and beyond",
+    "category": "education"
+  },
+  "https://www.heritage.org/education/commentary/teachers-unions-are-losing-one-their-government-perks": {
+    "source": "heritage",
+    "fetch_time": "2026-07-16T12:01:02.004791",
+    "title": "Teachers’ Unions Are Losing One of Their Government Perks",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/driving-speed-limit-cuts-millions-fuel-costs-less-minute-your-time": {
+    "source": "umn_cse",
+    "fetch_time": "2026-07-16T12:01:06.358735",
+    "title": "Driving the speed limit cuts millions in fuel costs for less than a minute of your time",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/department-aerospace-engineering-and-mechanics-names-new-department-head": {
+    "source": "umn_cse",
+    "fetch_time": "2026-07-16T12:01:06.358767",
+    "title": "Department of Aerospace Engineering and Mechanics names new department head",
+    "category": "education"
+  },
+  "https://blog.kelley.iu.edu/2026/07/16/scholarship-established-in-remembrance-of-kelley-professor-thomas-kennedy-provides-full-tuition-and-fees-for-accounting-students/": {
+    "source": "kelley",
+    "fetch_time": "2026-07-16T12:01:06.833989",
+    "title": "Kelley School establishes undergraduate accounting scholarship with $1M gift",
+    "category": "education"
+  },
+  "https://eri.iu.edu/news-and-events/_news/archive/2026/20260710-report-reveals-iu-dinings-economic-impact-on-indiana-farms-and-food-busineses.html": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-16T12:01:06.957903",
+    "title": "IU Dining has significant economic impact on Indiana farms and food businesses",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/51790-7m-investment-to-help-retain-arts-talent-and": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-16T12:01:06.957934",
+    "title": "$7M investment to help retain arts talent and strengthen southern Indiana workforce",
+    "category": "ai"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-99-candidates-for-legislature/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-07-16T12:01:08.545642",
+    "title": "Education Minnesota endorses 99 candidates for Legislature",
+    "category": "education"
+  },
+  "https://today.uic.edu/modernization-initiative-to-enhance-arts-learning-spaces-at-uic/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-16T12:01:08.795297",
+    "title": "Modernization initiative to enhance arts, learning spaces at UIC",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71411.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-16T12:01:13.022581",
+    "title": "A Mile Wide, an Inch Deep: The State of Civic Learning in U.S. School Districts",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5013-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-16T12:01:13.022609",
+    "title": "Pooling Europe's compute: The promise of distributed training for European frontier AI",
+    "category": "ai"
   }
 }

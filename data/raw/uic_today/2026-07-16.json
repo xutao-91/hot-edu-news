@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-07-16T12:01:07.739291",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Modernization initiative to enhance arts, learning spaces at UIC",
+      "url": "https://today.uic.edu/modernization-initiative-to-enhance-arts-learning-spaces-at-uic/",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "Improvements to Jefferson and Henry halls are scheduled for completion in 2027.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC hosts inaugural World Food Prize Illinois Youth Institute",
+      "url": "https://today.uic.edu/uic-hosts-inaugural-world-food-prize-illinois-youth-institute/",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "High school students explore global food security, sustainability and STEM-focused career pathways.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Renovation work begins on Science and Engineering South building exterior",
+      "url": "https://today.uic.edu/renovation-work-begins-on-science-and-engineering-south-building-exterior/",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "Renovation will restore 1960s building to its original condition.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "UIC’s newest Fulbright recipients prepare to embark",
+      "url": "https://today.uic.edu/latest-uic-fulbright-grantees-prepare-to-embark/",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "The Fulbright program is marking its 80th year in 2026.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

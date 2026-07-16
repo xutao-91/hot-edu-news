@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-07-16T12:01:07.532193",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Slow recovery for Indiana’s nonprofits from COVID-19 employment losses",
+      "url": "https://oneill.indiana.edu/news/2026-0715-gronbjerg-nonprofits-covid.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "A new report finds Indiana nonprofits recovered slowly from COVID-19, with uneven employment gains and ongoing challenges across key community service sectors.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Sweet Solution: O’Neill School research reveals powerful link between chocolate and carbon sequestration",
+      "url": "https://oneill.indiana.edu/news/2026-0713-franco-sweet-solution.html",
+      "date": "2026-07-13",
+      "type": "News",
+      "summary_en": "New O’Neill School research finds well-managed cacao agroforestry can boost soil carbon storage, supporting climate resilience, biodiversity, and sustainable agriculture.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}
