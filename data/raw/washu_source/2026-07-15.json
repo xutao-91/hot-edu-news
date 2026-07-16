@@ -1,7 +1,7 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-15T12:00:15.097549",
+  "crawled_at": "2026-07-15T20:00:14.582803",
   "total_news": 4,
   "news": [
     {
@@ -27,7 +27,7 @@
       "url": "https://source.washu.edu/2026/07/global-consortium-launches-ai-tools-to-accelerate-alzheimers-research-treatments/",
       "date": "2026-07-13",
       "type": "Alzheimer's",
-      "summary_en": "The consortium co-founded by WashU Medicine, C-BRAIN, brings together members from academia, major pharmaceutical companies and philanthropic organizations.",
+      "summary_en": "C-BRAIN, the consortium co-founded by WashU Medicine and directed by neurologist Randall J. Bateman, MD, brings together members from academia, major pharmaceutical companies and philanthropic organizations.",
       "source": "WashU Source",
       "category": "academic"
     },
@@ -36,7 +36,7 @@
       "url": "https://source.washu.edu/2026/07/dementia-rising-across-latino-populations-multidecade-study-finds/",
       "date": "2026-07-13",
       "type": "Neuroscience & Memory",
-      "summary_en": "A two-decade study led by WashU Medicine neurologist Jorge Llibre-Guerra, MD, provides the first direct evidence based on door-to-door surveys of older adults that dementia is rising across several Latin American and Caribbean sites, even as rates hold steady or fall in wealthier nations.",
+      "summary_en": "Research led by WashU Medicine neurologist Jorge Llibre-Guerra, MD, provides the first direct evidence that some parts of Latin America are moving in the opposite direction of dropping dementia rates in the U.S. and other wealthy nations.",
       "source": "WashU Source",
       "category": "academic"
     }

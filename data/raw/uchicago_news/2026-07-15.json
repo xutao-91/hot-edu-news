@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-15T12:00:28.777188",
-  "total_news": 5,
+  "crawled_at": "2026-07-15T20:00:30.253549",
+  "total_news": 6,
   "news": [
+    {
+      "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
+      "url": "https://news.uchicago.edu/story/chemists-shrink-gallium-nitride-material-behind-led-lighting-nanocrystals",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "Molten-salt method from UChicago and Argonne could unlock durable materials for printed electronics, flexible devices",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Court Theatre marks 10 years of ‘spotlighting’ Black playwrights",
       "url": "https://news.uchicago.edu/story/court-theatre-marks-10-years-spotlighting-black-playwrights",

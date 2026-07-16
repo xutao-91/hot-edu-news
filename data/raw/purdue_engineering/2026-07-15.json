@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-07-15T12:00:23.009682",
-  "total_news": 7,
+  "crawled_at": "2026-07-15T20:00:23.429999",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Purdue researchers achieve remote, autonomous power control of a research reactor in real time",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-purdue-inl-remote-autonomous-reactor-control-pur1-nuclear",
+      "date": "July 15, 2026",
+      "type": "News",
+      "summary_en": "For the first time, researchers from Idaho National Laboratory, the University of Illinois Urbana-Champaign and Purdue University used a geographically distributed control system to remotely and automatically adjust the power of a research reactor in real time.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
     {
       "title": "Purdue MEM students join Ugandan social enterprise to chart path for sustainable growth",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0713-purdue-mem-students-tusafishe-uganda-water-social-impact",

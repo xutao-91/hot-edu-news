@@ -1,9 +1,27 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-07-15T12:00:29.181258",
-  "total_news": 3,
+  "crawled_at": "2026-07-15T20:00:30.034882",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Li wins IEEE Best Paper award",
+      "url": "https://engineering.washu.edu/news/2026/Li-wins-IEEE-Best-Paper-award.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "Jr-Shin Li and doctoral student Yuan-Hung Kuan honored for quantum control research.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Dhakal receives 2026 Google PhD residency",
+      "url": "https://engineering.washu.edu/news/2026/Dhakal-receives-2026-Google-PhD-residency.html",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "Aayush Dhakal, a doctoral student in Nathan Jacobs’ lab, will work on building AI-powered platform to modernize electrical grid.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "Activating glass for next generation semiconductor substrates",
       "url": "https://engineering.washu.edu/news/2026/Activating-glass-for-next-generation-semiconductor-substrates.html",
@@ -21,15 +39,6 @@
       "summary_en": "Doctoral student Luise Ge, alumnus Ryan Zhang and Professor Yevgeniy Vorobeychik won the Outstanding Paper award from the Association for Computational Linguistics.",
       "source": "WashU McKelvey Engineering",
       "category": "faculty"
-    },
-    {
-      "title": "Dhakal receives 2026 Google PhD residency",
-      "url": "https://engineering.washu.edu/news/2026/Dhakal-receives-2026-Google-PhD-residency.html",
-      "date": "2026-07-14",
-      "type": "News",
-      "summary_en": "Aayush Dhakal, a doctoral student in Nathan Jacobs’ lab, will work on building AI-powered platform to modernize electrical grid.",
-      "source": "WashU McKelvey Engineering",
-      "category": "general"
     }
   ]
 }

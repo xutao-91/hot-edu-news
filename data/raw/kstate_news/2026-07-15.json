@@ -1,9 +1,18 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-07-15T12:00:08.420879",
-  "total_news": 3,
+  "crawled_at": "2026-07-15T20:00:07.483266",
+  "total_news": 4,
   "news": [
+    {
+      "title": "From the heartland to the US Air Force",
+      "url": "https://www.k-state.edu/news/articles/2026/07/matthew-shelly-salina-alumni-fellow-air-force-colonel.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "From flying his first airplanes in high school to leading strategic planning for the U.S. Air Force, Matthew Shelly's journey began at K-State Salina. The Air Force colonel recently...",
+      "source": "K-State News",
+      "category": "general"
+    },
     {
       "title": "Powercat Financial announces Sara Ray as director",
       "url": "https://www.k-state.edu/news/articles/2026/07/sara-ray-named-director-of-powercat-financial.html",

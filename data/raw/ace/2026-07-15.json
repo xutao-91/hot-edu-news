@@ -1,9 +1,27 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-07-15T12:00:29.654984",
-  "total_news": 2,
+  "crawled_at": "2026-07-15T20:00:29.675673",
+  "total_news": 3,
   "news": [
+    {
+      "title": "NOVA President Anne Kress to Serve as ACE Board Chair",
+      "url": "https://www.acenet.edu/News-Room/Pages/2026-ACE-Board-Election.aspx",
+      "date": "July 15, 2026",
+      "type": "Press Release",
+      "summary_en": "ACE’s membership also elected Robert W. Iuliano​, president of Gettysburg College, as Boa​rd vice-chair, and also elected a slate​​ of new Board members, all of whom also will begin their terms on Oct. 1, 2026.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "Higher Ed Groups Warn OMB Rule Would Shift Grant Decisions From Merit to Politics",
+      "url": "https://www.acenet.edu/Pages/Groups-Warn-OMB-Rule-Shift-Grant-Decisions.aspx",
+      "date": "July 15, 2026",
+      "type": "News",
+      "summary_en": "ACE and over 60 other higher education associations have submitted formal comments opposing a proposed federal rule that would significantly expand political appointees' control over the awarding, administration, and termination of federal grants.",
+      "source": "ACE",
+      "category": "general"
+    },
     {
       "title": "ACE, COE Warn Proposed TRIO Changes Would Undermine Decades of College Access Success",
       "url": "https://www.acenet.edu/News-Room/Pages/ACE-COE-TRIO-Grant-Competition-Changes.aspx",
@@ -12,15 +30,6 @@
       "summary_en": "ACE and the Council for Opportunity in Education sent a joint letter to the departments of Education and Labor last week, raising concerns about proposed changes to the TRIO Talent Search and Educational Opportunity Centers competitions.",
       "source": "ACE",
       "category": "higher_ed"
-    },
-    {
-      "title": "Higher Ed Groups Warn OMB Rule Would Shift Grant Decisions From Merit to Politics",
-      "url": "https://www.acenet.edu/Pages/Groups-Warn-OMB-Rule-Shift-Grant-Decisions.aspx",
-      "date": "July 13, 2026",
-      "type": "News",
-      "summary_en": "ACE and 48 other higher education associations have submitted formal comments opposing a proposed federal rule that would significantly expand political appointees' control over the awarding, administration, and termination of federal grants.",
-      "source": "ACE",
-      "category": "general"
     }
   ]
 }

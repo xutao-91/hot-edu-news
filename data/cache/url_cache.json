@@ -13114,5 +13114,65 @@
     "fetch_time": "2026-07-15T12:00:30.172147",
     "title": "Measuring Balance of Payments Deficits",
     "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/matthew-shelly-salina-alumni-fellow-air-force-colonel.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-15T20:00:08.309593",
+    "title": "From the heartland to the US Air Force",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/july/enbal-shacham-leadership-st-louis.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-15T20:00:09.455591",
+    "title": "Shacham Named to Newest FOCUS St. Louis Leadership Class",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/anthropic-launches-claude-for-teachers-in-ai-race-to-influence-americas-classrooms/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-15T20:00:16.278260",
+    "title": "Anthropic Launches Claude for Teachers to Influence America’s Classrooms",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-issues-statement-house-education-and-workforce-committees-less-bureaucracy-better-education-legislative": {
+    "source": "edgov",
+    "fetch_time": "2026-07-15T20:00:16.894181",
+    "title": "U.S. Secretary of Education Linda McMahon Issues Statement on the House Education and Workforce Committee’s “Less Bureaucracy, Better Education” Legislative Package",
+    "category": "education"
+  },
+  "https://www.heritage.org/education/report/the-heritage-guide-historic-sites-rediscovering-americas-heritage": {
+    "source": "heritage",
+    "fetch_time": "2026-07-15T20:00:21.382562",
+    "title": "The Heritage Guide to Historic Sites: Rediscovering America’s Heritage",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-purdue-inl-remote-autonomous-reactor-control-pur1-nuclear": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-15T20:00:24.212188",
+    "title": "Purdue researchers achieve remote, autonomous power control of a research reactor in real time",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/2026-ACE-Board-Election.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-07-15T20:00:30.335485",
+    "title": "NOVA President Anne Kress to Serve as ACE Board Chair",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/Li-wins-IEEE-Best-Paper-award.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-15T20:00:30.434933",
+    "title": "Li wins IEEE Best Paper award",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/chemists-shrink-gallium-nitride-material-behind-led-lighting-nanocrystals": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-15T20:00:30.515052",
+    "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-15T20:00:31.098647",
+    "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini",
+    "category": "ai"
   }
 }
