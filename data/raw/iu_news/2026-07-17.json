@@ -1,0 +1,62 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-07-17T12:00:22.453331",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "IU-led coalition named NSF IMPACT Engine in Indiana to advance treatment of musculoskeletal health conditions",
+      "url": "https://news.iu.edu/live/news/51783-iu-led-coalition-named-nsf-impact-engine",
+      "date": "Jul 14, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Indianapolis museum studies grad protects treasures of US space flight",
+      "url": "https://news.iu.edu/live/news/51788-iu-indianapolis-museum-studies-grad-protects",
+      "date": "Jul 14, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Southeast receives Community Collaboration Fund grant",
+      "url": "https://news.iu.edu/southeast/live/news/51770-iu-southeast-receives-community-collaboration-fund",
+      "date": "Jul 16, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Kelley School establishes undergraduate accounting scholarship with $1M gift",
+      "url": "https://blog.kelley.iu.edu/2026/07/16/scholarship-established-in-remembrance-of-kelley-professor-thomas-kennedy-provides-full-tuition-and-fees-for-accounting-students/",
+      "date": "Jul 16, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Dining has significant economic impact on Indiana farms and food businesses",
+      "url": "https://eri.iu.edu/news-and-events/_news/archive/2026/20260710-report-reveals-iu-dinings-economic-impact-on-indiana-farms-and-food-busineses.html",
+      "date": "Jul 16, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "$7M investment to help retain arts talent and strengthen southern Indiana workforce",
+      "url": "https://news.iu.edu/live/news/51790-7m-investment-to-help-retain-arts-talent-and",
+      "date": "Jul 16, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

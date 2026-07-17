@@ -1,0 +1,50 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-07-17T12:00:29.992057",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Trump Administration Unleashes Global Campaign to Crush Radical Left Terrorism",
+      "url": "https://www.whitehouse.gov/releases/2026/07/trump-administration-unleashes-global-campaign-to-crush-radical-left-terrorism/",
+      "date": "July 16, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Birthday of Saint Frances Xavier Cabrini",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-saint-frances-xavier-cabrini/",
+      "date": "July 15, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Measuring Balance of Payments Deficits",
+      "url": "https://www.whitehouse.gov/research/2026/07/measuring-balance-of-payments-deficits/",
+      "date": "July 15, 2026",
+      "category": "Research",
+      "source": "The White House"
+    },
+    {
+      "title": "Law Enforcement Leaders Across America Support Todd Blanche for Attorney General",
+      "url": "https://www.whitehouse.gov/releases/2026/07/law-enforcement-leaders-across-america-support-todd-blanche-for-attorney-general/",
+      "date": "July 14, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "White House Launches Gold Eagle Initiative for Unprecedented Cybersecurity Vulnerability Coordination",
+      "url": "https://www.whitehouse.gov/releases/2026/07/white-house-launches-gold-eagle-initiative-for-unprecedented-cybersecurity-vulnerability-coordination/",
+      "date": "July 14, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations and Withdrawals Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/nominations-and-withdrawals-sent-to-the-senate-e958/",
+      "date": "July 14, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    }
+  ]
+}

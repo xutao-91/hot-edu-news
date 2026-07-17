@@ -1,0 +1,44 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-07-17T12:00:07.356836",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Linda Sue Vogt: 1948-2026",
+      "url": "https://www.slu.edu/news/2026/july/linda-vogt-obituary.php",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "Linda Sue Vogt, whose generosity and steadfast support helped expand educational opportunities for Saint Louis University students, died June 14 at her home in Sunset Hills. She was 78.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "St. Louis Shakespeare Festival TourCo to Perform on SLU's Quad Sept. 1",
+      "url": "https://www.slu.edu/news/2026/july/shakespeare-on-the-quad.php",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "Saint Louis University's quad will become center stage Sept. 1 as the St. Louis Shakespeare Festival TourCo makes its campus debut with a free outdoor performance of Shakespeare's The Two Gentlemen of Verona, directed by Rebekah Scallet.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Shacham Named to Newest FOCUS St. Louis Leadership Class",
+      "url": "https://www.slu.edu/news/2026/july/enbal-shacham-leadership-st-louis.php",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "Enbal Shacham, Ph.D., professor of Behavioral Science and Health Equity, has been named to the FOCUS St. Louis 51st Leadership St. Louis (LSL) class. Leadership St. Louis is a program for experienced leaders who have demonstrated a deep commitment to improving the St. Louis region, according to FOCUS St. Louis. Shacham was one of 57 people selected to take part in the 2026-27 class.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU Photographer Honored by University Photographers' Association of America",
+      "url": "https://www.slu.edu/news/2026/july/sarah-conroy-upaa-honors.php",
+      "date": "2026-07-14",
+      "type": "News",
+      "summary_en": "Saint Louis University photographer Sarah Conroy has been recognized by the University Photographers' Association of America. Conroy took home two first-place finishes, two second-place finishes, and an honorable mention in the 2026 Annual Photo Competition for work done as SLU’s photographer. She also captured second-place overall in the Photographer of the Year competition.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

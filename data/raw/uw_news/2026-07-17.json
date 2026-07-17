@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-17T12:00:18.746165",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UW–Madison monitoring air quality",
+      "url": "https://news.wisc.edu/uw-madison-monitoring-air-quality/",
+      "date": "July 16, 2026",
+      "type": "News",
+      "summary_en": "Wildfire smoke from Minnesota and Ontario has drifted across Wisconsin this week.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "How to beat phone addiction",
+      "url": "https://onwisconsin.uwalumni.com/how-to-beat-phone-addiction/",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "Two Badgers have created the Brick, a small device that you tap with your phone to temporarily block apps and eliminate digital distractions.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}
