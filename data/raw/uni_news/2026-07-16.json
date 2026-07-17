@@ -1,9 +1,18 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-07-16T12:00:54.950917",
-  "total_news": 1,
+  "crawled_at": "2026-07-16T20:00:18.985368",
+  "total_news": 2,
   "news": [
+    {
+      "title": "How UNI uses data to strengthen student retention and success",
+      "url": "https://insideuni.uni.edu/campus-community/how-uni-uses-data-strengthen-student-retention-and-success",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa has been featured by the Institute for Higher Education Policy (IHEP) in its Postsecondary Data for Action Network Spotlight series, recognizing the university’s use of data to strengthen student retention and success.",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "From UNI to the Smithsonian: Finding a place in the museum world",
       "url": "https://insideuni.uni.edu/uni-smithsonian-finding-place-museum-world",

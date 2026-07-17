@@ -1,7 +1,17 @@
 {
   "source": "Rockhurst University News",
   "source_url": "https://www.rockhurst.edu/news",
-  "crawled_at": "2026-07-16T12:00:57.510213",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-16T20:00:21.027846",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Longtime St. Louis, University Alumni Leader to Receive Magis Award",
+      "url": "https://www.rockhurst.edu/news/2026-07-16/longtime-st-louis-university-alumni-leader-receive-magis-award",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "SummaryAt the Rockhurst University Leadership Series in St. Louis Sept. 17, the University will honor Jim Powers, ’83, with its Magis Award, honoring his decades of service and leadership for the University and the St. Louis community.",
+      "source": "Rockhurst News",
+      "category": "academics"
+    }
+  ]
 }

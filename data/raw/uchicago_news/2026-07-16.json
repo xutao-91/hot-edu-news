@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-16T12:01:11.966142",
-  "total_news": 6,
+  "crawled_at": "2026-07-16T20:00:30.279590",
+  "total_news": 7,
   "news": [
+    {
+      "title": "UChicago scientists create interactive screens that can appear on demand",
+      "url": "https://news.uchicago.edu/story/uchicago-scientists-create-interactive-screens-can-appear-demand",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "Designers hope ‘BloomBeacon’ approach could reduce screen clutter",
+      "source": "UChicago News",
+      "category": "research"
+    },
     {
       "title": "Chemists shrink gallium nitride, the material behind LED lighting, into nanocrystals",
       "url": "https://news.uchicago.edu/story/chemists-shrink-gallium-nitride-material-behind-led-lighting-nanocrystals",

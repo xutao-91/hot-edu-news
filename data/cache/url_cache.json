@@ -13318,5 +13318,65 @@
     "fetch_time": "2026-07-16T12:01:13.022609",
     "title": "Pooling Europe's compute: The promise of distributed training for European frontier AI",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/indigenous-women-teachers-intercultural-bilingual-education-argentina/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-16T20:00:07.890352",
+    "title": "Indigenous women teachers are key to intercultural bilingual education in Argentina",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/iowa-states-external-funding-supports-research-initiatives-innovation": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-16T20:00:15.021894",
+    "title": "Iowa State's external funding supports research initiatives, innovation",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/how-uni-uses-data-strengthen-student-retention-and-success": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-16T20:00:19.504284",
+    "title": "How UNI uses data to strengthen student retention and success",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/bill-giving-10000-bonuses-to-nyc-paraprofessionals-heads-to-mayors-desk/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-16T20:00:20.324796",
+    "title": "Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/the-nations-largest-school-system-is-expanding-special-education-for-its-youngest-learners/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-16T20:00:20.324824",
+    "title": "The Nation’s Largest School System Is Expanding Special Education for Its Youngest Learners",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-07-16/longtime-st-louis-university-alumni-leader-receive-magis-award": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-07-16T20:00:21.765334",
+    "title": "Longtime St. Louis, University Alumni Leader to Receive Magis Award",
+    "category": "education"
+  },
+  "https://news.iu.edu/southeast/live/news/51770-iu-southeast-receives-community-collaboration-fund": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-16T20:00:24.722038",
+    "title": "IU Southeast receives Community Collaboration Fund grant",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Data-driven.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-16T20:00:30.160639",
+    "title": "Data driven",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/uchicago-scientists-create-interactive-screens-can-appear-demand": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-16T20:00:30.568997",
+    "title": "UChicago scientists create interactive screens that can appear on demand",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/trump-administration-unleashes-global-campaign-to-crush-radical-left-terrorism/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-16T20:00:31.314916",
+    "title": "Trump Administration Unleashes Global Campaign to Crush Radical Left Terrorism",
+    "category": "ai"
   }
 }

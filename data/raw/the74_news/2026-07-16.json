@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-16T12:00:57.047991",
+  "crawled_at": "2026-07-16T20:00:19.599022",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,23 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.698085"
+      "crawled_at": "2026-07-16T20:00:19.429834"
+    },
+    {
+      "title": "Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk",
+      "url": "https://www.the74million.org/article/bill-giving-10000-bonuses-to-nyc-paraprofessionals-heads-to-mayors-desk/",
+      "date": "July 16, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-16T20:00:19.436135"
+    },
+    {
+      "title": "The Nation’s Largest School System Is Expanding Special Education for Its Youngest Learners",
+      "url": "https://www.the74million.org/article/the-nations-largest-school-system-is-expanding-special-education-for-its-youngest-learners/",
+      "date": "July 16, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-16T20:00:19.442055"
     },
     {
       "title": "Report: Education Department Scaled Back Special Education Monitoring",
@@ -18,7 +34,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.716744"
+      "crawled_at": "2026-07-16T20:00:19.448381"
     },
     {
       "title": "The Massive Collapse in College Confidence Isn’t Getting Any Better",
@@ -26,7 +42,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.735148"
+      "crawled_at": "2026-07-16T20:00:19.458273"
     },
     {
       "title": "Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID",
@@ -34,15 +50,15 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.769415"
+      "crawled_at": "2026-07-16T20:00:19.460655"
     },
     {
       "title": "Anthropic Launches Claude for Teachers to Influence America’s Classrooms",
       "url": "https://www.the74million.org/article/anthropic-launches-claude-for-teachers-in-ai-race-to-influence-americas-classrooms/",
-      "date": "July 16, 2026",
+      "date": "July 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.788087"
+      "crawled_at": "2026-07-16T20:00:19.466163"
     },
     {
       "title": "Indiana Sets Standards for 4-Day School Week Waivers",
@@ -50,7 +66,7 @@
       "date": "July 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.805456"
+      "crawled_at": "2026-07-16T20:00:19.471667"
     },
     {
       "title": "UC Board of Regents Wants Recommendations By End of Academic Year on SAT/ACT",
@@ -58,7 +74,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.820931"
+      "crawled_at": "2026-07-16T20:00:19.477194"
     },
     {
       "title": "Short Thousands of Bilingual Teachers, California Schools Turn to High School Students",
@@ -66,7 +82,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.823507"
+      "crawled_at": "2026-07-16T20:00:19.482803"
     },
     {
       "title": "Can Ethnic Studies Bridge the Achievement Gap? San Francisco Program Shows Gains",
@@ -74,7 +90,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.841035"
+      "crawled_at": "2026-07-16T20:00:19.490273"
     },
     {
       "title": "The End of Homework? Teachers Grapple With Cheating in the Age of AI",
@@ -82,7 +98,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.855405"
+      "crawled_at": "2026-07-16T20:00:19.492660"
     },
     {
       "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
@@ -90,7 +106,7 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.870015"
+      "crawled_at": "2026-07-16T20:00:19.501120"
     },
     {
       "title": "States Try New Measures to Get Chronically Absent Students Back to Class",
@@ -98,7 +114,7 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.882598"
+      "crawled_at": "2026-07-16T20:00:19.509569"
     },
     {
       "title": "Nebraska Head Starts Use Vests With ‘Talk Pedometers’ to Boost Early Literacy",
@@ -106,7 +122,7 @@
       "date": "July 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.897138"
+      "crawled_at": "2026-07-16T20:00:19.518278"
     },
     {
       "title": "In Mississippi, Summer Can Increase Risk of Hunger for 3 in 4 Kids Who Rely on In-School Meals",
@@ -114,7 +130,7 @@
       "date": "July 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.899518"
+      "crawled_at": "2026-07-16T20:00:19.526721"
     },
     {
       "title": "Are Detroit’s Health Hubs the Solution to DPSCD’s Chronic Absenteeism Problem?",
@@ -122,7 +138,7 @@
       "date": "July 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.920062"
+      "crawled_at": "2026-07-16T20:00:19.535213"
     },
     {
       "title": "First Columbia Charter School Targets 2027 Opening Amid Lawsuit Over Missouri Law",
@@ -130,7 +146,7 @@
       "date": "July 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.922394"
+      "crawled_at": "2026-07-16T20:00:19.537548"
     },
     {
       "title": "5 Key Education Stories This Week: Future of College, ‘Rehumaning’ School & More",
@@ -138,7 +154,7 @@
       "date": "July 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.936933"
+      "crawled_at": "2026-07-16T20:00:19.546080"
     },
     {
       "title": "‘Math Wars’: New York Wants To Reform Math Instruction, but Experts Disagree on How",
@@ -146,7 +162,7 @@
       "date": "July 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.951449"
+      "crawled_at": "2026-07-16T20:00:19.554753"
     },
     {
       "title": "Market Share Continues to Hold Steady for NC Public Schools",
@@ -154,7 +170,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.965970"
+      "crawled_at": "2026-07-16T20:00:19.563645"
     },
     {
       "title": "Dana Suskind on How To Protect Childhood in the Age of AI",
@@ -162,7 +178,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.980388"
+      "crawled_at": "2026-07-16T20:00:19.572380"
     },
     {
       "title": "Some Microschools in Limbo While Awaiting New Federal Tax Credit Rules",
@@ -170,7 +186,7 @@
       "date": "July 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.994798"
+      "crawled_at": "2026-07-16T20:00:19.580844"
     },
     {
       "title": "Hoosier Childcare Providers Slam Education Requirement Rollback",
@@ -178,7 +194,7 @@
       "date": "July 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:56.997375"
+      "crawled_at": "2026-07-16T20:00:19.589347"
     },
     {
       "title": "Appeals Court Says Religious Schools Can’t be Exempt From Maine’s Nondiscrimination Laws",
@@ -186,23 +202,7 @@
       "date": "July 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:57.011997"
-    },
-    {
-      "title": "NC High School Students Pitch Local Tech Companies at Annual Teamship Showcase",
-      "url": "https://www.the74million.org/article/nc-high-school-students-pitch-local-tech-companies-at-annual-teamship-showcase/",
-      "date": "July 8, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:57.026556"
-    },
-    {
-      "title": "NYC Budget Gives Every Public School Kindergartner $1,000 for College, Restores Education Programs",
-      "url": "https://www.the74million.org/article/nyc-budget-gives-every-public-school-kindergartner-1000-for-college-restores-education-programs/",
-      "date": "July 7, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-16T12:00:57.041102"
+      "crawled_at": "2026-07-16T20:00:19.597782"
     }
   ]
 }
