@@ -1,9 +1,25 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-17T12:00:07.346592",
-  "total_news": 7,
+  "crawled_at": "2026-07-17T20:00:06.557499",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Majorities of Americans say key financial milestones are harder for today’s young adults to reach",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
+      "date": "Jul 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Economy Work",
+        "Higher Education",
+        "Income Wealth Poverty",
+        "Wealth"
+      ],
+      "summary_en": "Most Americans say it’s harder for young adults to find a job, buy a house, pay for college and save for their future than it was for their parents’ generation.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Mexicans view President Claudia Sheinbaum favorably, but less so than in 2025",
       "url": "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/",

@@ -13504,5 +13504,53 @@
     "fetch_time": "2026-07-17T12:00:29.284455",
     "title": "Why we still care about the ‘Odyssey’",
     "category": "semiconductor"
+  },
+  "https://www.brookings.edu/articles/what-does-the-new-duration-of-status-rule-mean-for-international-students-and-workers/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-17T20:00:07.127078",
+    "title": "What does the new duration of status rule mean for international students and workers?",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-17T20:00:07.292378",
+    "title": "Majorities of Americans say key financial milestones are harder for today’s young adults to reach",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/mental-health-environment-shape-pregnancy-sleep/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-17T20:00:14.344085",
+    "title": "Mental health, environment shape pregnancy sleep",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0708-purdue-engineering-warsinger-yu-chynoweth-nae-frontiers": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-17T20:00:23.265376",
+    "title": "Purdue Engineering faculty selected for prestigious NAE symposium",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-nsf-regional-innovation-engines-musculoskeletal-grant": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-17T20:00:23.265402",
+    "title": "Joint proposal including BME's Wallace wins $160-NSF grant to study musculoskeletal health",
+    "category": "ai"
+  },
+  "https://www.heritage.org/education/report/right-sizing-the-us-department-education-closure": {
+    "source": "heritage",
+    "fetch_time": "2026-07-17T20:00:27.850285",
+    "title": "Right-Sizing the U.S. Department of Education Before Closure",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/setting-the-record-straight-president-trump-declassifies-intel-on-foreign-election-interference-deep-state-coverup/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-17T20:00:30.073799",
+    "title": "SETTING THE RECORD STRAIGHT: President Trump Declassifies Intel on Foreign Election Interference and Deep State Coverup",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/what-they-are-saying-president-trump-exposes-bombshell-evidence-of-foreign-election-interference-and-deep-state-suppression/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-17T20:00:30.073821",
+    "title": "WHAT THEY ARE SAYING: President Trump Exposes Bombshell Evidence of Foreign Election Interference and Deep State Suppression",
+    "category": "general"
   }
 }

@@ -5,7 +5,7 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 17 Jul 2026 17:00:34 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 01:00:36 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
@@ -150,6 +150,26 @@
     </item>
     
     <item>
+        <title>Purdue Engineering faculty selected for prestigious NAE symposium</title>
+        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0708-purdue-engineering-warsinger-yu-chynoweth-nae-frontiers</link>
+        <description></description>
+        <pubDate>Fri, 17 Jul 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0708-purdue-engineering-warsinger-yu-chynoweth-nae-frontiers</guid>
+        <category>综合</category>
+        <source>Purdue College of Engineering</source>
+    </item>
+    
+    <item>
+        <title>Joint proposal including BME's Wallace wins $160-NSF grant to study musculoskeletal health</title>
+        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-nsf-regional-innovation-engines-musculoskeletal-grant</link>
+        <description></description>
+        <pubDate>Fri, 17 Jul 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-nsf-regional-innovation-engines-musculoskeletal-grant</guid>
+        <category>research</category>
+        <source>Purdue College of Engineering</source>
+    </item>
+    
+    <item>
         <title>Swannies, co founded by a CSE alumni, launches University of Minnesota licensed apparel</title>
         <link>https://cse.umn.edu/college/news/swannies-co-founded-cse-alumni-launches-university-minnesota-licensed-apparel</link>
         <description></description>
@@ -187,26 +207,6 @@
         <guid isPermaLink="true">https://news.ku.edu/news/article/osage-professor-helps-renovate-little-house-on-the-prairie</guid>
         <category>综合</category>
         <source>KU News</source>
-    </item>
-    
-    <item>
-        <title>Chad Mirkin receives American Chemical Society’s top honor</title>
-        <link>https://news.northwestern.edu/stories/2026/07/chad-mirkin-receives-american-chemical-societys-top-honor</link>
-        <description></description>
-        <pubDate>Fri, 17 Jul 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.northwestern.edu/stories/2026/07/chad-mirkin-receives-american-chemical-societys-top-honor</guid>
-        <category>综合</category>
-        <source>Northwestern News</source>
-    </item>
-    
-    <item>
-        <title>Why we still care about the ‘Odyssey’</title>
-        <link>https://news.uchicago.edu/story/why-we-still-care-about-odyssey</link>
-        <description></description>
-        <pubDate>Fri, 17 Jul 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.uchicago.edu/story/why-we-still-care-about-odyssey</guid>
-        <category>综合</category>
-        <source>UChicago News</source>
     </item>
     
 </channel>

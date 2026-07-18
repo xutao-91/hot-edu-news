@@ -1,0 +1,80 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-07-17T20:00:22.605792",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Purdue Engineering faculty selected for prestigious NAE symposium",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0708-purdue-engineering-warsinger-yu-chynoweth-nae-frontiers",
+      "date": "July 17, 2026",
+      "type": "News",
+      "summary_en": "Three Purdue Engineering faculty members have been selected by the National Academy of Engineering (NAE) to participate in the 2026 Grainger Foundation Frontiers of Engineering Symposium, one of the nation's premier programs recognizing outstanding early-career engineers.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Joint proposal including BME's Wallace wins $160-NSF grant to study musculoskeletal health",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-nsf-regional-innovation-engines-musculoskeletal-grant",
+      "date": "July 17, 2026",
+      "type": "News",
+      "summary_en": "Purdue and its partners are aiming to help improve treatment for musculoskeletal diseases, such as osteoarthritis or osteoporosis, which place a significant burden on health, quality of life and the healthcare system as a whole.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Purdue researchers achieve remote, autonomous power control of a research reactor in real time",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-purdue-inl-remote-autonomous-reactor-control-pur1-nuclear",
+      "date": "July 15, 2026",
+      "type": "News",
+      "summary_en": "For the first time, researchers from Idaho National Laboratory, the University of Illinois Urbana-Champaign and Purdue University used a geographically distributed control system to remotely and automatically adjust the power of a research reactor in real time.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Purdue MEM students join Ugandan social enterprise to chart path for sustainable growth",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0713-purdue-mem-students-tusafishe-uganda-water-social-impact",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "Graduate students in Purdue University's Master of Engineering Management (MEM) program are joining a Ugandan social enterprise to strengthen its ability to deliver clean water to underserved communities while building a foundation for long-term growth.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Purdue MEM students team with Kenyan agritech startup to strengthen food security through business innovation",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0714-purdue-mem-silo-africa-kenya-agritech-food-security",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "Graduate students in Purdue University’s Master of Engineering Management (MEM) program are partnering with a Kenyan startup to expand its impact on smallholder farmers by developing strategies to support long-term growth and improve food security.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "In the news: ChE's Neira featured in POLITICO's quantum coverage (subscription required)",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0714-david-bernal-neira-purdue-quantum-computing-optimization",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "According to David Bernal Neira, a Purdue University chemical engineering professor who studies quantum, there’s a general consensus that building such a computer is possible — it’s just a matter of when.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue expands semiconductor professional education portfolio to advance global workforce development",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0714-purdue-semiconductor-academy-nycu-taiwan-workforce-education",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "Purdue University is expanding its semiconductor professional education by collaborating with National Yang Ming Chiao Tung University (NYCU) in Taiwan to deliver the Semiconductor Academy.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "BME's Miller designs experiences to help students gain real-world skills in Indianapolis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0714-sharon-miller-purdue-biomedical-engineering-indianapolis-inscribe",
+      "date": "July 14, 2026",
+      "type": "News",
+      "summary_en": "For Sharon Miller, being an educator isn’t just about passing on technical knowledge — it’s about giving students the tools to recognize their strengths and gain confidence in settings that help turn theory into practice.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

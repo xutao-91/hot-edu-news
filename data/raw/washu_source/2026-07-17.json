@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-17T12:00:15.446170",
-  "total_news": 2,
+  "crawled_at": "2026-07-17T20:00:13.682044",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Mental health, environment shape pregnancy sleep",
+      "url": "https://source.washu.edu/2026/07/mental-health-environment-shape-pregnancy-sleep/",
+      "date": "2026-07-17",
+      "type": "Health & Society",
+      "summary_en": "Using machine learning, researchers at WashU Bursky Public Health identified the factors most strongly linked to poor sleep during late pregnancy.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "‘Plants get sick!’: WashU scientists, U. City students research plants together",
       "url": "https://source.washu.edu/2026/07/plants-get-sick-washu-scientists-u-city-students-research-plants-together/",
