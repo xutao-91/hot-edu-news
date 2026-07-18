@@ -1,0 +1,92 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-18T12:00:07.531117",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Majorities of Americans say key financial milestones are harder for today’s young adults to reach",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/17/majorities-of-americans-say-key-financial-milestones-are-harder-for-todays-young-adults-to-reach/",
+      "date": "Jul 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Economy Work",
+        "Higher Education",
+        "Income Wealth Poverty",
+        "Wealth"
+      ],
+      "summary_en": "Most Americans say it’s harder for young adults to find a job, buy a house, pay for college and save for their future than it was for their parents’ generation.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Mexicans view President Claudia Sheinbaum favorably, but less so than in 2025",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/16/mexicans-view-president-claudia-sheinbaum-favorably-but-less-so-than-in-2025/",
+      "date": "Jul 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "More Leaders",
+        "Political Issues",
+        "World Leaders"
+      ],
+      "summary_en": "Mexican President Claudia Sheinbaum remains popular, but her favorability has dropped to 64%. Views of the economy and democracy are also declining.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "How we measured Americans’ engagement in public life",
+      "url": "https://www.pewresearch.org/decoded/2026/07/16/how-we-measured-americans-engagement-in-public-life/",
+      "date": "Jul 16, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science",
+        "Survey Methods"
+      ],
+      "summary_en": "This piece explains how researchers measured Americans’ engagement in public life using multimode surveys, address-based sampling and cluster analysis.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "How Americans Are Engaged With News, Politics, Religion and Civic Life",
+      "url": "https://www.pewresearch.org/journalism/2026/07/16/how-americans-are-engaged-with-news-politics-religion-and-civic-life/",
+      "date": "Jul 16, 2026",
+      "type": "report",
+      "categories": [
+        "Beliefs Practices",
+        "News Habits Media",
+        "Political Civic Engagement",
+        "Uncategorized"
+      ],
+      "summary_en": "Americans’ engagement with others is not one-dimensional. Instead, they sort into four distinct groups that reflect different patterns of participation in society.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "People in Many Countries Now View China More Positively Than the U.S.",
+      "url": "https://www.pewresearch.org/global/2026/07/15/people-in-many-countries-now-view-china-more-positively-than-the-u-s/",
+      "date": "Jul 15, 2026",
+      "type": "report",
+      "categories": [
+        "China Global Image",
+        "Global Balance Power"
+      ],
+      "summary_en": "Views of China have improved recently while views of the U.S. have worsened, to the point where China is now seen more positively than the U.S. in most countries surveyed.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Views of China and Xi Are Improving Globally",
+      "url": "https://www.pewresearch.org/global/2026/07/15/views-of-china-and-xi-are-improving-globally/",
+      "date": "Jul 15, 2026",
+      "type": "report",
+      "categories": [
+        "China Global Image",
+        "World Leaders"
+      ],
+      "summary_en": "Growing shares of people see China favorably and have confidence in Xi Jinping, though opinions are much less positive in wealthier nations.",
+      "source": "Pew Research Center",
+      "category": "international"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-18T12:00:12.763872",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Artistic experiences for every Kansas backyard",
+      "url": "https://www.k-state.edu/news/articles/2026/07/layne-mcafee-rural-kansas-art-experiences.html",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "K-State graduate Layne McAfee uses art, museum exhibits and community events to strengthen rural Kansas communities and make artistic experiences more accessible.",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "Making sense of media noise",
+      "url": "https://www.k-state.edu/news/articles/2026/07/andrew-smith-journalism-truth-telling-principles.html",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "Andrew Smith, professor of practice and assistant director for news and sports media, explains why factual accuracy remains the core of professional journalism.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "McCain Performance Series single-show tickets on sale July 20",
+      "url": "https://www.k-state.edu/news/articles/2026/07/mccain-performance-series-single-show-tickets.html",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "McCain Performance Series single-show ticket sales begin July 20, offering audiences a wide range of immersive arts experiences starting in September.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "From the heartland to the US Air Force",
+      "url": "https://www.k-state.edu/news/articles/2026/07/matthew-shelly-salina-alumni-fellow-air-force-colonel.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "From flying his first airplanes in high school to leading strategic planning for the U.S. Air Force, Matthew Shelly's journey began at K-State Salina. The Air Force colonel recently...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Powercat Financial announces Sara Ray as director",
+      "url": "https://www.k-state.edu/news/articles/2026/07/sara-ray-named-director-of-powercat-financial.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "Effective Aug. 2, Powercat Financial will be guided by Sara Ray. Ray brings more than a decade of collegiate financial wellness leadership to the role.",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

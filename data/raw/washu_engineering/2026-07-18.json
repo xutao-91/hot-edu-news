@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-07-18T12:00:29.700953",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Data driven",
+      "url": "https://engineering.washu.edu/news/2026/Data-driven.html",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "Alumnus Daniel Larremore uses mathematical modeling to solve real-world problems.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Li wins IEEE Best Paper award",
+      "url": "https://engineering.washu.edu/news/2026/Li-wins-IEEE-Best-Paper-award.html",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "Jr-Shin Li and doctoral student Yuan-Hung Kuan honored for quantum control research.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

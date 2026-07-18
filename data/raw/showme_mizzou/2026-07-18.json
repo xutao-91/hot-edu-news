@@ -1,0 +1,35 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-07-18T12:00:18.617721",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "University of Missouri concludes Request for Information process, prepares for direct discussions and formal proposal process for commercial development",
+      "url": "https://showme.missouri.edu/2026/university-of-missouri-concludes-request-for-information-process-prepares-for-direct-discussions-and-formal-proposal-process-for-commercial-development/",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou’s Abbie Lankitus named one of the top 10 university photographers by UPAA",
+      "url": "https://showme.missouri.edu/2026/mizzous-abbie-lankitus-named-one-of-the-top-10-university-photographers-by-upaa/",
+      "date": "2026-07-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou veterinarians give young racehorse a second chance",
+      "url": "https://showme.missouri.edu/2026/mizzou-veterinarians-give-young-racehorse-a-second-chance/",
+      "date": "2026-07-15",
+      "type": "News",
+      "summary_en": "After discovering an extremely rare cyst in the horse’s windpipe, Mizzou experts successfully treated the condition, work that may help other veterinarians identify similar cases in the future.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}
