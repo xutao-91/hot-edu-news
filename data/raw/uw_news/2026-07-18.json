@@ -1,15 +1,15 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-18T12:00:19.013988",
+  "crawled_at": "2026-07-18T20:00:17.607910",
   "total_news": 1,
   "news": [
     {
       "title": "UW–Madison monitoring air quality",
       "url": "https://news.wisc.edu/uw-madison-monitoring-air-quality/",
-      "date": "July 16, 2026",
+      "date": "July 18, 2026",
       "type": "News",
-      "summary_en": "Wildfire smoke from Minnesota and Ontario has drifted across Wisconsin this week.",
+      "summary_en": "Wildfire smoke from Minnesota and Ontario continues to drift across Wisconsin",
       "source": "UW-Madison News",
       "category": "general"
     }
