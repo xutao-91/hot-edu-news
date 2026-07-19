@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-07-19T12:00:22.712018",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue Engineering faculty selected for prestigious NAE symposium",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0708-purdue-engineering-warsinger-yu-chynoweth-nae-frontiers",
+      "date": "July 17, 2026",
+      "type": "News",
+      "summary_en": "Three Purdue Engineering faculty members have been selected by the National Academy of Engineering (NAE) to participate in the 2026 Grainger Foundation Frontiers of Engineering Symposium, one of the nation's premier programs recognizing outstanding early-career engineers.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Joint proposal including BME's Wallace wins $160-NSF grant to study musculoskeletal health",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-nsf-regional-innovation-engines-musculoskeletal-grant",
+      "date": "July 17, 2026",
+      "type": "News",
+      "summary_en": "Purdue and its partners are aiming to help improve treatment for musculoskeletal diseases, such as osteoarthritis or osteoporosis, which place a significant burden on health, quality of life and the healthcare system as a whole.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

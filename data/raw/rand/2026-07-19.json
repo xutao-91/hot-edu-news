@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-07-19T12:00:29.484084",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "A Mile Wide, an Inch Deep: The State of Civic Learning in U.S. School Districts",
+      "url": "https://www.rand.org/pubs/external_publications/EP71411.html",
+      "date": "Jul 16, 2026",
+      "type": "Research",
+      "summary_en": "This brief is the first in a three-part series from the American School District Panel, a research partnership between RAND and CRPE that surveys hundreds of school district leaders.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "Pooling Europe's compute: The promise of distributed training for European frontier AI",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5013-1.html",
+      "date": "Jul 16, 2026",
+      "type": "Research",
+      "summary_en": "Frontier AI training has needed compute at one site, hard in Europe given power, chip and political limits. RAND Europe finds distributed training eases the power and political constraints and pools Europe's scattered chips, but adds no new chips.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

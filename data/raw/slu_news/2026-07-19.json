@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-07-19T12:00:12.312015",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Linda Sue Vogt: 1948-2026",
+      "url": "https://www.slu.edu/news/2026/july/linda-vogt-obituary.php",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "Linda Sue Vogt, whose generosity and steadfast support helped expand educational opportunities for Saint Louis University students, died June 14 at her home in Sunset Hills. She was 78.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "St. Louis Shakespeare Festival TourCo to Perform on SLU's Quad Sept. 1",
+      "url": "https://www.slu.edu/news/2026/july/shakespeare-on-the-quad.php",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "Saint Louis University's quad will become center stage Sept. 1 as the St. Louis Shakespeare Festival TourCo makes its campus debut with a free outdoor performance of Shakespeare's The Two Gentlemen of Verona, directed by Rebekah Scallet.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}
