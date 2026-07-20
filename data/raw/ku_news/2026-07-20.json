@@ -1,0 +1,35 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-07-20T12:00:26.381325",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "KU Kudos: Faculty and staff achievements, July 2026",
+      "url": "https://news.ku.edu/news/article/ku-kudos-faculty-and-staff-achievements-july-2026",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "It’s time to celebrate Jayhawk colleagues’ achievements: KU News Service accepted submissions and combed websites, social media and newsletters for recent external honors and awards for current faculty and staff at the Lawrence, Edwards and Medical Center campuses and affiliates.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Six KU faculty members selected for 2026-27 Big 12 Faculty Fellowship",
+      "url": "https://news.ku.edu/news/article/six-ku-faculty-members-selected-for-2026-27-big-12-faculty-fellowship",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "The Big 12 program allows tenured and tenure-track faculty on the KU Lawrence campus to expand their research connections within the Big 12 Conference through a variety of scholarly endeavors.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Osage professor helps renovate ‘Little House on the Prairie’",
+      "url": "https://news.ku.edu/news/article/osage-professor-helps-renovate-little-house-on-the-prairie",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "In a new Netflix series, Robert Warrior, the Hall Distinguished Professor of American Literature and Culture at the University of Kansas, served as a story consultant for a fresh adaptation of the beloved books and classic TV show “Little House on the Prairie.”",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

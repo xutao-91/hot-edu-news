@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-07-20T12:00:30.997420",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Securing AI Algorithmic Insights",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4685-1.html",
+      "date": "Jul 20, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Restricting AI Agent Use of Biological Tools: Exploring the Feasibility of Software Barriers",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5000-1.html",
+      "date": "Jul 20, 2026",
+      "type": "Research",
+      "summary_en": "AI agents can help non-experts use advanced biological design tools, raising misuse concerns. The authors explore safeguards built into biological tools that could block such assistance and find that their effectiveness is currently limited.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

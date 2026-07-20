@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-07-20T12:00:15.817501",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Ilitch School faculty help nonprofit leaders unlock the potential of AI",
+      "url": "https://ilitchbusiness.wayne.edu/news/ilitch-school-faculty-help-nonprofit-leaders-unlock-the-potential-of-ai-69747",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Michigan Shakespeare Festival brings '26 season to Hilberry Gateway; WSU employees receive discount",
+      "url": "https://theatreanddance.wayne.edu/news/michigan-shakespeare-festival-brings-26-season-to-hilberry-gateway-wayne-state-university-employees-receive-discount-69785",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

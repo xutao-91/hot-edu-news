@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-20T12:00:16.161990",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Mesonet crosses 100-station mark, serves wide range of Nebraska needs",
+      "url": "https://news.unl.edu/article/mesonet-crosses-100-station-mark-serves-wide-range-of-nebraska-needs",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Global experiences shape Rojas’ future in wildlife conservation",
+      "url": "https://news.unl.edu/article/global-experiences-shape-rojas-future-in-wildlife-conservation",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "International training expands Kruger Gallery opportunities",
+      "url": "https://news.unl.edu/article/international-training-expands-kruger-gallery-opportunities",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Rasby retires after 40 years of impact on Nebraska beef industry",
+      "url": "https://news.unl.edu/article/rasby-retires-after-40-years-of-impact-on-nebraska-beef-industry",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Online Nebraska MBA ranked No. 7 in nation by Princeton Review",
+      "url": "https://news.unl.edu/article/online-nebraska-mba-ranked-no-7-in-nation-by-princeton-review",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

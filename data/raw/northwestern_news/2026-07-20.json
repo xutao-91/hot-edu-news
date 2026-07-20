@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-07-20T12:00:27.624205",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Ainsley Cameron named associate director of curatorial affairs for The Block Museum of Art",
+      "url": "https://news.northwestern.edu/stories/2026/07/the-block-museum-of-art-names-ainsley-m-cameron-associate-director-of-curatorial-affairs",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Chad Mirkin receives American Chemical Society’s top honor",
+      "url": "https://news.northwestern.edu/stories/2026/07/chad-mirkin-receives-american-chemical-societys-top-honor",
+      "date": "2026-07-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

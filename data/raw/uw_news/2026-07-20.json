@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-20T12:00:18.186986",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "July 20 campus cooling update",
+      "url": "https://news.wisc.edu/july-20-campus-cooling-update/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "Based on current information, repairs to the broken chilled water line are expected to be completed before students return for the fall semester.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison monitoring air quality",
+      "url": "https://news.wisc.edu/uw-madison-monitoring-air-quality/",
+      "date": "July 18, 2026",
+      "type": "News",
+      "summary_en": "Wildfire smoke from Minnesota and Ontario continues to drift across Wisconsin",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}
