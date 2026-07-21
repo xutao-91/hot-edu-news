@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-07-20T12:00:06.892126",
-  "total_news": 1,
+  "crawled_at": "2026-07-20T20:00:11.288166",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Repaying the inheritance: How education and research policy can address AI’s borrowed expertise",
+      "url": "https://www.brookings.edu/articles/repaying-the-inheritance-how-education-and-research-policy-can-address-ais-borrowed-expertise/",
+      "author": "Niam Yaraghi",
+      "date": "July 20, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "policy"
+    },
     {
       "title": "What does the new duration of status rule mean for international students and workers?",
       "url": "https://www.brookings.edu/articles/what-does-the-new-duration-of-status-rule-mean-for-international-students-and-workers/",

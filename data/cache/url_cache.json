@@ -13726,5 +13726,137 @@
     "fetch_time": "2026-07-20T12:00:31.192825",
     "title": "Restricting AI Agent Use of Biological Tools: Exploring the Feasibility of Software Barriers",
     "category": "ai"
+  },
+  "https://www.slu.edu/news/2026/july/nva-demo-day.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-20T20:00:08.709003",
+    "title": "SLU's New Venture Accelerator to Hold Demo Day on August 11",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/repaying-the-inheritance-how-education-and-research-policy-can-address-ais-borrowed-expertise/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-20T20:00:12.022339",
+    "title": "Repaying the inheritance: How education and research policy can address AI’s borrowed expertise",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/hawaiis-childcare-shortage-is-one-of-the-nations-worst/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-20T20:00:18.941452",
+    "title": "Hawaii’s Childcare Shortage Is One of the Nation’s Worst",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/uw-madison-chancellor-search-committee-accepting-nominations-applications/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-20T20:00:19.366965",
+    "title": "UW–Madison chancellor search committee accepting nominations, applications",
+    "category": "semiconductor"
+  },
+  "https://arts.wisc.edu/2026/07/20/three-summer-arts-students-three-unique-experiences/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-20T20:00:19.366996",
+    "title": "Three summer arts students, three unique experiences",
+    "category": "education"
+  },
+  "https://onwisconsin.uwalumni.com/the-upside-of-online-relationships/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-20T20:00:19.367008",
+    "title": "The Upside of Online Relationships",
+    "category": "general"
+  },
+  "https://blogs.iu.edu/shhsnews/iu-indianapolis-dance-program-for-individuals-with-down-syndrome-goes-global/": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-20T20:00:25.137612",
+    "title": "Dance program for individuals with Down syndrome goes global",
+    "category": "general"
+  },
+  "https://today.uic.edu/uic-researchers-identify-druggable-target-that-makes-metastatic-cancer-cells-easier-to-kill/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-20T20:00:25.362049",
+    "title": "UIC researchers identify druggable target that makes metastatic cancer cells easier to kill",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/uic-researchers-zoom-in-on-tiny-cellular-messengers/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-20T20:00:25.362075",
+    "title": "UIC researchers zoom in on tiny cellular messengers",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/polytechnic-research-awards-june-2026": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-20T20:00:26.063313",
+    "title": "Polytechnic research awards - June 2026",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/beyond-authority-katrenia-reed-hughes-importance-influence-leadership-and-human-connection": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-20T20:00:26.063339",
+    "title": "Beyond Authority: Katrenia Reed Hughes on the importance of influence, leadership and human connection in project management",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/story/uchicagos-development-innovation-lab-undergraduates-assist-research-can-reach-millions": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-20T20:00:29.026368",
+    "title": "In UChicago’s Development Innovation Lab, undergraduates assist research that can reach ‘millions’ worldwide",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-space-exploration-day-8e77/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191393",
+    "title": "Presidential Message on Space Exploration Day",
+    "category": "space"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191428",
+    "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Motor Vehicles",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191448",
+    "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191467",
+    "title": "Imposing Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Dairy",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-imposes-additional-tariffs-on-canada/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191486",
+    "title": "Fact Sheet: President Donald J. Trump Imposes Additional Tariffs on Canada",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-takes-further-action-to-adjust-imports-of-aluminum-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191505",
+    "title": "Fact Sheet: President Donald J. Trump Takes Further Action To Adjust Imports Of Aluminum Into The United States",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/further-strengthening-actions-taken-to-adjust-imports-of-aluminum-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191523",
+    "title": "Further Strengthening Actions Taken to Adjust Imports of Aluminum into the United States",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-secures-americas-defense-supply-chains-and-ensures-domestic-acquisition-of-critical-materials/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191542",
+    "title": "Fact Sheet: President Donald J. Trump Secures America’s Defense Supply Chains and Ensures Domestic Acquisition of Critical Materials",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191561",
+    "title": "Securing America’s Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/nomination-sent-to-the-senate-4c22/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-20T20:00:33.191578",
+    "title": "Nomination Sent to the Senate",
+    "category": "general"
   }
 }

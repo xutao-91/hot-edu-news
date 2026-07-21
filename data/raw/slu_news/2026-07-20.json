@@ -1,9 +1,18 @@
 {
   "source": "Saint Louis University News",
   "source_url": "https://www.slu.edu/news/archive.php",
-  "crawled_at": "2026-07-20T12:00:12.140162",
-  "total_news": 2,
+  "crawled_at": "2026-07-20T20:00:08.094254",
+  "total_news": 3,
   "news": [
+    {
+      "title": "SLU's New Venture Accelerator to Hold Demo Day on August 11",
+      "url": "https://www.slu.edu/news/2026/july/nva-demo-day.php",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "The Chaifetz Center for Entrepreneurship at Saint Louis University is hosting its New Venture Accelerator (NVA) Demo Day on Tuesday, Aug. 11. At the event, the third NVA cohort will make final pitches to potential investors and partners interested in the future growth of the four companies.",
+      "source": "SLU News",
+      "category": "general"
+    },
     {
       "title": "Linda Sue Vogt: 1948-2026",
       "url": "https://www.slu.edu/news/2026/july/linda-vogt-obituary.php",

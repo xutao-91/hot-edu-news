@@ -1,8 +1,8 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-20T12:00:29.395489",
-  "total_news": 3,
+  "crawled_at": "2026-07-20T20:00:28.850328",
+  "total_news": 4,
   "news": [
     {
       "title": "What to know about diarrhea-causing cyclosporiasis in Illinois",
@@ -12,6 +12,15 @@
       "summary_en": "",
       "source": "UChicago News",
       "category": "general"
+    },
+    {
+      "title": "In UChicago’s Development Innovation Lab, undergraduates assist research that can reach ‘millions’ worldwide",
+      "url": "https://news.uchicago.edu/story/uchicagos-development-innovation-lab-undergraduates-assist-research-can-reach-millions",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "From safe water programs in Africa and India to air quality interventions in Colombia, College students get hands-on experience with leading experts",
+      "source": "UChicago News",
+      "category": "research"
     },
     {
       "title": "Law School Limits Laptops as AI Transforms Work",

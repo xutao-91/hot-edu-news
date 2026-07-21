@@ -1,7 +1,26 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-07-20T12:00:25.976439",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-20T20:00:24.851350",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC researchers identify druggable target that makes metastatic cancer cells easier to kill",
+      "url": "https://today.uic.edu/uic-researchers-identify-druggable-target-that-makes-metastatic-cancer-cells-easier-to-kill/",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "Researchers discovered an ion channel that controls cancer cell stiffness.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "UIC researchers zoom in on tiny cellular messengers",
+      "url": "https://today.uic.edu/uic-researchers-zoom-in-on-tiny-cellular-messengers/",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "Extracellular vesicles are particles that signal inflammation, cancer and Parkinson’s.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
 }

@@ -1,9 +1,36 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-20T12:00:18.186986",
-  "total_news": 2,
+  "crawled_at": "2026-07-20T20:00:18.708307",
+  "total_news": 5,
   "news": [
+    {
+      "title": "UW–Madison chancellor search committee accepting nominations, applications",
+      "url": "https://news.wisc.edu/uw-madison-chancellor-search-committee-accepting-nominations-applications/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "Applicants should submit materials by September 10 for full consideration.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Three summer arts students, three unique experiences",
+      "url": "https://arts.wisc.edu/2026/07/20/three-summer-arts-students-three-unique-experiences/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "Summer arts courses at UW offer students a bonus season to earn valuable credits, expand their horizons and, in some cases, discover deeply personal stories.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "The Upside of Online Relationships",
+      "url": "https://onwisconsin.uwalumni.com/the-upside-of-online-relationships/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison professor Catalina Toma reveals the unexpected benefits of social media and dating apps.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "July 20 campus cooling update",
       "url": "https://news.wisc.edu/july-20-campus-cooling-update/",

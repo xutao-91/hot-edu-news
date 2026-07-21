@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-07-20T12:00:08.601824",
-  "total_news": 6,
+  "crawled_at": "2026-07-20T20:00:08.755367",
+  "total_news": 7,
   "news": [
+    {
+      "title": "UK led the world in study visa issuance in 2025 despite woes",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-07-20",
+      "type": "Immigration",
+      "summary_en": "The PIE's analysis shows that the UK issued more new study visas in 2025 than any other country in the world, despite a spike in visa refusals in Q4.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Nicholas Cuthbert and Dave Amor"
+    },
     {
       "title": "Nepalese education consultancies protest sweeping new regulations",
       "url": "https://thepienews.com/category/news/government/",
