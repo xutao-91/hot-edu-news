@@ -13858,5 +13858,107 @@
     "fetch_time": "2026-07-20T20:00:33.191578",
     "title": "Nomination Sent to the Senate",
     "category": "general"
+  },
+  "https://www.slu.edu/news/2026/july/geospatial-center-launch.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-21T12:00:08.357302",
+    "title": "SLU Launches Next-Generation Geospatial Center to Power Innovation in St. Louis and Beyond",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-recognized-among-money-s-best-colleges-for-2026": {
+    "source": "msoe",
+    "fetch_time": "2026-07-21T12:00:08.782645",
+    "title": "MSOE recognized among Money’s Best Colleges for 2026",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/advancing-early-literacy-with-a-1st-grade-safety-net/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-21T12:00:09.543883",
+    "title": "Advancing early literacy with a 1st-grade safety net",
+    "category": "general"
+  },
+  "https://www.brookings.edu/articles/ai-is-rapidly-changing-education-and-research-needs-to-keep-up/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-21T12:00:09.543909",
+    "title": "AI is rapidly changing education and research needs to keep up",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/nebraska-snapshot-shows-ai-awareness-differs-by-age-education-income": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-21T12:00:16.010369",
+    "title": "Nebraska Snapshot shows AI awareness differs by age, education, income",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/manning-to-retire-after-five-decades-at-nebraska-u": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-21T12:00:16.010397",
+    "title": "Manning to retire after five decades at Nebraska U",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/sheldon-receives-100000-warhol-grant-for-two-exhibitions": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-21T12:00:16.010408",
+    "title": "Sheldon receives $100,000 Warhol grant for two exhibitions",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/watts-named-interim-senior-associate-vice-chancellor-for-business-and-finance": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-21T12:00:16.010417",
+    "title": "Watts named interim senior associate vice chancellor for business and finance",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/trumps-education-department-leaves-mountain-of-public-records-requests-unaddressed/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-21T12:00:18.739889",
+    "title": "Trump’s Education Department Leaves Mountain of Public Records Requests Unaddressed",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/as-costs-rise-families-with-young-children-are-feeling-the-strain/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-21T12:00:18.739914",
+    "title": "As Costs Rise, Families With Young Children Are Feeling the Strain",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/barber-appointed-to-provosts-office-roles/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-21T12:00:19.336461",
+    "title": "Barber appointed to roles in Office of the Provost",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/business/uni-mba-marks-20-years-princeton-review-best-business-school": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-21T12:00:19.390217",
+    "title": "UNI MBA marks 20 years as a Princeton Review Best Business School",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-provides-nursing-students-with-hands-on-experience-beyond-the-hospital/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-21T12:00:20.689572",
+    "title": "Mizzou provides nursing students with hands-on experience beyond the hospital",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/new-50-percent-tariff-on-canadian-goods-unprecedented-erratic-even-desperate-international-trade-law-scholar-says": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-21T12:00:25.409582",
+    "title": "New 50 percent tariff on Canadian goods ‘unprecedented, erratic, even desperate,’ international trade law scholar says",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/researchers-develop-velocity-based-training-guidelines-for-football-tailored-for-specific-positions": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-21T12:00:25.409608",
+    "title": "Researchers develop velocity-based training guidelines for football, tailored for specific positions",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-announces-trade-deal-with-jordan/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-21T12:00:29.958567",
+    "title": "Fact Sheet: President Donald J. Trump Announces Trade Deal with Jordan",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/agreement-between-the-united-states-of-america-and-the-hashemite-kingdom-of-jordan-on-reciprocal-trade/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-21T12:00:29.958603",
+    "title": "AGREEMENT BETWEEN THE UNITED STATES OF AMERICA AND THE HASHEMITE KINGDOM OF JORDAN ON RECIPROCAL TRADE",
+    "category": "semiconductor"
   }
 }

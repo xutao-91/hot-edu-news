@@ -1,0 +1,62 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-07-21T12:00:18.658230",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Barber appointed to roles in Office of the Provost",
+      "url": "https://news.wisc.edu/barber-appointed-to-provosts-office-roles/",
+      "date": "July 21, 2026",
+      "type": "News",
+      "summary_en": "Sarah Barber has been appointed vice provost for academic affairs and chief of staff in the Office of the Provost.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison chancellor search committee accepting nominations, applications",
+      "url": "https://news.wisc.edu/uw-madison-chancellor-search-committee-accepting-nominations-applications/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "Applicants should submit materials by September 10 for full consideration.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Three summer arts students, three unique experiences",
+      "url": "https://arts.wisc.edu/2026/07/20/three-summer-arts-students-three-unique-experiences/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "Summer arts courses at UW offer students a bonus season to earn valuable credits, expand their horizons and, in some cases, discover deeply personal stories.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "The upside of online relationships",
+      "url": "https://onwisconsin.uwalumni.com/the-upside-of-online-relationships/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison professor Catalina Toma reveals the unexpected benefits of social media and dating apps.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "July 20 campus cooling update",
+      "url": "https://news.wisc.edu/july-20-campus-cooling-update/",
+      "date": "July 20, 2026",
+      "type": "News",
+      "summary_en": "Based on current information, repairs to the broken chilled water line are expected to be completed before students return for the fall semester.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison monitoring air quality",
+      "url": "https://news.wisc.edu/uw-madison-monitoring-air-quality/",
+      "date": "July 18, 2026",
+      "type": "News",
+      "summary_en": "Wildfire smoke from Minnesota and Ontario continues to drift across Wisconsin",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

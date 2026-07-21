@@ -1,0 +1,26 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-21T12:00:10.293163",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "K-State launches new training program for academic advisors",
+      "url": "https://www.k-state.edu/news/articles/2026/07/academic-advising-training-program-success.html",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "Academic advisors build trusting and individualized relationships with students, help them enroll in courses, navigate degree requirements and plan for post-graduation. K-State's new...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Katie Thompson-Laswell",
+      "url": "https://www.k-state.edu/news/articles/2026/07/katie-thompson-laswell-builds-healthy-childhoods-strong-communities.html",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "Katie Thompson-Laswell is preparing future educators and caregivers to build healthier childhoods and stronger communities.",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

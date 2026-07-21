@@ -1,0 +1,35 @@
+{
+  "source": "Brookings Institution - Education",
+  "source_url": "https://www.brookings.edu/topics/education-2/",
+  "crawled_at": "2026-07-21T12:00:08.718083",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Advancing early literacy with a 1st-grade safety net",
+      "url": "https://www.brookings.edu/articles/advancing-early-literacy-with-a-1st-grade-safety-net/",
+      "author": "Jen Krajewski, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tCynthia Lake, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tAmanda Neitzel",
+      "date": "July 21, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "general"
+    },
+    {
+      "title": "AI is rapidly changing education and research needs to keep up",
+      "url": "https://www.brookings.edu/articles/ai-is-rapidly-changing-education-and-research-needs-to-keep-up/",
+      "author": "Stacey Alicea, \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tMeghan McCormick",
+      "date": "July 21, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "technology"
+    },
+    {
+      "title": "Repaying the inheritance: How education and research policy can address AI’s borrowed expertise",
+      "url": "https://www.brookings.edu/articles/repaying-the-inheritance-how-education-and-research-policy-can-address-ais-borrowed-expertise/",
+      "author": "Niam Yaraghi",
+      "date": "July 20, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "policy"
+    }
+  ]
+}
