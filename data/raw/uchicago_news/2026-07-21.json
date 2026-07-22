@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-21T12:00:29.092733",
-  "total_news": 3,
+  "crawled_at": "2026-07-21T20:00:29.009919",
+  "total_news": 4,
   "news": [
+    {
+      "title": "CQE-led Bloch Quantum Tech Hub raises $55 million to build U.S. quantum supply chain",
+      "url": "https://news.uchicago.edu/story/cqe-led-bloch-quantum-tech-hub-raises-55-million-build-us-quantum-supply-chain",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "Federal award unlocks millions in state and private sector contributions, positioning Midwest to lead U.S. quantum manufacturing",
+      "source": "UChicago News",
+      "category": "ai"
+    },
     {
       "title": "What to know about diarrhea-causing cyclosporiasis in Illinois",
       "url": "https://chicago.suntimes.com/news/2026/07/14/illinois-reports-216-cases-of-diarrhea-inducing-cyclosporiasis?utm_medium=email&utm_campaign=071626%20Morning%20Edition&utm_content=071626%20Morning%20Edition+CID_609b5cb1b2d577d7fb5081037969d534&utm_source=cst_campaign_monitor&utm_term=diarrhea-causing%20illness%20cyclosporiasis&tpcc=cst_cm",

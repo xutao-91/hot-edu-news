@@ -1,9 +1,35 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-21T12:00:08.287093",
-  "total_news": 1,
+  "crawled_at": "2026-07-21T20:00:07.702873",
+  "total_news": 3,
   "news": [
+    {
+      "title": "What do people in middle-income countries think about cuts to U.S. humanitarian aid?",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/what-do-people-in-middle-income-countries-think-about-cuts-to-us-humanitarian-aid/",
+      "date": "Jul 21, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Political Values",
+        "Politics Policy"
+      ],
+      "summary_en": "In 16 middle-income countries surveyed, many people are unsure how U.S. humanitarian aid cuts will affect them, though those with opinions lean negative.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "U.S. foreign aid is plunging in second Trump administration",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/21/us-foreign-aid-is-plunging-in-second-trump-administration/",
+      "date": "Jul 21, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Issues",
+        "Politics Policy"
+      ],
+      "summary_en": "U.S. foreign aid fell to its lowest inflation-adjusted level in over two decades in fiscal 2025, dropping to $47.3 billion — more than $24 billion less than the prior year.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
     {
       "title": "How global energy production is changing, in 6 charts",
       "url": "https://www.pewresearch.org/short-reads/2026/07/20/how-global-energy-production-is-changing-in-6-charts/",

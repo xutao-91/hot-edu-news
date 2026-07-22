@@ -1,7 +1,17 @@
 {
   "source": "Illinois Institute of Technology News",
   "source_url": "https://www.iit.edu/news",
-  "crawled_at": "2026-07-21T12:00:13.002127",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-21T20:00:12.512199",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "A Chance for Upward Mobility, or an Unfair Deal?",
+      "url": "https://www.iit.edu/news/chance-upward-mobility-or-unfair-deal",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "TRANSCRIPT Illinois Tech Assistant Professor of Law Lucien Ferguson: Thinking about the Bears project, one way to think about it is that local economic development is a key vector in the, sort of...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
 }

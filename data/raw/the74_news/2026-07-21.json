@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-21T12:00:17.971219",
+  "crawled_at": "2026-07-21T20:00:18.523578",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.712401"
+      "crawled_at": "2026-07-21T20:00:18.221368"
+    },
+    {
+      "title": "Mental Health Programs Could Bear the Brunt of $600M Federal Cuts to Texas Schools",
+      "url": "https://www.the74million.org/article/mental-health-programs-could-bear-the-brunt-of-600m-federal-cuts-to-texas-schools/",
+      "date": "July 21, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-21T20:00:18.233588"
     },
     {
       "title": "Trump’s Education Department Leaves Mountain of Public Records Requests Unaddressed",
@@ -18,7 +26,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.734276"
+      "crawled_at": "2026-07-21T20:00:18.245915"
     },
     {
       "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
@@ -26,7 +34,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.747162"
+      "crawled_at": "2026-07-21T20:00:18.259575"
     },
     {
       "title": "ICE Has Detained More Than 650 Kids in California Under Trump Deportation Crackdown",
@@ -34,15 +42,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.759607"
-    },
-    {
-      "title": "From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief",
-      "url": "https://www.the74million.org/article/from-music-teacher-to-national-union-leader-top-takeaways-from-new-nea-chief/",
-      "date": "July 21, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.772570"
+      "crawled_at": "2026-07-21T20:00:18.281209"
     },
     {
       "title": "As Costs Rise, Families With Young Children Are Feeling the Strain",
@@ -50,7 +50,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.784270"
+      "crawled_at": "2026-07-21T20:00:18.283558"
     },
     {
       "title": "Hawaii’s Childcare Shortage Is One of the Nation’s Worst",
@@ -58,7 +58,15 @@
       "date": "July 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.796921"
+      "crawled_at": "2026-07-21T20:00:18.295328"
+    },
+    {
+      "title": "From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief",
+      "url": "https://www.the74million.org/article/from-music-teacher-to-national-union-leader-top-takeaways-from-new-nea-chief/",
+      "date": "July 20, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-21T20:00:18.317989"
     },
     {
       "title": "Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians",
@@ -66,7 +74,7 @@
       "date": "July 19, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.808576"
+      "crawled_at": "2026-07-21T20:00:18.326621"
     },
     {
       "title": "NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say",
@@ -74,7 +82,7 @@
       "date": "July 19, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.820490"
+      "crawled_at": "2026-07-21T20:00:18.337287"
     },
     {
       "title": "Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse",
@@ -82,7 +90,7 @@
       "date": "July 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.831959"
+      "crawled_at": "2026-07-21T20:00:18.350407"
     },
     {
       "title": "Hawaiʻi Teachers Take Learning Outside in Summer Workshop",
@@ -90,7 +98,7 @@
       "date": "July 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.843376"
+      "crawled_at": "2026-07-21T20:00:18.361681"
     },
     {
       "title": "Connecticut Sues, Again, Over Withheld School Mental Health Grants",
@@ -98,7 +106,7 @@
       "date": "July 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.854793"
+      "crawled_at": "2026-07-21T20:00:18.374418"
     },
     {
       "title": "California Allocates Dedicated Funding to Identify Homeless Students",
@@ -106,7 +114,7 @@
       "date": "July 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.857188"
+      "crawled_at": "2026-07-21T20:00:18.387043"
     },
     {
       "title": "Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk",
@@ -114,7 +122,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.868615"
+      "crawled_at": "2026-07-21T20:00:18.398999"
     },
     {
       "title": "The Nation’s Largest School System Is Expanding Special Education for Its Youngest Learners",
@@ -122,7 +130,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.880125"
+      "crawled_at": "2026-07-21T20:00:18.412448"
     },
     {
       "title": "Report: Education Department Scaled Back Special Education Monitoring",
@@ -130,7 +138,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.891627"
+      "crawled_at": "2026-07-21T20:00:18.423525"
     },
     {
       "title": "The Massive Collapse in College Confidence Isn’t Getting Any Better",
@@ -138,7 +146,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.903144"
+      "crawled_at": "2026-07-21T20:00:18.434875"
     },
     {
       "title": "Exclusive: Study Finds Boston Charters Fell Off in 2010s, Recovered During COVID",
@@ -146,7 +154,7 @@
       "date": "July 16, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.905491"
+      "crawled_at": "2026-07-21T20:00:18.446792"
     },
     {
       "title": "Anthropic Launches Claude for Teachers to Influence America’s Classrooms",
@@ -154,7 +162,7 @@
       "date": "July 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.916923"
+      "crawled_at": "2026-07-21T20:00:18.458353"
     },
     {
       "title": "Indiana Sets Standards for 4-Day School Week Waivers",
@@ -162,7 +170,7 @@
       "date": "July 15, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.928464"
+      "crawled_at": "2026-07-21T20:00:18.470457"
     },
     {
       "title": "UC Board of Regents Wants Recommendations By End of Academic Year on SAT/ACT",
@@ -170,7 +178,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.939955"
+      "crawled_at": "2026-07-21T20:00:18.482146"
     },
     {
       "title": "Short Thousands of Bilingual Teachers, California Schools Turn to High School Students",
@@ -178,7 +186,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.949438"
+      "crawled_at": "2026-07-21T20:00:18.496744"
     },
     {
       "title": "Can Ethnic Studies Bridge the Achievement Gap? San Francisco Program Shows Gains",
@@ -186,7 +194,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.957986"
+      "crawled_at": "2026-07-21T20:00:18.511412"
     },
     {
       "title": "The End of Homework? Teachers Grapple With Cheating in the Age of AI",
@@ -194,15 +202,7 @@
       "date": "July 14, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.960361"
-    },
-    {
-      "title": "Maine, 14 Other States Sue Trump Administration to Block School Mental Health Funding Cuts",
-      "url": "https://www.the74million.org/article/maine-14-other-states-sue-trump-administration-to-block-school-mental-health-funding-cuts/",
-      "date": "July 13, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-21T12:00:17.970866"
+      "crawled_at": "2026-07-21T20:00:18.523129"
     }
   ]
 }
