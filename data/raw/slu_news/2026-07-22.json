@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-07-22T12:00:20.982949",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "SLU Launches Next-Generation Geospatial Center to Power Innovation in St. Louis and Beyond",
+      "url": "https://www.slu.edu/news/2026/july/geospatial-center-launch.php",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "Saint Louis University has launched a new center focused on advancing geospatial research, fostering collaboration and developing solutions that benefit communities here at home and around the world. Housed in SLU’s School of Science and Engineering, the Geospatial Center will bring together faculty and students from across the University to address complex societal challenges using GeoAI, quantum",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU's New Venture Accelerator to Hold Demo Day on August 11",
+      "url": "https://www.slu.edu/news/2026/july/nva-demo-day.php",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "The Chaifetz Center for Entrepreneurship at Saint Louis University is hosting its New Venture Accelerator (NVA) Demo Day on Tuesday, Aug. 11. At the event, the third NVA cohort will make final pitches to potential investors and partners interested in the future growth of the four companies.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

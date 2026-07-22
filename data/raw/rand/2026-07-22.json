@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-07-22T12:01:10.323901",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Effects of Exposure to Active Minds’ Send Silence Packing Exhibit on College Students’ Mental Health Help-Seeking Intentions",
+      "url": "https://www.rand.org/pubs/external_publications/EP71410.html",
+      "date": "Jul 22, 2026",
+      "type": "Research",
+      "summary_en": "This study examined effects of exposure to a campus mental health promotion exhibit on changes in college students’ help-seeking intentions.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "Securing AI Algorithmic Insights",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4685-1.html",
+      "date": "Jul 20, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors extend a security framework to provide the first systematic roadmap for protecting algorithmic insights, the novel techniques, methods, and design know-how that materially improve artificial intelligence systems.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Restricting AI Agent Use of Biological Tools: Exploring the Feasibility of Software Barriers",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5000-1.html",
+      "date": "Jul 20, 2026",
+      "type": "Research",
+      "summary_en": "AI agents can help non-experts use advanced biological design tools, raising misuse concerns. The authors explore safeguards built into biological tools that could block such assistance and find that their effectiveness is currently limited.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

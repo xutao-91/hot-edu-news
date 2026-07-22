@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-07-22T12:00:34.035968",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Finding what it takes to make a white blood cell could lead to new cancer treatment",
+      "url": "https://www.news.iastate.edu/news/finding-what-it-takes-make-white-blood-cell-could-lead-new-cancer-treatment",
+      "date": "2026-07-22",
+      "type": "Innovation and Research",
+      "summary_en": "An Iowa State University-led research team identified two essential components — a pervasive protein and a crucial cellular signaling pathway — needed to make some types of blood cells, a discovery that could lead to a new treatment for leukemia.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Several Iowa State research projects selected for U.S. Department of Energy Genesis Mission",
+      "url": "https://www.news.iastate.edu/news/several-iowa-state-research-projects-selected-us-department-energy-genesis-mission",
+      "date": "2026-07-22",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State University is the lead institution in four research projects and university faculty are collaborators on four additional projects that are part of the U.S. Department of Energy’s sweeping Genesis Mission. The awards were announced July 22 in Washington D.C.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

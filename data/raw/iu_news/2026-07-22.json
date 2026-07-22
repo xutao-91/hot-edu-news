@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-07-22T12:00:58.085064",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU Eskenazi Museum of Art to reimagine future of art engagement with $5M Lilly Endowment grant",
+      "url": "https://news.iu.edu/live/news/51856-iu-eskenazi-museum-of-art-to-reimagine-future-of-art-e",
+      "date": "Jul 20, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Dance program for individuals with Down syndrome goes global",
+      "url": "https://blogs.iu.edu/shhsnews/iu-indianapolis-dance-program-for-individuals-with-down-syndrome-goes-global/",
+      "date": "Jul 20, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

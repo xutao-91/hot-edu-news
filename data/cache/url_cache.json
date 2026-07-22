@@ -14050,5 +14050,131 @@
     "fetch_time": "2026-07-21T20:00:30.906260",
     "title": "Butler University to Launch Bachelor of Science in Respiratory Therapy",
     "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-22T12:00:22.851042",
+    "title": "What we know about the typical Polymarket user",
+    "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/ken-kollman-to-succeed-david-campbell-as-democracy-initiative-director-in-january/": {
+    "source": "nd_news",
+    "fetch_time": "2026-07-22T12:00:23.502055",
+    "title": "Ken Kollman to succeed David Campbell as Democracy Initiative director in January",
+    "category": "ai"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/police-chief-candidate-open-forums.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-22T12:00:26.640139",
+    "title": "Open forums with K-State police chief position finalists",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/ufm-unique-learning-experiences-able-program.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-22T12:00:26.640164",
+    "title": "UFM's new ABLE program creates learning opportunities for K-State students",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/melissa-glaser-trio-support-services-director.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-22T12:00:26.640176",
+    "title": "Melissa Glaser to serve as director of TRIO Educational Supportive Services and TRIO Student Support Services",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/finding-what-it-takes-make-white-blood-cell-could-lead-new-cancer-treatment": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-22T12:00:35.535167",
+    "title": "Finding what it takes to make a white blood cell could lead to new cancer treatment",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/several-iowa-state-research-projects-selected-us-department-energy-genesis-mission": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-22T12:00:35.535193",
+    "title": "Several Iowa State research projects selected for U.S. Department of Energy Genesis Mission",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/in-a-mississippi-school-district-with-strict-gender-rules-trans-students-and-families-push-to-be-heard/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-22T12:00:36.379499",
+    "title": "In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/students-with-disabilities-are-spending-more-time-in-mainstream-classrooms/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-22T12:00:36.379527",
+    "title": "Students With Disabilities Are Spending More Time in Mainstream Classrooms",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/illinois-tech-receives-ugc-letter-approval-mumbai-campus": {
+    "source": "iit_news",
+    "fetch_time": "2026-07-22T12:00:36.402106",
+    "title": "Illinois Tech Receives UGC Letter of Approval for Mumbai Campus",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/report-nebraskans-support-of-legal-cannabis-is-growing": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-22T12:00:39.552139",
+    "title": "Report: Nebraskans’ support of legal cannabis is growing",
+    "category": "general"
+  },
+  "https://cfpca.wayne.edu/news/wayne-state-university-faculty-alumni-among-2026-kresge-artist-fellows-and-gilda-awardees-69792": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-22T12:00:40.855064",
+    "title": "Wayne State University faculty, alumni among 2026 Kresge Artist Fellows and Gilda awardees",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-elimination-of-unnecessary-burdens-career-and-technical-education-programs": {
+    "source": "edgov",
+    "fetch_time": "2026-07-22T12:00:42.258948",
+    "title": "U.S. Department of Education Announces Elimination of Unnecessary Burdens on Career and Technical Education Programs",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-investigates-five-medical-schools-trump-administration-pushes-end-racial-discrimination-admissions": {
+    "source": "edgov",
+    "fetch_time": "2026-07-22T12:00:42.258976",
+    "title": "U.S. Department of Education Investigates Five Medical Schools as Trump Administration Pushes to End Racial Discrimination in Admissions",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/first-veterinarian-completes-mizzous-innovative-mixed-animal-internship/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-22T12:00:50.405050",
+    "title": "First veterinarian completes Mizzou’s innovative mixed animal internship",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/07/22/escaping-the-tech-debt-trap-why-governance-matters-more-in-the-age-of-ai/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-22T12:00:51.600411",
+    "title": "Escaping the tech debt trap: Why governance matters more in the age of AI",
+    "category": "education"
+  },
+  "https://www.elmhurst.edu/news/nathan-bucio-27-receives-gilman-scholarship-to-study-abroad/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-07-22T12:00:53.965636",
+    "title": "Nathan Bucio ’27 Receives Gilman Scholarship to Study Abroad",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/wm-keck-foundation-awards-1-point-2-million-to-ku-team-pursuing-new-theory-of-alzheimers-disease": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-22T12:01:00.303899",
+    "title": "W.M. Keck Foundation awards $1.2 million to KU team pursuing new theory of Alzheimer’s disease",
+    "category": "ai"
+  },
+  "https://news.northwestern.edu/stories/2026/07/northwestern-projects-receive-genesis-mission-funding": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-07-22T12:01:04.729042",
+    "title": "Northwestern projects receive Genesis Mission funding",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71410.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-22T12:01:11.434644",
+    "title": "Effects of Exposure to Active Minds’ Send Silence Packing Exhibit on College Students’ Mental Health Help-Seeking Intentions",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/45502/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-22T12:01:12.803910",
+    "title": "Trump Administration Announces More Than $5 Billion for the Genesis Mission, a National Mission on AI for Science",
+    "category": "ai"
   }
 }

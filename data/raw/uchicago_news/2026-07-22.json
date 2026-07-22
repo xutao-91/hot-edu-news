@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-22T12:01:10.690859",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "CQE-led Bloch Quantum Tech Hub raises $55 million to build U.S. quantum supply chain",
+      "url": "https://news.uchicago.edu/story/cqe-led-bloch-quantum-tech-hub-raises-55-million-build-us-quantum-supply-chain",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "Federal award unlocks millions in state and private sector contributions, positioning Midwest to lead U.S. quantum manufacturing",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "What to know about diarrhea-causing cyclosporiasis in Illinois",
+      "url": "https://chicago.suntimes.com/news/2026/07/14/illinois-reports-216-cases-of-diarrhea-inducing-cyclosporiasis?utm_medium=email&utm_campaign=071626%20Morning%20Edition&utm_content=071626%20Morning%20Edition+CID_609b5cb1b2d577d7fb5081037969d534&utm_source=cst_campaign_monitor&utm_term=diarrhea-causing%20illness%20cyclosporiasis&tpcc=cst_cm",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "In UChicago’s Development Innovation Lab, undergraduates assist research that can reach ‘millions’ worldwide",
+      "url": "https://news.uchicago.edu/story/uchicagos-development-innovation-lab-undergraduates-assist-research-can-reach-millions",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "From safe water programs in Africa and India to air quality interventions in Colombia, College students get hands-on experience with leading experts",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}
