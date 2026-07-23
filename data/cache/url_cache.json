@@ -14176,5 +14176,59 @@
     "fetch_time": "2026-07-22T12:01:12.803910",
     "title": "Trump Administration Announces More Than $5 Billion for the Genesis Mission, a National Mission on AI for Science",
     "category": "ai"
+  },
+  "https://www.the74million.org/article/in-first-school-visit-president-urges-atlanta-crowd-to-support-trump-accounts/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-22T20:00:14.622269",
+    "title": "In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/washu-announces-new-academic-industry-collaboration-with-bristol-myers-squibb/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-22T20:00:16.861098",
+    "title": "WashU announces new academic-industry collaboration with Bristol Myers Squibb",
+    "category": "ai"
+  },
+  "https://cai.wisc.edu/2026/07/22/predicting-where-wildfire-smoke-will-go-next/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-22T20:00:19.610080",
+    "title": "Predicting where wildfire smoke will go next",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-22T20:00:19.610107",
+    "title": "5 projects at UW–Madison aimed at transforming science and energy with AI receive DOE Genesis Mission funding",
+    "category": "quantum"
+  },
+  "https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-22T20:00:20.546128",
+    "title": "Mizzou-led team selected for U.S. Department of Energy’s inaugural Genesis Mission",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0722-purdue-choi-dna-origami-jitterbug-transformer-nanotechnology": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-22T20:00:23.861508",
+    "title": "ME's Choi builds synthetic DNA structure that demonstrates a jitterbug transformation",
+    "category": "education"
+  },
+  "https://www.heritage.org/education/commentary/allhere-chatbot-scandal-shows-how-not-deploy-ai": {
+    "source": "heritage",
+    "fetch_time": "2026-07-22T20:00:24.493986",
+    "title": "AllHere Chatbot Scandal Shows How Not to Deploy AI",
+    "category": "ai"
+  },
+  "https://www.mtu.edu/news/2026/07/michigan-tech-atmospheric-scientists-linked-to-three-research-projects-selected-for-doe-genesis-mission.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-07-22T20:00:29.013165",
+    "title": "Michigan Tech Atmospheric Scientists Linked to Three Research Projects Selected for DOE Genesis Mission",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/argonne-marks-80-years-scientific-discovery": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-22T20:00:29.487857",
+    "title": "Argonne marks 80 years of scientific discovery",
+    "category": "quantum"
   }
 }

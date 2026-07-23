@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-22T12:01:10.690859",
-  "total_news": 3,
+  "crawled_at": "2026-07-22T20:00:29.130962",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Argonne marks 80 years of scientific discovery",
+      "url": "https://news.uchicago.edu/story/argonne-marks-80-years-scientific-discovery",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "At the national laboratory, the first light bulbs lit by nuclear power have given way to supercomputers, quantum research and nanoscale engineering",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "CQE-led Bloch Quantum Tech Hub raises $55 million to build U.S. quantum supply chain",
       "url": "https://news.uchicago.edu/story/cqe-led-bloch-quantum-tech-hub-raises-55-million-build-us-quantum-supply-chain",

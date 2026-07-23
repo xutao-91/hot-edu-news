@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-07-22T12:00:48.986273",
-  "total_news": 4,
+  "crawled_at": "2026-07-22T20:00:19.783344",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Mizzou-led team selected for U.S. Department of Energy’s inaugural Genesis Mission",
+      "url": "https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "First veterinarian completes Mizzou’s innovative mixed animal internship",
       "url": "https://showme.missouri.edu/2026/first-veterinarian-completes-mizzous-innovative-mixed-animal-internship/",

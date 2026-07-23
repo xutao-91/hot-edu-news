@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-07-22T12:00:53.830842",
-  "total_news": 1,
+  "crawled_at": "2026-07-22T20:00:23.148325",
+  "total_news": 2,
   "news": [
+    {
+      "title": "ME's Choi builds synthetic DNA structure that demonstrates a jitterbug transformation",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0722-purdue-choi-dna-origami-jitterbug-transformer-nanotechnology",
+      "date": "July 22, 2026",
+      "type": "News",
+      "summary_en": "Purdue University researchers have successfully built a 3D DNA origami structure that performs a “jitterbug transformation,” mimicking the same behavior that enables viruses to deploy their payloads in nature.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "Engineering space to breath: ABE's Porterfield publishes research on respiration under microgravity",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0715-purdue-porterfield-co2-sensors-space-respiration-microgravity",

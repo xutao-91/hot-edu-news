@@ -1,9 +1,27 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-22T12:00:49.408336",
-  "total_news": 5,
+  "crawled_at": "2026-07-22T20:00:18.797816",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Predicting where wildfire smoke will go next",
+      "url": "https://cai.wisc.edu/2026/07/22/predicting-where-wildfire-smoke-will-go-next/",
+      "date": "July 22, 2026",
+      "type": "News",
+      "summary_en": "A collaboration between UW–Madison researchers and Argonne National Laboratory is advancing new methods to improve air quality forecasting— and provide earlier warnings to the public.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "5 projects at UW–Madison aimed at transforming science and energy with AI receive DOE Genesis Mission funding",
+      "url": "https://news.wisc.edu/5-projects-at-uwmadison-aimed-at-transforming-science-and-energy-with-ai-receive-doe-genesis-mission-funding/",
+      "date": "July 22, 2026",
+      "type": "News",
+      "summary_en": "The projects, spanning fusion to critical minerals, are among those awarded for accelerating breakthroughs using a new platform that combines AI, quantum systems, supercomputing and advanced scientific instruments.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
     {
       "title": "Barber appointed to roles in Office of the Provost",
       "url": "https://news.wisc.edu/barber-appointed-to-provosts-office-roles/",
