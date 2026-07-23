@@ -1,0 +1,28 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-07-23T12:00:30.075045",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "President Danko Named to Indiana 250 for Fifth Consecutive Year",
+      "url": "https://stories.butler.edu/president-danko-named-to-indiana-250-for-fifth-consecutive-year/",
+      "date": "2026-07-23",
+      "type": "News",
+      "summary_en": "Butler University President James Danko has once again been recognized among Indiana’s most influential leaders, earning a place on the Indianapolis Business Journal’s 2026 Indiana 250. The honor marks Danko’s fifth consecutive appearance on the annual list, making him one of just 84 leaders statewide who have been recognized every year since the Indiana 250…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Butler University to Launch Bachelor of Science in Respiratory Therapy",
+      "url": "https://stories.butler.edu/butler-university-to-launch-bachelor-of-science-in-respiratory-therapy/",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "New program will prepare future respiratory therapists to help meet Indiana’s growing healthcare workforce needs. Butler University will expand its healthcare offerings with the launch of a new Bachelor of Science in Respiratory Therapy program. The program will welcome its first cohort in fall 2027, with applications opening in January 2027.  The new degree is…",
+      "author": "Mark Apple",
+      "source": "Butler Stories",
+      "category": "education"
+    }
+  ]
+}

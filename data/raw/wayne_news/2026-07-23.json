@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-07-23T12:00:16.054814",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Rocket Community Fund provides $550,000 to expand two tech-focused programs",
+      "url": "https://economicdevelopment.wayne.edu/news/rocket-community-fund-provides-550000-grant-to-expand-wayne-state-programs-focused-on-careers-in-technology-69796",
+      "date": "2026-07-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Ilitch School faculty help nonprofit leaders unlock the potential of AI",
+      "url": "https://ilitchbusiness.wayne.edu/news/ilitch-school-faculty-help-nonprofit-leaders-unlock-the-potential-of-ai-69747",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Michigan Shakespeare Festival brings '26 season to Hilberry Gateway; WSU employees receive discount",
+      "url": "https://theatreanddance.wayne.edu/news/michigan-shakespeare-festival-brings-26-season-to-hilberry-gateway-wayne-state-university-employees-receive-discount-69785",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State University faculty, alumni among 2026 Kresge Artist Fellows and Gilda awardees",
+      "url": "https://cfpca.wayne.edu/news/wayne-state-university-faculty-alumni-among-2026-kresge-artist-fellows-and-gilda-awardees-69792",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

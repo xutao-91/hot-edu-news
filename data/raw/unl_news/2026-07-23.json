@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-23T12:00:15.764050",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Report: Nebraskans’ support of legal cannabis is growing",
+      "url": "https://news.unl.edu/article/report-nebraskans-support-of-legal-cannabis-is-growing",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska Snapshot shows AI awareness differs by age, education, income",
+      "url": "https://news.unl.edu/article/nebraska-snapshot-shows-ai-awareness-differs-by-age-education-income",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Manning to retire after five decades at Nebraska U",
+      "url": "https://news.unl.edu/article/manning-to-retire-after-five-decades-at-nebraska-u",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Sheldon receives $100,000 Warhol grant for two exhibitions",
+      "url": "https://news.unl.edu/article/sheldon-receives-100000-warhol-grant-for-two-exhibitions",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Watts named interim senior associate vice chancellor for business and finance",
+      "url": "https://news.unl.edu/article/watts-named-interim-senior-associate-vice-chancellor-for-business-and-finance",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Mesonet crosses 100-station mark, serves wide range of Nebraska needs",
+      "url": "https://news.unl.edu/article/mesonet-crosses-100-station-mark-serves-wide-range-of-nebraska-needs",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

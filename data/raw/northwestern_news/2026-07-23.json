@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-07-23T12:00:30.989359",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Northwestern projects receive Genesis Mission funding",
+      "url": "https://news.northwestern.edu/stories/2026/07/northwestern-projects-receive-genesis-mission-funding",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Ainsley Cameron named associate director of curatorial affairs for The Block Museum of Art",
+      "url": "https://news.northwestern.edu/stories/2026/07/the-block-museum-of-art-names-ainsley-m-cameron-associate-director-of-curatorial-affairs",
+      "date": "2026-07-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

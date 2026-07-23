@@ -1,0 +1,26 @@
+{
+  "source": "Milwaukee School of Engineering (MSOE)",
+  "source_url": "https://www.msoe.edu/about-msoe/news/1/",
+  "crawled_at": "2026-07-23T12:00:10.617572",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Diercks scholarship sends Red Wing students to MSOE to explore tech careers",
+      "url": "https://www.msoe.edu/about-msoe/news/details/diercks-scholarship-sends-red-wing-students-to-msoe-to-explore-tech-careers",
+      "date": "2026-07-23",
+      "type": "MSOE",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "MSOE recognized among Money’s Best Colleges for 2026",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-recognized-among-money-s-best-colleges-for-2026",
+      "date": "2026-07-21",
+      "type": "Rankings",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    }
+  ]
+}

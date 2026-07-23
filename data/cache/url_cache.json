@@ -14230,5 +14230,101 @@
     "fetch_time": "2026-07-22T20:00:29.487857",
     "title": "Argonne marks 80 years of scientific discovery",
     "category": "quantum"
+  },
+  "https://www.pewresearch.org/politics/2026/07/23/as-the-2026-midterms-approach-economy-is-front-and-center/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-23T12:00:07.675905",
+    "title": "As the 2026 Midterms Approach, Economy Is Front and Center",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/diercks-scholarship-sends-red-wing-students-to-msoe-to-explore-tech-careers": {
+    "source": "msoe",
+    "fetch_time": "2026-07-23T12:00:11.570050",
+    "title": "Diercks scholarship sends Red Wing students to MSOE to explore tech careers",
+    "category": "education"
+  },
+  "https://economicdevelopment.wayne.edu/news/rocket-community-fund-provides-550000-grant-to-expand-wayne-state-programs-focused-on-careers-in-technology-69796": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-23T12:00:17.002344",
+    "title": "Rocket Community Fund provides $550,000 to expand two tech-focused programs",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/indianapolis-picks-national-charter-leader-to-run-charter-public-school-board/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-23T12:00:19.739394",
+    "title": "Indianapolis Picks National Charter Leader To Run Charter-Public School Board",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/report-black-students-exclusion-from-high-quality-math-has-dire-consequences/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-23T12:00:19.739424",
+    "title": "Report: Black Students’ Exclusion From High-Quality Math Has Dire Consequences",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/nc-budget-offers-rural-childcare-businesses-financial-help-theyve-sought-for-years/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-23T12:00:19.739436",
+    "title": "NC Budget Offers Rural Childcare Businesses Financial Help They’ve Sought for Years",
+    "category": "general"
+  },
+  "https://news.wisc.edu/miller-named-vice-provost-for-enrollment-management/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-23T12:00:20.031581",
+    "title": "Miller named vice provost for enrollment management",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/textile-and-apparel-management-faculty-honored-by-international-textile-and-apparel-association/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-23T12:00:22.018539",
+    "title": "Textile and Apparel Management faculty honored by International Textile and Apparel Association",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/denis-mccarthys-longtime-mentorship-recognized-with-marlatt-mentorship-award/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-23T12:00:22.018572",
+    "title": "Denis McCarthy’s longtime mentorship recognized with Marlatt Mentorship Award",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0723-purdue-university-july-patents-13-issued": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-07-23T12:00:24.756378",
+    "title": "July Edition: Newly Issued Patents",
+    "category": "semiconductor"
+  },
+  "https://eri.iu.edu/news-and-events/_news/archive/2026/20260721-hub-highlight-ss4a-aarp-grants-fund-pedestrian-safety-projects-in-montgomery.html": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-23T12:00:25.749809",
+    "title": "Montgomery, Indiana, advances pedestrian safety with help from IU centers",
+    "category": "general"
+  },
+  "https://news.iu.edu/live/news/51865-lilly-school-summit-helps-high-schoolers-become": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-23T12:00:25.749837",
+    "title": "Lilly School summit helps high schoolers become next-gen philanthropists",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/uchicago-prof-yu-deng-receives-fields-medal-highest-honor-mathematics": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-23T12:00:29.859024",
+    "title": "UChicago Prof. Yu Deng receives Fields Medal, highest honor in mathematics",
+    "category": "education"
+  },
+  "https://stories.butler.edu/president-danko-named-to-indiana-250-for-fifth-consecutive-year/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-07-23T12:00:30.308951",
+    "title": "President Danko Named to Indiana 250 for Fifth Consecutive Year",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-23T12:00:31.443576",
+    "title": "Safeguarding the Future in the AI Era: Q&A with Sella Nevo",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA3582-2.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-23T12:00:31.443645",
+    "title": "Sustaining Agile Operations: Volume 2, Energy and Water Technology Survey",
+    "category": "ai"
   }
 }
