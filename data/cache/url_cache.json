@@ -14326,5 +14326,77 @@
     "fetch_time": "2026-07-23T12:00:31.443645",
     "title": "Sustaining Agile Operations: Volume 2, Energy and Water Technology Survey",
     "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-23T20:00:07.952053",
+    "title": "What Americans think about the global AI race",
+    "category": "ai"
+  },
+  "https://bridgemi.com/talent-education/corporation-aims-to-boost-msu-sports-revenue-should-it-operate-in-secret/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-23T20:00:13.471610",
+    "title": "Corporation aims to boost MSU sports revenue. Should it operate in secret?",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/students-ticking-boxes-taking-steps-toward-semiconductor-workforce": {
+    "source": "iastate_news",
+    "fetch_time": "2026-07-23T20:00:14.560211",
+    "title": "Students ticking boxes, taking steps toward semiconductor workforce",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/silkworm-cultivation-predated-the-silk-road-in-southern-central-asia/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-23T20:00:15.764564",
+    "title": "Silkworm cultivation predated the Silk Road in southern Central Asia",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/07/23/new-wsu-press-book-reveals-the-inside-story-of-detroits-we-run-313-club-69806": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-23T20:00:15.797866",
+    "title": "New WSU Press book reveals the inside story of Detroit’s We Run 313 club",
+    "category": "general"
+  },
+  "https://news.wisc.edu/ac-dc-charges-up-camp-randall/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-23T20:00:18.707104",
+    "title": "AC/DC charges up Camp Randall",
+    "category": "ai"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-removes-disparate-impact-title-vi-regulations": {
+    "source": "edgov",
+    "fetch_time": "2026-07-23T20:00:19.185190",
+    "title": "U.S. Department of Education Removes Disparate-Impact from Title VI Regulations",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/california-literacy-investments-are-mostly-working/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-23T20:00:22.934269",
+    "title": "California Literacy Investments Are Mostly Working",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/president-choi-earns-high-marks-of-approval-in-latest-faculty-review/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-23T20:00:24.573063",
+    "title": "President Choi earns high marks of approval in latest faculty review",
+    "category": "education"
+  },
+  "https://news.iu.edu/science/live/news/51871-student-researchers-pursue-new-treatment-for-often-mis": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-23T20:00:24.996141",
+    "title": "Student researchers pursue new treatment for often-misdiagnosed form of hydrocephalus",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/actions-by-the-united-states-in-the-investigations-under-section-301-of-the-trade-act-of-1974-of-the-acts-policies-and-practices-of-60-economies-related-to-the-failure-of-each-economy-to-impose-and/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-23T20:00:30.782561",
+    "title": "Actions by the United States in the Investigations under Section 301 of the Trade Act of 1974 of the Acts, Policies, and Practices of 60 Economies Related to the Failure of Each Economy to Impose and Effectively Enforce a Prohibition on the Importation of Goods Produced with Forced Labor",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/president-trumps-ratepayer-protection-pledge-secures-american-ai-dominance-protects-consumers/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-23T20:00:30.782588",
+    "title": "President Trump’s Ratepayer Protection Pledge Secures American AI Dominance, Protects Consumers",
+    "category": "ai"
   }
 }

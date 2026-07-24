@@ -1,9 +1,21 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-23T12:00:07.072803",
-  "total_news": 5,
+  "crawled_at": "2026-07-23T20:00:07.295476",
+  "total_news": 6,
   "news": [
+    {
+      "title": "What Americans think about the global AI race",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+      "date": "Jul 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "summary_en": "Most Americans see China as more advanced than the U.S. in AI development, while 43% say U.S. leadership in AI is extremely or very important.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
     {
       "title": "As the 2026 Midterms Approach, Economy Is Front and Center",
       "url": "https://www.pewresearch.org/politics/2026/07/23/as-the-2026-midterms-approach-economy-is-front-and-center/",

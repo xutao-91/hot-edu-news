@@ -1,18 +1,9 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-07-23T12:00:24.906567",
-  "total_news": 3,
+  "crawled_at": "2026-07-23T20:00:24.156477",
+  "total_news": 5,
   "news": [
-    {
-      "title": "IU Eskenazi Museum of Art to reimagine future of art engagement with $5M Lilly Endowment grant",
-      "url": "https://news.iu.edu/live/news/51856-iu-eskenazi-museum-of-art-to-reimagine-future-of-art-e",
-      "date": "Jul 20, 2026",
-      "type": "Arts and Humanities",
-      "summary_en": "",
-      "source": "Indiana University",
-      "category": "general"
-    },
     {
       "title": "Montgomery, Indiana, advances pedestrian safety with help from IU centers",
       "url": "https://eri.iu.edu/news-and-events/_news/archive/2026/20260721-hub-highlight-ss4a-aarp-grants-fund-pedestrian-safety-projects-in-montgomery.html",
@@ -30,6 +21,33 @@
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"
+    },
+    {
+      "title": "IU Eskenazi Museum of Art to reimagine future of art engagement with $5M Lilly Endowment grant",
+      "url": "https://news.iu.edu/live/news/51856-iu-eskenazi-museum-of-art-to-reimagine-future-of-art-e",
+      "date": "Jul 20, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Student researchers pursue new treatment for often-misdiagnosed form of hydrocephalus",
+      "url": "https://news.iu.edu/science/live/news/51871-student-researchers-pursue-new-treatment-for-often-mis",
+      "date": "Jul 23, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Dance program for individuals with Down syndrome goes global",
+      "url": "https://blogs.iu.edu/shhsnews/iu-indianapolis-dance-program-for-individuals-with-down-syndrome-goes-global/",
+      "date": "Jul 20, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
     }
   ]
 }

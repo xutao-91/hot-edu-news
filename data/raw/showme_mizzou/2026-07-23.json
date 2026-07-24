@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-07-23T12:00:21.217621",
-  "total_news": 5,
+  "crawled_at": "2026-07-23T20:00:23.705453",
+  "total_news": 6,
   "news": [
+    {
+      "title": "President Choi earns high marks of approval in latest faculty review",
+      "url": "https://showme.missouri.edu/2026/president-choi-earns-high-marks-of-approval-in-latest-faculty-review/",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "Overall performance ratings continue to rise since 2024; report cites strong leadership qualities, advocacy for university among top areas",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
     {
       "title": "Textile and Apparel Management faculty honored by International Textile and Apparel Association",
       "url": "https://showme.missouri.edu/2026/textile-and-apparel-management-faculty-honored-by-international-textile-and-apparel-association/",

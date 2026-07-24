@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-23T12:00:19.233625",
-  "total_news": 8,
+  "crawled_at": "2026-07-23T20:00:17.998251",
+  "total_news": 9,
   "news": [
+    {
+      "title": "AC/DC charges up Camp Randall",
+      "url": "https://news.wisc.edu/ac-dc-charges-up-camp-randall/",
+      "date": "July 23, 2026",
+      "type": "News",
+      "summary_en": "The band's long-awaited return to Madison brought thousands of fans to campus for a night of classic hard rock anthems.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Miller named vice provost for enrollment management",
       "url": "https://news.wisc.edu/miller-named-vice-provost-for-enrollment-management/",

@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-07-23T12:00:08.458397",
+  "crawled_at": "2026-07-23T20:00:08.365901",
   "total_news": 15,
   "news": [
+    {
+      "title": "From exam leaks to a national movement: Inside the protests reshaping India’s education debate",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-07-23",
+      "type": "Student experience",
+      "summary_en": "What began as outrage over the alleged NEET paper leak has evolved into a nationwide student protest movement. Reporting from Mumbai, The PIE explores why students say the crisis has become about far more than one examination or one minister.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
     {
       "title": "Sunway University awards honorary master’s degree to Malaysian popstar Siti Nurhaliza",
       "url": "https://thepienews.com/category/news/student-experience/",
@@ -143,16 +153,6 @@
       "source": "The PIE News",
       "category": "general",
       "author": "Abhishek Nair"
-    },
-    {
-      "title": "UK sector sets out wishlist as Andy Burnham takes No. 10",
-      "url": "https://thepienews.com/category/news/agencies/",
-      "date": "2026-07-20",
-      "type": "Recruitment & agents",
-      "summary_en": "UK international education stakeholders have urged the UK's new Prime Minister to maintain the Graduate Route, scrap the controversial levy on private school fees, and strengthen ties with key sending markets.",
-      "source": "The PIE News",
-      "category": "general",
-      "author": "Beth Kennedy"
     }
   ]
 }

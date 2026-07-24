@@ -1,9 +1,18 @@
 {
   "source": "Iowa State University News",
   "source_url": "https://www.news.iastate.edu/news-releases",
-  "crawled_at": "2026-07-23T12:00:14.514235",
-  "total_news": 2,
+  "crawled_at": "2026-07-23T20:00:13.899837",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Students ticking boxes, taking steps toward semiconductor workforce",
+      "url": "https://www.news.iastate.edu/news/students-ticking-boxes-taking-steps-toward-semiconductor-workforce",
+      "date": "2026-07-23",
+      "type": "Education",
+      "summary_en": "Seven students from across Iowa spent six weeks of their summer learning to design, build and test their own microelectronic devices. Iowa State's semiconductor workshop is part of a year-long effort to help build a workforce that understands semiconductors and AI hardware.",
+      "source": "Iowa State News",
+      "category": "students"
+    },
     {
       "title": "Finding what it takes to make a white blood cell could lead to new cancer treatment",
       "url": "https://www.news.iastate.edu/news/finding-what-it-takes-make-white-blood-cell-could-lead-new-cancer-treatment",
