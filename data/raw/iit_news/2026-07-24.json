@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-07-24T12:00:12.820501",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Illinois Tech Receives UGC Letter of Approval for Mumbai Campus",
+      "url": "https://www.iit.edu/news/illinois-tech-receives-ugc-letter-approval-mumbai-campus",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "Illinois Tech, one of the United States’ leading technology-focused research universities, has received the Letter of Approval (LoA) from the University Grants Commission (UGC), marking a significant...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "A Chance for Upward Mobility, or an Unfair Deal?",
+      "url": "https://www.iit.edu/news/chance-upward-mobility-or-unfair-deal",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "TRANSCRIPT Illinois Tech Assistant Professor of Law Lucien Ferguson: Thinking about the Bears project, one way to think about it is that local economic development is a key vector in the, sort of...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

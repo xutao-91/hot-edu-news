@@ -1,0 +1,53 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-07-24T12:00:19.184603",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "President Choi earns high marks of approval in latest faculty review",
+      "url": "https://showme.missouri.edu/2026/president-choi-earns-high-marks-of-approval-in-latest-faculty-review/",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "Overall performance ratings continue to rise since 2024; report cites strong leadership qualities, advocacy for university among top areas",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
+    {
+      "title": "Textile and Apparel Management faculty honored by International Textile and Apparel Association",
+      "url": "https://showme.missouri.edu/2026/textile-and-apparel-management-faculty-honored-by-international-textile-and-apparel-association/",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
+    {
+      "title": "Denis McCarthy’s longtime mentorship recognized with Marlatt Mentorship Award",
+      "url": "https://showme.missouri.edu/2026/denis-mccarthys-longtime-mentorship-recognized-with-marlatt-mentorship-award/",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou-led team selected for U.S. Department of Energy’s inaugural Genesis Mission",
+      "url": "https://showme.missouri.edu/2026/mizzou-led-team-selected-for-u-s-department-of-energys-inaugural-genesis-mission/",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "First veterinarian completes Mizzou’s innovative mixed animal internship",
+      "url": "https://showme.missouri.edu/2026/first-veterinarian-completes-mizzous-innovative-mixed-animal-internship/",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "Sam Hoover is showing how a new approach to training veterinarians can strengthen the workforce, expand access to care and prepare veterinarians for the demands of mixed animal practice in rural communities.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    }
+  ]
+}

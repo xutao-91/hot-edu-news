@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-07-24T12:00:20.894265",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Intentional governance: Responsibility, judgment, and leadership in the age of intelligent systems",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/07/24/intentional-governance-responsibility-judgment-and-leadership-in-the-age-of-intelligent-systems/",
+      "date": "2026-07-24",
+      "type": "AI in Education",
+      "summary_en": "Artificial intelligence is changing the conditions under which institutional purpose is interpreted, pursued, and realized through the exercise of institutional judgment. As institutions increasingly adopt AI, discussions related to governance have expanded to include fairness, bias, transparency, explainability, privacy, accountability, and regulatory compliance.",
+      "source": "eCampus News",
+      "category": "governance"
+    },
+    {
+      "title": "Escaping the tech debt trap: Why governance matters more in the age of AI",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/07/22/escaping-the-tech-debt-trap-why-governance-matters-more-in-the-age-of-ai/",
+      "date": "2026-07-22",
+      "type": "AI in Education",
+      "summary_en": "Artificial intelligence is now emerging as a strategic priority across higher education, but many institutions are still determining how to move from experimentation to institution-wide adoption.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

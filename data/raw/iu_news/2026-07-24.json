@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-07-24T12:00:24.570440",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Montgomery, Indiana, advances pedestrian safety with help from IU centers",
+      "url": "https://eri.iu.edu/news-and-events/_news/archive/2026/20260721-hub-highlight-ss4a-aarp-grants-fund-pedestrian-safety-projects-in-montgomery.html",
+      "date": "Jul 23, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Lilly School summit helps high schoolers become next-gen philanthropists",
+      "url": "https://news.iu.edu/live/news/51865-lilly-school-summit-helps-high-schoolers-become",
+      "date": "Jul 23, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Student researchers pursue new treatment for often-misdiagnosed form of hydrocephalus",
+      "url": "https://news.iu.edu/science/live/news/51871-student-researchers-pursue-new-treatment-for-often-mis",
+      "date": "Jul 23, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

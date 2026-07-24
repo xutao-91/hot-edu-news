@@ -1,0 +1,38 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-07-24T12:00:12.178364",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Corporation aims to boost MSU sports revenue. Should it operate in secret?",
+      "url": "https://bridgemi.com/talent-education/corporation-aims-to-boost-msu-sports-revenue-should-it-operate-in-secret/",
+      "date": "2026-07-23",
+      "type": "News",
+      "summary_en": "MSU’s secrecy around Spartan Media Ventures, a new for-profit corporation formed to raise money for sports programs, has some concerned — including members of the university’s own Board of Trustees.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "general"
+    },
+    {
+      "title": "Whitmer makes ‘science of reading’ training mandatory for Michigan teachers",
+      "url": "https://bridgemi.com/talent-education/whitmer-makes-science-of-reading-training-mandatory-for-michigan-teachers/",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "As Michigan struggles with low literacy test scores, leaders are putting in a new training requirement for elementary teachers.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
+    {
+      "title": "Whitmer signs education budget: What to know about college affordability",
+      "url": "https://bridgemi.com/talent-education/whitmer-signs-education-budget-what-to-know-about-college-affordability/",
+      "date": "2026-07-21",
+      "type": "News",
+      "summary_en": "Michigan’s education budget includes a new dual enrollment effort that could help students save money on college costs.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    }
+  ]
+}

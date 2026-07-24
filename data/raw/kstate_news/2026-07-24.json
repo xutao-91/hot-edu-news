@@ -1,0 +1,53 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-24T12:00:15.457919",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Alaska in focus",
+      "url": "https://www.k-state.edu/news/articles/2026/07/alaska-in-focus.html",
+      "date": "2026-07-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Homegrown",
+      "url": "https://www.k-state.edu/news/articles/2026/07/homegrown-how-one-alum-is-cultivating-manhattans-tech-future.html",
+      "date": "2026-07-24",
+      "type": "News",
+      "summary_en": "Homegrown, in every sense. Steve Bellinger's path from the family farm to a K-State lab to founding his own company is proof that big ideas, and K-State grads, can grow right here in...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Melissa Glaser to serve as director of TRIO Educational Supportive Services and TRIO Student Support Services",
+      "url": "https://www.k-state.edu/news/articles/2026/07/melissa-glaser-trio-support-services-director.html",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "Student Belonging has named Melissa Glaser as director of two TRIO programs spanning the Manhattan and Salina campuses. In her new role, Glaser will support the academic and personal...",
+      "source": "K-State News",
+      "category": "students"
+    },
+    {
+      "title": "Open forums with K-State police chief position finalists",
+      "url": "https://www.k-state.edu/news/articles/2026/07/police-chief-candidate-open-forums.html",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "The search committee for the K-State police chief has scheduled open forum dates with candidates who will be interviewing for the position.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "UFM's new ABLE program creates learning opportunities for K-State students",
+      "url": "https://www.k-state.edu/news/articles/2026/07/ufm-unique-learning-experiences-able-program.html",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "UFM Community Learning Center's new After-School Building Leadership and Enrichment, or ABLE, Program is creating meaningful learning opportunities for K-State students while providing...",
+      "source": "K-State News",
+      "category": "students"
+    }
+  ]
+}

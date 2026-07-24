@@ -14398,5 +14398,101 @@
     "fetch_time": "2026-07-23T20:00:30.782588",
     "title": "President Trump’s Ratepayer Protection Pledge Secures American AI Dominance, Protects Consumers",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/how-tech-firms-should-address-job-concerns-and-skill-development/": {
+    "source": "brookings",
+    "fetch_time": "2026-07-24T12:00:10.032310",
+    "title": "How tech firms should address job concerns and skill development",
+    "category": "general"
+  },
+  "https://mendoza.nd.edu/news/a-treasured-champion-of-students-says-farewell/": {
+    "source": "mendoza",
+    "fetch_time": "2026-07-24T12:00:13.544440",
+    "title": "A treasured champion of students says farewell",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/alaska-in-focus.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-24T12:00:16.177129",
+    "title": "Alaska in focus",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/homegrown-how-one-alum-is-cultivating-manhattans-tech-future.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-24T12:00:16.177153",
+    "title": "Homegrown",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/second-chance-leads-frech-to-the-heart-of-country-music": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-24T12:00:18.301130",
+    "title": "Second chance leads Frech to the heart of country music",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/staff-senate-welcomes-new-leaders-for-2026-27-academic-year": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-24T12:00:18.301155",
+    "title": "Staff Senate welcomes new leaders for 2026-27 academic year",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/16-first-year-students-selected-for-teacher-scholars-academy-at-nebraska": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-24T12:00:18.301165",
+    "title": "16 first-year students selected for Teacher Scholars Academy at Nebraska",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/stem/unis-metal-casting-center-partners-metal-provide-workforce-training-casting-and-forging-k-12": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-24T12:00:19.058123",
+    "title": "UNI’s Metal Casting Center partners with METAL to provide workforce training in casting and forging for K-12 students and professionals",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-south-dakotas-returning-education-states-waiver": {
+    "source": "edgov",
+    "fetch_time": "2026-07-24T12:00:20.050151",
+    "title": "U.S. Department of Education Approves South Dakota’s Returning Education to the States Waiver",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/07/24/intentional-governance-responsibility-judgment-and-leadership-in-the-age-of-intelligent-systems/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-24T12:00:21.685096",
+    "title": "Intentional governance: Responsibility, judgment, and leadership in the age of intelligent systems",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/students-convene-to-hammer-out-ai-bill-of-rights-for-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-24T12:00:22.644149",
+    "title": "Students Convene to Hammer Out AI Bill of Rights for Schools",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/the-island-without-childcare-for-babies/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-24T12:00:22.644177",
+    "title": "The Island Without Childcare for Babies",
+    "category": "general"
+  },
+  "https://www.the74million.org/zero2eight/how-kentucky-achieved-bipartisan-childcare-reform/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-24T12:00:22.644188",
+    "title": "How Kentucky Achieved Bipartisan Childcare Reform",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/ku-one-of-two-universities-selected-to-present-to-kansas-state-board-of-education-on-preparing-school-leaders": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-24T12:00:27.904937",
+    "title": "KU one of two universities selected to present to Kansas State Board of Education on preparing school leaders",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/Biomolecular-condensates-reveal-surprising-activity-as-catalysts.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-24T12:00:30.495626",
+    "title": "Biomolecular condensates reveal surprising activity as catalysts",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/new-method-boosts-crop-yield-and-drought-resistance-using-plants-own-genes": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-24T12:00:30.523043",
+    "title": "New method boosts crop yield and drought resistance using plants' own genes",
+    "category": "semiconductor"
   }
 }
