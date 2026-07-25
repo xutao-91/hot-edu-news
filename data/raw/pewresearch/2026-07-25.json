@@ -1,0 +1,53 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-25T12:00:07.327752",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "What Americans think about the global AI race",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/23/what-americans-think-about-the-global-ai-race/",
+      "date": "Jul 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence"
+      ],
+      "summary_en": "Most Americans see China as more advanced than the U.S. in AI development, while 43% say U.S. leadership in AI is extremely or very important.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "As the 2026 Midterms Approach, Economy Is Front and Center",
+      "url": "https://www.pewresearch.org/politics/2026/07/23/as-the-2026-midterms-approach-economy-is-front-and-center/",
+      "date": "Jul 23, 2026",
+      "type": "report",
+      "categories": [
+        "Demographics Politics",
+        "Donald Trump",
+        "Economy Work",
+        "Election 2026",
+        "Partisanship Issues",
+        "Politics Policy",
+        "Us Elections Voters",
+        "Uncategorized"
+      ],
+      "summary_en": "Americans are now almost evenly split over which party they most agree with on economic policies: 37% say the Democrats, while 36% say the GOP.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    },
+    {
+      "title": "What we know about the typical Polymarket user",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/22/what-we-know-about-the-typical-polymarket-user/",
+      "date": "Jul 22, 2026",
+      "type": "short reads",
+      "categories": [
+        "Personal Finances",
+        "Personal Life",
+        "Sports"
+      ],
+      "summary_en": "The typical Polymarket user placed a total of 46 trades across 10 active trading days during our study period.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

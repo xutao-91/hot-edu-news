@@ -14542,5 +14542,17 @@
     "fetch_time": "2026-07-24T20:00:31.534961",
     "title": "Kettering University Announces Faculty Promotions and Tenure",
     "category": "education"
+  },
+  "https://www.the74million.org/article/rural-ny-school-district-will-be-one-of-first-to-bring-humanoid-robot-into-classroom/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-25T12:00:22.673056",
+    "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/whats-next-on-north-carolinas-literacy-journey/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-25T12:00:22.673088",
+    "title": "What’s Next on North Carolina’s Literacy Journey?",
+    "category": "general"
   }
 }

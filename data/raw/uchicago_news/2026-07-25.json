@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-25T12:00:30.422328",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "New method boosts crop yield and drought resistance using plants' own genes",
+      "url": "https://news.uchicago.edu/story/new-method-boosts-crop-yield-and-drought-resistance-using-plants-own-genes",
+      "date": "2026-07-24",
+      "type": "News",
+      "summary_en": "UChicago tests lifted rice harvests up using plants’ own protein, with implications for other crops",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago Prof. Yu Deng receives Fields Medal, highest honor in mathematics",
+      "url": "https://news.uchicago.edu/story/uchicago-prof-yu-deng-receives-fields-medal-highest-honor-mathematics",
+      "date": "2026-07-23",
+      "type": "News",
+      "summary_en": "University mathematician recognized for addressing 125-year-old challenge to ground physics in mathematics",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Argonne marks 80 years of scientific discovery",
+      "url": "https://news.uchicago.edu/story/argonne-marks-80-years-scientific-discovery",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "At the national laboratory, the first light bulbs lit by nuclear power have given way to supercomputers, quantum research and nanoscale engineering",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

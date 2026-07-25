@@ -1,0 +1,35 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-07-25T12:00:25.903066",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "University of Kansas announces 2025-2026 graduates",
+      "url": "https://news.ku.edu/news/article/university-of-kansas-announces-2025-2026-graduates",
+      "date": "2026-07-24",
+      "type": "News",
+      "summary_en": "The names of more than 6,800 graduates at the University of Kansas for summer and fall 2025 and spring 2026 have been announced by the University Registrar. Many graduates and candidates for degree celebrated by participating in KU Commencement, which took place May 17.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU one of two universities selected to present to Kansas State Board of Education on preparing school leaders",
+      "url": "https://news.ku.edu/news/article/ku-one-of-two-universities-selected-to-present-to-kansas-state-board-of-education-on-preparing-school-leaders",
+      "date": "2026-07-24",
+      "type": "News",
+      "summary_en": "KU’s Department of Educational Leadership & Policy Studies presented to the Kansas State Board of Education on July 14 in Topeka, one of two Regents universities selected to speak on how the state trains school and district leaders.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "W.M. Keck Foundation awards $1.2 million to KU team pursuing new theory of Alzheimer’s disease",
+      "url": "https://news.ku.edu/news/article/wm-keck-foundation-awards-1-point-2-million-to-ku-team-pursuing-new-theory-of-alzheimers-disease",
+      "date": "2026-07-22",
+      "type": "News",
+      "summary_en": "Michael Wolfe, interim department chair and Mathias P. Mertes Professor of Medicinal Chemistry, will lead a project exploring stalled enzymes in Alzheimer's disease.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

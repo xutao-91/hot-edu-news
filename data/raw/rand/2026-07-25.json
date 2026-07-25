@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-07-25T12:00:31.111837",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Safeguarding the Future in the AI Era: Q&A with Sella Nevo",
+      "url": "https://www.rand.org/pubs/commentary/2026/07/safeguarding-the-future-in-the-ai-era-qa-with-sella.html",
+      "date": "Jul 23, 2026",
+      "type": "Commentary",
+      "summary_en": "Sella Nevo focuses on developing policies to promote the safe and effective use of AI and biotechnology. His mandate at RAND: to help ensure the most pivotal technologies of our time benefit humanity rather than endanger it.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Sustaining Agile Operations: Volume 2, Energy and Water Technology Survey",
+      "url": "https://www.rand.org/pubs/research_reports/RRA3582-2.html",
+      "date": "Jul 23, 2026",
+      "type": "Research",
+      "summary_en": "This report analyzes emerging energy and water technologies that could improve operational agility in contested environments. It evaluates advances in portable power, storage, and purification to enhance sustainability and reduce logistics risk.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Effects of Exposure to Active Minds’ Send Silence Packing Exhibit on College Students’ Mental Health Help-Seeking Intentions",
+      "url": "https://www.rand.org/pubs/external_publications/EP71410.html",
+      "date": "Jul 22, 2026",
+      "type": "Research",
+      "summary_en": "This study examined effects of exposure to a campus mental health promotion exhibit on changes in college students’ help-seeking intentions.",
+      "source": "Rand Corporation",
+      "category": "students"
+    }
+  ]
+}
