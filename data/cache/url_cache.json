@@ -14494,5 +14494,53 @@
     "fetch_time": "2026-07-24T12:00:30.523043",
     "title": "New method boosts crop yield and drought resistance using plants' own genes",
     "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/what-the-data-says-about-rhode-islands-7-year-takeover-of-providence-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-24T20:00:19.304434",
+    "title": "What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/trace-additive-could-help-compostable-pla-plastics-break-down-backyard-bins": {
+    "source": "umn_cse",
+    "fetch_time": "2026-07-24T20:00:23.891330",
+    "title": "Trace additive could help compostable PLA plastics break down in backyard bins",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/ai-underwater-robots-can-now-track-diver-stress-exhaled-bubbles": {
+    "source": "umn_cse",
+    "fetch_time": "2026-07-24T20:00:23.891355",
+    "title": "AI underwater robots can now track diver stress via exhaled bubbles",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/university-of-kansas-announces-2025-2026-graduates": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-24T20:00:27.003844",
+    "title": "University of Kansas announces 2025-2026 graduates",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-research-team-secures-patent-3d-printed-flexible-sensors": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-24T20:00:28.669852",
+    "title": "Purdue Polytechnic research team secures patent for 3D-printed flexible sensors",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/restoring-trust-in-the-smithsonian-institution-e061/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-24T20:00:31.500100",
+    "title": "Restoring Trust in the Smithsonian Institution",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-restores-trust-in-the-smithsonian-institution/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-24T20:00:31.500165",
+    "title": "Fact Sheet: President Donald J. Trump Restores Trust in the Smithsonian Institution",
+    "category": "general"
+  },
+  "https://www.kettering.edu/kettering-university-announces-faculty-promotions-and-tenure": {
+    "source": "kettering_news",
+    "fetch_time": "2026-07-24T20:00:31.534961",
+    "title": "Kettering University Announces Faculty Promotions and Tenure",
+    "category": "education"
   }
 }

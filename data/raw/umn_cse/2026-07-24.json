@@ -1,7 +1,26 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-07-24T12:00:23.522796",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-24T20:00:23.218681",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Trace additive could help compostable PLA plastics break down in backyard bins",
+      "url": "https://cse.umn.edu/college/news/trace-additive-could-help-compostable-pla-plastics-break-down-backyard-bins",
+      "date": "2026-07-27",
+      "type": "Energy-Environment",
+      "summary_en": "Researchers at the University of Minnesota Twin Cities have developed a new strategy that could help compostable plastics break down more quickly under everyday composting conditions, reducing the need for specialized industrial facilities.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "AI underwater robots can now track diver stress via exhaled bubbles",
+      "url": "https://cse.umn.edu/college/news/ai-underwater-robots-can-now-track-diver-stress-exhaled-bubbles",
+      "date": "2026-07-24",
+      "type": "Energy-Environment",
+      "summary_en": "University of Minnesota Twin Cities researchers have developed a first-of-its-kind AI system that allows underwater companion robots to monitor a diver’s health in real-time, simply by \"watching\" their exhaled bubbles.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
 }

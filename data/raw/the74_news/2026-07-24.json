@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-24T12:00:21.838611",
+  "crawled_at": "2026-07-24T20:00:18.419366",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.601802"
+      "crawled_at": "2026-07-24T20:00:18.196246"
+    },
+    {
+      "title": "What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools",
+      "url": "https://www.the74million.org/article/what-the-data-says-about-rhode-islands-7-year-takeover-of-providence-schools/",
+      "date": "July 24, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-24T20:00:18.204362"
     },
     {
       "title": "Students Convene to Hammer Out AI Bill of Rights for Schools",
@@ -18,7 +26,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.611177"
+      "crawled_at": "2026-07-24T20:00:18.219875"
     },
     {
       "title": "California Literacy Investments Are Mostly Working",
@@ -26,7 +34,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.619933"
+      "crawled_at": "2026-07-24T20:00:18.229274"
     },
     {
       "title": "Indianapolis Picks National Charter Leader To Run Charter-Public School Board",
@@ -34,15 +42,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.635995"
-    },
-    {
-      "title": "Report: Black Students’ Exclusion From High-Quality Math Has Dire Consequences",
-      "url": "https://www.the74million.org/article/report-black-students-exclusion-from-high-quality-math-has-dire-consequences/",
-      "date": "July 24, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.645764"
+      "crawled_at": "2026-07-24T20:00:18.242002"
     },
     {
       "title": "The Island Without Childcare for Babies",
@@ -50,7 +50,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.654203"
+      "crawled_at": "2026-07-24T20:00:18.253420"
     },
     {
       "title": "How Kentucky Achieved Bipartisan Childcare Reform",
@@ -58,7 +58,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.656548"
+      "crawled_at": "2026-07-24T20:00:18.264956"
     },
     {
       "title": "NC Budget Offers Rural Childcare Businesses Financial Help They’ve Sought for Years",
@@ -66,7 +66,15 @@
       "date": "July 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.664991"
+      "crawled_at": "2026-07-24T20:00:18.267526"
+    },
+    {
+      "title": "Report: Black Students’ Exclusion From High-Quality Math Has Dire Consequences",
+      "url": "https://www.the74million.org/article/report-black-students-exclusion-from-high-quality-math-has-dire-consequences/",
+      "date": "July 23, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-24T20:00:18.279036"
     },
     {
       "title": "In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’",
@@ -74,7 +82,7 @@
       "date": "July 22, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.673649"
+      "crawled_at": "2026-07-24T20:00:18.289513"
     },
     {
       "title": "In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard",
@@ -82,7 +90,7 @@
       "date": "July 22, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.682242"
+      "crawled_at": "2026-07-24T20:00:18.301109"
     },
     {
       "title": "Mental Health Programs Could Bear the Brunt of $600M Federal Cuts to Texas Schools",
@@ -90,7 +98,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.693733"
+      "crawled_at": "2026-07-24T20:00:18.312549"
     },
     {
       "title": "Students With Disabilities Are Spending More Time in Mainstream Classrooms",
@@ -98,7 +106,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.705197"
+      "crawled_at": "2026-07-24T20:00:18.320894"
     },
     {
       "title": "As Costs Rise, Families With Young Children Are Feeling the Strain",
@@ -106,7 +114,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.707655"
+      "crawled_at": "2026-07-24T20:00:18.323253"
     },
     {
       "title": "Trump’s Education Department Leaves Mountain of Public Records Requests Unaddressed",
@@ -114,7 +122,7 @@
       "date": "July 21, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.721501"
+      "crawled_at": "2026-07-24T20:00:18.331673"
     },
     {
       "title": "Hawaii’s Childcare Shortage Is One of the Nation’s Worst",
@@ -122,7 +130,7 @@
       "date": "July 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.730390"
+      "crawled_at": "2026-07-24T20:00:18.340363"
     },
     {
       "title": "Contrary to Common Belief, The Poorest School Districts Outspend The Wealthiest",
@@ -130,7 +138,7 @@
       "date": "July 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.740549"
+      "crawled_at": "2026-07-24T20:00:18.348850"
     },
     {
       "title": "ICE Has Detained More Than 650 Kids in California Under Trump Deportation Crackdown",
@@ -138,7 +146,7 @@
       "date": "July 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.751585"
+      "crawled_at": "2026-07-24T20:00:18.357167"
     },
     {
       "title": "From Music Teacher to National Union Leader: Top Takeaways From New NEA Chief",
@@ -146,7 +154,7 @@
       "date": "July 20, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.764250"
+      "crawled_at": "2026-07-24T20:00:18.359455"
     },
     {
       "title": "Book Bans, Censorship and Funding Fears Challenge Ohio Public School Librarians",
@@ -154,7 +162,7 @@
       "date": "July 19, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.768664"
+      "crawled_at": "2026-07-24T20:00:18.370831"
     },
     {
       "title": "NYC’s Mayor Asked for Parents’ Opinions on Schools. Here’s What Some Have to Say",
@@ -162,7 +170,7 @@
       "date": "July 19, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.779426"
+      "crawled_at": "2026-07-24T20:00:18.382327"
     },
     {
       "title": "Mississippi Teachers Say the Process to Buy Classroom Supplies Is Worse",
@@ -170,7 +178,7 @@
       "date": "July 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.794868"
+      "crawled_at": "2026-07-24T20:00:18.393992"
     },
     {
       "title": "Hawaiʻi Teachers Take Learning Outside in Summer Workshop",
@@ -178,7 +186,7 @@
       "date": "July 18, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.806480"
+      "crawled_at": "2026-07-24T20:00:18.405356"
     },
     {
       "title": "Connecticut Sues, Again, Over Withheld School Mental Health Grants",
@@ -186,7 +194,7 @@
       "date": "July 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.818073"
+      "crawled_at": "2026-07-24T20:00:18.407581"
     },
     {
       "title": "California Allocates Dedicated Funding to Identify Homeless Students",
@@ -194,15 +202,7 @@
       "date": "July 17, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.829664"
-    },
-    {
-      "title": "Bill Giving $10,000 Bonuses to NYC Paraprofessionals Heads to Mayor’s Desk",
-      "url": "https://www.the74million.org/article/bill-giving-10000-bonuses-to-nyc-paraprofessionals-heads-to-mayors-desk/",
-      "date": "July 16, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-24T12:00:21.838037"
+      "crawled_at": "2026-07-24T20:00:18.418969"
     }
   ]
 }

@@ -1,9 +1,18 @@
 {
   "source": "Purdue Polytechnic Institute",
   "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
-  "crawled_at": "2026-07-24T12:00:27.502155",
-  "total_news": 1,
+  "crawled_at": "2026-07-24T20:00:27.963282",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Purdue Polytechnic research team secures patent for 3D-printed flexible sensors",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-research-team-secures-patent-3d-printed-flexible-sensors",
+      "date": "2026-07-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
     {
       "title": "Cybersecurity student in Indianapolis tackles certifications, builds YouTube community",
       "url": "https://polytechnic.purdue.edu/newsroom/cybersecurity-student-indianapolis-tackles-certifications-builds-youtube-community",
