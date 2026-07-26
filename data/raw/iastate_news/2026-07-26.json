@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-07-26T12:00:12.735073",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Students ticking boxes, taking steps toward semiconductor workforce",
+      "url": "https://www.news.iastate.edu/news/students-ticking-boxes-taking-steps-toward-semiconductor-workforce",
+      "date": "2026-07-23",
+      "type": "Education",
+      "summary_en": "Seven students from across Iowa spent six weeks of their summer learning to design, build and test their own microelectronic devices. Iowa State's semiconductor workshop is part of a year-long effort to help build a workforce that understands semiconductors and AI hardware.",
+      "source": "Iowa State News",
+      "category": "students"
+    }
+  ]
+}
