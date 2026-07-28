@@ -1,0 +1,26 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-28T12:00:09.351680",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Help shape the future of water in Kansas at local consult meetings",
+      "url": "https://www.k-state.edu/news/articles/2026/07/kansas-water-consult-meetings.html",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "K-State faculty, staff, students and community partners are encouraged to participate in a series of local water consult meetings being held across Kansas this summer. Interested participants...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Rob Sanders",
+      "url": "https://www.k-state.edu/news/articles/2026/07/rob-sanders-guides-college-success-builds-career-confidence.html",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "Through guidance, encouragement and practical support, Rob Sanders is a trusted career-readiness resource for students.",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

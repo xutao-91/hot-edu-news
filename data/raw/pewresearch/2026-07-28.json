@@ -1,0 +1,25 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-28T12:00:09.159496",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Canadians and Mexicans now view China more positively than the U.S.",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/27/canadians-and-mexicans-now-view-china-more-positively-than-the-us/",
+      "date": "Jul 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "Bilateral Relations",
+        "China Global Image",
+        "Donald Trump",
+        "International Issues",
+        "More Leaders",
+        "Us Global Image"
+      ],
+      "summary_en": "Canadians and Mexicans also now view Chinese President Xi Jinping more positively than Trump, even as relatively few people in both countries have confidence in the two leaders.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

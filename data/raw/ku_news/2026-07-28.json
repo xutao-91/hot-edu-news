@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-07-28T12:00:27.536094",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "As National Friendship Day nears, research shows people aren’t lonelier — they’re changing how they spend their time",
+      "url": "https://news.ku.edu/news/article/as-national-friendship-day-nears-research-shows-people-arent-lonelier-theyre-changing-how-they-spend-their-time",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Jeffrey Hall of the University of Kansas is part of the American Friendship Project. The research group has conducted studies on how and why people spend time with their friends. As National Friendship Day approaches, the researchers found people are spending less time in person with friends because they are prioritizing time at home with family and face challenges to social time, such as financia",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU Law student receives Foundation for Natural Resources and Energy Law scholarship",
+      "url": "https://news.ku.edu/news/article/ku-law-student-receives-foundation-for-natural-resources-and-energy-law-scholarship",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "University of Kansas School of Law student Shelby Norman has been selected as a recipient of the 2026-2027 Foundation Scholarship from the Foundation for Natural Resources and Energy Law.",
+      "source": "KU News",
+      "category": "students"
+    }
+  ]
+}

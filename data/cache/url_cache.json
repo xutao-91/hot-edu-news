@@ -14770,5 +14770,113 @@
     "fetch_time": "2026-07-27T20:00:30.400235",
     "title": "Presidential Message on National Korean War Veterans Armistice Day",
     "category": "semiconductor"
+  },
+  "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-schools-literacy/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-28T12:00:14.551287",
+    "title": "Where Michigan governor candidates stand on schools, literacy",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/07/malone-installed-as-nancy-and-kenneth-kranzberg-curator/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-28T12:00:15.764220",
+    "title": "Malone installed as Nancy and Kenneth Kranzberg Curator",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/merten-named-interim-dean-of-education-and-human-sciences": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-28T12:00:16.710454",
+    "title": "Merten named interim dean of education and human sciences",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/startup-harnesses-gait-data-to-improve-health-outcomes": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-28T12:00:16.710477",
+    "title": "Startup harnesses gait data to improve health outcomes",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/study-abroad-trip-broadens-heacocks-view-of-healthcare": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-28T12:00:16.710489",
+    "title": "Study abroad trip broadens Heacock’s view of healthcare",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nsf-awards-10m-to-nebraska-epscor-for-statewide-stem-growth": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-28T12:00:16.710500",
+    "title": "NSF awards $10M to Nebraska EPSCoR for statewide STEM growth",
+    "category": "general"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-investigates-districts-washington-and-colorado-protect-parental-rights-laws-and-uphold-title-ix": {
+    "source": "edgov",
+    "fetch_time": "2026-07-28T12:00:18.752158",
+    "title": "U.S. Department of Education Investigates Districts in Washington and Colorado to Protect Parental Rights Laws and Uphold Title IX",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/with-an-eye-to-improvement-new-hampshire-educators-propose-new-way-to-assess-schools/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-28T12:00:19.695273",
+    "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/new-report-ties-chronic-absenteeism-to-sluggish-academic-outcomes/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-28T12:00:19.695298",
+    "title": "New Report Ties Chronic Absenteeism to Sluggish Academic Outcomes",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/52-million-u-s-kids-eligible-for-new-scholarships-but-california-hasnt-opted-in/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-28T12:00:19.695309",
+    "title": "52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researchers-find-simple-habit-to-improve-physical-mental-health/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-28T12:00:19.970834",
+    "title": "Mizzou researchers find simple habit to improve physical, mental health",
+    "category": "ai"
+  },
+  "https://morgridge.org/story/nsf-announces-investment-to-shape-the-nations-future-data-backbone/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-28T12:00:20.132777",
+    "title": "NSF announces investment to shape the nation’s future data backbone",
+    "category": "education"
+  },
+  "https://today.uic.edu/summer-orientations-welcome-newest-flames-to-campus/": {
+    "source": "uic_today",
+    "fetch_time": "2026-07-28T12:00:26.223079",
+    "title": "Summer orientations welcome newest Flames to campus",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/school-applied-and-creative-computing-partners-electrical-and-computer-engineering-launch": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-28T12:00:27.459644",
+    "title": "School of Applied and Creative Computing partners with Electrical and Computer Engineering to launch gaming certificate in Indianapolis",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/as-national-friendship-day-nears-research-shows-people-arent-lonelier-theyre-changing-how-they-spend-their-time": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-28T12:00:28.357204",
+    "title": "As National Friendship Day nears, research shows people aren’t lonelier — they’re changing how they spend their time",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/glp-1-drugs-may-hold-few-benefits-beyond-physical-health-study-finds": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-28T12:00:30.643104",
+    "title": "GLP-1 drugs may hold few benefits beyond physical health, study finds",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/New-masters-in-artificial-intelligence-engineering-offered-at-WashU.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-28T12:00:30.974528",
+    "title": "New master’s in artificial intelligence engineering offered at WashU",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-28T12:00:31.457884",
+    "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother",
+    "category": "general"
   }
 }
