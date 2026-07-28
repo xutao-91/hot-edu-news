@@ -1,9 +1,27 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-07-27T12:00:29.587780",
-  "total_news": 3,
+  "crawled_at": "2026-07-27T20:00:29.158144",
+  "total_news": 5,
   "news": [
+    {
+      "title": "The High Stakes of the Nation’s School Funding Crisis",
+      "url": "https://news.uchicago.edu/high-stakes-nations-school-funding-crisis",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "How AI is starting to explain stock-price moves",
+      "url": "https://news.uchicago.edu/story/how-ai-starting-explain-stock-price-moves",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "Chicago Booth economists trained models to outperform standard forecasts—then launched a competition inviting anyone to do better",
+      "source": "UChicago News",
+      "category": "ai"
+    },
     {
       "title": "Baltimore will turn 911 into more than just an emergency number",
       "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",

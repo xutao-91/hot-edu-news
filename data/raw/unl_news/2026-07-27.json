@@ -1,8 +1,8 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-07-27T12:00:15.194539",
-  "total_news": 5,
+  "crawled_at": "2026-07-27T20:00:18.305180",
+  "total_news": 6,
   "news": [
     {
       "title": "Husker-led project receives Genesis Mission funding to advance AI, 6G",
@@ -17,6 +17,15 @@
       "title": "Great Plains Art Museum to open immersive exhibition focused on insect world",
       "url": "https://news.unl.edu/article/great-plains-art-museum-to-open-immersive-exhibition-focused-on-insect-world",
       "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "University of Nebraska launches systemwide assessment",
+      "url": "https://news.unl.edu/article/university-of-nebraska-launches-systemwide-assessment",
+      "date": "2026-07-24",
       "type": "News",
       "summary_en": "",
       "source": "UNL News",

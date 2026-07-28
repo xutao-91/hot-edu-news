@@ -1,7 +1,17 @@
 {
   "source": "Elmhurst University News",
   "source_url": "https://www.elmhurst.edu/news/",
-  "crawled_at": "2026-07-27T12:00:26.175735",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-27T20:00:21.830785",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Men’s Basketball Team Picked for First NABC Division III Tournament",
+      "url": "https://www.elmhurst.edu/news/mens-basketball-team-picked-for-first-nabc-division-iii-tournament/",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
 }

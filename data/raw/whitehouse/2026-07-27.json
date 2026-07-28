@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-27T12:00:30.304581",
-  "total_news": 4,
+  "crawled_at": "2026-07-27T20:00:30.148562",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Presidential Message on National Korean War Veterans Armistice Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+      "date": "July 27, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Made in Michigan Again: President Trump’s Trade Agenda Is Supercharging American Auto Manufacturing",
       "url": "https://www.whitehouse.gov/releases/2026/07/made-in-michigan-again-president-trumps-trade-agenda-is-supercharging-american-auto-manufacturing/",

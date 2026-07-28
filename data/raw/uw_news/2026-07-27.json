@@ -1,7 +1,35 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-07-27T12:00:19.319442",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-27T20:00:18.046509",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Pharmacy students tackle patient problems with business pitches",
+      "url": "https://pharmacy.wisc.edu/2026/06/22/pharmacy-students-tackle-patient-problems-with-business-pitches/",
+      "date": "July 27, 2026",
+      "type": "News",
+      "summary_en": "In the School of Pharmacy’s annual ShaRx Tank, five PharmD student-led teams bring entrepreneurial ideas from concept to competition in front of alumni judges",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "UW–Madison’s Architectural treasures",
+      "url": "https://onwisconsin.uwalumni.com/architectural-treasures/",
+      "date": "July 27, 2026",
+      "type": "News",
+      "summary_en": "The university has built a wealth of nationally recognized historic places since opening its doors in 1848, serving physical reminders of the past that makes the future possible.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "July 27 campus cooling update",
+      "url": "https://news.wisc.edu/july-27-campus-cooling-update/",
+      "date": "July 27, 2026",
+      "type": "News",
+      "summary_en": "Progress continues toward buildings reopening before students return for fall semester",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
 }

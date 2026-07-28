@@ -1,7 +1,17 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-07-27T12:00:25.402558",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-27T20:00:25.728928",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Postdoc researcher Kacey Suvada is keeping adults on the move",
+      "url": "https://today.uic.edu/postdoc-researcher-kacey-suvada-is-keeping-adults-on-the-move/",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "UIC postdoc Kacey Suvada uses movement-tracking technology to help adults with osteoarthritis.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
 }
