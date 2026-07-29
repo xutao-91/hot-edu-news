@@ -1,0 +1,26 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-07-29T12:00:23.344897",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Elmhurst U. Marks 10 Years of Innovation and Growth in Latest Issue of ‘Prospect’ Magazine",
+      "url": "https://www.elmhurst.edu/news/elmhurst-u-marks-10-years-of-innovation-and-growth-in-latest-issue-of-prospect-magazine/",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Men’s Basketball Team Picked for First NABC Division III Tournament",
+      "url": "https://www.elmhurst.edu/news/mens-basketball-team-picked-for-first-nabc-division-iii-tournament/",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}

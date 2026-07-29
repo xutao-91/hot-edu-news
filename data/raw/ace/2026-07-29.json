@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-07-29T12:00:28.883655",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE, Higher Ed Associations Back Harvard University in Appeal Over Research Funding Freeze",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Amicus-Brief-Harvard-Research-Appeal.aspx",
+      "date": "July 27, 2026",
+      "type": "News",
+      "summary_en": "ACE and 26 other higher education associations have filed an amicus brief in the latest step in a legal fight over the Trump administration's decision to freeze more than $2.2 billion in the university's federal research grants.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

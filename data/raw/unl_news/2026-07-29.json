@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-07-29T12:00:14.961020",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Merten named interim dean of education and human sciences",
+      "url": "https://news.unl.edu/article/merten-named-interim-dean-of-education-and-human-sciences",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "science"
+    },
+    {
+      "title": "Startup harnesses gait data to improve health outcomes",
+      "url": "https://news.unl.edu/article/startup-harnesses-gait-data-to-improve-health-outcomes",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Study abroad trip broadens Heacock’s view of healthcare",
+      "url": "https://news.unl.edu/article/study-abroad-trip-broadens-heacocks-view-of-healthcare",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "NSF awards $10M to Nebraska EPSCoR for statewide STEM growth",
+      "url": "https://news.unl.edu/article/nsf-awards-10m-to-nebraska-epscor-for-statewide-stem-growth",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker-led project receives Genesis Mission funding to advance AI, 6G",
+      "url": "https://news.unl.edu/article/husker-led-project-receives-genesis-mission-funding-to-advance-ai-6g",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Great Plains Art Museum to open immersive exhibition focused on insect world",
+      "url": "https://news.unl.edu/article/great-plains-art-museum-to-open-immersive-exhibition-focused-on-insect-world",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

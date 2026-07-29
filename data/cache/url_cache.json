@@ -14938,5 +14938,119 @@
     "fetch_time": "2026-07-28T20:00:30.059276",
     "title": "Jun receives ACS Midwest Award",
     "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/notre-dame-launches-data-ai-and-computing-initiative-to-unify-emerging-technology-research-education-and-academic-services/": {
+    "source": "nd_news",
+    "fetch_time": "2026-07-29T12:00:07.362749",
+    "title": "Notre Dame launches Data, AI, and Computing Initiative to unify emerging technology research, education and academic services",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/methods/2026/07/29/video-how-precise-are-polls-really/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-29T12:00:09.033649",
+    "title": "Video: How precise are polls really?",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-29T12:00:09.033678",
+    "title": "More Americans now support than oppose all-day school cellphone bans",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/technical-interchange-meeting-secure-energy-initiative.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-29T12:00:12.347918",
+    "title": "Strengthening the energy future of Kansas and the Midwest",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/reese-greenlee-3D-printed-concrete-and-designing-storm-shelters.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-29T12:00:12.347946",
+    "title": "Pushing the limits",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/07/29/one-class-at-a-time-how-wayne-state-helped-shannon-dare-wayne-turn-determination-into-opportunity-69843": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-29T12:00:16.158085",
+    "title": "One class at a time: How Wayne State helped Shannon Dare Wayne turn determination into opportunity",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/07/public-benefits-cliffs-can-trap-low-wage-workers-study-finds/": {
+    "source": "washu_source",
+    "fetch_time": "2026-07-29T12:00:16.265050",
+    "title": "Public benefits ‘cliffs’ can trap low-wage workers, study finds",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/trump-administration-investigates-use-of-transgender-dolls-minnesota-schools": {
+    "source": "edgov",
+    "fetch_time": "2026-07-29T12:00:17.907551",
+    "title": "Trump Administration Investigates the Use of “Transgender Dolls” in Minnesota Schools",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-recognized-transfer-student-success-nine-years-row": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-29T12:00:18.444917",
+    "title": "UNI recognized for transfer student success nine years in a row",
+    "category": "education"
+  },
+  "https://studyfinds.com/purple-corn-food-industry-red-dye/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-29T12:00:18.687266",
+    "title": "Purple corn byproduct might solve the food industry’s red dye problem",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-law-professor-offers-new-solution-to-strengthen-the-childcare-workforce/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-07-29T12:00:18.687290",
+    "title": "Mizzou law professor offers new solution to strengthen the childcare workforce",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/07/29/accreditations-ai-reckoning-can-colleges-still-prove-students-are-learning/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-29T12:00:20.782903",
+    "title": "Accreditation’s AI reckoning: Can colleges still prove students are learning?",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/new-staffing-models-put-strong-teachers-out-front/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-29T12:00:22.165014",
+    "title": "New Staffing Models Put Strong Teachers Out Front",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/gates-foundation-bets-on-credentials-ai-to-reach-students-before-2045-sunset/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-29T12:00:22.165041",
+    "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/trump-accounts-visual-explainer-what-families-need-to-know/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-29T12:00:22.165052",
+    "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
+    "category": "general"
+  },
+  "https://www.mtu.edu/news/2026/07/meet-the-new-dean-of-michigan-techs-college-of-business.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-07-29T12:00:28.666108",
+    "title": "Meet the New Dean of Michigan Tech’s College of Business",
+    "category": "education"
+  },
+  "https://stories.butler.edu/planned-giving-a-lifetime-of-teaching-inspires-a-lasting-butler-legacy/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-07-29T12:00:29.273831",
+    "title": "Planned Giving: A Lifetime of Teaching Inspires a Lasting Butler Legacy",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-29T12:00:30.294171",
+    "title": "Crime Plummets to Another Historic Low Under President Trump",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-29T12:00:30.294200",
+    "title": "President Trump on Fox & Friends: America’s Unrelenting Strength Keeps Maximum Pressure on Iran",
+    "category": "semiconductor"
   }
 }
