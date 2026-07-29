@@ -1,9 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-07-28T12:00:09.159496",
-  "total_news": 1,
+  "crawled_at": "2026-07-28T20:00:07.213024",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Most Americans favor big changes to the political system that likely would require amending the Constitution",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/28/most-americans-favor-big-changes-to-the-political-system-that-likely-would-require-amending-the-constitution/",
+      "date": "Jul 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Election System Voting Process",
+        "Federal Government",
+        "Political Ideals Systems"
+      ],
+      "summary_en": "Most Americans support term limits, campaign spending caps, and Electoral College reform, but achieving these changes likely would require amending one of the world’s hardest constitutions to change.",
+      "source": "Pew Research Center",
+      "category": "science"
+    },
     {
       "title": "Canadians and Mexicans now view China more positively than the U.S.",
       "url": "https://www.pewresearch.org/short-reads/2026/07/27/canadians-and-mexicans-now-view-china-more-positively-than-the-us/",

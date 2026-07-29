@@ -14878,5 +14878,65 @@
     "fetch_time": "2026-07-28T12:00:31.457884",
     "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother",
     "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/07/28/most-americans-favor-big-changes-to-the-political-system-that-likely-would-require-amending-the-constitution/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-28T20:00:07.836991",
+    "title": "Most Americans favor big changes to the political system that likely would require amending the Constitution",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/report-interlochen-sex-abuse-spans-70-years-extends-past-jeffrey-epstein/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-28T20:00:12.829293",
+    "title": "Report: Interlochen sex abuse spans 70 years, extends past Jeffrey Epstein",
+    "category": "ai"
+  },
+  "https://mendoza.nd.edu/news/social-robots-and-memory-care/": {
+    "source": "mendoza",
+    "fetch_time": "2026-07-28T20:00:13.379076",
+    "title": "Social Robots and Memory Care",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/colorado-officials-knew-public-christian-school-was-religious-before-it-opened-they-didnt-stop-it/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-28T20:00:18.745305",
+    "title": "Colorado Officials Knew ‘Public Christian School’ Was Religious Before It Opened. They Didn’t Stop It.",
+    "category": "education"
+  },
+  "/news/2026/07/photo-gallery-snapshots-years-ragbrai-route": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-07-28T20:00:18.911993",
+    "title": "PHOTO GALLERY: Snapshots from this year's RAGBRAI route",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/business/business-and-community-services-makes-impact-all-99-iowa-counties": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-28T20:00:19.317934",
+    "title": "Business and Community Services makes an impact in all 99 Iowa counties",
+    "category": "semiconductor"
+  },
+  "https://www.elmhurst.edu/news/elmhurst-u-marks-10-years-of-innovation-and-growth-in-latest-issue-of-prospect-magazine/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-07-28T20:00:23.281086",
+    "title": "Elmhurst U. Marks 10 Years of Innovation and Growth in Latest Issue of ‘Prospect’ Magazine",
+    "category": "general"
+  },
+  "https://news.iu.edu/college/live/news/51899-iu-physicists-begin-installing-upgrades-to-worlds": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-28T20:00:24.911453",
+    "title": "IU physicists part of team installing upgrades to CERN’s Large Hadron Collider",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Lew-elected-as-senior-member-of-SPIE.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-28T20:00:30.059248",
+    "title": "Lew elected as senior member of SPIE",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Jun-receives-ACS-Midwest-Award.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-28T20:00:30.059276",
+    "title": "Jun receives ACS Midwest Award",
+    "category": "semiconductor"
   }
 }

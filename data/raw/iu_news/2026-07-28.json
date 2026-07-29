@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-07-28T12:00:25.061486",
-  "total_news": 1,
+  "crawled_at": "2026-07-28T20:00:24.126807",
+  "total_news": 2,
   "news": [
+    {
+      "title": "IU physicists part of team installing upgrades to CERN’s Large Hadron Collider",
+      "url": "https://news.iu.edu/college/live/news/51899-iu-physicists-begin-installing-upgrades-to-worlds",
+      "date": "Jul 28, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "IU Board of Trustees Compensation Committee to meet virtually July 28",
       "url": "https://news.iu.edu/live/news/51892-iu-board-of-trustees-compensation-committee-to",

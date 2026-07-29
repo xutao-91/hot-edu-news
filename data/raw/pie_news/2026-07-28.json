@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-07-28T12:00:08.436495",
-  "total_news": 7,
+  "crawled_at": "2026-07-28T20:00:08.931462",
+  "total_news": 8,
   "news": [
+    {
+      "title": "‘Not an Australia alternative’: New Zealand’s international ed sector is going for growth",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-07-28",
+      "type": "Events",
+      "summary_en": "New Zealand is charging ahead with its plans to increase international enrolments, stressing its desirability as a study destination in its own right rather than as a substitution for nearby Australia.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
     {
       "title": "US ELT hit by 14% student drop and shorter stays",
       "url": "https://thepienews.com/category/news/elt/",

@@ -1,7 +1,17 @@
 {
   "source": "University of Iowa Now",
   "source_url": "https://now.uiowa.edu/tags/featured-headlines",
-  "crawled_at": "2026-07-28T12:00:18.644648",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-28T20:00:18.192620",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "PHOTO GALLERY: Snapshots from this year's RAGBRAI route",
+      "url": "/news/2026/07/photo-gallery-snapshots-years-ragbrai-route",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "RAGBRAI riders traveled from Onawa to Dubuque last week, and there was no shortage of black and gold across the Iowa countryside.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
 }

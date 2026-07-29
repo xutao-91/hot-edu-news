@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-07-28T12:00:13.826958",
-  "total_news": 1,
+  "crawled_at": "2026-07-28T20:00:11.974680",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Report: Interlochen sex abuse spans 70 years, extends past Jeffrey Epstein",
+      "url": "https://bridgemi.com/talent-education/report-interlochen-sex-abuse-spans-70-years-extends-past-jeffrey-epstein/",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "The 97-page report detailed 70 instances of abuse by 47 faculty and staff members.",
+      "author": "Ed Ronco, Interlochen Public Radio",
+      "source": "Bridge Michigan",
+      "category": "general"
+    },
     {
       "title": "Where Michigan governor candidates stand on schools, literacy",
       "url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-schools-literacy/",

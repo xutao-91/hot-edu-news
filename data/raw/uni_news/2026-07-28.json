@@ -1,7 +1,17 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-07-28T12:00:19.016892",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-28T20:00:18.614066",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Business and Community Services makes an impact in all 99 Iowa counties",
+      "url": "https://insideuni.uni.edu/business/business-and-community-services-makes-impact-all-99-iowa-counties",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Through its 12 outreach organizations, UNI's Business and Community Services (BCS) connects communities, businesses, nonprofits and public agencies with in-house industry leaders who help tackle complex problems. And the impact is vast.",
+      "source": "UNI News",
+      "category": "community"
+    }
+  ]
 }

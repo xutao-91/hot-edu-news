@@ -1,9 +1,27 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-07-28T12:00:30.663287",
-  "total_news": 1,
+  "crawled_at": "2026-07-28T20:00:29.827851",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Lew elected as senior member of SPIE",
+      "url": "https://engineering.washu.edu/news/2026/Lew-elected-as-senior-member-of-SPIE.html",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Matthew Lew recognized for outstanding contributions to optical imaging community.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Jun receives ACS Midwest Award",
+      "url": "https://engineering.washu.edu/news/2026/Jun-receives-ACS-Midwest-Award.html",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Young-Shin Jun honored for outstanding contributions to chemistry by the American Chemical Society.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "New master’s in artificial intelligence engineering offered at WashU",
       "url": "https://engineering.washu.edu/news/2026/New-masters-in-artificial-intelligence-engineering-offered-at-WashU.html",
