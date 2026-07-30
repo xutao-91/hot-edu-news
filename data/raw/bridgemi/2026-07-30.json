@@ -1,0 +1,38 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-07-30T12:00:12.894548",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Oakland County schools seek new tax to bypass funding limits. Some cry foul",
+      "url": "https://bridgemi.com/talent-education/oakland-county-schools-seek-new-tax-to-bypass-funding-limits-some-cry-foul/",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "Should schools get more money? Voters in Oakland County are deciding whether it’s worth raising taxes to give local districts more money.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
+    {
+      "title": "Report: Interlochen sex abuse spans 70 years, extends past Jeffrey Epstein",
+      "url": "https://bridgemi.com/talent-education/report-interlochen-sex-abuse-spans-70-years-extends-past-jeffrey-epstein/",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "The 97-page report detailed 70 instances of abuse by 47 faculty and staff members.",
+      "author": "Ed Ronco, Interlochen Public Radio",
+      "source": "Bridge Michigan",
+      "category": "general"
+    },
+    {
+      "title": "Where Michigan governor candidates stand on schools, literacy",
+      "url": "https://bridgemi.com/michigan-government/where-michigan-governor-candidates-stand-on-schools-literacy/",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Candidates have made bold promises to address dismal reading scores and fix schools across the state. Are they realistic?",
+      "author": "Jordyn Hermani",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    }
+  ]
+}

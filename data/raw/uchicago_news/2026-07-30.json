@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-30T12:00:29.741792",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "IBM, UChicago demonstrate ‘quantum advantage,’ outperforming traditional computers with a quantum computer",
+      "url": "https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "Scientists used a new error correction method to crack a classically intractable problem",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How UChicago students staged a wordless play with an Emmy-winning company",
+      "url": "https://news.uchicago.edu/story/how-uchicago-students-staged-wordless-play-emmy-winning-company",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "Undergraduates in Theater and Performance Studies produced an original work with Manual Cinema, a group with alumni roots",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "What to know about cyclospora, the parasite behind this summer’s outbreak",
+      "url": "https://news.uchicago.edu/story/what-know-about-cyclospora-parasite-behind-summers-outbreak",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "UChicago Medicine medical experts explain how the illness affects the body, which fresh foods to watch and the steps that lower your risk",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "GLP-1 drugs may hold few benefits beyond physical health, study finds",
+      "url": "https://news.uchicago.edu/story/glp-1-drugs-may-hold-few-benefits-beyond-physical-health-study-finds",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Research from UChicago economist finds no measurable shift in mood, employment or marriage among people taking medications such as Ozempic",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "The High Stakes of the Nation’s School Funding Crisis",
+      "url": "https://news.uchicago.edu/high-stakes-nations-school-funding-crisis",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "How AI is starting to explain stock-price moves",
+      "url": "https://news.uchicago.edu/story/how-ai-starting-explain-stock-price-moves",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "Chicago Booth economists trained models to outperform standard forecasts—then launched a competition inviting anyone to do better",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Baltimore will turn 911 into more than just an emergency number",
+      "url": "https://www.npr.org/2026/07/27/nx-s1-5874720/baltimore-will-turn-911-into-more-than-just-an-emergency-number",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

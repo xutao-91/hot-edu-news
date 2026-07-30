@@ -15124,5 +15124,113 @@
     "fetch_time": "2026-07-29T20:00:30.515884",
     "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
     "category": "general"
+  },
+  "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-07-30T12:00:08.569197",
+    "title": "How Pew Research Center is – and is not – using AI in our work",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/07/30/wayne-state-partnership-helps-detroit-students-build-futures-through-technology-and-mentorship-69835": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-30T12:00:16.461128",
+    "title": "WSU partnership helps Detroit students build futures in tech",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/07/30/rooted-in-resilience-wayne-state-professor-allana-clarke-transforms-a-detroit-garden-into-living-art-69848": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-30T12:00:16.461154",
+    "title": "WSU professor transforms a Detroit garden into living art",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/when-teachers-lack-confidence-in-math-their-students-fall-behind-new-study-shows/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-30T12:00:18.868214",
+    "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/new-mexico-features-in-national-discussion-on-childcare-challenges/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-30T12:00:18.868243",
+    "title": "New Mexico Features in National Discussion on Childcare Challenges",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/business/wilson-students-turn-internships-career-confidence": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-30T12:00:18.961003",
+    "title": "Wilson students turn internships into career confidence",
+    "category": "education"
+  },
+  "https://news.wisc.edu/july-30-campus-cooling-update/": {
+    "source": "uw_news",
+    "fetch_time": "2026-07-30T12:00:19.223064",
+    "title": "July 30 campus cooling update",
+    "category": "ai"
+  },
+  "https://www.ed.gov/about/news/press-release/what-they-are-saying-support-breaking-federal-education-bureaucracy": {
+    "source": "edgov",
+    "fetch_time": "2026-07-30T12:00:21.585214",
+    "title": "What They Are Saying: Support for Breaking Up the Federal Education Bureaucracy",
+    "category": "education"
+  },
+  "https://www.heritage.org/education/commentary/randi-weingartens-convention-exposes-the-teachers-union-political-machine": {
+    "source": "heritage",
+    "fetch_time": "2026-07-30T12:00:24.184506",
+    "title": "Randi Weingarten’s Convention Exposes the Teachers’ Union as a Political Machine",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/book-event-will-bring-life-investment-lessons-home-to-lawrence": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-30T12:00:25.354494",
+    "title": "Book event will bring life, investment lessons home to Lawrence",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/new-ku-school-of-business-microcredential-helps-professionals-build-in-demand-sales-skills": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-30T12:00:25.354520",
+    "title": "New KU School of Business microcredential helps professionals build in-demand sales skills",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/construction-begins-on-accessible-entrance-to-ku-natural-history-museum": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-30T12:00:25.354531",
+    "title": "Construction begins on accessible entrance to KU Natural History Museum",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/ku-to-host-thatcamp-2026-a-day-of-hands-on-digital-humanities-collaboration": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-30T12:00:25.354542",
+    "title": "KU to host THATCamp 2026, a day of hands-on digital humanities collaboration",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4983-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-30T12:00:29.599089",
+    "title": "A Structured Approach to Identifying and Characterizing AI Vulnerabilities",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71364.html": {
+    "source": "rand",
+    "fetch_time": "2026-07-30T12:00:29.599116",
+    "title": "Trends in Perception of Generative AI in Healthcare by US Adult Demographics and Political Identity",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-30T12:00:30.124820",
+    "title": "IBM, UChicago demonstrate ‘quantum advantage,’ outperforming traditional computers with a quantum computer",
+    "category": "quantum"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/the-white-house-government-transparency-task-force-fact-sheet/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-30T12:00:31.048670",
+    "title": "The White House Government Transparency Task Force Fact Sheet",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-30T12:00:31.048721",
+    "title": "First Lady Melania Trump Facilitates Her Fifth Ukraine–Russia Family Reunification",
+    "category": "ai"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-07-30T12:00:20.910630",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purple corn byproduct might solve the food industry’s red dye problem",
+      "url": "https://studyfinds.com/purple-corn-food-industry-red-dye/",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou law professor offers new solution to strengthen the childcare workforce",
+      "url": "https://showme.missouri.edu/2026/mizzou-law-professor-offers-new-solution-to-strengthen-the-childcare-workforce/",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "The University of Missouri study finds that giving tax benefits directly to childcare workers would attract and retain employees while strengthening the industry.",
+      "source": "Show Me Mizzou",
+      "category": "academic"
+    },
+    {
+      "title": "Mizzou researchers find simple habit to improve physical, mental health",
+      "url": "https://showme.missouri.edu/2026/mizzou-researchers-find-simple-habit-to-improve-physical-mental-health/",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "Study highlights how consistent daily habits can lower pain and depression, regardless of sleep quality.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    }
+  ]
+}

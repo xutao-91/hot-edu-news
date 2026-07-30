@@ -1,0 +1,44 @@
+{
+  "source": "Kansas State University News",
+  "source_url": "https://www.k-state.edu/news/articles/",
+  "crawled_at": "2026-07-30T12:00:09.194365",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Strengthening the energy future of Kansas and the Midwest",
+      "url": "https://www.k-state.edu/news/articles/2026/07/technical-interchange-meeting-secure-energy-initiative.html",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "The Secure Energy Initiative’s Sept. 2 Technical Interchange Meeting will bring together industry, community and university partners to explore solutions that strengthen energy security,...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Pushing the limits",
+      "url": "https://www.k-state.edu/news/articles/2026/07/reese-greenlee-3D-printed-concrete-and-designing-storm-shelters.html",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "Reese Greenlee, K-State assistant professor of architecture, is testing the limits of 3D-printed concrete to see if it can provide affordable, adaptable and code-compliant storm shelters...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "People with Purpose: Rob Sanders",
+      "url": "https://www.k-state.edu/news/articles/2026/07/rob-sanders-guides-college-success-builds-career-confidence.html",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "Through guidance, encouragement and practical support, Rob Sanders is a trusted career-readiness resource for students.",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Help shape the future of water in Kansas at local consult meetings",
+      "url": "https://www.k-state.edu/news/articles/2026/07/kansas-water-consult-meetings.html",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "K-State faculty, staff, students and community partners are encouraged to participate in a series of local water consult meetings being held across Kansas this summer. Interested participants...",
+      "source": "K-State News",
+      "category": "general"
+    }
+  ]
+}

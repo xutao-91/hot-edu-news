@@ -1,0 +1,71 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-07-30T12:00:30.845757",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "The White House Government Transparency Task Force Fact Sheet",
+      "url": "https://www.whitehouse.gov/releases/2026/07/the-white-house-government-transparency-task-force-fact-sheet/",
+      "date": "July 30, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Facilitates Her Fifth Ukraine–Russia Family Reunification",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-facilitates-her-fifth-ukrainerussia-family-reunification/",
+      "date": "July 30, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
+      "date": "July 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Crime Plummets to Another Historic Low Under President Trump",
+      "url": "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/",
+      "date": "July 29, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump on Fox & Friends: America’s Unrelenting Strength Keeps Maximum Pressure on Iran",
+      "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/",
+      "date": "July 28, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
+      "date": "July 28, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Korean War Veterans Armistice Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-national-korean-war-veterans-armistice-day-3cd7/",
+      "date": "July 27, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Made in Michigan Again: President Trump’s Trade Agenda Is Supercharging American Auto Manufacturing",
+      "url": "https://www.whitehouse.gov/releases/2026/07/made-in-michigan-again-president-trumps-trade-agenda-is-supercharging-american-auto-manufacturing/",
+      "date": "July 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Announces Opening of Christmas Volunteer & Performer Applications",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/first-lady-melania-trump-announces-opening-of-christmas-volunteer-performer-applications-be30/",
+      "date": "July 27, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}
