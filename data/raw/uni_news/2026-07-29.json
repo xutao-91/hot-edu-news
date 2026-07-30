@@ -1,9 +1,27 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-07-29T12:00:17.783741",
-  "total_news": 2,
+  "crawled_at": "2026-07-29T20:00:19.515471",
+  "total_news": 4,
   "news": [
+    {
+      "title": "UNI hosts regional workshop exploring history's role in civic education",
+      "url": "https://insideuni.uni.edu/campus-community/uni-hosts-regional-workshop-exploring-historys-role-civic-education",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "UNI welcomed history faculty from across the Midwest for a two-day workshop focused on strengthening history’s role in civic education and preparing future social studies teachers.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Best double majors for finance students",
+      "url": "https://insideuni.uni.edu/business/best-double-majors-finance-students",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "A finance degree opens doors across nearly every industry. Discover the best double majors that can expand your career options and make your business education even more valuable.",
+      "source": "UNI News",
+      "category": "students"
+    },
     {
       "title": "UNI recognized for transfer student success nine years in a row",
       "url": "https://insideuni.uni.edu/campus-community/uni-recognized-transfer-student-success-nine-years-row",

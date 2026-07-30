@@ -1,9 +1,16 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-29T12:00:30.107172",
-  "total_news": 6,
+  "crawled_at": "2026-07-29T20:00:30.285113",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Presidential Message on the Birthday of Alexis de Tocqueville",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-birthday-of-alexis-de-tocqueville/",
+      "date": "July 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Crime Plummets to Another Historic Low Under President Trump",
       "url": "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/",

@@ -1,7 +1,17 @@
 {
   "source": "Heritage Foundation - Education",
   "source_url": "https://www.heritage.org/education",
-  "crawled_at": "2026-07-29T12:00:20.852932",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-07-29T20:00:27.482017",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Teachers Union Uses Felons to Attack School Choice in Arizona",
+      "url": "https://www.heritage.org/education/commentary/teachers-union-uses-felons-attack-school-choice-arizona",
+      "date": "Jul 28, 2026",
+      "type": "Commentary",
+      "read_time": "4 min",
+      "source": "Heritage Foundation",
+      "category": "k12"
+    }
+  ]
 }

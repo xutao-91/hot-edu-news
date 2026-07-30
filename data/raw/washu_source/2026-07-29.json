@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-29T12:00:15.554128",
-  "total_news": 3,
+  "crawled_at": "2026-07-29T20:00:15.357961",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Finding order in the inner chaos of our cells",
+      "url": "https://source.washu.edu/2026/07/finding-order-in-the-inner-chaos-of-our-cells/",
+      "date": "2026-07-29",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine researchers have developed a technique to synthesize shape-shifting “disordered proteins,” creating new opportunities to understand the basis of disease and design potential medical interventions.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Public benefits ‘cliffs’ can trap low-wage workers, study finds",
       "url": "https://source.washu.edu/2026/07/public-benefits-cliffs-can-trap-low-wage-workers-study-finds/",
@@ -21,6 +30,15 @@
       "summary_en": "Meredith Malone was installed as the Nancy and Kenneth Kranzberg Curator at the WashU Kemper Art Museum May 18. The endowed position is the museum’s first named curatorship.",
       "source": "WashU Source",
       "category": "advancement"
+    },
+    {
+      "title": "Proven childhood obesity treatment also works at pediatrician’s office",
+      "url": "https://source.washu.edu/2026/07/proven-childhood-obesity-treatment-also-works-at-pediatricians-office/",
+      "date": "2026-07-27",
+      "type": "Nutrition & Wellness",
+      "summary_en": "A clinical trial co-led by WashU Medicine researchers found that adding family-based behavioral treatment to specialized pediatric care helped nearly half of children with obesity reach a healthier weight.",
+      "source": "WashU Source",
+      "category": "general"
     },
     {
       "title": "Building better workplaces for an aging workforce",

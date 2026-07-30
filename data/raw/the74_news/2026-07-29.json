@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-29T12:00:21.497864",
+  "crawled_at": "2026-07-29T20:00:22.434144",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,23 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.308897"
+      "crawled_at": "2026-07-29T20:00:22.261216"
+    },
+    {
+      "title": "In Diary, Fauci Bragged of Role in School Closures. At Hearing, He Took the 5th",
+      "url": "https://www.the74million.org/article/in-diary-fauci-bragged-of-role-in-school-closures-at-hearing-he-took-the-5th/",
+      "date": "July 29, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-29T20:00:22.270588"
+    },
+    {
+      "title": "You’re Not Imagining It: Your Kid’s School Supplies Cost More This Year",
+      "url": "https://www.the74million.org/article/youre-not-imagining-it-your-kids-school-supplies-cost-more-this-year/",
+      "date": "July 29, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-29T20:00:22.279656"
     },
     {
       "title": "New Staffing Models Put Strong Teachers Out Front",
@@ -18,7 +34,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.315417"
+      "crawled_at": "2026-07-29T20:00:22.289621"
     },
     {
       "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
@@ -26,23 +42,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.324938"
-    },
-    {
-      "title": "Colorado Officials Knew ‘Public Christian School’ Was Religious Before It Opened. They Didn’t Stop It.",
-      "url": "https://www.the74million.org/article/colorado-officials-knew-public-christian-school-was-religious-before-it-opened-they-didnt-stop-it/",
-      "date": "July 29, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.334569"
-    },
-    {
-      "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
-      "url": "https://www.the74million.org/article/with-an-eye-to-improvement-new-hampshire-educators-propose-new-way-to-assess-schools/",
-      "date": "July 29, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.344138"
+      "crawled_at": "2026-07-29T20:00:22.299563"
     },
     {
       "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
@@ -50,7 +50,23 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.351623"
+      "crawled_at": "2026-07-29T20:00:22.308121"
+    },
+    {
+      "title": "Colorado Officials Knew ‘Public Christian School’ Was Religious Before It Opened. They Didn’t Stop It.",
+      "url": "https://www.the74million.org/article/colorado-officials-knew-public-christian-school-was-religious-before-it-opened-they-didnt-stop-it/",
+      "date": "July 28, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-29T20:00:22.316649"
+    },
+    {
+      "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
+      "url": "https://www.the74million.org/article/with-an-eye-to-improvement-new-hampshire-educators-propose-new-way-to-assess-schools/",
+      "date": "July 28, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-29T20:00:22.320142"
     },
     {
       "title": "New Report Ties Chronic Absenteeism to Sluggish Academic Outcomes",
@@ -58,7 +74,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.361079"
+      "crawled_at": "2026-07-29T20:00:22.326993"
     },
     {
       "title": "52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In",
@@ -66,7 +82,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.369641"
+      "crawled_at": "2026-07-29T20:00:22.333374"
     },
     {
       "title": "One Year Later, 988 Still Doesn’t Have a Hotline for LGBTQ+ Youth",
@@ -74,7 +90,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.377167"
+      "crawled_at": "2026-07-29T20:00:22.338932"
     },
     {
       "title": "What to Know About the Texas ‘Robin Hood’ School Funding System",
@@ -82,7 +98,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.379564"
+      "crawled_at": "2026-07-29T20:00:22.341385"
     },
     {
       "title": "Oklahoma Data Shows Lack of Fully Trained Teachers Entering the Classroom",
@@ -90,7 +106,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.389078"
+      "crawled_at": "2026-07-29T20:00:22.346862"
     },
     {
       "title": "Settling Scores: Experts Debate Why AP Performance Has Soared",
@@ -98,7 +114,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.397487"
+      "crawled_at": "2026-07-29T20:00:22.352349"
     },
     {
       "title": "Head Start, Explained. How Changes to Early Education Program Affect California Families",
@@ -106,7 +122,7 @@
       "date": "July 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.405910"
+      "crawled_at": "2026-07-29T20:00:22.360792"
     },
     {
       "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
@@ -114,7 +130,7 @@
       "date": "July 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.412306"
+      "crawled_at": "2026-07-29T20:00:22.369197"
     },
     {
       "title": "What’s Next on North Carolina’s Literacy Journey?",
@@ -122,7 +138,7 @@
       "date": "July 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.414628"
+      "crawled_at": "2026-07-29T20:00:22.371456"
     },
     {
       "title": "What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools",
@@ -130,7 +146,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.423074"
+      "crawled_at": "2026-07-29T20:00:22.379040"
     },
     {
       "title": "Students Convene to Hammer Out AI Bill of Rights for Schools",
@@ -138,7 +154,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.431546"
+      "crawled_at": "2026-07-29T20:00:22.388543"
     },
     {
       "title": "The Island Without Childcare for Babies",
@@ -146,7 +162,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.442098"
+      "crawled_at": "2026-07-29T20:00:22.397086"
     },
     {
       "title": "How Kentucky Achieved Bipartisan Childcare Reform",
@@ -154,7 +170,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.447852"
+      "crawled_at": "2026-07-29T20:00:22.404563"
     },
     {
       "title": "California Literacy Investments Are Mostly Working",
@@ -162,7 +178,7 @@
       "date": "July 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.458479"
+      "crawled_at": "2026-07-29T20:00:22.414100"
     },
     {
       "title": "NC Budget Offers Rural Childcare Businesses Financial Help They’ve Sought for Years",
@@ -170,7 +186,7 @@
       "date": "July 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.467040"
+      "crawled_at": "2026-07-29T20:00:22.416578"
     },
     {
       "title": "Indianapolis Picks National Charter Leader To Run Charter-Public School Board",
@@ -178,7 +194,7 @@
       "date": "July 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.473854"
+      "crawled_at": "2026-07-29T20:00:22.425219"
     },
     {
       "title": "Report: Black Students’ Exclusion From High-Quality Math Has Dire Consequences",
@@ -186,23 +202,7 @@
       "date": "July 23, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.476253"
-    },
-    {
-      "title": "In First School Visit, President Urges Atlanta Crowd to Support ‘Trump Accounts’",
-      "url": "https://www.the74million.org/article/in-first-school-visit-president-urges-atlanta-crowd-to-support-trump-accounts/",
-      "date": "July 22, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.487921"
-    },
-    {
-      "title": "In a Mississippi School District With Strict Gender Rules, Trans Students and Families Push to Be Heard",
-      "url": "https://www.the74million.org/article/in-a-mississippi-school-district-with-strict-gender-rules-trans-students-and-families-push-to-be-heard/",
-      "date": "July 22, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-29T12:00:21.495357"
+      "crawled_at": "2026-07-29T20:00:22.433688"
     }
   ]
 }
