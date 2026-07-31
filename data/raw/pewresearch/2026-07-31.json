@@ -1,0 +1,76 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-07-31T12:00:07.030131",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Favorable views of Supreme Court remain near historic low",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/30/favorable-views-of-supreme-court-remain-near-historic-low/",
+      "date": "Jul 30, 2026",
+      "type": "short reads",
+      "categories": [
+        "Partisanship Issues",
+        "Political Polarization",
+        "Supreme Court",
+        "Trust In Government"
+      ],
+      "summary_en": "Half of Americans currently hold an unfavorable opinion of the Supreme Court, while roughly as many view the court favorably.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "date": "Jul 30, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science"
+      ],
+      "summary_en": "In this post, we’ll share our current guidelines for the internal use of artificial intelligence and potential areas of experimentation.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Video: How precise are polls really?",
+      "url": "https://www.pewresearch.org/methods/2026/07/29/video-how-precise-are-polls-really/",
+      "date": "Jul 29, 2026",
+      "type": "video",
+      "categories": [
+        "Uncategorized"
+      ],
+      "summary_en": "How precise are polls…really? Here’s a little secret: even the best pollsters need some wiggle room when sharing results. This “wiggle room” (also known as the margin of error) is the range within the true answer likely falls.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "More Americans now support than oppose all-day school cellphone bans",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/29/more-americans-now-support-than-oppose-all-day-school-cellphone-bans/",
+      "date": "Jul 29, 2026",
+      "type": "short reads",
+      "categories": [
+        "K 12",
+        "Mobile",
+        "Teens Tech",
+        "Teens Youth"
+      ],
+      "summary_en": "Three-quarters of U.S. adults support in-class school cellphone bans, and for the first time, more now support than oppose all-day bans for middle and high schoolers.",
+      "source": "Pew Research Center",
+      "category": "education"
+    },
+    {
+      "title": "Most Americans favor big changes to the political system that likely would require amending the Constitution",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/28/most-americans-favor-big-changes-to-the-political-system-that-likely-would-require-amending-the-constitution/",
+      "date": "Jul 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Election System Voting Process",
+        "Federal Government",
+        "Political Ideals Systems"
+      ],
+      "summary_en": "Most Americans support term limits, campaign spending caps, and Electoral College reform, but achieving these changes likely would require amending one of the world’s hardest constitutions to change.",
+      "source": "Pew Research Center",
+      "category": "science"
+    }
+  ]
+}

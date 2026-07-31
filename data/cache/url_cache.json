@@ -15340,5 +15340,89 @@
     "fetch_time": "2026-07-30T20:00:30.917807",
     "title": "Presidential Determination Pursuant to Section 101 of the Defense Production Act of 1950, as Amended, on Recoverable Critical Minerals and Materials",
     "category": "semiconductor"
+  },
+  "https://www.slu.edu/news/2026/july/ray-vollmer-obituary.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-07-31T12:00:08.095323",
+    "title": "Ray Vollmer: 1957-2026",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/07/finding-her-place.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-07-31T12:00:11.700314",
+    "title": "Finding her place",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/mcgee-finds-calling-through-personal-experience-hands-on-research": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-31T12:00:17.074015",
+    "title": "McGee finds calling through personal experience, hands-on research",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/eroshenko-brings-nebraska-expertise-to-international-soil-competition": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-31T12:00:17.074042",
+    "title": "Eroshenko brings Nebraska expertise to international soil competition",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-july-31": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-31T12:00:17.074053",
+    "title": "Achievements | Honors, appointments and publications for July 31",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/search-relaunches-for-executive-director-of-raikes-school": {
+    "source": "unl_news",
+    "fetch_time": "2026-07-31T12:00:17.074064",
+    "title": "Search relaunches for executive director of Raikes School",
+    "category": "education"
+  },
+  "https://provost.wayne.edu/news/dr-nathalia-jaramillo-selected-to-lead-next-chapter-of-center-for-latinoa-and-latin-american-studies-69862": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-31T12:00:18.156637",
+    "title": "WSU selects Dr. Nathalia Jaramillo as director of CLLAS",
+    "category": "general"
+  },
+  "https://economicdevelopment.wayne.edu/news/meet-the-innovators-behind-the-live-innovate-play-summer-2026-cohort-69857": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-31T12:00:18.156664",
+    "title": "Meet the innovators behind the Live Innovate Play summer 2026 cohort",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/business/uni-building-stronger-communities-through-heartland-economic-development-course": {
+    "source": "uni_news",
+    "fetch_time": "2026-07-31T12:00:18.744032",
+    "title": "UNI is building stronger communities through the Heartland Economic Development Course",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/wv-third-graders-behind-in-reading-math-required-to-be-retained-this-school-year-due-to-2023-law/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-31T12:00:19.099284",
+    "title": "West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/california-will-add-science-scores-to-its-school-accountability-system-why-it-matters/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-31T12:00:19.099311",
+    "title": "California Will Add Science Scores to Its School Accountability System. Why It Matters",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/07/31/higher-educations-grade-inflation-conundrum/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-07-31T12:00:21.071253",
+    "title": "Higher education’s grade inflation conundrum",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-new-albany-pumpkin-chunking-competition-air-espn2-during-celebration": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-07-31T12:00:29.972727",
+    "title": "Purdue Polytechnic in New Albany pumpkin chunking competition to air on ESPN2 during celebration of \"The Ocho\"",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/quiet-uchicago-garden-volunteers-cultivate-food-and-community": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-07-31T12:00:30.015559",
+    "title": "In a quiet UChicago garden, volunteers cultivate food and community",
+    "category": "education"
   }
 }

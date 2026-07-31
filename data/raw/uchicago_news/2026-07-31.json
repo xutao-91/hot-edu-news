@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-07-31T12:00:29.517557",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "In a quiet UChicago garden, volunteers cultivate food and community",
+      "url": "https://news.uchicago.edu/story/quiet-uchicago-garden-volunteers-cultivate-food-and-community",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "Student-run Phoenix Farms tends beehives, grows mushrooms and welcomes anyone on campus to lend a hand",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "IBM, UChicago demonstrate ‘quantum advantage,’ outperforming traditional computers with a quantum computer",
+      "url": "https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "Scientists used a new error correction method to crack a classically intractable problem",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How UChicago students staged a wordless play with an Emmy-winning company",
+      "url": "https://news.uchicago.edu/story/how-uchicago-students-staged-wordless-play-emmy-winning-company",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "Undergraduates in Theater and Performance Studies produced an original work with Manual Cinema, a group with alumni roots",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "What to know about cyclospora, the parasite behind this summer’s outbreak",
+      "url": "https://news.uchicago.edu/story/what-know-about-cyclospora-parasite-behind-summers-outbreak",
+      "date": "2026-07-29",
+      "type": "News",
+      "summary_en": "UChicago Medicine medical experts explain how the illness affects the body, which fresh foods to watch and the steps that lower your risk",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "GLP-1 drugs may hold few benefits beyond physical health, study finds",
+      "url": "https://news.uchicago.edu/story/glp-1-drugs-may-hold-few-benefits-beyond-physical-health-study-finds",
+      "date": "2026-07-28",
+      "type": "News",
+      "summary_en": "Research from UChicago economist finds no measurable shift in mood, employment or marriage among people taking medications such as Ozempic",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

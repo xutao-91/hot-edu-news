@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-07-31T12:00:24.051095",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU physicists part of team installing upgrades to CERN’s Large Hadron Collider",
+      "url": "https://news.iu.edu/college/live/news/51899-iu-physicists-begin-installing-upgrades-to-worlds",
+      "date": "Jul 28, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Library of Congress fellowship gives Luddy students experience in archiving and cultural preservation",
+      "url": "https://news.iu.edu/live/news/51922-library-of-congress-fellowship-gives-luddy",
+      "date": "Jul 30, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "faculty"
+    },
+    {
+      "title": "IU scholars to co-lead $6M NEH grant on project confronting antisemitism worldwide",
+      "url": "https://news.iu.edu/live/news/51894-iu-scholars-to-co-lead-6m-neh-grant-on-project",
+      "date": "Jul 30, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}
