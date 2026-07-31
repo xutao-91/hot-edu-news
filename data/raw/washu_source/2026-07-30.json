@@ -1,9 +1,45 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-07-30T12:00:15.320322",
-  "total_news": 5,
+  "crawled_at": "2026-07-30T20:00:15.967660",
+  "total_news": 9,
   "news": [
+    {
+      "title": "A guide for new college students",
+      "url": "https://source.washu.edu/2026/07/washu-experts-a-guide-for-new-college-students/",
+      "date": "2026-07-30",
+      "type": "Students",
+      "summary_en": "Each year, some 2.5 million first-time students start college in the United States. All students have their own unique goals, histories and challenges, but many share the same questions: How can I make the most of this transformative experience? Where can I find resources to help me thrive socially, financially and academically? What steps must […]",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Why first-year students should visit the campus career center",
+      "url": "https://source.washu.edu/2026/07/washu-expert-why-first-year-students-should-visit-the-campus-career-center/",
+      "date": "2026-07-30",
+      "type": "Students",
+      "summary_en": "WashU career expert Norma Guerra Gaier explains why students should engage with their career center early and often; how career centers have evolved in this challenging economy; and why your major matters less than you think.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Finding ‘your people’ in college: A philosopher’s perspective",
+      "url": "https://source.washu.edu/2026/07/washu-expert-finding-your-people-in-college-a-philosophers-perspective/",
+      "date": "2026-07-30",
+      "type": "Students",
+      "summary_en": "Countless incoming college students are wondering if they will find “their people” at college. Fannie Bialek, a WashU philosopher and friendship expert, tells students they might not know yet who “their people” are — and that’s a good thing.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Why students need to take charge of their healthcare in college",
+      "url": "https://source.washu.edu/2026/07/washu-expert-why-students-need-to-take-charge-of-their-healthcare-in-college/",
+      "date": "2026-07-30",
+      "type": "Students",
+      "summary_en": "WashU clinical psychologist Kirk Dougher says new students need to learn how to manage stress, navigate the healthcare system and grow into a person who can handle what comes next. Parents can help by showing support while encouraging their child to take the lead in their own healthcare.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
     {
       "title": "Finding order in the inner chaos of our cells",
       "url": "https://source.washu.edu/2026/07/finding-order-in-the-inner-chaos-of-our-cells/",

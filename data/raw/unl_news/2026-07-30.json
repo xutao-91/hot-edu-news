@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-07-30T12:00:15.777590",
-  "total_news": 6,
+  "crawled_at": "2026-07-30T20:00:16.593360",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Husker team earns elite NSF award to drive next generation of materials research",
+      "url": "https://news.unl.edu/article/husker-team-earns-elite-nsf-award-to-drive-next-generation-of-materials-research",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
     {
       "title": "Merten named interim dean of education and human sciences",
       "url": "https://news.unl.edu/article/merten-named-interim-dean-of-education-and-human-sciences",

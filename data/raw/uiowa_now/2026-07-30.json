@@ -1,8 +1,8 @@
 {
   "source": "University of Iowa Now",
   "source_url": "https://now.uiowa.edu/tags/featured-headlines",
-  "crawled_at": "2026-07-30T12:00:16.412094",
-  "total_news": 1,
+  "crawled_at": "2026-07-30T20:00:19.977200",
+  "total_news": 2,
   "news": [
     {
       "title": "PHOTO GALLERY: Snapshots from this year's RAGBRAI route",
@@ -10,6 +10,15 @@
       "date": "2026-07-28",
       "type": "News",
       "summary_en": "RAGBRAI riders traveled from Onawa to Dubuque last week, and there was no shortage of black and gold across the Iowa countryside.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa physicists find low-cost way to calibrate magnetometers",
+      "url": "/news/2026/07/iowa-physicists-find-low-cost-way-calibrate-magnetometers",
+      "date": "2026-07-27",
+      "type": "News",
+      "summary_en": "University of Iowa researchers have identified a less expensive way to calibrate magnetometers, devices that measure magnetic fields. The method uses Earth’s magnetic field and could make the instruments more accessible to students, educators, citizen scientists, and researchers without access to professional testing facilities.",
       "source": "UIowa Now",
       "category": "general"
     }
