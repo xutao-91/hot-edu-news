@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-07-31T12:00:18.325864",
+  "crawled_at": "2026-07-31T20:00:19.459630",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.093787"
+      "crawled_at": "2026-07-31T20:00:19.133283"
     },
     {
       "title": "West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law",
@@ -18,7 +18,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.106442"
+      "crawled_at": "2026-07-31T20:00:19.148273"
     },
     {
       "title": "California Will Add Science Scores to Its School Accountability System. Why It Matters",
@@ -26,7 +26,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.127808"
+      "crawled_at": "2026-07-31T20:00:19.163159"
     },
     {
       "title": "Senate Panel Passes Bill to Reverse Dismantling of Education Department",
@@ -34,7 +34,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.140651"
+      "crawled_at": "2026-07-31T20:00:19.178811"
     },
     {
       "title": "Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support",
@@ -42,7 +42,15 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.153542"
+      "crawled_at": "2026-07-31T20:00:19.195497"
+    },
+    {
+      "title": "Bipartisan Lawmakers Say It’s Time to Rethink America’s Fragile Childcare System",
+      "url": "https://www.the74million.org/zero2eight/state-lawmakers-of-both-parties-say-its-time-to-rethink-americas-fragile-childcare-system/",
+      "date": "July 31, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-07-31T20:00:19.219104"
     },
     {
       "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
@@ -50,7 +58,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.165058"
+      "crawled_at": "2026-07-31T20:00:19.234661"
     },
     {
       "title": "New Mexico Features in National Discussion on Childcare Challenges",
@@ -58,7 +66,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.175582"
+      "crawled_at": "2026-07-31T20:00:19.244271"
     },
     {
       "title": "In Diary, Fauci Bragged of Role in School Closures. At Hearing, He Took the 5th",
@@ -66,7 +74,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.184100"
+      "crawled_at": "2026-07-31T20:00:19.246672"
     },
     {
       "title": "You’re Not Imagining It: Your Kid’s School Supplies Cost More This Year",
@@ -74,7 +82,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.186460"
+      "crawled_at": "2026-07-31T20:00:19.261212"
     },
     {
       "title": "New Staffing Models Put Strong Teachers Out Front",
@@ -82,7 +90,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.200154"
+      "crawled_at": "2026-07-31T20:00:19.272576"
     },
     {
       "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
@@ -90,7 +98,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.210641"
+      "crawled_at": "2026-07-31T20:00:19.284103"
     },
     {
       "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
@@ -98,7 +106,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.218968"
+      "crawled_at": "2026-07-31T20:00:19.294484"
     },
     {
       "title": "Colorado Officials Knew ‘Public Christian School’ Was Religious Before It Opened. They Didn’t Stop It.",
@@ -106,7 +114,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.228625"
+      "crawled_at": "2026-07-31T20:00:19.310097"
     },
     {
       "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
@@ -114,7 +122,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.237275"
+      "crawled_at": "2026-07-31T20:00:19.312469"
     },
     {
       "title": "New Report Ties Chronic Absenteeism to Sluggish Academic Outcomes",
@@ -122,7 +130,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.245774"
+      "crawled_at": "2026-07-31T20:00:19.332607"
     },
     {
       "title": "52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In",
@@ -130,7 +138,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.254195"
+      "crawled_at": "2026-07-31T20:00:19.354536"
     },
     {
       "title": "One Year Later, 988 Still Doesn’t Have a Hotline for LGBTQ+ Youth",
@@ -138,7 +146,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.256528"
+      "crawled_at": "2026-07-31T20:00:19.370020"
     },
     {
       "title": "What to Know About the Texas ‘Robin Hood’ School Funding System",
@@ -146,7 +154,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.264092"
+      "crawled_at": "2026-07-31T20:00:19.372440"
     },
     {
       "title": "Oklahoma Data Shows Lack of Fully Trained Teachers Entering the Classroom",
@@ -154,7 +162,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.275161"
+      "crawled_at": "2026-07-31T20:00:19.386930"
     },
     {
       "title": "Settling Scores: Experts Debate Why AP Performance Has Soared",
@@ -162,7 +170,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.279862"
+      "crawled_at": "2026-07-31T20:00:19.399393"
     },
     {
       "title": "Head Start, Explained. How Changes to Early Education Program Affect California Families",
@@ -170,7 +178,7 @@
       "date": "July 26, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.290629"
+      "crawled_at": "2026-07-31T20:00:19.415056"
     },
     {
       "title": "Rural NY School District Will Be One of First to Bring Humanoid Robot Into Classroom",
@@ -178,7 +186,7 @@
       "date": "July 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.299995"
+      "crawled_at": "2026-07-31T20:00:19.440430"
     },
     {
       "title": "What’s Next on North Carolina’s Literacy Journey?",
@@ -186,7 +194,7 @@
       "date": "July 25, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.309140"
+      "crawled_at": "2026-07-31T20:00:19.456841"
     },
     {
       "title": "What the Data Says About Rhode Island’s 7-year Takeover of Providence Schools",
@@ -194,15 +202,7 @@
       "date": "July 24, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.314611"
-    },
-    {
-      "title": "Students Convene to Hammer Out AI Bill of Rights for Schools",
-      "url": "https://www.the74million.org/article/students-convene-to-hammer-out-ai-bill-of-rights-for-schools/",
-      "date": "July 24, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-07-31T12:00:18.325407"
+      "crawled_at": "2026-07-31T20:00:19.459228"
     }
   ]
 }

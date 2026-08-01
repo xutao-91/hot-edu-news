@@ -1,7 +1,7 @@
 {
   "source": "University of Kansas News",
   "source_url": "https://news.ku.edu/news",
-  "crawled_at": "2026-07-31T12:00:26.170884",
+  "crawled_at": "2026-07-31T20:00:25.441953",
   "total_news": 5,
   "news": [
     {
@@ -41,8 +41,8 @@
       "category": "general"
     },
     {
-      "title": "As National Friendship Day nears, research shows people aren’t lonelier — they’re changing how they spend their time",
-      "url": "https://news.ku.edu/news/article/as-national-friendship-day-nears-research-shows-people-arent-lonelier-theyre-changing-how-they-spend-their-time",
+      "title": "Research shows people aren’t lonelier — they’re changing how they spend their time",
+      "url": "https://news.ku.edu/news/article/research-shows-people-arent-lonelier-theyre-changing-how-they-spend-their-time",
       "date": "2026-07-28",
       "type": "News",
       "summary_en": "University of Kansas researcher Jeffrey Hall and American Friendship Project colleagues have conducted studies on how and why people spend time with their friends. As National Friendship Day approaches, the researchers can discuss why people are spending less time in person with friends.",

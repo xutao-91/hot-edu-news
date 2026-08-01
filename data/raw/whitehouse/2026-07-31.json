@@ -1,9 +1,30 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-07-31T12:00:30.660907",
-  "total_news": 9,
+  "crawled_at": "2026-07-31T20:00:34.989232",
+  "total_news": 10,
   "news": [
+    {
+      "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/",
+      "date": "July 31, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Hosts Historic Cabinet Meeting at Camp David",
+      "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/",
+      "date": "July 31, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "ICYMI: Confirm Todd Blanche as Attorney General",
+      "url": "https://www.whitehouse.gov/releases/2026/07/icymi-confirm-todd-blanche-as-attorney-general/",
+      "date": "July 31, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Fact Sheet: President Donald J. Trump Delegates Defense Production Act Authority with Respect to Recoverable Critical Minerals and Materials That Are Essential to Our National Defense",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/07/fact-sheet-president-donald-j-trump-delegates-defense-production-act-authority-with-respect-to-recoverable-critical-minerals-and-materials-that-are-essential-to-our-national-defense/",
@@ -51,20 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/07/crime-plummets-another-historic-low-under-president-trump/",
       "date": "July 29, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump on Fox & Friends: America’s Unrelenting Strength Keeps Maximum Pressure on Iran",
-      "url": "https://www.whitehouse.gov/releases/2026/07/president-trump-on-fox-friends-americas-unrelenting-strength-keeps-maximum-pressure-on-iran/",
-      "date": "July 28, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on the 45th Anniversary of the Martyrdom of Father Stanley Rother",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/07/presidential-message-on-the-45th-anniversary-of-the-martyrdom-of-father-stanley-rother/",
-      "date": "July 28, 2026",
-      "category": "Briefings & Statements",
       "source": "The White House"
     }
   ]

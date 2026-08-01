@@ -1,14 +1,23 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-07-31T12:00:24.051095",
-  "total_news": 3,
+  "crawled_at": "2026-07-31T20:00:27.781508",
+  "total_news": 4,
   "news": [
     {
-      "title": "IU physicists part of team installing upgrades to CERN’s Large Hadron Collider",
-      "url": "https://news.iu.edu/college/live/news/51899-iu-physicists-begin-installing-upgrades-to-worlds",
-      "date": "Jul 28, 2026",
-      "type": "Science and Technology",
+      "title": "IU scholars to co-lead $6M NEH grant on project confronting antisemitism worldwide",
+      "url": "https://news.iu.edu/live/news/51894-iu-scholars-to-co-lead-6m-neh-grant-on-project",
+      "date": "Jul 30, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Community listening leads to new housing resource for Central Indiana residents",
+      "url": "https://news.iu.edu/publichealth/live/news/51926-community-listening-leads-to-new-housing-resource",
+      "date": "Jul 31, 2026",
+      "type": "Health and Wellness",
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"
@@ -23,10 +32,10 @@
       "category": "faculty"
     },
     {
-      "title": "IU scholars to co-lead $6M NEH grant on project confronting antisemitism worldwide",
-      "url": "https://news.iu.edu/live/news/51894-iu-scholars-to-co-lead-6m-neh-grant-on-project",
-      "date": "Jul 30, 2026",
-      "type": "Arts and Humanities",
+      "title": "IU physicists part of team installing upgrades to CERN’s Large Hadron Collider",
+      "url": "https://news.iu.edu/college/live/news/51899-iu-physicists-begin-installing-upgrades-to-worlds",
+      "date": "Jul 28, 2026",
+      "type": "Science and Technology",
       "summary_en": "",
       "source": "Indiana University",
       "category": "general"

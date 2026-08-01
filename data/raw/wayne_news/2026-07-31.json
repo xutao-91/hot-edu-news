@@ -1,8 +1,8 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-07-31T12:00:17.470653",
-  "total_news": 5,
+  "crawled_at": "2026-07-31T20:00:15.367963",
+  "total_news": 6,
   "news": [
     {
       "title": "WSU selects Dr. Nathalia Jaramillo as director of CLLAS",
@@ -12,6 +12,15 @@
       "summary_en": "",
       "source": "Wayne State News",
       "category": "general"
+    },
+    {
+      "title": "WSU chemistry chair and AVP for research and innovation named fellow of Royal Society of Chemistry",
+      "url": "https://clas.wayne.edu/chemistry/news/wsu-chemistry-chair-and-avp-for-research-and-innovation-named-fellow-of-royal-society-of-chemistry-69866",
+      "date": "2026-07-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
     },
     {
       "title": "WSU partnership helps Detroit students build futures in tech",

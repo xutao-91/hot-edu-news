@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-07-31T12:00:28.074231",
-  "total_news": 3,
+  "crawled_at": "2026-07-31T20:00:32.292212",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Tiny feet on cells sense defects, stall migration to heal wounds",
+      "url": "https://engineering.washu.edu/news/2026/Tiny-feet-on-cells-sense-defects-stall-migration-to-heal-wounds.html",
+      "date": "2026-07-31",
+      "type": "News",
+      "summary_en": "Finding in Amit Pathak’s lab impacts injury sensing by cells.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "Lew elected as senior member of SPIE",
       "url": "https://engineering.washu.edu/news/2026/Lew-elected-as-senior-member-of-SPIE.html",

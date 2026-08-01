@@ -15424,5 +15424,71 @@
     "fetch_time": "2026-07-31T12:00:30.015559",
     "title": "In a quiet UChicago garden, volunteers cultivate food and community",
     "category": "education"
+  },
+  "https://bridgemi.com/talent-education/michigan-fills-free-college-gap-lowers-eligibility-to-21-for-now/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-07-31T20:00:13.945601",
+    "title": "Michigan fills free college gap, lowers eligibility to 21 — for now",
+    "category": "education"
+  },
+  "https://clas.wayne.edu/chemistry/news/wsu-chemistry-chair-and-avp-for-research-and-innovation-named-fellow-of-royal-society-of-chemistry-69866": {
+    "source": "wayne_news",
+    "fetch_time": "2026-07-31T20:00:16.089783",
+    "title": "WSU chemistry chair and AVP for research and innovation named fellow of Royal Society of Chemistry",
+    "category": "ai"
+  },
+  "https://www.the74million.org/zero2eight/state-lawmakers-of-both-parties-say-its-time-to-rethink-americas-fragile-childcare-system/": {
+    "source": "the74_news",
+    "fetch_time": "2026-07-31T20:00:20.485322",
+    "title": "Bipartisan Lawmakers Say It’s Time to Rethink America’s Fragile Childcare System",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/research-shows-people-arent-lonelier-theyre-changing-how-they-spend-their-time": {
+    "source": "ku_news",
+    "fetch_time": "2026-07-31T20:00:26.499192",
+    "title": "Research shows people aren’t lonelier — they’re changing how they spend their time",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-54-more-candidates-for-legislature/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-07-31T20:00:27.177050",
+    "title": "Education Minnesota endorses 54 more candidates for Legislature",
+    "category": "education"
+  },
+  "https://news.iu.edu/publichealth/live/news/51926-community-listening-leads-to-new-housing-resource": {
+    "source": "iu_news",
+    "fetch_time": "2026-07-31T20:00:28.632035",
+    "title": "Community listening leads to new housing resource for Central Indiana residents",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Tiny-feet-on-cells-sense-defects-stall-migration-to-heal-wounds.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-07-31T20:00:33.465975",
+    "title": "Tiny feet on cells sense defects, stall migration to heal wounds",
+    "category": "general"
+  },
+  "https://www.acenet.edu/Pages/ACE-ED-Title-VI-Regulatory-Framework.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-07-31T20:00:34.889351",
+    "title": "ACE, Others Urge ED to Preserve Title VI Regulatory Framework",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/07/to-facilitate-positive-adjustment-to-competition-from-imports-of-quartz-surface-products/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-31T20:00:35.201991",
+    "title": "To Facilitate Positive Adjustment to Competition from Imports of Quartz Surface Products",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/president-trump-hosts-historic-cabinet-meeting-at-camp-david/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-31T20:00:35.202014",
+    "title": "President Trump Hosts Historic Cabinet Meeting at Camp David",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/07/icymi-confirm-todd-blanche-as-attorney-general/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-07-31T20:00:35.202025",
+    "title": "ICYMI: Confirm Todd Blanche as Attorney General",
+    "category": "semiconductor"
   }
 }
