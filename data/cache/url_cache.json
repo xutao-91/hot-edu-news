@@ -15496,5 +15496,11 @@
     "fetch_time": "2026-08-01T12:00:19.778553",
     "title": "Gov. Stein Announces STEP-NC, the First Health Care Apprenticeship Program in State Government",
     "category": "semiconductor"
+  },
+  "https://cse.umn.edu/college/news/cse-2026-minnesota-state-fair": {
+    "source": "umn_cse",
+    "fetch_time": "2026-08-01T20:00:22.561549",
+    "title": "CSE at the 2026 Minnesota State Fair",
+    "category": "education"
   }
 }
