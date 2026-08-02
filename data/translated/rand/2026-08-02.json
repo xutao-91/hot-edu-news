@@ -1,0 +1,26 @@
+[
+  {
+    "title": "A Structured Approach to Identifying and Characterizing AI Vulnerabilities",
+    "url": "https://www.rand.org/pubs/research_reports/RRA4983-1.html",
+    "date": "Jul 30, 2026",
+    "type": "Research",
+    "summary_en": "RAND researchers present a structured framework for identifying and characterizing security weaknesses in generative artificial intelligence systems. They identify 31 distinct classes of vulnerabilities and offer practical mitigation strategies.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "A Structured Approach to Identifying and Characterizing AI Vulnerabilities",
+    "summary_cn": "",
+    "_sort_date": "2026-07-30"
+  },
+  {
+    "title": "Trends in Perception of Generative AI in Healthcare by US Adult Demographics and Political Identity",
+    "url": "https://www.rand.org/pubs/external_publications/EP71364.html",
+    "date": "Jul 30, 2026",
+    "type": "Research",
+    "summary_en": "Emerging divides suggest receptivity to genAI in healthcare may become increasingly shaped by political identity rather than clinical evidence or personal experience, complicating equitable deployment.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Trends in Perception of Generative AI in Healthcare by US Adult Demographics and Political Identity",
+    "summary_cn": "",
+    "_sort_date": "2026-07-30"
+  }
+]

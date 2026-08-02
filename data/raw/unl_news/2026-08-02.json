@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-08-02T12:00:16.610912",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "McGee finds calling through personal experience, hands-on research",
+      "url": "https://news.unl.edu/article/mcgee-finds-calling-through-personal-experience-hands-on-research",
+      "date": "2026-07-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Eroshenko brings Nebraska expertise to international soil competition",
+      "url": "https://news.unl.edu/article/eroshenko-brings-nebraska-expertise-to-international-soil-competition",
+      "date": "2026-07-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Achievements | Honors, appointments and publications for July 31",
+      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-july-31",
+      "date": "2026-07-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Search relaunches for executive director of Raikes School",
+      "url": "https://news.unl.edu/article/search-relaunches-for-executive-director-of-raikes-school",
+      "date": "2026-07-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker team earns elite NSF award to drive next generation of materials research",
+      "url": "https://news.unl.edu/article/husker-team-earns-elite-nsf-award-to-drive-next-generation-of-materials-research",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

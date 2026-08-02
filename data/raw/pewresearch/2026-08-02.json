@@ -1,0 +1,35 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-08-02T12:00:07.358991",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Favorable views of Supreme Court remain near historic low",
+      "url": "https://www.pewresearch.org/short-reads/2026/07/30/favorable-views-of-supreme-court-remain-near-historic-low/",
+      "date": "Jul 30, 2026",
+      "type": "short reads",
+      "categories": [
+        "Partisanship Issues",
+        "Political Polarization",
+        "Supreme Court",
+        "Trust In Government"
+      ],
+      "summary_en": "Half of Americans currently hold an unfavorable opinion of the Supreme Court, while roughly as many view the court favorably.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/07/30/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "date": "Jul 30, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science"
+      ],
+      "summary_en": "In this post, we’ll share our current guidelines for the internal use of artificial intelligence and potential areas of experimentation.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

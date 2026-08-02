@@ -5,9 +5,39 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 02 Aug 2026 01:00:37 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:00:35 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+        <title>Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions</title>
+        <link>https://www.the74million.org/article/pritzker-signs-school-cellphone-ban-to-avoid-student-distractions/</link>
+        <description></description>
+        <pubDate>Sun, 02 Aug 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/article/pritzker-signs-school-cellphone-ban-to-avoid-student-distractions/</guid>
+        <category>综合</category>
+        <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>They Once Taught About a Hero. Now Faculty Rethink César Chávez Lessons</title>
+        <link>https://www.the74million.org/article/they-once-taught-about-a-hero-now-faculty-rethink-cesar-chavez-lessons/</link>
+        <description></description>
+        <pubDate>Sun, 02 Aug 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.the74million.org/article/they-once-taught-about-a-hero-now-faculty-rethink-cesar-chavez-lessons/</guid>
+        <category>综合</category>
+        <source>the74_news</source>
+    </item>
+    
+    <item>
+        <title>The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...</title>
+        <link>https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</link>
+        <description></description>
+        <pubDate>Sun, 02 Aug 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</guid>
+        <category>policy</category>
+        <source>Heritage Foundation</source>
+    </item>
     
     <item>
         <title>Gov. Stein Announces STEP-NC, the First Health Care Apprenticeship Program in State Government</title>
@@ -17,16 +47,6 @@
         <guid isPermaLink="true">https://www.the74million.org/article/gov-stein-announces-step-nc-the-first-health-care-apprenticeship-program-in-state-government/</guid>
         <category>综合</category>
         <source>the74_news</source>
-    </item>
-    
-    <item>
-        <title>The Death of Recess: Children’s Health, Education Policy, and the Cost of Mod...</title>
-        <link>https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</link>
-        <description></description>
-        <pubDate>Sat, 01 Aug 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.heritage.org/education/event/the-death-recess-childrens-health-education-policy-and-the-cost-modern-schooling</guid>
-        <category>policy</category>
-        <source>Heritage Foundation</source>
     </item>
     
     <item>
@@ -187,26 +207,6 @@
         <guid isPermaLink="true">https://clas.wayne.edu/chemistry/news/wsu-chemistry-chair-and-avp-for-research-and-innovation-named-fellow-of-royal-society-of-chemistry-69866</guid>
         <category>research</category>
         <source>Wayne State News</source>
-    </item>
-    
-    <item>
-        <title>UNI is building stronger communities through the Heartland Economic Development Course</title>
-        <link>https://insideuni.uni.edu/business/uni-building-stronger-communities-through-heartland-economic-development-course</link>
-        <description></description>
-        <pubDate>Fri, 31 Jul 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://insideuni.uni.edu/business/uni-building-stronger-communities-through-heartland-economic-development-course</guid>
-        <category>综合</category>
-        <source>UNI News</source>
-    </item>
-    
-    <item>
-        <title>Higher education’s grade inflation conundrum</title>
-        <link>https://www.ecampusnews.com/campus-leadership/2026/07/31/higher-educations-grade-inflation-conundrum/</link>
-        <description></description>
-        <pubDate>Fri, 31 Jul 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.ecampusnews.com/campus-leadership/2026/07/31/higher-educations-grade-inflation-conundrum/</guid>
-        <category>高等教育</category>
-        <source>eCampus News</source>
     </item>
     
 </channel>

@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-02T12:00:29.370766",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "In a quiet UChicago garden, volunteers cultivate food and community",
+      "url": "https://news.uchicago.edu/story/quiet-uchicago-garden-volunteers-cultivate-food-and-community",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "Student-run Phoenix Farms tends beehives, grows mushrooms and welcomes anyone on campus to lend a hand",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "IBM, UChicago demonstrate ‘quantum advantage,’ outperforming traditional computers with a quantum computer",
+      "url": "https://news.uchicago.edu/story/ibm-uchicago-demonstrate-quantum-advantage-outperforming-traditional-computers-quantum",
+      "date": "2026-07-30",
+      "type": "News",
+      "summary_en": "Scientists used a new error correction method to crack a classically intractable problem",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
