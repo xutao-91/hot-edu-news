@@ -1,0 +1,48 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-08-03T12:00:08.673295",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Leaders call for coordinated action as Australia’s social licence shows cracks",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "Public confidence in Australia’s international education sector is under pressure, with leaders warning that social licence can no longer be treated as someone else's problem.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "University College Birmingham unveils £15m hospitality expansion",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-08-03",
+      "type": "Investor",
+      "summary_en": "The university has said the £15 million investment will create more than 150 jobs while giving students paid work, placements and hands-on experience in live commercial environments, as UK universities face growing pressure to deliver stronger career outcomes.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Australia has policy. Where is the strategy?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-08-03",
+      "type": "Voices",
+      "summary_en": "Neil Fitzroy argues that before asking international students to make their case for Australia, Australia must be prepared to make its case to them.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Neil Fitzroy"
+    },
+    {
+      "title": "US: Trump administration considers $100,000 OPT fee",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-07-31",
+      "type": "Policy",
+      "summary_en": "The Trump administration is reportedly weighing a plan to fix a $100,000 fee onto America’s post-graduation employment program for international students known as Optional Practical Training (OPT).",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    }
+  ]
+}

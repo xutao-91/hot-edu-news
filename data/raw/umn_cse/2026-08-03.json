@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-08-03T12:00:22.746569",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "CSE at the 2026 Minnesota State Fair",
+      "url": "https://cse.umn.edu/college/news/cse-2026-minnesota-state-fair",
+      "date": "2026-07-31",
+      "type": "Events",
+      "summary_en": "A variety of College of Science and Engineering exhibits will showcase the relevance of science, engineering, and mathematics to people’s everyday lives at the 2026 Minnesota State Fair.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}

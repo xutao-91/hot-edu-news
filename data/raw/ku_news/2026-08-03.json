@@ -1,0 +1,44 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-03T12:00:25.541950",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Graduates of KLETC’s 360th Basic Training Class take oath of office",
+      "url": "https://news.ku.edu/news/article/graduates-of-kletcs-360th-basic-training-class-take-oath-of-office",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "U.S. Rep. Ron Estes addressed the graduates of the Kansas Law Enforcement Training Center on July 31 as they completed their 14-week basic training course.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Spencer Museum announces KU Common Work of Art for 2026-2027",
+      "url": "https://news.ku.edu/news/article/spencer-museum-announces-ku-common-work-of-art-for-2026-2027",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "The Spencer Museum of Art at the University of Kansas has selected the painting “Winter Flight” by Kay WalkingStick as the KU Common Work of Art for the 2026-2027 academic year. The painting complements themes from the KU Reads book, “Orbital” by Samantha Harvey.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Students lead community-minded service projects through KU Trailblazers Program",
+      "url": "https://news.ku.edu/news/article/students-lead-community-minded-service-projects-through-ku-trailblazers-program",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "The University of Kansas Center for Service Learning has received external funding to support the continuation of the CSL’s Trailblazers Mini-Grant and Cohort Program. The 2025-2026 cohort included more than 25 student Trailblazers across 16 projects focused on sustainability, youth development, health and more.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Research finds rhetoric around #MeToo often focused on punishment, not causes of violence",
+      "url": "https://news.ku.edu/news/article/research-finds-rhetoric-around-metoo-often-focused-on-punishment-not-causes-of-violence",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "Meggie Mapes, a communication studies researcher at the University of Kansas, has found in a new study that rhetoric around the #MeToo movement often focused on punishment and \"carceral feminism\" instead of causes of gender-based violence. The work shows how punishment is a common part of communication in society, the author argues.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

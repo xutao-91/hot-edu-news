@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-08-03T12:00:30.313185",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE, Others Urge ED to Preserve Title VI Regulatory Framework",
+      "url": "https://www.acenet.edu/Pages/ACE-ED-Title-VI-Regulatory-Framework.aspx",
+      "date": "July 31, 2026",
+      "type": "News",
+      "summary_en": "​​​​​ACE and a group of other higher ed associations urged the ED to withdraw its proposal to rescind the regulations governing the Title VI International Education Programs and the Fulbright-Hays Program.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}
