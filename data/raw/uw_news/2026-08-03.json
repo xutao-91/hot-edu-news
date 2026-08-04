@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-08-03T12:00:18.788229",
-  "total_news": 2,
+  "crawled_at": "2026-08-03T20:00:18.836213",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Shim, Russell reappointed to dean roles",
+      "url": "https://news.wisc.edu/shim-russell-reappointed-to-dean-roles/",
+      "date": "August 3, 2026",
+      "type": "News",
+      "summary_en": "The deans of the School of Human Ecology and the Division of Continuing Studies recently completed a dean review.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "August 3 campus cooling update",
       "url": "https://news.wisc.edu/august-3-campus-cooling-update/",
@@ -14,7 +23,7 @@
       "category": "campus"
     },
     {
-      "title": "Igniting Interdisciplinary Innovation: Campus-wide initiative brings hundreds of researchers together to tackle society’s most complex challenges",
+      "title": "Igniting interdisciplinary innovation: Campuswide initiative brings hundreds of researchers together to tackle society’s most complex challenges",
       "url": "https://research.wisc.edu/press-release/2026/07/27/igniting-interdisciplinary-innovation-campus-wide-initiative-brings-hundreds-of-researchers-together-to-tackle-societys-most-complex-challenges/",
       "date": "August 3, 2026",
       "type": "News",

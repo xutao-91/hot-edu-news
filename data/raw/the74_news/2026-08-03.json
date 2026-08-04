@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-08-03T12:00:21.654524",
+  "crawled_at": "2026-08-03T20:00:23.173972",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,7 @@
       "date": "August 03, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.437234"
+      "crawled_at": "2026-08-03T20:00:22.941892"
     },
     {
       "title": "Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center",
@@ -18,7 +18,7 @@
       "date": "August 03, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.450561"
+      "crawled_at": "2026-08-03T20:00:22.958160"
     },
     {
       "title": "Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions",
@@ -26,7 +26,7 @@
       "date": "August 03, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.462584"
+      "crawled_at": "2026-08-03T20:00:22.970037"
     },
     {
       "title": "They Once Taught About a Hero. Now Faculty Rethink César Chávez Lessons",
@@ -34,7 +34,7 @@
       "date": "August 03, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.475108"
+      "crawled_at": "2026-08-03T20:00:22.982420"
     },
     {
       "title": "Gov. Stein Announces STEP-NC, the First Health Care Apprenticeship Program in State Government",
@@ -42,7 +42,15 @@
       "date": "August 03, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.487584"
+      "crawled_at": "2026-08-03T20:00:22.994866"
+    },
+    {
+      "title": "Trump Overhaul Could Gut Head Start Standards, Leaving States to Set the Rules",
+      "url": "https://www.the74million.org/zero2eight/trump-overhaul-could-gut-head-start-standards-leaving-states-to-set-the-rules/",
+      "date": "August 3, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-03T20:00:23.006412"
     },
     {
       "title": "Who Decides Which Stories Children Get to Read?",
@@ -50,7 +58,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.499142"
+      "crawled_at": "2026-08-03T20:00:23.018108"
     },
     {
       "title": "Bipartisan Lawmakers Say It’s Time to Rethink America’s Fragile Childcare System",
@@ -58,7 +66,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.510622"
+      "crawled_at": "2026-08-03T20:00:23.020469"
     },
     {
       "title": "West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law",
@@ -66,7 +74,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.519039"
+      "crawled_at": "2026-08-03T20:00:23.031915"
     },
     {
       "title": "California Will Add Science Scores to Its School Accountability System. Why It Matters",
@@ -74,7 +82,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.521313"
+      "crawled_at": "2026-08-03T20:00:23.040435"
     },
     {
       "title": "Senate Panel Passes Bill to Reverse Dismantling of Education Department",
@@ -82,7 +90,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.530478"
+      "crawled_at": "2026-08-03T20:00:23.048928"
     },
     {
       "title": "Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support",
@@ -90,7 +98,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.535890"
+      "crawled_at": "2026-08-03T20:00:23.057338"
     },
     {
       "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
@@ -98,7 +106,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.544387"
+      "crawled_at": "2026-08-03T20:00:23.066654"
     },
     {
       "title": "New Mexico Features in National Discussion on Childcare Challenges",
@@ -106,7 +114,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.552860"
+      "crawled_at": "2026-08-03T20:00:23.069541"
     },
     {
       "title": "In Diary, Fauci Bragged of Role in School Closures. At Hearing, He Took the 5th",
@@ -114,7 +122,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.561303"
+      "crawled_at": "2026-08-03T20:00:23.078003"
     },
     {
       "title": "You’re Not Imagining It: Your Kid’s School Supplies Cost More This Year",
@@ -122,7 +130,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.563622"
+      "crawled_at": "2026-08-03T20:00:23.085512"
     },
     {
       "title": "New Staffing Models Put Strong Teachers Out Front",
@@ -130,7 +138,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.572117"
+      "crawled_at": "2026-08-03T20:00:23.095045"
     },
     {
       "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
@@ -138,7 +146,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.580604"
+      "crawled_at": "2026-08-03T20:00:23.106896"
     },
     {
       "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
@@ -146,7 +154,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.589140"
+      "crawled_at": "2026-08-03T20:00:23.118406"
     },
     {
       "title": "Colorado Officials Knew ‘Public Christian School’ Was Religious Before It Opened. They Didn’t Stop It.",
@@ -154,7 +162,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.597629"
+      "crawled_at": "2026-08-03T20:00:23.129145"
     },
     {
       "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
@@ -162,7 +170,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.606095"
+      "crawled_at": "2026-08-03T20:00:23.131355"
     },
     {
       "title": "New Report Ties Chronic Absenteeism to Sluggish Academic Outcomes",
@@ -170,7 +178,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.608392"
+      "crawled_at": "2026-08-03T20:00:23.142746"
     },
     {
       "title": "52 Million U.S. Kids Eligible for New Scholarships, but California Hasn’t Opted In",
@@ -178,7 +186,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.616858"
+      "crawled_at": "2026-08-03T20:00:23.154230"
     },
     {
       "title": "One Year Later, 988 Still Doesn’t Have a Hotline for LGBTQ+ Youth",
@@ -186,7 +194,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.628323"
+      "crawled_at": "2026-08-03T20:00:23.164663"
     },
     {
       "title": "What to Know About the Texas ‘Robin Hood’ School Funding System",
@@ -194,15 +202,7 @@
       "date": "July 27, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.642818"
-    },
-    {
-      "title": "Oklahoma Data Shows Lack of Fully Trained Teachers Entering the Classroom",
-      "url": "https://www.the74million.org/article/oklahoma-data-shows-lack-of-fully-trained-teachers-entering-the-classroom/",
-      "date": "July 27, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-03T12:00:21.654170"
+      "crawled_at": "2026-08-03T20:00:23.169432"
     }
   ]
 }

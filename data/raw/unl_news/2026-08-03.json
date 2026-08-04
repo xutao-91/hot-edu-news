@@ -1,9 +1,18 @@
 {
   "source": "University of Nebraska-Lincoln News",
   "source_url": "https://news.unl.edu/headlines",
-  "crawled_at": "2026-08-03T12:00:16.502553",
-  "total_news": 7,
+  "crawled_at": "2026-08-03T20:00:18.128635",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Silversten to lead UComm following national search",
+      "url": "https://news.unl.edu/article/silversten-to-lead-ucomm-following-national-search",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
     {
       "title": "Nebraska to grant approximately 600 degrees in August ceremony",
       "url": "https://news.unl.edu/article/nebraska-to-grant-approximately-600-degrees-in-august-ceremony",

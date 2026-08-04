@@ -1,7 +1,17 @@
 {
   "source": "University of Notre Dame News",
   "source_url": "https://news.nd.edu/news/category/university-news/",
-  "crawled_at": "2026-08-03T12:00:07.247834",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-03T20:00:07.637741",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "In memoriam: Gilberto Cárdenas, professor emeritus of sociology and founding director of the Institute of Latino Studies",
+      "url": "https://news.nd.edu/news/in-memoriam-gilberto-cardenas-professor-emeritus-of-sociology-and-founding-director-of-the-institute-of-latino-studies/",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "academic"
+    }
+  ]
 }

@@ -1,9 +1,18 @@
 {
   "source": "ACE - American Council on Education",
   "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
-  "crawled_at": "2026-08-03T12:00:30.313185",
-  "total_news": 1,
+  "crawled_at": "2026-08-03T20:00:30.747500",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Senate Spending Bill Would Temporarily Block OMB's Federal Grants Overhaul",
+      "url": "https://www.acenet.edu/News-Room/Pages/Senate-Bill-Would-Block-OMB-Grant-Rule.aspx",
+      "date": "August 3, 2026",
+      "type": "News",
+      "summary_en": "A spending bill released by the Senate Appropriations Committee would delay implementation of the Trump administration's proposed overhaul of federal grants regulations, which drew more than 50,000 overwhelmingly negative public comments.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
     {
       "title": "ACE, Others Urge ED to Preserve Title VI Regulatory Framework",
       "url": "https://www.acenet.edu/Pages/ACE-ED-Title-VI-Regulatory-Framework.aspx",

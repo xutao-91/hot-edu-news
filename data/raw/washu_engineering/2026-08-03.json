@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-08-03T12:00:28.642516",
-  "total_news": 1,
+  "crawled_at": "2026-08-03T20:00:29.850962",
+  "total_news": 2,
   "news": [
+    {
+      "title": "McKelvey Engineering students travel to England for EECE International Experience",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-students-travel-to-England-for-EECE-International-Experience.html",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "Program includes two-week trip, fall semester elective.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
     {
       "title": "Tiny feet on cells sense defects, stall migration to heal wounds",
       "url": "https://engineering.washu.edu/news/2026/Tiny-feet-on-cells-sense-defects-stall-migration-to-heal-wounds.html",

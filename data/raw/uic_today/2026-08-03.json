@@ -1,7 +1,26 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-08-03T12:00:26.333298",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-03T20:00:26.345431",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC nationally recognized for degree pathway program",
+      "url": "https://today.uic.edu/uic-nationally-recognized-for-degree-pathway-program/",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "The Wieman Award for Excellence recognizes the university’s role in Chicago Roadmap 2.0.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC researchers develop new drug to attack an enduring killer",
+      "url": "https://today.uic.edu/uic-researchers-develop-new-drug-to-attack-an-enduring-killer/",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "The “irresistible” innovation defeats malaria in a single dose.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
 }

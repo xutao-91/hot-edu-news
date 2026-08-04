@@ -1,7 +1,21 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-08-03T12:00:07.437930",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-03T20:00:07.694859",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "What do Americans think about language learning in U.S. schools?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/03/what-do-americans-think-about-language-learning-in-us-schools/",
+      "date": "Aug 3, 2026",
+      "type": "short reads",
+      "categories": [
+        "Education",
+        "K 12"
+      ],
+      "summary_en": "Four-in-ten Americans say it is extremely or very important for children growing up in the U.S. to learn a language other than English.",
+      "source": "Pew Research Center",
+      "category": "education"
+    }
+  ]
 }
