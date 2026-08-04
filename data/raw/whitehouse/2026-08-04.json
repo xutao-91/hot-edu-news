@@ -1,0 +1,29 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-08-04T12:00:29.551143",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years",
+      "url": "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/",
+      "date": "August 3, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Establishing the President’s Military Spouse Commission",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/",
+      "date": "August 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Establishes the President’s Military Spouse Commission",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
+      "date": "August 3, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    }
+  ]
+}

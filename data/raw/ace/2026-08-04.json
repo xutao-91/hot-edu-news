@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-08-04T12:00:29.682875",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Senate Spending Bill Would Temporarily Block OMB's Federal Grants Overhaul",
+      "url": "https://www.acenet.edu/News-Room/Pages/Senate-Bill-Would-Block-OMB-Grant-Rule.aspx",
+      "date": "August 3, 2026",
+      "type": "News",
+      "summary_en": "A spending bill released by the Senate Appropriations Committee would delay implementation of the Trump administration's proposed overhaul of federal grants regulations, which drew more than 50,000 overwhelmingly negative public comments.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
+}
