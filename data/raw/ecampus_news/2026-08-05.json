@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-05T12:00:20.649173",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How we recovered student trust after big Wi-Fi challenges",
+      "url": "https://www.ecampusnews.com/it-leadership/2026/08/05/how-we-recovered-student-trust-after-big-wi-fi-challenges/",
+      "date": "2026-08-05",
+      "type": "IT Infrastructure",
+      "summary_en": "Every day I come to work at Gettysburg College wearing a college-branded cap that I bought with a $25 gift card, presented to me by the Student Senate for leading an effort to improve student access to the campus Wi-Fi.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Employers keep talking about durable skills–they may come from surprising places",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/08/03/employers-keep-talking-about-durable-skills/",
+      "date": "2026-08-03",
+      "type": "Career Readiness",
+      "summary_en": "Every few years, a new set of skills migrates to the top of employers’ hiring wish lists, and higher education scrambles to respond with retooled curricula, rebranded programs, and freshly minted credentials designed to close whatever gap the labor market has most recently identified.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

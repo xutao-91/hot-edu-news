@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-05T12:00:29.911200",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Can AI Change How We Deal with Disasters?",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/can-ai-change-how-we-deal-with-disasters.html",
+      "date": "Aug 5, 2026",
+      "type": "Podcast",
+      "summary_en": "How might AI tools help emergency management professionals save lives, protect property, and reduce harm to communities?",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "AI and the Future of Emergency Management: Market Supply and Adoption Pathways",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
+      "date": "Aug 4, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors present the results of a landscape assessment of artificial intelligence–enabled products that are available to support the work of emergency management across the United States.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Secure Inference Data Centers: A Vertically Integrated Strategy for Security Engineering",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html",
+      "date": "Aug 4, 2026",
+      "type": "Research",
+      "summary_en": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
+      "source": "Rand Corporation",
+      "category": "stem"
+    },
+    {
+      "title": "The Economics of AI Counterproliferation: A Stylized Economic Framework",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
+      "date": "Aug 3, 2026",
+      "type": "Research",
+      "summary_en": "Once an artificial intelligence (AI) capability has been demonstrated at the frontier, the cost of reproducing it tends to fall. A new RAND economic framework shows the implications for governance regimes of AI capabilities and for policy and strategy.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

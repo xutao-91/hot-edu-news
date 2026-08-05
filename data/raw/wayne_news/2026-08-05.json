@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-05T12:00:16.038224",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Working across borders: X-Culture prepares Ilitch School students for a global workforce",
+      "url": "https://ilitchbusiness.wayne.edu/news/working-across-borders-x-culture-prepares-ilitch-school-students-for-a-global-workforce-69788",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State University names Dr. Christina Bloebaum new provost and SVP of academic affairs",
+      "url": "https://today.wayne.edu/news/2026/08/03/wayne-state-university-names-dr-christina-bloebaum-new-provost-and-svp-of-academic-affairs-69870",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

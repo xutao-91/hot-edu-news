@@ -1,0 +1,108 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-08-05T12:00:09.108756",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Benchmarking report maps evolving US international recruitment",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-08-05",
+      "type": "Recruitment & agents",
+      "summary_en": "A new benchmarking report gives US institutions insights into evolving international recruitment practices as policy turbulence and visa challenges dramatically shift the operating environment.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Australia: Pearson launches International Student Advisory Board",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-08-05",
+      "type": "Student experience",
+      "summary_en": "Pearson has launched an International Student Advisory Board, bringing together student leaders from across Australia to shape conversations on education and employability.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Sweeping work permit refusals draw student protests in Canada",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-05",
+      "type": "Policy",
+      "summary_en": "Stakeholders say providing immigration advice to prospective international students should be a mandatory requirement in Canada, following student protests and a hunger strike over a spate of PGWP refusals.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Australian universities urged to rethink engagement with Pakistan",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-05",
+      "type": "Policy",
+      "summary_en": "Speakers at The PIE Live Asia Pacific argued Pakistan is being viewed too narrowly through the lens of visa risk, warning that uncertainty is undermining Australia's competitiveness in one of its fastest-growing student markets.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UK uni faculty uneasy over international student ‘cash cow’ label",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-08-04",
+      "type": "Student experience",
+      "summary_en": "Staff at UK universities are uncomfortable with the 'cash cow' label that has been applied to international students in recent years – despite finding the term and accurate descriptor in the current political climate, a report has found.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Students challenge UK ‘visa brake’ in High Court",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-08-04",
+      "type": "Immigration",
+      "summary_en": "Two landmark cases were brought against the UK Home Office last week, challenging the government’s controversial ‘visa brake’ halting study visa issuance to nationals of Afghanistan, Cameroon, Sudan and Myanmar.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Lessons from Queensland’s K‑12 international leaders",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-08-04",
+      "type": "K-12",
+      "summary_en": "From agent relationships to offshore delivery, school leaders at The PIE High shared what’s shaping international education in Queensland’s schools.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Leaders call for coordinated action as Australia’s social licence shows cracks",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "Public confidence in Australia’s international education sector is under pressure, with leaders warning that social licence can no longer be treated as someone else's problem.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "University College Birmingham unveils £15m hospitality expansion",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-08-03",
+      "type": "Investor",
+      "summary_en": "The university has said the £15 million investment will create more than 150 jobs while giving students paid work, placements and hands-on experience in live commercial environments, as UK universities face growing pressure to deliver stronger career outcomes.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Australia has policy. Where is the strategy?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-08-03",
+      "type": "Voices",
+      "summary_en": "Neil Fitzroy argues that before asking international students to make their case for Australia, Australia must be prepared to make its case to them.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Neil Fitzroy"
+    }
+  ]
+}

@@ -15958,5 +15958,95 @@
     "fetch_time": "2026-08-04T20:00:31.945421",
     "title": "Butler Giving Circle Grant to Fund Interactive Well-Being Platform for Founder’s College Students",
     "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/05/how-confident-are-americans-in-the-midterm-elections-fairness-and-accuracy/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-05T12:00:07.952155",
+    "title": "How confident are Americans in the midterm elections’ fairness and accuracy?",
+    "category": "ai"
+  },
+  "https://science.nd.edu/news-and-media/news/notre-dame-faculty-prestigious-national-science-foundation-early-career-awards-2026/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-05T12:00:08.495573",
+    "title": "Notre Dame faculty win prestigious National Science Foundation early career awards",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/faculty-and-staff-resource-fair.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-05T12:00:10.438195",
+    "title": "K-State employees invited to Faculty and Staff Resource Fair Aug. 18",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/the-schools-turning-to-ai-to-rate-students-beyond-a-f-grades/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-05T12:00:16.562340",
+    "title": "The Schools Turning to AI to Rate Students Beyond A-F Grades",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/measles-cases-hit-35-year-record-high-just-as-kids-head-back-to-school/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-05T12:00:16.562365",
+    "title": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/university-of-nebraska-lincoln-to-welcome-thousands-of-students-aug-16-19": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-05T12:00:17.502640",
+    "title": "University of Nebraska–Lincoln to welcome thousands of students Aug. 16-19",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/it-leadership/2026/08/05/how-we-recovered-student-trust-after-big-wi-fi-challenges/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-08-05T12:00:21.301217",
+    "title": "How we recovered student trust after big Wi-Fi challenges",
+    "category": "education"
+  },
+  "https://www.heritage.org/model-legislation/codify-the-federal-higher-education-compact": {
+    "source": "heritage",
+    "fetch_time": "2026-08-05T12:00:21.801464",
+    "title": "Model State Legislation to Codify the Federal Higher Education Compact",
+    "category": "education"
+  },
+  "https://www.heritage.org/model-legislation/refocus-colleges-and-universities-on-their-fundamental-academic-mission": {
+    "source": "heritage",
+    "fetch_time": "2026-08-05T12:00:21.801493",
+    "title": "An Act to Refocus Colleges and Universities on Their Fundamental Academic Mis...",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0805-purdue-strachan-icon-pcl-nsf-19million-materials": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-05T12:00:24.356308",
+    "title": "MSE's Strachan leads $19M NSF program to develop AI-driven labs for semiconductors, advanced materials",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/with-new-department-of-energy-award-ku-fermilab-team-builds-next-generation-detectors-for-cerns-large-hadron-collider": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-05T12:00:27.364316",
+    "title": "With new Department of Energy award, KU-Fermilab team builds next-generation detectors for CERN’s Large Hadron Collider",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/podcasts/policy-minded/2026/can-ai-change-how-we-deal-with-disasters.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-05T12:00:30.328413",
+    "title": "Can AI Change How We Deal with Disasters?",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/engineered-gut-bacteria-show-promise-against-pancreatic-cancer": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-05T12:00:30.422544",
+    "title": "Engineered gut bacteria show promise against pancreatic cancer",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-05T12:00:31.116751",
+    "title": "President Trump and Republicans Deliver Big Wins for the Silver State",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-05T12:00:31.116775",
+    "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian Asset, Declassified Memos Show",
+    "category": "general"
   }
 }
