@@ -1,8 +1,8 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-08-04T12:00:22.509727",
-  "total_news": 3,
+  "crawled_at": "2026-08-04T20:00:23.138371",
+  "total_news": 6,
   "news": [
     {
       "title": "Purdue MEM students teamed up with Kaaro Health to strengthen rural healthcare operations in Uganda",
@@ -12,6 +12,33 @@
       "summary_en": "A team of Purdue University Master of Engineering Management (MEM) students partnered with Kaaro Health, a social enterprise that provides affordable healthcare to underserved rural communities in Uganda, to develop technology and operations solutions that support the organization’s continued growth.",
       "source": "Purdue College of Engineering",
       "category": "education"
+    },
+    {
+      "title": "PaveX, founded by CCE's Jahanshahi, receives NSF funding to help agencies plan road repairs sooner",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0804-pavex-nsf-funding-road-repair-ai-sensors",
+      "date": "August 4, 2026",
+      "type": "News",
+      "summary_en": "PaveX, a Purdue University-related startup that uses advanced AI to automate road condition assessments and help public works departments maintain infrastructure, has received a $305,000 Phase I Small Business Innovation Research grant from the National Science Foundation (NSF) to develop its technology.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Indianapolis profile: Lindsey Laine",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0804-lindsey-laine-purdue-indianapolis-biomedical-engineering-profile",
+      "date": "August 4, 2026",
+      "type": "News",
+      "summary_en": "Lindsey Laine has taken advantage of close connection opportunities in Indianapolis with leaders from some of the largest companies in the medical and healthcare industries.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Biofuels Consortium to bring biodiesel and ethanol blends to diesel engines",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0804-purdue-biofuels-consortium-to-bring-biodiesel-and-ethanol-blends-to-diesel-engines",
+      "date": "August 4, 2026",
+      "type": "News",
+      "summary_en": "Could tractors start using ethanol as fuel? That’s the project being tackled by Purdue University, John Deere, Cummins, and a consortium of biofuel producers.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
     },
     {
       "title": "Cars, engineering and Ironman competitions fuel first-year student's success",

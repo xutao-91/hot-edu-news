@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-04T12:00:29.551143",
-  "total_news": 3,
+  "crawled_at": "2026-08-04T20:00:30.008361",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Presidential Message on the Birthday of the United States Coast Guard",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/",
+      "date": "August 4, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump’s America First Economic Agenda",
+      "url": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
+      "date": "August 4, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years",
       "url": "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/",

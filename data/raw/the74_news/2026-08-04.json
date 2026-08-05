@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-08-04T12:00:18.836949",
+  "crawled_at": "2026-08-04T20:00:17.706082",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "August 04, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.610351"
+      "crawled_at": "2026-08-04T20:00:17.498340"
+    },
+    {
+      "title": "Oklahoma Jewish Charter Case Heads to Court as Debate Spreads to Other States",
+      "url": "https://www.the74million.org/article/oklahoma-jewish-charter-case-heads-to-court-as-debate-spreads-to-other-states/",
+      "date": "August 04, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-04T20:00:17.510776"
     },
     {
       "title": "How a Years-Long Rise in Teacher Turnover Reshaped American Classrooms",
@@ -18,7 +26,7 @@
       "date": "August 04, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.619670"
+      "crawled_at": "2026-08-04T20:00:17.522290"
     },
     {
       "title": "LAUSD Could Face Layoffs, Furloughs, Closures Amid Projected $231M Shortfall",
@@ -26,7 +34,7 @@
       "date": "August 04, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.628660"
+      "crawled_at": "2026-08-04T20:00:17.532788"
     },
     {
       "title": "Outdoor Ed Programs Canceled for Tens of Thousands of Students After Federal Cuts",
@@ -34,15 +42,7 @@
       "date": "August 04, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.638365"
-    },
-    {
-      "title": "Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center",
-      "url": "https://www.the74million.org/article/exclusive-nearly-1900-u-s-public-schools-within-a-mile-of-a-data-center/",
-      "date": "August 04, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.653295"
+      "crawled_at": "2026-08-04T20:00:17.544462"
     },
     {
       "title": "These New Exams Will Test California 4-Year-Olds’ English Fluency With Playful Games",
@@ -50,7 +50,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.663437"
+      "crawled_at": "2026-08-04T20:00:17.553119"
     },
     {
       "title": "Trump Overhaul Could Gut Head Start Standards, Leaving States to Set the Rules",
@@ -58,7 +58,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.674896"
+      "crawled_at": "2026-08-04T20:00:17.561642"
     },
     {
       "title": "Who Decides Which Stories Children Get to Read?",
@@ -66,7 +66,15 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.677267"
+      "crawled_at": "2026-08-04T20:00:17.570098"
+    },
+    {
+      "title": "Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center",
+      "url": "https://www.the74million.org/article/exclusive-nearly-1900-u-s-public-schools-within-a-mile-of-a-data-center/",
+      "date": "August 3, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-04T20:00:17.578838"
     },
     {
       "title": "Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions",
@@ -74,7 +82,7 @@
       "date": "August 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.688992"
+      "crawled_at": "2026-08-04T20:00:17.587347"
     },
     {
       "title": "They Once Taught About a Hero. Now Faculty Rethink César Chávez Lessons",
@@ -82,7 +90,7 @@
       "date": "August 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.703350"
+      "crawled_at": "2026-08-04T20:00:17.595853"
     },
     {
       "title": "Gov. Stein Announces STEP-NC, the First Health Care Apprenticeship Program in State Government",
@@ -90,7 +98,7 @@
       "date": "August 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.708848"
+      "crawled_at": "2026-08-04T20:00:17.598217"
     },
     {
       "title": "Bipartisan Lawmakers Say It’s Time to Rethink America’s Fragile Childcare System",
@@ -98,7 +106,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.720297"
+      "crawled_at": "2026-08-04T20:00:17.606900"
     },
     {
       "title": "West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law",
@@ -106,7 +114,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.731759"
+      "crawled_at": "2026-08-04T20:00:17.617585"
     },
     {
       "title": "California Will Add Science Scores to Its School Accountability System. Why It Matters",
@@ -114,7 +122,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.746258"
+      "crawled_at": "2026-08-04T20:00:17.629125"
     },
     {
       "title": "Senate Panel Passes Bill to Reverse Dismantling of Education Department",
@@ -122,7 +130,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.748522"
+      "crawled_at": "2026-08-04T20:00:17.631503"
     },
     {
       "title": "Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support",
@@ -130,7 +138,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.759971"
+      "crawled_at": "2026-08-04T20:00:17.644161"
     },
     {
       "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
@@ -138,7 +146,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.771406"
+      "crawled_at": "2026-08-04T20:00:17.651512"
     },
     {
       "title": "New Mexico Features in National Discussion on Childcare Challenges",
@@ -146,7 +154,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.779884"
+      "crawled_at": "2026-08-04T20:00:17.660446"
     },
     {
       "title": "In Diary, Fauci Bragged of Role in School Closures. At Hearing, He Took the 5th",
@@ -154,7 +162,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.794281"
+      "crawled_at": "2026-08-04T20:00:17.668317"
     },
     {
       "title": "You’re Not Imagining It: Your Kid’s School Supplies Cost More This Year",
@@ -162,7 +170,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.800370"
+      "crawled_at": "2026-08-04T20:00:17.677850"
     },
     {
       "title": "New Staffing Models Put Strong Teachers Out Front",
@@ -170,7 +178,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.809038"
+      "crawled_at": "2026-08-04T20:00:17.680192"
     },
     {
       "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
@@ -178,7 +186,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.811283"
+      "crawled_at": "2026-08-04T20:00:17.688670"
     },
     {
       "title": "Gates Foundation Bets on Credentials, AI to Reach Students Before 2045 Sunset",
@@ -186,7 +194,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.819716"
+      "crawled_at": "2026-08-04T20:00:17.697155"
     },
     {
       "title": "Colorado Officials Knew ‘Public Christian School’ Was Religious Before It Opened. They Didn’t Stop It.",
@@ -194,15 +202,7 @@
       "date": "July 28, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.831079"
-    },
-    {
-      "title": "With an Eye to Improvement, New Hampshire Educators Propose New Way to Assess Schools",
-      "url": "https://www.the74million.org/article/with-an-eye-to-improvement-new-hampshire-educators-propose-new-way-to-assess-schools/",
-      "date": "July 28, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-04T12:00:18.836582"
+      "crawled_at": "2026-08-04T20:00:17.705655"
     }
   ]
 }

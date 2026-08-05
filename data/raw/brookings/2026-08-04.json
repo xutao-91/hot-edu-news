@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-08-04T12:00:07.195878",
-  "total_news": 2,
+  "crawled_at": "2026-08-04T20:00:10.737933",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Child care pay still lags despite decades of policy change",
+      "url": "https://www.brookings.edu/articles/child-care-pay-still-lags-despite-decades-of-policy-change/",
+      "author": "Katharine Sadowski",
+      "date": "August 4, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "policy"
+    },
     {
       "title": "Why higher education in the US and England needs a clearer definition of quality",
       "url": "https://www.brookings.edu/articles/why-higher-education-in-the-us-and-england-needs-a-clearer-definition-of-quality/",

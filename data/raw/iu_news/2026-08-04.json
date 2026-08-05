@@ -1,7 +1,26 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-08-04T12:00:23.298657",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-04T20:00:24.429135",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU School of Optometry provides vision care for hundreds of Special Olympics Indiana athletes",
+      "url": "https://blogs.iu.edu/iusonews/2026/08/03/special-olympics-2026/",
+      "date": "Aug 4, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Capital Campus anchors IU students in the middle of international affairs in Washington, DC",
+      "url": "https://news.iu.edu/live/news/51934-capital-campus-anchors-iu-students-in-the-middle",
+      "date": "Aug 3, 2026",
+      "type": "Global",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
 }

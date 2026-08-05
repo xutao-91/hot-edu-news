@@ -15886,5 +15886,77 @@
     "fetch_time": "2026-08-04T12:00:32.035908",
     "title": "Secure Inference Data Centers: A Vertically Integrated Strategy for Security Engineering",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/child-care-pay-still-lags-despite-decades-of-policy-change/": {
+    "source": "brookings",
+    "fetch_time": "2026-08-04T20:00:11.482516",
+    "title": "Child care pay still lags despite decades of policy change",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-nations-first-workforce-pell-grant-program-iowa": {
+    "source": "edgov",
+    "fetch_time": "2026-08-04T20:00:17.882962",
+    "title": "U.S. Department of Education Approves the Nation’s First Workforce Pell Grant Program in Iowa",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/oklahoma-jewish-charter-case-heads-to-court-as-debate-spreads-to-other-states/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-04T20:00:18.534494",
+    "title": "Oklahoma Jewish Charter Case Heads to Court as Debate Spreads to Other States",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0804-pavex-nsf-funding-road-repair-ai-sensors": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-04T20:00:23.810672",
+    "title": "PaveX, founded by CCE's Jahanshahi, receives NSF funding to help agencies plan road repairs sooner",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0804-lindsey-laine-purdue-indianapolis-biomedical-engineering-profile": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-04T20:00:23.810755",
+    "title": "Indianapolis profile: Lindsey Laine",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0804-purdue-biofuels-consortium-to-bring-biodiesel-and-ethanol-blends-to-diesel-engines": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-04T20:00:23.810768",
+    "title": "Purdue Biofuels Consortium to bring biodiesel and ethanol blends to diesel engines",
+    "category": "education"
+  },
+  "https://blogs.iu.edu/iusonews/2026/08/03/special-olympics-2026/": {
+    "source": "iu_news",
+    "fetch_time": "2026-08-04T20:00:25.158462",
+    "title": "IU School of Optometry provides vision care for hundreds of Special Olympics Indiana athletes",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/51934-capital-campus-anchors-iu-students-in-the-middle": {
+    "source": "iu_news",
+    "fetch_time": "2026-08-04T20:00:25.158488",
+    "title": "Capital Campus anchors IU students in the middle of international affairs in Washington, DC",
+    "category": "education"
+  },
+  "https://www.usatoday.com/story/news/politics/2026/08/01/independent-voters-2026-midterm-elections/91037184007/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-04T20:00:29.540925",
+    "title": "Independent voters in 3 key states reveal what moves needle for them",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-04T20:00:30.225774",
+    "title": "Presidential Message on the Birthday of the United States Coast Guard",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-04T20:00:30.225809",
+    "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump’s America First Economic Agenda",
+    "category": "semiconductor"
+  },
+  "https://stories.butler.edu/butler-giving-circle-grant-to-fund-interactive-well-being-platform-for-founders-college-students/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-08-04T20:00:31.945421",
+    "title": "Butler Giving Circle Grant to Fund Interactive Well-Being Platform for Founder’s College Students",
+    "category": "education"
   }
 }

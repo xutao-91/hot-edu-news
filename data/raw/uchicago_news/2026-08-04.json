@@ -1,8 +1,8 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-08-04T12:00:28.802816",
-  "total_news": 2,
+  "crawled_at": "2026-08-04T20:00:29.331986",
+  "total_news": 3,
   "news": [
     {
       "title": "Anthropologist of the Caribbean emphasizes the power of ‘big small places’",
@@ -21,6 +21,15 @@
       "summary_en": "PoLARIS Project will conduct experiments autonomously, allowing researchers to create novel materials from afar",
       "source": "UChicago News",
       "category": "ai"
+    },
+    {
+      "title": "Independent voters in 3 key states reveal what moves needle for them",
+      "url": "https://www.usatoday.com/story/news/politics/2026/08/01/independent-voters-2026-midterm-elections/91037184007/",
+      "date": "2026-08-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
     }
   ]
 }
