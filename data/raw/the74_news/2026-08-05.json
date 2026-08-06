@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-08-05T12:00:15.630134",
+  "crawled_at": "2026-08-05T20:00:19.246082",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "August 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.413151"
+      "crawled_at": "2026-08-05T20:00:19.042486"
+    },
+    {
+      "title": "Maryland Gov. Offers Late Admission, $800 Credit to Disenrolled Howard Students",
+      "url": "https://www.the74million.org/article/moore-offers-late-admission-credit-for-students-impacted-by-howard-university/",
+      "date": "August 05, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-05T20:00:19.051485"
     },
     {
       "title": "The Schools Turning to AI to Rate Students Beyond A-F Grades",
@@ -18,7 +26,7 @@
       "date": "August 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.435253"
+      "crawled_at": "2026-08-05T20:00:19.067003"
     },
     {
       "title": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School",
@@ -26,7 +34,7 @@
       "date": "August 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.447675"
+      "crawled_at": "2026-08-05T20:00:19.079806"
     },
     {
       "title": "Oklahoma Jewish Charter Case Heads to Court as Debate Spreads to Other States",
@@ -34,15 +42,15 @@
       "date": "August 05, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.460511"
+      "crawled_at": "2026-08-05T20:00:19.086524"
     },
     {
       "title": "How a Years-Long Rise in Teacher Turnover Reshaped American Classrooms",
       "url": "https://www.the74million.org/article/how-a-years-long-rise-in-teacher-turnover-reshaped-american-classrooms/",
-      "date": "August 05, 2026",
+      "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.473370"
+      "crawled_at": "2026-08-05T20:00:19.098358"
     },
     {
       "title": "These New Exams Will Test California 4-Year-Olds’ English Fluency With Playful Games",
@@ -50,7 +58,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.489986"
+      "crawled_at": "2026-08-05T20:00:19.108921"
     },
     {
       "title": "LAUSD Could Face Layoffs, Furloughs, Closures Amid Projected $231M Shortfall",
@@ -58,7 +66,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.492388"
+      "crawled_at": "2026-08-05T20:00:19.121605"
     },
     {
       "title": "Outdoor Ed Programs Canceled for Tens of Thousands of Students After Federal Cuts",
@@ -66,7 +74,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.500905"
+      "crawled_at": "2026-08-05T20:00:19.128115"
     },
     {
       "title": "Trump Overhaul Could Gut Head Start Standards, Leaving States to Set the Rules",
@@ -74,7 +82,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.511288"
+      "crawled_at": "2026-08-05T20:00:19.136509"
     },
     {
       "title": "Who Decides Which Stories Children Get to Read?",
@@ -82,7 +90,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.519750"
+      "crawled_at": "2026-08-05T20:00:19.145950"
     },
     {
       "title": "Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center",
@@ -90,7 +98,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.527134"
+      "crawled_at": "2026-08-05T20:00:19.152306"
     },
     {
       "title": "Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions",
@@ -98,7 +106,7 @@
       "date": "August 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.529518"
+      "crawled_at": "2026-08-05T20:00:19.157773"
     },
     {
       "title": "They Once Taught About a Hero. Now Faculty Rethink César Chávez Lessons",
@@ -106,7 +114,7 @@
       "date": "August 2, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.538135"
+      "crawled_at": "2026-08-05T20:00:19.166484"
     },
     {
       "title": "Gov. Stein Announces STEP-NC, the First Health Care Apprenticeship Program in State Government",
@@ -114,7 +122,7 @@
       "date": "August 1, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.548944"
+      "crawled_at": "2026-08-05T20:00:19.174005"
     },
     {
       "title": "Bipartisan Lawmakers Say It’s Time to Rethink America’s Fragile Childcare System",
@@ -122,7 +130,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.557045"
+      "crawled_at": "2026-08-05T20:00:19.180487"
     },
     {
       "title": "West Virginia 3rd Graders Behind in Reading, Math Must Repeat Grade Under 2023 Law",
@@ -130,7 +138,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.565531"
+      "crawled_at": "2026-08-05T20:00:19.185858"
     },
     {
       "title": "California Will Add Science Scores to Its School Accountability System. Why It Matters",
@@ -138,7 +146,7 @@
       "date": "July 31, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.571092"
+      "crawled_at": "2026-08-05T20:00:19.191132"
     },
     {
       "title": "Senate Panel Passes Bill to Reverse Dismantling of Education Department",
@@ -146,15 +154,15 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.576669"
+      "crawled_at": "2026-08-05T20:00:19.196619"
     },
     {
-      "title": "Senate Panel Advances Science of Reading, Dyslexia Bills with Bipartisan Support",
+      "title": "Senate Panel Advances Science of Reading, Dyslexia Bills With Bipartisan Support",
       "url": "https://www.the74million.org/article/senate-panel-advances-science-of-reading-dyslexia-bills-with-bipartisan-support/",
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.581760"
+      "crawled_at": "2026-08-05T20:00:19.202086"
     },
     {
       "title": "When Teachers Lack Confidence in Math, Their Students Fall Behind, New Study Shows",
@@ -162,7 +170,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.590192"
+      "crawled_at": "2026-08-05T20:00:19.210384"
     },
     {
       "title": "New Mexico Features in National Discussion on Childcare Challenges",
@@ -170,7 +178,7 @@
       "date": "July 30, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.595659"
+      "crawled_at": "2026-08-05T20:00:19.221917"
     },
     {
       "title": "In Diary, Fauci Bragged of Role in School Closures. At Hearing, He Took the 5th",
@@ -178,7 +186,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.606245"
+      "crawled_at": "2026-08-05T20:00:19.224144"
     },
     {
       "title": "You’re Not Imagining It: Your Kid’s School Supplies Cost More This Year",
@@ -186,7 +194,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.608577"
+      "crawled_at": "2026-08-05T20:00:19.237283"
     },
     {
       "title": "New Staffing Models Put Strong Teachers Out Front",
@@ -194,15 +202,7 @@
       "date": "July 29, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.618176"
-    },
-    {
-      "title": "Trump Accounts Have Arrived. Here’s What Families Need to Know",
-      "url": "https://www.the74million.org/zero2eight/trump-accounts-visual-explainer-what-families-need-to-know/",
-      "date": "July 29, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-05T12:00:15.626677"
+      "crawled_at": "2026-08-05T20:00:19.242676"
     }
   ]
 }

@@ -1,7 +1,18 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-08-05T12:00:12.973966",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-05T20:00:11.516886",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Here’s how Michigan voted on school millages, other tax increase proposals",
+      "url": "https://bridgemi.com/talent-education/heres-how-michigan-voted-on-school-millages-other-tax-increase-proposals/",
+      "date": "2026-08-05",
+      "type": "News",
+      "summary_en": "There were nearly 900 proposals on the ballot statewide during Tuesday’s primary. See how your local community voted.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "education"
+    }
+  ]
 }

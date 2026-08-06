@@ -1,9 +1,18 @@
 {
   "source": "Indiana University News",
   "source_url": "https://news.iu.edu/news/",
-  "crawled_at": "2026-08-05T12:00:24.407153",
-  "total_news": 2,
+  "crawled_at": "2026-08-05T20:00:23.903087",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Public health expert building dashboard to track costly bird flu outbreaks in Indiana",
+      "url": "https://news.iu.edu/live/news/51896-public-health-expert-building-dashboard-to-track",
+      "date": "Aug 5, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
     {
       "title": "IU School of Optometry provides vision care for hundreds of Special Olympics Indiana athletes",
       "url": "https://blogs.iu.edu/iusonews/2026/08/03/special-olympics-2026/",

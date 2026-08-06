@@ -1,9 +1,18 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-08-05T12:00:29.911200",
-  "total_news": 4,
+  "crawled_at": "2026-08-05T20:00:29.270400",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Public Benefits Are a Hidden Engine of College Completion",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/public-benefits-are-a-hidden-engine-of-college-completion.html",
+      "date": "Aug 5, 2026",
+      "type": "Commentary",
+      "summary_en": "It's often short-run financial constraints—not enough money to cover rent or food while also paying for school—that keep young adults out of the classroom. Public benefits relieve enough pressure to make enrollment possible. Once enrolled, benefits also help students stay.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
     {
       "title": "Can AI Change How We Deal with Disasters?",
       "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/can-ai-change-how-we-deal-with-disasters.html",

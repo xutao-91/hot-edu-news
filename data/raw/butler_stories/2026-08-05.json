@@ -1,9 +1,19 @@
 {
   "source": "Butler University Stories",
   "source_url": "https://stories.butler.edu/all-stories/",
-  "crawled_at": "2026-08-05T12:00:30.175626",
-  "total_news": 1,
+  "crawled_at": "2026-08-05T20:00:30.053964",
+  "total_news": 2,
   "news": [
+    {
+      "title": "When Opportunity Calls: Butler Students Step into the Spotlight at Cannes Lions International Festival of Creativity",
+      "url": "https://stories.butler.edu/when-opportunity-calls-butler-students-step-into-the-spotlight-at-cannes-lions-international-festival-of-creativity/",
+      "date": "2026-08-05",
+      "type": "News",
+      "summary_en": "When Sara Camden ’02 needed a team she could trust at one of the world’s most prestigious gatherings of marketers, advertisers, and creative visionaries, she didn’t call an event staffing agency. She called Butler University. As Head of Marketing for North America and Europe at global technology company InMobi Group, Camden was preparing for the…",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
     {
       "title": "Butler Giving Circle Grant to Fund Interactive Well-Being Platform for Founder’s College Students",
       "url": "https://stories.butler.edu/butler-giving-circle-grant-to-fund-interactive-well-being-platform-for-founders-college-students/",

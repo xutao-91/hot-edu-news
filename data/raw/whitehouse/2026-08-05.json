@@ -1,7 +1,7 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-05T12:00:30.919975",
+  "crawled_at": "2026-08-05T20:00:30.175114",
   "total_news": 7,
   "news": [
     {
@@ -12,7 +12,7 @@
       "source": "The White House"
     },
     {
-      "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey because he was a Russian Asset, Declassified Memos Show",
+      "title": "FBI Secretly Opened Probe Alleging Trump Fired Comey Because He Was a Russian Asset, Declassified Memos Show",
       "url": "https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/",
       "date": "August 5, 2026",
       "category": "Releases",

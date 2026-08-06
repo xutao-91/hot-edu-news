@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-08-05T12:00:16.212807",
-  "total_news": 2,
+  "crawled_at": "2026-08-05T20:00:15.754300",
+  "total_news": 3,
   "news": [
+    {
+      "title": "When fear becomes a public health risk",
+      "url": "https://source.washu.edu/2026/08/washu-experts-when-fear-becomes-a-public-health-risk/",
+      "date": "2026-08-05",
+      "type": "Health & Society",
+      "summary_en": "Researchers at WashU Bursky Public Health explain how trust, misinformation and disrupted care can shape health outcomes during infectious disease outbreaks worldwide.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Student Affairs is now Division of Student Success",
       "url": "https://source.washu.edu/2026/08/student-affairs-is-now-division-of-student-success/",

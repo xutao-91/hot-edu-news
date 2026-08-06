@@ -1,7 +1,7 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-08-05T12:00:16.038224",
+  "crawled_at": "2026-08-05T20:00:14.844636",
   "total_news": 2,
   "news": [
     {
@@ -14,8 +14,8 @@
       "category": "academic"
     },
     {
-      "title": "Wayne State University names Dr. Christina Bloebaum new provost and SVP of academic affairs",
-      "url": "https://today.wayne.edu/news/2026/08/03/wayne-state-university-names-dr-christina-bloebaum-new-provost-and-svp-of-academic-affairs-69870",
+      "title": "Wayne State University names Dr. Christina L. Bloebaum new provost and SVP of academic affairs",
+      "url": "https://today.wayne.edu/news/2026/08/03/wayne-state-university-names-dr-christina-l-bloebaum-new-provost-and-svp-of-academic-affairs-69870",
       "date": "2026-08-03",
       "type": "News",
       "summary_en": "",

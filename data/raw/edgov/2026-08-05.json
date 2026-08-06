@@ -1,9 +1,19 @@
 {
   "source": "U.S. Department of Education",
   "source_url": "https://www.ed.gov/about/news",
-  "crawled_at": "2026-08-05T12:00:17.558541",
-  "total_news": 2,
+  "crawled_at": "2026-08-05T20:00:17.468452",
+  "total_news": 3,
   "news": [
+    {
+      "title": "U.S. Secretary of Education Linda McMahon Visits Kansas on Returning Education to the States Tour",
+      "url": "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-kansas-returning-education-states-tour",
+      "date": "August 5, 2026",
+      "type": "Press Release",
+      "source": "U.S. Department of Education",
+      "category": "general",
+      "content": "August 5, 2026\nManhattan, KS\n- Today, U.S. Secretary of Education Linda McMahon visited Manhattan High School and Kansas State University as part of her\nReturning Education to the States Tour\n. During this tour, Secretary McMahon is visiting all fifty states to hear from students, teachers, and leaders about best educational practices in their own communities. Kansas marks the 40th stop on the nationwide tour.\nSecretary McMahon began her visit at Manhattan High School, where she met with teachers and administrators to discuss how the school is preparing students for future workforce opportunities. Serving approximately 2,000 students in grades 9 through 12, Manhattan High School offers a wide range of academic and career-focused learning experiences. Secretary McMahon toured the campus to see these programs firsthand before participating in a roundtable discussion with teachers and administrators focused on Career Technical Education and workforce readiness.\nSecretary McMahon then visited Kansas State University, where she met with university leadership to learn more about the institution’s efforts to prepare students for success through high-quality academic programs and workforce development initiatives. Kansas State University serves more than 16,000 undergraduate students and approximately 3,000 graduate students across a wide range of disciplines.\n“At Manhattan High School in Kansas, I observed students engaged in robust Career and Technical Education programs, learning practical skills in high‑demand fields like welding, auto tech, and electrical engineering. This model not only gives students an education, but it jumpstarts their future by helping them build financial independence, develop confidence, and acquire the skills to contribute meaningfully to their communities,”\nsaid U.S. Secretary of Education Linda McMahon.\n“Those conversations continued at Kansas State University, where we discussed how graduates are prepared for workforce success through partnerships with local employers and homegrown initiatives. The conversations had today will help inform our ongoing efforts to encourage local innovation in education across the nation.”\nBackground\nOn her Returning Education to the States Tour, Secretary McMahon is traveling to all 50 states to hear directly from teachers, parents, and community leaders about what is working in their communities for their students and compile a toolkit of best practices to distribute to states.\nLearn more about Secretary McMahon’s Returning Education to the States Tour\nhere\n.\nContact\nPress Office\n(202) 401-1576\npress@ed.gov\nTags\nReturning Education to the States Tour",
+      "summary_en": ""
+    },
     {
       "title": "U.S. Department of Education Approves the Nation’s First Workforce Pell Grant Program in Iowa",
       "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-nations-first-workforce-pell-grant-program-iowa",

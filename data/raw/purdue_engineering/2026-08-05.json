@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-08-05T12:00:23.783578",
-  "total_news": 7,
+  "crawled_at": "2026-08-05T20:00:23.217877",
+  "total_news": 8,
   "news": [
+    {
+      "title": "Seven Boilermaker Engineering students recognized as Big Ten Distinguished Scholars",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0805-Purdue-Engineering-Big-Ten-Distinguished-Scholars",
+      "date": "August 5, 2026",
+      "type": "News",
+      "summary_en": "Seven Purdue Engineering students are among the 45 student athletes named Big Ten Distinguished Scholars during the 2025-2026 school year.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
     {
       "title": "MSE's Strachan leads $19M NSF program to develop AI-driven labs for semiconductors, advanced materials",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0805-purdue-strachan-icon-pcl-nsf-19million-materials",
