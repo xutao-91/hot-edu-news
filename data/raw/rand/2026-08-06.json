@@ -1,0 +1,71 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-06T12:00:30.531369",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window: Buying Time amid Demographic Decline and AI-Driven Change",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
+      "date": "Aug 6, 2026",
+      "type": "Research",
+      "summary_en": "Using a monthly birth-cohort simulation, the author estimates that China’s 2025 retirement reform keeps about 48 million additional people below statutory retirement ages in 2035, delaying the working-age decline without reversing population aging.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Interpreting Dual-Use Biology Benchmarks for Frontier AI: Measurement, Saturation, and Generational Analysis",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5055-1.html",
+      "date": "Aug 6, 2026",
+      "type": "Research",
+      "summary_en": "The authors find that many artificial intelligence (AI) benchmark tasks are no longer informative, but a frontier of difficult tasks remains so, with recent gains concentrated on difficult tasks theorized to be relevant to real-world risk.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Public Benefits Are a Hidden Engine of College Completion",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/public-benefits-are-a-hidden-engine-of-college-completion.html",
+      "date": "Aug 5, 2026",
+      "type": "Commentary",
+      "summary_en": "It's often short-run financial constraints—not enough money to cover rent or food while also paying for school—that keep young adults out of the classroom. Public benefits relieve enough pressure to make enrollment possible. Once enrolled, benefits also help students stay.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Can AI Change How We Deal with Disasters?",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/can-ai-change-how-we-deal-with-disasters.html",
+      "date": "Aug 5, 2026",
+      "type": "Podcast",
+      "summary_en": "How might AI tools help emergency management professionals save lives, protect property, and reduce harm to communities?",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "AI and the Future of Emergency Management: Market Supply and Adoption Pathways",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4625-1.html",
+      "date": "Aug 4, 2026",
+      "type": "Research",
+      "summary_en": "In this report, the authors present the results of a landscape assessment of artificial intelligence–enabled products that are available to support the work of emergency management across the United States.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Secure Inference Data Centers: A Vertically Integrated Strategy for Security Engineering",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4827-1.html",
+      "date": "Aug 4, 2026",
+      "type": "Research",
+      "summary_en": "This report describes the deployment of secure inference data centers (SIDCs)—purpose-built facilities designed to protect artificial intelligence models from advanced nation-state adversaries. SIDCs can be built today with proven technologies.",
+      "source": "Rand Corporation",
+      "category": "stem"
+    },
+    {
+      "title": "The Economics of AI Counterproliferation: A Stylized Economic Framework",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4944-1.html",
+      "date": "Aug 3, 2026",
+      "type": "Research",
+      "summary_en": "Once an artificial intelligence (AI) capability has been demonstrated at the frontier, the cost of reproducing it tends to fall. A new RAND economic framework shows the implications for governance regimes of AI capabilities and for policy and strategy.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

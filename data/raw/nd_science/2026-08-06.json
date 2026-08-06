@@ -1,0 +1,26 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-08-06T12:00:07.019052",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Notre Dame faculty win prestigious National Science Foundation early career awards",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dame-faculty-prestigious-national-science-foundation-early-career-awards-2026/",
+      "date": "2026-08-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "Nobel Prizewinner in Chemistry to speak on pioneering work in developing new enzymes",
+      "url": "https://science.nd.edu/news-and-media/news/nobel-prizewinner-in-chemistry-to-speak-on-pioneering-work-in-developing-new-enzymes/",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
+}

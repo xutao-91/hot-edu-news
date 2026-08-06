@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-08-06T12:00:29.595367",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Platinum powers the future",
+      "url": "https://engineering.washu.edu/news/2026/Platinum-powers-the-future.html",
+      "date": "2026-08-06",
+      "type": "News",
+      "summary_en": "Gang Wu, collaborators develop potential fuel-cell solution for powering data centers, transportation.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "McKelvey Engineering students travel to England for EECE International Experience",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-students-travel-to-England-for-EECE-International-Experience.html",
+      "date": "2026-08-03",
+      "type": "News",
+      "summary_en": "Program includes two-week trip, fall semester elective.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    }
+  ]
+}
