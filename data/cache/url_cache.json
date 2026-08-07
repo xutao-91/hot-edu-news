@@ -16234,5 +16234,107 @@
     "fetch_time": "2026-08-06T12:00:31.403453",
     "title": "Fraud.gov: Track the Trump Administration’s Relentless War on Fraud",
     "category": "general"
+  },
+  "https://www.pewresearch.org/politics/2026/08/06/most-americans-favor-the-death-penalty-for-those-convicted-of-murder/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-06T20:00:08.736027",
+    "title": "Most Americans Favor the Death Penalty for Those Convicted of Murder",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/06/trumps-job-approval-rating-is-low-by-historical-standards/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-06T20:00:08.736065",
+    "title": "Trump’s job approval rating is low by historical standards",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-named-a-top-university-for-job-placement-by-linkedin": {
+    "source": "msoe",
+    "fetch_time": "2026-08-06T20:00:11.415736",
+    "title": "MSOE named a top university for job placement by LinkedIn",
+    "category": "education"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-celebrates-groundbreaking-for-new-on-campus-student-housing-complex": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-08-06T20:00:17.356459",
+    "title": "Medical College of Wisconsin Celebrates Groundbreaking for New On-Campus Student Housing Complex",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/head-starts-antipoverty-mission-threatened-by-trump-administration-overhaul/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-06T20:00:19.692346",
+    "title": "Head Start’s Antipoverty Mission Threatened by Trump Administration Overhaul",
+    "category": "general"
+  },
+  "https://www.elmhurst.edu/news/for-a-7th-year-elmhurst-u-is-named-a-top-program-supporting-transfer-students/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-08-06T20:00:21.498075",
+    "title": "For a 7th Year, Elmhurst U. Is Named a Top Program Supporting Transfer Students",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-investigates-alleged-antisemitic-harassment-two-california-universities": {
+    "source": "edgov",
+    "fetch_time": "2026-08-06T20:00:22.220818",
+    "title": "U.S. Department of Education Investigates Alleged Antisemitic Harassment at Two California Universities",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-pennsylvania-returning-education-states-tour": {
+    "source": "edgov",
+    "fetch_time": "2026-08-06T20:00:22.220847",
+    "title": "U.S. Secretary of Education Linda McMahon Visits Pennsylvania on Returning Education to the States Tour",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/08/06/department-of-education-calls-on-universities-to-commit-to-reforms-by-end-of-2026": {
+    "source": "studlife",
+    "fetch_time": "2026-08-06T20:00:25.951856",
+    "title": "Department of Education calls on universities to commit to reforms by end of 2026",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/katrenia-reed-hughes-speak-ai-and-human-leadership-boston-project-management-summit": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-06T20:00:27.280250",
+    "title": "Katrenia Reed Hughes to speak on AI and human leadership at Boston project management summit",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459766",
+    "title": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459792",
+    "title": "Continuing to Protect the Meaning and Value of American Citizenship",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459803",
+    "title": "Ending Birth Tourism",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459814",
+    "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459824",
+    "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459835",
+    "title": "National Purple Heart Day, 2026",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-06T20:00:30.459845",
+    "title": "Private Sector Answers President Trump’s Call to Lower Prices for American Families",
+    "category": "semiconductor"
   }
 }

@@ -1,9 +1,58 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-06T12:00:31.175846",
-  "total_news": 8,
+  "crawled_at": "2026-08-06T20:00:30.202268",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Ends Birth Tourism and Protects the Meaning and Value of American Citizenship",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-ends-birth-tourism-and-protects-the-meaning-and-value-of-american-citizenship/",
+      "date": "August 6, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Continuing to Protect the Meaning and Value of American Citizenship",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/continuing-to-protect-the-meaning-and-value-of-american-citizenship/",
+      "date": "August 6, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Ending Birth Tourism",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/ending-birth-tourism/",
+      "date": "August 6, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Polysilicon and its Derivatives",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-polysilicon-and-its-derivatives/",
+      "date": "August 6, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Adjusting Imports of Polysilicon and its Derivatives into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-polysilicon-and-its-derivatives-into-the-united-states/",
+      "date": "August 6, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "National Purple Heart Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-purple-heart-day-2026/",
+      "date": "August 6, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Private Sector Answers President Trump’s Call to Lower Prices for American Families",
+      "url": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
+      "date": "August 6, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Fraud.gov: Track the Trump Administration’s Relentless War on Fraud",
       "url": "https://www.whitehouse.gov/releases/2026/08/fraud-gov-track-the-trump-administrations-relentless-war-on-fraud/",
@@ -23,41 +72,6 @@
       "url": "https://www.whitehouse.gov/releases/2026/08/fbi-secretly-opened-probe-alleging-trump-fired-comey-because-he-was-a-russian-asset-declassified-memos-show/",
       "date": "August 5, 2026",
       "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on the Birthday of the United States Coast Guard",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-birthday-of-the-united-states-coast-guard/",
-      "date": "August 4, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Manufacturing Jobs Flock to the U.S. Thanks to President Trump’s America First Economic Agenda",
-      "url": "https://www.whitehouse.gov/releases/2026/08/manufacturing-jobs-flock-to-the-u-s-thanks-to-president-trumps-america-first-economic-agenda/",
-      "date": "August 4, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Under President Trump, U.S. Factories Expand at Fastest Clip in More Than Four Years",
-      "url": "https://www.whitehouse.gov/releases/2026/08/under-president-trump-u-s-factories-expand-at-fastest-clip-in-more-than-four-years/",
-      "date": "August 3, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Establishing the President’s Military Spouse Commission",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-presidents-military-spouse-commission-af64/",
-      "date": "August 3, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Establishes the President’s Military Spouse Commission",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-the-presidents-military-spouse-commission/",
-      "date": "August 3, 2026",
-      "category": "Fact Sheets",
       "source": "The White House"
     }
   ]

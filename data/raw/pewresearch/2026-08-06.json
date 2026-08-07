@@ -1,9 +1,37 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-08-06T12:00:06.951449",
-  "total_news": 3,
+  "crawled_at": "2026-08-06T20:00:07.875976",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Most Americans Favor the Death Penalty for Those Convicted of Murder",
+      "url": "https://www.pewresearch.org/politics/2026/08/06/most-americans-favor-the-death-penalty-for-those-convicted-of-murder/",
+      "date": "Aug 6, 2026",
+      "type": "report",
+      "categories": [
+        "Criminal Justice",
+        "Death Penalty",
+        "Uncategorized"
+      ],
+      "summary_en": "While 68% see the death penalty as morally justified for those committing murder, 59% say it doesn’t deter serious crimes – and there are wide partisan gaps on both questions.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Trump’s job approval rating is low by historical standards",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/06/trumps-job-approval-rating-is-low-by-historical-standards/",
+      "date": "Aug 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "Political Polarization",
+        "Presidential Approval"
+      ],
+      "summary_en": "Trump’s job approval sits at 34%, lower than most recent presidents at comparable points, with a partisan gap of 78 percntage points.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    },
     {
       "title": "Most U.S. senators appointed since 1990 have run to keep their seat – and most have won",
       "url": "https://www.pewresearch.org/short-reads/2026/08/06/most-us-senators-appointed-since-1990-have-run-to-keep-their-seat-and-most-have-won/",

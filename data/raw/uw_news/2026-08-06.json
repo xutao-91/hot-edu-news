@@ -1,7 +1,7 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-08-06T12:00:18.741098",
+  "crawled_at": "2026-08-06T20:00:18.952863",
   "total_news": 3,
   "news": [
     {
@@ -18,7 +18,7 @@
       "url": "https://news.wisc.edu/august-3-campus-cooling-update/",
       "date": "August 3, 2026",
       "type": "News",
-      "summary_en": "To the campus community, Thank you again for your continued flexibility throughout the last several weeks of work to repair and restore the chilled water…",
+      "summary_en": "To the campus community, Thank you again for your continued flexibility throughout the last several weeks of work to repair and restore the…",
       "source": "UW-Madison News",
       "category": "campus"
     },
