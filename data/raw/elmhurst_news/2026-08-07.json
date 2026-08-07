@@ -1,0 +1,26 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-08-07T12:00:24.141740",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "For a 7th Year, Elmhurst U. Is Named a Top Program Supporting Transfer Students",
+      "url": "https://www.elmhurst.edu/news/for-a-7th-year-elmhurst-u-is-named-a-top-program-supporting-transfer-students/",
+      "date": "2026-08-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Elmhurst U. Recognized for Commitment to First-Generation College Students",
+      "url": "https://www.elmhurst.edu/news/elmhurst-u-recognized-for-commitment-to-first-generation-college-students/",
+      "date": "2026-08-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}
