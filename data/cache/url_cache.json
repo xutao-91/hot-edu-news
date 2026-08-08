@@ -16432,5 +16432,59 @@
     "fetch_time": "2026-08-07T12:00:31.177218",
     "title": "Nominations Sent to the Senate",
     "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/notre-dame-astronomers-uncover-active-remnant-of-historic-1181-supernova/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-07T20:00:10.269182",
+    "title": "Notre Dame astronomers uncover active remnant of historic 1181 supernova",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/08/how-early-life-stress-leaves-a-scar-inside-brain-cells/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-07T20:00:14.732767",
+    "title": "How early-life stress leaves a ‘scar’ inside brain cells",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/08/07/131664": {
+    "source": "studlife",
+    "fetch_time": "2026-08-07T20:00:28.512675",
+    "title": "Department of Education calls on universities to commit to reforms by end of 2026",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-chapin-osberg-for-congress/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-08-07T20:00:28.556013",
+    "title": "Education Minnesota endorses Chapin, Osberg for Congress",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-researchers-win-audience-choice-siggraph-virtual-anatomy-tool": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-07T20:00:34.058874",
+    "title": "Purdue Polytechnic researchers win Audience Choice at SIGGRAPH for virtual anatomy tool",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Sound-waves-turn-porous-materials-into-tiny-pumps-for-drug-delivery-filtration.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-07T20:00:34.954262",
+    "title": "Sound waves turn porous materials into tiny pumps for drug delivery, filtration",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/real-artifacts-students-piece-together-ancient-past": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-07T20:00:35.032141",
+    "title": "With real artifacts, students piece together the ancient past",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-07T20:00:35.839501",
+    "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-07T20:00:35.839525",
+    "title": "ICYMI: Statement from President Donald J. Trump",
+    "category": "semiconductor"
   }
 }

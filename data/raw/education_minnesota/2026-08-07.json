@@ -1,7 +1,17 @@
 {
   "source": "Education Minnesota",
   "source_url": "https://educationminnesota.org/news/education-headlines/",
-  "crawled_at": "2026-08-07T12:00:25.357476",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-07T20:00:28.033787",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Education Minnesota endorses Chapin, Osberg for Congress",
+      "url": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-chapin-osberg-for-congress/",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "Education Minnesota has endorsed Doug Chapin in Minnesota’s 6th Congressional District and Erik Osberg in the 7th Congressional District.",
+      "source": "Education Minnesota",
+      "category": "general"
+    }
+  ]
 }

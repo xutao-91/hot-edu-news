@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-08-07T12:00:30.524323",
-  "total_news": 3,
+  "crawled_at": "2026-08-07T20:00:34.615095",
+  "total_news": 4,
   "news": [
+    {
+      "title": "With real artifacts, students piece together the ancient past",
+      "url": "https://news.uchicago.edu/story/real-artifacts-students-piece-together-ancient-past",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "Course at UChicago’s ISAC Museum teaches how to think like an archaeologist with hands-on approach",
+      "source": "UChicago News",
+      "category": "education"
+    },
     {
       "title": "Joel Snyder, pioneer of the study and practice of photography, 1941-2026",
       "url": "https://news.uchicago.edu/story/joel-snyder-pioneer-study-and-practice-photography-1941-2026",

@@ -1,7 +1,18 @@
 {
   "source": "Student Life (WashU)",
   "source_url": "https://www.studlife.com/news",
-  "crawled_at": "2026-08-07T12:00:25.401615",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-07T20:00:26.959861",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Department of Education calls on universities to commit to reforms by end of 2026",
+      "url": "https://www.studlife.com/news/2026/08/07/131664",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "",
+      "author": "Coby Rinke",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
 }

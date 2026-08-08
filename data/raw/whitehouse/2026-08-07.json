@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-07T12:00:30.684045",
+  "crawled_at": "2026-08-07T20:00:35.622069",
   "total_news": 10,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Announces Billions in New Deals and Investments to Power American Mining",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-announces-billions-in-new-deals-and-investments-to-power-american-mining/",
+      "date": "August 7, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "ICYMI: Statement from President Donald J. Trump",
+      "url": "https://www.whitehouse.gov/releases/2026/08/icymi-statement-from-president-donald-j-trump/",
+      "date": "August 7, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
     {
       "title": "Nominations Sent to the Senate",
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/nominations-sent-to-the-senate-e61c/",
@@ -57,20 +71,6 @@
       "title": "Private Sector Answers President Trump’s Call to Lower Prices for American Families",
       "url": "https://www.whitehouse.gov/releases/2026/08/private-sector-answers-president-trumps-call-to-lower-prices-for-american-families/",
       "date": "August 6, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Fraud.gov: Track the Trump Administration’s Relentless War on Fraud",
-      "url": "https://www.whitehouse.gov/releases/2026/08/fraud-gov-track-the-trump-administrations-relentless-war-on-fraud/",
-      "date": "August 6, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "President Trump and Republicans Deliver Big Wins for the Silver State",
-      "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-big-wins-for-the-silver-state/",
-      "date": "August 5, 2026",
       "category": "Releases",
       "source": "The White House"
     }
