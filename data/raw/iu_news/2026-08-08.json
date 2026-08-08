@@ -1,0 +1,17 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-08T12:00:24.103602",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Public health expert building dashboard to track costly bird flu outbreaks in Indiana",
+      "url": "https://news.iu.edu/live/news/51896-public-health-expert-building-dashboard-to-track",
+      "date": "Aug 5, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

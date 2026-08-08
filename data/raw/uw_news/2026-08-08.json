@@ -1,0 +1,17 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-08T12:00:18.022574",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New UW–Madison center accelerates discovery where materials meet their limits",
+      "url": "https://engineering.wisc.edu/news/new-uw-madison-center-accelerates-discovery-where-materials-meet-their-limits/",
+      "date": "August 7, 2026",
+      "type": "News",
+      "summary_en": "A team of UW engineers has received nearly $25 million from the NSF to accelerate the discovery and development of “super” materials that can withstand extreme conditions.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

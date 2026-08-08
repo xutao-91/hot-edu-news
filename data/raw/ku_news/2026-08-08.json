@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-08T12:00:26.286451",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "New novel ‘Sunlight Finds You’ explores how a first love can affect one’s entire life",
+      "url": "https://news.ku.edu/news/article/new-novel-sunlight-finds-you-explores-how-a-first-love-can-affect-ones-entire-life",
+      "date": "2026-08-06",
+      "type": "News",
+      "summary_en": "In a new novel, Laura Moriarty, a professor of English at the University of Kansas, crafts a coming-of-age tale set in 1950s Florida. It has been selected as a featured book for “The Today Show.” Moriarty will give talks at several events across Kansas this month.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "With new Department of Energy award, KU-Fermilab team builds next-generation detectors for CERN’s Large Hadron Collider",
+      "url": "https://news.ku.edu/news/article/with-new-department-of-energy-award-ku-fermilab-team-builds-next-generation-detectors-for-cerns-large-hadron-collider",
+      "date": "2026-08-05",
+      "type": "News",
+      "summary_en": "A University of Kansas project to design and build two cutting-edge particle detectors for the Compact Muon Solenoid experiment at CERN’s Large Hadron Collider has been approved for funding through the U.S. Department of Energy’s Established Program to Stimulate Competitive Research, or DOE EPSCoR.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

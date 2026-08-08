@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-08-08T12:00:17.015871",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Concert prep to impact parking, traffic near Memorial Stadium",
+      "url": "https://news.unl.edu/article/concert-prep-to-impact-parking-traffic-near-memorial-stadium",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker Rocketry launches to success at international competition",
+      "url": "https://news.unl.edu/article/husker-rocketry-launches-to-success-at-international-competition",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Great Plains Studies collaboration highlights Otoe-Missouria history through mural",
+      "url": "https://news.unl.edu/article/great-plains-studies-collaboration-highlights-otoe-missouria-history-through-mural",
+      "date": "2026-08-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Grace Hartigan exhibition anchors Sheldon's fall lineup",
+      "url": "https://news.unl.edu/article/grace-hartigan-exhibition-anchors-sheldons-fall-lineup",
+      "date": "2026-08-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Byron business celebrates grand opening thanks to Business Builder Grant",
+      "url": "https://news.unl.edu/article/byron-business-celebrates-grand-opening-thanks-to-business-builder-grant",
+      "date": "2026-08-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "University of Nebraska–Lincoln to welcome thousands of students Aug. 16-19",
+      "url": "https://news.unl.edu/article/university-of-nebraska-lincoln-to-welcome-thousands-of-students-aug-16-19",
+      "date": "2026-08-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

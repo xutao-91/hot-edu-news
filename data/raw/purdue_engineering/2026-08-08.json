@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-08-08T12:00:22.920689",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "College of Engineering honors 163 staff members with record number of Bravo+ Awards",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0806-purdue-engineering-bravo-awards-2025-26",
+      "date": "August 6, 2026",
+      "type": "News",
+      "summary_en": "The Purdue University College of Engineering honored 163 staff members from 20 units with Bravo+ Awards during the 2025-26 fiscal year, recognizing a record number of employees for their outstanding contributions to the college.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Seven Boilermaker Engineering students recognized as Big Ten Distinguished Scholars",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0805-Purdue-Engineering-Big-Ten-Distinguished-Scholars",
+      "date": "August 5, 2026",
+      "type": "News",
+      "summary_en": "Seven Purdue Engineering students are among the 45 student athletes named Big Ten Distinguished Scholars during the 2025-2026 school year.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "MSE's Strachan leads $19M NSF program to develop AI-driven labs for semiconductors, advanced materials",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0805-purdue-strachan-icon-pcl-nsf-19million-materials",
+      "date": "August 5, 2026",
+      "type": "News",
+      "summary_en": "Purdue University researchers will lead a $19 million effort to build an online, cloud-based lab that provides access to physical labs, simulations and AI tools to a national community of remote users for designing advanced materials and manufacturing processes for semiconductor, aerospace, defense and energy systems.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}
