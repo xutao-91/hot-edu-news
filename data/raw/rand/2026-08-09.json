@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-09T12:00:29.593115",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "China's Retirement Reform and the 2035 Statutory Working-Age Window: Buying Time amid Demographic Decline and AI-Driven Change",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4750-1.html",
+      "date": "Aug 6, 2026",
+      "type": "Research",
+      "summary_en": "Using a monthly birth-cohort simulation, the author estimates that China’s 2025 retirement reform keeps about 48 million additional people below statutory retirement ages in 2035, delaying the working-age decline without reversing population aging.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Interpreting Dual-Use Biology Benchmarks for Frontier AI: Measurement, Saturation, and Generational Analysis",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5055-1.html",
+      "date": "Aug 6, 2026",
+      "type": "Research",
+      "summary_en": "The authors find that many artificial intelligence (AI) benchmark tasks are no longer informative, but a frontier of difficult tasks remains so, with recent gains concentrated on difficult tasks theorized to be relevant to real-world risk.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
