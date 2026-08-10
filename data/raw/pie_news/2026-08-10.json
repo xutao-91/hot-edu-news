@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-08-10T12:00:08.381949",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Brazilian college counselling body launches to professionalise international guidance",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "A new  Brazilian professional association for college counsellors and international admissions professionals has launched.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "5 things we learned about multi-university campuses and TNE at The PIE Live Asia Pacific",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-08-10",
+      "type": "Transnational education",
+      "summary_en": "Multi-university campus models are moving from concept to reality in Asia and TNE provision continues to grow, but panelists at The PIE Live Asia Pacific warned that some providers are entering new markets for the wrong reasons.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Can a British education be reimagined for India? Inside Shrewsbury’s experiment",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-08-10",
+      "type": "K-12",
+      "summary_en": "Shrewsbury International School India's first Indian campus reflects a much bigger question facing Britain's independent schools: can their educational philosophies travel as successfully as their brands?",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "What Resolution 71 means for Vietnam’s bilingual and private schools",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-08-10",
+      "type": "Voices",
+      "summary_en": "Vietnam's overhaul of education, known as Resolution 71, is reshaping the country's school systewm. Joshua James unpacks what's changed and what it all means.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Joshua James"
+    },
+    {
+      "title": "London’s Bloomsbury Institute loses licence to sponsor international students",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-08-07",
+      "type": "Recruitment & agents",
+      "summary_en": "The Bloomsbury Institute has had its licence to sponsor international students revoked after failing to meet the Basic Compliance Assessment, the Home Office has confirmed in a statement.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Korea lets universities set own language tests in latest internationalisation push",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-07",
+      "type": "Policy",
+      "summary_en": "IEQAS-certified universities will be able to assess applicants' Korean proficiency themselves as Seoul seeks to widen access while tightening oversight of international recruitment.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "How to get the most from Erasmus+",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-08-07",
+      "type": "Voices",
+      "summary_en": "With the return of Erasmus+ in 2027, many institutions will focus on funding opportunities, but this is only one part of the story, writes Kate Erskine.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kate Erskine"
+    }
+  ]
+}

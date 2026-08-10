@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-10T12:00:29.830443",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Researchers discover cleaner route to purifying rare earth elements",
+      "url": "https://news.uchicago.edu/story/researchers-discover-cleaner-route-purifying-rare-earth-elements",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "UChicago PME scientists show that atomic channels can separate rare earth elements from each other—without using toxic chemicals",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "With real artifacts, students piece together the ancient past",
+      "url": "https://news.uchicago.edu/story/real-artifacts-students-piece-together-ancient-past",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "Course at UChicago’s ISAC Museum teaches how to think like an archaeologist with hands-on approach",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-08-10T12:00:29.814470",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Sound waves turn porous materials into tiny pumps for drug delivery, filtration",
+      "url": "https://engineering.washu.edu/news/2026/Sound-waves-turn-porous-materials-into-tiny-pumps-for-drug-delivery-filtration.html",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "James Friend’s lab develops acoustofluidic device to move fluid faster than diffusion.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "WashU Ursaworks Robotics finishes strong at 2026 ARC Championship",
+      "url": "https://engineering.washu.edu/news/2026/WashU-Ursaworks-Robotics-finishes-strong-at-2026-ARC-Championship.html",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "Team earns place in top eight among highly competitive field of university robotics teams.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

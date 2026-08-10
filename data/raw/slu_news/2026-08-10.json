@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-08-10T12:00:07.699981",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SLU, NGA to Host Geo-Resolution Conference September 10",
+      "url": "https://www.slu.edu/news/2026/august/georesolution-conference.php",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "Saint Louis University and the National Geospatial-Intelligence Agency will co-host the 2026 Geo-Resolution conference, \"Securing the Future with Geospatial,\" at SLU's Busch Student Center Sept. 10.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

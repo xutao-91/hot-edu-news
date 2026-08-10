@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-08-10T12:00:15.764459",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Nebraska to grant approximately 600 degrees in August ceremony",
+      "url": "https://news.unl.edu/article/nebraska-to-grant-approximately-600-degrees-in-august-ceremony",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Ties between Canadian startup, Nebraska U lead to new tech facility in Seward",
+      "url": "https://news.unl.edu/article/ties-between-canadian-startup-nebraska-u-lead-to-new-tech-facility-in-seward",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Atirath Roy named Chancellor’s Scholar at Nebraska",
+      "url": "https://news.unl.edu/article/atirath-roy-named-chancellors-scholar-at-nebraska",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Concert prep to impact parking, traffic near Memorial Stadium",
+      "url": "https://news.unl.edu/article/concert-prep-to-impact-parking-traffic-near-memorial-stadium",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker Rocketry launches to success at international competition",
+      "url": "https://news.unl.edu/article/husker-rocketry-launches-to-success-at-international-competition",
+      "date": "2026-08-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

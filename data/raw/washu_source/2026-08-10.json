@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-08-10T12:00:15.842479",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WashU Law clerkship program opens doors to careers in the judiciary and beyond",
+      "url": "https://source.washu.edu/2026/08/washu-law-clerkship-program-opens-doors-to-careers-in-the-judiciary-and-beyond/",
+      "date": "2026-08-10",
+      "type": "Law",
+      "summary_en": "WashU Law’s judicial clerkship program continues to grow. Graduates clerk for judges across the country, with placements in 36 states and every federal circuit, including the Virgin Islands, Guam and the Northern Mariana Islands.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "How early-life stress leaves a ‘scar’ inside brain cells",
+      "url": "https://source.washu.edu/2026/08/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "date": "2026-08-07",
+      "type": "Mental Health",
+      "summary_en": "WashU Medicine researchers found in mice that trauma alters how brain cells package DNA, leaving the brain’s genetic stress response vulnerable to being turned on easily and reducing tolerance to stress later in life.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}
