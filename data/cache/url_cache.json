@@ -16630,5 +16630,101 @@
     "fetch_time": "2026-08-10T12:00:30.483185",
     "title": "Researchers discover cleaner route to purifying rare earth elements",
     "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/chicago-kent-student-earns-chiwip-scholarship": {
+    "source": "iit_news",
+    "fetch_time": "2026-08-10T20:00:13.132598",
+    "title": "Chicago-Kent Student Earns CHIWIP Scholarship",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/denver-district-accused-of-keeping-kids-in-english-learner-program-far-too-long/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-10T20:00:18.995548",
+    "title": "Denver District Accused of Keeping Kids In English Learner Program Far Too Long",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/mcbride-named-director-of-enterprise-risk-management-at-uw-madison/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-10T20:00:19.039153",
+    "title": "McBride named director of Enterprise Risk Management at UW–Madison",
+    "category": "general"
+  },
+  "https://pharmacy.wisc.edu/2026/06/18/pharmtox-delivers-exceptional-outcomes/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-10T20:00:19.039179",
+    "title": "PharmTox program delivers exceptional outcomes",
+    "category": "semiconductor"
+  },
+  "https://onwisconsin.uwalumni.com/we-are-the-champions/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-10T20:00:19.039191",
+    "title": "We are the champions",
+    "category": "semiconductor"
+  },
+  "https://research.wisc.edu/uncategorized/2026/08/05/faculty-receive-2026-27-warf-named-professorships-kellett-fellowships-and-romnes-awards/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-10T20:00:19.039202",
+    "title": "UW faculty receive 2026-27 WARF, Kellett and Romnes honors",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0810-youssuf-elhawary-purdue-mechanical-engineering-indy-mini": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-10T20:00:23.949398",
+    "title": "Innovation, collaboration help engineering student build confidence in the classroom and on the track",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0810-purdue-mem-eatcloud-food-rescue-ai-whatsapp": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-10T20:00:23.949423",
+    "title": "Purdue MEM students partner with EatCloud to expand food rescue through AI-powered WhatsApp solution",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0810-oneill-online-week.html": {
+    "source": "oneill",
+    "fetch_time": "2026-08-10T20:00:26.186999",
+    "title": "From Screens to Strategy: O'Neill Online students tackle Indiana projects",
+    "category": "education"
+  },
+  "https://www.heritage.org/parental-rights/commentary/the-next-parental-rights-fight-the-school-library": {
+    "source": "heritage",
+    "fetch_time": "2026-08-10T20:00:28.459550",
+    "title": "The Next Parental Rights Fight Is in the School Library",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/field-guide-ais-promise-and-risks-education": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-10T20:00:30.658174",
+    "title": "A Field Guide to AI's Promise and Risks in Education",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ED-Issues-National-Call-to-Action-for-Campuses.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-08-10T20:00:31.124325",
+    "title": "ED Issues National Call to Action",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-10T20:00:31.273209",
+    "title": "Presidential Message on National Shooting Sports Month",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-10T20:00:31.273232",
+    "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-10T20:00:31.273243",
+    "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-10T20:00:31.273253",
+    "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again",
+    "category": "ai"
   }
 }

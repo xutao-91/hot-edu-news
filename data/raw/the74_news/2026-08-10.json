@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-08-10T12:00:18.226983",
+  "crawled_at": "2026-08-10T20:00:18.053987",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.005873"
+      "crawled_at": "2026-08-10T20:00:17.787878"
+    },
+    {
+      "title": "Denver District Accused of Keeping Kids In English Learner Program Far Too Long",
+      "url": "https://www.the74million.org/article/denver-district-accused-of-keeping-kids-in-english-learner-program-far-too-long/",
+      "date": "August 10, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-10T20:00:17.800283"
     },
     {
       "title": "Major Virtual Tutoring Provider Shuts Down; Experts Cite Lack of Evidence",
@@ -18,7 +26,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.018506"
+      "crawled_at": "2026-08-10T20:00:17.812515"
     },
     {
       "title": "Absenteeism Is a Major Problem. So Why Can’t Schools Agree on How to Measure It?",
@@ -26,7 +34,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.032559"
+      "crawled_at": "2026-08-10T20:00:17.833183"
     },
     {
       "title": "Nearly 15 Years After Student Discipline Reform, School Suspensions in Mass. Are Falling. Are Emergency Removals Taking Their Place?",
@@ -34,15 +42,15 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.055176"
+      "crawled_at": "2026-08-10T20:00:17.845613"
     },
     {
       "title": "California Expands Lunch Program That Pairs Schools With Farms",
       "url": "https://www.the74million.org/article/kids-are-actually-eating-the-food-state-expands-lunch-program-that-pairs-schools-with-farms/",
-      "date": "August 10, 2026",
+      "date": "August 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.067664"
+      "crawled_at": "2026-08-10T20:00:17.857308"
     },
     {
       "title": "LAUSD’s Youngest Students Will Start a Screen-Free School Year. Here’s What Parents Need to Know",
@@ -50,7 +58,7 @@
       "date": "August 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.075857"
+      "crawled_at": "2026-08-10T20:00:17.869165"
     },
     {
       "title": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space",
@@ -58,7 +66,7 @@
       "date": "August 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.087464"
+      "crawled_at": "2026-08-10T20:00:17.871523"
     },
     {
       "title": "New Mexico Judge Orders Meta to Pay $567M for Youth Harm Abatement Fund",
@@ -66,7 +74,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.096024"
+      "crawled_at": "2026-08-10T20:00:17.882994"
     },
     {
       "title": "‘Nobody Feels Good, Nobody’s Learning’: High Temperatures Disrupt School Days",
@@ -74,7 +82,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.098501"
+      "crawled_at": "2026-08-10T20:00:17.894478"
     },
     {
       "title": "Historian Natalia Mehlman Petrzela on Biden’s Education Legacy",
@@ -82,7 +90,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.107042"
+      "crawled_at": "2026-08-10T20:00:17.905973"
     },
     {
       "title": "Head Start’s Antipoverty Mission Threatened by Trump Administration Overhaul",
@@ -90,7 +98,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.115640"
+      "crawled_at": "2026-08-10T20:00:17.917439"
     },
     {
       "title": "Which Families Are Using ESAs? What We Know About Texas’ First School Vouchers",
@@ -98,7 +106,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.124198"
+      "crawled_at": "2026-08-10T20:00:17.928955"
     },
     {
       "title": "Teachers Have Some Big Wins in This Year’s California Budget. Here Are Their Victories",
@@ -106,7 +114,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.132687"
+      "crawled_at": "2026-08-10T20:00:17.931311"
     },
     {
       "title": "Maryland Gov. Offers Late Admission, $800 Credit to Disenrolled Howard Students",
@@ -114,7 +122,7 @@
       "date": "August 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.141314"
+      "crawled_at": "2026-08-10T20:00:17.942948"
     },
     {
       "title": "The Schools Turning to AI to Rate Students Beyond A-F Grades",
@@ -122,7 +130,7 @@
       "date": "August 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.149314"
+      "crawled_at": "2026-08-10T20:00:17.954335"
     },
     {
       "title": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School",
@@ -130,7 +138,7 @@
       "date": "August 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.158833"
+      "crawled_at": "2026-08-10T20:00:17.964908"
     },
     {
       "title": "Oklahoma Jewish Charter Case Heads to Court as Debate Spreads to Other States",
@@ -138,7 +146,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.161363"
+      "crawled_at": "2026-08-10T20:00:17.977388"
     },
     {
       "title": "How a Years-Long Rise in Teacher Turnover Reshaped American Classrooms",
@@ -146,7 +154,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.171104"
+      "crawled_at": "2026-08-10T20:00:17.979672"
     },
     {
       "title": "These New Exams Will Test California 4-Year-Olds’ English Fluency With Playful Games",
@@ -154,7 +162,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.177634"
+      "crawled_at": "2026-08-10T20:00:17.991101"
     },
     {
       "title": "LAUSD Could Face Layoffs, Furloughs, Closures Amid Projected $231M Shortfall",
@@ -162,7 +170,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.185179"
+      "crawled_at": "2026-08-10T20:00:18.002889"
     },
     {
       "title": "Outdoor Ed Programs Canceled for Tens of Thousands of Students After Federal Cuts",
@@ -170,7 +178,7 @@
       "date": "August 4, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.195630"
+      "crawled_at": "2026-08-10T20:00:18.014561"
     },
     {
       "title": "Trump Overhaul Could Gut Head Start Standards, Leaving States to Set the Rules",
@@ -178,7 +186,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.204185"
+      "crawled_at": "2026-08-10T20:00:18.026003"
     },
     {
       "title": "Who Decides Which Stories Children Get to Read?",
@@ -186,7 +194,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.212776"
+      "crawled_at": "2026-08-10T20:00:18.036347"
     },
     {
       "title": "Exclusive: Nearly 1,900 U.S. Public Schools Within a Mile of a Data Center",
@@ -194,15 +202,7 @@
       "date": "August 3, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.215240"
-    },
-    {
-      "title": "Illinois Governor Signs School Cellphone Ban to Avoid Student Distractions",
-      "url": "https://www.the74million.org/article/pritzker-signs-school-cellphone-ban-to-avoid-student-distractions/",
-      "date": "August 2, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-10T12:00:18.221800"
+      "crawled_at": "2026-08-10T20:00:18.038613"
     }
   ]
 }

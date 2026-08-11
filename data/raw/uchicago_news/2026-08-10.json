@@ -1,8 +1,8 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-08-10T12:00:29.830443",
-  "total_news": 2,
+  "crawled_at": "2026-08-10T20:00:30.218743",
+  "total_news": 3,
   "news": [
     {
       "title": "Researchers discover cleaner route to purifying rare earth elements",
@@ -12,6 +12,15 @@
       "summary_en": "UChicago PME scientists show that atomic channels can separate rare earth elements from each other—without using toxic chemicals",
       "source": "UChicago News",
       "category": "research"
+    },
+    {
+      "title": "A Field Guide to AI's Promise and Risks in Education",
+      "url": "https://news.uchicago.edu/field-guide-ais-promise-and-risks-education",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
     },
     {
       "title": "With real artifacts, students piece together the ancient past",

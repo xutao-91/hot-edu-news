@@ -1,9 +1,45 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-08-10T12:00:19.621434",
-  "total_news": 2,
+  "crawled_at": "2026-08-10T20:00:18.237683",
+  "total_news": 6,
   "news": [
+    {
+      "title": "McBride named director of Enterprise Risk Management at UW–Madison",
+      "url": "https://news.wisc.edu/mcbride-named-director-of-enterprise-risk-management-at-uw-madison/",
+      "date": "August 10, 2026",
+      "type": "News",
+      "summary_en": "As the program’s inaugural director, McBride will coordinate an enterprise-wide approach to managing the full range of risks that could affect UW, from both inside and outside the organization.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "PharmTox program delivers exceptional outcomes",
+      "url": "https://pharmacy.wisc.edu/2026/06/18/pharmtox-delivers-exceptional-outcomes/",
+      "date": "August 10, 2026",
+      "type": "News",
+      "summary_en": "Whether they pursue pharmacy, medicine, research or industry, UW–Madison PharmTox graduates are prepared to succeed.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "We are the champions",
+      "url": "https://onwisconsin.uwalumni.com/we-are-the-champions/",
+      "date": "August 10, 2026",
+      "type": "News",
+      "summary_en": "From the soccer pitch to the ice rink, revisit some of the most memorable national title runs in Badger sports history.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW faculty receive 2026-27 WARF, Kellett and Romnes honors",
+      "url": "https://research.wisc.edu/uncategorized/2026/08/05/faculty-receive-2026-27-warf-named-professorships-kellett-fellowships-and-romnes-awards/",
+      "date": "August 10, 2026",
+      "type": "News",
+      "summary_en": "Forty-two faculty members spanning the arts and humanities, physical sciences, social sciences and biological sciences have been awarded fellowships from the Office of the Vice Chancellor for Research.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
     {
       "title": "August 10 campus cooling update: All buildings operational",
       "url": "https://news.wisc.edu/august-10-campus-cooling-update-all-buildings-operational/",
