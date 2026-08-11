@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-11T12:00:23.984928",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Mobile screening initiative will expand healthcare access in rural Indiana",
+      "url": "https://publichealth.indiana.edu/news-events/_news/2026/2026-anthem-partnership.html",
+      "date": "Aug 11, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Cinema bringing Doug Jones, Marilyn Monroe tribute and spooky classics to Bloomington",
+      "url": "https://news.iu.edu/live/news/51935-iu-cinema-bringing-doug-jones-marilyn-monroe",
+      "date": "Aug 11, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Protect yourself and each other with safety tips from IU Public Safety",
+      "url": "https://news.iu.edu/live/news/52418-protect-yourself-and-each-other-with-safety-tips",
+      "date": "Aug 10, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

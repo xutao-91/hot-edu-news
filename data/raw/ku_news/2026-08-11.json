@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-11T12:00:24.996672",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "KU lands grant funding to boost Indigenous representation in news media using character-based approach",
+      "url": "https://news.ku.edu/news/article/ku-lands-grant-funding-to-boost-indigenous-representation-in-news-media-using-character-based-approach",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "Melissa Green-Blye of KU is principal investigator of two grant projects that will train students to boost Indigenous representation in news media. They will work to build partnerships with students at Haskell Indian Nations university to build journalism networks that move beyond \"problem of the day\" coverage of topics like mental health for young people.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "New CERN measurement challenges long-standing theory of how gluons behave inside atomic nuclei",
+      "url": "https://news.ku.edu/news/article/new-cern-measurement-challenges-long-standing-theory-of-how-gluons-behave-inside-atomic-nuclei",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "A University of Kansas physicist played a leading role in a CERN study showing that two rival explanations for how gluons behave inside atomic nuclei can now be experimentally distinguished.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

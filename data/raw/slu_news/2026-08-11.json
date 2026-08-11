@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-08-11T12:00:16.423279",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "SLU Clinicians Will Offer Free Psychological Services to St. Louis City Residents",
+      "url": "https://www.slu.edu/news/2026/august/psychological-services-center-grant.php",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "St. Louisans seeking affordable mental health care can take the first step by getting a free assessment at Saint Louis University’s Psychological Services Center. Psychological assessments help determine cognitive, educational, emotional and behavioral difficulties for both children and adults and can result in diagnoses and recommended treatment plans tailored to each individual. Assessments can ",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU, NGA to Host Geo-Resolution Conference September 10",
+      "url": "https://www.slu.edu/news/2026/august/georesolution-conference.php",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "Saint Louis University and the National Geospatial-Intelligence Agency will co-host the 2026 Geo-Resolution conference, \"Securing the Future with Geospatial,\" at SLU's Busch Student Center Sept. 10.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-11T12:00:20.812399",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Beyond a keynote speaker: A strategic roadmap for AI in higher education",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/08/10/beyond-a-keynote-speaker-a-strategic-roadmap-for-ai-in-higher-education/",
+      "date": "2026-08-10",
+      "type": "AI in Education",
+      "summary_en": "The atmosphere inside the Global Connect/American Accounting Association conference at Caesar’s Palace in August 2026 was a study in contrasts. Outside, the Las Vegas sun was punishing, an environment so relentless that I joked that the swag bags should have swapped out sunblock for flame retardant.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}
