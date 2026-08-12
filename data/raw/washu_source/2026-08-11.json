@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-08-11T12:00:15.544331",
-  "total_news": 1,
+  "crawled_at": "2026-08-11T20:00:16.774054",
+  "total_news": 2,
   "news": [
+    {
+      "title": "WashU launches search for executive vice chancellor, chief financial officer",
+      "url": "https://source.washu.edu/2026/08/washu-launches-search-for-executive-vice-chancellor-chief-financial-officer/",
+      "date": "2026-08-11",
+      "type": "Appointments & Promotions",
+      "summary_en": "WashU has begun the search for its next executive vice chancellor and chief financial officer. David J. Gray, the current executive vice chancellor for finance, will complete his service in 2027.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "WashU Law clerkship program opens doors to careers in the judiciary and beyond",
       "url": "https://source.washu.edu/2026/08/washu-law-clerkship-program-opens-doors-to-careers-in-the-judiciary-and-beyond/",

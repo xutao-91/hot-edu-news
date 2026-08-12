@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-08-11T12:00:23.263437",
-  "total_news": 2,
+  "crawled_at": "2026-08-11T20:00:23.818618",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Purdue MEM Students work with Egyptian diagnostics startup Reme-D to build scalable customer support system",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0811-purdue-mem-reme-d-egypt-diagnostics-customer-support",
+      "date": "August 11, 2026",
+      "type": "News",
+      "summary_en": "A team of students in Purdue University’s Master of Engineering Management (MEM) program partnered with Egyptian diagnostics startup Reme-D to develop a customer feedback and support system designed to improve communication, streamline issue resolution and support the company's continued growth across the Middle East and Africa.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
     {
       "title": "Innovation, collaboration help engineering student build confidence in the classroom and on the track",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0810-youssuf-elhawary-purdue-mechanical-engineering-indy-mini",
