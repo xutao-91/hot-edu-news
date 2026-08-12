@@ -1,0 +1,35 @@
+{
+  "source": "Heritage Foundation - Education",
+  "source_url": "https://www.heritage.org/education",
+  "crawled_at": "2026-08-12T12:00:20.061422",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "The Next Parental Rights Fight Is in the School Library",
+      "url": "https://www.heritage.org/parental-rights/commentary/the-next-parental-rights-fight-the-school-library",
+      "date": "Aug 10, 2026",
+      "type": "Commentary",
+      "read_time": "4 min",
+      "source": "Heritage Foundation",
+      "category": "parental_rights"
+    },
+    {
+      "title": "Model State Legislation to Codify the Federal Higher Education Compact",
+      "url": "https://www.heritage.org/model-legislation/codify-the-federal-higher-education-compact",
+      "date": "",
+      "type": "article",
+      "read_time": "",
+      "source": "Heritage Foundation",
+      "category": "higher_ed"
+    },
+    {
+      "title": "An Act to Refocus Colleges and Universities on Their Fundamental Academic Mis...",
+      "url": "https://www.heritage.org/model-legislation/refocus-colleges-and-universities-on-their-fundamental-academic-mission",
+      "date": "",
+      "type": "article",
+      "read_time": "",
+      "source": "Heritage Foundation",
+      "category": "higher_ed"
+    }
+  ]
+}

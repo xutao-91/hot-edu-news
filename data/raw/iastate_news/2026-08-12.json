@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-08-12T12:00:13.079496",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Free training focuses on maintaining essential services during a cyberattack",
+      "url": "https://www.news.iastate.edu/news/free-training-focuses-maintaining-essential-services-during-cyberattack",
+      "date": "2026-08-11",
+      "type": "Science and Technology",
+      "summary_en": "Iowa State University is leading a statewide initiative that offers free training exercises for city administrators, county officials and school leaders. The goal of the exercise is to identify services that depend on technology and create an action plan to limit disruption to daily operations following a cyberattack.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}
