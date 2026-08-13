@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-13T12:00:20.621584",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Higher education needs better AI experiences, not more AI tools",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/08/12/higher-education-needs-better-ai-experiences-not-more-ai-tools/",
+      "date": "2026-08-12",
+      "type": "AI in Education",
+      "summary_en": "Artificial intelligence is becoming increasingly embedded across higher education. As AI policies continue to evolve, faculty are gaining greater clarity and opportunity to responsibly use new tools, including AI-powered assistants, content generation tools, chatbots, and a growing number of AI-enabled applications.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Beyond a keynote speaker: A strategic roadmap for AI in higher education",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/08/10/beyond-a-keynote-speaker-a-strategic-roadmap-for-ai-in-higher-education/",
+      "date": "2026-08-10",
+      "type": "AI in Education",
+      "summary_en": "The atmosphere inside the Global Connect/American Accounting Association conference at Caesar’s Palace in August 2026 was a study in contrasts. Outside, the Las Vegas sun was punishing, an environment so relentless that I joked that the swag bags should have swapped out sunblock for flame retardant.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

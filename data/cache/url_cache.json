@@ -17146,5 +17146,101 @@
     "fetch_time": "2026-08-12T20:00:30.458280",
     "title": "National Substance Use Primary Prevention Month, 2026",
     "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/13/americans-use-of-social-media-for-health-information-differs-by-race-and-ethnicity/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-13T12:00:09.015800",
+    "title": "Americans’ use of social media for health information differs by race and ethnicity",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/global/2026/08/13/india-and-pakistan-rivals-with-divergent-views-of-the-global-order/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-13T12:00:09.015829",
+    "title": "India and Pakistan: Rivals With Divergent Views of the Global Order",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/13/public-opinion-of-india-is-mixed-across-36-countries/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-13T12:00:09.015841",
+    "title": "Public opinion of India is mixed across 36 countries",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/08/sensory-overload-in-kids-has-distinct-neurobiological-roots/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-13T12:00:16.462115",
+    "title": "Sensory overload in kids has distinct neurobiological roots",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/08/washu-expert-rural-missouri-faces-an-overlooked-hiv-burden/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-13T12:00:16.462142",
+    "title": "Rural Missouri faces an overlooked HIV burden",
+    "category": "general"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/mcw-green-bay-prevea-health-retain-physician-talent-locally": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-08-13T12:00:17.193996",
+    "title": "MCW-Green Bay, Prevea Health Retain Physician Talent Locally",
+    "category": "ai"
+  },
+  "https://economicdevelopment.wayne.edu/news/one-year-of-warrior-impact-connecting-student-talent-to-detroit-opportunity-69917": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-13T12:00:18.543656",
+    "title": "One year of Warrior Impact: 80+ students worked nearly 10,000 hours at 50 local employers",
+    "category": "education"
+  },
+  "https://cfpca.wayne.edu/news/new-music-communication-majors-added-to-wayne-state-universitys-college-of-fine-performing-and-communication-arts-curriculum-68587": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-13T12:00:18.543683",
+    "title": "New music, communication majors added to WSU's College of Fine, Performing and Communication Arts curriculum",
+    "category": "education"
+  },
+  "/news/2026/08/legacy-built-wendell-johnson-speech-and-hearing-center-continues": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-13T12:00:19.939062",
+    "title": "Legacy built at Wendell Johnson Speech and Hearing Center continues",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/indiana-literacy-rates-improve-for-fifth-straight-year/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-13T12:00:20.591327",
+    "title": "Indiana Literacy Rates Improve for Fifth Straight Year",
+    "category": "ai"
+  },
+  "https://www.the74million.org/zero2eight/more-early-childhood-programs-are-providing-free-housing-to-teaching-staff/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-13T12:00:20.591355",
+    "title": "More Early Childhood Programs Are Providing Free Housing to Teaching Staff",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-cislunar-satellite-tracking-legrand": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-13T12:00:24.702800",
+    "title": "AAE's LeGrand develops smarter ways to track satellites beyond Earth's orbit",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/sporting-kc-co-founder-cliff-illig-to-headline-panel-at-ku-exhibition-closing-event": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-13T12:00:28.593191",
+    "title": "Sporting KC co-founder Cliff Illig to headline panel at KU exhibition closing event",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA5022-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-13T12:00:31.489126",
+    "title": "Exploring AI’s Operational Implications in a Future U.S.-China Conflict: Initial Observations from the Camp(ai)gn Wargame",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/uchicago-psychology-study-points-new-potential-treating-eating-disorders": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-13T12:00:31.800274",
+    "title": "UChicago psychology study points to new potential for treating eating disorders",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-13T12:00:32.155185",
+    "title": "The Great Transshipment Scam",
+    "category": "general"
   }
 }

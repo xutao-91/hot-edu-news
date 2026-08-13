@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-13T12:00:17.756068",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "One year of Warrior Impact: 80+ students worked nearly 10,000 hours at 50 local employers",
+      "url": "https://economicdevelopment.wayne.edu/news/one-year-of-warrior-impact-connecting-student-talent-to-detroit-opportunity-69917",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "New music, communication majors added to WSU's College of Fine, Performing and Communication Arts curriculum",
+      "url": "https://cfpca.wayne.edu/news/new-music-communication-majors-added-to-wayne-state-universitys-college-of-fine-performing-and-communication-arts-curriculum-68587",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Your guide to starting the semester Warrior Strong",
+      "url": "https://today.wayne.edu/news/2026/08/12/your-guide-to-starting-the-semester-warrior-strong-69920",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Social work graduate Aya Opayeh helps Detroit students chart their futures through GM Student Corps",
+      "url": "https://economicdevelopment.wayne.edu/news/how-social-work-graduate-aya-opayeh-26-helps-detroit-students-chart-their-futures-through-gm-student-corps-69910",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State opportunities opened doors to a national career in public service",
+      "url": "https://today.wayne.edu/news/2026/08/11/wayne-state-opportunities-opened-doors-to-a-national-career-in-public-service-69913",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "WSU urban planners are giving a Detroit neighborhood the tools to demand better",
+      "url": "https://clas.wayne.edu/usp/news/wayne-state-urban-planners-give-a-detroit-neighborhood-the-tools-to-demand-better-69908",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

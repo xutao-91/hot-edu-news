@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-13T12:00:25.901763",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Lights, camera, action! UIC faculty member helps curate the Museum of Broadcast Communication",
+      "url": "https://today.uic.edu/lights-camera-action-uic-faculty-member-helps-curate-the-museum-of-broadcast-communication/",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "When the Museum of Broadcast Communication reopened to the public […]",
+      "source": "UIC Today",
+      "category": "academic"
+    },
+    {
+      "title": "Ancient bacterial signals from cell powerhouses may fuel excessive inflammation",
+      "url": "https://today.uic.edu/ancient-bacterial-signals-from-cell-powerhouses-may-fuel-excessive-inflammation/",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "UIC study shows that proteins released from mitochondria can trigger immune cells.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "’85 UIC grad makes most of access to opportunities",
+      "url": "https://today.uic.edu/85-uic-grad-makes-most-of-access-to-opportunities/",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "Debra Evans was the first in her family to graduate college, but not the last.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "’18 communications grad says UIC led him to the Chicago Bears",
+      "url": "https://today.uic.edu/18-communications-grad-says-uic-led-him-to-the-chicago-bears/",
+      "date": "2026-08-10",
+      "type": "News",
+      "summary_en": "Miguel Lemus parents’ work ethic and college professors helped pave the way to success.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}
