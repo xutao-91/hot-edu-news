@@ -1,9 +1,30 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-12T12:00:31.149956",
-  "total_news": 6,
+  "crawled_at": "2026-08-12T20:00:30.268228",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Expanding Capabilities to Combat Transnational Cyber-Enabled Crime",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/expanding-capabilities-to-combat-transnational-cyber-enabled-crime/",
+      "date": "August 12, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Expands Capabilities to Combat Transnational Cyber-Enabled Crime",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-expands-capabilities-to-combat-transnational-cyber-enabled-crime/",
+      "date": "August 12, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "National Substance Use Primary Prevention Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-substance-use-primary-prevention-month-2026/",
+      "date": "August 12, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "America First Means Ohio First: President Trump, Republicans Deliver for Ohio",
       "url": "https://www.whitehouse.gov/releases/2026/08/america-first-means-ohio-first-president-trump-republicans-deliver-for-ohio/",

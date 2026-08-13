@@ -1,8 +1,8 @@
 {
   "source": "Rand Corporation",
   "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
-  "crawled_at": "2026-08-12T12:00:29.769895",
-  "total_news": 4,
+  "crawled_at": "2026-08-12T20:00:29.949674",
+  "total_news": 5,
   "news": [
     {
       "title": "AI, China, and the New Risks to U.S. Security: Q&A with Matan Chorev",
@@ -12,6 +12,15 @@
       "summary_en": "Matan Chorev is vice president and director of RAND Global and Emerging Risks. In this Q&A, he discusses some of the most consequential challenges facing the United States and the world.",
       "source": "Rand Corporation",
       "category": "commentary"
+    },
+    {
+      "title": "Back to School: Three Big Challenges",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/back-to-school-three-big-challenges.html",
+      "date": "Aug 12, 2026",
+      "type": "Podcast",
+      "summary_en": "RAND's Heather Schwartz discusses three education trends to watch as students and teachers head back to the classroom: AI, cell phones, absenteeism.",
+      "source": "Rand Corporation",
+      "category": "students"
     },
     {
       "title": "Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion",

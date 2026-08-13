@@ -1,9 +1,23 @@
 {
   "source": "Pew Research Center",
   "source_url": "https://www.pewresearch.org/publications/",
-  "crawled_at": "2026-08-12T12:00:06.932907",
-  "total_news": 2,
+  "crawled_at": "2026-08-12T20:00:06.677762",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Second Trump administration has ended Temporary Protected Status for most immigrants who had it",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/12/second-trump-administration-has-ended-temporary-protected-status-for-most-immigrants-who-had-it/",
+      "date": "Aug 12, 2026",
+      "type": "short reads",
+      "categories": [
+        "Immigrant Populations",
+        "Immigration Issues",
+        "Legal Immigration"
+      ],
+      "summary_en": "The second Trump administration has ended Temporary Protected Status for 13 countries, affecting roughly 1 million recipients.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
     {
       "title": "Most U.S. adults have lived with a romantic partner they’re not married to by their early 40s",
       "url": "https://www.pewresearch.org/short-reads/2026/08/12/most-us-adults-have-lived-with-a-romantic-partner-theyre-not-married-to-by-their-early-40s/",

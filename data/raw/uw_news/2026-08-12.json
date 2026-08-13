@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-08-12T12:00:19.666926",
-  "total_news": 9,
+  "crawled_at": "2026-08-12T20:00:18.906117",
+  "total_news": 10,
   "news": [
+    {
+      "title": "Researchers identify new target in the gut for reducing Alzheimer’s risk",
+      "url": "https://news.wisc.edu/researchers-identify-new-target-in-the-gut-for-reducing-alzheimers-risk/",
+      "date": "August 12, 2026",
+      "type": "News",
+      "summary_en": "Gut bacteria produce a common compound called imidazole propionate. Higher levels of it contribute to dementia-related changes in the brain, a study reveals.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
     {
       "title": "UW researchers simplify production of promising targeted cancer therapies",
       "url": "https://news.wisc.edu/uw-researchers-simplify-production-of-promising-targeted-cancer-therapies/",

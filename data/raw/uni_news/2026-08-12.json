@@ -1,15 +1,33 @@
 {
   "source": "University of Northern Iowa News",
   "source_url": "https://insideuni.uni.edu/all-news",
-  "crawled_at": "2026-08-12T12:00:19.357672",
-  "total_news": 3,
+  "crawled_at": "2026-08-12T20:00:17.767336",
+  "total_news": 5,
   "news": [
+    {
+      "title": "Heading back to UNI? Here’s what to know about construction",
+      "url": "https://insideuni.uni.edu/campus-community/heading-back-uni-heres-what-know-about-construction",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "UNI, the City of Cedar Falls and others in the community have been working diligently to make improvements across campus to make your experience even better this fall. While much of that work is already complete, please note that some projects are still ongoing.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI’s Public Art Incubator leaves its mark across Iowa",
+      "url": "https://insideuni.uni.edu/campus-community/unis-public-art-incubator-leaves-its-mark-across-iowa",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "In a studio tucked inside the University of Northern Iowa’s Kamerick Art Building, summer is anything but quiet. Instead of empty classrooms, sparks are flying and sculptures are taking shape as students work alongside faculty on public art projects that will soon become permanent installations across Iowa. This summer, one of the biggest projects celebrates the Iowa State Fair.",
+      "source": "UNI News",
+      "category": "general"
+    },
     {
       "title": "UNI Homecoming 2026 to feature first-ever campus drone show, live music and distinguished parade guests",
       "url": "https://insideuni.uni.edu/campus-community/uni-homecoming-2026-feature-first-ever-campus-drone-show-live-music-and",
       "date": "2026-08-11",
       "type": "News",
-      "summary_en": "A short summary displayed on listings of news on InsideUNI and on the InsideUNI homepage if promoted to top of the front page.",
+      "summary_en": "UNI is preparing for a memorable Homecoming celebration this fall, with new entertainment, honored guests and special events that will also mark the conclusion of both the UNI Sesquicentennial Celebration and the of Our Tomorrow campaign.",
       "source": "UNI News",
       "category": "community"
     },

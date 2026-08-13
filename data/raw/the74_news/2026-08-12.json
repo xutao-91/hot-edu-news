@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-08-12T12:00:14.155982",
+  "crawled_at": "2026-08-12T20:00:17.668336",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "August 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:13.992185"
+      "crawled_at": "2026-08-12T20:00:17.401413"
+    },
+    {
+      "title": "Black-Majority Schools in Texas Receive More Fs Than A Ratings",
+      "url": "https://www.the74million.org/article/black-majority-schools-in-texas-receive-more-fs-than-a-ratings-leaving-parents-with-tough-choices/",
+      "date": "August 12, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-12T20:00:17.422886"
     },
     {
       "title": "How Trump’s Anti-DEI Shift Unraveled a Successful Federal Investment in Maine Schools",
@@ -18,7 +26,7 @@
       "date": "August 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:13.998210"
+      "crawled_at": "2026-08-12T20:00:17.434958"
     },
     {
       "title": "Thousands of LAUSD Workers Face Layoffs That Didn’t Have to Happen",
@@ -26,7 +34,7 @@
       "date": "August 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.004525"
+      "crawled_at": "2026-08-12T20:00:17.445810"
     },
     {
       "title": "Trump Signs Order on Childhood Vaccines Against Medical Groups’ Guidance",
@@ -34,15 +42,15 @@
       "date": "August 12, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.009021"
+      "crawled_at": "2026-08-12T20:00:17.455268"
     },
     {
       "title": "A Bad Jobs Report for Public Education",
       "url": "https://www.the74million.org/article/a-bad-jobs-report-for-public-education/",
-      "date": "August 12, 2026",
+      "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.019361"
+      "crawled_at": "2026-08-12T20:00:17.463866"
     },
     {
       "title": "NYC Reading Scores Sink, With Third Grade Proficiency Falling 14 points",
@@ -50,7 +58,7 @@
       "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.025026"
+      "crawled_at": "2026-08-12T20:00:17.474916"
     },
     {
       "title": "More Dads Are Taking Paid Paternity Leave",
@@ -58,7 +66,7 @@
       "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.027323"
+      "crawled_at": "2026-08-12T20:00:17.486410"
     },
     {
       "title": "‘What Did We Do Wrong Now?’: Rural Iowa Schools Weigh Impact of ESA Expansion",
@@ -66,7 +74,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.035087"
+      "crawled_at": "2026-08-12T20:00:17.497883"
     },
     {
       "title": "Denver District Accused of Keeping Kids In English Learner Program Far Too Long",
@@ -74,7 +82,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.039571"
+      "crawled_at": "2026-08-12T20:00:17.500234"
     },
     {
       "title": "Major Virtual Tutoring Provider Shuts Down; Experts Cite Lack of Evidence",
@@ -82,7 +90,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.045004"
+      "crawled_at": "2026-08-12T20:00:17.514750"
     },
     {
       "title": "Absenteeism Is a Major Problem. So Why Can’t Schools Agree on How to Measure It?",
@@ -90,7 +98,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.053624"
+      "crawled_at": "2026-08-12T20:00:17.526265"
     },
     {
       "title": "Nearly 15 Years After Student Discipline Reform, School Suspensions in Mass. Are Falling. Are Emergency Removals Taking Their Place?",
@@ -98,7 +106,7 @@
       "date": "August 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.062097"
+      "crawled_at": "2026-08-12T20:00:17.537809"
     },
     {
       "title": "California Expands Lunch Program That Pairs Schools With Farms",
@@ -106,7 +114,7 @@
       "date": "August 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.064395"
+      "crawled_at": "2026-08-12T20:00:17.549278"
     },
     {
       "title": "LAUSD’s Youngest Students Will Start a Screen-Free School Year. Here’s What Parents Need to Know",
@@ -114,7 +122,7 @@
       "date": "August 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.073364"
+      "crawled_at": "2026-08-12T20:00:17.551632"
     },
     {
       "title": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space",
@@ -122,7 +130,7 @@
       "date": "August 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.080880"
+      "crawled_at": "2026-08-12T20:00:17.563112"
     },
     {
       "title": "New Mexico Judge Orders Meta to Pay $567M for Youth Harm Abatement Fund",
@@ -130,7 +138,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.089423"
+      "crawled_at": "2026-08-12T20:00:17.574590"
     },
     {
       "title": "‘Nobody Feels Good, Nobody’s Learning’: High Temperatures Disrupt School Days",
@@ -138,7 +146,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.097971"
+      "crawled_at": "2026-08-12T20:00:17.586117"
     },
     {
       "title": "Historian Natalia Mehlman Petrzela on Biden’s Education Legacy",
@@ -146,7 +154,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.106438"
+      "crawled_at": "2026-08-12T20:00:17.597573"
     },
     {
       "title": "Head Start’s Antipoverty Mission Threatened by Trump Administration Overhaul",
@@ -154,7 +162,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.114900"
+      "crawled_at": "2026-08-12T20:00:17.610015"
     },
     {
       "title": "Which Families Are Using ESAs? What We Know About Texas’ First School Vouchers",
@@ -162,7 +170,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.117210"
+      "crawled_at": "2026-08-12T20:00:17.621242"
     },
     {
       "title": "Teachers Have Some Big Wins in This Year’s California Budget. Here Are Their Victories",
@@ -170,7 +178,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.125674"
+      "crawled_at": "2026-08-12T20:00:17.633026"
     },
     {
       "title": "Maryland Gov. Offers Late Admission, $800 Credit to Disenrolled Howard Students",
@@ -178,7 +186,7 @@
       "date": "August 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.134183"
+      "crawled_at": "2026-08-12T20:00:17.643995"
     },
     {
       "title": "The Schools Turning to AI to Rate Students Beyond A-F Grades",
@@ -186,7 +194,7 @@
       "date": "August 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.142641"
+      "crawled_at": "2026-08-12T20:00:17.656451"
     },
     {
       "title": "Measles Cases Hit 35-Year Record High Just As Kids Head Back to School",
@@ -194,15 +202,7 @@
       "date": "August 5, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.149882"
-    },
-    {
-      "title": "Oklahoma Jewish Charter Case Heads to Court as Debate Spreads to Other States",
-      "url": "https://www.the74million.org/article/oklahoma-jewish-charter-case-heads-to-court-as-debate-spreads-to-other-states/",
-      "date": "August 4, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-12T12:00:14.153339"
+      "crawled_at": "2026-08-12T20:00:17.667975"
     }
   ]
 }
