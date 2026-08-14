@@ -1,0 +1,62 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-14T12:00:30.651239",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Exploring AI’s Operational Implications in a Future U.S.-China Conflict: Initial Observations from the Camp(ai)gn Wargame",
+      "url": "https://www.rand.org/pubs/perspectives/PEA5022-1.html",
+      "date": "Aug 13, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The wargame Camp(ai)gn explores the military implications of artificial intelligence. This paper presents gameplay observations about how autonomous systems might shape the character of conflict, logic of escalation, and choices facing commanders.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "AI, China, and the New Risks to U.S. Security: Q&A with Matan Chorev",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/ai-china-and-the-new-risks-to-us-security-qa-with-matan.html",
+      "date": "Aug 12, 2026",
+      "type": "Commentary",
+      "summary_en": "Matan Chorev is vice president and director of RAND Global and Emerging Risks. In this Q&A, he discusses some of the most consequential challenges facing the United States and the world.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Back to School: Three Big Challenges",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/back-to-school-three-big-challenges.html",
+      "date": "Aug 12, 2026",
+      "type": "Podcast",
+      "summary_en": "RAND's Heather Schwartz discusses three education trends to watch as students and teachers head back to the classroom: AI, cell phones, absenteeism.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "Testing Large Language Model Agents on the Use of Biological Tools for Nucleic Acid Synthesis Screening Evasion",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4741-2.html",
+      "date": "Aug 11, 2026",
+      "type": "Research",
+      "summary_en": "Large language model agents demonstrate an emerging ability to use biological tools to redesign peptides and proteins for nucleic acid synthesis screening evasion, indicating that agents could lower expertise barriers for hazardous capabilities.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Assessing the Energy Potential of Artificial Intelligence Data Center Sites: A Framework for Comparing Site Suitability",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA3845-3.html",
+      "date": "Aug 11, 2026",
+      "type": "Research Summary",
+      "summary_en": "This brief describes a framework designed to assess possible data center sites for their energy potential. The framework is intended to serve as an energy-potential screening tool for planners, policymakers, and developers.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Modernizing Department of the Air Force Training and Education Approaches: Leveraging Stackable Certificates for Artificial Intelligence and Advanced Technologies",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4950-1.html",
+      "date": "Aug 11, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Stackable certificate programs in artificial intelligence and advanced technologies could build technological fluency in U.S. Department of the Air Force critical missions and career fields and modernize existing professional military education.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

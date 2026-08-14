@@ -1,0 +1,53 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-14T12:00:26.652268",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UIC researcher using AI to help communities improve cardiac arrest survival rates",
+      "url": "https://today.uic.edu/uic-researcher-using-ai-to-help-communities-improve-cardiac-arrest-survival-rates/",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "Houshang Darabi explores AI application for out-of-hospital cardiac arrest prediction and management.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "UIC researchers developing tool to predict hidden mold risks in homes",
+      "url": "https://today.uic.edu/uic-researchers-developing-tool-to-predict-hidden-mold-risks-in-homes/",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "A user-friendly, cost-effective tool could identify houses at risk of hidden mold growth without requiring costly physical inspections.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "Former pediatric oncologist got answers, treatment from Comprehensive Stroke Center",
+      "url": "https://today.uic.edu/former-pediatric-oncologist-got-answers-treatment-from-comprehensive-stroke-center/",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "Dr. Mary Lou Schmidt shares her experience as a UI Health patient.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Lights, camera, action! UIC faculty member helps curate the Museum of Broadcast Communication",
+      "url": "https://today.uic.edu/lights-camera-action-uic-faculty-member-helps-curate-the-museum-of-broadcast-communication/",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "When the Museum of Broadcast Communication reopened to the public […]",
+      "source": "UIC Today",
+      "category": "academic"
+    },
+    {
+      "title": "Ancient bacterial signals from cell powerhouses may fuel excessive inflammation",
+      "url": "https://today.uic.edu/ancient-bacterial-signals-from-cell-powerhouses-may-fuel-excessive-inflammation/",
+      "date": "2026-08-11",
+      "type": "News",
+      "summary_en": "UIC study shows that proteins released from mitochondria can trigger immune cells.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-14T12:00:25.446877",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Indiana Department of Health, IU School of Medicine to improve rural ER obstetric, pediatric care",
+      "url": "https://news.iu.edu/live/news/52444-indiana-department-of-health-iu-school-of-medicine",
+      "date": "Aug 12, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Cinema bringing Doug Jones, Marilyn Monroe tribute and spooky classics to Bloomington",
+      "url": "https://news.iu.edu/live/news/51935-iu-cinema-bringing-doug-jones-marilyn-monroe",
+      "date": "Aug 11, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Trustees to meet Aug. 14 in Indianapolis",
+      "url": "https://news.iu.edu/live/news/52442-trustees-to-meet-aug-14-in-indianapolis",
+      "date": "Aug 12, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Mobile screening initiative will expand healthcare access in rural Indiana",
+      "url": "https://publichealth.indiana.edu/news-events/_news/2026/2026-anthem-partnership.html",
+      "date": "Aug 11, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

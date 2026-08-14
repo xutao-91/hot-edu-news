@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-14T12:00:19.740602",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Cohort connections matter: Strategies to help graduate students persist and succeed",
+      "url": "https://www.ecampusnews.com/student-wellbeing/2026/08/14/cohort-connections-graduate-students-persist-succeed/",
+      "date": "2026-08-14",
+      "type": "Student Experience",
+      "summary_en": "Graduate education is demanding and isolating, especially for adult learners balancing coursework, research, employment, and family responsibilities. National data show half of doctoral students leave their programs before earning their degree.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Higher education needs better AI experiences, not more AI tools",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/08/12/higher-education-needs-better-ai-experiences-not-more-ai-tools/",
+      "date": "2026-08-12",
+      "type": "AI in Education",
+      "summary_en": "Artificial intelligence is becoming increasingly embedded across higher education. As AI policies continue to evolve, faculty are gaining greater clarity and opportunity to responsibly use new tools, including AI-powered assistants, content generation tools, chatbots, and a growing number of AI-enabled applications.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

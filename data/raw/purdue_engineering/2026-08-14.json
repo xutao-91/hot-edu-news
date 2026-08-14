@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-08-14T12:00:22.137619",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "AAE's LeGrand develops smarter ways to track satellites beyond Earth's orbit",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-cislunar-satellite-tracking-legrand",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "Purdue University engineer Keith LeGrand is developing methods to track the location and movement of objects in cislunar space — the area around Earth extending to just beyond the moon's orbit, which encompasses upwards of 300,000 miles, or roughly 12 times around the Earth's equator.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ECE's Shen, Appenzeller and NE's Chatzidakis part of Genesis Mission awards",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-ai-genesis-mission-awards",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "Several Purdue Engineering faculty are part of Genesis Mission awards led by other institutions.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue MEM Students work with Egyptian diagnostics startup Reme-D to build scalable customer support system",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0811-purdue-mem-reme-d-egypt-diagnostics-customer-support",
+      "date": "August 11, 2026",
+      "type": "News",
+      "summary_en": "A team of students in Purdue University’s Master of Engineering Management (MEM) program partnered with Egyptian diagnostics startup Reme-D to develop a customer feedback and support system designed to improve communication, streamline issue resolution and support the company's continued growth across the Middle East and Africa.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

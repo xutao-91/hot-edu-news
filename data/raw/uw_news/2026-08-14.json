@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-14T12:00:18.260412",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Found: Mega-Earth!",
+      "url": "https://ls.wisc.edu/news/found-mega-earth",
+      "date": "August 14, 2026",
+      "type": "News",
+      "summary_en": "Researchers with the Wisconsin Center for Origins Research have discovered their first exoplanet, a 170-million-year-old planet more than 2.5 times larger than the Earth.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Global radiology partnerships provide critical medical support and shared learning",
+      "url": "https://news.wisc.edu/global-radiology-partnerships-provide-critical-medical-support-and-shared-learning/",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "From Peru to Malaysia, radiology experts and programs from UW–Madison are helping under-resourced communities around the world. For the clinicians involved, the impact is mutual.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Researchers identify new target in the gut for reducing Alzheimer’s risk",
+      "url": "https://news.wisc.edu/researchers-identify-new-target-in-the-gut-for-reducing-alzheimers-risk/",
+      "date": "August 12, 2026",
+      "type": "News",
+      "summary_en": "Gut bacteria produce a common compound called imidazole propionate. Higher levels of it contribute to dementia-related changes in the brain, a study reveals.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "UW researchers simplify production of promising targeted cancer therapies",
+      "url": "https://news.wisc.edu/uw-researchers-simplify-production-of-promising-targeted-cancer-therapies/",
+      "date": "August 12, 2026",
+      "type": "News",
+      "summary_en": "A new technique for creating antibody-drug conjugates has already led to a startup company aimed at advancing the technology.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "A bird’s-eye view of the world",
+      "url": "https://news.wisc.edu/a-birds-eye-view-of-the-world/",
+      "date": "August 12, 2026",
+      "type": "News",
+      "summary_en": "Presented by UW's McPherson Eye Research Institute, Vision at the Arboretum offered a glimpse in to the world of avian eyesight.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "A movie set right on campus",
+      "url": "https://news.wisc.edu/a-movie-set-right-on-campus/",
+      "date": "August 11, 2026",
+      "type": "News",
+      "summary_en": "Professor Aaron Greer turns to the UW–Madison community to help bring the feature film ‘Morning Moon’ to life.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Tasty, cheap and eco-friendly, Goodie Bag is growing at an app-ealing rate",
+      "url": "https://onwisconsin.uwalumni.com/tasty-cheap-and-eco-friendly/",
+      "date": "August 11, 2026",
+      "type": "News",
+      "summary_en": "With help from a Badger alum, a fast-growing app is helping people access surplus food at a steep discount.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}
