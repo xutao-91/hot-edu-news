@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-08-13T12:00:19.101093",
-  "total_news": 10,
+  "crawled_at": "2026-08-13T20:00:20.170405",
+  "total_news": 11,
   "news": [
+    {
+      "title": "Global radiology partnerships provide critical medical support and shared learning",
+      "url": "https://news.wisc.edu/global-radiology-partnerships-provide-critical-medical-support-and-shared-learning/",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "From Peru to Malaysia, radiology experts and programs from UW–Madison are helping under-resourced communities around the world. For the clinicians involved, the impact is mutual.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Researchers identify new target in the gut for reducing Alzheimer’s risk",
       "url": "https://news.wisc.edu/researchers-identify-new-target-in-the-gut-for-reducing-alzheimers-risk/",

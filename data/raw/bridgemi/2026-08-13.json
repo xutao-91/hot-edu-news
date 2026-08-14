@@ -1,9 +1,19 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-08-13T12:00:12.906014",
-  "total_news": 2,
+  "crawled_at": "2026-08-13T20:00:12.477446",
+  "total_news": 3,
   "news": [
+    {
+      "title": "A renewed push to ban seclusion, reduce restraint in Michigan schools",
+      "url": "https://bridgemi.com/talent-education/a-renewed-push-to-ban-seclusion-reduce-restraint-in-michigan-schools/",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "Michigan students were secluded or restrained nearly 18,000 times during the 2024-2025 school year. Advocates say more staff training and an emphasis on prevention would help students.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
     {
       "title": "Michigan universities make secret decisions; some lawmakers want change",
       "url": "https://bridgemi.com/talent-education/michigan-universities-make-secret-decisions-some-lawmakers-want-change/",

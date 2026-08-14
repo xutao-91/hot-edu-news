@@ -1,9 +1,18 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-08-13T12:00:22.975405",
-  "total_news": 1,
+  "crawled_at": "2026-08-13T20:00:22.751862",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Minnesota iron ore could be key to sustainable and lower-cost semiconductor",
+      "url": "https://cse.umn.edu/college/news/minnesota-iron-ore-could-be-key-sustainable-and-lower-cost-semiconductor",
+      "date": "2026-08-13",
+      "type": "Nanotechnology",
+      "summary_en": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor-quality iron sulfide, also known as “fool’s gold” or pyrite.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
     {
       "title": "David Pappone named 2026 Notable Chief Financial Officer by Twin Cities Business",
       "url": "https://cse.umn.edu/college/news/david-pappone-named-2026-notable-chief-financial-officer-twin-cities-business",

@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-08-13T12:00:15.381688",
-  "total_news": 6,
+  "crawled_at": "2026-08-13T20:00:15.119857",
+  "total_news": 7,
   "news": [
+    {
+      "title": "Marilyn and Gary Ratkin honored with Harris Award",
+      "url": "https://source.washu.edu/2026/08/marilyn-and-gary-ratkin-honored-with-harris-award/",
+      "date": "2026-08-13",
+      "type": "Advancement",
+      "summary_en": "Marilyn and Gary Ratkin are the recipients of the 2026 Jane and Whitney Harris St. Louis Community Service Award. The award recognizes couples who contribute to the culture and welfare of the greater St. Louis community in an outstanding manner.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Sensory overload in kids has distinct neurobiological roots",
       "url": "https://source.washu.edu/2026/08/sensory-overload-in-kids-has-distinct-neurobiological-roots/",

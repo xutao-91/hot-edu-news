@@ -17242,5 +17242,95 @@
     "fetch_time": "2026-08-13T12:00:32.155185",
     "title": "The Great Transshipment Scam",
     "category": "general"
+  },
+  "https://bridgemi.com/talent-education/a-renewed-push-to-ban-seclusion-reduce-restraint-in-michigan-schools/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-08-13T20:00:13.238045",
+    "title": "A renewed push to ban seclusion, reduce restraint in Michigan schools",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/marilyn-and-gary-ratkin-honored-with-harris-award/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-13T20:00:16.340742",
+    "title": "Marilyn and Gary Ratkin honored with Harris Award",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/despite-funding-increase-gap-to-adequately-fund-schools-widens-in-most-illinois-districts/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-13T20:00:16.542488",
+    "title": "Gap to Adequately Fund Schools Widens in Illinois",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/missouri-4-h-leaders-get-a-head-start-on-becoming-mizzou-tigers/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-13T20:00:21.231819",
+    "title": "Missouri 4-H leaders get a head start on becoming Mizzou Tigers",
+    "category": "education"
+  },
+  "https://news.wisc.edu/global-radiology-partnerships-provide-critical-medical-support-and-shared-learning/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-13T20:00:21.278661",
+    "title": "Global radiology partnerships provide critical medical support and shared learning",
+    "category": "education"
+  },
+  "https://www.heritage.org/education/commentary/applying-the-white-houses-higher-ed-compact-state-level": {
+    "source": "heritage",
+    "fetch_time": "2026-08-13T20:00:21.952895",
+    "title": "Applying the White House’s Higher-Ed “Compact” at State Level",
+    "category": "general"
+  },
+  "https://cse.umn.edu/college/news/minnesota-iron-ore-could-be-key-sustainable-and-lower-cost-semiconductor": {
+    "source": "umn_cse",
+    "fetch_time": "2026-08-13T20:00:23.484025",
+    "title": "Minnesota iron ore could be key to sustainable and lower-cost semiconductor",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-ai-genesis-mission-awards": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-13T20:00:24.857885",
+    "title": "ECE's Shen, Appenzeller and NE's Chatzidakis part of Genesis Mission awards",
+    "category": "general"
+  },
+  "https://today.uic.edu/uic-researcher-using-ai-to-help-communities-improve-cardiac-arrest-survival-rates/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-13T20:00:26.924068",
+    "title": "UIC researcher using AI to help communities improve cardiac arrest survival rates",
+    "category": "ai"
+  },
+  "https://today.uic.edu/uic-researchers-developing-tool-to-predict-hidden-mold-risks-in-homes/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-13T20:00:26.924094",
+    "title": "UIC researchers developing tool to predict hidden mold risks in homes",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/former-pediatric-oncologist-got-answers-treatment-from-comprehensive-stroke-center/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-13T20:00:26.924106",
+    "title": "Former pediatric oncologist got answers, treatment from Comprehensive Stroke Center",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-13T20:00:31.396849",
+    "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America’s Shipbuilding Industrial Base",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-13T20:00:31.396875",
+    "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-13T20:00:31.396885",
+    "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-13T20:00:31.396895",
+    "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+    "category": "semiconductor"
   }
 }

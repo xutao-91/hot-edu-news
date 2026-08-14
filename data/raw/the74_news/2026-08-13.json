@@ -1,7 +1,7 @@
 {
   "source": "the74_news",
   "source_url": "https://www.the74million.org/news/",
-  "crawled_at": "2026-08-13T12:00:19.533777",
+  "crawled_at": "2026-08-13T20:00:15.240888",
   "total_news": 25,
   "news": [
     {
@@ -10,7 +10,15 @@
       "date": "August 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.280415"
+      "crawled_at": "2026-08-13T20:00:14.986811"
+    },
+    {
+      "title": "Gap to Adequately Fund Schools Widens in Illinois",
+      "url": "https://www.the74million.org/article/despite-funding-increase-gap-to-adequately-fund-schools-widens-in-most-illinois-districts/",
+      "date": "August 13, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-13T20:00:15.000052"
     },
     {
       "title": "Indiana Literacy Rates Improve for Fifth Straight Year",
@@ -18,7 +26,7 @@
       "date": "August 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.286808"
+      "crawled_at": "2026-08-13T20:00:15.012014"
     },
     {
       "title": "Black-Majority Schools in Texas Receive More Fs Than A Ratings",
@@ -26,7 +34,7 @@
       "date": "August 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.296340"
+      "crawled_at": "2026-08-13T20:00:15.024807"
     },
     {
       "title": "How Trump’s Anti-DEI Shift Unraveled a Successful Federal Investment in Maine Schools",
@@ -34,15 +42,7 @@
       "date": "August 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.318255"
-    },
-    {
-      "title": "Thousands of LAUSD Workers Face Layoffs That Didn’t Have to Happen",
-      "url": "https://www.the74million.org/article/thousands-of-lausd-workers-face-layoffs-that-didnt-have-to-happen/",
-      "date": "August 13, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.331746"
+      "crawled_at": "2026-08-13T20:00:15.038460"
     },
     {
       "title": "More Early Childhood Programs Are Providing Free Housing to Teaching Staff",
@@ -50,7 +50,15 @@
       "date": "August 13, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.343336"
+      "crawled_at": "2026-08-13T20:00:15.049903"
+    },
+    {
+      "title": "Thousands of LAUSD Workers Face Layoffs That Didn’t Have to Happen",
+      "url": "https://www.the74million.org/article/thousands-of-lausd-workers-face-layoffs-that-didnt-have-to-happen/",
+      "date": "August 12, 2026",
+      "summary": "",
+      "source": "the74_news",
+      "crawled_at": "2026-08-13T20:00:15.061346"
     },
     {
       "title": "Trump Signs Order on Childhood Vaccines Against Medical Groups’ Guidance",
@@ -58,7 +66,7 @@
       "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.355047"
+      "crawled_at": "2026-08-13T20:00:15.074450"
     },
     {
       "title": "A Bad Jobs Report for Public Education",
@@ -66,7 +74,7 @@
       "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.366492"
+      "crawled_at": "2026-08-13T20:00:15.083576"
     },
     {
       "title": "NYC Reading Scores Sink, With Third Grade Proficiency Falling 14 points",
@@ -74,7 +82,7 @@
       "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.377119"
+      "crawled_at": "2026-08-13T20:00:15.094640"
     },
     {
       "title": "More Dads Are Taking Paid Paternity Leave",
@@ -82,7 +90,7 @@
       "date": "August 11, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.386816"
+      "crawled_at": "2026-08-13T20:00:15.105032"
     },
     {
       "title": "‘What Did We Do Wrong Now?’: Rural Iowa Schools Weigh Impact of ESA Expansion",
@@ -90,7 +98,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.398516"
+      "crawled_at": "2026-08-13T20:00:15.115004"
     },
     {
       "title": "Denver District Accused of Keeping Kids In English Learner Program Far Too Long",
@@ -98,7 +106,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.407158"
+      "crawled_at": "2026-08-13T20:00:15.124778"
     },
     {
       "title": "Major Virtual Tutoring Provider Shuts Down; Experts Cite Lack of Evidence",
@@ -106,7 +114,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.416082"
+      "crawled_at": "2026-08-13T20:00:15.137782"
     },
     {
       "title": "Absenteeism Is a Major Problem. So Why Can’t Schools Agree on How to Measure It?",
@@ -114,7 +122,7 @@
       "date": "August 10, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.418478"
+      "crawled_at": "2026-08-13T20:00:15.147202"
     },
     {
       "title": "Nearly 15 Years After Student Discipline Reform, School Suspensions in Mass. Are Falling. Are Emergency Removals Taking Their Place?",
@@ -122,7 +130,7 @@
       "date": "August 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.430208"
+      "crawled_at": "2026-08-13T20:00:15.162098"
     },
     {
       "title": "California Expands Lunch Program That Pairs Schools With Farms",
@@ -130,7 +138,7 @@
       "date": "August 9, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.441906"
+      "crawled_at": "2026-08-13T20:00:15.171608"
     },
     {
       "title": "LAUSD’s Youngest Students Will Start a Screen-Free School Year. Here’s What Parents Need to Know",
@@ -138,7 +146,7 @@
       "date": "August 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.453493"
+      "crawled_at": "2026-08-13T20:00:15.181016"
     },
     {
       "title": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space",
@@ -146,7 +154,7 @@
       "date": "August 8, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.465017"
+      "crawled_at": "2026-08-13T20:00:15.183333"
     },
     {
       "title": "New Mexico Judge Orders Meta to Pay $567M for Youth Harm Abatement Fund",
@@ -154,7 +162,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.476412"
+      "crawled_at": "2026-08-13T20:00:15.192404"
     },
     {
       "title": "‘Nobody Feels Good, Nobody’s Learning’: High Temperatures Disrupt School Days",
@@ -162,7 +170,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.487999"
+      "crawled_at": "2026-08-13T20:00:15.204017"
     },
     {
       "title": "Historian Natalia Mehlman Petrzela on Biden’s Education Legacy",
@@ -170,7 +178,7 @@
       "date": "August 7, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.490414"
+      "crawled_at": "2026-08-13T20:00:15.213642"
     },
     {
       "title": "Head Start’s Antipoverty Mission Threatened by Trump Administration Overhaul",
@@ -178,7 +186,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.502138"
+      "crawled_at": "2026-08-13T20:00:15.222784"
     },
     {
       "title": "Which Families Are Using ESAs? What We Know About Texas’ First School Vouchers",
@@ -186,7 +194,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.514548"
+      "crawled_at": "2026-08-13T20:00:15.231536"
     },
     {
       "title": "Teachers Have Some Big Wins in This Year’s California Budget. Here Are Their Victories",
@@ -194,15 +202,7 @@
       "date": "August 6, 2026",
       "summary": "",
       "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.525498"
-    },
-    {
-      "title": "Maryland Gov. Offers Late Admission, $800 Credit to Disenrolled Howard Students",
-      "url": "https://www.the74million.org/article/moore-offers-late-admission-credit-for-students-impacted-by-howard-university/",
-      "date": "August 5, 2026",
-      "summary": "",
-      "source": "the74_news",
-      "crawled_at": "2026-08-13T12:00:19.533362"
+      "crawled_at": "2026-08-13T20:00:15.240366"
     }
   ]
 }

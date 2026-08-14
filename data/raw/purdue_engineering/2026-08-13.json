@@ -1,8 +1,8 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-08-13T12:00:24.128672",
-  "total_news": 4,
+  "crawled_at": "2026-08-13T20:00:24.109591",
+  "total_news": 5,
   "news": [
     {
       "title": "AAE's LeGrand develops smarter ways to track satellites beyond Earth's orbit",
@@ -10,6 +10,15 @@
       "date": "August 13, 2026",
       "type": "News",
       "summary_en": "Purdue University engineer Keith LeGrand is developing methods to track the location and movement of objects in cislunar space — the area around Earth extending to just beyond the moon's orbit, which encompasses upwards of 300,000 miles, or roughly 12 times around the Earth's equator.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ECE's Shen, Appenzeller and NE's Chatzidakis part of Genesis Mission awards",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-ai-genesis-mission-awards",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "Several Purdue Engineering faculty are part of Genesis Mission awards led by other institutions.",
       "source": "Purdue College of Engineering",
       "category": "general"
     },

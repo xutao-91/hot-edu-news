@@ -1,9 +1,18 @@
 {
   "source": "Show Me Mizzou",
   "source_url": "https://showme.missouri.edu/archive/",
-  "crawled_at": "2026-08-13T12:00:19.142303",
-  "total_news": 8,
+  "crawled_at": "2026-08-13T20:00:20.225997",
+  "total_news": 9,
   "news": [
+    {
+      "title": "Missouri 4-H leaders get a head start on becoming Mizzou Tigers",
+      "url": "https://showme.missouri.edu/2026/missouri-4-h-leaders-get-a-head-start-on-becoming-mizzou-tigers/",
+      "date": "Aug. 13, 2026",
+      "type": "News",
+      "summary_en": "Eligible students can earn guaranteed admission by demonstrating leadership, service and academic achievement.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
     {
       "title": "Mizzou discovery could change how scientists measure the universe",
       "url": "https://showme.missouri.edu/2026/mizzou-discovery-could-change-how-scientists-measure-the-universe/",

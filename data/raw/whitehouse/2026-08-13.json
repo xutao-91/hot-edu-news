@@ -1,9 +1,37 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-13T12:00:31.863514",
+  "crawled_at": "2026-08-13T20:00:30.964810",
   "total_news": 10,
   "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America’s Shipbuilding Industrial Base",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/",
+      "date": "August 13, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Bolsters National Security and Strengthens U.S. Supply Chains by Imposing Tariffs on Drones and Their Parts and Components",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-bolsters-national-security-and-strengthens-u-s-supply-chains-by-imposing-tariffs-on-drones-and-their-parts-and-components/",
+      "date": "August 13, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Adjusting Imports of Unmanned Aircraft Systems and Unmanned Aircraft Systems Components into the United States",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/adjusting-imports-of-unmanned-aircraft-systems-and-unmanned-aircraft-systems-components-into-the-united-states/",
+      "date": "August 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Rebuilding the United States Navy and America’s Shipbuilding Industrial Base",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/rebuilding-the-united-states-navy-and-americas-shipbuilding-industrial-base/",
+      "date": "August 13, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
     {
       "title": "The Great Transshipment Scam",
       "url": "https://www.whitehouse.gov/releases/2026/08/the-great-transshipment-scam/",
@@ -43,34 +71,6 @@
       "title": "ICYMI: “Violent crime keeps falling in biggest U.S. cities”",
       "url": "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/",
       "date": "August 11, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "Presidential Message on National Shooting Sports Month",
-      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-shooting-sports-month-4561/",
-      "date": "August 10, 2026",
-      "category": "Briefings & Statements",
-      "source": "The White House"
-    },
-    {
-      "title": "Fact Sheet: President Donald J. Trump Delivers Gold Standard Childhood Vaccine Recommendations for Americans",
-      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-delivers-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "date": "August 10, 2026",
-      "category": "Fact Sheets",
-      "source": "The White House"
-    },
-    {
-      "title": "Delivering Gold Standard Childhood Vaccine Recommendations for Americans",
-      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/delivering-gold-standard-childhood-vaccine-recommendations-for-americans/",
-      "date": "August 10, 2026",
-      "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "One Year Later, President Trump Has Delivered on Making D.C. Safe Again",
-      "url": "https://www.whitehouse.gov/releases/2026/08/one-year-later-president-trump-has-delivered-on-making-d-c-safe-again/",
-      "date": "August 10, 2026",
       "category": "Releases",
       "source": "The White House"
     }
