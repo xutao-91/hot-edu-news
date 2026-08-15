@@ -1,8 +1,8 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-08-14T12:00:17.756034",
-  "total_news": 7,
+  "crawled_at": "2026-08-14T20:00:16.879345",
+  "total_news": 8,
   "news": [
     {
       "title": "Bobick to conclude McKelvey Engineering deanship in 2027",
@@ -37,6 +37,15 @@
       "date": "2026-08-13",
       "type": "Health & Society",
       "summary_en": "New WashU research highlights the importance of continuous HIV care as rural communities face added barriers to treatment, testing and prevention.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Ley elected to the American Philosophical Society",
+      "url": "https://source.washu.edu/2026/08/ley-elected-to-the-american-philosophical-society/",
+      "date": "2026-08-12",
+      "type": "Awards & Notables",
+      "summary_en": "Timothy J. Ley, MD, a professor of medicine and of genetics at WashU Medicine, led the team that sequenced the first cancer genome. The American Philosophical Society is the nation’s oldest learned society, founded by Benjamin Franklin in 1743.",
       "source": "WashU Source",
       "category": "general"
     },

@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-08-14T12:00:22.137619",
-  "total_news": 3,
+  "crawled_at": "2026-08-14T20:00:22.466810",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Purdue engineers create wearable solution to optimize prosthetic fit, comfort",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0810-Purdue-engineers-create-wearable-solution-to-optimize-prosthetic-fit-comfort",
+      "date": "August 14, 2026",
+      "type": "News",
+      "summary_en": "Purdue University engineers with collaborators at the University of Notre Dame have developed a wearable solution, using embroidered, light-emitting textiles that integrate illumination and sensing, to detect both normal and shear forces at the limb-socket interface.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
     {
       "title": "AAE's LeGrand develops smarter ways to track satellites beyond Earth's orbit",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-cislunar-satellite-tracking-legrand",

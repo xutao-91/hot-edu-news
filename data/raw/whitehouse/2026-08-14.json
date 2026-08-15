@@ -1,9 +1,23 @@
 {
   "source": "The White House",
   "source_url": "https://www.whitehouse.gov/news/",
-  "crawled_at": "2026-08-14T12:00:31.084097",
+  "crawled_at": "2026-08-14T20:00:29.629771",
   "total_news": 10,
   "news": [
+    {
+      "title": "Presidential Message on the Anniversary of Winning World War II",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-winning-world-war-ii/",
+      "date": "August 14, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on the Anniversary of the Social Security Act",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-the-social-security-act/",
+      "date": "August 14, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
     {
       "title": "Fact Sheet: President Donald J. Trump Rebuilds the U.S. Navy and America’s Shipbuilding Industrial Base",
       "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-rebuilds-the-u-s-navy-and-americas-shipbuilding-industrial-base/",
@@ -58,20 +72,6 @@
       "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-substance-use-primary-prevention-month-2026/",
       "date": "August 12, 2026",
       "category": "Presidential Actions",
-      "source": "The White House"
-    },
-    {
-      "title": "America First Means Ohio First: President Trump, Republicans Deliver for Ohio",
-      "url": "https://www.whitehouse.gov/releases/2026/08/america-first-means-ohio-first-president-trump-republicans-deliver-for-ohio/",
-      "date": "August 11, 2026",
-      "category": "Releases",
-      "source": "The White House"
-    },
-    {
-      "title": "ICYMI: “Violent crime keeps falling in biggest U.S. cities”",
-      "url": "https://www.whitehouse.gov/releases/2026/08/icymi-violent-crime-keeps-falling-in-biggest-u-s-cities/",
-      "date": "August 11, 2026",
-      "category": "Releases",
       "source": "The White House"
     }
   ]

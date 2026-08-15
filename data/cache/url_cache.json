@@ -17446,5 +17446,59 @@
     "fetch_time": "2026-08-14T12:00:31.040850",
     "title": "Butler University Alumni Association Announces 2026 Alumni Awards Recipients",
     "category": "education"
+  },
+  "https://www.slu.edu/news/2026/august/fall-move-in-facts.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-14T20:00:07.574849",
+    "title": "More Than 1,000 New Billikens Arrive at SLU for Fall 2026",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/michigan-gave-schools-224m-for-infrastructure-but-they-need-billions/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-08-14T20:00:12.187494",
+    "title": "Michigan gave schools $224M for infrastructure, but they need billions",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/michigan-college-students-struggle-with-housing-food-program-aims-to-help/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-08-14T20:00:12.187521",
+    "title": "Michigan college students struggle with housing, food. Program aims to help",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/sc-students-improve-in-math-and-reading-but-less-than-half-meet-math-benchmarks/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-14T20:00:13.684680",
+    "title": "SC Students Improve in Math and Reading, but Less Than Half Meet Math Benchmarks",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/ley-elected-to-the-american-philosophical-society/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-14T20:00:17.667682",
+    "title": "Ley elected to the American Philosophical Society",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0810-Purdue-engineers-create-wearable-solution-to-optimize-prosthetic-fit-comfort": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-14T20:00:23.129503",
+    "title": "Purdue engineers create wearable solution to optimize prosthetic fit, comfort",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/polytechnic-students-gain-industry-insight-global-skills-both-peru-chile": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-14T20:00:26.827534",
+    "title": "Polytechnic students gain industry insight, global skills in both Peru, Chile",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-winning-world-war-ii/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-14T20:00:29.833455",
+    "title": "Presidential Message on the Anniversary of Winning World War II",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-the-anniversary-of-the-social-security-act/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-14T20:00:29.833489",
+    "title": "Presidential Message on the Anniversary of the Social Security Act",
+    "category": "general"
   }
 }

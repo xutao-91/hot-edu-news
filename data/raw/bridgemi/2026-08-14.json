@@ -1,9 +1,29 @@
 {
   "source": "Bridge Michigan - Talent & Education",
   "source_url": "https://bridgemi.com/category/talent-education/",
-  "crawled_at": "2026-08-14T12:00:12.699552",
-  "total_news": 2,
+  "crawled_at": "2026-08-14T20:00:11.521215",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Michigan gave schools $224M for infrastructure, but they need billions",
+      "url": "https://bridgemi.com/talent-education/michigan-gave-schools-224m-for-infrastructure-but-they-need-billions/",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "Michigan is one of eight states where bonds are the primary funding source for school infrastructure costs, researchers found. The state recently awarded grants, but public schools still need $22.8 billion in repairs.",
+      "author": "Matt Mencarini",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
+    {
+      "title": "Michigan college students struggle with housing, food. Program aims to help",
+      "url": "https://bridgemi.com/talent-education/michigan-college-students-struggle-with-housing-food-program-aims-to-help/",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "Students at Henry Ford College and Wayne State University with basic needs will have access to a United Way official to direct them to resources on and off campus.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
     {
       "title": "A renewed push to ban seclusion, reduce restraint in Michigan schools",
       "url": "https://bridgemi.com/talent-education/a-renewed-push-to-ban-seclusion-reduce-restraint-in-michigan-schools/",
