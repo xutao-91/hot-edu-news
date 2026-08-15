@@ -1,0 +1,44 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-08-15T12:00:18.677277",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Small Town, Big Impact: Joyful Java thrives with the help of the UNI Small Business Development Center",
+      "url": "https://insideuni.uni.edu/small-town-big-impact-joyful-java-thrives-help-uni-small-business-development-center",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "Joyful Java began when friends Angie Koop and Laura Dove transformed a neglected Dike building into a community‑focused coffee shop with guidance from the UNI Small Business Development Center. Now entering year two, the owners are expanding menus, retail offerings, and community events—proving passion and persistence fuel small‑town success.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "National honor recognizes UNI-SHRM’s impact on future HR leaders",
+      "url": "https://insideuni.uni.edu/business/national-honor-recognizes-uni-shrms-impact-future-hr-leaders",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "UNI-SHRM’s award-winning mentorship and professional development efforts are helping students build confidence, make connections and launch careers.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Heading back to UNI? Here’s what to know about construction",
+      "url": "https://insideuni.uni.edu/campus-community/heading-back-uni-heres-what-know-about-construction",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "UNI, the City of Cedar Falls and others in the community have been working diligently to make improvements across campus to make your experience even better this fall. While much of that work is already complete, please note that some projects are still ongoing.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI’s Public Art Incubator leaves its mark across Iowa",
+      "url": "https://insideuni.uni.edu/campus-community/unis-public-art-incubator-leaves-its-mark-across-iowa",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "In a studio tucked inside the University of Northern Iowa’s Kamerick Art Building, summer is anything but quiet. Instead of empty classrooms, sparks are flying and sculptures are taking shape as students work alongside faculty on public art projects that will soon become permanent installations across Iowa. This summer, one of the biggest projects celebrates the Iowa State Fair.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

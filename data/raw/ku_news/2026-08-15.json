@@ -1,0 +1,35 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-15T12:00:26.098139",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "KU librarian races to save record of Ngäbe voices, one fragile page at a time",
+      "url": "https://news.ku.edu/news/article/ku-librarian-races-to-save-record-of-ngabe-voices-one-fragile-page-at-a-time",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "A University of Kansas Libraries project is preserving decades of Indigenous Panamanian history: KU librarian Milton Machuca-Gálvez and architecture graduate student Miguel Ángel Castro Cano have digitized 61 issues of Drü, a hand-assembled bulletin produced from 1988 to 1998 by Acción Cultural Ngäbe documenting the culture, land rights and politics of Panama's Ngäbe people.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Sporting KC co-founder Cliff Illig to headline panel at KU exhibition closing event",
+      "url": "https://news.ku.edu/news/article/sporting-kc-co-founder-cliff-illig-to-headline-panel-at-ku-exhibition-closing-event",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "The University of Kansas School of Architecture & Design’s “Shaping the Future of Football” exhibition concludes Aug. 21 at Keystone CoLAB in Kansas City with the KC Sports Impact Panel. Featured speaker Cliff Illig will discuss Kansas City’s 2026 FIFA World Cup opportunity and the future of sports, entertainment and economic growth in the region.",
+      "source": "KU News",
+      "category": "event"
+    },
+    {
+      "title": "KU economics expert can discuss how misinformation in social networks may affect midterm election",
+      "url": "https://news.ku.edu/news/article/ku-economics-expert-can-discuss-how-misinformation-in-social-networks-may-affect-midterm-election",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "Tarun Sabarwal, professor of economics at the University of Kansas, is available to discuss how misinformation contagions in social networks might affect the Nov. 3 midterm election. He was just awarded a patent for his algorithms that manage network contagion.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

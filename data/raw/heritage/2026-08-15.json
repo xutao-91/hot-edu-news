@@ -1,0 +1,35 @@
+{
+  "source": "Heritage Foundation - Education",
+  "source_url": "https://www.heritage.org/education",
+  "crawled_at": "2026-08-15T12:00:19.803530",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Applying the White House’s Higher-Ed “Compact” at State Level",
+      "url": "https://www.heritage.org/education/commentary/applying-the-white-houses-higher-ed-compact-state-level",
+      "date": "Aug 13, 2026",
+      "type": "Commentary",
+      "read_time": "3 min",
+      "source": "Heritage Foundation",
+      "category": "general"
+    },
+    {
+      "title": "Model State Legislation to Codify the Federal Higher Education Compact",
+      "url": "https://www.heritage.org/model-legislation/codify-the-federal-higher-education-compact",
+      "date": "",
+      "type": "article",
+      "read_time": "",
+      "source": "Heritage Foundation",
+      "category": "higher_ed"
+    },
+    {
+      "title": "An Act to Refocus Colleges and Universities on Their Fundamental Academic Mis...",
+      "url": "https://www.heritage.org/model-legislation/refocus-colleges-and-universities-on-their-fundamental-academic-mission",
+      "date": "",
+      "type": "article",
+      "read_time": "",
+      "source": "Heritage Foundation",
+      "category": "higher_ed"
+    }
+  ]
+}

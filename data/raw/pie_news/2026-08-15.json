@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-08-15T12:00:08.588879",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "UK sector remembers Mark Garratt",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "The UK’s international education sector is paying tribute to Mark Garratt, a widely respected figure in higher education marketing, recruitment and communications, remembered for his good humour, generosity and commitment to others.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Canada’s language students fall 13%",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-08-14",
+      "type": "Language learning",
+      "summary_en": "The Canadian language sector has reached a “state of crisis” as immigration policies drive another year of declining students.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "New Zealand targets outcomes as international education demand accelerates",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-08-14",
+      "type": "Recruitment & agents",
+      "summary_en": "As demand spikes and public support holds firm, New Zealand’s international education sector has a crucial chance to show it can deliver real outcomes.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Crizac agrees Inova deal to expand Mexican, European reach",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-08-13",
+      "type": "Investor",
+      "summary_en": "The student recruitment platform will strengthen its presence in Mexico and enter the Netherlands as a destination market through the proposed acquisition.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Sudanese students to appeal after UK court upholds visa brake",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-13",
+      "type": "Policy",
+      "summary_en": "Sudan Scholars UK says students with full scholarships at Oxford, Cambridge, Imperial and UCL are unable to begin master’s courses in September and will pursue an appeal.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "New visa limits threaten US college revenues",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-13",
+      "type": "Policy",
+      "summary_en": "Global credit rating agency Fitch Ratings has joined growing warnings over the financial burden of replacing duration of status with fixed visa time limits.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Four in five Indian study-abroad aspirants plan to return home",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-08-13",
+      "type": "Study Abroad",
+      "summary_en": "Oxford International’s latest mobility survey reveals a more independent, first-generation cohort pursuing postgraduate education overseas, as rising costs, tighter immigration policies and expanding opportunities at home reshape Indian student ambitions.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

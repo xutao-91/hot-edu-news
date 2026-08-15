@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-15T12:00:30.155755",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Study gauges efficiency of Affordable Care Act at reducing uninsured rates",
+      "url": "https://news.uchicago.edu/story/study-gauges-efficiency-affordable-care-act-reducing-uninsured-rates",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "UChicago economist finds public coverage helped poorest households while often replacing employer-sponsored insurance at higher incomes",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "UChicago psychology study points to new potential for treating eating disorders",
+      "url": "https://news.uchicago.edu/story/uchicago-psychology-study-points-new-potential-treating-eating-disorders",
+      "date": "2026-08-13",
+      "type": "News",
+      "summary_en": "With fMRI scans and computational modeling, researchers find food decisions in anorexia engage brain region tied to inflexible habits",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Space travel doesn’t affect the strength of heart muscle cells, study finds",
+      "url": "https://news.uchicago.edu/story/space-travel-doesnt-affect-strength-heart-muscle-cells-study-finds",
+      "date": "2026-08-12",
+      "type": "News",
+      "summary_en": "UChicago-led research on cells from mice that had been on the International Space Station for more than a month suggests astronaut hearts can withstand longer trips",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}
