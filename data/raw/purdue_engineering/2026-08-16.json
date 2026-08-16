@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-08-16T12:00:23.378145",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue engineers create wearable solution to optimize prosthetic fit, comfort",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0810-Purdue-engineers-create-wearable-solution-to-optimize-prosthetic-fit-comfort",
+      "date": "August 14, 2026",
+      "type": "News",
+      "summary_en": "Purdue University engineers with collaborators at the University of Notre Dame have developed a wearable solution, using embroidered, light-emitting textiles that integrate illumination and sensing, to detect both normal and shear forces at the limb-socket interface.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "AAE's LeGrand develops smarter ways to track satellites beyond Earth's orbit",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-cislunar-satellite-tracking-legrand",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "Purdue University engineer Keith LeGrand is developing methods to track the location and movement of objects in cislunar space — the area around Earth extending to just beyond the moon's orbit, which encompasses upwards of 300,000 miles, or roughly 12 times around the Earth's equator.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "ECE's Shen, Appenzeller and NE's Chatzidakis part of Genesis Mission awards",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-ai-genesis-mission-awards",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "Several Purdue Engineering faculty are part of Genesis Mission awards led by other institutions.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

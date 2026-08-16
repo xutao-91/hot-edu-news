@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-16T12:00:18.029423",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Found: Mega-Earth!",
+      "url": "https://ls.wisc.edu/news/found-mega-earth",
+      "date": "August 14, 2026",
+      "type": "News",
+      "summary_en": "Researchers with the Wisconsin Center for Origins Research have discovered their first exoplanet, a 170-million-year-old planet more than 2.5 times larger than the Earth.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Global radiology partnerships provide critical medical support and shared learning",
+      "url": "https://news.wisc.edu/global-radiology-partnerships-provide-critical-medical-support-and-shared-learning/",
+      "date": "August 13, 2026",
+      "type": "News",
+      "summary_en": "From Peru to Malaysia, radiology experts and programs from UW–Madison are helping under-resourced communities around the world. For the clinicians involved, the impact is mutual.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

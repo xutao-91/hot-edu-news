@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-08-16T12:00:23.880671",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Minnesota iron ore could be key to sustainable and lower-cost semiconductor",
+      "url": "https://cse.umn.edu/college/news/minnesota-iron-ore-could-be-key-sustainable-and-lower-cost-semiconductor",
+      "date": "2026-08-13",
+      "type": "Nanotechnology",
+      "summary_en": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor-quality iron sulfide, also known as “fool’s gold” or pyrite.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}
