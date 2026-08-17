@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-17T12:00:31.803930",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "The State of Public Education in 2026 in Five Charts",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/the-state-of-public-education-in-2026-in-five-charts.html",
+      "date": "Aug 17, 2026",
+      "type": "Commentary",
+      "summary_en": "RAND has spent more than a decade surveying educators across the United States and has expanded this effort to include the perspectives of students and parents. Among the hundreds of survey questions we fielded this past year, the results depicted in these five charts stood out the most.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Integrated Strategic Forecasting: A New Methodology to Enhance Decision Advantage",
+      "url": "https://www.rand.org/pubs/perspectives/PEA3490-1.html",
+      "date": "Aug 17, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors describe the combined methodology of integrated strategic forecasting, a new exploratory approach to futures and anticipatory planning that leverages the unique advantages of scenario planning and crowdsourced forecasting.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "AI Development in the United States and China: Evidence from a New Dataset of AI Developer Firms",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5043-1.html",
+      "date": "Aug 17, 2026",
+      "type": "Research",
+      "summary_en": "The authors sought to systematically characterize commercial artificial intelligence ecosystems within the United States and China and thus broaden the empirical foundation for business intelligence and policy analysis.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

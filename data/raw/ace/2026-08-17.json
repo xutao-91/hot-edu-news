@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-08-17T12:00:31.982590",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Fall 2026 Federal Higher Education Policy Outlook",
+      "url": "https://www.acenet.edu/News-Room/Pages/Fall-2026-Federal-Higher-Ed-Policy-Outlook.aspx",
+      "date": "August 17, 2026",
+      "type": "News",
+      "summary_en": "Congress returns in September with fiscal year 2027 funding unfinished, setting up another compressed appropriations fight over education, research, student aid, and other programs.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
+}

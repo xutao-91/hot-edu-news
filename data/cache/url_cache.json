@@ -17536,5 +17536,197 @@
     "fetch_time": "2026-08-16T20:00:18.410098",
     "title": "UI researchers reveal deeper workings of brain’s information hub",
     "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/17/refugee-admissions-to-the-us-are-dropping-sharply-in-trumps-second-term/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-17T12:00:08.291261",
+    "title": "Refugee admissions to the U.S. are dropping sharply in Trump’s second term",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/office-of-external-engagement-transition-update-announcing-searches.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-17T12:00:13.399765",
+    "title": "Advancing our vision for the university's engagement enterprise",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/timothy-schuler-director-apdesign-community-design-research.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-17T12:00:13.399795",
+    "title": "A new voice for community impact",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/kevin-santos-flores-supports-multicultural-k-state-student-success.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-17T12:00:13.399806",
+    "title": "People with Purpose: Kevin Santos Flores",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/alpers-family-4-H-five-generations-state-fair.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-17T12:00:13.399817",
+    "title": "5 generations, one 4-H legacy",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/nycs-unexplained-test-score-swings-prompt-experts-to-question-reading-results/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-17T12:00:14.924162",
+    "title": "NYC’s Unexplained Test Score Swings Prompt Experts to Question Reading Results",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/iowa-deemed-below-basic-in-reading-stays-silent-on-the-honesty-gap/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-17T12:00:14.924187",
+    "title": "Iowa, Deemed Below Basic in Reading, Stays Silent on the ‘Honesty Gap’",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/zero2eight/searching-for-your-next-home-now-you-can-see-nearby-childcare-options/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-17T12:00:14.924198",
+    "title": "Searching for Your Next Home? Now You Can See Nearby Childcare Options",
+    "category": "general"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-08-17-indiana-educators-build-global-connections-in-the-galapagos.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-08-17T12:00:16.490567",
+    "title": "Indiana educators build global connections in the Galápagos",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/bat-expert-returns-to-university-as-research-technologist-0": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-17T12:00:18.129761",
+    "title": "Bat expert returns to university as research technologist",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/amber-ward-of-bellevue-receives-air-force-commission": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-17T12:00:18.129788",
+    "title": "Amber Ward of Bellevue receives Air Force commission",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/husker-doctoral-student-aims-to-detect-insect-borne-viruses-sooner": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-17T12:00:18.129799",
+    "title": "Husker doctoral student aims to detect insect-borne viruses sooner",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/why-washus-newest-students-chose-st-louis/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-17T12:00:18.226147",
+    "title": "Why WashU’s newest students chose St. Louis",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-study-shows-small-scheduling-change-has-big-health-benefits-for-night-shift-physicians/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-17T12:00:20.792216",
+    "title": "Mizzou study shows small scheduling change has big health benefits for night-shift physicians",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/show-me-stars-and-tiger-stripes-photos-from-the-missouri-state-fair/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-17T12:00:20.792240",
+    "title": "Show me stars and Tiger stripes: Photos from the Missouri State Fair",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/08/17/schools-are-building-ai-rules-before-they-know-the-destination/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-08-17T12:00:21.969253",
+    "title": "Schools are building AI rules before they know the destination",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0812-purdue-jay-gore-asme-holley-medal": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-17T12:00:25.206376",
+    "title": "Purdue researcher Jay Gore awarded prestigious ASME Holley Medal for 'brilliance of the art'",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/spencer-museums-looking-after-exhibition-reflects-on-arts-role-in-education-learning": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-17T12:00:27.987410",
+    "title": "Spencer Museum’s ‘Looking After’ exhibition reflects on art’s role in education, learning",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-department-of-theatre-dance-celebrates-2026-27-scholarship-recipients": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-17T12:00:27.987441",
+    "title": "KU Department of Theatre & Dance celebrates scholarship recipients",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-dining-expands-sustainability-efforts-with-campuswide-cutlery-change": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-17T12:00:27.987452",
+    "title": "KU Dining expands sustainability efforts with campuswide cutlery change",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/heavy-traffic-anticipated-aug-20-21-for-ku-housing-residence-life-move-in": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-17T12:00:27.987462",
+    "title": "Heavy traffic anticipated Aug. 20, 21 for KU Housing & Residence life move-in",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/bales-choral-society-seeks-new-members-for-2026-27": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-17T12:00:27.987472",
+    "title": "Bales Choral Society seeks new members for 2026-27",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/minnesota-school-districts-and-educators-press-ahead-in-legal-fight-to-keep-immigration-officers-away-from-schools/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-08-17T12:00:28.022256",
+    "title": "Minnesota school districts and educators press ahead in legal fight to keep immigration officers away from schools",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/polytechnic-research-awards-july-2026": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-17T12:00:28.074217",
+    "title": "Polytechnic research awards - July 2026",
+    "category": "semiconductor"
+  },
+  "https://stories.butler.edu/setting-the-standard-for-bold/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-08-17T12:00:30.393831",
+    "title": "Setting the Standard for Bold: Butler Unveils Evolved Brand Reflecting Growing National Profile",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-17T12:00:32.038885",
+    "title": "ICYMI: “USS Lincoln: Performance For the Ages”",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-17T12:00:32.038929",
+    "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/first-lady-melania-trumps-efforts-prove-successful-in-ukraine-russia/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-17T12:00:32.038950",
+    "title": "First Lady Melania Trump’s Efforts Prove Successful in Ukraine-Russia",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/commentary/2026/08/the-state-of-public-education-in-2026-in-five-charts.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-17T12:00:32.155006",
+    "title": "The State of Public Education in 2026 in Five Charts",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA3490-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-17T12:00:32.155057",
+    "title": "Integrated Strategic Forecasting: A New Methodology to Enhance Decision Advantage",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5043-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-17T12:00:32.155089",
+    "title": "AI Development in the United States and China: Evidence from a New Dataset of AI Developer Firms",
+    "category": "ai"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Fall-2026-Federal-Higher-Ed-Policy-Outlook.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-08-17T12:00:32.208403",
+    "title": "Fall 2026 Federal Higher Education Policy Outlook",
+    "category": "education"
   }
 }

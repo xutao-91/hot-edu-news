@@ -1,0 +1,80 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-08-17T12:00:17.100016",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Bat expert returns to university as research technologist",
+      "url": "https://news.unl.edu/article/bat-expert-returns-to-university-as-research-technologist-0",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Amber Ward of Bellevue receives Air Force commission",
+      "url": "https://news.unl.edu/article/amber-ward-of-bellevue-receives-air-force-commission",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker doctoral student aims to detect insect-borne viruses sooner",
+      "url": "https://news.unl.edu/article/husker-doctoral-student-aims-to-detect-insect-borne-viruses-sooner",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Simple lessons: Sheridan tells graduates to listen, be kind, share",
+      "url": "https://news.unl.edu/article/simple-lessons-sheridan-tells-graduates-to-listen-be-kind-share",
+      "date": "2026-08-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Roy pursues PGA and business career with two Nebraska degrees",
+      "url": "https://news.unl.edu/article/roy-pursues-pga-and-business-career-with-two-nebraska-degrees",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "A chance stop on campus led to life-changing Husker journey",
+      "url": "https://news.unl.edu/article/a-chance-stop-on-campus-led-to-life-changing-husker-journey",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Aaberg turns passion for mathematics into opportunity for Panhandle students",
+      "url": "https://news.unl.edu/article/aaberg-turns-passion-for-mathematics-into-opportunity-for-panhandle-students",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "NIMBUS Lab selected for Air Force-funded drone research",
+      "url": "https://news.unl.edu/article/nimbus-lab-selected-for-air-force-funded-drone-research",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

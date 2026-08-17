@@ -1,0 +1,17 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-08-17T12:00:19.579102",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UI researchers reveal deeper workings of brain’s information hub",
+      "url": "/news/2026/08/ui-researchers-reveal-deeper-workings-brains-information-hub",
+      "date": "2026-08-16",
+      "type": "News",
+      "summary_en": "A University of Iowa-led research team has shown in detail how a region of the brain called the frontoparietal cortex manages the flow of information and guides decisions and responses. The findings may inform future research into how this process is altered in neurological and psychiatric disorders.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

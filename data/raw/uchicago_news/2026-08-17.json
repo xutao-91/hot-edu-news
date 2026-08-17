@@ -1,0 +1,17 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-17T12:00:31.032726",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Study gauges efficiency of Affordable Care Act at reducing uninsured rates",
+      "url": "https://news.uchicago.edu/story/study-gauges-efficiency-affordable-care-act-reducing-uninsured-rates",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "UChicago economist finds public coverage helped poorest households while often replacing employer-sponsored insurance at higher incomes",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

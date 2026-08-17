@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-08-17T12:00:17.254491",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Why WashU’s newest students chose St. Louis",
+      "url": "https://source.washu.edu/2026/08/why-washus-newest-students-chose-st-louis/",
+      "date": "2026-08-17",
+      "type": "Students",
+      "summary_en": "The 1,945 students in the WashU Class of 2030 moved onto the South 40 last week. The new Bears, arriving from 29 countries and every region in the U.S., are excited to explore St. Louis’ neighborhoods, food and landmarks.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Bobick to conclude McKelvey Engineering deanship in 2027",
+      "url": "https://source.washu.edu/2026/08/bobick-to-conclude-mckelvey-engineering-deanship-in-2027/",
+      "date": "2026-08-14",
+      "type": "Appointments & Promotions",
+      "summary_en": "Aaron F. Bobick, dean of the McKelvey School of Engineering and the James M. McKelvey Professor at Washington University in St. Louis, will conclude his deanship on June 30, after successfully serving the university for 12 years in his role, Chancellor Andrew D. Martin announced.",
+      "source": "WashU Source",
+      "category": "advancement"
+    }
+  ]
+}

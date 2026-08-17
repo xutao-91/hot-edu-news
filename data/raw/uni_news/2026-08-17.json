@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-08-17T12:00:19.590906",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Small Town, Big Impact: Joyful Java thrives with the help of the UNI Small Business Development Center",
+      "url": "https://insideuni.uni.edu/small-town-big-impact-joyful-java-thrives-help-uni-small-business-development-center",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "Joyful Java began when friends Angie Koop and Laura Dove transformed a neglected Dike building into a community‑focused coffee shop with guidance from the UNI Small Business Development Center. Now entering year two, the owners are expanding menus, retail offerings, and community events—proving passion and persistence fuel small‑town success.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "National honor recognizes UNI-SHRM’s impact on future HR leaders",
+      "url": "https://insideuni.uni.edu/business/national-honor-recognizes-uni-shrms-impact-future-hr-leaders",
+      "date": "2026-08-14",
+      "type": "News",
+      "summary_en": "UNI-SHRM’s award-winning mentorship and professional development efforts are helping students build confidence, make connections and launch careers.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
