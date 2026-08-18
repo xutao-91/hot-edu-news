@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-08-18T12:00:08.440773",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New Full-Time Faculty Members Join Saint Louis University",
+      "url": "https://www.slu.edu/news/2026/august/new-full-time-faculty.php",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "Saint Louis University has many new full-time faculty members joining the University this year. Check out the list of who is new at SLU.",
+      "source": "SLU News",
+      "category": "academic"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-08-18T12:00:09.194055",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Lawsuit challenges US rule ending duration of status",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-08-18",
+      "type": "Immigration",
+      "summary_en": "A coalition of cross-sector bodies have filed a lawsuit against the US government’s new visa restrictions, seeking “stability and protections” for international students and scholars.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Judge dismisses Trump’s Harvard antisemitism lawsuit",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-18",
+      "type": "Policy",
+      "summary_en": "A US federal judge has dismissed a Trump administration lawsuit alleging antisemitism and discrimination against Jewish and Israeli students at Harvard University.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "CBSA checks end international student PGWP protest in Canada",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-08-18",
+      "type": "Immigration",
+      "summary_en": "Indian graduates say they were led to believe their non-credit courses qualified for post-study work permits, while 12 attendees at the 22-day Calgary protest have been flagged as “possibly inadmissible”.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "US Senators call for faster study visa processing",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-08-17",
+      "type": "Immigration",
+      "summary_en": "Thirty US Senators have called on Secretary of State Marco Rubio to expedite visa processing for international students and scholars in time for the start of the academic year.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "UNESCO convention opens path to degree recognition and mobility among Arab states",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-08-17",
+      "type": "Policy",
+      "summary_en": "Five countries are initially bound by the agreement, which sets common rules for recognising higher education qualifications and supporting mobility across the region.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Clare rejects Hanson’s “farce” claim as he defends international education reforms",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "Australia’s education minister Jason Clare has rejected Pauline Hanson’s claim that Australia’s international education sector is a “farce”, while acknowledging that “shonks” and “dodgy providers” continue to threaten the sector’s reputation.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    }
+  ]
+}

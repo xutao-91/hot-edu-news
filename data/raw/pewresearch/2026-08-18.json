@@ -1,0 +1,37 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-08-18T12:00:07.589103",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "date": "Aug 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Economic Conditions",
+        "Economy Work",
+        "Technology Policy Issues"
+      ],
+      "summary_en": "About half of Americans say they’re more concerned than excited about AI, and young adults’ concern is rising.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Refugee admissions to the U.S. are dropping sharply in Trump’s second term",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/17/refugee-admissions-to-the-us-are-dropping-sharply-in-trumps-second-term/",
+      "date": "Aug 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Immigrant Populations",
+        "Immigration Trends",
+        "Refugees Asylum Seekers"
+      ],
+      "summary_en": "U.S. refugee admissions have dropped sharply in Trump’s second term, with just over 10,000 so far in fiscal 2026, down from about 38,000 in fiscal 2025.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-18T12:00:26.910266",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UIC students earn Schweitzer fellowships to make lasting community health impact",
+      "url": "https://today.uic.edu/uic-students-earn-schweitzer-fellowships-to-make-lasting-community-health-impact/",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "Fellows will lead community health projects across Chicago addressing issues from chronic pain to food insecurity.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "Paving the way for public health careers",
+      "url": "https://today.uic.edu/paving-the-way-for-public-health-careers/",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "UIC’s Pre-Health Academic Readiness Program prepares first-year students for campus life.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "There’s no place like Chicago for a one-of-a-kind microscope",
+      "url": "https://today.uic.edu/theres-no-place-like-chicago-for-a-one-of-a-kind-microscope/",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "UIC’s newest instrument takes atomic-scale pictures of superconductors.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

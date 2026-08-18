@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-08-18T12:00:22.373076",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Four CSE faculty receive National Science Foundation CAREER Awards",
+      "url": "https://cse.umn.edu/college/news/four-cse-faculty-receive-national-science-foundation-career-awards",
+      "date": "2026-08-19",
+      "type": "Awards-Grants",
+      "summary_en": "Four University of Minnesota College of Science and Engineering researchers have received National Science Foundation (NSF) Faculty Early Career Development (CAREER) Awards to pursue innovative research and educate the next generation of scientists and engineers.",
+      "source": "UMN CSE",
+      "category": "awards"
+    },
+    {
+      "title": "Chemistry professor Edgar Arriaga named Fulbright-Aalto University Distinguished Chair",
+      "url": "https://cse.umn.edu/college/news/chemistry-professor-edgar-arriaga-named-fulbright-aalto-university-distinguished-chair",
+      "date": "2026-08-18",
+      "type": "Awards-Grants",
+      "summary_en": "University of Minnesota College of Science and Engineering (CSE) Professor Edgar Arriaga has been named a Fulbright-Aalto University Distinguished Chair for the 2026–27 academic year.",
+      "source": "UMN CSE",
+      "category": "faculty"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-18T12:00:30.602202",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "From lab to layperson, UChicago students learn to make science land",
+      "url": "https://news.uchicago.edu/story/lab-layperson-uchicago-students-learn-make-science-land",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "Science communications minor teaches College students to ditch the jargon to bridge the gap between research and the real world",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Trump Is Putting His Face On Everything",
+      "url": "https://www.theatlantic.com/politics/2026/08/trump-name-on-everything/688090/",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How to better forecast once-in-a-millennium weather events",
+      "url": "https://news.uchicago.edu/story/how-better-forecast-once-millennium-weather-events",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "UChicago researchers combine AI with statistics and physics to better estimate the odds of rare weather",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
