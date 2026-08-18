@@ -1,9 +1,19 @@
 {
   "source": "The PIE News",
   "source_url": "https://thepienews.com/category/news/",
-  "crawled_at": "2026-08-17T12:00:08.434490",
-  "total_news": 5,
+  "crawled_at": "2026-08-17T20:00:08.756197",
+  "total_news": 6,
   "news": [
+    {
+      "title": "US Senators call for faster study visa processing",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-08-17",
+      "type": "Immigration",
+      "summary_en": "Thirty US Senators have called on Secretary of State Marco Rubio to expedite visa processing for international students and scholars in time for the start of the academic year.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
     {
       "title": "UNESCO convention opens path to degree recognition and mobility among Arab states",
       "url": "https://thepienews.com/category/news/government/",

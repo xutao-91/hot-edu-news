@@ -1,9 +1,18 @@
 {
   "source": "UW-Madison News",
   "source_url": "https://news.wisc.edu/latest-news/",
-  "crawled_at": "2026-08-17T12:00:18.372959",
-  "total_news": 1,
+  "crawled_at": "2026-08-17T20:00:18.455630",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Summer Sweet Spots",
+      "url": "https://news.wisc.edu/summer-sweet-spots/",
+      "date": "August 17, 2026",
+      "type": "News",
+      "summary_en": "Across campus and around Madison, summer brings people together in the places that define the season, from beloved UW traditions and Camp Randall concerts to neighborhoods where community takes root.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
     {
       "title": "Found: Mega-Earth!",
       "url": "https://ls.wisc.edu/news/found-mega-earth",

@@ -1,9 +1,18 @@
 {
   "source": "Purdue University College of Engineering",
   "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
-  "crawled_at": "2026-08-17T12:00:24.333833",
-  "total_news": 2,
+  "crawled_at": "2026-08-17T20:00:25.328959",
+  "total_news": 3,
   "news": [
+    {
+      "title": "ME's Malshe testifies to US Senate today about innovation in small businesses",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0817-purdue-engineering-xmo-ajay-malshe-advanced-manufacturing",
+      "date": "August 17, 2026",
+      "type": "News",
+      "summary_en": "During a Senate Small Business Committee hearing before the Congressional recess, Sen. Todd Young (R-IN) asked CEO of Arkwright Space Dr. Ajay P. Malshe about the benefits of small businesses over larger companies.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
     {
       "title": "Purdue researcher Jay Gore awarded prestigious ASME Holley Medal for 'brilliance of the art'",
       "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0812-purdue-jay-gore-asme-holley-medal",

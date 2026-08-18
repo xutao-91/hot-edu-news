@@ -1,9 +1,18 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-08-17T12:00:17.254491",
-  "total_news": 2,
+  "crawled_at": "2026-08-17T20:00:15.453311",
+  "total_news": 3,
   "news": [
+    {
+      "title": "Scientists identify brain’s brake that shuts off chronic pain",
+      "url": "https://source.washu.edu/2026/08/scientists-identify-brains-brake-that-shuts-off-chronic-pain/",
+      "date": "2026-08-17",
+      "type": "Neuroscience & Memory",
+      "summary_en": "WashU Medicine researchers have found that certain receptors on a cluster of nerve cells can shut off chronic pain. The study opens new doors for developing pain therapies.",
+      "source": "WashU Source",
+      "category": "general"
+    },
     {
       "title": "Why WashU’s newest students chose St. Louis",
       "url": "https://source.washu.edu/2026/08/why-washus-newest-students-chose-st-louis/",

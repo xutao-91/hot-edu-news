@@ -1,7 +1,17 @@
 {
   "source": "Iowa State University News",
   "source_url": "https://www.news.iastate.edu/news-releases",
-  "crawled_at": "2026-08-17T12:00:13.409015",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-08-17T20:00:14.852144",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Classroom solution evolves into public resource for navigating AI tools",
+      "url": "https://www.news.iastate.edu/news/classroom-solution-evolves-public-resource-navigating-ai-tools",
+      "date": "2026-08-17",
+      "type": "Innovation and Research",
+      "summary_en": "As artificial intelligence tools evolve at a rapid pace, an Iowa State computer science professor and her students are developing a public website that tracks new AI releases and helps users make sense of the fast-changing technology.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
 }

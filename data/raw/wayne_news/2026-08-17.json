@@ -1,9 +1,18 @@
 {
   "source": "Wayne State University News",
   "source_url": "https://today.wayne.edu/news",
-  "crawled_at": "2026-08-17T12:00:17.367525",
-  "total_news": 1,
+  "crawled_at": "2026-08-17T20:00:15.394724",
+  "total_news": 2,
   "news": [
+    {
+      "title": "Q&A: WSU alumnus' book a mini time capsule of Creative Warriors, Cass Tech musician connection",
+      "url": "https://cfpca.wayne.edu/news/qa-wayne-state-alumnus-book-a-mini-time-capsule-of-creative-warriors-cass-tech-musician-connection-69968",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
     {
       "title": "Faculty, staff and students all have a role in the Higher Learning Commission’s site visit this fall",
       "url": "https://today.wayne.edu/news/2026/08/14/faculty-staff-and-students-all-have-a-role-in-the-higher-learning-commissions-site-visit-this-fall-69938",

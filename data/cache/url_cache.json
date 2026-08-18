@@ -17728,5 +17728,77 @@
     "fetch_time": "2026-08-17T12:00:32.208403",
     "title": "Fall 2026 Federal Higher Education Policy Outlook",
     "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/researchers-unlock-details-of-the-molecular-machine-critical-for-c-diff-infections/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-17T20:00:07.734500",
+    "title": "Researchers unlock details of the molecular machine critical for C. diff infections",
+    "category": "ai"
+  },
+  "https://www.news.iastate.edu/news/classroom-solution-evolves-public-resource-navigating-ai-tools": {
+    "source": "iastate_news",
+    "fetch_time": "2026-08-17T20:00:15.614809",
+    "title": "Classroom solution evolves into public resource for navigating AI tools",
+    "category": "education"
+  },
+  "https://cfpca.wayne.edu/news/qa-wayne-state-alumnus-book-a-mini-time-capsule-of-creative-warriors-cass-tech-musician-connection-69968": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-17T20:00:16.339343",
+    "title": "Q&A: WSU alumnus' book a mini time capsule of Creative Warriors, Cass Tech musician connection",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/08/scientists-identify-brains-brake-that-shuts-off-chronic-pain/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-17T20:00:16.442443",
+    "title": "Scientists identify brain’s brake that shuts off chronic pain",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/how-to-make-the-most-of-parent-teacher-conferences-during-back-to-school-and-beyond/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-17T20:00:19.191252",
+    "title": "How to Make the Most of Parent-Teacher Conferences, Back-to-School and Beyond",
+    "category": "education"
+  },
+  "https://news.wisc.edu/summer-sweet-spots/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-17T20:00:19.322147",
+    "title": "Summer Sweet Spots",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/campus-community/pulitzer-prize-winning-historian-annette-gordon-reed-deliver-constitution-day": {
+    "source": "uni_news",
+    "fetch_time": "2026-08-17T20:00:19.899074",
+    "title": "Pulitzer Prize-winning historian Annette Gordon-Reed to deliver Constitution Day address at UNI",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/chemistry-professor-edgar-arriaga-named-fulbright-aalto-university-distinguished-chair": {
+    "source": "umn_cse",
+    "fetch_time": "2026-08-17T20:00:22.086023",
+    "title": "Chemistry professor Edgar Arriaga named Fulbright-Aalto University Distinguished Chair",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0817-purdue-engineering-xmo-ajay-malshe-advanced-manufacturing": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-17T20:00:26.095019",
+    "title": "ME's Malshe testifies to US Senate today about innovation in small businesses",
+    "category": "general"
+  },
+  "https://www.mtu.edu/news/2026/08/the-long-fuse-mtu-student-research-sparks-awardwinning-community-service.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-08-17T20:00:28.611966",
+    "title": "The Long Fuse: MTU Student Research Sparks Award-winning Community Service",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/A-painless-punch-with-a-microneedle-patch-could-detect-kidney-disease-earlier.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-17T20:00:30.243291",
+    "title": "A painless punch with a microneedle patch could detect kidney disease earlier",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/how-better-forecast-once-millennium-weather-events": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-17T20:00:30.359669",
+    "title": "How to better forecast once-in-a-millennium weather events",
+    "category": "ai"
   }
 }

@@ -1,9 +1,18 @@
 {
   "source": "University of Chicago News",
   "source_url": "https://news.uchicago.edu/lateststories",
-  "crawled_at": "2026-08-17T12:00:31.032726",
-  "total_news": 1,
+  "crawled_at": "2026-08-17T20:00:29.978964",
+  "total_news": 2,
   "news": [
+    {
+      "title": "How to better forecast once-in-a-millennium weather events",
+      "url": "https://news.uchicago.edu/story/how-better-forecast-once-millennium-weather-events",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "UChicago researchers combine AI with statistics and physics to better estimate the odds of rare weather",
+      "source": "UChicago News",
+      "category": "general"
+    },
     {
       "title": "Study gauges efficiency of Affordable Care Act at reducing uninsured rates",
       "url": "https://news.uchicago.edu/story/study-gauges-efficiency-affordable-care-act-reducing-uninsured-rates",

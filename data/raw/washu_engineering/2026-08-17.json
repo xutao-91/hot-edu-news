@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-08-17T12:00:29.719128",
-  "total_news": 1,
+  "crawled_at": "2026-08-17T20:00:29.868228",
+  "total_news": 2,
   "news": [
+    {
+      "title": "A painless punch with a microneedle patch could detect kidney disease earlier",
+      "url": "https://engineering.washu.edu/news/2026/A-painless-punch-with-a-microneedle-patch-could-detect-kidney-disease-earlier.html",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "Srikanth Singamaneni’s lab creates metal-organic framework-protected microneedle patch resilient to heat, storage time.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "Bobick to conclude McKelvey Engineering deanship in 2027",
       "url": "https://engineering.washu.edu/news/2026/Bobick-to-conclude-McKelvey-Engineering-deanship-in-2027news.html",
