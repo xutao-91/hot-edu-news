@@ -13,6 +13,8 @@ __pycache__/
 logs/
 *.log
 *.lock
+data/cache/last_crawl.json
+data/cache/last_process.json
 
 # Editors and operating systems
 .vscode/

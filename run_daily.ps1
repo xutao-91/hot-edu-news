@@ -8,6 +8,10 @@ $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 $env:PYTHONDONTWRITEBYTECODE = '1'
 $env:PYTHONUTF8 = '1'
+$utf8 = [Text.UTF8Encoding]::new($false)
+[Console]::InputEncoding = $utf8
+[Console]::OutputEncoding = $utf8
+$OutputEncoding = $utf8
 
 $repoPath = $PSScriptRoot
 $pythonPath = Join-Path $repoPath '.venv\Scripts\python.exe'
@@ -57,8 +61,19 @@ try {
     & $pythonPath translate.py
     if ($LASTEXITCODE -ne 0) { throw 'Title processing failed' }
 
-    & $pythonPath generate_html.py
-    if ($LASTEXITCODE -ne 0) { throw 'HTML generation failed' }
+    $processSummaryPath = Join-Path $repoPath 'data\cache\last_process.json'
+    if (-not (Test-Path -LiteralPath $processSummaryPath)) {
+        throw 'Title processor did not produce data/cache/last_process.json'
+    }
+    $processSummary = Get-Content -LiteralPath $processSummaryPath -Raw | ConvertFrom-Json
+
+    if ($processSummary.new_articles_processed -gt 0) {
+        & $pythonPath generate_html.py
+        if ($LASTEXITCODE -ne 0) { throw 'HTML generation failed' }
+    }
+    else {
+        Write-Host 'No new processed articles; static page generation skipped.'
+    }
 
     & git add -- data/cache data/raw data/translated docs public index.html rss.xml
     if ($LASTEXITCODE -ne 0) { throw 'git add failed' }
