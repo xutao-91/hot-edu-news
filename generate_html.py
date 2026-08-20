@@ -66,11 +66,17 @@ def render_template(template_name, context):
             var_pattern = re.compile(r'{{\s*(.*?)\s*}}')
             def replace_var(m):
                 key = m.group(1).strip()
+                filters = [part.strip() for part in key.split('|')]
+                key = filters[0]
                 if '.' in key:
                     # 处理属性访问 a.b
                     obj, attr = key.split('.', 1)
-                    return str(item_context.get(obj, {}).get(attr, ''))
-                return str(item_context.get(key, ''))
+                    value = item_context.get(obj, {}).get(attr, '')
+                else:
+                    value = item_context.get(key, '')
+                if 'lower' in filters[1:]:
+                    value = str(value).lower()
+                return str(value)
             loop_content = var_pattern.sub(replace_var, loop_content)
             rendered += loop_content
         template = template[:match.start()] + rendered + template[match.end():]
@@ -447,8 +453,8 @@ def generate_html():
     with open('rss.xml', 'w', encoding='utf-8') as f:
         f.write(rss)
     
-    print(f"\n✅ 页面已生成！共 {len(all_articles)} 篇文章")
-    print(f"✅ RSS订阅源已生成，最近20篇文章已同步")
+    print(f"\n[OK] 页面已生成！共 {len(all_articles)} 篇文章")
+    print("[OK] RSS订阅源已生成，最近20篇文章已同步")
 
 if __name__ == '__main__':
     generate_html()
