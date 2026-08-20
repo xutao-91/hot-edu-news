@@ -67,6 +67,15 @@ try {
     }
     $processSummary = Get-Content -LiteralPath $processSummaryPath -Raw | ConvertFrom-Json
 
+    if ($crawlSummary.new_articles -eq 0 -and $processSummary.new_articles_processed -eq 0) {
+        # Crawlers refresh per-run timestamps in today's raw files. When there
+        # is no new URL, discard those non-semantic rewrites and avoid a commit.
+        & git restore --worktree -- data/raw
+        if ($LASTEXITCODE -ne 0) { throw 'Unable to restore unchanged raw data' }
+        Write-Host 'No new articles; raw timestamp rewrites restored and publish skipped.'
+        exit 0
+    }
+
     if ($processSummary.new_articles_processed -gt 0) {
         & $pythonPath generate_html.py
         if ($LASTEXITCODE -ne 0) { throw 'HTML generation failed' }
