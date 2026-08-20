@@ -1,0 +1,35 @@
+{
+  "source": "Heritage Foundation - Education",
+  "source_url": "https://www.heritage.org/education",
+  "crawled_at": "2026-08-20T17:06:10.821670",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Parents, Not Bureaucrats, Should Call the Shots",
+      "url": "https://www.heritage.org/parental-rights/commentary/parents-not-bureaucrats-should-call-the-shots",
+      "date": "Aug 20, 2026",
+      "type": "Commentary",
+      "read_time": "2 min",
+      "source": "Heritage Foundation",
+      "category": "parental_rights"
+    },
+    {
+      "title": "Don’t Military Families Deserve Education Freedom Too?",
+      "url": "https://www.heritage.org/education/commentary/dont-military-families-deserve-education-freedom-too",
+      "date": "Aug 19, 2026",
+      "type": "Commentary",
+      "read_time": "3 min",
+      "source": "Heritage Foundation",
+      "category": "general"
+    },
+    {
+      "title": "Implementing Workforce Pell Grants and Presenting Ohio’s Model Policy",
+      "url": "https://www.heritage.org/education/report/implementing-workforce-pell-grants-and-presenting-ohios-model-policy",
+      "date": "Aug 18, 2026",
+      "type": "Backgrounder",
+      "read_time": "13 min",
+      "source": "Heritage Foundation",
+      "category": "policy"
+    }
+  ]
+}
