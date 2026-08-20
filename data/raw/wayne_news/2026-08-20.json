@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-20T16:56:38.825212",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "After 27 years in prison, exoneree finds his future at WSU",
+      "url": "https://today.wayne.edu/news/2026/08/18/a-new-chapter-after-27-years-in-prison-exoneree-roy-blackman-finds-his-future-at-wayne-state-69959",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Q&A: WSU alumnus' book a mini time capsule of Creative Warriors, Cass Tech musician connection",
+      "url": "https://cfpca.wayne.edu/news/qa-wayne-state-alumnus-book-a-mini-time-capsule-of-creative-warriors-cass-tech-musician-connection-69968",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

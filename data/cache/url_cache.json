@@ -18004,5 +18004,437 @@
     "fetch_time": "2026-08-18T12:00:34.516301",
     "title": "Presidential Message on National Employer Support of the Guard and Reserve Week",
     "category": "general"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-virginia-returning-education-states-tour": {
+    "source": "edgov",
+    "fetch_time": "2026-08-20T16:55:08.396305",
+    "title": "U.S. Secretary of Education Linda McMahon Visits Virginia on Returning Education to the States Tour",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-releases-guidance-responsible-use-of-education-technology-classroom": {
+    "source": "edgov",
+    "fetch_time": "2026-08-20T16:55:08.396305",
+    "title": "U.S. Department of Education Releases Guidance on Responsible Use of Education Technology in the Classroom",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-second-workforce-pell-grant-program-indiana": {
+    "source": "edgov",
+    "fetch_time": "2026-08-20T16:55:08.396305",
+    "title": "U.S. Department of Education Approves Second Workforce Pell Grant Program in Indiana",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-proposed-rule-overhaul-and-improve-americas-higher-education-accreditation-system": {
+    "source": "edgov",
+    "fetch_time": "2026-08-20T16:55:08.396305",
+    "title": "U.S. Department of Education Issues Proposed Rule to Overhaul and Improve America’s Higher Education Accreditation System",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/lab-expansion-offers-skill-building-space": {
+    "source": "iit_news",
+    "fetch_time": "2026-08-20T16:56:31.621117",
+    "title": "Lab Expansion Offers Skill-Building Space",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/inside-u-ms-rare-program-to-save-ancient-texts/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-08-20T16:56:31.744902",
+    "title": "Inside U-M’s rare program to save ancient texts",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-08-20-iusoe-welcomes-new-faculty.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-08-20T16:56:31.841245",
+    "title": "IU School of Education welcomes new faculty",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/steve-martin-pursuit-nearly-perfect-battery-materials-performance": {
+    "source": "iastate_news",
+    "fetch_time": "2026-08-20T16:56:32.025221",
+    "title": "Steve Martin: In pursuit of nearly perfect battery materials, performance",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52580-study-abroad-trip-in-costa-rica-immerses-iu-online": {
+    "source": "iu_news",
+    "fetch_time": "2026-08-20T16:56:32.397321",
+    "title": "Study abroad trip in Costa Rica immerses IU Online student in tropical research environment",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/08/19/stop-calling-every-misuse-of-ai-plagiarism/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-08-20T16:56:32.474029",
+    "title": "Stop calling every misuse of AI plagiarism",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/two-graduate-students-win-dissertation-fellowship/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-20T16:56:34.319455",
+    "title": "Two Graduate Students Win Simons Dissertation Fellowships",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/notre-dame-arts-initiative-awards-over-400-000-for-community-and-campus-partners-to-lead-inaugural-arts-biennial-programming/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-20T16:56:34.319455",
+    "title": "Notre Dame Arts Initiative awards over $400,000 for community and campus partners to lead inaugural Arts Biennial programming",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/2026-fields-medalist/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-20T16:56:34.319455",
+    "title": "A Notre Dame Connection to a 2026 Fields Medal",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/extension-food-business-startup-summit-provides-collaboration-networking-support.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-20T16:56:34.320457",
+    "title": "Summit empowers Kansas food entrepreneurs' business growth",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/rural-veterinary-workforce-task-force-addresses-rural-vet-shortages.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-20T16:56:34.320457",
+    "title": "K-State advances efforts to strengthen veterinary capacity in rural Kansas",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/cynthia-warrick-named-interim-arts-and-sciences-dean.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-20T16:56:34.320457",
+    "title": "Cynthia Warrick named interim dean of College of Arts and Sciences",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/merit-pool-update-compensation.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-20T16:56:34.320457",
+    "title": "Budget and compensation initiatives in action",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/tree-lining-streets-manhattan-survey.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-20T16:56:34.320457",
+    "title": "Scan a tree, share your thoughts",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/elead-engineering-leadership-industry-collaboration.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-20T16:56:34.320457",
+    "title": "Leading from day one",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/08-2/five-young-researchers-receive-nsf-career-awards": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-08-20T16:56:34.863016",
+    "title": "Five young researchers receive NSF CAREER Awards",
+    "category": "general"
+  },
+  "https://oneill.indiana.edu/news/2026-0820-novick-essi-director.html": {
+    "source": "oneill",
+    "fetch_time": "2026-08-20T16:56:35.588872",
+    "title": "Perceived \"Naturalness\" Drives Public Support for Climate Tech",
+    "category": "ai"
+  },
+  "https://oneill.indiana.edu/news/2026-0818-naturalness.html": {
+    "source": "oneill",
+    "fetch_time": "2026-08-20T16:56:35.588872",
+    "title": "Perceived \"Naturalness\" Drives Public Support for Climate Tech",
+    "category": "semiconductor"
+  },
+  "https://oneill.indiana.edu/news/2026-0818-dean-search-committee.html": {
+    "source": "oneill",
+    "fetch_time": "2026-08-20T16:56:35.588872",
+    "title": "Committee named in search for O’Neill School dean",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/dole-institute-fall-programming-will-include-talk-by-former-fdic-chair-sheila-bair": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-20T16:56:35.981333",
+    "title": "Dole Institute fall programming will include talk by former FDIC chair Sheila Bair",
+    "category": "ai"
+  },
+  "https://polytechnic.purdue.edu/newsroom/bowen-school-construction-faculty-complete-industry-externship-gaylor-electric": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-20T16:56:36.033957",
+    "title": "Bowen School of Construction faculty complete industry externship with Gaylor Electric",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/forbes-ranks-purdue-universitys-online-masters-programs-most-accessible-nation": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-20T16:56:36.033957",
+    "title": "Forbes ranks Purdue University’s online master’s programs as most accessible in nation?",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/lucietto-receives-ieee-women-technology-and-leadership-award": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-20T16:56:36.033957",
+    "title": "Lucietto receives IEEE Women in Technology and Leadership Award",
+    "category": "general"
+  },
+  "https://polytechnic.purdue.edu/newsroom/mac-program-manager-helps-graduate-inaugural-toyota-mississippi-4t-academy-class-expands": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-20T16:56:36.033957",
+    "title": "IN-MaC program manager helps graduate inaugural Toyota Mississippi 4T Academy class, expands national footprint",
+    "category": "general"
+  },
+  "https://www.rockhurst.edu/news/2026-08-20/study-abroad-trip-spain-portugal-opens-student-eyes": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-08-20T16:56:36.548900",
+    "title": "Study Abroad Trip to Spain, Portugal Opens Student Eyes",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-08-19/ignatian-spirituality-center-kansas-city-joins-rockhurst-university": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-08-20T16:56:36.548900",
+    "title": "Ignatian Spirituality Center of Kansas City Joins Rockhurst University",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-20T16:56:36.550916",
+    "title": "How Much of the Internet Is Written With AI?",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/19/after-a-long-fade-is-teen-summer-employment-in-the-us-rebounding/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-20T16:56:36.550916",
+    "title": "Is teen summer employment in the U.S. rebounding after a long fade?",
+    "category": "general"
+  },
+  "https://www.slu.edu/news/2026/august/tech-chain-conference.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-20T16:56:36.552929",
+    "title": "Saint Louis University to Hold Conference on AI and Autonomous Supply Chain",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/august/kathy-johnson-welcome.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-20T16:56:36.552929",
+    "title": "SLU Community Welcomes Johnson at Reception",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/august/convocation-welcomes-newest-billikens.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-20T16:56:36.552929",
+    "title": "SLU Kicks Off Year, Welcomes Newest Billikens at Convocation",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/big-brains-podcast-why-key-treating-cancer-may-be-your-gut-thomas-gajewski": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-20T16:56:37.164709",
+    "title": "Why the key to treating cancer may be in your gut, with Thomas Gajewski",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/story/why-humor-can-look-lot-deception": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-20T16:56:37.164709",
+    "title": "Why humor can look a lot like deception",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/randal-c-picker-renowned-legal-scholar-1959-2026": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-20T16:56:37.164709",
+    "title": "Randal C. Picker, renowned legal scholar, 1959-2026",
+    "category": "education"
+  },
+  "https://today.uic.edu/intermittent-fasting-may-help-type-1-diabetics-control-their-blood-sugar-levels/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-20T16:56:37.487084",
+    "title": "Intermittent fasting may help Type 1 diabetics control their blood sugar levels",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4772-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-20T16:56:37.487084",
+    "title": "Reduced-Credit Bachelor’s Degrees in Ohio: Opportunities, Constraints, and Field-Level Feasibility",
+    "category": "education"
+  },
+  "/news/2026/08/iowa-grad-tony-tulathimutte-receives-inaugural-jack-galef-literary-arts-award": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-20T16:56:37.668283",
+    "title": "Iowa grad Tony Tulathimutte receives inaugural Jack Galef Literary Arts Award",
+    "category": "education"
+  },
+  "/news/2026/08/ui-extends-contract-athletics-director-beth-goetz": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-20T16:56:37.668283",
+    "title": "UI extends contract of Athletics Director Beth Goetz",
+    "category": "education"
+  },
+  "/news/2026/08/ui-launches-search-names-committee-next-college-law-dean": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-20T16:56:37.668283",
+    "title": "UI launches search, names committee for next College of Law dean",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/calestous-juma-engineering-fellows-purdue": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-20T16:56:37.847876",
+    "title": "Calestous Juma Engineering Fellows strengthen Purdue’s research ties with Sub-Saharan Africa",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-ai-racing-returns-to-laguna-seca-toughest-challenge": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-20T16:56:37.847876",
+    "title": "Purdue AI Racing heads back to Laguna Seca, gears up for toughest challenge yet",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0819-purdue-indianapolis-masha-novoselova-electrical-engineering-profile": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-20T16:56:37.847876",
+    "title": "Indianapolis profile: Masha Novoselova",
+    "category": "semiconductor"
+  },
+  "https://cse.umn.edu/college/news/pass-it-how-cse-mentors-help-students-build-their-futures": {
+    "source": "umn_cse",
+    "fetch_time": "2026-08-20T16:56:38.147692",
+    "title": "Pass it on: How CSE mentors help students build their futures",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/lasers-and-gold-and-doctorate-draw-graduate-student-minnesota": {
+    "source": "umn_cse",
+    "fetch_time": "2026-08-20T16:56:38.147692",
+    "title": "Lasers and gold — and a doctorate — draw graduate student to Minnesota",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-alumnus-dave-masons-positive-leadership-transforms-lives-and-earns-one-of-educations-highest-honors/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-20T16:56:38.692530",
+    "title": "Mizzou alumnus Dave Mason’s positive leadership transforms lives — and earns one of education’s highest honors",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/cafnr-academic-advisor-honored-with-advisor-of-the-year-award/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-20T16:56:38.692530",
+    "title": "CAFNR academic advisor honored with Advisor of the Year Award",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/AI-agents-prompt-redesign-of-web-for-security-privacy-reliability.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-20T16:56:38.835598",
+    "title": "AI agents prompt redesign of web for security, privacy, reliability",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/08/five-trends-shaping-public-health/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "Five trends shaping public health",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/08/caps-students-help-trailnet-create-safer-streets/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "CAPS students help Trailnet create safer streets",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/technique-evaluates-reliability-of-imaging-measurements-used-in-medical-decision-making/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "Technique evaluates reliability of imaging measurements used in medical decision-making",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/08/newly-found-immune-organ-inside-skull-directs-brain-defense/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "Newly found ‘immune organ’ inside skull directs brain defense",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/08/laser-therapy-offers-weapon-against-deadly-brain-tumors/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "Laser therapy offers weapon against deadly brain tumors",
+    "category": "ai"
+  },
+  "https://impact.wisc.edu/uw-madison-and-green-bay-area-partners-build-flood-resilience-along-the-east-river": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "UW–Madison and Green Bay-area partners build flood resilience along the East River",
+    "category": "general"
+  },
+  "https://news.wisc.edu/incarceration-rates-are-declining-a-new-study-explores-some-of-the-reasons-why/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-20T16:56:38.840450",
+    "title": "Incarceration rates are declining. A new study explores some of the reasons why.",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "The National Space Transportation Policy",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "President Trump’s Cabinet Champions America First Successes Nationwide",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "$2 Million Donation Expands First Lady Melania Trump’s Fostering the Future Initiative to Indiana University and Purdue University",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "President Trump’s Trade Agenda Is Rebuilding the American Auto Industry",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages-dairy-and-motor-vehicles/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-drop-in-violent-crime-in-american-history/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-20T16:56:38.843969",
+    "title": "President Trump Delivers the Largest Drop in Violent Crime in American History",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/higher-grades-and-belonging-trans-students-thrive-when-supported-by-teachers/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "Higher Grades and Belonging: Trans Students Thrive When Supported by Teachers",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/nyc-mayor-sues-city-council-over-law-giving-10000-bonuses-to-paraprofessionals/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "NYC Mayor Sues City Council Over Law Giving $10,000 Bonuses to Paraprofessionals",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/student-journalists-ai-is-changing-our-work-and-not-for-the-better/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "Student Journalists: AI Is Changing Our Work — And Not For the Better",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/fcc-review-could-end-school-internet-program-advocates-plan-very-loud-protest/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "FCC Review Could End School Internet Program. Advocates Plan ‘Very Loud’ Protest",
+    "category": "education"
+  },
+  "https://www.the74million.org/zero2eight/head-start-providers-describe-a-system-in-turmoil-amid-federal-cutbacks/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "Head Start Providers Describe a System in Turmoil Amid Federal Cutbacks",
+    "category": "general"
+  },
+  "https://www.the74million.org/article/put-the-credit-cards-away-workforce-pell-will-help-pay-for-career-training/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "Put the Credit Cards Away. Workforce Pell Will Help Pay for Career Training",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/californians-voted-to-spend-1-billion-on-k-12-arts-why-are-schools-returning-the-money/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-20T16:56:41.043987",
+    "title": "Californians Voted to Spend $1 Billion on K-12 Arts. Why Are Schools Returning the Money?",
+    "category": "education"
   }
 }

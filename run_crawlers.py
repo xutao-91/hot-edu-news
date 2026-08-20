@@ -4,8 +4,14 @@ import json
 import subprocess
 import concurrent.futures
 import sys
+import threading
 from pathlib import Path
 from datetime import datetime, timedelta
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
 # 新增：多领域分类规则，匹配用户要求的收录范围
 CATEGORIES = {
@@ -38,12 +44,15 @@ CRAWLERS_DIR = config['paths']['crawlers_dir']
 URL_CACHE_FILE = config['paths']['url_cache_file']
 MAX_WORKERS = config['crawler']['max_workers']
 DAYS_TO_FETCH = config['crawler']['days_to_fetch']
+DISABLED_SOURCES = set(config['crawler'].get('disabled_sources', []))
 
 # 加载URL缓存
 url_cache = {}
 if os.path.exists(URL_CACHE_FILE):
     with open(URL_CACHE_FILE, 'r', encoding='utf-8') as f:
         url_cache = json.load(f)
+
+url_cache_lock = threading.Lock()
 
 def load_existing_urls(source):
     """加载某个来源已抓取的所有URL"""
@@ -59,8 +68,12 @@ def load_existing_urls(source):
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
+                if isinstance(data, dict):
+                    data = data.get('articles') or data.get('news') or []
+                if not isinstance(data, list):
+                    continue
                 for article in data:
-                    if 'url' in article:
+                    if isinstance(article, dict) and article.get('url'):
                         existing_urls.add(article['url'])
         except Exception as e:
             print(f"⚠️  读取文件 {file_path} 失败: {str(e)}")
@@ -71,6 +84,11 @@ def run_crawler(crawler_path):
     """执行单个爬虫脚本，返回抓取结果"""
     source_name = os.path.basename(os.path.dirname(crawler_path))
     print(f"🚀 开始抓取 {source_name}...")
+    # Snapshot URLs before the crawler writes today's file. Loading them after
+    # the subprocess would incorrectly classify every freshly fetched URL as old.
+    existing_urls = load_existing_urls(source_name)
+    with url_cache_lock:
+        cached_urls = set(url_cache)
     
     try:
         # 执行爬虫脚本，传入抓取天数参数
@@ -78,12 +96,14 @@ def run_crawler(crawler_path):
             [sys.executable, crawler_path, str(DAYS_TO_FETCH)],
             capture_output=True,
             text=True,
+            encoding='utf-8',
+            errors='replace',
             timeout=config['crawler']['timeout']
         )
         
         if result.returncode != 0:
             print(f"❌ {source_name} 抓取失败: {result.stderr}")
-            return source_name, []
+            return source_name, [], result.stderr.strip() or f"exit code {result.returncode}"
         
         # 直接读取爬虫保存的今日文件
         today = datetime.now().strftime('%Y-%m-%d')
@@ -110,8 +130,10 @@ def run_crawler(crawler_path):
                         return source_name, []
         
         # 过滤已抓取过的URL
-        existing_urls = load_existing_urls(source_name)
-        new_articles = [a for a in articles if a.get('url') not in existing_urls and a.get('url') not in url_cache]
+        new_articles = [
+            a for a in articles
+            if a.get('url') and a.get('url') not in existing_urls and a.get('url') not in cached_urls
+        ]
         
         # 用户要求：暂时不设过滤限制，所有抓取到的文章全部收录
         filtered_articles = []
@@ -123,11 +145,11 @@ def run_crawler(crawler_path):
         
         if not filtered_articles:
             print(f"✅ {source_name} 没有新内容")
-            return source_name, []
+            return source_name, [], None
         
         print(f"✅ {source_name} 抓取完成，新增 {len(filtered_articles)} 篇文章")
-        for article in filtered_articles:
-            if 'url' in article:
+        with url_cache_lock:
+            for article in filtered_articles:
                 url_cache[article['url']] = {
                     'source': source_name,
                     'fetch_time': datetime.now().isoformat(),
@@ -135,22 +157,37 @@ def run_crawler(crawler_path):
                     'category': article.get('category', 'general')
                 }
         
-        return source_name, filtered_articles
+        return source_name, filtered_articles, None
      
     except subprocess.TimeoutExpired:
         print(f"⏰ {source_name} 抓取超时")
-        return source_name, []
+        return source_name, [], "timeout"
     except Exception as e:
         print(f"❌ {source_name} 执行异常: {str(e)}")
-        return source_name, []
+        return source_name, [], str(e)
 
 def main():
     # 扫描所有爬虫脚本
     crawler_paths = []
+    requested_sources = {
+        item.strip() for item in os.environ.get('HOT_EDU_SOURCES', '').split(',') if item.strip()
+    }
     for root, dirs, files in os.walk(CRAWLERS_DIR):
         for file in files:
             if file == 'crawler.py' and os.path.isfile(os.path.join(root, file)):
-                crawler_paths.append(os.path.join(root, file))
+                crawler_path = os.path.join(root, file)
+                source_name = os.path.basename(os.path.dirname(crawler_path))
+                if source_name in DISABLED_SOURCES and source_name not in requested_sources:
+                    continue
+                if not requested_sources or source_name in requested_sources:
+                    crawler_paths.append(crawler_path)
+
+    if requested_sources:
+        found_sources = {os.path.basename(os.path.dirname(path)) for path in crawler_paths}
+        missing_sources = sorted(requested_sources - found_sources)
+        if missing_sources:
+            print(f"❌ 未找到指定来源: {', '.join(missing_sources)}")
+            return 2
     
     print(f"📋 发现 {len(crawler_paths)} 个爬虫脚本，开始并行执行...\n")
     
@@ -166,11 +203,26 @@ def main():
         json.dump(url_cache, f, ensure_ascii=False, indent=2)
     
     # 统计结果
-    total_new = sum(len(articles) for _, articles in results)
-    print(f"\n🎉 所有爬虫执行完成，共新增 {total_new} 篇文章")
-    
-    # 输出新文章数量，供后续步骤使用
-    print(f"::set-output name=new_articles_count::{total_new}")
+    total_new = sum(len(articles) for _, articles, _ in results)
+    failures = [
+        {'source': source, 'error': error}
+        for source, _, error in results if error
+    ]
+    run_summary = {
+        'finished_at': datetime.now().isoformat(),
+        'sources_total': len(crawler_paths),
+        'sources_disabled': sorted(DISABLED_SOURCES),
+        'sources_failed': len(failures),
+        'new_articles': total_new,
+        'failures': failures,
+    }
+    summary_path = os.path.join(os.path.dirname(URL_CACHE_FILE), 'last_crawl.json')
+    with open(summary_path, 'w', encoding='utf-8') as f:
+        json.dump(run_summary, f, ensure_ascii=False, indent=2)
+
+    print(f"\n🎉 抓取完成，本次新增 {total_new} 篇，失败来源 {len(failures)} 个")
+    print(json.dumps(run_summary, ensure_ascii=False))
+    return 1 if failures else 0
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

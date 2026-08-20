@@ -1,0 +1,71 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-08-20T16:56:38.278849",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Major projects bring changes as Huskers return for fall semester",
+      "url": "https://news.unl.edu/article/major-projects-bring-changes-as-huskers-return-for-fall-semester",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Nebraska U becomes partner in national homelessness prevention initiative",
+      "url": "https://news.unl.edu/article/nebraska-u-becomes-partner-in-national-homelessness-prevention-initiative",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nama advances software to expand ultrasound’s role in medicine",
+      "url": "https://news.unl.edu/article/nama-advances-software-to-expand-ultrasounds-role-in-medicine",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "NUtech Ventures starts fund to bridge gap between innovation and impact",
+      "url": "https://news.unl.edu/article/nutech-ventures-starts-fund-to-bridge-gap-between-innovation-and-impact",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Bat expert returns to university as research technologist",
+      "url": "https://news.unl.edu/article/bat-expert-returns-to-university-as-research-technologist-0",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Amber Ward of Bellevue receives Air Force commission",
+      "url": "https://news.unl.edu/article/amber-ward-of-bellevue-receives-air-force-commission",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker doctoral student aims to detect insect-borne viruses sooner",
+      "url": "https://news.unl.edu/article/husker-doctoral-student-aims-to-detect-insect-borne-viruses-sooner",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-08-20T16:56:38.692530",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Fact Sheet: President Donald J. Trump Launches the Golden Age of Space Transportation",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-launches-the-golden-age-of-space-transportation/",
+      "date": "August 20, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "The National Space Transportation Policy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/national-security-presidential-memorandum-nspm-17/",
+      "date": "August 20, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Cabinet Champions America First Successes Nationwide",
+      "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-cabinet-champions-america-first-successes-nationwide/",
+      "date": "August 20, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "$2 Million Donation Expands First Lady Melania Trump’s Fostering the Future Initiative to Indiana University and Purdue University",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/2-million-donation-expands-first-lady-melania-trumps-fostering-the-future-initiative-to-indiana-university-and-purdue-university/",
+      "date": "August 20, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Trade Agenda Is Rebuilding the American Auto Industry",
+      "url": "https://www.whitehouse.gov/releases/2026/08/president-trumps-trade-agenda-is-rebuilding-the-american-auto-industry/",
+      "date": "August 19, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Temporary Suspension of Additional Duties to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages, Dairy, and Motor Vehicles",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/temporary-suspension-of-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages-dairy-and-motor-vehicles/",
+      "date": "August 18, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Delivers the Largest Drop in Violent Crime in American History",
+      "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-drop-in-violent-crime-in-american-history/",
+      "date": "August 18, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Employer Support of the Guard and Reserve Week",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-national-employer-support-of-the-guard-and-reserve-week-1d9a/",
+      "date": "August 17, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "ICYMI: “USS Lincoln: Performance For the Ages”",
+      "url": "https://www.whitehouse.gov/releases/2026/08/icymi-uss-lincoln-performance-for-the-ages/",
+      "date": "August 17, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Delivers Largest Prescription Drug Price Drop in Over 60 Years",
+      "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-largest-prescription-drug-price-drop-in-over-60-years/",
+      "date": "August 17, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

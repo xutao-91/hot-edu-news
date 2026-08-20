@@ -1,0 +1,26 @@
+{
+  "source": "Rockhurst University News",
+  "source_url": "https://www.rockhurst.edu/news",
+  "crawled_at": "2026-08-20T16:56:36.396613",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Study Abroad Trip to Spain, Portugal Opens Student Eyes",
+      "url": "https://www.rockhurst.edu/news/2026-08-20/study-abroad-trip-spain-portugal-opens-student-eyes",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "From milking calves at a cheese farm outside of Oviedo, Spain, to learning how to make authentic Basque cuisine in a culinary class in Bilbao and witnessing pilgrims complete The Camino at the Cathedral of Santiago de Compostela, this trip was full of experiences that showcased the rich culture and history of the Iberian Peninsula and pushed students beyond their norms.",
+      "source": "Rockhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Ignatian Spirituality Center of Kansas City Joins Rockhurst University",
+      "url": "https://www.rockhurst.edu/news/2026-08-19/ignatian-spirituality-center-kansas-city-joins-rockhurst-university",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "The Ignatian Spirituality Center of Kansas City, which has operated as a nonprofit organization under the auspices of the Jesuits USA Central and Southern Province, is becoming part of Rockhurst University, a Jesuit university founded in 1910 that is also one of the works in the province.",
+      "source": "Rockhurst News",
+      "category": "academics"
+    }
+  ]
+}

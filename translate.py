@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
-"""
-翻译脚本（精简版）：仅编译标题，不抓取全文，不生成摘要
+"""标题整理脚本。
+
+不调用 Kimi 或任何其他外部模型供应商。已有中文译名继续复用；没有
+既有译名的英文标题保留原文，之后可由 Codex 工作流另行审核处理。
 """
 import json
 import os
 import re
+import sys
 from datetime import datetime, timedelta
-from pathlib import Path
+
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+if hasattr(sys.stderr, 'reconfigure'):
+    sys.stderr.reconfigure(encoding='utf-8', errors='replace')
 
 # 加载配置
 CONFIG_PATH = os.path.join(os.path.dirname(__file__), 'config.json')
@@ -85,7 +92,7 @@ def translate_title(article, source):
     return {**article, 'title_cn': title_cn, 'summary_cn': '', '_sort_date': sort_date}
 
 def main():
-    print("🔄 开始处理标题（精简模式，不编译全文）...")
+    print("🔄 开始整理标题（无外部模型供应商）...")
     os.makedirs(TRANSLATED_DIR, exist_ok=True)
 
     four_days_ago = datetime.now() - timedelta(days=4)
@@ -110,11 +117,6 @@ def main():
                 continue
 
             file_path = os.path.join(source_dir, filename)
-            file_key = f"{source}/{filename}"
-
-            if file_key in processed_articles:
-                continue
-
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
                     data = json.load(f)
@@ -126,26 +128,48 @@ def main():
                 print(f"⚠️  读取 {file_path} 失败: {e}")
                 continue
 
+            out_dir = os.path.join(TRANSLATED_DIR, source)
+            out_path = os.path.join(out_dir, filename)
+            existing_translated = []
+            if os.path.exists(out_path):
+                try:
+                    with open(out_path, 'r', encoding='utf-8') as f:
+                        existing_translated = json.load(f)
+                    if not isinstance(existing_translated, list):
+                        existing_translated = []
+                except Exception:
+                    existing_translated = []
+
+            existing_urls = {a.get('url') for a in existing_translated if a.get('url')}
             translated_articles = []
             for article in articles:
+                article_key = article.get('url') or f"{source}|{article.get('title', '')}|{article.get('date', '')}"
+                if article_key in processed_articles or article.get('url') in existing_urls:
+                    continue
                 t = translate_title(article, source)
                 if t:
                     translated_articles.append(t)
+                    processed_articles.add(article_key)
                     new_count += 1
 
             if translated_articles:
-                out_dir = os.path.join(TRANSLATED_DIR, source)
                 os.makedirs(out_dir, exist_ok=True)
-                with open(os.path.join(out_dir, filename), 'w', encoding='utf-8') as f:
-                    json.dump(translated_articles, f, ensure_ascii=False, indent=2)
-
-            processed_articles.add(file_key)
+                with open(out_path, 'w', encoding='utf-8') as f:
+                    json.dump(existing_translated + translated_articles, f, ensure_ascii=False, indent=2)
 
     # 保存数据库
     with open(TRANSLATION_DB_FILE, 'w', encoding='utf-8') as f:
         json.dump(translation_db, f, ensure_ascii=False, indent=2)
     with open(PROCESSED_ARTICLES_FILE, 'w', encoding='utf-8') as f:
-        json.dump(list(processed_articles), f, ensure_ascii=False, indent=2)
+        json.dump(sorted(processed_articles), f, ensure_ascii=False, indent=2)
+
+    summary_path = os.path.join(os.path.dirname(PROCESSED_ARTICLES_FILE), 'last_process.json')
+    with open(summary_path, 'w', encoding='utf-8') as f:
+        json.dump({
+            'finished_at': datetime.now().isoformat(),
+            'new_articles_processed': new_count,
+            'provider': 'none',
+        }, f, ensure_ascii=False, indent=2)
 
     print(f"✅ 标题处理完成，共 {new_count} 篇文章")
 

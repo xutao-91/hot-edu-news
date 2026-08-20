@@ -1,0 +1,17 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-08-20T16:56:31.497811",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Lab Expansion Offers Skill-Building Space",
+      "url": "https://www.iit.edu/news/lab-expansion-offers-skill-building-space",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "An extension of Illinois Tech’s Smart Tech Lab will serve students by providing workshops, lab space, and a headquarters for student organizations. The new Lighting, Automation, and Cybersecurity Lab...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

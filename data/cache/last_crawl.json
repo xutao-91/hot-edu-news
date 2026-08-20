@@ -1,0 +1,12 @@
+{
+  "finished_at": "2026-08-20T16:56:41.077959",
+  "sources_total": 67,
+  "sources_failed": 1,
+  "new_articles": 68,
+  "failures": [
+    {
+      "source": "hanover_research",
+      "error": "exit code 1"
+    }
+  ]
+}

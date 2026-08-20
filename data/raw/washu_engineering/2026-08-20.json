@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-08-20T16:56:38.741114",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "AI agents prompt redesign of web for security, privacy, reliability",
+      "url": "https://engineering.washu.edu/news/2026/AI-agents-prompt-redesign-of-web-for-security-privacy-reliability.html",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "Umar Iqbal plans to redesign web for AI agents with NSF CAREER Award.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "A painless punch with a microneedle patch could detect kidney disease earlier",
+      "url": "https://engineering.washu.edu/news/2026/A-painless-punch-with-a-microneedle-patch-could-detect-kidney-disease-earlier.html",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "Srikanth Singamaneni’s lab creates metal-organic framework-protected microneedle patch resilient to heat, storage time.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

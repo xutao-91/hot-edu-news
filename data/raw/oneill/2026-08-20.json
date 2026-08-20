@@ -1,0 +1,44 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-08-20T16:56:35.460759",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Perceived \"Naturalness\" Drives Public Support for Climate Tech",
+      "url": "https://oneill.indiana.edu/news/2026-0820-novick-essi-director.html",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "O’Neill professor Kim Novick named director of IU’s Environment, Society, and Sustainability Institute, advancing interdisciplinary environmental research and solutions.",
+      "source": "O'Neill School at IU",
+      "category": "public_affairs"
+    },
+    {
+      "title": "Perceived \"Naturalness\" Drives Public Support for Climate Tech",
+      "url": "https://oneill.indiana.edu/news/2026-0818-naturalness.html",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "New research finds public support for climate technologies rises when solutions are perceived as natural, offering insights for building trust and bipartisan support.",
+      "source": "O'Neill School at IU",
+      "category": "public_affairs"
+    },
+    {
+      "title": "Committee named in search for O’Neill School dean",
+      "url": "https://oneill.indiana.edu/news/2026-0818-dean-search-committee.html",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "Indiana University has named the search committees that will help identify the next dean of the Paul H. O’Neill School of Public and Environmental Affairs.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Attari named director of IU Institute for Advanced Study",
+      "url": "https://oneill.indiana.edu/news/2026-0818-attari-ias-director.html",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "O’Neill professor Shahzeen Attari has been named director of IU’s Institute for Advanced Study, advancing interdisciplinary research and collaboration across campus.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

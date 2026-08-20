@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-20T16:56:37.029460",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Why the key to treating cancer may be in your gut, with Thomas Gajewski",
+      "url": "https://news.uchicago.edu/big-brains-podcast-why-key-treating-cancer-may-be-your-gut-thomas-gajewski",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Why humor can look a lot like deception",
+      "url": "https://news.uchicago.edu/story/why-humor-can-look-lot-deception",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "A linguistics course examines what jokes and lies share",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Randal C. Picker, renowned legal scholar, 1959-2026",
+      "url": "https://news.uchicago.edu/story/randal-c-picker-renowned-legal-scholar-1959-2026",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "A trailblazer in his field, Picker was a devoted teacher and University leader",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "From lab to layperson, UChicago students learn to make science land",
+      "url": "https://news.uchicago.edu/story/lab-layperson-uchicago-students-learn-make-science-land",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "Science communications minor teaches College students to ditch the jargon to bridge the gap between research and the real world",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Many recent grads say AI is making it harder to get a job. Economists aren't so sure",
+      "url": "https://www.npr.org/2026/08/18/nx-s1-5910677/recent-college-graduates-employment-job-artificial-intelligence",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Trump Is Putting His Face On Everything",
+      "url": "https://www.theatlantic.com/politics/2026/08/trump-name-on-everything/688090/",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How to better forecast once-in-a-millennium weather events",
+      "url": "https://news.uchicago.edu/story/how-better-forecast-once-millennium-weather-events",
+      "date": "2026-08-17",
+      "type": "News",
+      "summary_en": "UChicago researchers combine AI with statistics and physics to better estimate the odds of rare weather",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
