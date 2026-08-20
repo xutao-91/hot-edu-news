@@ -19,17 +19,9 @@ def parse_date_to_str(date_str):
     """解析多种格式的日期，返回YYYY-MM-DD格式的字符串"""
     if not date_str:
         return datetime.now().strftime('%Y-%m-%d')
-    date_formats = [
-        '%B %d, %Y', # May 7, 2026
-        '%b %d, %Y', # May 7, 2026
-        '%Y-%m-%d', # 2026-05-07
-        '%m/%d/%Y', # 05/07/2026
-    ]
-    for fmt in date_formats:
-        try:
-            return datetime.strptime(date_str.strip(), fmt).strftime('%Y-%m-%d')
-        except:
-            continue
+    parsed = parse_date(date_str)
+    if parsed:
+        return parsed.strftime('%Y-%m-%d')
     return datetime.now().strftime('%Y-%m-%d')
 
 # 加载配置
@@ -143,6 +135,8 @@ def get_all_translated_articles():
                 # 数组格式
                 if isinstance(data, list):
                     for article in data:
+                        if not article.get('date'):
+                            article['date'] = Path(file).stem
                         # 标题模式下不要求中文，接受所有标题
                         title = article.get("title_cn", article.get("title", ""))
                         if title:
@@ -150,12 +144,16 @@ def get_all_translated_articles():
                 # 数组嵌套在news字段的格式
                 elif isinstance(data, dict) and "news" in data:
                     for article in data["news"]:
+                        if not article.get('date'):
+                            article['date'] = Path(file).stem
                         # 标题模式下不要求中文，接受所有标题
                         title = article.get("title_cn", article.get("title", ""))
                         if title:
                             articles.append(article)
                 # 单篇格式（新格式）
                 elif isinstance(data, dict) and "title" in data:
+                    if not data.get('date'):
+                        data['date'] = Path(file).stem
                     title = data.get("title_cn", data.get("title", ""))
                     if title:
                         articles.append(data)
@@ -173,6 +171,8 @@ def get_all_translated_articles():
                 try:
                     with open(file_path, "r", encoding="utf-8") as f:
                         article = json.load(f)
+                        if not article.get('date'):
+                            article['date'] = item
                         cn_count = sum(1 for c in article["title"] if '\u4e00' <= c <= '\u9fff')
                         if cn_count >= 3:
                             articles.append(article)
@@ -185,8 +185,12 @@ def parse_date(date_str):
     # 预处理：去掉星期前缀和时间时区后缀，只保留日期部分
     import re
     # 匹配 Mon, dd Month YYYY 或者 Mon, dd Mon YYYY 格式，去掉前面的星期和后面的时间
-    date_str = re.sub(r'^[A-Za-z]{3},\s*', '', date_str.strip())
+    date_str = re.sub(r'^[A-Za-z]{3},\s*', '', str(date_str).strip())
     date_str = re.sub(r'\s+\d{2}:\d{2}:\d{2}\s+.*$', '', date_str)
+    # 部分来源使用 "Aug. 20, 2026"，strptime 的 %b 不接受月份后的点。
+    date_str = re.sub(r'^([A-Za-z]{3})\.\s+', r'\1 ', date_str)
+    # 兼容 "August 20th, 2026" 等带英文序数后缀的日期。
+    date_str = re.sub(r'(\d{1,2})(st|nd|rd|th)', r'\1', date_str, flags=re.IGNORECASE)
     
     formats = [
         '%B %d, %Y',      # March 25, 2026
@@ -211,11 +215,11 @@ def format_date_key(date_str):
     return date_str
 
 def get_display_date_short(date_str):
-    """转为短日期格式 03-25"""
+    """将所有来源日期统一显示为 YYYY-MM-DD。"""
     parsed = parse_date(date_str)
     if parsed:
-        return parsed.strftime('%m-%d')
-    return date_str
+        return parsed.strftime('%Y-%m-%d')
+    return '日期未知'
 
 def get_category_name(category):
     """分类英文转中文"""
