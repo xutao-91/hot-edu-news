@@ -1,9 +1,18 @@
 {
   "source": "Kansas State University News",
   "source_url": "https://www.k-state.edu/news/articles/",
-  "crawled_at": "2026-08-20T17:06:13.954893",
+  "crawled_at": "2026-08-20T20:00:16.809311",
   "total_news": 10,
   "news": [
+    {
+      "title": "New K-State research complex to drive innovation for the future of agriculture",
+      "url": "https://www.k-state.edu/news/articles/2026/08/l-eldon-gideon-agronomy-research-and-innovation-complex-to-enhance-agricultural-innovation.html",
+      "date": "Aug. 20, 2026",
+      "type": "News",
+      "summary_en": "K-State is expanding its capacity to develop crops, technologies and management strategies to support producers from Kansas to the world with the opening of the L. Eldon Gideon Agronomy...",
+      "source": "K-State News",
+      "category": "research"
+    },
     {
       "title": "Summit empowers Kansas food entrepreneurs' business growth",
       "url": "https://www.k-state.edu/news/articles/2026/08/extension-food-business-startup-summit-provides-collaboration-networking-support.html",
@@ -19,6 +28,15 @@
       "date": "Aug. 20, 2026",
       "type": "News",
       "summary_en": "Kansas needs frontline veterinarians to serve every corner of the state, and a coalition including experts from the College of Veterinary Medicine is finding new ways to address the...",
+      "source": "K-State News",
+      "category": "general"
+    },
+    {
+      "title": "Leading from day one",
+      "url": "https://www.k-state.edu/news/articles/2026/08/elead-engineering-leadership-industry-collaboration.html",
+      "date": "Aug. 19, 2026",
+      "type": "News",
+      "summary_en": "As a partnership with K‑State's Staley School of Leadership and Carl R. Ice College of Engineering, the E-LEAD program gives engineering students hands-on leadership experience through...",
       "source": "K-State News",
       "category": "general"
     },
@@ -50,15 +68,6 @@
       "category": "general"
     },
     {
-      "title": "Leading from day one",
-      "url": "https://www.k-state.edu/news/articles/2026/08/elead-engineering-leadership-industry-collaboration.html",
-      "date": "Aug. 19, 2026",
-      "type": "News",
-      "summary_en": "As a partnership with K‑State's Staley School of Leadership and Carl R. Ice College of Engineering, the E-LEAD program gives engineering students hands-on leadership experience through...",
-      "source": "K-State News",
-      "category": "general"
-    },
-    {
       "title": "Cooking up great research",
       "url": "https://www.k-state.edu/news/articles/2026/08/kansas-water-institute-interdisciplinary-cosearch-research-competition.html",
       "date": "Aug. 18, 2026",
@@ -84,15 +93,6 @@
       "summary_en": "The Alpers family has spent 89 years building a 4-H legacy in central Kansas, spanning five generations of Jolly Workers 4-H Club members. From founding member Clarence Alpers to his...",
       "source": "K-State News",
       "category": "general"
-    },
-    {
-      "title": "K-State students gain global agriculture perspective",
-      "url": "https://www.k-state.edu/news/articles/2026/08/agricultural-education-abroad-in-poland.html",
-      "date": "Aug. 17, 2026",
-      "type": "News",
-      "summary_en": "Students in the College of Agriculture recently traveled to Poland as part of the agricultural education study abroad program. Through visits to farms, agribusinesses, historical sites...",
-      "source": "K-State News",
-      "category": "students"
     }
   ]
 }

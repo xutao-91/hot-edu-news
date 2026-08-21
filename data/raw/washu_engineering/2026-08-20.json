@@ -1,9 +1,18 @@
 {
   "source": "WashU McKelvey Engineering",
   "source_url": "https://engineering.washu.edu/news/index.html",
-  "crawled_at": "2026-08-20T17:06:18.517531",
-  "total_news": 2,
+  "crawled_at": "2026-08-20T20:00:12.240677",
+  "total_news": 4,
   "news": [
+    {
+      "title": "Technique evaluates reliability of imaging measurements used in medical decision-making",
+      "url": "https://engineering.washu.edu/news/Technique-evaluates-reliability-of-imaging-measurements-used-in-medical-decision-making.html",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "Method could help clinicians, regulators assess new wave of AI-enabled quantitative imaging products.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
     {
       "title": "AI agents prompt redesign of web for security, privacy, reliability",
       "url": "https://engineering.washu.edu/news/2026/AI-agents-prompt-redesign-of-web-for-security-privacy-reliability.html",
@@ -21,6 +30,15 @@
       "summary_en": "Srikanth Singamaneni’s lab creates metal-organic framework-protected microneedle patch resilient to heat, storage time.",
       "source": "WashU McKelvey Engineering",
       "category": "general"
+    },
+    {
+      "title": "Students invent new ada",
+      "url": "https://engineering.washu.edu/news/2025/Students-invent-new-adaptive-tech-during-10-day-Make-a-Thon-blitz.html",
+      "date": "",
+      "type": "News",
+      "summary_en": "",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
     }
   ]
 }
