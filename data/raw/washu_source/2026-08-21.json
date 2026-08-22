@@ -1,0 +1,71 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-08-21T20:00:13.395214",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Housing may shape death risks for low-income older renters",
+      "url": "https://source.washu.edu/2026/08/housing-may-shape-death-risks-for-low-income-older-renters/",
+      "date": "2026-08-21",
+      "type": "Social Work",
+      "summary_en": "For low-income older adults, where they live may affect how long they live, according to new research from Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Five trends shaping public health",
+      "url": "https://source.washu.edu/2026/08/five-trends-shaping-public-health/",
+      "date": "2026-08-20",
+      "type": "Health & Society",
+      "summary_en": "From longer lives to eroding institutional trust, powerful forces are converging in ways that demand new approaches to protecting human health.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "CAPS students help Trailnet create safer streets",
+      "url": "https://source.washu.edu/2026/08/caps-students-help-trailnet-create-safer-streets/",
+      "date": "2026-08-20",
+      "type": "St. Louis Region",
+      "summary_en": "WashU Continuing & Professional Studies students mapped collision patterns and the city’s busiest corridors — work that supports Trailnet’s mission to make St. Louis streets safer and more accessible for pedestrians, cyclists, transit riders and drivers.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Technique evaluates reliability of imaging measurements used in medical decision-making",
+      "url": "https://source.washu.edu/2026/08/technique-evaluates-reliability-of-imaging-measurements-used-in-medical-decision-making/",
+      "date": "2026-08-20",
+      "type": "Engineering",
+      "summary_en": "Advances in medical imaging and artificial intelligence have revolutionized many aspects of medical practice, but it can be hard to know if a given measurement tool works as intended. A technique developed by WashU researchers can be used to assess the reliability of quantitative imaging tools.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Newly found ‘immune organ’ inside skull directs brain defense",
+      "url": "https://source.washu.edu/2026/08/newly-found-immune-organ-inside-skull-directs-brain-defense/",
+      "date": "2026-08-19",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine researchers discovered immune hubs in the skull bone marrow responsible for mounting a rapid immune response in the brain, which may point to new ways to fight brain cancer and neurodegenerative diseases.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU builds momentum through AI initiative",
+      "url": "https://source.washu.edu/2026/08/washu-builds-momentum-through-ai-initiative/",
+      "date": "2026-08-18",
+      "type": "Artificial Intelligence",
+      "summary_en": "As the fall semester approaches, WashU’s AI initiative is driving academic innovation across schools and disciplines.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU’s mascot finally has a name: Meet Forest",
+      "url": "https://source.washu.edu/2026/08/washus-mascot-finally-has-a-name-meet-forest/",
+      "date": "2026-08-18",
+      "type": "Campus & Community",
+      "summary_en": "After 101 years, the WashU bear now has a name: Forest. The new name comes with a new spirit. “Forest is really curious, really creative, a little silly and a little sly, so watch out,” says Anna Gonzalez, vice chancellor for student success.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-08-21T20:00:10.796908",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "How Much of the Internet Is Written With AI?",
+      "url": "https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/",
+      "date": "Aug 20, 2026",
+      "type": "data essay",
+      "categories": [
+        "Artificial Intelligence",
+        "Digital News Landscape 2",
+        "Technology Adoption"
+      ],
+      "summary_en": "In a random sample of 10,000 webpages collected in July 2026, one-in-ten show signs of being written or substantially edited by AI.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Is teen summer employment in the U.S. rebounding after a long fade?",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/19/after-a-long-fade-is-teen-summer-employment-in-the-us-rebounding/",
+      "date": "Aug 19, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economy Work",
+        "Teens Youth",
+        "Unemployment 1",
+        "Unemployment 2"
+      ],
+      "summary_en": "Only 35.5% of U.S. teens ages 16 to 19 worked this summer, up slightly from 2025 but far below the more than half who worked most summers before 2000.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    },
+    {
+      "title": "Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
+      "date": "Aug 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Economic Conditions",
+        "Economy Work",
+        "Technology Policy Issues"
+      ],
+      "summary_en": "About half of Americans say they’re more concerned than excited about AI, and young adults’ concern is rising.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

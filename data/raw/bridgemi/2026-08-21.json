@@ -1,0 +1,38 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-08-21T20:00:09.278578",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Michigan to give schools $40M to enroll more high schoolers in college",
+      "url": "https://bridgemi.com/talent-education/michigan-to-give-schools-40m-to-enroll-more-high-schoolers-in-college/",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "New state funding of $40 million has been allocated to increase dual enrollment of high school students in college courses, especially for districts with economically disadvantaged students.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "policy"
+    },
+    {
+      "title": "Inside U-M’s rare program to save ancient texts",
+      "url": "https://bridgemi.com/talent-education/inside-u-ms-rare-program-to-save-ancient-texts/",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "Nine scholars recently attended a seminar at the University of Michigan to learn about conserving papyrus manuscripts.",
+      "author": "Mike Householder, Associated Press",
+      "source": "Bridge Michigan",
+      "category": "general"
+    },
+    {
+      "title": "U-M picks Vanderbilt’s C. Cybele Raver as next president: What to know",
+      "url": "https://bridgemi.com/talent-education/u-m-picks-vanderbilts-c-cybele-raver-as-next-president-what-to-know/",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "The second female president in the university’s history would face numerous challenges, from data center opposition to searching for a new athletic director to navigating a tricky relationship with the federal government.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "general"
+    }
+  ]
+}

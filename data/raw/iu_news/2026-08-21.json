@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-21T20:00:08.385641",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Study abroad trip in Costa Rica immerses IU Online student in tropical research environment",
+      "url": "https://news.iu.edu/live/news/52580-study-abroad-trip-in-costa-rica-immerses-iu-online",
+      "date": "Aug 19, 2026",
+      "type": "Global",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Indiana educators build global connections through initiative in Galápagos",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-17-indiana-educators-build-global-connections-in-the-galapagos.html",
+      "date": "Aug 18, 2026",
+      "type": "Global",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

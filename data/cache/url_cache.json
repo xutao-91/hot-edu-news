@@ -18472,5 +18472,179 @@
     "fetch_time": "2026-08-20T20:00:16.860047",
     "title": "New K-State research complex to drive innovation for the future of agriculture",
     "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/chicagos-new-normal-pushing-stormwater-infrastructure-its-limit": {
+    "source": "iit_news",
+    "fetch_time": "2026-08-21T20:00:08.491412",
+    "title": "Chicago’s ‘New Normal’ Pushing Stormwater Infrastructure to Its Limit",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/truly-tech-driven-education": {
+    "source": "iit_news",
+    "fetch_time": "2026-08-21T20:00:08.491412",
+    "title": "Truly a Tech-Driven Education",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/08/21/student-coaching-can-help-thousands-of-hbcu-students-re-enroll-and-graduate/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-08-21T20:00:08.498425",
+    "title": "Student coaching can help thousands of HBCU students re-enroll and graduate",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-08-21-barton-cuenca-intl-social-science-conference.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-08-21T20:00:08.539249",
+    "title": "Barton and Cuenca honored at international social science conference",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/michigan-to-give-schools-40m-to-enroll-more-high-schoolers-in-college/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-08-21T20:00:09.368964",
+    "title": "Michigan to give schools $40M to enroll more high schoolers in college",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-announces-additional-ed-flex-approvals-reach-historic-25-state-milestone": {
+    "source": "edgov",
+    "fetch_time": "2026-08-21T20:00:10.194136",
+    "title": "U.S. Department of Education Announces Additional Ed-Flex Approvals to Reach Historic 25-State Milestone",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/forbes-ranks-kstate-top-employer.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-21T20:00:10.959963",
+    "title": "K-State continues to rank among top employers",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/lou-douglas-lecture-kerry-magro-autism-advocate.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-21T20:00:10.959963",
+    "title": "Lou Douglas Lecture connects lived experience, research and education",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/teaching-and-learning-center-executive-director-candidates.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-21T20:00:10.959963",
+    "title": "Finalists announced for the Teaching and Learning Center executive director",
+    "category": "education"
+  },
+  "https://today.uic.edu/students-10-campus-resources-to-know/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-21T20:00:12.074668",
+    "title": "Students: 10 campus resources to know",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/researchers-clear-hurdle-toward-ekg-single-cell": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-21T20:00:12.074668",
+    "title": "Researchers clear hurdle toward ‘EKG for a single cell’",
+    "category": "quantum"
+  },
+  "https://news.ku.edu/news/article/kletc-graduates-361st-class-sends-new-officers-into-kansas-communities": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-21T20:00:12.625933",
+    "title": "KLETC graduates 361st class, sends new officers into Kansas communities",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/arts-design/theatreuni-announces-2026-27-season": {
+    "source": "uni_news",
+    "fetch_time": "2026-08-21T20:00:12.994695",
+    "title": "TheatreUNI announces 2026-27 season",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-18-more-candidates-for-legislature/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-08-21T20:00:13.164251",
+    "title": "Education Minnesota endorses 18 more candidates for Legislature",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/housing-may-shape-death-risks-for-low-income-older-renters/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-21T20:00:13.441575",
+    "title": "Housing may shape death risks for low-income older renters",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trump-and-republicans-deliver-for-south-carolina-families/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-21T20:00:13.640985",
+    "title": "President Trump and Republicans Deliver for South Carolina Families",
+    "category": "semiconductor"
+  },
+  "https://gradschool.wayne.edu/news/doctoral-student-presents-research-on-political-rhetoric-at-international-conference-69991": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-21T20:00:13.726389",
+    "title": "Doctoral student presents research on political rhetoric at international conference",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/08/21/two-warriors-one-team-how-wayne-state-paved-the-way-to-the-pistons-69993": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-21T20:00:13.726389",
+    "title": "Two Warriors, one team: How Wayne State paved the way to the Pistons",
+    "category": "general"
+  },
+  "https://legalnews.com/Home/Articles?DataId=1629769": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-21T20:00:13.726389",
+    "title": "Whitmer makes three appointments to the bench",
+    "category": "general"
+  },
+  "https://www.clickondetroit.com/news/local/2026/08/21/girls-get-chance-to-try-flag-football-at-wayne-state-event-hosted-by-wild-child-athletics/": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-21T20:00:13.726389",
+    "title": "Wayne State hosts girls for flag football event",
+    "category": "general"
+  },
+  "https://research.wayne.edu/news/wayne-state-university-researchers-awarded-254-million-nih-grant-to-advance-brain-cancer-imaging-69979": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-21T20:00:13.726389",
+    "title": "Wayne State University researchers awarded $2.54 million NIH grant to advance brain cancer imaging",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/august/student-spaceflight-experiments.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-21T20:00:15.643063",
+    "title": "Saint Louis University Students to Send Experiment to the International Space Station",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/new-huskers-start-their-nebraska-journey-by-giving-back": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-21T20:00:15.719951",
+    "title": "New Huskers start their Nebraska journey by giving back",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/husker-nation-gears-up-for-busy-weekend-on-campus": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-21T20:00:15.719951",
+    "title": "Husker Nation gears up for busy weekend on campus",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/for-ockander-a-new-semester-feels-like-coming-home": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-21T20:00:15.719951",
+    "title": "For Ockander, a new semester feels like coming home",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-aug-21": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-21T20:00:15.719951",
+    "title": "Achievements | Honors, appointments and publications for Aug. 21",
+    "category": "semiconductor"
+  },
+  "https://www.the74million.org/article/for-early-grade-reading-gains-states-look-to-mississippi-and-consider-holding-students-back/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-21T20:00:16.567714",
+    "title": "For Early Grade Reading Gains, States Look to Mississippi and Consider Holding Students Back",
+    "category": "education"
+  },
+  "https://www.the74million.org/article/hawai%ca%bbi-freshmen-failing-ninth-grade-repeater-rate-among-nations-highest/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-21T20:00:16.567714",
+    "title": "Hawaiʻi Freshmen Failing: Ninth Grade Repeater Rate Among Nation’s Highest",
+    "category": "ai"
+  },
+  "https://www.the74million.org/article/missouri-education-board-wary-of-300-million-school-funding-increase/": {
+    "source": "the74_news",
+    "fetch_time": "2026-08-21T20:00:16.567714",
+    "title": "Missouri Education Board Wary of $300 Million School Funding Increase",
+    "category": "education"
   }
 }

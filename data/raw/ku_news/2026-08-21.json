@@ -1,0 +1,53 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-21T20:00:12.517788",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "KLETC graduates 361st class, sends new officers into Kansas communities",
+      "url": "https://news.ku.edu/news/article/kletc-graduates-361st-class-sends-new-officers-into-kansas-communities",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "Eleven officers from across Kansas graduated Aug. 21 from the Kansas Law Enforcement Training Center. They are now ready to serve Kansas agencies and communities they represent.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Dole Institute fall programming will include talk by former FDIC chair Sheila Bair",
+      "url": "https://news.ku.edu/news/article/dole-institute-fall-programming-will-include-talk-by-former-fdic-chair-sheila-bair",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "The Robert J. Dole Institute of Politics will host lawmakers, field experts and practitioners in fall 2026 for discussions on topics including midterm elections, bipartisan cooperation, public housing and artificial intelligence’s impact on energy. Guests will include KU alumna Sheila Bair, former chair of the Federal Deposit Insurance Corporation.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Libraries opens ‘Ad Astra: A Kansas Story Written in the Stars’ exhibition",
+      "url": "https://news.ku.edu/news/article/ku-libraries-opens-ad-astra-a-kansas-story-written-in-the-stars-exhibition",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "“Ad Astra: A Kansas Story Written in the Stars” is now open in Watson Library’s Haricombe Gallery, tracing Kansas’ deep roots in human spaceflight. The public is invited to a reception Sept. 10 featuring a keynote with KU alumnus and astronaut Steve Hawley, who will also sign copies of his new memoir.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Studies find media literacy, social media use can predict trust in institutions, civic engagement",
+      "url": "https://news.ku.edu/news/article/studies-find-media-literacy-social-media-use-can-predict-trust-in-institutions-civic-engagement",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "Christopher Etheridge and researchers in KU’s School of Journalism & Mass Communications conducted two studies with citizens of India gauging their media literacy and online behavior. The studies found the higher a person’s media literacy was, the higher their trust in democratic institutions. How and what types of social media they used also predicted how civically engaged they were as citizens.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Class of 2026-27 Senior Administrative Fellows announced",
+      "url": "https://news.ku.edu/news/article/class-of-2026-27-senior-administrative-fellows-announced",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "The University of Kansas has named 10 faculty members to its 2026-27 Senior Administrative Fellows cohort, a leadership development program that prepares faculty for administrative and leadership roles in higher education. The yearlong program provides participants with opportunities to learn more about university operations, explore leadership pathways and develop their leadership skills through ",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-21T20:00:13.657009",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Doctoral student presents research on political rhetoric at international conference",
+      "url": "https://gradschool.wayne.edu/news/doctoral-student-presents-research-on-political-rhetoric-at-international-conference-69991",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "Two Warriors, one team: How Wayne State paved the way to the Pistons",
+      "url": "https://today.wayne.edu/news/2026/08/21/two-warriors-one-team-how-wayne-state-paved-the-way-to-the-pistons-69993",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Whitmer makes three appointments to the bench",
+      "url": "https://legalnews.com/Home/Articles?DataId=1629769",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State hosts girls for flag football event",
+      "url": "https://www.clickondetroit.com/news/local/2026/08/21/girls-get-chance-to-try-flag-football-at-wayne-state-event-hosted-by-wild-child-athletics/",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State University researchers awarded $2.54 million NIH grant to advance brain cancer imaging",
+      "url": "https://research.wayne.edu/news/wayne-state-university-researchers-awarded-254-million-nih-grant-to-advance-brain-cancer-imaging-69979",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "After 27 years in prison, exoneree finds his future at WSU",
+      "url": "https://today.wayne.edu/news/2026/08/18/a-new-chapter-after-27-years-in-prison-exoneree-roy-blackman-finds-his-future-at-wayne-state-69959",
+      "date": "2026-08-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-08-21T20:00:13.521080",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Technique evaluates reliability of imaging measurements used in medical decision-making",
+      "url": "https://engineering.washu.edu/news/Technique-evaluates-reliability-of-imaging-measurements-used-in-medical-decision-making.html",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "Method could help clinicians, regulators assess new wave of AI-enabled quantitative imaging products.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "AI agents prompt redesign of web for security, privacy, reliability",
+      "url": "https://engineering.washu.edu/news/2026/AI-agents-prompt-redesign-of-web-for-security-privacy-reliability.html",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "Umar Iqbal plans to redesign web for AI agents with NSF CAREER Award.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}
