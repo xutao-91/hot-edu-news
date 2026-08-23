@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-22T20:00:16.076778",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UW–Madison and Green Bay-area partners build flood resilience along the East River",
+      "url": "https://impact.wisc.edu/uw-madison-and-green-bay-area-partners-build-flood-resilience-along-the-east-river",
+      "date": "August 20, 2026",
+      "type": "News",
+      "summary_en": "With coordinating support from UW’s Wisconsin Sea Grant, the East River Collaborative brings together The Nature Conservancy, NEW Water and local governments to build a more resilient East River watershed.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Incarceration rates are declining. A new study explores some of the reasons why.",
+      "url": "https://news.wisc.edu/incarceration-rates-are-declining-a-new-study-explores-some-of-the-reasons-why/",
+      "date": "August 19, 2026",
+      "type": "News",
+      "summary_en": "A new analysis of data highlights the extent of declines and shows the reasons prison populations are shrinking differ from the reasons incarceration grew.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}

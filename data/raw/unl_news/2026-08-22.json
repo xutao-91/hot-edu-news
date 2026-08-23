@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-08-22T20:00:16.032806",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "New Huskers start their Nebraska journey by giving back",
+      "url": "https://news.unl.edu/article/new-huskers-start-their-nebraska-journey-by-giving-back",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Husker Nation gears up for busy weekend on campus",
+      "url": "https://news.unl.edu/article/husker-nation-gears-up-for-busy-weekend-on-campus",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "For Ockander, a new semester feels like coming home",
+      "url": "https://news.unl.edu/article/for-ockander-a-new-semester-feels-like-coming-home",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Achievements | Honors, appointments and publications for Aug. 21",
+      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-aug-21",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

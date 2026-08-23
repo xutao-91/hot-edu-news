@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-22T20:00:14.758491",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Students: 10 campus resources to know",
+      "url": "https://today.uic.edu/students-10-campus-resources-to-know/",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "Resources to help you succeed in class, find your community, stay healthy and more.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Intermittent fasting may help Type 1 diabetics control their blood sugar levels",
+      "url": "https://today.uic.edu/intermittent-fasting-may-help-type-1-diabetics-control-their-blood-sugar-levels/",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "It’s safe, too, UIC research suggests.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC students, alums find their voices on ‘Map Left Behind’",
+      "url": "https://today.uic.edu/uic-business-launches-map-left-behind-podcast/",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "UIC Business launches new podcast to help the next generation navigate career paths with confidence.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}

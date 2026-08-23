@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-08-22T20:00:15.213644",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Calestous Juma Engineering Fellows strengthen Purdue’s research ties with Sub-Saharan Africa",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/calestous-juma-engineering-fellows-purdue",
+      "date": "August 20, 2026",
+      "type": "News",
+      "summary_en": "The inaugural Calestous Juma Engineering Fellows, hosted by Global Engineering Programs and Partnerships (GEPP), are Celestin Twizere and Eddy Odari.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Indianapolis profile: Masha Novoselova",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0819-purdue-indianapolis-masha-novoselova-electrical-engineering-profile",
+      "date": "August 19, 2026",
+      "type": "News",
+      "summary_en": "Masha Novoselova values the Purdue experience in Indianapolis for its blend of rigorous and enjoyable electrical engineering classes, meaningful internship opportunities, and spaces to connect with friends and explore the city.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue AI Racing heads back to Laguna Seca, gears up for toughest challenge yet",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0813-purdue-ai-racing-returns-to-laguna-seca-toughest-challenge",
+      "date": "August 19, 2026",
+      "type": "News",
+      "summary_en": "The stakes and level of difficulty will be much higher when Purdue AI Racing (PAIR) returns to WeatherTech Raceway Laguna Seca in Monterey, California, on Sept. 3.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

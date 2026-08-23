@@ -1,0 +1,35 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-08-22T20:00:12.228568",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Two Graduate Students Win Simons Dissertation Fellowships",
+      "url": "https://science.nd.edu/news-and-media/news/two-graduate-students-win-dissertation-fellowship/",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "student"
+    },
+    {
+      "title": "Notre Dame Arts Initiative awards over $400,000 for community and campus partners to lead inaugural Arts Biennial programming",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dame-arts-initiative-awards-over-400-000-for-community-and-campus-partners-to-lead-inaugural-arts-biennial-programming/",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "service"
+    },
+    {
+      "title": "A Notre Dame Connection to a 2026 Fields Medal",
+      "url": "https://science.nd.edu/news-and-media/news/2026-fields-medalist/",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
+}

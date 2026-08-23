@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-22T20:00:14.401500",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "KLETC graduates 361st class, sends new officers into Kansas communities",
+      "url": "https://news.ku.edu/news/article/kletc-graduates-361st-class-sends-new-officers-into-kansas-communities",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "Eleven officers from across Kansas graduated Aug. 21 from the Kansas Law Enforcement Training Center. They are now ready to serve Kansas agencies and communities they represent.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Dole Institute fall programming will include talk by former FDIC chair Sheila Bair",
+      "url": "https://news.ku.edu/news/article/dole-institute-fall-programming-will-include-talk-by-former-fdic-chair-sheila-bair",
+      "date": "2026-08-19",
+      "type": "News",
+      "summary_en": "The Robert J. Dole Institute of Politics will host lawmakers, field experts and practitioners in fall 2026 for discussions on topics including midterm elections, bipartisan cooperation, public housing and artificial intelligence’s impact on energy. Guests will include KU alumna Sheila Bair, former chair of the Federal Deposit Insurance Corporation.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}
