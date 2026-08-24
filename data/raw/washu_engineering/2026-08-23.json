@@ -1,0 +1,17 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-08-23T20:00:18.832391",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Technique evaluates reliability of imaging measurements used in medical decision-making",
+      "url": "https://engineering.washu.edu/news/Technique-evaluates-reliability-of-imaging-measurements-used-in-medical-decision-making.html",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "Method could help clinicians, regulators assess new wave of AI-enabled quantitative imaging products.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

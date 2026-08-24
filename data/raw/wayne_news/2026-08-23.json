@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-23T20:00:18.893881",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Doctoral student presents research on political rhetoric at international conference",
+      "url": "https://gradschool.wayne.edu/news/doctoral-student-presents-research-on-political-rhetoric-at-international-conference-69991",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "For Ilitch School alum Adrian Russell, a future in law is rooted in service",
+      "url": "https://ilitchbusiness.wayne.edu/news/for-ilitch-school-alum-adrian-russell-a-future-in-law-is-rooted-in-service-69992",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Two Warriors, one team: How Wayne State paved the way to the Pistons",
+      "url": "https://today.wayne.edu/news/2026/08/21/two-warriors-one-team-how-wayne-state-paved-the-way-to-the-pistons-69993",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Postdoctoral Fellow Brendan O'Leary to present at the National Institute of Environmental Health Sciences Wetterhahn Award Lecture",
+      "url": "https://research.wayne.edu/news/postdoctoral-fellow-brendan-oleary-to-present-at-the-national-institute-of-environmental-health-sciences-wetterhahn-award-lecture-69994",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    },
+    {
+      "title": "Whitmer makes three appointments to the bench",
+      "url": "https://legalnews.com/Home/Articles?DataId=1629769",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State hosts girls for flag football event",
+      "url": "https://www.clickondetroit.com/news/local/2026/08/21/girls-get-chance-to-try-flag-football-at-wayne-state-event-hosted-by-wild-child-athletics/",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

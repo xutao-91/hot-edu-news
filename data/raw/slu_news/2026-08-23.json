@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-08-23T20:00:17.116855",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Saint Louis University Students to Send Experiment to the International Space Station",
+      "url": "https://www.slu.edu/news/2026/august/student-spaceflight-experiments.php",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "Saint Louis University students will design and send a science experiment to the International Space Station as part of Mission 22 of the Student Spaceflight Experiments Program (SSEP). SLU’s experiment will be flown to the International Space Station, along with others from around the country, in summer 2027.",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "Saint Louis University to Hold Conference on AI and Autonomous Supply Chain",
+      "url": "https://www.slu.edu/news/2026/august/tech-chain-conference.php",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "Saint Louis University’s Center for Supply Chain Excellence will host its third Tech-Chain conference, “Generative AI, Agentic AI, and the Road to the Autonomous Supply Chain,” on Friday, Oct. 30, at SLU’s Busch Student Center. The third annual conference will convene more than 200 senior supply chain leaders for a day focused on Generative AI, Agentic AI, and the road to the autonomous supply cha",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU Community Welcomes Johnson at Reception",
+      "url": "https://www.slu.edu/news/2026/august/kathy-johnson-welcome.php",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "Saint Louis University's new executive vice president and provost is optimistic. Speaking at her welcome reception, Kathy Johnson, Ph.D., laid out her vision for what she hopes to see during her time at SLU. In just a few weeks on the job, she said she's already seen the blueprint for success.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-23T20:00:16.998762",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Researchers clear hurdle toward ‘EKG for a single cell’",
+      "url": "https://news.uchicago.edu/story/researchers-clear-hurdle-toward-ekg-single-cell",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "UChicago-led team resolves flaw in quantum biosensors that could unlock detailed views of how life works",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why the key to treating cancer may be in your gut, with Thomas Gajewski",
+      "url": "https://news.uchicago.edu/big-brains-podcast-why-key-treating-cancer-may-be-your-gut-thomas-gajewski",
+      "date": "2026-08-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

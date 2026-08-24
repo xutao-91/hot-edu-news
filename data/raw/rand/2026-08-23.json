@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-23T20:00:20.925298",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Reduced-Credit Bachelor’s Degrees in Ohio: Opportunities, Constraints, and Field-Level Feasibility",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4772-1.html",
+      "date": "Aug 20, 2026",
+      "type": "Research",
+      "summary_en": "Ohio’s education policymakers are considering whether some bachelor’s degree programs can be completed in fewer than the traditional 120 semester credits. The authors examine the feasibility of reduced-credit bachelor’s degree programs in Ohio.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
