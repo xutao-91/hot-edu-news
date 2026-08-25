@@ -313,7 +313,7 @@ def generate_html():
         'uni_news': {'name': 'UNI News', 'color': '#4B116F'},
         'kettering_news': {'name': 'Kettering News', 'color': '#FDB813'},
         'hanover_research': {'name': 'Hanover Research', 'color': '#006747'},
-        'the74_news': {'name': 'The 74 Million', 'color': '#E31937'},
+        'chicago_quantum': {'name': 'Chicago Quantum Exchange', 'color': '#5B2C83'},
         'ecampus_news': {'name': 'eCampus News', 'color': '#005A8C'},
         'uillinois_news': {'name': 'UIllinois News', 'color': '#13294B'},
         'edsurge_news': {'name': 'EdSurge', 'color': '#00A4E4'},
