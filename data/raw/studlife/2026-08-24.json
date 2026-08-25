@@ -1,0 +1,38 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-08-24T20:00:12.779221",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Breaking the ice (before it breaks you): O-week conversation starters",
+      "url": "https://www.studlife.com/news/2026/08/23/breaking-the-ice-before-it-breaks-you-o-week-conversation-starters",
+      "date": "2026-08-23",
+      "type": "News",
+      "summary_en": "",
+      "author": "Selina Son",
+      "source": "Student Life",
+      "category": "event"
+    },
+    {
+      "title": "Worried about classes? Here’s a guide to important class deadlines",
+      "url": "https://www.studlife.com/news/2026/08/23/worried-about-classes-heres-a-guide-to-important-class-deadlines",
+      "date": "2026-08-23",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "The St. Louis County and City of St. Louis divide, explained",
+      "url": "https://www.studlife.com/news/2026/08/23/the-st-louis-county-and-city-of-st-louis-divide-explained",
+      "date": "2026-08-23",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ava Giere",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

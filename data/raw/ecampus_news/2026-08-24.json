@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-24T20:00:08.898695",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "To rebuild adult learner confidence, universities must first earn their trust",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/08/24/to-rebuild-adult-learner-confidence-universities-must-first-earn-their-trust/",
+      "date": "2026-08-24",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "First-time college enrollment among adults declined nearly 16 percent in fall 2025, ending a four-year streak of post-pandemic growth.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Student coaching can help thousands of HBCU students re-enroll and graduate",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/08/21/student-coaching-can-help-thousands-of-hbcu-students-re-enroll-and-graduate/",
+      "date": "2026-08-21",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "A new report from InsideTrack, a national student success coaching nonprofit, reveals that a five-year coaching initiative across 39 Historically Black Colleges and Universities (HBCUs) helped stopped-out students re-enroll at 2.5 times the national average while keeping actively enrolled students on track at a fall-to-spring retention rate of 83.8 percent.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

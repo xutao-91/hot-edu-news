@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-08-24T20:00:15.396379",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "A painless punch with a microneedle patch could detect kidney disease earlier",
+      "url": "https://source.washu.edu/2026/08/a-painless-punch-with-a-microneedle-patch-could-detect-kidney-disease-earlier/",
+      "date": "2026-08-24",
+      "type": "Engineering",
+      "summary_en": "New research from the lab of WashU McKelvey Engineering’s Srikanth Singamaneni shows the early success of a microneedle patch that can be applied on the skin to capture biomarkers of kidney injury. It may one day support home or point-of-care monitoring.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "FDA clears blood test to aid evaluation for Alzheimer’s disease",
+      "url": "https://source.washu.edu/2026/08/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "date": "2026-08-21",
+      "type": "Alzheimer's",
+      "summary_en": "The biomarker test, called PrecivityAD2, was developed from technology invented at WashU Medicine by Randall J. Bateman, MD, and David M. Holtzman, MD.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Housing may shape death risks for low-income older renters",
+      "url": "https://source.washu.edu/2026/08/housing-may-shape-death-risks-for-low-income-older-renters/",
+      "date": "2026-08-21",
+      "type": "Social Work",
+      "summary_en": "For low-income older adults, where they live may affect how long they live, according to new research from Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

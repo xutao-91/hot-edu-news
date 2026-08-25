@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-08-24T20:00:14.253375",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UNI begins anniversary year with first day of classes",
+      "url": "https://insideuni.uni.edu/campus-community/uni-begins-anniversary-year-first-day-classes",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "UNI began a historic academic year as students returned to classrooms, just weeks before UNI marks 150 years since its first classes were held.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "First-year teacher Miah Phalen prepares to welcome students",
+      "url": "https://insideuni.uni.edu/education/first-year-teacher-miah-phalen-prepares-welcome-students",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "For Miah Phalen, this back-to-school season is special. For the first time in many years, she’s not starting a new academic year as a student. This year, she’s the teacher, leading her own classroom at Weber Elementary School in Iowa City.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "TheatreUNI announces 2026-27 season",
+      "url": "https://insideuni.uni.edu/arts-design/theatreuni-announces-2026-27-season",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "TheatreUNI at the University of Northern Iowa invites audiences to experience magic, humor, competition and unforgettable music during its 2026–27 season, “Wonderings and Wanderings.”",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

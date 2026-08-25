@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-08-24T20:00:08.700208",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Cyclone Support: Reimagining how students find help at Iowa State",
+      "url": "https://www.news.iastate.edu/news/cyclone-support-reimagining-how-students-find-help-iowa-state",
+      "date": "2026-08-24",
+      "type": "Student Success",
+      "summary_en": "Iowa State’s growing Cyclone Support initiative is coordinating people, spaces and technology to help students overcome academic, financial and wellness challenges while improving access to support and fostering student success.",
+      "source": "Iowa State News",
+      "category": "students"
+    }
+  ]
+}

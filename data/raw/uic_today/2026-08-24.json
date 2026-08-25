@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-24T20:00:13.206844",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "How occupational therapy faculty and students help patients eat healthily",
+      "url": "https://today.uic.edu/how-occupational-therapy-faculty-and-students-help-patients-eat-healthily/",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Innovative approach provides people with access to healthy, fresh foods.",
+      "source": "UIC Today",
+      "category": "academic"
+    },
+    {
+      "title": "UIC doctoral students garner NSF graduate research fellowships",
+      "url": "https://today.uic.edu/uic-doctoral-students-garner-nsf-graduate-research-fellowships/",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "The fellowships will support their work in wearable medical devices, climate resilience and more.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "UIC College of Dentistry, Mile Square Health Center launch new residency",
+      "url": "https://today.uic.edu/uic-college-of-dentistry-mile-square-health-center-launch-new-residency/",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Residents will learn how to provide dental care to diverse populations.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Students: 10 campus resources to know",
+      "url": "https://today.uic.edu/students-10-campus-resources-to-know/",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "Resources to help you succeed in class, find your community, stay healthy and more.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}

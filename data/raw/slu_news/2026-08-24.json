@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-08-24T20:00:16.255535",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "From Saint Louis to Kampala: Lily McMorrow Takes Cancer Research Global",
+      "url": "https://www.slu.edu/news/2026/august/lily-mcmorrow-nih-launch-fellowship.php",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Lily McMorrow has earned an NIH LAUNCH Fellowship to advance cancer research at the Uganda Cancer Institute in Kampala. McMorrow, a fifth-year M.D./Ph.D. student at Saint Louis University, brings her research to an international stage, exploring the impact of international funding disruptions on cervical cancer prevention, the leading cause of cancer death among Ugandan women. Her work reveals SLU",
+      "source": "SLU News",
+      "category": "research"
+    },
+    {
+      "title": "Saint Louis University Students to Send Experiment to the International Space Station",
+      "url": "https://www.slu.edu/news/2026/august/student-spaceflight-experiments.php",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "Saint Louis University students will design and send a science experiment to the International Space Station as part of Mission 22 of the Student Spaceflight Experiments Program (SSEP). SLU’s experiment will be flown to the International Space Station, along with others from around the country, in summer 2027.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

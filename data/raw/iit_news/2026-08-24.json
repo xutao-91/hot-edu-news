@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-08-24T20:00:08.634483",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Chicago’s ‘New Normal’ Pushing Stormwater Infrastructure to Its Limit",
+      "url": "https://www.iit.edu/news/chicagos-new-normal-pushing-stormwater-infrastructure-its-limit",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "As storms that were once considered outliers become increasingly regular occurrences in Chicago, the city’s stormwater system is struggling to keep pace. When the city found itself under a tornado...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Truly a Tech-Driven Education",
+      "url": "https://www.iit.edu/news/truly-tech-driven-education",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "While America celebrates its semiquincentennial anniversary this year, Illinois Tech will recognize a technological milestone that set the university on its path to becoming a global education leader...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

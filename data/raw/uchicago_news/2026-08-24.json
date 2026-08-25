@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-08-24T20:00:12.989165",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "What ancient trade tells us about globalization",
+      "url": "https://news.uchicago.edu/story/what-ancient-trade-tells-us-about-globalization",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "In ‘Sea of Treasures,’ UChicago historian Jeremy A. Simmons explores how commerce on the Indian Ocean reshaped Roman ideas of luxury and identity",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Researchers clear hurdle toward ‘EKG for a single cell’",
+      "url": "https://news.uchicago.edu/story/researchers-clear-hurdle-toward-ekg-single-cell",
+      "date": "2026-08-21",
+      "type": "News",
+      "summary_en": "UChicago-led team resolves flaw in quantum biosensors that could unlock detailed views of how life works",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}
