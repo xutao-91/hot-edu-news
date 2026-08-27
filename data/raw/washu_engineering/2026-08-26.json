@@ -1,0 +1,53 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-08-26T20:00:16.448980",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "McKelvey Engineering alumnus Vasileiou honored for contributions to explainable AI systems",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-alumnus-Vasileiou-honored-for-contributions-to-explainable-AI-systems.html",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "Stylianos Vasileiou receives ICAPS Outstanding Dissertation, Turner Dissertation and KR Early Career awards.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Stress granules the focus of molecular, cellular basis of neurodegenerative diseases",
+      "url": "https://engineering.washu.edu/news/2026/Stress-granules-the-focus-of-molecular-cellular-basis-of-neurodegenerative-diseases.html",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "Rohit Pappu, Tanja Mittag at St. Jude to continue foundational work on basis of Alzheimer’s disease, ALS, frontotemporal dementia.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Four McKelvey Engineering graduate students selected for Olin-Chancellor’s Fellowships",
+      "url": "https://engineering.washu.edu/news/2026/Four-McKelvey-Engineering-graduate-students-selected-for-Olin-Chancellors-Fellowships.html",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "Program recognizes students’ exceptional academic and research accomplishments in their first year at WashU.",
+      "source": "WashU McKelvey Engineering",
+      "category": "students"
+    },
+    {
+      "title": "Grant funds hybrid system that could spur vast energy improvements to computing",
+      "url": "https://engineering.washu.edu/news/2026/Grant-funds-hybrid-system-that-could-spur-vast-energy-improvements-to-computing.html",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "WashU’s Shantanu Chakrabartty will develop hybrid neuromorphic, quantum computing system that can tap into power of random fluctuations, thermal and quantum.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Some assembly required, with machine learning",
+      "url": "https://engineering.washu.edu/news/2026/Some-assembly-required-with-machine-learning.html",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "WashU scientists are training AI systems to “run” experiments to check viability of predictions.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

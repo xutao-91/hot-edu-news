@@ -1,0 +1,89 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-08-26T20:00:14.987239",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Using FDA addiction science, researcher asks: Do salty, high-fat foods act like drugs?",
+      "url": "https://news.ku.edu/news/article/using-fda-addiction-science-researcher-asks-do-salty-high-fat-foods-act-like-drugs",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "University of Kansas researcher Tera Fazzino is investigating whether “hyperpalatable” foods marketed to Americans — foods formulated with artificially high amounts of fat, salt and carbohydrates — have traits commonly associated with addictive substances. She recently earned a $2.8 million grant from the National Institutes of Health to test the idea using experimental practices standard in the f",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU Spotlight on Faculty Excellence honorees announced for the 2026-27 year",
+      "url": "https://news.ku.edu/news/article/ku-spotlight-on-faculty-excellence-honorees-announced-for-the-2026-27-year",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "The University of Kansas has announced the 12 faculty members selected for its 2026-27 Spotlight on Faculty Excellence program, which recognizes outstanding achievements in research, scholarship and creative activity across KU’s Lawrence, Edwards and Medical Center campuses.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "NSF awards $2 million grant to KU-led project supporting future AI and computing leaders",
+      "url": "https://news.ku.edu/news/article/nsf-awards-2-million-grant-to-ku-led-project-supporting-future-ai-and-computing-leaders",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "A University of Kansas-led initiative has received a $2 million award from the National Science Foundation’s Scholarships in Science, Technology, Engineering and Mathematics (S-STEM) program to expand educational opportunities for low-income students pursuing careers in computing, engineering and emerging technology fields.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "$1.5 million NSF grant will support KU research modeling molecular systems using AI",
+      "url": "https://news.ku.edu/news/article/1-point-5-million-dollar-nsf-grant-will-support-ku-research-modeling-molecular-systems-using-ai",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "University of Kansas researcher Ilya Vakser and colleagues at Stony Brook University and the Stowers Institute for Medical Research will use a three-year grant from the National Science Foundation to expand knowledge of macromolecular systems using artificial intelligence.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Luciano Tosta selected for KU’s Woodyard International Educator Award",
+      "url": "https://news.ku.edu/news/article/luciano-tosta-selected-for-kus-woodyard-international-educator-award",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "Luciano Tosta, University of Kansas faculty member and director of the Center for Global & International Studies, has earned KU’s top honor in international education for his transformative work across global teaching, research, partnerships and study abroad. KU will celebrate his achievements and hear remarks from Tosta on Oct. 8.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Dining kicks off the 2026-2027 academic school year with updated menus, specials",
+      "url": "https://news.ku.edu/news/article/ku-dining-kicks-off-the-2026-2027-academic-school-year-with-updated-menus-specials",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "Jayhawks and visitors on the Lawrence campus will see new menu items at Asian Kitchen in The Underground, located in Wescoe Hall. KU Dining will also offer weekly specials including Macchiato Monday and Taco Tuesday at various locations. Special, limited-time menu items are available until Sept. 25.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Study finds sustainable farming program helps refugees, immigrants boost health while launching agribusinesses",
+      "url": "https://news.ku.edu/news/article/study-finds-sustainable-farming-program-helps-refugees-immigrants-boost-health-while-launching-agribusinesses",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "New Roots is a Kansas City-area program that works with resettled refugees, immigrants and English language learners to learn sustainable practices to start agribusinesses. Research from the University of Kansas found the program boosts the mental and physical health of participants while they connect with community, benefiting both the farmers and the areas they serve.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU institute to publish 60th edition of Kansas Statistical Abstract",
+      "url": "https://news.ku.edu/news/article/ku-institute-to-publish-60th-edition-of-kansas-statistical-abstract",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "The 2025 Kansas Statistical Abstract will be available online Sept. 1. This data compendium is published annually by the Institute for Policy & Social Research at the University of Kansas and includes information on a wide range of topics about Kansas.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU welcomes more than 70 new faculty members across Lawrence and Edwards campuses",
+      "url": "https://news.ku.edu/news/article/ku-welcomes-more-than-70-new-faculty-members-across-lawrence-and-edwards-campuses",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "The Office of Faculty Affairs welcomed new full- and part-time faculty to the University of Kansas during orientation, which took place Aug. 17, 18 and 19. This year’s new faculty cohort represents 39 units across the KU Lawrence and Edwards campuses.",
+      "source": "KU News",
+      "category": "academic"
+    }
+  ]
+}

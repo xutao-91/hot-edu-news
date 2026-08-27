@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-08-26T20:00:14.652009",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Accelerating New Power Plants Depends on Better Data",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/accelerating-new-power-plants-depends-on-better-data.html",
+      "date": "Aug 25, 2026",
+      "type": "Commentary",
+      "summary_en": "The United States is embarking on a vast build-out of its electric system. Transparent cost data would help regulators pinpoint avoidable delays, help developers assess risk, and help communities judge the value they are being asked to host.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Achieving AI Model Weight Security Level 3 (SL3)",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4704-1.html",
+      "date": "Aug 25, 2026",
+      "type": "Research",
+      "summary_en": "RAND proposes Security Level 3 (SL3), a framework of 262 security controls to protect artificial intelligence (AI) model weights against organized cybercrime and insider threats, achievable within six to 12 months.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Federal Revenue When AI Replaces Labor: An Examination of Economic Scenarios with Highly Capable Artificial Intelligence",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4980-1.html",
+      "date": "Aug 25, 2026",
+      "type": "Research",
+      "summary_en": "Artificial intelligence (AI) replacing human labor could sharply reduce U.S. federal revenue, especially if workers are not reemployed or AI is cheap. Proactive fiscal policy is needed to manage these risks.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "The Cyclospora Outbreak Was a Warning: Q&A with Saskia Popescu",
+      "url": "https://www.rand.org/pubs/commentary/2026/08/the-cyclospora-outbreak-was-a-warning-qa-with-saskia.html",
+      "date": "Aug 24, 2026",
+      "type": "Commentary",
+      "summary_en": "Saskia Popescu is an epidemiologist by training and a policy researcher at RAND. In this Q&A, she discusses what the United States can do to prepare for future outbreaks like Cyclospora and other biological threats.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    }
+  ]
+}

@@ -18976,5 +18976,545 @@
     "fetch_time": "2026-08-24T20:00:17.336428",
     "title": "Many Families Rely on a Patchwork of Childcare",
     "category": "general"
+  },
+  "https://www.augie.edu/news/2026/augustana-holds-ribbon-cutting-and-dedication-ceremony-foundation-heights-12-million": {
+    "source": "augie_news",
+    "fetch_time": "2026-08-26T20:00:11.674517",
+    "title": "Augustana Holds Ribbon Cutting and Dedication Ceremony for Foundation Heights, $12 Million Apartment Building for Students",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/how-culture-community-and-play-transformed-tongas-education-system/": {
+    "source": "brookings",
+    "fetch_time": "2026-08-26T20:00:11.761397",
+    "title": "How culture, community, and play transformed Tonga’s education system",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/debate-rages-over-u-ms-plan-to-hide-letter-grades-heres-what-to-know/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-08-26T20:00:11.774687",
+    "title": "Debate rages over U-M’s plan to hide letter grades. Here’s what to know",
+    "category": "education"
+  },
+  "https://chicagoquantum.org/news/nsf-renews-regions-two-quantum-leap-challenge-institutes-375m-investments": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-08-26T20:00:11.807073",
+    "title": "NSF renews region’s two Quantum Leap Challenge Institutes, each with $37.5M in funding",
+    "category": "quantum"
+  },
+  "https://grainger.illinois.edu/news/stories/HQAN-renewed-five-years": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-08-26T20:00:11.807073",
+    "title": "Illinois-led regional quantum hub NSF HQAN renewed to pursue industry-ready computing and workforce development",
+    "category": "education"
+  },
+  "https://pme.uchicago.edu/news-events/news/nsf-renews-quantum-leap-challenge-institute-375-million-investment-quantum-sensing": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-08-26T20:00:11.807073",
+    "title": "NSF renews Quantum Leap Challenge Institute with $37.5 million investment in quantum sensing for biology",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-08-26-the-student-center.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-08-26T20:00:11.854754",
+    "title": "Introducing the Student Center, a new place for student connection, well-being, and success",
+    "category": "education"
+  },
+  "https://www.kettering.edu/nsf-award-advances-kettering-battery-research-toward-real-world-application": {
+    "source": "kettering_news",
+    "fetch_time": "2026-08-26T20:00:12.466713",
+    "title": "NSF Award Advances Kettering Battery Research Toward Real-World Application",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/52616-barbershop-health-screenings-help-reduce-blood": {
+    "source": "iu_news",
+    "fetch_time": "2026-08-26T20:00:12.614949",
+    "title": "Barbershop health screenings help reduce blood pressure in Indianapolis communities",
+    "category": "general"
+  },
+  "https://news.iu.edu/publichealth/live/news/52614-three-years-of-advancing-academic-public-health-in": {
+    "source": "iu_news",
+    "fetch_time": "2026-08-26T20:00:12.614949",
+    "title": "Three years of advancing academic public health in Marion County",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-reminds-schools-of-their-obligation-comply-parental-rights-law": {
+    "source": "edgov",
+    "fetch_time": "2026-08-26T20:00:12.648003",
+    "title": "U.S. Department of Education Reminds Schools of Their Obligation to Comply with Parental Rights Law",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/trump-administration-announces-additional-actions-protect-parental-rights-kansas": {
+    "source": "edgov",
+    "fetch_time": "2026-08-26T20:00:12.648003",
+    "title": "Trump Administration Announces Additional Actions to Protect Parental Rights in Kansas",
+    "category": "general"
+  },
+  "https://www.elmhurst.edu/news/hispanic-heritage-month-lecture-to-explore-migration-from-venezuela-to-chicago/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-08-26T20:00:12.968619",
+    "title": "Hispanic Heritage Month Lecture to Explore Migration from Venezuela to Chicago",
+    "category": "semiconductor"
+  },
+  "https://www.elmhurst.edu/news/elmhurst-u-school-of-business-receives-significant-gift/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-08-26T20:00:12.968619",
+    "title": "Elmhurst U. School of Business Receives Significant Gift",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/lafene-health-care-committed-to-student-well-being-success.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-26T20:00:13.749184",
+    "title": "Care students can count on",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/papanikolaou-to-deliver-gardiner-lecture-beyond-the-food-fight.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-26T20:00:13.749184",
+    "title": "Gardiner Lecture presented by nutrition researcher Yanni Papanikolaou",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/kstate-entrepreneurship-accelerator-provides-grants-support-network.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-26T20:00:13.749184",
+    "title": "Building businesses, chasing dreams",
+    "category": "general"
+  },
+  "https://www.k-state.edu/news/articles/2026/08/fall-semester-kickoff-photos.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-08-26T20:00:13.749184",
+    "title": "Kicking off a new semester",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-named-a-time-magazine-america-s-best-college": {
+    "source": "msoe",
+    "fetch_time": "2026-08-26T20:00:13.870985",
+    "title": "MSOE named a TIME Magazine America’s Best College",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/26/fewer-americans-use-cash-today-than-a-decade-ago-but-many-still-carry-it/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-26T20:00:13.905928",
+    "title": "Fewer Americans use cash today than a decade ago, but many still carry it",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/25/americans-want-transparency-when-ai-is-used-in-their-healthcare/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-26T20:00:13.905928",
+    "title": "Americans want transparency when AI is used in their healthcare",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-26T20:00:13.905928",
+    "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/five-new-members-elected-uchicagos-board-trustees": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-26T20:00:14.674858",
+    "title": "Five new members elected to UChicago’s Board of Trustees",
+    "category": "education"
+  },
+  "https://www.bloomberg.com/news/articles/2026-08-25/jackson-hole-offers-warsh-high-profile-slot-to-rebut-his-critics": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-26T20:00:14.674858",
+    "title": "Jackson Hole Offers Warsh a Prime Stage to Rebut His Critics",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/quantum-leap-challenge-institute-renewed-375-million-nsf-invests-quantum-sensing-biology": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-26T20:00:14.674858",
+    "title": "Quantum Leap Challenge Institute renewed for $37.5 million as NSF invests in quantum sensing for biology",
+    "category": "quantum"
+  },
+  "https://www.usatoday.com/story/life/health-wellness/2026/08/24/trump-dr-oz-mmr-vaccine-controversy/91439656007/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-26T20:00:14.674858",
+    "title": "Trump, Dr. Oz and the MMR vaccine controversy",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/25-years-later-long-shadow-911": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-26T20:00:14.674858",
+    "title": "25 Years Later: The Long Shadow of 9/11",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/commentary/2026/08/accelerating-new-power-plants-depends-on-better-data.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-26T20:00:14.706037",
+    "title": "Accelerating New Power Plants Depends on Better Data",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4704-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-26T20:00:14.706037",
+    "title": "Achieving AI Model Weight Security Level 3 (SL3)",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4980-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-26T20:00:14.706037",
+    "title": "Federal Revenue When AI Replaces Labor: An Examination of Economic Scenarios with Highly Capable Artificial Intelligence",
+    "category": "ai"
+  },
+  "https://www.slu.edu/news/2026/august/healthier-stl-scholarship-announcement.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-26T20:00:14.847916",
+    "title": "Saint Louis University Invests Up to $1.5 Million Annually in Future Public Health Leaders",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/august/sarah-adam-world-wheelchair-rugby-championship.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-08-26T20:00:14.847916",
+    "title": "SLU's Sarah Adam Wins Gold at WWR World Championship",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-08-25/rockhurst-named-one-americas-best-colleges-time-magazine": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-08-26T20:00:14.883561",
+    "title": "Rockhurst Named One of America’s Best Colleges by TIME Magazine",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/as-jim-spain-retires-the-mizzou-culture-he-helped-build-continues-to-thrive/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-26T20:00:14.919096",
+    "title": "As Jim Spain retires, the Mizzou culture he helped build continues to thrive",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/experienced-higher-education-leader-joins-mizzou-as-university-registrar/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-26T20:00:14.919096",
+    "title": "Experienced higher education leader joins Mizzou as university registrar",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/dear-class-of-2030-heres-what-current-tigers-want-you-to-know/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-26T20:00:14.919096",
+    "title": "Dear Class of 2030: Here’s what current Tigers want you to know",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/competition-and-camaraderie-student-organizations-built-on-the-missouri-method/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-26T20:00:14.919096",
+    "title": "Competition and camaraderie: Student organizations built on the Missouri Method",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/tigers-turn-big-ideas-into-businesses-through-mizzous-entrepreneur-quest/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-26T20:00:14.919096",
+    "title": "Tigers turn big ideas into businesses through Mizzou’s Entrepreneur Quest",
+    "category": "education"
+  },
+  "https://today.uic.edu/what-students-made-sure-to-take-to-their-new-home-on-campus/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-26T20:00:14.973695",
+    "title": "What students made sure to take to their new home on campus",
+    "category": "education"
+  },
+  "/news/2026/08/new-health-sciences-academic-building-provides-state-art-space-3-ui-programs": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-26T20:00:15.043436",
+    "title": "New Health Sciences Academic Building provides state-of-the-art space to 3 UI programs",
+    "category": "semiconductor"
+  },
+  "/news/2026/08/updates-7-campus-construction-projects": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-26T20:00:15.043436",
+    "title": "Updates on 7 campus construction projects",
+    "category": "education"
+  },
+  "/news/2026/08/12-things-you-may-have-missed-over-summer": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-26T20:00:15.043436",
+    "title": "12 things you may have missed over the summer",
+    "category": "general"
+  },
+  "/news/2026/08/photo-gallery-caitlin-clark-foundation-gives-book-vending-machine-pediatric-patients": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-26T20:00:15.043436",
+    "title": "PHOTO GALLERY: Caitlin Clark Foundation gives book vending machine to pediatric patients",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/using-fda-addiction-science-researcher-asks-do-salty-high-fat-foods-act-like-drugs": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-26T20:00:15.079900",
+    "title": "Using FDA addiction science, researcher asks: Do salty, high-fat foods act like drugs?",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-spotlight-on-faculty-excellence-honorees-announced-for-the-2026-27-year": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-26T20:00:15.079900",
+    "title": "KU Spotlight on Faculty Excellence honorees announced for the 2026-27 year",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/nsf-awards-2-million-grant-to-ku-led-project-supporting-future-ai-and-computing-leaders": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-26T20:00:15.079900",
+    "title": "NSF awards $2 million grant to KU-led project supporting future AI and computing leaders",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/1-point-5-million-dollar-nsf-grant-will-support-ku-research-modeling-molecular-systems-using-ai": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-26T20:00:15.079900",
+    "title": "$1.5 million NSF grant will support KU research modeling molecular systems using AI",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/luciano-tosta-selected-for-kus-woodyard-international-educator-award": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-26T20:00:15.079900",
+    "title": "Luciano Tosta selected for KU’s Woodyard International Educator Award",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-dining-kicks-off-the-2026-2027-academic-school-year-with-updated-menus-specials": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-26T20:00:15.079900",
+    "title": "KU Dining kicks off the 2026-2027 academic school year with updated menus, specials",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/teaching-learning/2026/08/26/entry-level-it-clearing-misconceptions-in-the-ai-era/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-08-26T20:00:15.391457",
+    "title": "Entry-level IT: Clearing misconceptions in the AI era",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/alumni/thriving-career-leadership-ged-edd": {
+    "source": "uni_news",
+    "fetch_time": "2026-08-26T20:00:15.654891",
+    "title": "A thriving career in leadership: From GED to EdD",
+    "category": "education"
+  },
+  "https://www.med.wisc.edu/news/study-linking-environmental-factors-adrd-awarded-nih-funding/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-26T20:00:15.826828",
+    "title": "Study linking environmental factors and Alzheimer’s disease awarded NIH funding",
+    "category": "education"
+  },
+  "https://humanecology.wisc.edu/human-ecology-students-help-harley-davidson-rev-up-the-next-generation-of-riders/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-26T20:00:15.826828",
+    "title": "Human Ecology students help Harley-Davidson rev up the next generation of riders",
+    "category": "education"
+  },
+  "https://news.wisc.edu/chancellor-search-committee-to-hold-sept-10-listening-session/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-26T20:00:15.826828",
+    "title": "Chancellor search committee to hold Sept. 10 listening session",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/welcome-to-reg-week/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-26T20:00:15.826828",
+    "title": "Welcome to ‘Reg Week’",
+    "category": "general"
+  },
+  "https://news.wisc.edu/27m-warf-investment-fuels-uw-madisons-next-frontiers-in-research/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-26T20:00:15.826828",
+    "title": "$27M WARF investment fuels UW–Madison’s next frontiers in research",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/rediscovering-grete-stern-and-horacio-coppola/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "Rediscovering Grete Stern and Horacio Coppola",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/08/some-assembly-required-with-machine-learning/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "Some assembly required, with machine learning",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/sam-fox-school-fall-public-lecture-series-begins-aug-31/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "Sam Fox School fall Public Lecture Series begins Aug. 31",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/the-longest-table-returns-to-washu/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "The Longest Table returns to WashU",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/08/washu-astronomers-selected-for-roman-space-telescope-programs/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "WashU astronomers selected for Roman space telescope programs",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/08/washu-expert-how-to-navigate-conflicting-childhood-vaccine-guidance/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "How to navigate conflicting childhood vaccine guidance",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/08/buy-now-pay-later-may-reshape-retail-prices-inventory-washu-research-finds/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-26T20:00:15.958891",
+    "title": "‘Buy now, pay later’ may reshape retail prices, inventory, WashU research finds",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-further-ensures-affordable-beef-for-the-american-consumer/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Fact Sheet: President Donald J. Trump Further Ensures Affordable Beef for the American Consumer",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/further-ensuring-affordable-beef-for-the-american-consumer/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Further Ensuring Affordable Beef for the American Consumer",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-declares-a-national-emergency-to-secure-americas-bulk-power-system/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Fact Sheet: President Donald J. Trump Declares a National Emergency to Secure America’s Bulk-Power System",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/declaring-a-national-emergency-to-secure-the-united-states-bulk-power-system/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Declaring a National Emergency to Secure the United States Bulk-Power System",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Fifth Anniversary of the Attack at Abbey Gate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/trump-delivers-14-wins-you-may-have-missed/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Trump Delivers: 14 Recent Wins You May Have Missed",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-memory-of-dolly-parton/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Honoring the Memory of Dolly Parton",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trump-is-finally-ending-canadas-free-ride/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "President Trump Is Finally Ending Canada’s Free Ride",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/08/presidential-message-on-overdose-and-drug-poisoning-awareness-week/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-26T20:00:16.027315",
+    "title": "Presidential Message on Overdose and Drug Poisoning Awareness Week",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/08/26/wsu-students-take-science-advocacy-to-capitol-hill-70036": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-26T20:00:16.132882",
+    "title": "WSU students take science advocacy to Capitol Hill",
+    "category": "education"
+  },
+  "https://socialwork.wayne.edu/news/wayne-state-school-of-social-work-welcomes-interim-dean-70026": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-26T20:00:16.132882",
+    "title": "Wayne State School of Social Work Welcomes Interim Dean",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/ankerson-highlights-strategic-vision-in-shaping-the-future-episode": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-26T20:00:16.206698",
+    "title": "Ankerson highlights strategic vision in ‘Shaping the Future’ episode",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/40-first-year-students-join-nebraska-business-honors-academy-1": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-26T20:00:16.206698",
+    "title": "40 first-year students join Nebraska Business Honors Academy",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/huskers-challenged-to-reclaim-we-give-blood-title": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-26T20:00:16.206698",
+    "title": "Huskers challenged to reclaim We Give Blood title",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/ballards-handiwork-dots-campus-scenery": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-26T20:00:16.206698",
+    "title": "Ballard's handiwork dots campus scenery",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/olson-great-plains-series-highlights-black-history-on-the-plains": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-26T20:00:16.206698",
+    "title": "Olson Great Plains series highlights Black history on the Plains",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0826-David-Corti-named-head-of-the-Davidson-School-of-Chemical-Engineering": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-26T20:00:16.322677",
+    "title": "David Corti named head of the Davidson School of Chemical Engineering",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0826-College-recognizes-top-rated-teachers": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-26T20:00:16.322677",
+    "title": "College of Engineering recognizes top-rated teachers",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0825-analyswift-nasa-award-space-welding-robotics": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-26T20:00:16.322677",
+    "title": "AAE's Kwok and IE's She receive NASA award to enable long-duration space missions",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0825-purdue-august-patents": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-26T20:00:16.322677",
+    "title": "August Edition: Newly Issued Patents",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0825-purdue-zl9-propulsion-lab-iso-9001-certification": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-26T20:00:16.322677",
+    "title": "Purdue’s high-speed propulsion lab achieves internationally recognized quality management certification",
+    "category": "space"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0825-purdue-baja-racing-year-of-firsts": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-26T20:00:16.322677",
+    "title": "Purdue Baja Racing: A Year of Firsts",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/McKelvey-Engineering-alumnus-Vasileiou-honored-for-contributions-to-explainable-AI-systems.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-26T20:00:16.480510",
+    "title": "McKelvey Engineering alumnus Vasileiou honored for contributions to explainable AI systems",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/Stress-granules-the-focus-of-molecular-cellular-basis-of-neurodegenerative-diseases.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-26T20:00:16.480510",
+    "title": "Stress granules the focus of molecular, cellular basis of neurodegenerative diseases",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/Four-McKelvey-Engineering-graduate-students-selected-for-Olin-Chancellors-Fellowships.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-26T20:00:16.480510",
+    "title": "Four McKelvey Engineering graduate students selected for Olin-Chancellor’s Fellowships",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/Grant-funds-hybrid-system-that-could-spur-vast-energy-improvements-to-computing.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-26T20:00:16.480510",
+    "title": "Grant funds hybrid system that could spur vast energy improvements to computing",
+    "category": "quantum"
+  },
+  "https://engineering.washu.edu/news/2026/Some-assembly-required-with-machine-learning.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-08-26T20:00:16.480510",
+    "title": "Some assembly required, with machine learning",
+    "category": "education"
   }
 }
