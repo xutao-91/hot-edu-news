@@ -1,0 +1,89 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-27T20:00:18.349174",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "New UW faculty get a warm Wisconsin Welcome",
+      "url": "https://news.wisc.edu/new-uw-faculty-get-a-warm-wisconsin-welcome/",
+      "date": "August 27, 2026",
+      "type": "News",
+      "summary_en": "At a picnic Wednesday at Olin House, new UW–Madison faculty members and their families got their own chance to connect.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "Study linking environmental factors and Alzheimer’s disease awarded NIH funding",
+      "url": "https://www.med.wisc.edu/news/study-linking-environmental-factors-adrd-awarded-nih-funding/",
+      "date": "August 26, 2026",
+      "type": "News",
+      "summary_en": "The nationwide study led by the UW School of Medicine and Public Health explores the relationship between Alzheimer’s disease, environmental factors and lifetime experiences.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Human Ecology students help Harley-Davidson rev up the next generation of riders",
+      "url": "https://humanecology.wisc.edu/human-ecology-students-help-harley-davidson-rev-up-the-next-generation-of-riders/",
+      "date": "August 26, 2026",
+      "type": "News",
+      "summary_en": "How can Harley-Davidson attract the next generation of brand loyalists? Five UW–Madison students collaborated with the iconic, Wisconsin-based company to share their ideas.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Chancellor search committee to hold Sept. 10 listening session",
+      "url": "https://news.wisc.edu/chancellor-search-committee-to-hold-sept-10-listening-session/",
+      "date": "August 26, 2026",
+      "type": "News",
+      "summary_en": "The session will take place at Union South with a virtual participation option and is open to the public.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Welcome to ‘Reg Week’",
+      "url": "https://news.wisc.edu/welcome-to-reg-week/",
+      "date": "August 25, 2026",
+      "type": "News",
+      "summary_en": "The UW Marching Band’s audition process is an intense but rewarding experience.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "$27M WARF investment fuels UW–Madison’s next frontiers in research",
+      "url": "https://news.wisc.edu/27m-warf-investment-fuels-uw-madisons-next-frontiers-in-research/",
+      "date": "August 25, 2026",
+      "type": "News",
+      "summary_en": "The gift aims to accelerate four high-impact research initiatives at the university: quantum technologies, brain health, fusion energy and national security.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "What we did on your summer vacation",
+      "url": "https://news.wisc.edu/what-we-did-on-your-summer-vacation/",
+      "date": "August 24, 2026",
+      "type": "News",
+      "summary_en": "From new faces to refreshed places, catch up on the top 10 headlines from a busy summer on campus.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Inoway-Ronnie made an imprint on Bascom, UW–Madison",
+      "url": "https://news.wisc.edu/inoway-ronnie-made-an-imprint-on-bascom-uw-madison/",
+      "date": "August 24, 2026",
+      "type": "News",
+      "summary_en": "Eden Inoway-Ronnie retires after nearly 30 years as chief of staff to UW–Madison’s provosts — capping a career defined by institutional knowledge, consensus-building, and steady counsel through changing leadership and challenges.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "New Student Convocation: A kickoff for fall semester",
+      "url": "https://news.wisc.edu/new-student-convocation-a-kickoff-for-fall-semester/",
+      "date": "August 24, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s Convocation event welcomes new and transfer students to campus to celebrate the beginning of the fall semester.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
+}

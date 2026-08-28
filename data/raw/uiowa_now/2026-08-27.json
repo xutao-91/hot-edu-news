@@ -1,0 +1,53 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-08-27T20:00:17.671809",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "New Health Sciences Academic Building provides state-of-the-art space to 3 UI programs",
+      "url": "/news/2026/08/new-health-sciences-academic-building-provides-state-art-space-3-ui-programs",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "The Health Sciences Academic Building now houses three top-ranked programs — Communications Sciences and Disorders; Health, Sport, and Human Physiology; and Physical Therapy and Rehabilitation Sciences — all under one roof.",
+      "source": "UIowa Now",
+      "category": "academic"
+    },
+    {
+      "title": "Ultra-tiny diamond sensors could offer a more precise look inside living cells",
+      "url": "/news/2026/08/ultra-tiny-diamond-sensors-could-offer-more-precise-look-inside-living-cells",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "A research team co-led by the University of Iowa has developed a new approach for sensors made out of nanodiamonds to more accurately measure the temperature in cells. The findings could improve tools for studying disease, such as cancer.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "12 things you may have missed over the summer",
+      "url": "/news/2026/08/12-things-you-may-have-missed-over-summer",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "Wondering what you might have missed while you were away from campus this summer? \nHere are 12 stories to get you caught up.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Updates on 7 campus construction projects",
+      "url": "/news/2026/08/updates-7-campus-construction-projects",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "Several University of Iowa construction and renovation projects made progress over the summer, with additional work planned throughout the fall semester.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "PHOTO GALLERY: Caitlin Clark Foundation gives book vending machine to pediatric patients",
+      "url": "/news/2026/08/photo-gallery-caitlin-clark-foundation-gives-book-vending-machine-pediatric-patients",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "University of Iowa Stead Family Children's Hospital received a book vending machine from The Caitlin Clark Foundation.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

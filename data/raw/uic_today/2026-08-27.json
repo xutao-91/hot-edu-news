@@ -1,0 +1,53 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-27T20:00:17.399975",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UIC physicist cracks the code to create quantum images",
+      "url": "https://today.uic.edu/uic-physicist-cracks-the-code-to-create-quantum-images/",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "Dirk Morr’s discovery was 20 years in the making.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "What students made sure to take to their new home on campus",
+      "url": "https://today.uic.edu/what-students-made-sure-to-take-to-their-new-home-on-campus/",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "Nearly 4,000 students moved onto the UIC campus this fall.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "How occupational therapy faculty and students help patients eat healthily",
+      "url": "https://today.uic.edu/how-occupational-therapy-faculty-and-students-help-patients-eat-healthily/",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Innovative approach provides people with access to healthy, fresh foods.",
+      "source": "UIC Today",
+      "category": "academic"
+    },
+    {
+      "title": "UIC doctoral students garner NSF graduate research fellowships",
+      "url": "https://today.uic.edu/uic-doctoral-students-garner-nsf-graduate-research-fellowships/",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "The fellowships will support their work in wearable medical devices, climate resilience and more.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "UIC College of Dentistry, Mile Square Health Center launch new residency",
+      "url": "https://today.uic.edu/uic-college-of-dentistry-mile-square-health-center-launch-new-residency/",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Residents will learn how to provide dental care to diverse populations.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

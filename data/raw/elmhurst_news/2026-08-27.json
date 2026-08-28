@@ -1,0 +1,26 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-08-27T20:00:13.754538",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Hispanic Heritage Month Lecture to Explore Migration from Venezuela to Chicago",
+      "url": "https://www.elmhurst.edu/news/hispanic-heritage-month-lecture-to-explore-migration-from-venezuela-to-chicago/",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "lecture"
+    },
+    {
+      "title": "Elmhurst U. School of Business Receives Significant Gift",
+      "url": "https://www.elmhurst.edu/news/elmhurst-u-school-of-business-receives-significant-gift/",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}

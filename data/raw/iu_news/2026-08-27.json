@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-27T20:00:12.306884",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Barbershop health screenings help reduce blood pressure in Indianapolis communities",
+      "url": "https://news.iu.edu/live/news/52616-barbershop-health-screenings-help-reduce-blood",
+      "date": "Aug 26, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Three years of advancing academic public health in Marion County",
+      "url": "https://news.iu.edu/publichealth/live/news/52614-three-years-of-advancing-academic-public-health-in",
+      "date": "Aug 24, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

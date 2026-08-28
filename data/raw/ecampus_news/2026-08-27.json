@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-27T20:00:09.975718",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Entry-level IT: Clearing misconceptions in the AI era",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/08/26/entry-level-it-clearing-misconceptions-in-the-ai-era/",
+      "date": "2026-08-26",
+      "type": "Career Readiness",
+      "summary_en": "The Washington Post recently published an article saying that, for the first time in 20 years, enrollment in computer science college majors is down. For the last two decades, that major has been one of the most popular at any school.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "To rebuild adult learner confidence, universities must first earn their trust",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/08/24/to-rebuild-adult-learner-confidence-universities-must-first-earn-their-trust/",
+      "date": "2026-08-24",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "First-time college enrollment among adults declined nearly 16 percent in fall 2025, ending a four-year streak of post-pandemic growth.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

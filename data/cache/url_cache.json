@@ -19516,5 +19516,227 @@
     "fetch_time": "2026-08-26T20:00:16.480510",
     "title": "Some assembly required, with machine learning",
     "category": "education"
+  },
+  "https://www.brookings.edu/articles/ai-surveillance-in-schools-raises-safety-and-equity-concerns/": {
+    "source": "brookings",
+    "fetch_time": "2026-08-27T20:00:10.323520",
+    "title": "AI surveillance in schools raises safety and equity concerns",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/alderman-manchado-named-diiica-region-viii-student-athletes-of-the-year": {
+    "source": "msoe",
+    "fetch_time": "2026-08-27T20:00:12.091760",
+    "title": "Alderman, Manchado Named DIIICA Region VIII Student-Athletes of the Year",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/kylemore-abbey-and-the-university-of-notre-dame-celebrate-a-decade-of-partnership-at-threshold-festival/": {
+    "source": "nd_news",
+    "fetch_time": "2026-08-27T20:00:13.185033",
+    "title": "Kylemore Abbey and Notre Dame celebrate a decade of partnership at Threshold Festival",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/researchers-identify-key-fungal-genes-driving-urinary-catheter-infections/": {
+    "source": "nd_science",
+    "fetch_time": "2026-08-27T20:00:13.197459",
+    "title": "Researchers identify key fungal genes driving urinary catheter infections",
+    "category": "general"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-north-dakota-returning-education-states-tour": {
+    "source": "edgov",
+    "fetch_time": "2026-08-27T20:00:13.197459",
+    "title": "U.S. Secretary of Education Linda McMahon Visits North Dakota on Returning Education to the States Tour",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/icymi-arizona-daily-star-opinion-arizona-led-education-freedom-movement-governor-hobbs-should-not-hold-it-back": {
+    "source": "edgov",
+    "fetch_time": "2026-08-27T20:00:13.197459",
+    "title": "ICYMI: Arizona Daily Star -  Opinion: Arizona led the education freedom movement. Governor Hobbs should not hold it back.",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-colorado-returning-education-states-tour": {
+    "source": "edgov",
+    "fetch_time": "2026-08-27T20:00:13.197459",
+    "title": "U.S. Secretary of Education Linda McMahon Visits Colorado on Returning Education to the States Tour",
+    "category": "education"
+  },
+  "https://www.mtu.edu/news/2026/08/19-million-federal-award-backs-michigan-techs-role-in-national-cybersecurity.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-08-27T20:00:13.554338",
+    "title": "$1.9 Million Federal Award Backs Michigan Tech’s Role in National Cybersecurity",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-rotc-will-host-2026-ku-9/11-memorial-stair-climb": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-27T20:00:14.047833",
+    "title": "KU ROTC will host 2026 KU 9/11 Memorial Stair Climb",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-launches-website-dedicated-to-businesses": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-27T20:00:14.047833",
+    "title": "KU launches website dedicated to businesses",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-to-host-summit-on-indigenous-food-sovereignty": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-27T20:00:14.047833",
+    "title": "KU to host summit on Indigenous food sovereignty",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-transportation-center-keeps-kansans-connected": {
+    "source": "ku_news",
+    "fetch_time": "2026-08-27T20:00:14.047833",
+    "title": "KU Transportation Center keeps Kansans connected",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ED-NSF-Move-to-Implement-Uniform-Guidance.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-08-27T20:00:14.200516",
+    "title": "ED, NSF Move to Implement Elements of Pending OMB Grant Proposal",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0827-mixed-nonprofit-resilience-bloomington.html": {
+    "source": "oneill",
+    "fetch_time": "2026-08-27T20:00:14.590131",
+    "title": "Study shows mixed nonprofit resilience in the Bloomington economic region despite COVID-19 employment losses",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/feng-li-outlines-priorities-school-applied-and-creative-computing-ahead-new-academic-year": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-08-27T20:00:15.153346",
+    "title": "Feng Li outlines priorities for School of Applied and Creative Computing ahead of new academic year",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/27/more-than-half-of-americans-in-their-40s-are-sandwiched-between-an-aging-parent-and-their-own-children/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-27T20:00:15.459744",
+    "title": "More than half of Americans in their 40s are sandwiched between an aging parent and their own children",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-27T20:00:15.459744",
+    "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/08/27/many-across-37-countries-view-the-un-favorably-but-opinions-have-become-more-negative-in-some-places/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-08-27T20:00:15.459744",
+    "title": "Many across 37 countries view the UN favorably, but opinions have become more negative in some places",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mccaulley-named-interim-vice-provost-for-undergraduate-studies/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-27T20:00:15.834971",
+    "title": "McCaulley named interim vice provost for undergraduate studies",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/1-1-billion-and-roaring-mizzou-powers-toward-record-2-billion-goal/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-27T20:00:15.834971",
+    "title": "$1.1 billion and roaring: Mizzou powers toward record $2 billion goal",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/mizzou-sparks-entrepreneurs-vision-for-community/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-08-27T20:00:15.834971",
+    "title": "Mizzou sparks entrepreneur's vision for community",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/commentary/2026/08/openai-says-chatgpt-is-safer-for-teens-now-it-needs.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-27T20:00:16.364925",
+    "title": "OpenAI Says ChatGPT Is Safer for Teens. Now It Needs to Show Proof.",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA4957-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-08-27T20:00:16.364925",
+    "title": "Hardening Critical Infrastructure Software in an Era of Rapid AI Advancement: An Urgent Call for Coordinated Action",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/inside-mindworks-where-museum-visitors-become-research-subjects": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-08-27T20:00:16.933176",
+    "title": "Inside Mindworks, where museum visitors become research subjects",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0826-purdue-underwater-robot-yu-she": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-08-27T20:00:17.081540",
+    "title": "New underwater robot, developed by IE's She, could make ocean missions more reliable",
+    "category": "general"
+  },
+  "https://today.uic.edu/uic-physicist-cracks-the-code-to-create-quantum-images/": {
+    "source": "uic_today",
+    "fetch_time": "2026-08-27T20:00:17.438244",
+    "title": "UIC physicist cracks the code to create quantum images",
+    "category": "quantum"
+  },
+  "/news/2026/08/ultra-tiny-diamond-sensors-could-offer-more-precise-look-inside-living-cells": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-08-27T20:00:17.717124",
+    "title": "Ultra-tiny diamond sensors could offer a more precise look inside living cells",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/education/principal-and-alum-robin-foster-receives-uni-educational-leadership-legacy-award": {
+    "source": "uni_news",
+    "fetch_time": "2026-08-27T20:00:17.818060",
+    "title": "Principal and alum Robin Foster receives UNI Educational Leadership Legacy Award",
+    "category": "education"
+  },
+  "https://news.wisc.edu/new-uw-faculty-get-a-warm-wisconsin-welcome/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-27T20:00:18.377037",
+    "title": "New UW faculty get a warm Wisconsin Welcome",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/08/washu-admissions-strategy-is-working-and-evolving/": {
+    "source": "washu_source",
+    "fetch_time": "2026-08-27T20:00:19.350574",
+    "title": "WashU admissions strategy is working — and evolving",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-27T20:00:19.425040",
+    "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-for-texas-lower-taxes-border-security-and-jobs-coming-home/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-27T20:00:19.425040",
+    "title": "President Trump Delivers for Texas: Lower Taxes, Border Security, and Jobs Coming Home",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-08-27T20:00:19.425040",
+    "title": "NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House Press Secretary",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/21-huskers-begin-ameritas-emerging-leaders-academy": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-27T20:00:19.828395",
+    "title": "21 Huskers begin Ameritas Emerging Leaders Academy",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/2026-27-cohort-of-peter-kiewit-engineering-academy-announced": {
+    "source": "unl_news",
+    "fetch_time": "2026-08-27T20:00:19.828395",
+    "title": "2026-27 cohort of Peter Kiewit Engineering Academy announced",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/08/27/warrior-360-students-turn-support-into-success-70047": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-27T20:00:20.086442",
+    "title": "Warrior 360 students turn support into success",
+    "category": "education"
+  },
+  "https://research.wayne.edu/news/national-appointment-for-wayne-state-university-vice-president-for-research-innovation-70035": {
+    "source": "wayne_news",
+    "fetch_time": "2026-08-27T20:00:20.086442",
+    "title": "National appointment for Wayne State University vice president for research & innovation",
+    "category": "education"
   }
 }

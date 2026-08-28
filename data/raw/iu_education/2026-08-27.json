@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-08-27T20:00:09.196878",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Introducing the Student Center, a new place for student connection, well-being, and success",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-26-the-student-center.html",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "As students return to the Wright building, they’ll notice Room 2002 has become the Student Center, a place where they can connect, find support, prepare for their futures, and thrive. The Center is intended to serve all students at the entire IU School of Education, both undergraduate and graduate, recognizing that everyone may have different needs and ways of engaging throughout their educational",
+      "source": "IU School of Education",
+      "category": "education"
+    },
+    {
+      "title": "Graduate student turns waste into beautiful art and environmental action",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-24-graduate-student-turns-waste-into-beautiful-art-and-environmental-action.html",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Reagan Kandole is currently pursuing a doctoral degree in the Arts Education program. His research focuses on community engagement and activism through the arts, particularly how arts-based interventions can encourage community participation, address social and environmental issues, and contribute to meaningful social change.",
+      "source": "IU School of Education",
+      "category": "education"
+    }
+  ]
+}

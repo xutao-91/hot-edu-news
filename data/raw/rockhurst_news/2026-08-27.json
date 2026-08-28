@@ -1,0 +1,26 @@
+{
+  "source": "Rockhurst University News",
+  "source_url": "https://www.rockhurst.edu/news",
+  "crawled_at": "2026-08-27T20:00:18.734977",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Rockhurst Named One of America’s Best Colleges by TIME Magazine",
+      "url": "https://www.rockhurst.edu/news/2026-08-25/rockhurst-named-one-americas-best-colleges-time-magazine",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "TIME Magazine’s list of America’s Best Colleges for 2026-27 is out, and it includes Rockhurst University.",
+      "source": "Rockhurst News",
+      "category": "academics"
+    },
+    {
+      "title": "Rockhurst University Recognizes 100th Birthday of Sister Rosemary Flanigan",
+      "url": "https://www.rockhurst.edu/news/2026-08-24/rockhurst-university-recognizes-100th-birthday-sister-rosemary-flanigan",
+      "date": "2026-08-24",
+      "type": "News",
+      "summary_en": "Summary",
+      "source": "Rockhurst News",
+      "category": "academics"
+    }
+  ]
+}
