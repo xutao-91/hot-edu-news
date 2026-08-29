@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-28T20:00:12.962662",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC physicist cracks the code to create quantum images",
+      "url": "https://today.uic.edu/uic-physicist-cracks-the-code-to-create-quantum-images/",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "Dirk Morr’s discovery was 20 years in the making.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "What students made sure to take to their new home on campus",
+      "url": "https://today.uic.edu/what-students-made-sure-to-take-to-their-new-home-on-campus/",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "Nearly 4,000 students moved onto the UIC campus this fall.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}

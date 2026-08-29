@@ -1,0 +1,53 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-28T20:00:14.543192",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Division of Academic Affairs announces 2026-27 Academic Leadership Academy cohort",
+      "url": "https://today.wayne.edu/news/2026/08/28/division-of-academic-affairs-announces-2026-27-academic-leadership-academy-cohort-70038",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Warrior 360 students turn support into success",
+      "url": "https://today.wayne.edu/news/2026/08/27/warrior-360-students-turn-support-into-success-70047",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "National appointment for Wayne State University vice president for research & innovation",
+      "url": "https://research.wayne.edu/news/national-appointment-for-wayne-state-university-vice-president-for-research-innovation-70035",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "WSU students take science advocacy to Capitol Hill",
+      "url": "https://today.wayne.edu/news/2026/08/26/wsu-students-take-science-advocacy-to-capitol-hill-70036",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State School of Social Work Welcomes Interim Dean",
+      "url": "https://socialwork.wayne.edu/news/wayne-state-school-of-social-work-welcomes-interim-dean-70026",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-08-28T20:00:13.806234",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "The UNI mystery of the Campanile's \"World Grand Prize\"",
+      "url": "https://insideuni.uni.edu/campus-community/uni-mystery-campaniles-world-grand-prize",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "For decades, a bronze plaque on UNI’s Campanile claimed that the historic tower clock mechanism had won the “World’s Grand Prize” at the 1876 Centennial Exhibition in Philadelphia. There was just one problem… the prize had never existed.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Principal and alum Robin Foster receives UNI Educational Leadership Legacy Award",
+      "url": "https://insideuni.uni.edu/education/principal-and-alum-robin-foster-receives-uni-educational-leadership-legacy-award",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "Robin Foster, principal of West Elementary, part of the Mid-Prairie Community School District, has received the 2026 UNI Educational Leadership Legacy Award from the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "A thriving career in leadership: From GED to EdD",
+      "url": "https://insideuni.uni.edu/alumni/thriving-career-leadership-ged-edd",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "Without the affirmation of a University of Northern Iowa professor, Joyce Levingston may not have realized how smart she was as a 20-something undergraduate student studying family services whose previous experiences led her to drop out of high school.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

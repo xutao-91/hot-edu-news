@@ -1,0 +1,110 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-08-28T20:00:11.979058",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "International views of the U.S. and its president are increasingly correlated",
+      "url": "https://www.pewresearch.org/decoded/2026/08/28/international-views-of-the-us-and-its-president-are-increasingly-correlated/",
+      "date": "Aug 28, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science",
+        "International Surveys"
+      ],
+      "summary_en": "During Joe Biden’s presidency, as well as during Trump’s first term, there was a much weaker relationship between views of the U.S. and confidence in its president.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "More than half of Americans in their 40s are sandwiched between an aging parent and their own children",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/27/more-than-half-of-americans-in-their-40s-are-sandwiched-between-an-aging-parent-and-their-own-children/",
+      "date": "Aug 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "Generations Age",
+        "Family Caregiving",
+        "Household Structure Family Roles",
+        "Parenthood"
+      ],
+      "summary_en": "Overall, 25% of U.S. adults have a parent age 65 or older and have a child under 18, an adult child receiving financial support or both.",
+      "source": "Pew Research Center",
+      "category": "marriage_family"
+    },
+    {
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "date": "Aug 27, 2026",
+      "type": "report",
+      "categories": [
+        "Methodological Research",
+        "Survey Methods"
+      ],
+      "summary_en": "A new study examining online opt-in polling finds that while removing bogus respondents generally improves data quality, no single method reliably solves the problem.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Many across 37 countries view the UN favorably, but opinions have become more negative in some places",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/27/many-across-37-countries-view-the-un-favorably-but-opinions-have-become-more-negative-in-some-places/",
+      "date": "Aug 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Affairs",
+        "Political Issues",
+        "United Nations"
+      ],
+      "summary_en": "A median of 55% across 37 countries hold a favorable view of the UN, though views in some countries have turned more negative in recent years.",
+      "source": "Pew Research Center",
+      "category": "social_trends"
+    },
+    {
+      "title": "Fewer Americans use cash today than a decade ago, but many still carry it",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/26/fewer-americans-use-cash-today-than-a-decade-ago-but-many-still-carry-it/",
+      "date": "Aug 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Policy",
+        "Economy Work",
+        "Personal Finances"
+      ],
+      "summary_en": "Today, 42% of U.S. adults say they don’t use cash for any purchases in a typical week. This is up from 24% in 2015.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans want transparency when AI is used in their healthcare",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/25/americans-want-transparency-when-ai-is-used-in-their-healthcare/",
+      "date": "Aug 25, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Health Care",
+        "Healthcare Online",
+        "Medicine Health"
+      ],
+      "summary_en": "About seven-in-ten U.S. adults (72%) say it’s extremely or very important that a doctor or other healthcare provider tells them if they’re using AI in their healthcare.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "From Diagnoses to Treatments, Why Americans Use AI Chatbots for Health",
+      "url": "https://www.pewresearch.org/science/2026/08/25/from-diagnoses-to-treatments-why-americans-use-ai-chatbots-for-health/",
+      "date": "Aug 25, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Medicine Health",
+        "Science",
+        "Science Issues",
+        "Science Knowledge",
+        "Science News Information",
+        "Uncategorized"
+      ],
+      "summary_en": "Americans use chatbots for a host of health-related reasons, from helping make diagnoses on their own to learning more about information they may have gotten from a doctor. Nearly all chatbot health users find this AI information helpful.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

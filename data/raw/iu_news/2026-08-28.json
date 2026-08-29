@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-28T20:00:10.808966",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "O’Neill student aids disaster preparedness efforts in Steuben County",
+      "url": "https://news.iu.edu/live/news/52648-oneill-student-aids-disaster-preparedness-efforts",
+      "date": "Aug 26, 2026",
+      "type": "Law and Policy",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Barbershop health screenings help reduce blood pressure in Indianapolis communities",
+      "url": "https://news.iu.edu/live/news/52616-barbershop-health-screenings-help-reduce-blood",
+      "date": "Aug 26, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Traumatic brain injury support decreases likelihood of returning to prison, saves taxpayer money",
+      "url": "https://medicine.iu.edu/news/2026/08/tbi-prison-support-research",
+      "date": "Aug 28, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

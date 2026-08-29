@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-08-28T20:00:09.668146",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Wong receives lifetime achievement award",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-28-wong-receives-lifetime-achievement-award.html",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "Y. Joel Wong has won the 2026 Distinguished Lifetime Achievement Award by the Society of Counseling Psychology's Prevention Section. Wong was selected for \"exceptional, sustained contributions to the advancement of prevention and health promotion in counseling psychology.\"",
+      "source": "IU School of Education",
+      "category": "general"
+    },
+    {
+      "title": "Introducing the Student Center, a new place for student connection, well-being, and success",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-26-the-student-center.html",
+      "date": "2026-08-26",
+      "type": "News",
+      "summary_en": "As students return to the Wright building, they’ll notice Room 2002 has become the Student Center, a place where they can connect, find support, prepare for their futures, and thrive. The Center is intended to serve all students at the entire IU School of Education, both undergraduate and graduate, recognizing that everyone may have different needs and ways of engaging throughout their educational",
+      "source": "IU School of Education",
+      "category": "education"
+    }
+  ]
+}

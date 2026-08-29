@@ -1,0 +1,35 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-08-28T20:00:09.503850",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Illinois-led regional quantum hub NSF HQAN renewed to pursue industry-ready computing and workforce development",
+      "url": "https://grainger.illinois.edu/news/stories/HQAN-renewed-five-years",
+      "date": "2026-08-25",
+      "summary_en": "The NSF has awarded $37.5 million over five years to the University of Illinois Urbana-Champaign-led NSF HQAN, one of the original three NSF Quantum Leap Challenge Institutes, to continue advancing quantum science and technology across the Midwest.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "NSF renews Quantum Leap Challenge Institute with $37.5 million investment in quantum sensing for biology",
+      "url": "https://pme.uchicago.edu/news-events/news/nsf-renews-quantum-leap-challenge-institute-375-million-investment-quantum-sensing",
+      "date": "2026-08-25",
+      "summary_en": "University of Chicago-led institute will advance quantum sensors toward robust tools for revealing biological processes beyond the reach of conventional measurement",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "NSF renews region’s two Quantum Leap Challenge Institutes, each with $37.5M in funding",
+      "url": "https://chicagoquantum.org/news/nsf-renews-regions-two-quantum-leap-challenge-institutes-375m-investments",
+      "date": "2026-08-25",
+      "summary_en": "Five-year investments in UChicago-led QuBBE and UIUC-led HQAN advance quantum sensing for biology, industry-ready quantum computing, and workforce development",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

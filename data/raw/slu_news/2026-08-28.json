@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-08-28T20:00:12.748855",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Saint Louis University Invests Up to $1.5 Million Annually in Future Public Health Leaders",
+      "url": "https://www.slu.edu/news/2026/august/healthier-stl-scholarship-announcement.php",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "The Healthier STL Scholarship is designed to prepare the next generation of public health and health management professionals committed to improving the health and well-being of communities across the St. Louis region. It's the third in a series of scholarships at SLU, investing up to $4.4 million annually in local students pursuing vital service professions.",
+      "source": "SLU News",
+      "category": "health"
+    },
+    {
+      "title": "SLU's Sarah Adam Wins Gold at WWR World Championship",
+      "url": "https://www.slu.edu/news/2026/august/sarah-adam-world-wheelchair-rugby-championship.php",
+      "date": "2026-08-25",
+      "type": "News",
+      "summary_en": "Sarah Adam, OTD, assistant professor of occupational science and occupational therapy at Saint Louis University, is a world champion. Adam and her teammates with USA Wheelchair Rugby earned a gold medal at the 2026 World Wheelchair Rugby World Championship in Rio de Janeiro, Brazil. Team USA defeated Australia on Sunday, Aug. 23, in the championship final to earn the program its first world champi",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-08-28T20:00:10.102427",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Answering the question behind the question",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/08/28/answering-the-question-behind-the-question/",
+      "date": "2026-08-28",
+      "type": "Classroom Innovation",
+      "summary_en": "Librarians and instructional designers have long understood that the first question someone asks is not always the question they need answered. In a library reference interview, a patron’s initial request is often just the starting point for uncovering the real information needed.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Entry-level IT: Clearing misconceptions in the AI era",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/08/26/entry-level-it-clearing-misconceptions-in-the-ai-era/",
+      "date": "2026-08-26",
+      "type": "Career Readiness",
+      "summary_en": "The Washington Post recently published an article saying that, for the first time in 20 years, enrollment in computer science college majors is down. For the last two decades, that major has been one of the most popular at any school.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

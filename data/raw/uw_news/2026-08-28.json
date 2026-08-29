@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-28T20:00:14.110892",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "The Badgers are back in town",
+      "url": "https://news.wisc.edu/the-badgers-are-back-in-town/",
+      "date": "August 28, 2026",
+      "type": "News",
+      "summary_en": "The UW–Madison campus looked a little more vibrant as students returned for the start of a multiday residence hall move-in.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "New UW faculty get a warm Wisconsin Welcome",
+      "url": "https://news.wisc.edu/new-uw-faculty-get-a-warm-wisconsin-welcome/",
+      "date": "August 27, 2026",
+      "type": "News",
+      "summary_en": "At a picnic Wednesday at Olin House, new UW–Madison faculty members and their families got their own chance to connect.",
+      "source": "UW-Madison News",
+      "category": "faculty"
+    },
+    {
+      "title": "Study linking environmental factors and Alzheimer’s disease awarded NIH funding",
+      "url": "https://www.med.wisc.edu/news/study-linking-environmental-factors-adrd-awarded-nih-funding/",
+      "date": "August 26, 2026",
+      "type": "News",
+      "summary_en": "The nationwide study led by the UW School of Medicine and Public Health explores the relationship between Alzheimer’s disease, environmental factors and lifetime experiences.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Human Ecology students help Harley-Davidson rev up the next generation of riders",
+      "url": "https://humanecology.wisc.edu/human-ecology-students-help-harley-davidson-rev-up-the-next-generation-of-riders/",
+      "date": "August 26, 2026",
+      "type": "News",
+      "summary_en": "How can Harley-Davidson attract the next generation of brand loyalists? Five UW–Madison students collaborated with the iconic, Wisconsin-based company to share their ideas.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Chancellor search committee to hold Sept. 10 listening session",
+      "url": "https://news.wisc.edu/chancellor-search-committee-to-hold-sept-10-listening-session/",
+      "date": "August 26, 2026",
+      "type": "News",
+      "summary_en": "The session will take place at Union South with a virtual participation option and is open to the public.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Welcome to ‘Reg Week’",
+      "url": "https://news.wisc.edu/welcome-to-reg-week/",
+      "date": "August 25, 2026",
+      "type": "News",
+      "summary_en": "The UW Marching Band’s audition process is an intense but rewarding experience.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "$27M WARF investment fuels UW–Madison’s next frontiers in research",
+      "url": "https://news.wisc.edu/27m-warf-investment-fuels-uw-madisons-next-frontiers-in-research/",
+      "date": "August 25, 2026",
+      "type": "News",
+      "summary_en": "The gift aims to accelerate four high-impact research initiatives at the university: quantum technologies, brain health, fusion energy and national security.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}
