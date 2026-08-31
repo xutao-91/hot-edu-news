@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-08-30T20:00:12.962710",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "SK hynix breaks ground on $4 billion advanced packaging production facility in Purdue Research Park",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0828-sk-hynix-groundbreaking-purdue-research-park",
+      "date": "August 28, 2026",
+      "type": "News",
+      "summary_en": "Project marks SK hynix’s first U.S. high bandwidth memory production hub",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Purdue Engineering names 38 by 38 Award recipients for 2026",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0818-Purdue-Engineering-names-2026-38-by-38-award-recipients",
+      "date": "August 28, 2026",
+      "type": "News",
+      "summary_en": "Purdue Engineering's 38 by 38 Award honors 38 exceptional alumni who, by age 38, have demonstrated remarkable achievement, rapid professional growth and meaningful impact in their fields.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "New underwater robot, developed by IE's She, could make ocean missions more reliable",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0826-purdue-underwater-robot-yu-she",
+      "date": "August 27, 2026",
+      "type": "News",
+      "summary_en": "Prototype is able to adapt to needs of mission, acting as drifter, glider and thruster",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-08-30T20:00:10.581335",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "$1.9 Million Federal Award Backs Michigan Tech’s Role in National Cybersecurity",
+      "url": "https://www.mtu.edu/news/2026/08/19-million-federal-award-backs-michigan-techs-role-in-national-cybersecurity.html",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "The U.S. National Science Foundation (NSF) has awarded Michigan Technological University $1.9 million to educate and mentor the next generation of national cybersecurity and artificial intelligence professionals.  The funding, through NSF's CyberAI Corps Scholarship for Service program, known as  . . .",
+      "source": "MTU News",
+      "category": "general"
+    }
+  ]
+}

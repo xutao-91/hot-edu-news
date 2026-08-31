@@ -19930,5 +19930,41 @@
     "fetch_time": "2026-08-28T20:00:14.618480",
     "title": "Division of Academic Affairs announces 2026-27 Academic Leadership Academy cohort",
     "category": "ai"
+  },
+  "https://www.augie.edu/news/2026/eide/dalrymple-gallery-features-2015-augustana-alumnus-sioux-falls-sculpturewalk-artist": {
+    "source": "augie_news",
+    "fetch_time": "2026-08-30T20:00:07.954142",
+    "title": "Eide/Dalrymple Gallery Features 2015 Augustana Alumnus, Sioux Falls SculptureWalk Artist",
+    "category": "semiconductor"
+  },
+  "https://mendoza.nd.edu/news/leading-through-uncertainty/": {
+    "source": "mendoza",
+    "fetch_time": "2026-08-30T20:00:09.745782",
+    "title": "Leading through uncertainty",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/how-does-chatgpt-compare-to-copywriters/": {
+    "source": "mendoza",
+    "fetch_time": "2026-08-30T20:00:09.745782",
+    "title": "How does ChatGPT compare to copywriters?",
+    "category": "ai"
+  },
+  "https://www.ndsmcobserver.com/article/mendozas-north-addition-opens-reinforcing-ties-to-the-colleges-founding-dean-20260827": {
+    "source": "mendoza",
+    "fetch_time": "2026-08-30T20:00:09.745782",
+    "title": "Mendoza’s North Addition opens, reinforcing ties to the College’s founding dean",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/08/27/su-exec-announces-goals-to-end-block-funding-cut-student-fundraising-taxes-and-more": {
+    "source": "studlife",
+    "fetch_time": "2026-08-30T20:00:11.816710",
+    "title": "SU Exec announces goals to end block funding, cut student fundraising taxes, and more",
+    "category": "education"
+  },
+  "https://uwpd.wisc.edu/staying-safe/badgersafe/": {
+    "source": "uw_news",
+    "fetch_time": "2026-08-30T20:00:13.581038",
+    "title": "Download the BadgerSAFE app for the latest safety info from UWPD",
+    "category": "semiconductor"
   }
 }

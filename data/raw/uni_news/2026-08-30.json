@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-08-30T20:00:13.101413",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The UNI mystery of the Campanile's \"World Grand Prize\"",
+      "url": "https://insideuni.uni.edu/campus-community/uni-mystery-campaniles-world-grand-prize",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "For decades, a bronze plaque on UNI’s Campanile claimed that the historic tower clock mechanism had won the “World’s Grand Prize” at the 1876 Centennial Exhibition in Philadelphia. There was just one problem… the prize had never existed.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Principal and alum Robin Foster receives UNI Educational Leadership Legacy Award",
+      "url": "https://insideuni.uni.edu/education/principal-and-alum-robin-foster-receives-uni-educational-leadership-legacy-award",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "Robin Foster, principal of West Elementary, part of the Mid-Prairie Community School District, has received the 2026 UNI Educational Leadership Legacy Award from the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

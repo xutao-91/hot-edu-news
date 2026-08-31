@@ -1,0 +1,50 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-08-30T20:00:13.679706",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "President Trump Was Right: America Controls the Strait of Hormuz",
+      "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-was-right-america-controls-the-strait-of-hormuz/",
+      "date": "August 28, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Establishes a Commission to Design the United States Space Academy",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/08/fact-sheet-president-donald-j-trump-establishes-a-commission-to-design-the-united-states-space-academy/",
+      "date": "August 28, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Establishing the United States Space Academy",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
+      "date": "August 28, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/08/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america-3a36/",
+      "date": "August 27, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Delivers for Texas: Lower Taxes, Border Security, and Jobs Coming Home",
+      "url": "https://www.whitehouse.gov/releases/2026/08/president-trump-delivers-for-texas-lower-taxes-border-security-and-jobs-coming-home/",
+      "date": "August 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "NEVER SURRENDER: Karoline Leavitt’s Historic Tenure as White House Press Secretary",
+      "url": "https://www.whitehouse.gov/releases/2026/08/never-surrender-karoline-leavitts-historic-tenure-as-white-house-press-secretary/",
+      "date": "August 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-08-30T20:00:10.540605",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "International views of the U.S. and its president are increasingly correlated",
+      "url": "https://www.pewresearch.org/decoded/2026/08/28/international-views-of-the-us-and-its-president-are-increasingly-correlated/",
+      "date": "Aug 28, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science",
+        "International Surveys"
+      ],
+      "summary_en": "During Joe Biden’s presidency, as well as during Trump’s first term, there was a much weaker relationship between views of the U.S. and confidence in its president.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "More than half of Americans in their 40s are sandwiched between an aging parent and their own children",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/27/more-than-half-of-americans-in-their-40s-are-sandwiched-between-an-aging-parent-and-their-own-children/",
+      "date": "Aug 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "Generations Age",
+        "Family Caregiving",
+        "Household Structure Family Roles",
+        "Parenthood"
+      ],
+      "summary_en": "Overall, 25% of U.S. adults have a parent age 65 or older and have a child under 18, an adult child receiving financial support or both.",
+      "source": "Pew Research Center",
+      "category": "marriage_family"
+    },
+    {
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "date": "Aug 27, 2026",
+      "type": "report",
+      "categories": [
+        "Methodological Research",
+        "Survey Methods"
+      ],
+      "summary_en": "A new study examining online opt-in polling finds that while removing bogus respondents generally improves data quality, no single method reliably solves the problem.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Many across 37 countries view the UN favorably, but opinions have become more negative in some places",
+      "url": "https://www.pewresearch.org/short-reads/2026/08/27/many-across-37-countries-view-the-un-favorably-but-opinions-have-become-more-negative-in-some-places/",
+      "date": "Aug 27, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Affairs",
+        "Political Issues",
+        "United Nations"
+      ],
+      "summary_en": "A median of 55% across 37 countries hold a favorable view of the UN, though views in some countries have turned more negative in recent years.",
+      "source": "Pew Research Center",
+      "category": "social_trends"
+    }
+  ]
+}

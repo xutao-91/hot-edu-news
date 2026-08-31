@@ -5,9 +5,39 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 01:00:18 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:00:19 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+        <title>Eide/Dalrymple Gallery Features 2015 Augustana Alumnus, Sioux Falls SculptureWalk Artist</title>
+        <link>https://www.augie.edu/news/2026/eide/dalrymple-gallery-features-2015-augustana-alumnus-sioux-falls-sculpturewalk-artist</link>
+        <description></description>
+        <pubDate>Wed, 02 Sep 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.augie.edu/news/2026/eide/dalrymple-gallery-features-2015-augustana-alumnus-sioux-falls-sculpturewalk-artist</guid>
+        <category>综合</category>
+        <source>Augustana News</source>
+    </item>
+    
+    <item>
+        <title>Download the BadgerSAFE app for the latest safety info from UWPD</title>
+        <link>https://uwpd.wisc.edu/staying-safe/badgersafe/</link>
+        <description></description>
+        <pubDate>Sun, 30 Aug 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://uwpd.wisc.edu/staying-safe/badgersafe/</guid>
+        <category>综合</category>
+        <source>UW-Madison News</source>
+    </item>
+    
+    <item>
+        <title>Leading through uncertainty</title>
+        <link>https://mendoza.nd.edu/news/leading-through-uncertainty/</link>
+        <description></description>
+        <pubDate>Sat, 29 Aug 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://mendoza.nd.edu/news/leading-through-uncertainty/</guid>
+        <category>综合</category>
+        <source>Mendoza College of Business</source>
+    </item>
     
     <item>
         <title>Answering the question behind the question</title>
@@ -150,6 +180,16 @@
     </item>
     
     <item>
+        <title>How does ChatGPT compare to copywriters?</title>
+        <link>https://mendoza.nd.edu/news/how-does-chatgpt-compare-to-copywriters/</link>
+        <description></description>
+        <pubDate>Fri, 28 Aug 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://mendoza.nd.edu/news/how-does-chatgpt-compare-to-copywriters/</guid>
+        <category>综合</category>
+        <source>Mendoza College of Business</source>
+    </item>
+    
+    <item>
         <title>Northwestern to launch $30 million center to unlock genome’s hidden code</title>
         <link>https://news.northwestern.edu/stories/2026/08-2/northwestern-to-launch-30-million-center-to-unlock-genomes-hidden-code</link>
         <description></description>
@@ -167,46 +207,6 @@
         <guid isPermaLink="true">https://www.pewresearch.org/decoded/2026/08/28/international-views-of-the-us-and-its-president-are-increasingly-correlated/</guid>
         <category>国际</category>
         <source>Pew Research Center</source>
-    </item>
-    
-    <item>
-        <title>SK hynix breaks ground on $4 billion advanced packaging production facility in Purdue Research Park</title>
-        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0828-sk-hynix-groundbreaking-purdue-research-park</link>
-        <description></description>
-        <pubDate>Fri, 28 Aug 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0828-sk-hynix-groundbreaking-purdue-research-park</guid>
-        <category>research</category>
-        <source>Purdue College of Engineering</source>
-    </item>
-    
-    <item>
-        <title>Purdue Engineering names 38 by 38 Award recipients for 2026</title>
-        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0818-Purdue-Engineering-names-2026-38-by-38-award-recipients</link>
-        <description></description>
-        <pubDate>Fri, 28 Aug 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0818-Purdue-Engineering-names-2026-38-by-38-award-recipients</guid>
-        <category>综合</category>
-        <source>Purdue College of Engineering</source>
-    </item>
-    
-    <item>
-        <title>Health care spending gap between high- and low-income Americans widens, study finds</title>
-        <link>https://news.uchicago.edu/story/health-care-spending-gap-between-high-and-low-income-americans-widens-study-finds</link>
-        <description></description>
-        <pubDate>Fri, 28 Aug 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.uchicago.edu/story/health-care-spending-gap-between-high-and-low-income-americans-widens-study-finds</guid>
-        <category>research</category>
-        <source>UChicago News</source>
-    </item>
-    
-    <item>
-        <title>The UNI mystery of the Campanile's "World Grand Prize"</title>
-        <link>https://insideuni.uni.edu/campus-community/uni-mystery-campaniles-world-grand-prize</link>
-        <description></description>
-        <pubDate>Fri, 28 Aug 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://insideuni.uni.edu/campus-community/uni-mystery-campaniles-world-grand-prize</guid>
-        <category>综合</category>
-        <source>UNI News</source>
     </item>
     
 </channel>

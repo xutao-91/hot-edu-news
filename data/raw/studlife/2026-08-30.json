@@ -1,0 +1,18 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-08-30T20:00:11.708663",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SU Exec announces goals to end block funding, cut student fundraising taxes, and more",
+      "url": "https://www.studlife.com/news/2026/08/27/su-exec-announces-goals-to-end-block-funding-cut-student-fundraising-taxes-and-more",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

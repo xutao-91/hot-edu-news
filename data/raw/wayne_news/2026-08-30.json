@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-30T20:00:13.829232",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Division of Academic Affairs announces 2026-27 Academic Leadership Academy cohort",
+      "url": "https://today.wayne.edu/news/2026/08/28/division-of-academic-affairs-announces-2026-27-academic-leadership-academy-cohort-70038",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Warrior 360 students turn support into success",
+      "url": "https://today.wayne.edu/news/2026/08/27/warrior-360-students-turn-support-into-success-70047",
+      "date": "2026-08-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}
