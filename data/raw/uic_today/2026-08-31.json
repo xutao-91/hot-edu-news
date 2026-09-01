@@ -1,0 +1,17 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-08-31T20:00:13.426364",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UIC a top 50 best value in Washington Monthly 2026 rankings",
+      "url": "https://today.uic.edu/uic-a-top-50-best-value-in-washington-monthly-2026-rankings/",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Among public universities, UIC ranks in the top 20 nationally and No. 1 in the Midwest.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-08-31T20:00:15.289674",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Shake it off",
+      "url": "https://source.washu.edu/2026/08/shake-it-off/",
+      "date": "2026-08-31",
+      "type": "Engineering",
+      "summary_en": "A grant from the Department of Defense will fund WashU research to make materials that deter aquatic organisms from attaching to surfaces. The work could have applications for anything in wet environments including medical devices for the human body and membranes used in desalinization.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Expanded Frick Initiatives move civic research into practice",
+      "url": "https://source.washu.edu/2026/08/expanded-frick-initiatives-move-civic-research-into-practice/",
+      "date": "2026-08-31",
+      "type": "Advancement",
+      "summary_en": "The gift, combined with a long-term financial commitment from the university, will support programs and grants advancing civil discourse, free and open markets, free speech and personal responsibility.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

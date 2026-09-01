@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-08-31T20:00:15.132081",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Download the BadgerSAFE app for the latest safety info from UWPD",
+      "url": "https://uwpd.wisc.edu/staying-safe/badgersafe/",
+      "date": "August 30, 2026",
+      "type": "News",
+      "summary_en": "BadgerSAFE is a free app that turns your smartphone into your own personal safety device.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "The Badgers are back in town",
+      "url": "https://news.wisc.edu/the-badgers-are-back-in-town/",
+      "date": "August 28, 2026",
+      "type": "News",
+      "summary_en": "The UW–Madison campus looked a little more vibrant as students returned for the start of a multiday residence hall move-in.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

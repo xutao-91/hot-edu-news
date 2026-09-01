@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-08-31T20:00:09.306528",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "CASS student explores new opportunities on Global Gateway journey",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-31-aniya-burnett-nz.html",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Aniya Burnett was among the first cohort of Counseling and Student Services majors to participate in Global Gateway, spending three weeks of her summer in New Zealand. She was inspired to pursue counseling and student services because of a desire to work in higher education and support students from diverse and multicultural backgrounds, especially students of color.",
+      "source": "IU School of Education",
+      "category": "education"
+    },
+    {
+      "title": "Wong receives lifetime achievement award",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-08-28-wong-receives-lifetime-achievement-award.html",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "Y. Joel Wong has won the 2026 Distinguished Lifetime Achievement Award by the Society of Counseling Psychology's Prevention Section. Wong was selected for \"exceptional, sustained contributions to the advancement of prevention and health promotion in counseling psychology.\"",
+      "source": "IU School of Education",
+      "category": "general"
+    }
+  ]
+}

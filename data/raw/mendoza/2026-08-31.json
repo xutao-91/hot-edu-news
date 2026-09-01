@@ -1,0 +1,35 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-08-31T20:00:10.792027",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "An Internship Experience Built for What’s Next",
+      "url": "https://mendoza.nd.edu/news/an-internship-experience-built-for-whats-next/",
+      "date": "August 31, 2026",
+      "type": "News",
+      "summary_en": "Mark Chambers spent a summer with EY in Pittsburgh, building on his Notre Dame experience, characterized by rigorous data and impact.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "Leading through uncertainty",
+      "url": "https://mendoza.nd.edu/news/leading-through-uncertainty/",
+      "date": "August 29, 2026",
+      "type": "News",
+      "summary_en": "Notre Dame MSBA grad student and Air Force 2nd lieutenant Josh Yago piloted a path to play lacrosse.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "How does ChatGPT compare to copywriters?",
+      "url": "https://mendoza.nd.edu/news/how-does-chatgpt-compare-to-copywriters/",
+      "date": "August 28, 2026",
+      "type": "News",
+      "summary_en": "Notre Dame marketing Professor Joe Redden makes the case for using AI to write advertising taglines.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}

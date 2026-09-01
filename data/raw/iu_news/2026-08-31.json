@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-08-31T20:00:10.490071",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU’s brain health ‘powerhouse’ targets inflammation in fight against Parkinson’s",
+      "url": "https://news.iu.edu/live/news/52681-ius-brain-health-powerhouse-targets-inflammation-in-fi",
+      "date": "Aug 31, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Traumatic brain injury support decreases likelihood of returning to prison, saves taxpayer money",
+      "url": "https://medicine.iu.edu/news/2026/08/tbi-prison-support-research",
+      "date": "Aug 28, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

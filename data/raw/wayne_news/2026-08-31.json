@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-08-31T20:00:15.474767",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Wayne State welcomes more than 24,000 students, including largest first-year class in history",
+      "url": "https://today.wayne.edu/news/2026/08/31/wayne-state-welcomes-more-than-24000-students-including-largest-first-year-class-in-history-70057",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Division of Academic Affairs announces 2026-27 Academic Leadership Academy cohort",
+      "url": "https://today.wayne.edu/news/2026/08/28/division-of-academic-affairs-announces-2026-27-academic-leadership-academy-cohort-70038",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Getting to Know Wayne State’s New Provost, Dr. Christina Bloebaum",
+      "url": "https://today.wayne.edu/news/2026/08/28/getting-to-know-wayne-states-new-provost-dr-christina-bloebaum-70050",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-08-31T20:00:14.591714",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UNI students dive deep into 150-year history through podcast project",
+      "url": "https://insideuni.uni.edu/campus-community/uni-students-dive-deep-150-year-history-through-podcast-project",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Throughout the spring semester, one group of 28 students worked  on a research project about the history of UNI. By the semester’s end, they shared their findings in the form of a podcast, broadcasting their lessons to the masses.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "What should every UNI student learn? 150 years of an evolving answer",
+      "url": "https://insideuni.uni.edu/what-should-every-uni-student-learn-150-years-evolving-answer",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "A new six-part digital exhibit traces nearly 150 years of general education at UNI, exploring how changing ideas about citizenship, higher education and what every college graduate should know have shaped the university’s curriculum.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI Humanities Hub lecture to highlight career potential of humanities degrees",
+      "url": "https://insideuni.uni.edu/campus-community/uni-humanities-hub-lecture-highlight-career-potential-humanities-degrees",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Robert Townsend's lecture, “Set Up for Success: Making Your Humanities Degree Work,” will take place on Monday, Sept. 21, on the University of Northern Iowa campus.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "The UNI mystery of the Campanile's \"World Grand Prize\"",
+      "url": "https://insideuni.uni.edu/campus-community/uni-mystery-campaniles-world-grand-prize",
+      "date": "2026-08-28",
+      "type": "News",
+      "summary_en": "For decades, a bronze plaque on UNI’s Campanile claimed that the historic tower clock mechanism had won the “World’s Grand Prize” at the 1876 Centennial Exhibition in Philadelphia. There was just one problem… the prize had never existed.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
