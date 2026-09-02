@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-09-01T20:00:10.141988",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Bell represents O'Neill School at CIMPAD Conference in Angola",
+      "url": "https://oneill.indiana.edu/news/2026-0901-bell-cimpad-conference.html",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "O’Neill professor David Bell represented the school at CIMPAD in Angola, advancing global partnerships in higher education, governance, and public service.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "O'Neill School welcomes five new faculty members",
+      "url": "https://oneill.indiana.edu/news/2026-0901-new-faculty.html",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "The new hires bring expertise and fresh perspectives to the school's core areas of public affairs, environmental science, and policy analysis.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

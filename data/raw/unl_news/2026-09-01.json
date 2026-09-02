@@ -1,0 +1,35 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-09-01T20:00:14.546662",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Dia delivers colorful tribute for Nebraska City's America 250 celebration",
+      "url": "https://news.unl.edu/article/dia-delivers-colorful-tribute-for-nebraska-citys-america-250-celebration",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Carson legacy takes flight from late-night TV to lunar missions",
+      "url": "https://news.unl.edu/article/carson-legacy-takes-flight-from-late-night-tv-to-lunar-missions",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "11 Nebraska arts alumni who helped shape America’s story",
+      "url": "https://news.unl.edu/article/11-nebraska-arts-alumni-who-helped-shape-americas-story",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-01T20:00:08.397515",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU Bloomington named top public Indiana institution for contribution to public good",
+      "url": "https://news.iu.edu/live/news/52701-iu-bloomington-named-top-public-indiana",
+      "date": "Sep 1, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU’s brain health ‘powerhouse’ targets inflammation in fight against Parkinson’s",
+      "url": "https://news.iu.edu/live/news/52681-ius-brain-health-powerhouse-targets-inflammation-in-fi",
+      "date": "Aug 31, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

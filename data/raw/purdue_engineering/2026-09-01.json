@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-01T20:00:12.259834",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "ECE's Zhu partners with HHS researchers on new nutrition AI tool",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0901-purdue-sense-study-ai-nutrition-eating-habits",
+      "date": "September 1, 2026",
+      "type": "News",
+      "summary_en": "New nutrition AI tools developed by Purdue University researchers could improve how scientists measure diet by capturing eating behaviors in real time instead of relying solely on participants’ recollections.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Purdue Engineering expands degree offerings that target Indianapolis’ workforce needs",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0901-purdue-indianapolis-degree-programs-workforce-needs",
+      "date": "September 1, 2026",
+      "type": "News",
+      "summary_en": "New programs prepare the next generation in the capital city and beyond",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

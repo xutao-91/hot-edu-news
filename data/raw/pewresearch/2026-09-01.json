@@ -1,0 +1,52 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-01T20:00:10.029593",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "About half of Americans say they spend too much time on their smartphone",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/",
+      "date": "Sep 1, 2026",
+      "type": "short reads",
+      "categories": [
+        "Smartphones"
+      ],
+      "summary_en": "Seven-in-ten adults under 30 say they spend too much time on their smartphone, as do about two-thirds of those ages 30 to 49.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Latinos Are Split on Whether the American Dream Is Achievable",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/latinos-are-split-on-whether-the-american-dream-is-achievable/",
+      "date": "Sep 1, 2026",
+      "type": "report",
+      "categories": [
+        "Economic Inequality",
+        "Hispanics Latinos",
+        "Race Ethnicity"
+      ],
+      "summary_en": "Far more Latinos say their standard of living is better than their parents’ (57%), rather than worse (23%). More also say their children’s standard of living will be better than their own (53%) as opposed to worse (14%).",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Who Sees Themselves as Working Class?",
+      "url": "https://www.pewresearch.org/politics/2026/08/31/who-sees-themselves-as-working-class/",
+      "date": "Aug 31, 2026",
+      "type": "data essay",
+      "categories": [
+        "Demographics Politics",
+        "Economics Work Gender",
+        "Economy Work",
+        "Gender Work",
+        "Income Wealth Poverty",
+        "Politics Policy",
+        "Uncategorized"
+      ],
+      "summary_en": "Most Americans think of themselves as working class, and Republicans are more likely to do so than Democrats.",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    }
+  ]
+}

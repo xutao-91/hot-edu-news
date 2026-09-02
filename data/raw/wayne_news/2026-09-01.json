@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-09-01T20:00:13.086147",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "How Wayne State helped an alumnus turn a passion for teaching into leadership",
+      "url": "https://today.wayne.edu/news/2026/09/01/how-wayne-state-helped-an-alumnus-turn-a-passion-for-teaching-into-leadership-70009",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Goldman Sachs 10,000 Small Businesses Detroit program reaches 1,000-graduate milestone",
+      "url": "https://economicdevelopment.wayne.edu/news/goldman-sachs-10000-small-businesses-detroit-program-reaches-1000-graduate-milestone-70069",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State welcomes more than 24,000 students, including largest first-year class in history",
+      "url": "https://today.wayne.edu/news/2026/08/31/wayne-state-welcomes-more-than-24000-students-including-largest-first-year-class-in-history-70057",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-01T20:00:11.252664",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Madhav Rajan reappointed as dean of UChicago’s Booth School of Business",
+      "url": "https://news.uchicago.edu/story/madhav-rajan-reappointed-dean-uchicagos-booth-school-business",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Madhav Rajan has been reappointed for a third term as the Steven S. Wymer Dean of the University of Chicago Booth School of Business, President Paul Alivisatos and Provost Katherine Baicker announced.",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "The New Normal of Extreme Weather",
+      "url": "https://news.uchicago.edu/new-normal-extreme-weather",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New method swaps single atom in a molecule to speed drug discovery",
+      "url": "https://news.uchicago.edu/story/new-method-swaps-single-atom-molecule-speed-drug-discovery",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "UChicago chemists invent faster, cheaper technique to turn isoxazoles into pyrroles, a building block for medicines",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "A Society of Cheats",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/",
+      "date": "2026-08-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

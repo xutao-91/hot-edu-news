@@ -1,0 +1,71 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-01T20:00:11.296524",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "From around the world, students build biotechnology skills in Rockford",
+      "url": "https://today.uic.edu/from-around-the-world-students-build-biotechnology-skills-in-rockford/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Master of Science in Medical Biotechnology Program provides hands-on research experience.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Photos: A new school year kicks off at UIC",
+      "url": "https://today.uic.edu/photos-a-new-school-year-kicks-off-at-uic/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "New and returning students greeted friends and made new ones as the fall semester began.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Standardized patients help medical students learn",
+      "url": "https://today.uic.edu/standardized-patients-help-students-learn/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Students gain hands-on, real-world experience at the College of Medicine Rockford.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Headache Medicine Fellowship Program selects latest fellow",
+      "url": "https://today.uic.edu/headache-medicine-fellowship-program-selects-latest-fellow/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Dr. Mehwish Aziz joins fellowship program at Rockford campus.",
+      "source": "UIC Today",
+      "category": "awards"
+    },
+    {
+      "title": "Man with a plan: UIC grad has a vision for his Garfield Ridge neighborhood",
+      "url": "https://today.uic.edu/the-man-with-a-plan-uic-grad-has-a-vision-for-his-garfield-ridge-neighborhood/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Danny Villalobos has created a plan for neighborhood improvements using his UIC training and community input.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Tradition draws Flames to celebrate convocation and form UIC’s circle mark",
+      "url": "https://today.uic.edu/tradition-draws-flames-to-celebrate-convocation-and-form-uics-circle-mark/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Thousands celebrate the beginning of a new academic year.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC a top 50 best value in Washington Monthly 2026 rankings",
+      "url": "https://today.uic.edu/uic-a-top-50-best-value-in-washington-monthly-2026-rankings/",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Among public universities, UIC ranks in the top 20 nationally and No. 1 in the Midwest.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

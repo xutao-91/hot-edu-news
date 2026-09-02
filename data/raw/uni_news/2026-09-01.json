@@ -1,0 +1,71 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-01T20:00:12.530789",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "UNI awarded nearly $1M to advance Foundry 4.0 Center",
+      "url": "https://insideuni.uni.edu/stem/uni-awarded-nearly-1m-advance-foundry-40-center",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "The investment will add a 3D sand printer and an induction furnace, helping to enhance foundry operations while strengthening UNI’s ability to support applied research, hands-on, real-world student learning and partnerships with Iowa manufacturers.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "True in spirit, strong in knowledge: 150 years at the University of Northern Iowa",
+      "url": "https://insideuni.uni.edu/campus-community/true-spirit-strong-knowledge-150-years-university-northern-iowa",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "The 150-year history of the University of Northern Iowa is featured in the September/October 2026 issue of Iowa History Journal, thanks to an article submitted by Assistant Professor of History Kevin Mason. You can read an excerpt of the story here on Inside UNI!",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI expands dementia outreach and education",
+      "url": "https://insideuni.uni.edu/health/uni-expands-dementia-outreach-and-education",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "A new space in Bartlett Hall expands UNI’s work supporting people living with dementia, caregivers, families and the professionals who serve them.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "A step ahead: UNI’s first nursing students enter final year with extensive clinical experience",
+      "url": "https://insideuni.uni.edu/health/step-ahead-unis-first-nursing-students-enter-final-year-extensive-clinical-experience",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Students in the first-ever cohort of the University of Northern Iowa’s nursing program are entering their final year with strengthened clinical skills and a strong path to their future as registered nurses.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "UNI students dive deep into 150-year history through podcast project",
+      "url": "https://insideuni.uni.edu/campus-community/uni-students-dive-deep-150-year-history-through-podcast-project",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Throughout the spring semester, one group of 28 students worked  on a research project about the history of UNI. By the semester’s end, they shared their findings in the form of a podcast, broadcasting their lessons to the masses.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "What should every UNI student learn? 150 years of an evolving answer",
+      "url": "https://insideuni.uni.edu/what-should-every-uni-student-learn-150-years-evolving-answer",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "A new six-part digital exhibit traces nearly 150 years of general education at UNI, exploring how changing ideas about citizenship, higher education and what every college graduate should know have shaped the university’s curriculum.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI Humanities Hub lecture to highlight career potential of humanities degrees",
+      "url": "https://insideuni.uni.edu/campus-community/uni-humanities-hub-lecture-highlight-career-potential-humanities-degrees",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Robert Townsend's lecture, “Set Up for Success: Making Your Humanities Degree Work,” will take place on Monday, Sept. 21, on the University of Northern Iowa campus.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

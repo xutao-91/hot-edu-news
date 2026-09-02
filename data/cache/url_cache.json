@@ -20278,5 +20278,275 @@
     "fetch_time": "2026-08-31T20:00:16.006889",
     "title": "Shake it off",
     "category": "ai"
+  },
+  "https://www.augie.edu/news/2026/center-western-studies-augustana-university-names-new-leader": {
+    "source": "augie_news",
+    "fetch_time": "2026-09-01T20:00:07.416141",
+    "title": "Center for Western Studies at Augustana University Names New Leader",
+    "category": "education"
+  },
+  "https://chicagoquantum.org/news/matt-zajac-joins-bloch-quantum-director-operations-and-strategic-engagement": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-01T20:00:07.478449",
+    "title": "Matt Zajac joins The Bloch Quantum as a director of operations and strategic engagement",
+    "category": "quantum"
+  },
+  "https://bridgemi.com/talent-education/michigan-colleges-debut-3-year-degrees-in-bid-to-cut-costs-attract-students/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-09-01T20:00:07.560473",
+    "title": "Michigan colleges debut 3-year degrees in bid to cut costs, attract students",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/icymi-doj-justice-department-sues-kansas-city-kansas-public-schools-stop-secret-gender-transitions": {
+    "source": "edgov",
+    "fetch_time": "2026-09-01T20:00:07.898107",
+    "title": "ICYMI: DOJ- Justice Department Sues Kansas City, Kansas Public Schools to Stop Secret Gender Transitions",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/illinois-tech-athletics-digest-away-we-go": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-01T20:00:08.073053",
+    "title": "Illinois Tech Athletics Digest: Away We Go",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/driving-innovation-ecocar-ev-challenge": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-01T20:00:08.073053",
+    "title": "Driving Innovation in the EcoCAR EV Challenge",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52701-iu-bloomington-named-top-public-indiana": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-01T20:00:08.482614",
+    "title": "IU Bloomington named top public Indiana institution for contribution to public good",
+    "category": "semiconductor"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-dean-of-the-school-of-medicine": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-09-01T20:00:09.074216",
+    "title": "Medical College of Wisconsin Announces Dean of the School of Medicine",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/latin-patriarchate-of-jerusalem-to-launch-academic-forum-in-partnership-with-notre-dame/": {
+    "source": "nd_news",
+    "fetch_time": "2026-09-01T20:00:09.256005",
+    "title": "Latin Patriarchate of Jerusalem to launch academic forum in partnership with Notre Dame",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/01/about-half-of-americans-say-they-spend-too-much-time-on-their-smartphone/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-01T20:00:10.123873",
+    "title": "About half of Americans say they spend too much time on their smartphone",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/race-and-ethnicity/2026/09/01/latinos-are-split-on-whether-the-american-dream-is-achievable/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-01T20:00:10.123873",
+    "title": "Latinos Are Split on Whether the American Dream Is Achievable",
+    "category": "semiconductor"
+  },
+  "https://oneill.indiana.edu/news/2026-0901-bell-cimpad-conference.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-01T20:00:10.220687",
+    "title": "Bell represents O'Neill School at CIMPAD Conference in Angola",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0901-new-faculty.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-01T20:00:10.220687",
+    "title": "O'Neill School welcomes five new faculty members",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/bowen-school-construction-launches-boilerbuilt-insights-speaker-series": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-01T20:00:10.849594",
+    "title": "Bowen School of Construction launches BoilerBuilt Insights speaker series",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-09-01/mass-holy-spirit-kicks-academic-year": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-09-01T20:00:11.237567",
+    "title": "Mass of the Holy Spirit Kicks Off Academic Year",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-09-01/faculty-staff-recognized-service-contributions": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-09-01T20:00:11.237567",
+    "title": "Faculty, Staff Recognized for Service, Contributions",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/09/beef-stocker-field-day-convenes-beef-experts-in-manhattan.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-09-01T20:00:11.239576",
+    "title": "Beef experts convene in Manhattan to address industry changes",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/madhav-rajan-reappointed-dean-uchicagos-booth-school-business": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-01T20:00:11.347213",
+    "title": "Madhav Rajan reappointed as dean of UChicago’s Booth School of Business",
+    "category": "education"
+  },
+  "https://today.uic.edu/from-around-the-world-students-build-biotechnology-skills-in-rockford/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-01T20:00:11.396104",
+    "title": "From around the world, students build biotechnology skills in Rockford",
+    "category": "education"
+  },
+  "https://today.uic.edu/photos-a-new-school-year-kicks-off-at-uic/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-01T20:00:11.396104",
+    "title": "Photos: A new school year kicks off at UIC",
+    "category": "education"
+  },
+  "https://today.uic.edu/standardized-patients-help-students-learn/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-01T20:00:11.396104",
+    "title": "Standardized patients help medical students learn",
+    "category": "education"
+  },
+  "https://today.uic.edu/headache-medicine-fellowship-program-selects-latest-fellow/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-01T20:00:11.396104",
+    "title": "Headache Medicine Fellowship Program selects latest fellow",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/the-man-with-a-plan-uic-grad-has-a-vision-for-his-garfield-ridge-neighborhood/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-01T20:00:11.396104",
+    "title": "Man with a plan: UIC grad has a vision for his Garfield Ridge neighborhood",
+    "category": "ai"
+  },
+  "https://today.uic.edu/tradition-draws-flames-to-celebrate-convocation-and-form-uics-circle-mark/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-01T20:00:11.396104",
+    "title": "Tradition draws Flames to celebrate convocation and form UIC’s circle mark",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0901-purdue-sense-study-ai-nutrition-eating-habits": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-01T20:00:12.361763",
+    "title": "ECE's Zhu partners with HHS researchers on new nutrition AI tool",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0901-purdue-indianapolis-degree-programs-workforce-needs": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-01T20:00:12.361763",
+    "title": "Purdue Engineering expands degree offerings that target Indianapolis’ workforce needs",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/stem/uni-awarded-nearly-1m-advance-foundry-40-center": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-01T20:00:12.576507",
+    "title": "UNI awarded nearly $1M to advance Foundry 4.0 Center",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/true-spirit-strong-knowledge-150-years-university-northern-iowa": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-01T20:00:12.576507",
+    "title": "True in spirit, strong in knowledge: 150 years at the University of Northern Iowa",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/health/uni-expands-dementia-outreach-and-education": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-01T20:00:12.576507",
+    "title": "UNI expands dementia outreach and education",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/health/step-ahead-unis-first-nursing-students-enter-final-year-extensive-clinical-experience": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-01T20:00:12.576507",
+    "title": "A step ahead: UNI’s first nursing students enter final year with extensive clinical experience",
+    "category": "education"
+  },
+  "https://news.wisc.edu/convocation-2026-heeding-advice-finding-community-and-having-a-beginners-mind/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "Convocation 2026: Heeding advice, finding community and having ‘a beginner’s mind’",
+    "category": "education"
+  },
+  "https://morgridge.org/story/eric-perreault-named-new-ceo-of-morgridge-institute-for-research/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "Eric Perreault named new CEO of Morgridge Institute for Research",
+    "category": "education"
+  },
+  "https://news.wisc.edu/the-best-social-media-accounts-to-follow-in-badgerland-3/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "The best social media accounts to follow in Badgerland",
+    "category": "general"
+  },
+  "https://news.wisc.edu/the-w-connection/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "The ‘W’ connection",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/washu-faculty-receive-promotions/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "WashU faculty receive promotions",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/leading-the-law-review-a-conversation-with-editor-in-chief-caleb-rogers/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "Leading the Law Review: A conversation with editor-in-chief Caleb Rogers",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/sawyer-seminar-lecture-series-to-launch-sept-10/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-01T20:00:12.788110",
+    "title": "Sawyer Seminar Lecture Series to launch Sept. 10",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/09/01/how-wayne-state-helped-an-alumnus-turn-a-passion-for-teaching-into-leadership-70009": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-01T20:00:13.127371",
+    "title": "How Wayne State helped an alumnus turn a passion for teaching into leadership",
+    "category": "general"
+  },
+  "https://economicdevelopment.wayne.edu/news/goldman-sachs-10000-small-businesses-detroit-program-reaches-1000-graduate-milestone-70069": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-01T20:00:13.127371",
+    "title": "Goldman Sachs 10,000 Small Businesses Detroit program reaches 1,000-graduate milestone",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researcher-leading-the-way-in-search-of-first-ever-treatment-for-common-heart-valve-disease/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-01T20:00:13.700868",
+    "title": "Mizzou researcher leading the way in search of first-ever treatment for common heart valve disease",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/internationally-recognized-physician-and-leader-ross-zafonte-named-interim-dean-of-the-school-of-medicine/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-01T20:00:13.700868",
+    "title": "Internationally recognized physician and leader Ross Zafonte named interim dean of the School of Medicine",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/media-advisory-university-of-missouri-to-celebrate-historic-day-on-sept-2-with-several-events/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-01T20:00:13.700868",
+    "title": "MEDIA ADVISORY: University of Missouri to celebrate historic day on Sept. 2 with several events",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/dia-delivers-colorful-tribute-for-nebraska-citys-america-250-celebration": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-01T20:00:14.590606",
+    "title": "Dia delivers colorful tribute for Nebraska City's America 250 celebration",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/carson-legacy-takes-flight-from-late-night-tv-to-lunar-missions": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-01T20:00:14.590606",
+    "title": "Carson legacy takes flight from late-night TV to lunar missions",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/11-nebraska-arts-alumni-who-helped-shape-americas-story": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-01T20:00:14.590606",
+    "title": "11 Nebraska arts alumni who helped shape America’s story",
+    "category": "semiconductor"
   }
 }

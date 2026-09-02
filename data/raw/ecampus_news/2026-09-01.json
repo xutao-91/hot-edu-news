@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-01T20:00:07.454104",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The hidden link between AI strategy and student retention",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/08/31/the-hidden-link-between-ai-strategy-and-student-retention/",
+      "date": "2026-08-31",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "As retention becomes one of the most important drivers of institutional stability, many colleges and universities are turning to AI to better identify struggling students, personalize support, reduce administrative burdens, and help staff intervene before challenges escalate.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

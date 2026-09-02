@@ -1,0 +1,26 @@
+{
+  "source": "Rockhurst University News",
+  "source_url": "https://www.rockhurst.edu/news",
+  "crawled_at": "2026-09-01T20:00:11.147671",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Mass of the Holy Spirit Kicks Off Academic Year",
+      "url": "https://www.rockhurst.edu/news/2026-09-01/mass-holy-spirit-kicks-academic-year",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "On Tuesday, the Rockhurst University campus community came together for a Jesuit tradition — the Mass of the Holy Spirit.",
+      "source": "Rockhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Faculty, Staff Recognized for Service, Contributions",
+      "url": "https://www.rockhurst.edu/news/2026-09-01/faculty-staff-recognized-service-contributions",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "As part of the All Companions Assembly on Aug. 19 that kicked off the academic year, Rockhurst University recognized several faculty and staff for both outstanding contributions and their years of service.",
+      "source": "Rockhurst News",
+      "category": "business"
+    }
+  ]
+}
