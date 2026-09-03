@@ -4,7 +4,24 @@
         "days_to_fetch": 4,
         "timeout": 120,
         "disabled_sources": [
-            "hanover_research"
+            "anl_news",
+            "hanover_research",
+            "umich_engineering",
+            "umich_ford",
+            "umich_isr",
+            "umich_medschool",
+            "umich_umsi",
+            "aacu",
+            "airweb",
+            "american_progress",
+            "carnegie",
+            "cnas",
+            "crpe",
+            "ecs",
+            "edweek",
+            "hudson",
+            "ies",
+            "urban_education"
         ]
     },
     "paths": {
