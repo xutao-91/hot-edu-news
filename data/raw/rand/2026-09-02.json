@@ -1,0 +1,89 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-02T20:00:13.028740",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "When Disaster Strikes, Could AI Help? Q&A with Jessica Jensen",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/when-disaster-strikes-could-ai-help-qa-with-jessica.html",
+      "date": "Sep 2, 2026",
+      "type": "Commentary",
+      "summary_en": "Disasters are more frequent, more severe, and more costly. Pressure is mounting on emergency managers and the organizations that support them. Senior policy researcher Jessica Jensen discusses how artificial intelligence could help carry some of that burden.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Countering Model Distillation: Limits and Alternatives",
+      "url": "https://www.rand.org/pubs/perspectives/PEA5081-1.html",
+      "date": "Sep 2, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Artificial intelligence model distillation (training new models on outputs of more capable ones) could affect U.S. frontier model advantage. New policy tools could augment such technical countermeasures as raising costs or reducing model quality.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "A Standardized Framework for Assessing High-Risk Life Sciences Research: Defining Objective Criteria That Can Facilitate Expert and AI Reviews of Dangerous Gain-of-Function Research",
+      "url": "https://www.rand.org/pubs/working_papers/WRA5251-1.html",
+      "date": "Sep 2, 2026",
+      "type": "Publication",
+      "summary_en": "Recent federal policies establish funding prohibitions and review requirements for certain high-risk life sciences research. The authors advise that federal agencies adopt an objective decisionmaking framework for dangerous gain-of-function research.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Operational reliance on AI in supply chains and emerging insurance risks",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5093-1.html",
+      "date": "Sep 2, 2026",
+      "type": "Research",
+      "summary_en": "Artificial intelligence (AI) is becoming embedded in supply chains. This report examines how that changes operational reliance, resilience, and insurance risk across logistics, transport, and warehousing.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Preparing Students for What Comes Next: Educator and Student Perspectives on Career-Connected Learning in K–12 Schools",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5137-1.html",
+      "date": "Aug 31, 2026",
+      "type": "Research",
+      "summary_en": "The authors analyze data from three RAND survey panels to examine career-connected learning in kindergarten through grade 12 schools in academic year 2025–2026 using the perspectives of district leaders, school leaders, and high school students.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "Prevalence of Mental Health Discussions in Publicly Available Generative AI Conversations",
+      "url": "https://www.rand.org/pubs/external_publications/EP71368.html",
+      "date": "Aug 31, 2026",
+      "type": "Research",
+      "summary_en": "We aimed to quantify how prevalence varies under conservative vs expansive definitions of mental health by using a large public dataset of chatbot transcripts.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "From Occurrence to Consequence: Unraveling Urban Building Fire Risk",
+      "url": "https://www.rand.org/pubs/external_publications/EP71471.html",
+      "date": "Aug 31, 2026",
+      "type": "Research",
+      "summary_en": "In this work, we analyze more than one million fire incident reports and integrate them with community-level socioeconomic indicators, building inventories, weather conditions, and incident-specific characteristics.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "The Effect of Removing Point-of-Purchase Price Discounts on College Students’ Future Tobacco Use Susceptibility Depends on Price Sensitivity",
+      "url": "https://www.rand.org/pubs/external_publications/EP71431.html",
+      "date": "Aug 31, 2026",
+      "type": "Research",
+      "summary_en": "Tobacco companies use point-of-sale discounts and coupons to sustain demand and normalize tobacco use. Removing price promotions could counteract these effects.",
+      "source": "Rand Corporation",
+      "category": "students"
+    },
+    {
+      "title": "Tax Policy Options to Promote Employment and Mitigate Federal Revenue Impacts in the Age of AI",
+      "url": "https://www.rand.org/pubs/perspectives/PEA4392-3.html",
+      "date": "Aug 31, 2026",
+      "type": "Expert Insights",
+      "summary_en": "AI may lower federal revenue from labor taxes. The authors of this paper propose a six-category framework of tax code reform options that could stabilize revenue and protect jobs.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

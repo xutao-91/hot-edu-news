@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-02T20:00:16.775605",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Jennifer Buehler, Ph.D.: 1970-2026",
+      "url": "https://www.slu.edu/news/2026/september/jennifer-buehler-obituary.php",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "Jennifer Buehler, Ph.D., associate professor of educational studies at Saint Louis University, died Friday, Aug. 28, 2026.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Autism Diagnoses Rising Fastest Among Girls and Women, According to New JAMA Research",
+      "url": "https://www.slu.edu/news/2026/august/autism-diagnosis-rising-jama-research.php",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "A new Saint Louis University study of nearly a decade of health records finds that the recent rise in autism spectrum disorder (ASD) diagnoses is being driven largely by girls and women, who are being identified at significantly higher rates than in years past, often years later than boys and men. The JAMA Network study, led by Erick Messias, M.D., Ph.D., chair and professor of Psychiatry and Beha",
+      "source": "SLU News",
+      "category": "research"
+    }
+  ]
+}

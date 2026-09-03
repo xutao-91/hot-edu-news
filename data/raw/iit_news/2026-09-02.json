@@ -1,0 +1,53 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-09-02T20:00:08.793342",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Chicago-Kent Professor James Tierney Elected to The American Law Institute",
+      "url": "https://www.iit.edu/news/chicago-kent-professor-james-tierney-elected-american-law-institute",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "“Election to The American Law Institute is an extraordinary honor,” James F. Tierney says. “For generations, the institute has played a central role in shaping and clarifying American law, and I am...",
+      "source": "IIT News",
+      "category": "law"
+    },
+    {
+      "title": "Illinois Tech Athletics Digest: Away We Go",
+      "url": "https://www.iit.edu/news/illinois-tech-athletics-digest-away-we-go",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Each week, the Illinois Tech Athletics Digest will look back at the week that was in Scarlet Hawks athletics and provide a brief glimpse at what is up next. As the fall 2026 semester kicks into gear...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Driving Innovation in the EcoCAR EV Challenge",
+      "url": "https://www.iit.edu/news/driving-innovation-ecocar-ev-challenge",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Illinois Tech students spent the last four years re-engineering a stock 2023 Cadillac Lyric into an award-winning, next-generation electric vehicle as part of the EcoCAR EV Challenge. More than 200...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "$76 Million in Philanthropic Commitments to Advance Illinois Tech’s Academic Transformation",
+      "url": "https://www.iit.edu/news/76-million-philanthropic-commitments-advance-illinois-techs-academic-transformation",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "Illinois Tech has announced $76 million in recent philanthropic commitments to invest in students and advance the university’s student-first academic transformation. Led by a landmark $25 million...",
+      "source": "IIT News",
+      "category": "academic"
+    },
+    {
+      "title": "Illinois Tech Announces $76 Million in Philanthropic Commitments to Advance Student Success and Academic Transformation",
+      "url": "https://www.iit.edu/news/illinois-tech-announces-76-million-philanthropic-commitments-advance-student-success-and-academic",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "CHICAGO—August 31, 2026—Illinois Institute of Technology (Illinois Tech) today announced $76 million in recent philanthropic commitments to invest in students and advance the university’s student-first academic transformation. Led by a landmark $25 million commitment from University Regent Craig Duchossois and his wife, Janet, the collective support from alumni, trustees, foundations, and corporat",
+      "source": "IIT News",
+      "category": "academic"
+    }
+  ]
+}

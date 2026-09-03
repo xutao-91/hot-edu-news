@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-09-02T20:00:08.840954",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New ISU demonstration site to put public spotlight on water-quality best practices",
+      "url": "https://www.news.iastate.edu/news/new-isu-demonstration-site-put-public-spotlight-water-quality-best-practices",
+      "date": "2026-09-02",
+      "type": "Agriculture",
+      "summary_en": "With help from a $1 million federal grant, Iowa State University is developing the Watershed Innovation Farm – a demonstration site for showcasing nature-based water-quality measures such as saturated buffers, bioreactors and wetlands.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

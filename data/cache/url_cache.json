@@ -20548,5 +20548,263 @@
     "fetch_time": "2026-09-01T20:00:14.590606",
     "title": "11 Nebraska arts alumni who helped shape America’s story",
     "category": "semiconductor"
+  },
+  "https://chicagoquantum.org/news/quantum-designs-michelle-lehman-blends-her-love-art-and-science": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-02T20:00:08.859936",
+    "title": "Quantum Design’s Michelle Lehman blends her love of art and science",
+    "category": "quantum"
+  },
+  "https://www.iit.edu/news/chicago-kent-professor-james-tierney-elected-american-law-institute": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-02T20:00:08.893414",
+    "title": "Chicago-Kent Professor James Tierney Elected to The American Law Institute",
+    "category": "semiconductor"
+  },
+  "https://www.news.iastate.edu/news/new-isu-demonstration-site-put-public-spotlight-water-quality-best-practices": {
+    "source": "iastate_news",
+    "fetch_time": "2026-09-02T20:00:08.955856",
+    "title": "New ISU demonstration site to put public spotlight on water-quality best practices",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-09-02-ozogul-selected-for-big-ten-leadership-program.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-09-02T20:00:09.245748",
+    "title": "Ozogul selected for Big Ten leadership program",
+    "category": "ai"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/elegant-mechanical-design-leads-msoe-to-third-place-robotics-competition-finish": {
+    "source": "msoe",
+    "fetch_time": "2026-09-02T20:00:10.383798",
+    "title": "“Elegant mechanical design” leads MSOE to third place robotics competition finish",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-center-for-professional-education-announces-collaborative-partnership-with-american-society-for-quality": {
+    "source": "msoe",
+    "fetch_time": "2026-09-02T20:00:10.383798",
+    "title": "MSOE Center for Professional Education announces collaborative partnership with American Society for Quality",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/09/02/your-institutions-ai-strategy-needs-instructional-designers/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-09-02T20:00:11.775713",
+    "title": "Your institution’s AI strategy needs instructional designers",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/09/evanston-mashup-is-on-the-northwestern-campus-this-year": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-09-02T20:00:12.030387",
+    "title": "Evanston MashUp is on the Northwestern campus this year",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/02/americans-have-grown-more-skeptical-that-a-woman-will-be-president-in-their-lifetime/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-02T20:00:12.352560",
+    "title": "Americans have grown more skeptical that a woman will be president in their lifetime",
+    "category": "semiconductor"
+  },
+  "https://www.elmhurst.edu/news/presidents-awards-for-excellence-in-teaching/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-09-02T20:00:12.584867",
+    "title": "Elmhurst U. Presents 2026 President’s Excellence in Teaching Awards",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/commentary/2026/09/when-disaster-strikes-could-ai-help-qa-with-jessica.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-02T20:00:13.111361",
+    "title": "When Disaster Strikes, Could AI Help? Q&A with Jessica Jensen",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA5081-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-02T20:00:13.111361",
+    "title": "Countering Model Distillation: Limits and Alternatives",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/working_papers/WRA5251-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-02T20:00:13.111361",
+    "title": "A Standardized Framework for Assessing High-Risk Life Sciences Research: Defining Objective Criteria That Can Facilitate Expert and AI Reviews of Dangerous Gain-of-Function Research",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5093-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-02T20:00:13.111361",
+    "title": "Operational reliance on AI in supply chains and emerging insurance risks",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/military-aircraft-to-fly-over-ku-campus-thursday-friday-in-advance-of-football-game": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-02T20:00:13.251436",
+    "title": "Military aircraft to fly over KU campus Thursday, Friday in advance of football game",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-alumna-nasa-astronaut-loral-ohara-to-headline-ku-reads-event-oct-8": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-02T20:00:13.251436",
+    "title": "KU alumna, NASA astronaut Loral O’Hara to headline KU Reads event Oct. 8",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-law-professor-traces-legal-history-of-the-kiss": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-02T20:00:13.251436",
+    "title": "KU law professor traces legal history of the kiss",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/university-honors-program-announces-five-additions-to-honors-faculty-fellow-cohort": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-02T20:00:13.251436",
+    "title": "University Honors Program announces five additions to Honors Faculty Fellow cohort",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/what-read-during-americas-250th-anniversary": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-02T20:00:13.288619",
+    "title": "What to read during America’s 250th anniversary",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/targeting-two-proteins-to-prevent-pulmonary-hypertension/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-02T20:00:13.446634",
+    "title": "Targeting two proteins to prevent pulmonary hypertension",
+    "category": "semiconductor"
+  },
+  "/news/2026/09/more-water-tower-how-uis-new-standpipe-keeps-campus-running": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-02T20:00:13.709640",
+    "title": "More than a water tower: How UI's new standpipe keeps campus running",
+    "category": "general"
+  },
+  "https://news.wisc.edu/a-first-day-of-classes-full-of-motion/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-02T20:00:14.984393",
+    "title": "A first day of classes, full of motion",
+    "category": "general"
+  },
+  "https://news.wisc.edu/welcome-to-a-new-semester-of-possibility/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-02T20:00:14.984393",
+    "title": "Welcome to a new semester of possibility",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/A-unique-solution-for-bioelectronics-collagen-and-cacao-butter.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-09-02T20:00:15.131998",
+    "title": "A unique solution for bioelectronics: collagen and cacao butter",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/nebraska-in-the-national-news-august-2026": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-02T20:00:15.142160",
+    "title": "Nebraska in the national news: August 2026",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/rural-nebraskans-face-well-being-challenges-poll-shows": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-02T20:00:15.142160",
+    "title": "Rural Nebraskans face well-being challenges, poll shows",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/09/assistance-needed-in-aisle-1-what-missouri-wic-families-face/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-02T20:00:15.170104",
+    "title": "Assistance needed in Aisle 1: What Missouri WIC families face",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/carolina-caycedo-on-growing-deep-roots/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-02T20:00:15.170104",
+    "title": "Carolina Caycedo on ‘Growing Deep Roots’",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/09/the-color-purple-opens-black-reps-50th-season/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-02T20:00:15.170104",
+    "title": "‘The Color Purple’ opens Black Rep’s 50th season",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/09/costa-rica-study-abroad-education.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-09-02T20:00:15.223362",
+    "title": "The universal language of learning",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/09/budget-transformation-update-compensation-study-implementation-plan.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-09-02T20:00:15.223362",
+    "title": "An update on Budget Transformation and one of the key efforts it supports: Compensation Study implementation",
+    "category": "semiconductor"
+  },
+  "https://www.k-state.edu/news/articles/2026/09/morse-family-scholarship-strengthens-professional-skills-for-erin-driscoll.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-09-02T20:00:15.223362",
+    "title": "Morse Scholarship recipient gains experience in agricultural policy, advocacy",
+    "category": "education"
+  },
+  "https://www.k-state.edu/news/articles/2026/09/wildcat-scholar-connects-university-researchers-with-the-world.html": {
+    "source": "kstate_news",
+    "fetch_time": "2026-09-02T20:00:15.223362",
+    "title": "Wildcat Scholar launches publicly, connecting K-State expertise to the world",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "President Trump Secures the Biggest Oil Deal in World History",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "Congressional Bill H.R. 6500 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/g20-innovation-ministerial-concludes-with-consensus-statement/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "G20 Innovation Ministerial Concludes with Consensus Statement",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-preparedness-month-6e71/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "Presidential Message on National Preparedness Month",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-childhood-cancer-awareness-month/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "Presidential Message on National Childhood Cancer Awareness Month",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-recovery-month/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "Presidential Message on National Recovery Month",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/ten-times-extreme-liberal-democrats-in-congress-put-their-dangerous-agenda-ahead-of-the-american-people/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-02T20:00:15.368028",
+    "title": "Ten Times Extreme Liberal Democrats in Congress Put Their Dangerous Agenda Ahead of the American People",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/historic-50-million-gift-powers-payne-energy-innovation-center-at-mizzou/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-02T20:00:15.787020",
+    "title": "Historic $50 million gift powers Payne Energy Innovation Center at Mizzou",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researchers-uncover-promising-new-target-for-treating-high-blood-pressure/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-02T20:00:15.787020",
+    "title": "Mizzou researchers uncover promising new target for treating high blood pressure",
+    "category": "general"
+  },
+  "https://www.slu.edu/news/2026/september/jennifer-buehler-obituary.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-02T20:00:16.813956",
+    "title": "Jennifer Buehler, Ph.D.: 1970-2026",
+    "category": "education"
   }
 }

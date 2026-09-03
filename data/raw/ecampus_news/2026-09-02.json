@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-02T20:00:11.667959",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Your institution’s AI strategy needs instructional designers",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/02/your-institutions-ai-strategy-needs-instructional-designers/",
+      "date": "2026-09-02",
+      "type": "AI in Education",
+      "summary_en": "Higher education institutions are investing significant time in selecting AI tools, developing policies, and encouraging faculty experimentation. Yet one of the most important parts of an institutional AI strategy may be receiving far less attention: the people who help educators connect technology to the realities of teaching.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "The hidden link between AI strategy and student retention",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/08/31/the-hidden-link-between-ai-strategy-and-student-retention/",
+      "date": "2026-08-31",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "As retention becomes one of the most important drivers of institutional stability, many colleges and universities are turning to AI to better identify struggling students, personalize support, reduce administrative burdens, and help staff intervene before challenges escalate.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}
