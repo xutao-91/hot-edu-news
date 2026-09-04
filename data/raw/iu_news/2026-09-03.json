@@ -1,0 +1,53 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-03T20:00:09.979524",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Indiana University enrollment increases as new undergraduate student demand drives growth",
+      "url": "https://news.iu.edu/live/news/52715-indiana-university-enrollment-increases-as-new",
+      "date": "Sep 3, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Clinic prepares future dentists to serve patients with complex health needs",
+      "url": "https://news.iu.edu/live/news/52707-clinic-prepares-future-dentists-to-serve-patients-with",
+      "date": "Sep 3, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU Bloomington named top public Indiana institution for contribution to public good",
+      "url": "https://news.iu.edu/live/news/52701-iu-bloomington-named-top-public-indiana",
+      "date": "Sep 1, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU collaboration brings fresh perspectives to Monon South Trail development",
+      "url": "https://news.iu.edu/rural/live/news/52699-iu-collaboration-brings-fresh-perspectives-to",
+      "date": "Sep 2, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU’s brain health ‘powerhouse’ targets inflammation in fight against Parkinson’s",
+      "url": "https://news.iu.edu/live/news/52681-ius-brain-health-powerhouse-targets-inflammation-in-fi",
+      "date": "Aug 31, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-09-03T20:00:11.252978",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Latin Patriarchate of Jerusalem to launch academic forum in partnership with Notre Dame",
+      "url": "https://news.nd.edu/news/latin-patriarchate-of-jerusalem-to-launch-academic-forum-in-partnership-with-notre-dame/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Center for Citizenship and Constitutional Government to mark 25th anniversary of 9/11 with panel sharing personal experiences, reflecting on legacy",
+      "url": "https://news.nd.edu/news/center-for-citizenship-and-constitutional-government-to-mark-25th-anniversary-of-9-11-with-panel-sharing-personal-experiences-reflecting-on-legacy/",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

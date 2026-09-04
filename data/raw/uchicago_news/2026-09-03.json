@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-03T20:00:13.618367",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "South Pole Telescope releases clearest map ever of matter in the distant universe",
+      "url": "https://news.uchicago.edu/story/south-pole-telescope-releases-clearest-map-ever-matter-distant-universe",
+      "date": "2026-09-03",
+      "type": "News",
+      "summary_en": "Study led by UChicago researchers uses bending by gravity of the oldest light in the universe to map the intervening structure",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What to read during America’s 250th anniversary",
+      "url": "https://news.uchicago.edu/story/what-read-during-americas-250th-anniversary",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "From constitutional origins to ‘common-sense’ quotes from a revolutionary thinker, these picks from UChicago Press help tell country’s story",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Madhav Rajan reappointed as dean of UChicago’s Booth School of Business",
+      "url": "https://news.uchicago.edu/story/madhav-rajan-reappointed-dean-uchicagos-booth-school-business",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Madhav Rajan has been reappointed for a third term as the Steven S. Wymer Dean of the University of Chicago Booth School of Business, President Paul Alivisatos and Provost Katherine Baicker announced.",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "The New Normal of Extreme Weather",
+      "url": "https://news.uchicago.edu/new-normal-extreme-weather",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New method swaps single atom in a molecule to speed drug discovery",
+      "url": "https://news.uchicago.edu/story/new-method-swaps-single-atom-molecule-speed-drug-discovery",
+      "date": "2026-08-31",
+      "type": "News",
+      "summary_en": "UChicago chemists invent faster, cheaper technique to turn isoxazoles into pyrroles, a building block for medicines",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

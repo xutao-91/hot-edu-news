@@ -1,0 +1,26 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-09-03T20:00:07.869363",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Quantum Design’s Michelle Lehman blends her love of art and science",
+      "url": "https://chicagoquantum.org/news/quantum-designs-michelle-lehman-blends-her-love-art-and-science",
+      "date": "2026-09-02",
+      "summary_en": "How a neuroscience degree and a 3D animation class led one science communicator to the quantum world",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Matt Zajac joins The Bloch Quantum as a director of operations and strategic engagement",
+      "url": "https://chicagoquantum.org/news/matt-zajac-joins-bloch-quantum-director-operations-and-strategic-engagement",
+      "date": "2026-09-01",
+      "summary_en": "",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

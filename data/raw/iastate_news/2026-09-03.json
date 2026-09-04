@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-09-03T20:00:09.639030",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Iowa State-led team uses data and AI to design next-generation organic electronic materials",
+      "url": "https://www.news.iastate.edu/news/iowa-state-led-team-uses-data-and-ai-design-next-generation-organic-electronic-materials",
+      "date": "2026-09-03",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State's Wenjie Xia is leading a team developing data-driven, materials-by-design approaches to discover organic electronic materials. The materials could be used for flexible electronics, wearable sensors, bioelectronics and other emerging technologies.",
+      "source": "Iowa State News",
+      "category": "arts"
+    },
+    {
+      "title": "New ISU demonstration site to put public spotlight on water-quality best practices",
+      "url": "https://www.news.iastate.edu/news/new-isu-demonstration-site-put-public-spotlight-water-quality-best-practices",
+      "date": "2026-09-02",
+      "type": "Agriculture",
+      "summary_en": "With help from a $1 million federal grant, Iowa State University is developing the Watershed Innovation Farm – a demonstration site for showcasing nature-based water-quality measures such as saturated buffers, bioreactors and wetlands.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}
