@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-04T20:00:15.519438",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UChicago-led team builds AI data filter for CERN's particle collider",
+      "url": "https://news.uchicago.edu/story/uchicago-led-team-builds-ai-data-filter-cerns-particle-collider",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "Award-winning research merges computer science and physics to preserve rare events, boost discovery",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "South Pole Telescope releases clearest map ever of matter in the distant universe",
+      "url": "https://news.uchicago.edu/story/south-pole-telescope-releases-clearest-map-ever-matter-distant-universe",
+      "date": "2026-09-03",
+      "type": "News",
+      "summary_en": "Study led by UChicago researchers uses bending by gravity of the oldest light in the universe to map the intervening structure",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What to read during America’s 250th anniversary",
+      "url": "https://news.uchicago.edu/story/what-read-during-americas-250th-anniversary",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "From constitutional origins to ‘common-sense’ quotes from a revolutionary thinker, these picks from UChicago Press help tell country’s story",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Madhav Rajan reappointed as dean of UChicago’s Booth School of Business",
+      "url": "https://news.uchicago.edu/story/madhav-rajan-reappointed-dean-uchicagos-booth-school-business",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Madhav Rajan has been reappointed for a third term as the Steven S. Wymer Dean of the University of Chicago Booth School of Business, President Paul Alivisatos and Provost Katherine Baicker announced.",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-09-04T20:00:09.811050",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "See how your local Michigan school district did in the 2026 M-STEP",
+      "url": "https://bridgemi.com/talent-education/see-how-your-local-michigan-school-district-did-in-the-2026-m-step/",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "Scores vary across the state. Use this tool to look up your local school.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
+    {
+      "title": "Michigan reading scores drop again. State superintendent: ‘We need to improve’",
+      "url": "https://bridgemi.com/talent-education/michigan-reading-scores-drop-again-state-superintendent-we-need-to-improve/",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "Michigan students took standardized tests in the spring. But reading scores have dropped slightly from the year before across grades.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "politics"
+    },
+    {
+      "title": "Michigan colleges debut 3-year degrees in bid to cut costs, attract students",
+      "url": "https://bridgemi.com/talent-education/michigan-colleges-debut-3-year-degrees-in-bid-to-cut-costs-attract-students/",
+      "date": "2026-09-01",
+      "type": "News",
+      "summary_en": "Four Michigan colleges unveil three-year bachelor’s degrees amid a national movement, enrollment struggles and controversy.",
+      "author": "Kim Kozlowski",
+      "source": "Bridge Michigan",
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-04T20:00:16.881557",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "The U.S. National Science Foundation renews NSF IceCube operation and maintenance contract",
+      "url": "https://icecube.wisc.edu/news/awards/2026/08/the-u-s-national-science-foundation-renews-nsf-icecube-operation-and-maintenance-contract/",
+      "date": "September 3, 2026",
+      "type": "News",
+      "summary_en": "The IceCube Neutrino Observatory, managed by UW–Madison, has secured $53 million in NSF funding through 2031.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "A first day of classes, full of motion",
+      "url": "https://news.wisc.edu/a-first-day-of-classes-full-of-motion/",
+      "date": "September 2, 2026",
+      "type": "News",
+      "summary_en": "The start of the fall semester was marked by new places and faces.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Welcome to a new semester of possibility",
+      "url": "https://news.wisc.edu/welcome-to-a-new-semester-of-possibility/",
+      "date": "September 2, 2026",
+      "type": "News",
+      "summary_en": "A message to the campus community from interim Chancellor Eric Wilcots as UW–Madison kicks off the 2026-27 academic year.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Convocation 2026: Heeding advice, finding community and having ‘a beginner’s mind’",
+      "url": "https://news.wisc.edu/convocation-2026-heeding-advice-finding-community-and-having-a-beginners-mind/",
+      "date": "September 1, 2026",
+      "type": "News",
+      "summary_en": "Thousands of new students packed the Kohl Center for their formal welcome to the world of being a Badger.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Eric Perreault named new CEO of Morgridge Institute for Research",
+      "url": "https://morgridge.org/story/eric-perreault-named-new-ceo-of-morgridge-institute-for-research/",
+      "date": "September 1, 2026",
+      "type": "News",
+      "summary_en": "Perreault, a biomedical engineering professor and research executive at Northwestern University, will begin his tenure in early 2027.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "The best social media accounts to follow in Badgerland",
+      "url": "https://news.wisc.edu/the-best-social-media-accounts-to-follow-in-badgerland-3/",
+      "date": "September 1, 2026",
+      "type": "News",
+      "summary_en": "Events, announcements and more. These accounts are just a few of the ways to stay connected to all things UW–Madison.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

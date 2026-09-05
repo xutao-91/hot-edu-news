@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-04T20:00:15.590256",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Two years after purchase, WashU has no ‘overall plan’ for Fontbonne campus",
+      "url": "https://www.studlife.com/news/2026/09/02/two-years-after-purchase-washu-has-no-overall-plan-for-fontbonne-campus",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "",
+      "author": "Nicholas Demba",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Former Trump lawyer who worked to overturn 2020 election speaks at WashU Law",
+      "url": "https://www.studlife.com/news/2026/09/02/former-trump-lawyer-who-worked-to-overturn-2020-election-speaks-at-washu-law",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "",
+      "author": "Nicholas Demba",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}
