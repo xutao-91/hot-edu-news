@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-05T20:00:19.176041",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "SLU Professor Named to Nursing Honor Society's Hall of Fame",
+      "url": "https://www.slu.edu/news/2026/september/verna-hendricks-ferguson-hall-of-fame.php",
+      "date": "2026-09-03",
+      "type": "News",
+      "summary_en": "Saint Louis University Professor Verna Hendricks-Ferguson, Ph.D., has been inducted into the International Nurse Researcher Hall of Fame in Toronto, Canada, at Sigma Theta Tau Honor Society of Nursing's 37th International Nursing Research Congress this summer.",
+      "source": "SLU News",
+      "category": "academic"
+    },
+    {
+      "title": "Jennifer Buehler, Ph.D.: 1970-2026",
+      "url": "https://www.slu.edu/news/2026/september/jennifer-buehler-obituary.php",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "Jennifer Buehler, Ph.D., associate professor of educational studies at Saint Louis University, died Friday, Aug. 28, 2026.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

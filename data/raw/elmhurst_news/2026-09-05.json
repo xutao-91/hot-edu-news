@@ -1,0 +1,26 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-09-05T20:00:09.635697",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Elmhurst U. Welcomes Newest Bluejays",
+      "url": "https://www.elmhurst.edu/news/elmhurst-u-welcomes-newest-bluejays-2/",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Elmhurst U. Presents 2026 President’s Excellence in Teaching Awards",
+      "url": "https://www.elmhurst.edu/news/presidents-awards-for-excellence-in-teaching/",
+      "date": "2026-09-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}

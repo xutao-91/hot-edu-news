@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-05T20:00:09.722732",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Can high-tech scale high-touch?",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/04/can-high-tech-scale-high-touch/",
+      "date": "2026-09-04",
+      "type": "AI in Education",
+      "summary_en": "With the rapid spread of Gen AI, we’re entering a time when human connection is becoming more valuable and more vulnerable.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Your institution’s AI strategy needs instructional designers",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/02/your-institutions-ai-strategy-needs-instructional-designers/",
+      "date": "2026-09-02",
+      "type": "AI in Education",
+      "summary_en": "Higher education institutions are investing significant time in selecting AI tools, developing policies, and encouraging faculty experimentation. Yet one of the most important parts of an institutional AI strategy may be receiving far less attention: the people who help educators connect technology to the realities of teaching.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

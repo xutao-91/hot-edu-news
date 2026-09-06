@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-05T20:00:17.042693",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue, Deloitte to discuss how technology is reshaping careers",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0904-purdue-deloitte-fireside-chat-technology-careers",
+      "date": "September 4, 2026",
+      "type": "News",
+      "summary_en": "The \"Deloitte x Purdue: New Careers at the Edge of Engineering and National Leadership\" event will take place from 5-6 p.m. Monday, Sept. 14, at Stewart Center's Loeb Playhouse.",
+      "source": "Purdue College of Engineering",
+      "category": "career"
+    },
+    {
+      "title": "Purdue Engineering names four winners of faculty Thinky Competition focused on AI",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0819-purdue-engineering-thinky-competition-faculty-winners",
+      "date": "September 3, 2026",
+      "type": "News",
+      "summary_en": "This summer, Purdue Engineering faculty created innovative web apps, AI skills, and agents in support of teaching and learning, combining their strong technical domain knowledge with critical human judgment.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}
