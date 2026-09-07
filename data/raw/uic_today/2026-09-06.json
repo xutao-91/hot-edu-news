@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-06T20:00:15.198051",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC earns Age-Friendly University designation",
+      "url": "https://today.uic.edu/uic-earns-age-friendly-university-designation/",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "UIC recognized for creating inclusive environments where older adults can learn, contribute and stay engaged in the community.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "How UIC diverted 188 pounds of shirts from landfills",
+      "url": "https://today.uic.edu/how-uic-diverted-188-pounds-of-shirts-from-landfills/",
+      "date": "2026-09-03",
+      "type": "News",
+      "summary_en": "Outdated shirts were given a new purpose and a special significance at convocation",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

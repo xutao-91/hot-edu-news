@@ -21346,5 +21346,23 @@
     "fetch_time": "2026-09-05T20:00:10.069147",
     "title": "Bend but Do Not Break: Shaping the Future of the All-Volunteer Force",
     "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/nicaraguas-dictatorship-deepens-what-can-international-community-do": {
+    "source": "csis",
+    "fetch_time": "2026-09-06T20:00:09.853059",
+    "title": "Nicaragua’s Dictatorship Deepens: What Can the International Community Do?",
+    "category": "semiconductor"
+  },
+  "https://mendoza.nd.edu/news/beyond-the-stars/": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-06T20:00:12.097385",
+    "title": "Beyond the Stars: Mendoza Researchers Automate Granular Customer Sentiment Analysis",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/campus-community/governor-proclaims-sept-6-university-northern-iowa-sesquicentennial-day": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-06T20:00:16.062742",
+    "title": "Governor proclaims Sept. 6 University of Northern Iowa Sesquicentennial Day",
+    "category": "education"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-06T20:00:16.415430",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The U.S. National Science Foundation renews NSF IceCube operation and maintenance contract",
+      "url": "https://icecube.wisc.edu/news/awards/2026/08/the-u-s-national-science-foundation-renews-nsf-icecube-operation-and-maintenance-contract/",
+      "date": "September 3, 2026",
+      "type": "News",
+      "summary_en": "The IceCube Neutrino Observatory, managed by UW–Madison, has secured $53 million in NSF funding through 2031.",
+      "source": "UW-Madison News",
+      "category": "research"
+    }
+  ]
+}

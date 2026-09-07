@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-09-06T20:00:10.655080",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "NASA administrator, federal leaders to visit Iowa State",
+      "url": "https://www.news.iastate.edu/news/nasa-administrator-federal-leaders-visit-iowa-state",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "NASA Administrator Jared Isaacman, along with leaders from other federal agencies, will visit Iowa State University and Ames National Laboratory on Tuesday, Sept. 8. During the visit, Isaacman and other federal leaders will meet with campus leadership, tour Ames National Laboratory, and participate in a town hall with students focused on space exploration and inspiring the next generation of Ameri",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Iowa State-led team uses data and AI to design next-generation organic electronic materials",
+      "url": "https://www.news.iastate.edu/news/iowa-state-led-team-uses-data-and-ai-design-next-generation-organic-electronic-materials",
+      "date": "2026-09-03",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State's Wenjie Xia is leading a team developing data-driven, materials-by-design approaches to discover organic electronic materials. The materials could be used for flexible electronics, wearable sensors, bioelectronics and other emerging technologies.",
+      "source": "Iowa State News",
+      "category": "arts"
+    }
+  ]
+}

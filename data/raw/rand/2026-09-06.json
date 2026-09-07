@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-06T20:00:16.170962",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "AI Can Now Design Viruses. We Need Biosecurity Guardrails Now",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/ai-can-now-design-viruses-we-need-biosecurity-guardrails.html",
+      "date": "Sep 4, 2026",
+      "type": "Commentary",
+      "summary_en": "As AI advances, the risk of engineered viral bioweapons is growing. The window to prepare is now—by building a layered, resilient system of defense.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Buying Time Against AI Proliferation: The Economics of Governed Access",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4996-1.html",
+      "date": "Sep 3, 2026",
+      "type": "Research",
+      "summary_en": "The author describes a formal model of artificial intelligence (AI) adoption and proliferation that focuses on the demand for AI capability.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
