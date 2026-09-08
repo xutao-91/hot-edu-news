@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-07T20:00:12.086321",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "UpGrad completes Unacademy acquisition at $206m valuation",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-09-07",
+      "type": "Edtech",
+      "summary_en": "The all-stock deal combines Unacademy’s online test-preparation and consumer-learning businesses with upGrad’s higher education and upskilling portfolio.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Worsening ELT declines signal market “restructuring”",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-09-07",
+      "type": "Language learning",
+      "summary_en": "A second consecutive year of global English language teaching (ELT) declines mark the emergence of a new sector structure, say experts.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "IDP to consolidate 15 India student placement locations",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-09-05",
+      "type": "Recruitment & agents",
+      "summary_en": "Around 200 employees are understood to be affected as the international education company responds to falling student volumes and shifting visa policies across major study destinations.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIEoneer Awards 2026: winners revealed",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-05",
+      "type": "News",
+      "summary_en": "Innovation and achievement across the international education sector has once again been recognised at The PIEoneer Awards ceremony, now in its 10th year.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "BCA season: UKVI is checking its list, we’re checking ours twice",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-09-04",
+      "type": "Voices",
+      "summary_en": "It’s the most wonderful time of the year. UKVI is checking its list, sponsors are checking theirs twice, we're going to find out who's naughty or nice... but the slight difficulty is that the lack of timely data means the lists won't necessarily match up when it comes to the BCA.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Alex Lock and Mike Strong"
+    },
+    {
+      "title": "Crizac profit jumps 41% as revenue rises 23%",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-09-04",
+      "type": "Investor",
+      "summary_en": "The Indian recruitment platform processed 394,000 applications during 2025/26, although the UK continued to generate approximately 97% of its revenue.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

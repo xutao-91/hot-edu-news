@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-07T20:00:13.296653",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Governor proclaims Sept. 6 University of Northern Iowa Sesquicentennial Day",
+      "url": "https://insideuni.uni.edu/campus-community/governor-proclaims-sept-6-university-northern-iowa-sesquicentennial-day",
+      "date": "2026-09-06",
+      "type": "News",
+      "summary_en": "Iowa Gov. Kim Reynolds has proclaimed Sunday, Sept. 6, 2026, as University of Northern Iowa Sesquicentennial Day in recognition of the university’s 150th anniversary.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Four authors of landmark Iowa cancer report to highlight findings on UNI panel",
+      "url": "https://insideuni.uni.edu/environment/four-authors-landmark-iowa-cancer-report-highlight-findings-uni-panel",
+      "date": "2026-09-04",
+      "type": "News",
+      "summary_en": "Four authors and contributors of the 2026 landmark study linking environmental risk factors to Iowa’s cancer crisis will speak on a panel at the University of Northern Iowa",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}
