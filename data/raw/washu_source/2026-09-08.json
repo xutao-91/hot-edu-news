@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-08T20:00:19.354378",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Alberti campers sketch, build and dream big",
+      "url": "https://source.washu.edu/2026/09/alberti-campers-sketch-build-and-dream-big/",
+      "date": "2026-09-08",
+      "type": "St. Louis Region",
+      "summary_en": "Launched in 2007, WashU’s Alberti Program offers young people a hands-on introduction to architecture, a field rarely included in the K-12 curriculum. Students ask the same questions, use the same tools and build the same models as real-life architects.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Waterlogged seeds reveal melons’ ancient journey",
+      "url": "https://source.washu.edu/2026/09/waterlogged-seeds-reveal-melons-ancient-journey/",
+      "date": "2026-09-08",
+      "type": "Anthropology & Archaeology",
+      "summary_en": "A new WashU study shows how scientists can use ancient DNA to answer historical questions beyond what artifacts alone can reveal.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

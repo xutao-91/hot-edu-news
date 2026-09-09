@@ -1,0 +1,98 @@
+{
+  "source": "Show Me Mizzou",
+  "source_url": "https://showme.missouri.edu/archive/",
+  "crawled_at": "2026-09-08T20:00:23.880521",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "It takes more than school spirit to be Truman the Tiger",
+      "url": "https://showme.missouri.edu/2026/it-takes-more-than-school-spirit-to-be-truman-the-tiger/",
+      "date": "Sep. 8, 2026",
+      "type": "News",
+      "summary_en": "Mizzou sport science experts are helping the university’s beloved mascot prepare for the physical demands of performing on game day.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Cherng Summer Scholars explore interests through individual projects",
+      "url": "https://showme.missouri.edu/2026/cherng-summer-scholars-explore-interests-through-individual-projects/",
+      "date": "Sep. 8, 2026",
+      "type": "News",
+      "summary_en": "With the support of Mizzou faculty mentors, 14 students participated in research or creative scholarship projects.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Ask an expert: How to talk to children about 9/11",
+      "url": "https://showme.missouri.edu/2026/ask-an-expert-how-to-talk-to-children-about-9-11/",
+      "date": "Sep. 8, 2026",
+      "type": "News",
+      "summary_en": "Mizzou communication professor Haley Horstman shares tips as the nation approaches the 25th anniversary of the attacks.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou researchers unlock a new way to harness copper against disease",
+      "url": "https://showme.missouri.edu/2026/mizzou-researchers-unlock-a-new-way-to-harness-copper-against-disease/",
+      "date": "Sep. 8, 2026",
+      "type": "News",
+      "summary_en": "Researchers identified the first compound to block a fundamental copper transport system, opening the door for new treatments.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "A day to remember: Scenes from Mizzou’s historic celebration",
+      "url": "https://showme.missouri.edu/2026/a-day-to-remember-scenes-from-mizzous-historic-celebration/",
+      "date": "Sep. 3, 2026",
+      "type": "News",
+      "summary_en": "University marks a $50 million gift; Energy Innovation Center groundbreaking; stadium renovations; and $1.1 billion raised.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou to host two events in recognition of the 25th anniversary of Patriot Day",
+      "url": "https://showme.missouri.edu/2026/mizzou-to-host-two-events-in-recognition-of-the-25th-anniversary-of-patriot-day/",
+      "date": "Sep. 3, 2026",
+      "type": "News",
+      "summary_en": "",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou staff recognized with inaugural University of Missouri Board of Curators’ Outstanding Staff Awards",
+      "url": "https://showme.missouri.edu/2026/mizzou-staff-recognized-with-inaugural-university-of-missouri-board-of-curators-outstanding-staff-awards/",
+      "date": "Sep. 3, 2026",
+      "type": "News",
+      "summary_en": "Recipients embody dedication, professionalism and commitment to service.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Historic $50 million gift powers Payne Energy Innovation Center at Mizzou",
+      "url": "https://showme.missouri.edu/2026/historic-50-million-gift-powers-payne-energy-innovation-center-at-mizzou/",
+      "date": "Sep. 2, 2026",
+      "type": "News",
+      "summary_en": "David Payne’s support will also transform electrical engineering and computer science while accelerating Mizzou’s leadership in energy innovation.",
+      "source": "Show Me Mizzou",
+      "category": "general"
+    },
+    {
+      "title": "Mizzou researchers uncover promising new target for treating high blood pressure",
+      "url": "https://showme.missouri.edu/2026/mizzou-researchers-uncover-promising-new-target-for-treating-high-blood-pressure/",
+      "date": "Sep. 2, 2026",
+      "type": "News",
+      "summary_en": "Discovery could lead to more precise treatments by reducing inflammation linked to hypertension.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    },
+    {
+      "title": "Mizzou researcher leading the way in search of first-ever treatment for common heart valve disease",
+      "url": "https://showme.missouri.edu/2026/mizzou-researcher-leading-the-way-in-search-of-first-ever-treatment-for-common-heart-valve-disease/",
+      "date": "Sep. 1, 2026",
+      "type": "News",
+      "summary_en": "Dunpeng Cai received a $2.8 million NIH grant to study the underlying causes of aortic valve calcification and find a target for treatment.",
+      "source": "Show Me Mizzou",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-08T20:00:17.162384",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Universities Australia calls for student concessions as living costs soar",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-09-08",
+      "type": "Student experience",
+      "summary_en": "Universities Australia has called on the Albanese government to extend concession cards to all domestic university students and provide international students with equal access to public transport discounts, as rising living costs put increasing pressure on students.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Judge signals possible halt to US student visa duration rule",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-08",
+      "type": "Policy",
+      "summary_en": "A US federal judge is weighing a landmark court challenge to the government’s proposed end to duration of status after a Boston hearing last week.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "New Zealand international education export earnings hit $4.98bn",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "New Zealand’s international education sector has pushed export earnings to NZ$4.98 billion, surpassing its pre-pandemic value and putting the government’s longer-term growth target within clearer reach.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "UpGrad completes Unacademy acquisition at $206m valuation",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-09-07",
+      "type": "Edtech",
+      "summary_en": "The all-stock deal combines Unacademy’s online test-preparation and consumer-learning businesses with upGrad’s higher education and upskilling portfolio.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Worsening ELT declines signal market “restructuring”",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-09-07",
+      "type": "Language learning",
+      "summary_en": "A second consecutive year of global English language teaching (ELT) declines mark the emergence of a new sector structure, say experts.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "IDP to consolidate 15 India student placement locations",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-09-05",
+      "type": "Recruitment & agents",
+      "summary_en": "Around 200 employees are understood to be affected as the international education company responds to falling student volumes and shifting visa policies across major study destinations.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIEoneer Awards 2026: winners revealed",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-05",
+      "type": "News",
+      "summary_en": "Innovation and achievement across the international education sector has once again been recognised at The PIEoneer Awards ceremony, now in its 10th year.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

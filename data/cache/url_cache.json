@@ -21376,5 +21376,407 @@
     "fetch_time": "2026-09-07T20:00:14.642502",
     "title": "Labor Day, 2026",
     "category": "general"
+  },
+  "https://bridgemi.com/talent-education/michigan-colleges-spend-big-on-dorms-as-enrollments-sag-big-draw-or-big-waste/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-09-08T20:00:10.707347",
+    "title": "Michigan colleges spend big on dorms as enrollments sag. Big draw or big waste?",
+    "category": "education"
+  },
+  "https://stories.butler.edu/butler-launches-indianas-only-green-revolving-fund-to-accelerate-campus-decarbonization/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-09-08T20:00:10.911657",
+    "title": "Butler Launches Indiana’s Only Green Revolving Fund to Accelerate Campus Decarbonization",
+    "category": "education"
+  },
+  "https://news.gallup.com/poll/714017/satisfaction-education-hits-new-low.aspx": {
+    "source": "gallup_education",
+    "fetch_time": "2026-09-08T20:00:10.982294",
+    "title": "Satisfaction With K-12 Education Hits New Low",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/illinois-tech-athletics-digest-starting-season-right-foot": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-08T20:00:11.793499",
+    "title": "Illinois Tech Athletics Digest: Starting the Season on the Right Foot",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/pearson-and-illinois-tech-explore-employability-pathways-and-workforce-focused-learning-credentials": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-08T20:00:11.793499",
+    "title": "Pearson and Illinois Tech to Explore Employability Pathways and Workforce-Focused Learning Credentials",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/chicago-kent-professor-wins-best-paper-award-new-theory-explaining-hidden-power-law-0": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-08T20:00:11.793499",
+    "title": "Chicago-Kent Professor Wins Best Paper Award for New Theory Explaining the Hidden Power of Law",
+    "category": "ai"
+  },
+  "https://www.iit.edu/news/chicago-kent-professor-wins-best-paper-award-new-theory-explaining-hidden-power-law": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-08T20:00:11.793499",
+    "title": "Chicago-Kent Professor Wins Best Paper Award for New Theory Explaining the Hidden Power of Law",
+    "category": "ai"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-09-08-wesley-kopis-germany.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-09-08T20:00:11.982391",
+    "title": "Future social studies teacher gains global perspective for his classroom",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52718-iu-indianapolis-alum-works-with-anthropology-professor": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-08T20:00:12.691173",
+    "title": "IU Indianapolis alum works with anthropology professor to preserve city’s history",
+    "category": "general"
+  },
+  "https://news.iu.edu/live/news/52708-that-perfect-mix-incoming-bloomington-students": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-08T20:00:12.691173",
+    "title": "‘That perfect mix’: Incoming Bloomington students share hopes for their future at IU",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52761-iu-board-of-trustees-executive-committee-to-meet": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-08T20:00:12.691173",
+    "title": "IU Board of Trustees Executive Committee to meet virtually Sept. 10",
+    "category": "general"
+  },
+  "https://www.brookings.edu/articles/3-reasons-why-going-slow-to-go-fast-is-the-right-approach-for-ai-in-schools/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-08T20:00:13.190518",
+    "title": "3 reasons why ‘going slow to go fast’ is the right approach for AI in schools",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/making-pedagogical-reforms-work-in-classrooms/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-08T20:00:13.190518",
+    "title": "Making pedagogical reforms work in classrooms",
+    "category": "semiconductor"
+  },
+  "https://learningpolicyinstitute.org/product/wa-state-policy-support-students-homelessness-report": {
+    "source": "learning_policy",
+    "fetch_time": "2026-09-08T20:00:13.508614",
+    "title": "Investments to Support Students Experiencing Homelessness: A Decade of Policy, A Decade of Progress in Washington State",
+    "category": "education"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-names-nationally-recognized-surgeon-scientist-genevieve-boland-md-phd-next-chair-of-surgery": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-09-08T20:00:14.174601",
+    "title": "Medical College of Wisconsin Names Nationally Recognized Surgeon-Scientist Genevieve Boland, MD, PhD, Next Chair of Surgery",
+    "category": "education"
+  },
+  "https://www.csis.org/events/us-and-allied-burden-sharing-progress-report": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "U.S. and Allied Burden Sharing: A Progress Report",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/redesigning-uk-defense-procurement-ai-era": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "Redesigning UK Defense Procurement for the AI Era",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/polysilicon-and-merits-trade-measures-industrial-policy": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "Polysilicon and the Merits of Trade Measures as Industrial Policy",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/how-central-banks-can-win-digital-currency-race": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "How Central Banks Can Win the Digital Currency Race",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/narco-highway-mapping-pacifics-drug-trade": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "The Narco Highway: Mapping the Pacific’s Drug Trade",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/european-front-commercial-data-exploitation": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "The European Front in Commercial Data Exploitation",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/us-and-allied-burden-sharing-progress-report": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "U.S. and Allied Burden Sharing: A Progress Report",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/what-sbas-new-size-standards-could-mean-small-businesses": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "What SBA’s New Size Standards Could Mean for Small Businesses",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/pactech-pulse-september-2026": {
+    "source": "csis",
+    "fetch_time": "2026-09-08T20:00:14.932321",
+    "title": "PacTech Pulse: September 2026",
+    "category": "general"
+  },
+  "https://www.atlanticcouncil.org/expert/ahmed-aboudouh/": {
+    "source": "atlantic_china",
+    "fetch_time": "2026-09-08T20:00:14.942542",
+    "title": "Ahmed Aboudouh",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/study-finds-common-vaping-additives-disrupt-lung-surfactant-film-in-lab-model": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-08T20:00:16.133616",
+    "title": "Study finds common vaping additives disrupt lung-surfactant film in lab model",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-to-host-inaugural-democracy-day-featuring-presentations-by-university-researchers": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-08T20:00:16.133616",
+    "title": "KU to host inaugural Democracy Day, featuring presentations by university researchers",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-architecture-lecture-series-to-explore-contemporary-architectural-practice-in-mexico": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-08T20:00:16.133616",
+    "title": "KU Architecture Lecture Series to explore contemporary architectural practice in Mexico",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/news-desert-u-book-explores-what-happens-when-universities-own-the-news": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-08T20:00:16.133616",
+    "title": "‘News Desert U’ book explores what happens when ‘universities own the news’",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0908-gahl-mills-baggetta-leadership-center.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-08T20:00:16.691590",
+    "title": "Gahl-Mills, Baggetta to serve as co-directors of the O’Neill Center for Leadership in Public Service",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/08/how-republicans-and-democrats-see-their-own-ideology-and-their-partys/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-08T20:00:16.839430",
+    "title": "How Republicans and Democrats see their own ideology – and their party’s",
+    "category": "semiconductor"
+  },
+  "https://quincyinst.org/research/chinas-evolving-strategy-for-international-science-and-technology-cooperation/": {
+    "source": "quincy",
+    "fetch_time": "2026-09-08T20:00:17.879397",
+    "title": "China’s Evolving Strategy for International Science and Technology Cooperation",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/commentary/2026/09/25-years-after-911-lessons-for-securing-the-homeland.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-08T20:00:18.013346",
+    "title": "25 Years After 9/11: Lessons for Securing the Homeland",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4634-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-08T20:00:18.013346",
+    "title": "Novel technologies for security-sector governance and management",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/new-study-shows-reward-can-spread-through-complex-memory-networks": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-08T20:00:18.195327",
+    "title": "New study shows reward can spread through complex memory networks",
+    "category": "ai"
+  },
+  "https://today.uic.edu/students-share-their-passions-and-interests-at-fall-involvement-fair/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-08T20:00:18.291458",
+    "title": "Students share their passions and interests at fall Involvement Fair",
+    "category": "education"
+  },
+  "https://today.uic.edu/veterans-art-museum-hosts-never-forget-uics-9-11-remembrance/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-08T20:00:18.291458",
+    "title": "Veterans Art Museum hosts ‘Never Forget,’ UIC’s 9/11 remembrance",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/arts-design/uni-school-music-host-45th-annual-scholarship-benefit-concert": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-08T20:00:18.738333",
+    "title": "UNI School of Music to host 45th Annual Scholarship Benefit Concert",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/9-reasons-work-campus-college-student": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-08T20:00:18.738333",
+    "title": "9 reasons to work on campus as a college student",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/new-digital-exhibit-opens-doors-unis-campanile": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-08T20:00:18.738333",
+    "title": "New digital exhibit opens the doors to UNI’s Campanile",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0908-purdue-materials-engineering-ancient-iron-smelting": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-08T20:00:18.949892",
+    "title": "MSE researchers collaborate across disciplines to study ancient iron smelting",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/lied-center-celebrates-milestone-in-expansion-renovation": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-08T20:00:19.054446",
+    "title": "Lied Center celebrates milestone in expansion, renovation",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/undergraduate-enrollment-continues-upward-trend-reaches-highest-level-since-2021": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-08T20:00:19.054446",
+    "title": "Undergraduate enrollment continues upward trend, reaches highest level since 2021",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/cornhusker-marching-band-makes-football-season-debut": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-08T20:00:19.054446",
+    "title": "Cornhusker Marching Band makes football season debut",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/softley-turns-gratitude-into-decades-of-service-as-volunteer-firefighter": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-08T20:00:19.054446",
+    "title": "Softley turns gratitude into decades of service as volunteer firefighter",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/pytlik-zillig-redefines-limits-of-emerging-technology": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-08T20:00:19.054446",
+    "title": "Pytlik Zillig redefines limits of emerging technology",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/research-collaborations-arthropodium-success-propel-caremi-forward": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-08T20:00:19.054446",
+    "title": "Research collaborations, Arthropodium success propel CAREMI forward",
+    "category": "general"
+  },
+  "https://international.wisc.edu/uw-madison-announces-fulbright-u-s-student-awards-for-2026-2027/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-08T20:00:19.354378",
+    "title": "UW–Madison announces Fulbright U.S. Student Awards for 2026-2027",
+    "category": "education"
+  },
+  "https://news.wisc.edu/from-kane-brown-on-library-mall-to-badgers-at-lambeau-field-a-special-weekend-of-entertainment/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-08T20:00:19.354378",
+    "title": "From Kane Brown on Library Mall to Badgers at Lambeau Field: A special weekend of entertainment",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/uw-madison-rises-in-entrepreneurship-rankings/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-08T20:00:19.354378",
+    "title": "UW–Madison rises in entrepreneurship rankings",
+    "category": "education"
+  },
+  "https://news.wisc.edu/experience-it-new-tv-spot-captures-the-iconic-scenes-that-make-uw-madison-special/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-08T20:00:19.354378",
+    "title": "‘Experience It’: New TV spot captures the iconic scenes that make UW–Madison special",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/09/alberti-campers-sketch-build-and-dream-big/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-08T20:00:19.406563",
+    "title": "Alberti campers sketch, build and dream big",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/waterlogged-seeds-reveal-melons-ancient-journey/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-08T20:00:19.406563",
+    "title": "Waterlogged seeds reveal melons’ ancient journey",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-united-states-with-respect-to-motor-vehicles/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the United States with Respect to Motor Vehicles",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-alcoholic-beverages-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-bever/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Excluding Certain Canadian Alcoholic Beverages from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-dairy/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Dairy",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-alcoholic-beverages/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed to Offset Canadian Discrimination Against the Commerce of the United States with Respect to Alcoholic Beverages",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/excluding-certain-canadian-products-from-importation-into-the-united-states-in-response-to-continued-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Excluding Certain Canadian Products from Importation into the United States in Response to Continued Discrimination Against the Commerce of the United States with Respect to Motor Vehicles",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-accelerates-veterans-access-to-benefits-and-employment-opportunities/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Fact Sheet: President Donald J. Trump Accelerates Veterans’ Access to Benefits and Employment Opportunities",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/accelerating-access-to-veterans-benefits-and-employment-opportunities/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Accelerating Access To Veterans’ Benefits And Employment Opportunities",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/adjusting-certain-delegations-under-the-defense-production-act-e2de/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "Adjusting Certain Delegations Under the Defense Production Act",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/president-trump-honors-9-11-heroes-and-renews-americas-vow-to-never-forget/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-08T20:00:19.463091",
+    "title": "President Trump Honors 9/11 Heroes and Renews America’s Vow to Never Forget",
+    "category": "semiconductor"
+  },
+  "https://today.wayne.edu/news/2026/09/08/wayne-state-welcomes-accomplished-new-faculty-for-2026-27-70078": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-08T20:00:19.566605",
+    "title": "Wayne State welcomes accomplished new faculty for 2026-27",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/it-takes-more-than-school-spirit-to-be-truman-the-tiger/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-08T20:00:23.921027",
+    "title": "It takes more than school spirit to be Truman the Tiger",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/cherng-summer-scholars-explore-interests-through-individual-projects/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-08T20:00:23.921027",
+    "title": "Cherng Summer Scholars explore interests through individual projects",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/ask-an-expert-how-to-talk-to-children-about-9-11/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-08T20:00:23.921027",
+    "title": "Ask an expert: How to talk to children about 9/11",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researchers-unlock-a-new-way-to-harness-copper-against-disease/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-08T20:00:23.921027",
+    "title": "Mizzou researchers unlock a new way to harness copper against disease",
+    "category": "ai"
   }
 }

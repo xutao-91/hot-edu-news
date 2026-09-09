@@ -1,0 +1,44 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-08T20:00:19.298288",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UW–Madison announces Fulbright U.S. Student Awards for 2026-2027",
+      "url": "https://international.wisc.edu/uw-madison-announces-fulbright-u-s-student-awards-for-2026-2027/",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "Sixteen Badgers were awarded grants from the Fulbright U.S. Student Program, the country’s flagship program for international exchange.",
+      "source": "UW-Madison News",
+      "category": "awards"
+    },
+    {
+      "title": "From Kane Brown on Library Mall to Badgers at Lambeau Field: A special weekend of entertainment",
+      "url": "https://news.wisc.edu/from-kane-brown-on-library-mall-to-badgers-at-lambeau-field-a-special-weekend-of-entertainment/",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "The country music star electrified campus with an exclusive concert, while UW football visited the legendary home of the Green Bay Packers.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison rises in entrepreneurship rankings",
+      "url": "https://news.wisc.edu/uw-madison-rises-in-entrepreneurship-rankings/",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "The university ranks No. 6 among U.S. public universities in undergraduate founders, jumping nine spots in overall undergraduate ranking from last year.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "‘Experience It’: New TV spot captures the iconic scenes that make UW–Madison special",
+      "url": "https://news.wisc.edu/experience-it-new-tv-spot-captures-the-iconic-scenes-that-make-uw-madison-special/",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "The spirited ad will air during televised Badger sporting events throughout the fall.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

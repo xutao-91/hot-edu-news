@@ -1,0 +1,16 @@
+{
+  "source": "Gallup Education",
+  "source_url": "https://news.gallup.com/topic/category-education.aspx",
+  "crawled_at": "2026-09-08T20:00:10.911657",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Satisfaction With K-12 Education Hits New Low",
+      "url": "https://news.gallup.com/poll/714017/satisfaction-education-hits-new-low.aspx",
+      "date": "2026-09-07",
+      "summary_en": "Americans' satisfaction with the quality of K-12 education in the U.S. has fallen to 32%, a new low in Gallup's 27-year trend.",
+      "source": "Gallup Education",
+      "category": "education"
+    }
+  ]
+}

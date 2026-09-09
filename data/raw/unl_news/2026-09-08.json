@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-09-08T20:00:18.988370",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Lied Center celebrates milestone in expansion, renovation",
+      "url": "https://news.unl.edu/article/lied-center-celebrates-milestone-in-expansion-renovation",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Undergraduate enrollment continues upward trend, reaches highest level since 2021",
+      "url": "https://news.unl.edu/article/undergraduate-enrollment-continues-upward-trend-reaches-highest-level-since-2021",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Cornhusker Marching Band makes football season debut",
+      "url": "https://news.unl.edu/article/cornhusker-marching-band-makes-football-season-debut",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Softley turns gratitude into decades of service as volunteer firefighter",
+      "url": "https://news.unl.edu/article/softley-turns-gratitude-into-decades-of-service-as-volunteer-firefighter",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Pytlik Zillig redefines limits of emerging technology",
+      "url": "https://news.unl.edu/article/pytlik-zillig-redefines-limits-of-emerging-technology",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "science"
+    },
+    {
+      "title": "Research collaborations, Arthropodium success propel CAREMI forward",
+      "url": "https://news.unl.edu/article/research-collaborations-arthropodium-success-propel-caremi-forward",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

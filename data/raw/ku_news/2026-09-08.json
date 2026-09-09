@@ -1,0 +1,44 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-09-08T20:00:16.021545",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Study finds common vaping additives disrupt lung-surfactant film in lab model",
+      "url": "https://news.ku.edu/news/article/study-finds-common-vaping-additives-disrupt-lung-surfactant-film-in-lab-model",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "A new study from the University of Kansas shows that additives common to commercially available vaping devices, vitamin E and CBD, soften a vital lung surfactant at high enough concentrations, at least in a simplified lab model.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU to host inaugural Democracy Day, featuring presentations by university researchers",
+      "url": "https://news.ku.edu/news/article/ku-to-host-inaugural-democracy-day-featuring-presentations-by-university-researchers",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "The Center for Democratic Governance at the University of Kansas is hosting its first annual Democracy Day “Teach-In” Event on Sept. 18 in the Alderson Auditorium of the Kansas Union.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU Architecture Lecture Series to explore contemporary architectural practice in Mexico",
+      "url": "https://news.ku.edu/news/article/ku-architecture-lecture-series-to-explore-contemporary-architectural-practice-in-mexico",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "Award-winning architects from some of Mexico’s most influential contemporary practices will visit the University of Kansas this fall as part of the Architecture Lecture Series, “Re-Generations.” Through four public presentations, speakers will share perspectives on design, urbanism and the evolving role of architecture in shaping communities and culture.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "‘News Desert U’ book explores what happens when ‘universities own the news’",
+      "url": "https://news.ku.edu/news/article/news-desert-u-book-explores-what-happens-when-universities-own-the-news",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "The new book “News Desert U” examines six university community partnerships in which faculty and students produce news for communities that have lost coverage. The book’s authors, including a University of Kansas journalism faculty member, explore lessons learned and argue for more support from universities to faculty who are leading such efforts.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}
