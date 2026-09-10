@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-09T20:00:16.848856",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Building an everyday equitable practice for AI in schools",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/09/building-an-everyday-equitable-practice-for-ai-in-schools/",
+      "date": "2026-09-09",
+      "type": "AI in Education",
+      "summary_en": "AI technology is advancing rapidly in schools, but research is increasingly showing that Large Language Models (LLMs) lack the common sense, morality, and knowledge of individual classroom dynamics needed to be truly equitable.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "The false choice between citizenship and a first job",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/09/07/the-false-choice-between-citizenship-and-a-first-job/",
+      "date": "2026-09-07",
+      "type": "Career Readiness",
+      "summary_en": "Public confidence in higher education sits at a new historic low, and colleges and universities are facing an identity crisis. On the one hand, a growing chorus of reformers argues that colleges should reorganize themselves entirely around preparing students for the labor market, perhaps with good reason.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

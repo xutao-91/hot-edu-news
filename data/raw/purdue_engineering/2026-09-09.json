@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-09T20:00:22.029697",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue’s Visionary Voices to feature NobleReach Foundation CEO Arun Gupta",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0820-purdue-engineering-visionary-voices-arun-gupta-noblereach",
+      "date": "September 9, 2026",
+      "type": "News",
+      "summary_en": "Arun Gupta, CEO of the NobleReach Foundation and a national leader in technology, entrepreneurship and public service, will be the featured guest in the next installment of Purdue Engineering’s Visionary Voices.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "MSE researchers collaborate across disciplines to study ancient iron smelting",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0908-purdue-materials-engineering-ancient-iron-smelting",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "Researchers in Purdue's School of Materials Engineering, including Professors Nik Chawla and Mohamad Zbib, will analyze newly recovered slag alongside material collected during previous field seasons.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}
