@@ -1,0 +1,44 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-09-10T20:00:07.582006",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "CQE partners Infleqtion and Cisco announce collaboration to advance networked quantum technology",
+      "url": "https://infleqtion.com/infleqtion-and-cisco-announce-collaboration-to-advance-networked-quantum-technology/",
+      "date": "2026-09-10",
+      "summary_en": "The collaboration brings together Infleqtion’s neutral-atom quantum computers and sensors with Cisco’s networking stack to accelerate scalable, distributed quantum computing",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "David Awschalom wins global Breakthrough of the Year award for interdisciplinary work in molecular and protein qubits",
+      "url": "https://chicagoquantum.org/news/david-awschalom-wins-global-breakthrough-year-award-interdisciplinary-work-molecular-and",
+      "date": "2026-09-09",
+      "summary_en": "Award by Berlin-based Falling Walls Foundation honors high-risk, multi-field leap across quantum, biology, and chemistry",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Chicago Business Journal: How the Bloch's new operations chief Matthew Zajac aims to grow the local quantum scene",
+      "url": "https://www.bizjournals.com/chicago/news/2026/09/09/bloch-quantum-tech-hub-300-million-matthew-zajac.html",
+      "date": "2026-09-09",
+      "summary_en": "The Bloch Quantum Tech Hub is building out its regional strategy, from the FaQtory supplier building at IQMP to expanded Midwest partnerships and a workforce pipeline through community colleges.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Helium lifts new quantum computing concept",
+      "url": "https://pme.uchicago.edu/news-events/news/helium-lifts-new-quantum-computing-concept",
+      "date": "2026-09-08",
+      "summary_en": "Breakthrough from a team led by Jacob Covey, associate professor in the University of Chicago’s Pritzker School of Molecular Engineering and Department of Physics, turns helium-3’s low mass into a quantum resource.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

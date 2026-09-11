@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-10T20:00:11.861195",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UIC sets enrollment record for second straight year",
+      "url": "https://today.uic.edu/uic-sets-enrollment-record-for-second-straight-year/",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "From its largest-ever human circle to record enrollment, UIC made history this fall.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Students share their passions and interests at fall Involvement Fair",
+      "url": "https://today.uic.edu/students-share-their-passions-and-interests-at-fall-involvement-fair/",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "With hundreds of student organizations at UIC, there is something for everyone.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Veterans Art Museum hosts ‘Never Forget,’ UIC’s 9/11 remembrance",
+      "url": "https://today.uic.edu/veterans-art-museum-hosts-never-forget-uics-9-11-remembrance/",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "The free exhibit opens Sept. 11 at the National Veterans Art Museum in Portage Park.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

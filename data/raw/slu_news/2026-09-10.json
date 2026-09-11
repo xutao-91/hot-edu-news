@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-10T20:00:11.839460",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Leaders See Geospatial Science as Key to Future of St. Louis",
+      "url": "https://www.slu.edu/news/2026/september/geo-resolution-conference-leaders.php",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "Saint Louis University President Edward Feser, Ph.D., hopes the future of geospatial science involves SLU graduates. Feser shared his thoughts on the future of geospatial science and what it means for the city of St. Louis as part of the Leader's Look panel discussion at the 2026 Geo-Resolution conference. Members of the geospatial community and the SLU community gathered in the Busch Student Cent",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU/YouGov Poll: Amendment 3 Falls to a Dead Heat While Missourians Back Protections for the Initiative Petition Process by a 27-Point Margin",
+      "url": "https://www.slu.edu/news/2026/september/slu-poll.php",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "The August 2026 SLU/YouGov Poll surveyed 900 likely Missouri voters about their opinions regarding the 2026 election, ballot initiatives and amendments, data centers, and matters considered by the Missouri state government.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

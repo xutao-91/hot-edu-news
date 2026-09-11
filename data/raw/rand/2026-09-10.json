@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-10T20:00:16.317731",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "25 Years After 9/11: Lessons for Securing the Homeland",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/25-years-after-911-lessons-for-securing-the-homeland.html",
+      "date": "Sep 8, 2026",
+      "type": "Commentary",
+      "summary_en": "Reflecting on 25 years since the September 11 terror attacks, RAND experts answer questions about protecting soft targets, the role of the TSA, mitigating risks from emerging technologies, and more.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Novel technologies for security-sector governance and management",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4634-1.html",
+      "date": "Sep 8, 2026",
+      "type": "Research",
+      "summary_en": "RAND Europe scoped technology use in security-sector governance and management, mapping opportunities and risks from real-world cases and distilling lessons and good practices to embed good governance in the adoption and use of these tools.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

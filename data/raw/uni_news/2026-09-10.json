@@ -1,0 +1,44 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-10T20:00:12.584306",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UNI marks highest enrollment since 2020 with 9,366 students",
+      "url": "https://insideuni.uni.edu/campus-community/uni-marks-highest-enrollment-2020-9366-students",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "For the third consecutive year, the University of Northern Iowa has enrolled an incoming freshman class of over 1,500 students, with the number of incoming freshmen, transfers and new grad students all being up this fall.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "UNI School of Music to host 45th Annual Scholarship Benefit Concert",
+      "url": "https://insideuni.uni.edu/arts-design/uni-school-music-host-45th-annual-scholarship-benefit-concert",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "\"Something Old, Something New\" will be the theme of the 45th Annual Scholarship Benefit Concert, hosted by the UNI School of Music.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "9 reasons to work on campus as a college student",
+      "url": "https://insideuni.uni.edu/campus-community/9-reasons-work-campus-college-student",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "Working on campus while you're a college student comes with so many benefits. Check them out!",
+      "source": "UNI News",
+      "category": "community"
+    },
+    {
+      "title": "New digital exhibit opens the doors to UNI’s Campanile",
+      "url": "https://insideuni.uni.edu/campus-community/new-digital-exhibit-opens-doors-unis-campanile",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "A new digital exhibit now lets website visitors explore the historic UNI Campanile from perspectives they may never have seen before.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

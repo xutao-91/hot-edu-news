@@ -22060,5 +22060,359 @@
     "fetch_time": "2026-09-09T20:00:22.336462",
     "title": "Fine arts degree opens doors for WSU alumna K. Dawn-Dumas",
     "category": "general"
+  },
+  "https://bridgemi.com/talent-education/university-of-michigan-sued-by-16-former-hockey-players-alleging-sexual-abuse/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-09-10T20:00:07.600681",
+    "title": "University of Michigan sued by 16 former hockey players alleging sexual abuse",
+    "category": "education"
+  },
+  "https://infleqtion.com/infleqtion-and-cisco-announce-collaboration-to-advance-networked-quantum-technology/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-10T20:00:07.627654",
+    "title": "CQE partners Infleqtion and Cisco announce collaboration to advance networked quantum technology",
+    "category": "quantum"
+  },
+  "https://www.bizjournals.com/chicago/news/2026/09/09/bloch-quantum-tech-hub-300-million-matthew-zajac.html": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-10T20:00:07.627654",
+    "title": "Chicago Business Journal: How the Bloch's new operations chief Matthew Zajac aims to grow the local quantum scene",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/a-year-later-what-teens-tell-us-about-school-cellphone-bans/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-10T20:00:07.749735",
+    "title": "A year later, what teens tell us about school cellphone bans",
+    "category": "education"
+  },
+  "https://www.csis.org/events/current-us-trade-policy-dynamics-and-implications-taiwan-and-allies-indo-pacific-region": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Current U.S. Trade Policy Dynamics and the Implications for Taiwan and Allies in the Indo-Pacific Region",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/nigeria-2027-can-nigerians-trust-2027-election": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Nigeria 2027: Can Nigerians Trust the 2027 Election?",
+    "category": "general"
+  },
+  "https://www.csis.org/events/china-continues-exploit-rare-earth-chokepoints": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "China Continues to Exploit Rare Earth Chokepoints",
+    "category": "general"
+  },
+  "https://www.csis.org/events/changing-narrative-african-investment": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Changing the Narrative on African Investment",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/imagining-insurgency-post-revolutionary-iran": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Imagining an Insurgency in Post-Revolutionary Iran",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/does-vietnams-soaring-us-trade-deficit-make-it-bad-actor": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Does Vietnam’s Soaring U.S. Trade Deficit Make It a Bad Actor?",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/adapting-new-terrorism-landscape-25-years-after-911": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Adapting to the New Terrorism Landscape 25 Years After 9/11",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/building-quantum-ready-infrastructure-preparing-physical-demands-quantum-computing": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Building Quantum-Ready Infrastructure: Preparing for the Physical Demands of Quantum Computing",
+    "category": "quantum"
+  },
+  "https://www.csis.org/analysis/wheres-beef-time": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Where’s the Beef This Time?",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/educating-kingdom-home": {
+    "source": "csis",
+    "fetch_time": "2026-09-10T20:00:07.989223",
+    "title": "Educating the Kingdom at Home",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/retention-efforts-support-fall-enrollment-30772": {
+    "source": "iastate_news",
+    "fetch_time": "2026-09-10T20:00:08.549551",
+    "title": "Retention efforts support fall enrollment of 30,772",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/nasas-roman-telescope-opens-new-window-universe": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-10T20:00:08.587992",
+    "title": "NASA’s Roman Telescope Opens Up New Window to the Universe",
+    "category": "general"
+  },
+  "https://www.kettering.edu/kettering-university-esports-joins-wolverine-hoosier-athletic-conference": {
+    "source": "kettering_news",
+    "fetch_time": "2026-09-10T20:00:08.759001",
+    "title": "Kettering University Esports Joins Wolverine-Hoosier Athletic Conference",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Pulse-Point-Survey-Financial-Viability-and-Perceptions-of-Value.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-09-10T20:00:08.872310",
+    "title": "ACE Survey: Financial Viability and Perceptions of Value are Top of Mind for Higher Ed Leaders",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/International-Students-Face-New-Immigration-Hurdles-This-Year-.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-09-10T20:00:08.872310",
+    "title": "International Students Face New Immigration Hurdles This Year",
+    "category": "education"
+  },
+  "https://www.elmhurst.edu/news/u-s-rep-sean-casten-elmhurst-u-celebrate-950000-in-federal-funding-for-health-research-technology/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-09-10T20:00:10.074029",
+    "title": "U.S. Rep. Sean Casten, Elmhurst U. Celebrate $950,000 in Federal Funding for Health Research Technology",
+    "category": "general"
+  },
+  "https://www.ed.gov/about/news/press-release/secretary-of-education-linda-mcmahon-issues-nationwide-call-commemorate-25th-anniversary-of-911-terrorist-attacks-americas-students": {
+    "source": "edgov",
+    "fetch_time": "2026-09-10T20:00:10.201223",
+    "title": "Secretary of Education Linda McMahon Issues a Nationwide Call to Commemorate the 25th Anniversary of the 9/11 Terrorist Attacks with America’s Students",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/london-symposia-to-feature-researchers-from-the-college-of-science/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-10T20:00:10.776878",
+    "title": "London Symposia to feature researchers from the College of Science",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0910-abfm-conference.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-10T20:00:10.849761",
+    "title": "O'Neill School researchers to shine at ABFM Conference",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-0910-kim-michael-curro-award.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-10T20:00:10.849761",
+    "title": "Kim honored by ABFM with prestigious Michael Curro Award",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/09/northwestern-faculty-alumni-to-take-the-stage-at-tedxchicago": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-09-10T20:00:11.125874",
+    "title": "Northwestern faculty, alumni to take the stage at TEDxChicago",
+    "category": "semiconductor"
+  },
+  "https://educationminnesota.org/news/press-release/demuth-plan-makes-funding-private-schools-a-priority-at-expense-of-public-education/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-09-10T20:00:11.223949",
+    "title": "Demuth plan makes funding private schools a priority at expense of public education",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/kenneth-warren-deliver-aims-education-speech-class-2030": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-10T20:00:11.778150",
+    "title": "Kenneth Warren to deliver Aims of Education speech to Class of 2030",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/09/09/noise-from-construction-of-mcleod-house-sparks-student-concern": {
+    "source": "studlife",
+    "fetch_time": "2026-09-10T20:00:11.896370",
+    "title": "Noise from construction of McLeod House sparks student concern",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/september/geo-resolution-conference-leaders.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-10T20:00:11.897502",
+    "title": "Leaders See Geospatial Science as Key to Future of St. Louis",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/september/slu-poll.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-10T20:00:11.897502",
+    "title": "SLU/YouGov Poll: Amendment 3 Falls to a Dead Heat While Missourians Back Protections for the Initiative Petition Process by a 27-Point Margin",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/with-help-from-journalism-students-robert-greenes-documentary-premieres-at-venice-film-festival/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-10T20:00:12.044927",
+    "title": "With help from journalism students, Robert Greene’s documentary premieres at Venice Film Festival",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researcher-describes-two-previously-unknown-insect-species/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-10T20:00:12.044927",
+    "title": "Mizzou researcher describes two previously unknown insect species",
+    "category": "education"
+  },
+  "https://link.uiowa.edu/l/3382c811-e1dc-469f-a1a5-0475a98165c3?m=014b762b-7ea9-4335-8636-a9be365950b0&c=d.vpsc&i=202609": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-10T20:00:12.203652",
+    "title": "Iowa’s 2026 incoming class, by the numbers",
+    "category": "education"
+  },
+  "https://link.uiowa.edu/l/65aa7930-7ab9-47c5-a3f8-c5921ebae35c?m=014b762b-7ea9-4335-8636-a9be365950b0&c=d.vpsc&i=202609": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-10T20:00:12.203652",
+    "title": "UI Health Care shifting focus to more quickly expand access to care for Iowans",
+    "category": "semiconductor"
+  },
+  "https://link.uiowa.edu/l/095f1652-f4a8-4187-a0f7-24614c2fdc3d?m=014b762b-7ea9-4335-8636-a9be365950b0&c=d.vpsc&i=202609": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-10T20:00:12.203652",
+    "title": "UI outlines strategy for artificial intelligence",
+    "category": "education"
+  },
+  "/news/2026/09/campus-can-submit-proposals-fy-2028-p3-funding": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-10T20:00:12.203652",
+    "title": "Campus can submit proposals for FY 2028 P3 funding",
+    "category": "education"
+  },
+  "https://link.uiowa.edu/l/4d83591d-5179-4c56-8547-8ce85d3a0534?m=014b762b-7ea9-4335-8636-a9be365950b0&c=d.vpsc&i=202609": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-10T20:00:12.203652",
+    "title": "New 9/11 documentary highlights Iowa alumna’s role in rebuilding ground zero",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/university-of-kansas-debate-program-named-best-in-nation": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-10T20:00:12.295588",
+    "title": "University of Kansas Debate program named best in nation",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/audio-readers-audio-sale-returns-to-lawrence-public-library-for-3-day-event": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-10T20:00:12.295588",
+    "title": "Audio-Reader’s Audio Sale returns to Lawrence Public Library for 3-day event",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-sociologist-mehrangiz-najafizadeh-earns-rare-third-fulbright-us-scholar-award": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-10T20:00:12.295588",
+    "title": "KU sociologist Mehrangiz Najafizadeh earns rare third Fulbright U.S. Scholar Award",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/new-book-leading-without-apology-provides-guidance-to-women-to-advance-to-educational-leadership-roles": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-10T20:00:12.295588",
+    "title": "New book ‘Leading Without Apology’ provides guidance to women to advance to educational leadership roles",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-marks-highest-enrollment-2020-9366-students": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-10T20:00:12.629779",
+    "title": "UNI marks highest enrollment since 2020 with 9,366 students",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/thousands-stitched-grief-into-911-memorial-now-housed-at-quilt-museum": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-10T20:00:12.940191",
+    "title": "Thousands stitched grief into 9/11 memorial now housed at quilt museum",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/830-new-students-join-university-honors-program": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-10T20:00:12.940191",
+    "title": "830 new students join University Honors Program",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/thompson-forum-focused-on-americas-250th-anniversary-opens-sept-22": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-10T20:00:12.940191",
+    "title": "Thompson Forum, focused on America’s 250th anniversary, opens Sept. 22",
+    "category": "semiconductor"
+  },
+  "https://www.warf.org/news/warf-announces-total-2026-support-for-uw-madison-research/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-10T20:00:12.987528",
+    "title": "WARF announces total 2026 support for UW–Madison research",
+    "category": "general"
+  },
+  "https://news.wisc.edu/search-begins-for-2-new-ombuds-3/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-10T20:00:12.987528",
+    "title": "Search begins for 2 new ombuds",
+    "category": "general"
+  },
+  "https://news.wisc.edu/inside-the-studio-of-the-best-student-radio-station/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-10T20:00:12.987528",
+    "title": "Inside the studio of the best student radio station",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/mckelvey-engineering-dean-search-committee-appointed/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-10T20:00:12.987528",
+    "title": "McKelvey Engineering dean search committee appointed",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/mental-health-care-before-after-surgery-improves-recovery-in-older-adults/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-10T20:00:12.987528",
+    "title": "Mental health care before, after surgery improves recovery in older adults",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Oxygen-delivery-on-display.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-09-10T20:00:13.054303",
+    "title": "Oxygen delivery on display",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0904-purdue-ai-racing-sets-track-record-runner-up-laguna-seca": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-10T20:00:13.094283",
+    "title": "Purdue AI Racing team sets track record at Laguna Seca, places second overall in Indy Autonomous Challenge race",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/s-858-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-10T20:00:13.314602",
+    "title": "S. 858 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-10T20:00:13.314602",
+    "title": "Trump Dividend: America Is Winning — and Americans Should Win With It",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-announces-the-working-families-obamacare-refunds/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-10T20:00:13.314602",
+    "title": "Fact Sheet: President Donald J. Trump Announces the Working Families Obamacare Refunds",
+    "category": "general"
+  },
+  "https://economicdevelopment.wayne.edu/news/wayne-state-brings-together-design-and-innovation-community-during-detroit-month-of-design-70119": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-10T20:00:13.574991",
+    "title": "Wayne State convenes design and innovation community during Detroit Month of Design",
+    "category": "general"
+  },
+  "https://alumni.wayne.edu/news/college-of-nursing-tackles-workforce-shortage-with-multimillion-dollar-support-from-the-jamie-and-denise-jacob-family-foundation-70107": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-10T20:00:13.574991",
+    "title": "College of Nursing tackles workforce shortage with multimillion dollar support from the Jamie and Denise Jacob Family Foundation",
+    "category": "education"
+  },
+  "https://quincyinst.org/research/a-new-government-in-israel-what-the-future-might-hold/": {
+    "source": "quincy",
+    "fetch_time": "2026-09-10T20:00:15.905322",
+    "title": "A New Government in Israel: What the Future Might Hold",
+    "category": "general"
+  },
+  "https://www.rockhurst.edu/news/2026-09-10/whats-flat-files-new-exhibit-shares-rarely-seen-art": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-09-10T20:00:17.581471",
+    "title": "What’s In the Flat Files? New Exhibit Shares Rarely Seen Art",
+    "category": "semiconductor"
   }
 }

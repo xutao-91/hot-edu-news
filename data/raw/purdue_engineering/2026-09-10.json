@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-10T20:00:13.042033",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue AI Racing team sets track record at Laguna Seca, places second overall in Indy Autonomous Challenge race",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0904-purdue-ai-racing-sets-track-record-runner-up-laguna-seca",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "Purdue AI Racing set a new track record and won first place in the time trials with a 1:27.731 lap, becoming the first autonomous car ever to beat 1:28 at WeatherTech Raceway Laguna Seca in Monterey, California.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue’s Visionary Voices to feature NobleReach Foundation CEO Arun Gupta",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0820-purdue-engineering-visionary-voices-arun-gupta-noblereach",
+      "date": "September 9, 2026",
+      "type": "News",
+      "summary_en": "Arun Gupta, CEO of the NobleReach Foundation and a national leader in technology, entrepreneurship and public service, will be the featured guest in the next installment of Purdue Engineering’s Visionary Voices.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "MSE researchers collaborate across disciplines to study ancient iron smelting",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0908-purdue-materials-engineering-ancient-iron-smelting",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "Researchers in Purdue's School of Materials Engineering, including Professors Nik Chawla and Mohamad Zbib, will analyze newly recovered slag alongside material collected during previous field seasons.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-09-10T20:00:07.876629",
+  "total_news": 14,
+  "news": [
+    {
+      "title": "Current U.S. Trade Policy Dynamics and the Implications for Taiwan and Allies in the Indo-Pacific Region",
+      "url": "https://www.csis.org/events/current-us-trade-policy-dynamics-and-implications-taiwan-and-allies-indo-pacific-region",
+      "date": "2026-09-10",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Nigeria 2027: Can Nigerians Trust the 2027 Election?",
+      "url": "https://www.csis.org/events/nigeria-2027-can-nigerians-trust-2027-election",
+      "date": "2026-09-10",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "China Continues to Exploit Rare Earth Chokepoints",
+      "url": "https://www.csis.org/events/china-continues-exploit-rare-earth-chokepoints",
+      "date": "2026-09-11",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Changing the Narrative on African Investment",
+      "url": "https://www.csis.org/events/changing-narrative-african-investment",
+      "date": "2026-09-15",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Imagining an Insurgency in Post-Revolutionary Iran",
+      "url": "https://www.csis.org/analysis/imagining-insurgency-post-revolutionary-iran",
+      "date": "2026-09-10",
+      "summary_en": "What if the United States invades Iran to restore regional stability? Iran’s post-regime military strategy would rely on insurgent warfare to draw the United States into a protracted conflict, impeding U.S. efforts to achieve long-term political goals.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Does Vietnam’s Soaring U.S. Trade Deficit Make It a Bad Actor?",
+      "url": "https://www.csis.org/analysis/does-vietnams-soaring-us-trade-deficit-make-it-bad-actor",
+      "date": "2026-09-10",
+      "summary_en": "There is little if any justification for any trade policy crackdown on Vietnam for allegedly being a bad actor, harming U.S. economic interests, or aiding and abetting China’s trade interests.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Adapting to the New Terrorism Landscape 25 Years After 9/11",
+      "url": "https://www.csis.org/analysis/adapting-new-terrorism-landscape-25-years-after-911",
+      "date": "2026-09-10",
+      "summary_en": "Post-9/11 counterterrorism efforts made large, foreign-directed attacks harder to execute. Stopping the terrorist threat that remains today requires a new approach.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Building Quantum-Ready Infrastructure: Preparing for the Physical Demands of Quantum Computing",
+      "url": "https://www.csis.org/analysis/building-quantum-ready-infrastructure-preparing-physical-demands-quantum-computing",
+      "date": "2026-09-10",
+      "summary_en": "To avoid delays similar to the ones that the AI industry has experienced, the U.S. quantum industry needs to strengthen its supply chains for cryogenics, laser, optics, and other materials. Governments, firms, laboratories, and universities have a rare planning window.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Where’s the Beef This Time?",
+      "url": "https://www.csis.org/analysis/wheres-beef-time",
+      "date": "2026-09-10",
+      "summary_en": "In this week’s column, Bill Reinsch examines the trade and non-trade causes of rising U.S. beef prices, as well as attempts by the White House and Department of Agriculture to limit the impact on the agriculture industry.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Educating the Kingdom at Home",
+      "url": "https://www.csis.org/analysis/educating-kingdom-home",
+      "date": "2026-09-10",
+      "summary_en": "This installment of Charting the Middle East examines the kingdom's shift from financing overseas education to strengthening domestic educational capacity as part of its broader economic transformation.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "New Satellite Imagery Analysis Reveals an Uptick in 2026 Construction Activity at Pickaxe Mountain",
+      "url": "https://www.csis.org/analysis/satellite-imagery-pickaxe-mountain",
+      "date": "2026-09-09",
+      "summary_en": "Multisource imagery analysis reveals a new phase of construction at Pickaxe Mountain, Iran's underground nuclear facility. Images indicate more construction activity in 2026 than at any point in the site's history.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Will LLMs Help or Hinder the Democratic Process?",
+      "url": "https://www.csis.org/analysis/will-llms-help-or-hinder-democratic-process",
+      "date": "2026-09-09",
+      "summary_en": "With growing reliance on LLMs for information gathering, it is critical to examine how this technology will impact elections and other exercises in political accountability.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Why the Administration Needs to Deliver on Spectrum",
+      "url": "https://www.csis.org/analysis/why-administration-needs-deliver-spectrum",
+      "date": "2026-09-09",
+      "summary_en": "Congress set an ambitious mid-band spectrum agenda; now the White House must overcome federal resistance and deliver the wireless capacity needed to deploy AI across the physical economy.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Distillation Under TRUST: The Case for a U.S.-India Trusted AI Model Distillation and Diffusion Corridor",
+      "url": "https://www.csis.org/analysis/distillation-under-trust-case-us-india-trusted-ai-model-distillation-and-diffusion",
+      "date": "2026-09-09",
+      "summary_en": "Washington and New Delhi share a problem: Capable Chinese open-weight AI models are winning the Global South. A U.S.-India distillation corridor under TRUST could turn that shared vulnerability into shared leverage and keep Chinese models from setting AI’s terms worldwide.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

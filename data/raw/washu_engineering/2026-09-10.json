@@ -1,0 +1,17 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-09-10T20:00:13.005220",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Oxygen delivery on display",
+      "url": "https://engineering.washu.edu/news/2026/Oxygen-delivery-on-display.html",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "Song Hu’s lab combines light and sound to link neuronal activity with oxygen release at the cellular scale.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

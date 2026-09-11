@@ -1,0 +1,71 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-10T20:00:12.918852",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "McKelvey Engineering dean search committee appointed",
+      "url": "https://source.washu.edu/2026/09/mckelvey-engineering-dean-search-committee-appointed/",
+      "date": "2026-09-10",
+      "type": "Appointments & Promotions",
+      "summary_en": "Provost Mark D. West has appointed a 13-member search committee to identify candidates for the position of dean of the McKelvey School of Engineering at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Mental health care before, after surgery improves recovery in older adults",
+      "url": "https://source.washu.edu/2026/09/mental-health-care-before-after-surgery-improves-recovery-in-older-adults/",
+      "date": "2026-09-09",
+      "type": "Mental Health",
+      "summary_en": "A clinical trial led by WashU Medicine researchers found that combining mental health coaching with medication optimization reduced post-surgery anxiety and depression in older adults.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Oxygen delivery on display",
+      "url": "https://source.washu.edu/2026/09/oxygen-delivery-on-display/",
+      "date": "2026-09-09",
+      "type": "Engineering",
+      "summary_en": "Biomedical researchers at WashU McKelvey Engineering have developed a new imaging technique that captures the dynamic coupling between the brain’s vasculature and its neurons. The new microscopy tool could help lead to breakthroughs in studying stroke and dementia.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Why are refugees with jobs still living in poverty?",
+      "url": "https://source.washu.edu/2026/09/washu-expert-why-are-refugees-with-jobs-still-living-in-poverty/",
+      "date": "2026-09-09",
+      "type": "Social Work",
+      "summary_en": "For newly resettled refugees in the United States, getting a job doesn’t always mean escaping poverty, says an expert on migration policy at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "AI Perspectives Week showcases AI innovation, debate and discovery",
+      "url": "https://source.washu.edu/2026/09/ai-perspectives-week-showcases-ai-innovation-debate-and-discovery/",
+      "date": "2026-09-09",
+      "type": "Artificial Intelligence",
+      "summary_en": "WashU’s AI Perspectives Week will feature about 40 events, showcasing faculty, students and leading thinkers on artificial intelligence. The series highlights research, teaching, ethics and community dialogue, while welcoming both enthusiasts and skeptics.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Alberti campers sketch, build and dream big",
+      "url": "https://source.washu.edu/2026/09/alberti-campers-sketch-build-and-dream-big/",
+      "date": "2026-09-08",
+      "type": "St. Louis Region",
+      "summary_en": "Launched in 2007, WashU’s Alberti Program offers young people a hands-on introduction to architecture, a field rarely included in the K-12 curriculum. Students ask the same questions, use the same tools and build the same models as real-life architects.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Waterlogged seeds reveal melons’ ancient journey",
+      "url": "https://source.washu.edu/2026/09/waterlogged-seeds-reveal-melons-ancient-journey/",
+      "date": "2026-09-08",
+      "type": "Anthropology & Archaeology",
+      "summary_en": "A new WashU study shows how scientists can use ancient DNA to answer historical questions beyond what artifacts alone can reveal.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}
