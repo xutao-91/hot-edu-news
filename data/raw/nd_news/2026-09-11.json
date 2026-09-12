@@ -1,0 +1,26 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-09-11T20:00:09.301361",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "James Schmiedeler appointed vice president and associate provost for faculty recruitment support",
+      "url": "https://news.nd.edu/news/james-schmiedeler-appointed-vice-president-and-associate-provost-for-faculty-recruitment-support/",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "leadership"
+    },
+    {
+      "title": "Notre Dame to reinstate standardized testing requirement for fall 2028 applicants, highlights commitment to access and affordability",
+      "url": "https://news.nd.edu/news/notre-dame-to-reinstate-standardized-testing-requirement-for-fall-2028-applicants-highlights-commitment-to-access-and-affordability/",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

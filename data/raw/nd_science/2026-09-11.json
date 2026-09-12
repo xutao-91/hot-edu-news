@@ -1,0 +1,26 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-09-11T20:00:09.441776",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "London Symposia to feature researchers from the College of Science",
+      "url": "https://science.nd.edu/news-and-media/news/london-symposia-to-feature-researchers-from-the-college-of-science/",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "Combination therapy emerges as possible treatment for an aggressive form of kidney cancer",
+      "url": "https://science.nd.edu/news-and-media/news/combination-therapy-emerges-as-possible-treatment-for-an-aggressive-form-of-kidney-cancer/",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
+}

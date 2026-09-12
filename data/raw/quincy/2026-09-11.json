@@ -1,0 +1,32 @@
+{
+  "source": "Quincy Institute",
+  "source_url": "https://quincyinst.org/research/?_sort_by=date_desc",
+  "crawled_at": "2026-09-11T20:00:15.017275",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "A New Government in Israel: What the Future Might Hold",
+      "url": "https://quincyinst.org/research/a-new-government-in-israel-what-the-future-might-hold/",
+      "date": "2026-09-10",
+      "summary_en": "",
+      "source": "Quincy Institute",
+      "category": "diplomacy"
+    },
+    {
+      "title": "A Blueprint for US Policy Toward the In-Between States",
+      "url": "https://quincyinst.org/research/a-blueprint-for-us-policy-toward-the-in-between-states/",
+      "date": "2026-09-09",
+      "summary_en": "",
+      "source": "Quincy Institute",
+      "category": "diplomacy"
+    },
+    {
+      "title": "China’s Evolving Strategy for International Science and Technology Cooperation",
+      "url": "https://quincyinst.org/research/chinas-evolving-strategy-for-international-science-and-technology-cooperation/",
+      "date": "2026-09-08",
+      "summary_en": "",
+      "source": "Quincy Institute",
+      "category": "diplomacy"
+    }
+  ]
+}

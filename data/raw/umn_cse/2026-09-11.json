@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-09-11T20:00:11.843306",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Researchers pinpoint key early-universe measurement with record precision",
+      "url": "https://cse.umn.edu/college/news/researchers-pinpoint-key-early-universe-measurement-record-precision",
+      "date": "2026-09-09",
+      "type": "Research",
+      "summary_en": "An international team, including researchers from the University of Minnesota Twin Cities, has reached a major milestone in \"precision cosmology\" by measuring the amount of helium created in the universe’s first five minutes with unprecedented accuracy.",
+      "source": "UMN CSE",
+      "category": "research"
+    }
+  ]
+}

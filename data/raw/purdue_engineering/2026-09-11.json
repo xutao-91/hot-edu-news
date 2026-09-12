@@ -1,0 +1,62 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-11T20:00:12.185980",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Indianapolis profiles: The Crossroads of engineering and medicine with Carl Russell III",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0911-carl-russell-biomedical-engineering-nephrology-msc",
+      "date": "September 11, 2026",
+      "type": "News",
+      "summary_en": "Carl Russell III is honing his skills across both engineering and medicine to tackle that nexus as a PhD student at Purdue University in the Weldon School of Biomedical Engineering in Indianapolis.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "CCE researchers featured in fall 2026 edition of Impact Magazine",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0911-purdue-cce-impact-magazine",
+      "date": "September 11, 2026",
+      "type": "News",
+      "summary_en": "The latest edition of the Lyles School of Civil and Construction Engineering’s Fall IMPACT Magazine is here. This issue features stories on protecting the Panama Canal, designing for daylight, driving discovery through demolition, and engineering beyond Earth.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "NSF CAREER awards recognize 7 Purdue Engineering faculty",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0806-NSF-CAREER-awards-recognize-7-Purdue-Engineering-faculty",
+      "date": "September 11, 2026",
+      "type": "News",
+      "summary_en": "Seven Purdue Engineering faculty members have earned National Science Foundation Faculty Early Career Development Program (CAREER) awards in the past year.",
+      "source": "Purdue College of Engineering",
+      "category": "career"
+    },
+    {
+      "title": "Purdue AI Racing sets track record, finishes runner-up in Indy Autonomous Challenge's passing competition",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0904-purdue-ai-racing-sets-track-record-runner-up-laguna-seca",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "Purdue AI Racing set a new track record and won first place in the time trials with a 1:27.731 lap, becoming the first autonomous car ever to beat 1:28 at WeatherTech Raceway Laguna Seca in Monterey, California.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue’s Visionary Voices to feature NobleReach Foundation CEO Arun Gupta",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0820-purdue-engineering-visionary-voices-arun-gupta-noblereach",
+      "date": "September 9, 2026",
+      "type": "News",
+      "summary_en": "Arun Gupta, CEO of the NobleReach Foundation and a national leader in technology, entrepreneurship and public service, will be the featured guest in the next installment of Purdue Engineering’s Visionary Voices.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "MSE researchers collaborate across disciplines to study ancient iron smelting",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0908-purdue-materials-engineering-ancient-iron-smelting",
+      "date": "September 8, 2026",
+      "type": "News",
+      "summary_en": "Researchers in Purdue's School of Materials Engineering, including Professors Nik Chawla and Mohamad Zbib, will analyze newly recovered slag alongside material collected during previous field seasons.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

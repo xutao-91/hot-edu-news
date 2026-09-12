@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-11T20:00:08.061764",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU Indianapolis alum works with anthropology professor to preserve city’s history",
+      "url": "https://news.iu.edu/live/news/52718-iu-indianapolis-alum-works-with-anthropology-professor",
+      "date": "Sep 8, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "faculty"
+    },
+    {
+      "title": "‘That perfect mix’: Incoming Bloomington students share hopes for their future at IU",
+      "url": "https://news.iu.edu/live/news/52708-that-perfect-mix-incoming-bloomington-students",
+      "date": "Sep 8, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU Board of Trustees Executive Committee to meet virtually Sept. 10",
+      "url": "https://news.iu.edu/live/news/52761-iu-board-of-trustees-executive-committee-to-meet",
+      "date": "Sep 8, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

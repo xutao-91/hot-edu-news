@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-11T20:00:11.361709",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "With flowery name, new tool uncovers hidden genetic pathways that cause disease",
+      "url": "https://news.uchicago.edu/story/flowery-name-new-tool-uncovers-hidden-genetic-pathways-cause-disease",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "Dubbed DANDELION, the computational approach developed at UChicago identified central disease-driving genes for asthma, most not previously linked to the condition",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Kenneth Warren to deliver Aims of Education speech to Class of 2030",
+      "url": "https://news.uchicago.edu/story/kenneth-warren-deliver-aims-education-speech-class-2030",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "English professor will urge UChicago undergraduates to push through uncertainty of modern times",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "UChicago launches $300 million initiative for students from rural areas and small towns",
+      "url": "https://news.uchicago.edu/story/uchicago-launches-300-million-initiative-students-rural-areas-and-small-towns",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "$100 million gift from Byron and Tina Trott will expand college access, student support and career pathways",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "New study shows reward can spread through complex memory networks",
+      "url": "https://news.uchicago.edu/story/new-study-shows-reward-can-spread-through-complex-memory-networks",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "UChicago psychologists find our brains use a web of recalled associations to help us make decisions that lead to good outcomes",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

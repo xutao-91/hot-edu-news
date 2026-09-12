@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-11T20:00:07.099727",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Choose encouragement before negativity sets the tone",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/09/11/choose-encouragement-before-negativity-sets-the-tone/",
+      "date": "2026-09-11",
+      "type": "Faculty & Staff",
+      "summary_en": "Negativity can take hold quickly in higher education. It can surface in a faculty meeting, a hallway conversation, an email exchange, or in an informal discussion after a presentation.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Building an everyday equitable practice for AI in schools",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/09/building-an-everyday-equitable-practice-for-ai-in-schools/",
+      "date": "2026-09-09",
+      "type": "AI in Education",
+      "summary_en": "AI technology is advancing rapidly in schools, but research is increasingly showing that Large Language Models (LLMs) lack the common sense, morality, and knowledge of individual classroom dynamics needed to be truly equitable.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

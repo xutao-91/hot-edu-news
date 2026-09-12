@@ -1,0 +1,35 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-09-11T20:00:10.238595",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "O'Neill School researchers to shine at ABFM Conference",
+      "url": "https://oneill.indiana.edu/news/2026-0910-abfm-conference.html",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "O’Neill School public finance scholars will present research and earn honors at the 2026 ABFM Conference, highlighting leadership in budgeting and financial management.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Kim honored by ABFM with prestigious Michael Curro Award",
+      "url": "https://oneill.indiana.edu/news/2026-0910-kim-michael-curro-award.html",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "O’Neill Ph.D. candidate Sewon Kim earns the Michael Curro Best Student Paper Award for research on improving local government financial management.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Gahl-Mills, Baggetta to serve as co-directors of the O’Neill Center for Leadership in Public Service",
+      "url": "https://oneill.indiana.edu/news/2026-0908-gahl-mills-baggetta-leadership-center.html",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "Karen Gahl-Mills and Matthew Baggetta named co-directors of the O’Neill Center for Leadership in Public Service, advancing ethical leadership and civic engagement.",
+      "source": "O'Neill School at IU",
+      "category": "public_affairs"
+    }
+  ]
+}

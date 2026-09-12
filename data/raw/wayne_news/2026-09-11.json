@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-09-11T20:00:13.414169",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Wayne State convenes design and innovation community during Detroit Month of Design",
+      "url": "https://economicdevelopment.wayne.edu/news/wayne-state-brings-together-design-and-innovation-community-during-detroit-month-of-design-70119",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "College of Nursing tackles workforce shortage with multimillion dollar support from the Jamie and Denise Jacob Family Foundation",
+      "url": "https://alumni.wayne.edu/news/college-of-nursing-tackles-workforce-shortage-with-multimillion-dollar-support-from-the-jamie-and-denise-jacob-family-foundation-70107",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State welcomes accomplished new faculty for 2026-27",
+      "url": "https://today.wayne.edu/news/2026/09/08/wayne-state-welcomes-accomplished-new-faculty-for-2026-27-70078",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Fine arts degree opens doors for WSU alumna K. Dawn-Dumas",
+      "url": "https://cfpca.wayne.edu/news/fine-arts-degree-opens-doors-for-wayne-state-university-alumna-k-dawn-dumas-70086",
+      "date": "2026-09-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}
