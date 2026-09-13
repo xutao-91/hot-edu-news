@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-12T20:00:14.458295",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Public procurement and AI governance: Developing a strategic framework for middle powers",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5284-1.html",
+      "date": "Sep 11, 2026",
+      "type": "Research",
+      "summary_en": "This report examines how AI middle powers can use public procurement to govern frontier AI. It develops a set of procurement guarantees, and assesses whether coordinated purchasing standards could strengthen state bargaining power.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

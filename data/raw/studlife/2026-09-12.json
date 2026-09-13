@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-12T20:00:12.072956",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "WashU restricts international student internships after new federal guidelines",
+      "url": "https://www.studlife.com/news/2026/09/11/washu-restricts-international-student-internships-after-new-federal-guidelines",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "",
+      "author": "Leni Saltos",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Remembering Kennedy Reed",
+      "url": "https://www.studlife.com/news/2026/09/10/remembering-kennedy-reed",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "",
+      "author": "Selina Son",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Professor accused of sexual misconduct sues WashU for ‘anti-male bias’",
+      "url": "https://www.studlife.com/news/2026/09/09/professor-accused-of-sexual-misconduct-sues-washu-for-anti-male-bias",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tanvi Gorre",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Noise from construction of McLeod House sparks student concern",
+      "url": "https://www.studlife.com/news/2026/09/09/noise-from-construction-of-mcleod-house-sparks-student-concern",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein, Willa Marks",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}

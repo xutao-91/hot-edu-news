@@ -1,0 +1,17 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-12T20:00:12.447428",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UIC sets enrollment record for second straight year",
+      "url": "https://today.uic.edu/uic-sets-enrollment-record-for-second-straight-year/",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "From its largest-ever human circle to record enrollment, UIC made history this fall.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

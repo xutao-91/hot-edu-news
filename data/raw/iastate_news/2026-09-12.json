@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-09-12T20:00:08.243364",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Retention efforts support fall enrollment of 30,772",
+      "url": "https://www.news.iastate.edu/news/retention-efforts-support-fall-enrollment-30772",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "Iowa State University’s fall enrollment reflects its commitment to helping students earn their degree with a one-year retention rate of 88.3% and record two-year retention of 82.9%. Iowa State’s total enrollment of 30,772 includes a first-year class of 5,872 students.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Researchers lead statewide effort to reduce cancer risk for firefighters",
+      "url": "https://www.news.iastate.edu/news/researchers-lead-statewide-effort-reduce-cancer-risk-firefighters",
+      "date": "2026-09-09",
+      "type": "Innovation and Research",
+      "summary_en": "As modern fires grow more chemically complex, Iowa State researchers are studying the invisible residues they leave behind and working to develop practical solutions that Iowa fire departments can use to reduce their exposure.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

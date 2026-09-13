@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-09-12T20:00:13.553336",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Wayne State convenes design and innovation community during Detroit Month of Design",
+      "url": "https://economicdevelopment.wayne.edu/news/wayne-state-brings-together-design-and-innovation-community-during-detroit-month-of-design-70119",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "College of Nursing tackles workforce shortage with multimillion dollar support from the Jamie and Denise Jacob Family Foundation",
+      "url": "https://alumni.wayne.edu/news/college-of-nursing-tackles-workforce-shortage-with-multimillion-dollar-support-from-the-jamie-and-denise-jacob-family-foundation-70107",
+      "date": "2026-09-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

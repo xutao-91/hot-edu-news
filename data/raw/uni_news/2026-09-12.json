@@ -1,0 +1,17 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-12T20:00:12.906405",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "UNI marks highest enrollment since 2020 with 9,366 students",
+      "url": "https://insideuni.uni.edu/campus-community/uni-marks-highest-enrollment-2020-9366-students",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "For the third consecutive year, the University of Northern Iowa has enrolled an incoming freshman class of over 1,500 students, with the number of incoming freshmen, transfers and new grad students all being up this fall.",
+      "source": "UNI News",
+      "category": "students"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-09-12T20:00:13.404338",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "McKelvey Engineering dean search committee appointed",
+      "url": "https://engineering.washu.edu/news/2026/McKelvey-Engineering-dean-search-committee-appointed.html",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "Provost Mark D. West has appointed a 13-member search committee to identify candidates for the position of dean of McKelvey Engineering.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Oxygen delivery on display",
+      "url": "https://engineering.washu.edu/news/2026/Oxygen-delivery-on-display.html",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "Song Hu’s lab combines light and sound to link neuronal activity with oxygen release at the cellular scale.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "How light can reveal the hidden orientation of a single molecule",
+      "url": "https://engineering.washu.edu/news/2026/How-light-can-reveal-the-hidden-orientation-of-a-single-molecule.html",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "Matthew Lew’s lab crafts imaging technology to learn molecular details.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Pathak named member of National Institutes of Health study section",
+      "url": "https://engineering.washu.edu/news/2026/Pathak-named-member-of-National-Institutes-of-Health-study-section.html",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "Amit Pathak will review applications concerned with the development of models for biological systems.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    }
+  ]
+}
