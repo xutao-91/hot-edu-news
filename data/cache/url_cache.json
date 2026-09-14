@@ -22708,5 +22708,29 @@
     "fetch_time": "2026-09-12T20:00:11.019095",
     "title": "The U.S. Electorate’s Changing Racial and Ethnic Makeup",
     "category": "semiconductor"
+  },
+  "https://www.csis.org/events/conversation-ambassador-raja-nushirwan-director-general-national-security-council-malaysia": {
+    "source": "csis",
+    "fetch_time": "2026-09-13T22:30:56.202101",
+    "title": "A Conversation with Ambassador Raja Nushirwan, Director-General of the National Security Council of Malaysia",
+    "category": "general"
+  },
+  "https://www.csis.org/events/cafb-2026-hunger-report": {
+    "source": "csis",
+    "fetch_time": "2026-09-13T22:30:56.202101",
+    "title": "The Capital Area Food Bank 2026 Hunger Report Launch",
+    "category": "general"
+  },
+  "https://www.studlife.com/news/2026/09/13/paws-go-charging-approximately-2-5-times-more-than-schnucks-post-redesign": {
+    "source": "studlife",
+    "fetch_time": "2026-09-13T22:31:02.895794",
+    "title": "Paws & Go charging approximately 2.5 times more than Schnucks post-redesign",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-anniversary-of-the-battle-of-fort-mchenry/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-13T22:31:04.267536",
+    "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry",
+    "category": "general"
   }
 }

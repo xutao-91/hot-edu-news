@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-13T22:31:04.165664",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "‘Hair is my identity’: Student sells textured-hair products from Village vending machine",
+      "url": "https://source.washu.edu/2026/09/hair-is-my-identity-student-sells-textured-hair-products-from-village-vending-machine/",
+      "date": "2026-09-11",
+      "type": "Students",
+      "summary_en": "Zariah Taylor, a senior and Sam Fox School fashion design student, has launched TheHairVault, a vending machine for textured-hair products, in the Village, with support from the Skandalaris Center’s Student Enterprise Program.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "McKelvey Engineering dean search committee appointed",
+      "url": "https://source.washu.edu/2026/09/mckelvey-engineering-dean-search-committee-appointed/",
+      "date": "2026-09-10",
+      "type": "Appointments & Promotions",
+      "summary_en": "Provost Mark D. West has appointed a 13-member search committee to identify candidates for the position of dean of the McKelvey School of Engineering at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "advancement"
+    }
+  ]
+}

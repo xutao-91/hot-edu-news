@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-09-13T22:30:56.935463",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "ACE Survey: Financial Viability and Perceptions of Value are Top of Mind for Higher Ed Leaders",
+      "url": "https://www.acenet.edu/News-Room/Pages/Pulse-Point-Survey-Financial-Viability-and-Perceptions-of-Value.aspx",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "Public perceptions about value and long-term financial viability are the most pressing issues for higher education leaders who responded to the latest ACE Pulse Point survey.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "International Students Face New Immigration Hurdles This Year",
+      "url": "https://www.acenet.edu/News-Room/Pages/International-Students-Face-New-Immigration-Hurdles-This-Year-.aspx",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "International students are heading into another difficult fall, with new immigration restrictions taking effect just as applications and enrollment are already falling.",
+      "source": "ACE",
+      "category": "international"
+    }
+  ]
+}

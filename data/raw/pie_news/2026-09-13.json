@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-13T22:31:01.751515",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "“We can’t just wait it out”: experts tout partnerships as antidote to compliance squeeze",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "International student policy shifts across the big four are not \"a cycle we can simply wait out” and will force universities to rethink how they recruit, partner and design learning, sector leaders argued in a panel on international pathways and compliance.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "August applications for UK study visas fall 16% in just a year",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-10",
+      "type": "Policy",
+      "summary_en": "Concerns are mounting about the falling number of international students applying to study in the UK, with new government figures showing a marked drop off in visa applications.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Canada increases proof of funds requirement",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-10",
+      "type": "Policy",
+      "summary_en": "Canada has increased its proof of financial support for study permits in line with the cost of living.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "CAS issuances down 27% as UK visa refusals jump 30%, Enroly data shows",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-09-10",
+      "type": "Data",
+      "summary_en": "Recruitment behaviours are changing, with South Asian and African countries the worst hit amid the UK's compliance squeeze, according to new data analysis from Enroly.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "EC English halts new student arrivals worldwide this weekend",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-09-10",
+      "type": "Language learning",
+      "summary_en": "EC English Language Centres has said it will not be able to accept students due to arrive at its worldwide schools this weekend.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Scotland’s new minister stakes out a pro‑Erasmus, pro‑EU mobility agenda",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-09-10",
+      "type": "Study Abroad",
+      "summary_en": "Barely 24 hours into the job, Scotland’s new minister for innovation, technology and tertiary education, Alyn Smith, used the EAIE conference in Glasgow to send a clear message to the international education sector that Scotland wants to be deeply plugged into European mobility and collaboration.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "US edtech nonprofit Technovation named PIEoneer of the year",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-09-10",
+      "type": "Edtech",
+      "summary_en": "Technovation was recognised at The PIEoneer Awards 2026 for helping underrepresented young people develop technology-based solutions to challenges in their communities.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

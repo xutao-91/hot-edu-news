@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-13T22:31:03.088447",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "With flowery name, new tool uncovers hidden genetic pathways that cause disease",
+      "url": "https://news.uchicago.edu/story/flowery-name-new-tool-uncovers-hidden-genetic-pathways-cause-disease",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "Dubbed DANDELION, the computational approach developed at UChicago identified central disease-driving genes for asthma, most not previously linked to the condition",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Kenneth Warren to deliver Aims of Education speech to Class of 2030",
+      "url": "https://news.uchicago.edu/story/kenneth-warren-deliver-aims-education-speech-class-2030",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "English professor will urge UChicago undergraduates to push through uncertainty of modern times",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

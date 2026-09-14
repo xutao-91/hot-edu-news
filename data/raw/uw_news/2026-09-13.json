@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-13T22:31:03.825035",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "WARF announces total 2026 support for UW–Madison research",
+      "url": "https://www.warf.org/news/warf-announces-total-2026-support-for-uw-madison-research/",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "Last fiscal year, WARF provided $160.7 million in total support to UW–Madison and the Morgridge Institute for Research.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Search begins for 2 new ombuds",
+      "url": "https://news.wisc.edu/search-begins-for-2-new-ombuds-3/",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "UW ombuds provide informal opportunities for employees to be heard in addressing workplace problems.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Inside the studio of the best student radio station",
+      "url": "https://news.wisc.edu/inside-the-studio-of-the-best-student-radio-station/",
+      "date": "September 10, 2026",
+      "type": "News",
+      "summary_en": "WSUM rules the airwaves thanks to creative freedom and hard work.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
+}

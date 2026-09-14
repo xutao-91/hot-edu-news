@@ -1,0 +1,35 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-09-13T22:31:03.216841",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Researchers: Parents should combine words with gestures to help their children learn",
+      "url": "/news/2026/09/researchers-parents-should-combine-words-gestures-help-their-children-learn",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "University of Iowa neuroscientists find in a new study that the brain waves of parents and their child are synced when the parent combines speech with gestures during instruction. The findings could help improve a child’s ability to learn and develop.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa’s 2026 incoming class, by the numbers",
+      "url": "https://link.uiowa.edu/l/3382c811-e1dc-469f-a1a5-0475a98165c3?m=014b762b-7ea9-4335-8636-a9be365950b0&c=d.vpsc&i=202609",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "The University of Iowa’s 2026 incoming class marks the fifth consecutive first-year class of more than 5,000 students and again is among the largest in university history. It’s also one of the highest achieving, with an average high school grade-point average of 3.87. Read more about our newest Hawkeyes.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI Health Care shifting focus to more quickly expand access to care for Iowans",
+      "url": "https://link.uiowa.edu/l/65aa7930-7ab9-47c5-a3f8-c5921ebae35c?m=014b762b-7ea9-4335-8636-a9be365950b0&c=d.vpsc&i=202609",
+      "date": "2026-09-10",
+      "type": "News",
+      "summary_en": "UI Health Care is revising its facilities strategy to more quickly expand access to care for Iowans. By modernizing and expanding existing spaces instead of building a new hospital tower, the health system expects to add about 100 patient beds and serve an estimated 23,000 patients sooner.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}
