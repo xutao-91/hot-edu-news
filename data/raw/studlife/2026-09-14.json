@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-14T20:00:14.828417",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Paws & Go charging approximately 2.5 times more than Schnucks post-redesign",
+      "url": "https://www.studlife.com/news/2026/09/13/paws-go-charging-approximately-2-5-times-more-than-schnucks-post-redesign",
+      "date": "2026-09-13",
+      "type": "News",
+      "summary_en": "",
+      "author": "Jake Isenberg, Selina Son",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "WashU restricts international student internships after new federal guidelines",
+      "url": "https://www.studlife.com/news/2026/09/11/washu-restricts-international-student-internships-after-new-federal-guidelines",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "",
+      "author": "Leni Saltos",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-14T20:00:14.077872",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Temporary win for sector taking on Duration of Status in court",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "New rules that limit international students to a defined duration of status while studying in the US will not begin on September 15.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Amy Baker"
+    },
+    {
+      "title": "EC English closes all global schools",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-09-14",
+      "type": "Language learning",
+      "summary_en": "EC English Language Centres has confirmed it is closing all its 25 language schools across seven destinations, effective immediately.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "One Nation pledges net-negative migration and 750,000 cut to temporary visas",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-14",
+      "type": "Policy",
+      "summary_en": "Australia’s opposition One Nation party has pledged to deliver net-negative migration during the first three years of a One Nation government, including a cut of more than 750,000 temporary visas.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Russell group predicted to be only mission group in the green as two-tier BCA system emerges",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "While no formal two-tier system exists in UK higher education, predictive analysis from The PIE shows that the Russell Group may be the only mission group to achieve \"green\" levels of visa refusals according to the new Basic Compliance Assessment.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Nicholas Cuthbert and Dave Amor"
+    },
+    {
+      "title": "“We can’t just wait it out”: experts tout partnerships as antidote to compliance squeeze",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "International student policy shifts across the big four are not \"a cycle we can simply wait out” and will force universities to rethink how they recruit, partner and design learning, sector leaders argued in a panel on international pathways and compliance.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

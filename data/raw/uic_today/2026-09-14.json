@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-14T20:00:15.420923",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "September in photos",
+      "url": "https://today.uic.edu/september-in-photos/",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "Check out pics from the grad welcome picnic, involvement fair and more",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC research shines bright in Art on the Mart",
+      "url": "https://today.uic.edu/uic-research-shines-bright-in-art-on-the-mart/",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "“Where data becomes light” will run Thursdays through Sundays from Sept. 10-Nov. 15.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

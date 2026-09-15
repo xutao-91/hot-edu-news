@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-14T20:00:14.727432",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Mail-in Ballots, Redistricting, and Election Rule Uncertainty",
+      "url": "https://news.uchicago.edu/mail-ballots-redistricting-and-election-rule-uncertainty",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "As World Cup referee, UChicago student tests Machiavelli’s vision of leadership",
+      "url": "https://news.uchicago.edu/story/world-cup-referee-uchicago-student-tests-machiavellis-vision-leadership",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "Joe Dickerson draws on his soccer officiating career in studying ‘The Prince’ and philosophy at Graham School",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "The powerful millionaires hiding in plain sight",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Why the U.S. should pay families of civilians killed by the military",
+      "url": "https://www.latimes.com/opinion/story/2026-09-13/united-states-condolence-payments-civilian-victims-of-military-actions",
+      "date": "2026-09-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "With flowery name, new tool uncovers hidden genetic pathways that cause disease",
+      "url": "https://news.uchicago.edu/story/flowery-name-new-tool-uncovers-hidden-genetic-pathways-cause-disease",
+      "date": "2026-09-11",
+      "type": "News",
+      "summary_en": "Dubbed DANDELION, the computational approach developed at UChicago identified central disease-driving genes for asthma, most not previously linked to the condition",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-09-14T20:00:08.113491",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "CQE partners Infleqtion and Cisco announce collaboration to advance networked quantum technology",
+      "url": "https://infleqtion.com/infleqtion-and-cisco-announce-collaboration-to-advance-networked-quantum-technology/",
+      "date": "2026-09-10",
+      "summary_en": "The collaboration brings together Infleqtion’s neutral-atom quantum computers and sensors with Cisco’s networking stack to accelerate scalable, distributed quantum computing",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

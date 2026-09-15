@@ -22732,5 +22732,215 @@
     "fetch_time": "2026-09-13T22:31:04.267536",
     "title": "Presidential Message on the Anniversary of the Battle of Fort McHenry",
     "category": "general"
+  },
+  "https://www.brookings.edu/articles/children-in-foster-care-need-more-than-just-a-child-care-slot/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-14T20:00:09.738197",
+    "title": "Children in foster care need more than just a child care slot",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/teaching-learning/2026/09/14/aacte-releases-national-framework-on-ai-in-educator-preparation/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-09-14T20:00:09.802316",
+    "title": "AACTE releases national framework on AI in educator preparation",
+    "category": "education"
+  },
+  "https://www.csis.org/events/conversation-ambassador-raja-nushirwan-zainal-abidin-director-general-national-security": {
+    "source": "csis",
+    "fetch_time": "2026-09-14T20:00:09.849019",
+    "title": "A Conversation with Ambassador Raja Nushirwan Zainal Abidin, Director General of National Security of Malaysia",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/aukus-turns-five-real-progress-hard-challenges-ahead": {
+    "source": "csis",
+    "fetch_time": "2026-09-14T20:00:09.849019",
+    "title": "AUKUS Turns Five: Real Progress, Hard Challenges Ahead",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/chinas-open-weight-challenge-us-ai-leadership": {
+    "source": "csis",
+    "fetch_time": "2026-09-14T20:00:09.849019",
+    "title": "China’s Open-Weight Challenge to U.S. AI Leadership",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/iran-and-emerging-security-order-middle-east": {
+    "source": "csis",
+    "fetch_time": "2026-09-14T20:00:09.849019",
+    "title": "Iran and the Emerging Security Order in the Middle East",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2ephp/analysis/pacific-leaders-meeting-too-few-leaders": {
+    "source": "csis",
+    "fetch_time": "2026-09-14T20:00:09.849019",
+    "title": "A Pacific Leaders Meeting with Too Few Leaders",
+    "category": "semiconductor"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-workforce-pell-grant-programs-nebraska": {
+    "source": "edgov",
+    "fetch_time": "2026-09-14T20:00:10.076627",
+    "title": "U.S. Department of Education Approves Workforce Pell Grant Programs in Nebraska",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-09-14-undergraduate-induction-ceremony.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-09-14T20:00:10.894984",
+    "title": "Undergraduate ceremony marks next step for future educators",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52620-iu-names-global-orthopedic-technology-executive-as": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-14T20:00:10.985654",
+    "title": "IU names global orthopedic technology executive as CEO of NSF IMPACT Engine in Indiana",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/52811-beat-the-heat-program-at-iu-collaborates-with": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-14T20:00:10.985654",
+    "title": "Beat the Heat program at IU collaborates with Indiana cities to build capacity for heat resilience",
+    "category": "general"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-announces-alumni-wall-of-distinction-inductees": {
+    "source": "msoe",
+    "fetch_time": "2026-09-14T20:00:11.894262",
+    "title": "MSOE announces Alumni Wall of Distinction inductees",
+    "category": "general"
+  },
+  "https://www.belfercenter.org/research-analysis/computational-statecraft-overview": {
+    "source": "belfer_ai",
+    "fetch_time": "2026-09-14T20:00:12.127081",
+    "title": "Computational Statecraft: An Overview",
+    "category": "ai"
+  },
+  "https://www.mtu.edu/news/2026/09/sound-decisions-acoustics-research-leads-goldwater-scholar-to-nasa-and-beyond.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-09-14T20:00:12.720256",
+    "title": "Sound Decisions: Acoustics Research Leads Goldwater Scholar to NASA and Beyond",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/14/the-us-constitution-is-among-the-hardest-in-the-world-to-amend/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-14T20:00:13.713358",
+    "title": "The U.S. Constitution is among the hardest in the world to amend",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/ku-architecture-design-alumni-awards-recognize-11-distinguished-alumni": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-14T20:00:14.287233",
+    "title": "KU Architecture & Design Alumni Awards recognize 11 distinguished alumni",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/12-instructional-faculty-members-promoted-in-past-year": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-14T20:00:14.287233",
+    "title": "12 instructional faculty members promoted in past year",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researchers-uncover-key-insight-into-mini-stroke-treatment/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-14T20:00:14.781930",
+    "title": "Mizzou researchers uncover key insight into mini-stroke treatment",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/as-he-turns-40-truman-picks-up-some-age-appropriate-hobbies-and-habits/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-14T20:00:14.781930",
+    "title": "As he turns 40, Truman picks up some age-appropriate hobbies and habits",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/mail-ballots-redistricting-and-election-rule-uncertainty": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-14T20:00:14.793527",
+    "title": "Mail-in Ballots, Redistricting, and Election Rule Uncertainty",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/world-cup-referee-uchicago-student-tests-machiavellis-vision-leadership": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-14T20:00:14.793527",
+    "title": "As World Cup referee, UChicago student tests Machiavelli’s vision of leadership",
+    "category": "education"
+  },
+  "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-14T20:00:14.793527",
+    "title": "The powerful millionaires hiding in plain sight",
+    "category": "ai"
+  },
+  "https://www.latimes.com/opinion/story/2026-09-13/united-states-condolence-payments-civilian-victims-of-military-actions": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-14T20:00:14.793527",
+    "title": "Why the U.S. should pay families of civilians killed by the military",
+    "category": "general"
+  },
+  "https://today.uic.edu/september-in-photos/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-14T20:00:15.495881",
+    "title": "September in photos",
+    "category": "ai"
+  },
+  "https://today.uic.edu/uic-research-shines-bright-in-art-on-the-mart/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-14T20:00:15.495881",
+    "title": "UIC research shines bright in Art on the Mart",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-host-higher-education-expert-kevin-mcclure-hearst-lecture": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-14T20:00:15.559971",
+    "title": "UNI to host higher education expert Kevin McClure for Hearst Lecture",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/2026-university-address-looks-ahead-uni-celebrates-150-years": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-14T20:00:15.559971",
+    "title": "2026 University Address looks ahead as UNI celebrates 150 years",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/education/uni-pe-major-confidently-embarks-student-teaching": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-14T20:00:15.559971",
+    "title": "UNI PE major confidently embarks on student teaching",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0910-purdue-engineering-aditya-singla-chorafas-award-solid-state-battery": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-14T20:00:16.094183",
+    "title": "Award-winning Purdue Engineering research targets a persistent solid-state battery problem",
+    "category": "semiconductor"
+  },
+  "https://cse.umn.edu/college/news/suo-yang-awarded-prestigious-naval-research-fellowship": {
+    "source": "umn_cse",
+    "fetch_time": "2026-09-14T20:00:16.284029",
+    "title": "Suo Yang awarded prestigious naval research fellowship",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-9fc3/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-14T20:00:16.323021",
+    "title": "Nominations Sent to the Senate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/warrior-ethos-in-action-dude-44-bravos-incredible-story/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-14T20:00:16.323021",
+    "title": "Warrior Ethos in Action: DUDE 44 Bravo’s Incredible Story",
+    "category": "general"
+  },
+  "https://www.wilsoncenter.org/video/3-ways-we-underestimate-chinas-global-influence": {
+    "source": "wilson_china",
+    "fetch_time": "2026-09-14T20:00:16.488809",
+    "title": "3 Ways We Underestimate China's Global Influence",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71488.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-14T20:00:18.301132",
+    "title": "Artificial Intelligence and the Ethics and Practice of Evaluation",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5112-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-14T20:00:18.301132",
+    "title": "Open-Weight AI Models May Increase Biological Misuse Risks: Assessing Anti-Refusal Tampering, Capability Enhancement, and Publicly Available Uncensored Models",
+    "category": "ai"
   }
 }

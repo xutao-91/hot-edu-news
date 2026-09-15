@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Artificial Intelligence and the Ethics and Practice of Evaluation",
+    "url": "https://www.rand.org/pubs/external_publications/EP71488.html",
+    "date": "Sep 14, 2026",
+    "type": "Research",
+    "summary_en": "This chapter argues for engaging with AI ethics before AI-led reasoning becomes institutionally embedded.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Artificial Intelligence and the Ethics and Practice of Evaluation",
+    "summary_cn": "",
+    "_sort_date": "2026-09-14"
+  },
+  {
+    "title": "Open-Weight AI Models May Increase Biological Misuse Risks: Assessing Anti-Refusal Tampering, Capability Enhancement, and Publicly Available Uncensored Models",
+    "url": "https://www.rand.org/pubs/research_reports/RRA5112-1.html",
+    "date": "Sep 14, 2026",
+    "type": "Research",
+    "summary_en": "Open-weight LLMs can be modified by users, creating benefits but also biosecurity risks. We find that removing an LLM’s safety training is feasible and may amplify realistic threat pathways, while enhancing an LLM’s biological capabilities is harder.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Open-Weight AI Models May Increase Biological Misuse Risks: Assessing Anti-Refusal Tampering, Capability Enhancement, and Publicly Available Uncensored Models",
+    "summary_cn": "",
+    "_sort_date": "2026-09-14"
+  }
+]

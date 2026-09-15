@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-14T20:00:10.935078",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU names global orthopedic technology executive as CEO of NSF IMPACT Engine in Indiana",
+      "url": "https://news.iu.edu/live/news/52620-iu-names-global-orthopedic-technology-executive-as",
+      "date": "Sep 14, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Beat the Heat program at IU collaborates with Indiana cities to build capacity for heat resilience",
+      "url": "https://news.iu.edu/live/news/52811-beat-the-heat-program-at-iu-collaborates-with",
+      "date": "Sep 11, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

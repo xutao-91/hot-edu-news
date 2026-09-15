@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-14T20:00:16.024800",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Award-winning Purdue Engineering research targets a persistent solid-state battery problem",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0910-purdue-engineering-aditya-singla-chorafas-award-solid-state-battery",
+      "date": "September 14, 2026",
+      "type": "News",
+      "summary_en": "Aditya Singla used computer modeling to uncover how defects form at battery interfaces, with implications for safer, higher-energy density lithium and sodium batteries.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "Indianapolis profiles: The Crossroads of engineering and medicine with Carl Russell III",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0911-carl-russell-biomedical-engineering-nephrology-msc",
+      "date": "September 11, 2026",
+      "type": "News",
+      "summary_en": "Carl Russell III is honing his skills across both engineering and medicine to tackle that nexus as a PhD student at Purdue University in the Weldon School of Biomedical Engineering in Indianapolis.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "CCE researchers featured in fall 2026 edition of Impact Magazine",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0911-purdue-cce-impact-magazine",
+      "date": "September 11, 2026",
+      "type": "News",
+      "summary_en": "The latest edition of the Lyles School of Civil and Construction Engineering’s Fall IMPACT Magazine is here. This issue features stories on protecting the Panama Canal, designing for daylight, driving discovery through demolition, and engineering beyond Earth.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "NSF CAREER awards recognize 7 Purdue Engineering faculty",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0806-NSF-CAREER-awards-recognize-7-Purdue-Engineering-faculty",
+      "date": "September 11, 2026",
+      "type": "News",
+      "summary_en": "Seven Purdue Engineering faculty members have earned National Science Foundation Faculty Early Career Development Program (CAREER) awards in the past year.",
+      "source": "Purdue College of Engineering",
+      "category": "career"
+    }
+  ]
+}

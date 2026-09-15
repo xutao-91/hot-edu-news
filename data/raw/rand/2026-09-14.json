@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-14T20:00:18.250983",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Artificial Intelligence and the Ethics and Practice of Evaluation",
+      "url": "https://www.rand.org/pubs/external_publications/EP71488.html",
+      "date": "Sep 14, 2026",
+      "type": "Research",
+      "summary_en": "This chapter argues for engaging with AI ethics before AI-led reasoning becomes institutionally embedded.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Open-Weight AI Models May Increase Biological Misuse Risks: Assessing Anti-Refusal Tampering, Capability Enhancement, and Publicly Available Uncensored Models",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5112-1.html",
+      "date": "Sep 14, 2026",
+      "type": "Research",
+      "summary_en": "Open-weight LLMs can be modified by users, creating benefits but also biosecurity risks. We find that removing an LLM’s safety training is feasible and may amplify realistic threat pathways, while enhancing an LLM’s biological capabilities is harder.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Public procurement and AI governance: Developing a strategic framework for middle powers",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5284-1.html",
+      "date": "Sep 11, 2026",
+      "type": "Research",
+      "summary_en": "This report examines how AI middle powers can use public procurement to govern frontier AI. It develops a set of procurement guarantees, and assesses whether coordinated purchasing standards could strengthen state bargaining power.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
