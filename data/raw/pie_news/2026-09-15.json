@@ -1,0 +1,88 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-15T20:00:12.955937",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "US colleges restrict internships as CPT rules tighten",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-15",
+      "type": "Policy",
+      "summary_en": "Following two warnings from the administration last month, swathes of US colleges have suspended internship and placement opportunities for international students unless they are a degree requirement.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "EAIE: National strategies sharpen focus on talent, but autonomy stays non‑negotiable",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-15",
+      "type": "Policy",
+      "summary_en": "European governments are refining their internationalisation strategies with a view to attract and retain talent. But at EAIE 2026 in Glasgow, sector leaders from the UK, Germany and Slovenia underlined that universities still expect – and need – room to set their own course.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "London Mayor teams up with unis to welcome international students",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-09-15",
+      "type": "Student experience",
+      "summary_en": "The Mayor of London has joined forces with London’s universities, the Metropolitan Police and Transport for London to launch a unified welcome for international students arriving in the UK's capital city.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "New Zealand’s rebound signals shift in student demand",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "New Zealand’s international education recovery is being driven by a shift in how students view the destination, rather than simply a post-pandemic rebound, according to Education New Zealand chief executive David Downs.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Temporary win for sector in duration of status lawsuit",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-09-15",
+      "type": "Immigration",
+      "summary_en": "New rules establishing strict time limits on US study visas will not begin on September 15.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Amy Baker"
+    },
+    {
+      "title": "EC English closes all global schools",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-09-14",
+      "type": "Language learning",
+      "summary_en": "EC English Language Centres has confirmed it is closing all its 25 language schools across seven destinations, effective immediately.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "One Nation pledges net-negative migration and 750,000 cut to temporary visas",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-14",
+      "type": "Policy",
+      "summary_en": "Australia’s opposition One Nation party has pledged to deliver net-negative migration during the first three years of a One Nation government, including a cut of more than 750,000 temporary visas.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Russell group predicted to be only mission group in the green as two-tier BCA system emerges",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "While no formal two-tier system exists in UK higher education, predictive analysis from The PIE shows that the Russell Group may be the only mission group to achieve \"green\" levels of visa refusals according to the new Basic Compliance Assessment.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Nicholas Cuthbert and Dave Amor"
+    }
+  ]
+}

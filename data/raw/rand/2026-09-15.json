@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-15T20:00:15.618531",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence: Maintaining Freedom of Action",
+      "url": "https://www.rand.org/pubs/perspectives/PEA5105-1.html",
+      "date": "Sep 15, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Frontier artificial intelligence continues to advance, and many experts contend that superintelligence is possible. The authors recommend a Freedom of Action strategy to secure geopolitical advantage and ensure humanity’s survival with agency.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Artificial Intelligence and the Ethics and Practice of Evaluation",
+      "url": "https://www.rand.org/pubs/external_publications/EP71488.html",
+      "date": "Sep 14, 2026",
+      "type": "Research",
+      "summary_en": "This chapter argues for engaging with AI ethics before AI-led reasoning becomes institutionally embedded.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Open-Weight AI Models May Increase Biological Misuse Risks: Assessing Anti-Refusal Tampering, Capability Enhancement, and Publicly Available Uncensored Models",
+      "url": "https://www.rand.org/pubs/research_reports/RRA5112-1.html",
+      "date": "Sep 14, 2026",
+      "type": "Research",
+      "summary_en": "Open-weight LLMs can be modified by users, creating benefits but also biosecurity risks. We find that removing an LLM’s safety training is feasible and may amplify realistic threat pathways, while enhancing an LLM’s biological capabilities is harder.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

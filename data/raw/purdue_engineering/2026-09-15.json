@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-15T20:00:14.550954",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Lyles School taps UC San Diego's Michael Todd as its next head",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0915-lyles-school-taps-uc-san-diegos-michael-todd-as-its-next-head",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Purdue Engineering has selected Michael D. Todd as the next Bowen Engineering Head of the Lyles School of Civil and Construction Engineering.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Award-winning Purdue Engineering research targets a persistent solid-state battery problem",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0910-purdue-engineering-aditya-singla-chorafas-award-solid-state-battery",
+      "date": "September 14, 2026",
+      "type": "News",
+      "summary_en": "Aditya Singla used computer modeling to uncover how defects form at battery interfaces, with implications for safer, higher-energy density lithium and sodium batteries.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

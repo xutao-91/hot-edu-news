@@ -1,0 +1,26 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-09-15T20:00:10.868261",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "From Research to Me-Search",
+      "url": "https://mendoza.nd.edu/news/from-research-to-me-search/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Dean Shepherd’s research, shaped by personal experience and recognized with a global award, challenges conventional thinking.",
+      "source": "Mendoza College of Business",
+      "category": "research"
+    },
+    {
+      "title": "It’s Time to Kill the Trade-Through Rule",
+      "url": "https://mendoza.nd.edu/news/its-time-to-kill-the-trade-through-rule/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Notre Dame Finance Professor Robert Battalio testifies about Rule 611 before Congressional subcommittee.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}
