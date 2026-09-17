@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-16T20:00:17.797604",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "What Is UW–Madison?",
+      "url": "https://onwisconsin.uwalumni.com/what-is-uw-madison/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "For fans of both Jeopardy! and the UW, it’s a special thrill when the top-rated TV quiz show reveals a clue related to the university, which might happen more than you think!",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison in four walks",
+      "url": "https://onwisconsin.uwalumni.com/uw-madison-in-four-walks/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Lush landscapes, iconic architecture, centuries of local history and meditative escapes. UW has it all along these scenic walks across campus.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Going long on Badger history",
+      "url": "https://www.library.wisc.edu/news/2026/09/14/going-long-on-badger-history/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "In celebration of the Badgers–Fighting Irish game, UW Archives spent nine months unearthing treasures for a once-in-a-lifetime exhibit with the University of Notre Dame.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

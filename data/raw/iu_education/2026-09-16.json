@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-09-16T20:00:11.871254",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU School of Education faculty lead $20 Million NSF grant to advance AI-powered learning",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-09-15-iusoe-faculty-lead-20-million-nsf-grant-to-advance-ai-powered-learning.html",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "Researchers with the IU School of Education will lead the education research as part of a five-year, $20 million grant recently awarded by the National Science Foundation (NSF) for the NSF AI Institute for Engaged Learning. This will allow researchers to create artificial intelligence-enabled technology that supports student and teacher agency in narrative-centered learning environments.",
+      "source": "IU School of Education",
+      "category": "faculty"
+    },
+    {
+      "title": "Undergraduate ceremony marks next step for future educators",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-09-14-undergraduate-induction-ceremony.html",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "IU School of Education students celebrated a special milestone last week when they received their official name badges during the Undergraduate Induction Ceremony. These badges will be used when they work in schools this year as part of their student teaching or practicum requirements.",
+      "source": "IU School of Education",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-09-16T20:00:18.170859",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Alumna builds brand around connection",
+      "url": "https://today.wayne.edu/news/2026/09/15/wsu-alumna-brooklynn-jackson-builds-a-brand-around-connection-70145",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State students learn about diabetes education firsthand in Belize",
+      "url": "https://today.wayne.edu/news/2026/09/15/wayne-state-students-learn-about-diabetes-education-firsthand-in-belize-70152",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "How Daishon Nelson helps Detroit youth discover STEM through Tech On-Ramps program",
+      "url": "https://economicdevelopment.wayne.edu/news/how-daishon-nelson-helps-detroit-youth-discover-stem-and-build-their-skills-through-tech-on-ramps-70144",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

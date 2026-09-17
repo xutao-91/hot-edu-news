@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-16T20:00:16.419294",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Examining factors that influence survival of lung cancer patients",
+      "url": "https://today.uic.edu/examining-factors-influencing-survival-of-lung-cancer-patients/",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "Study suggests tumor biology and social and environmental factors in patients’ lives play a role.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "From UIC engineering student to game creator",
+      "url": "https://today.uic.edu/from-uic-engineering-student-to-game-creator/",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "“UIC gave me the opportunity for a world of different cultures, different viewpoints, and a world of possibilities,” says Justin Taylor.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "September in photos",
+      "url": "https://today.uic.edu/september-in-photos/",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "Check out pics from the grad welcome picnic, involvement fair and more",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC research shines bright in Art on the Mart",
+      "url": "https://today.uic.edu/uic-research-shines-bright-in-art-on-the-mart/",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "“Where data becomes light” will run Thursdays through Sundays from Sept. 10-Nov. 15.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

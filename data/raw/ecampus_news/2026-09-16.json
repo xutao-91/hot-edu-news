@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-16T20:00:10.311334",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Beyond the gotcha game: Moving from AI detection to verification-first supports stronger academic integrity",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/16/beyond-the-gotcha-game-moving-from-ai-detection-to-verification-first/",
+      "date": "2026-09-16",
+      "type": "AI in Education",
+      "summary_en": "AI, as they say, has entered the chat. The benefits of AI, when applied responsibly, can be a boon to the college and university environment, supporting instruction, study methods, accessibility, course design, administrative tasks and much more.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "AACTE releases national framework on AI in educator preparation",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/09/14/aacte-releases-national-framework-on-ai-in-educator-preparation/",
+      "date": "2026-09-14",
+      "type": "Career Readiness",
+      "summary_en": "A new national framework from AACTE (American Association of Colleges for Teacher Education) aims to help educator preparation programs (EPPs) navigate the rapidly changing role of artificial intelligence in education.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

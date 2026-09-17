@@ -1,0 +1,35 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-09-16T20:00:16.646137",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "A writing life is not a ‘pipe dream’",
+      "url": "/news/2026/09/writing-life-not-pipe-dream",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Tony Tulathimutte went from an unhappy career in Silicon Valley to the Iowa Writers’ Workshop. Now the acclaimed writer is helping University of Iowa students envision their own paths forward.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "New space gives UI Department of Dance room to expand",
+      "url": "/news/2026/09/new-space-gives-ui-department-dance-room-expand",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "The University of Iowa Department of Dance has moved into a newly renovated, modern home that provides faculty, staff, and students with updated spaces that inspire learning and collaboration with each other and other performing and visual arts programs along the west side of the Iowa River.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI to gain new resources for rural students through national gift",
+      "url": "/news/2026/09/ui-gain-new-resources-rural-students-through-national-gift",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "The University of Iowa will gain new resources for rural and small-town students, thanks to a $100 million gift from Trott Family Philanthropies to the Small Town and Rural Students College Network (STARS), the national, 32-school coalition the UI helped found.",
+      "source": "UIowa Now",
+      "category": "students"
+    }
+  ]
+}

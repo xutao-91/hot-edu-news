@@ -1,0 +1,71 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-09-16T20:00:17.724263",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Five Husker students earn PGA scholarship",
+      "url": "https://news.unl.edu/article/five-husker-students-earn-pga-scholarship",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Johanns to discuss rural vitality in Heuermann Lecture",
+      "url": "https://news.unl.edu/article/johanns-to-discuss-rural-vitality-in-heuermann-lecture",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Huskers to mark Constitution Day with public events, classroom outreach",
+      "url": "https://news.unl.edu/article/huskers-to-mark-constitution-day-with-public-events-classroom-outreach",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Czech President Pavel to visit University of Nebraska–Lincoln",
+      "url": "https://news.unl.edu/article/czech-president-pavel-to-visit-university-of-nebraska-lincoln",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Hoagland Lecture to explore midterm elections",
+      "url": "https://news.unl.edu/article/hoagland-lecture-to-explore-midterm-elections",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Staff Leadership Academy relaunches with 2026-27 cohort",
+      "url": "https://news.unl.edu/article/staff-leadership-academy-relaunches-with-2026-27-cohort",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Wirtz credits Nebraska education with building the foundation for Hudl",
+      "url": "https://news.unl.edu/article/wirtz-credits-nebraska-education-with-building-the-foundation-for-hudl",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

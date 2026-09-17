@@ -1,0 +1,26 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-09-16T20:00:06.939890",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Chain Reaction Innovations opens applications for its 2027 cohort",
+      "url": "https://chainreaction.anl.gov/apply/",
+      "date": "2026-09-15",
+      "summary_en": "Argonne National Laboratory's Chain Reaction Innovations program is now accepting applications from technical founders working on early-stage energy and science technologies, offering a $115k annual stipend, non-dilutive funding, and direct access to Argonne's labs and experts. Applications close October 30, 2026.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "To teach quantum to teens, teachers reach for ice cream and cell phones",
+      "url": "https://pme.uchicago.edu/news-events/news/teach-quantum-teens-teachers-reach-ice-cream-and-cell-phones",
+      "date": "2026-09-14",
+      "summary_en": "Now in its sixth year, TeachQuantum—a UChicago and UW–Madison collaboration—helps teachers make quantum concepts accessible and engaging",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

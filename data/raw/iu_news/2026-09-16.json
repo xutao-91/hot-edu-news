@@ -1,0 +1,53 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-16T20:00:11.679431",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "IU names global orthopedic technology executive as CEO of NSF IMPACT Engine in Indiana",
+      "url": "https://news.iu.edu/live/news/52620-iu-names-global-orthopedic-technology-executive-as",
+      "date": "Sep 14, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU physician researcher turns entrepreneur in fight against HPV-related cancers",
+      "url": "https://news.iu.edu/live/news/52804-iu-physician-researcher-turns-entrepreneur",
+      "date": "Sep 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Historic $100M gift will transform Kelley School graduate education, expand Lilly School of Philanthropy scholarships",
+      "url": "https://news.iu.edu/live/news/52841-historic-100m-gift-will-transform-kelley-school-gradua",
+      "date": "Sep 16, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU researcher expands access to music therapy for children with cancer and their families",
+      "url": "https://nursing.iu.edu/news-events/vital-signs/2026/2026-09-sheri-robb-faris-foundation-grant.html",
+      "date": "Sep 14, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU Board of Trustees Executive Committee to meet virtually Sept. 16",
+      "url": "https://news.iu.edu/live/news/52814-iu-board-of-trustees-executive-committee-to-meet",
+      "date": "Sep 14, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

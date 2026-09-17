@@ -23224,5 +23224,359 @@
     "fetch_time": "2026-09-15T20:00:15.665019",
     "title": "A U.S. Strategy to Secure Geopolitical Advantage on an Uncertain Path to Superintelligence: Maintaining Freedom of Action",
     "category": "ai"
+  },
+  "https://chainreaction.anl.gov/apply/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-16T20:00:06.970670",
+    "title": "Chain Reaction Innovations opens applications for its 2027 cohort",
+    "category": "ai"
+  },
+  "https://pme.uchicago.edu/news-events/news/teach-quantum-teens-teachers-reach-ice-cream-and-cell-phones": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-16T20:00:06.970670",
+    "title": "To teach quantum to teens, teachers reach for ice cream and cell phones",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/making-costs-count-harmonized-standards-for-generation-and-use-of-cost-evidence-in-global-education-and-ecce/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-16T20:00:10.276623",
+    "title": "Making costs count: Harmonized standards for generation and use of cost evidence in global education and ECCE",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/when-girls-lead-strengthening-leadership-pathways-for-rural-and-peri-urban-girls-in-zambia/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-16T20:00:10.276623",
+    "title": "When girls lead: Strengthening leadership pathways for rural and peri-urban girls in Zambia",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/09/16/beyond-the-gotcha-game-moving-from-ai-detection-to-verification-first/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-09-16T20:00:10.417395",
+    "title": "Beyond the gotcha game: Moving from AI detection to verification-first supports stronger academic integrity",
+    "category": "education"
+  },
+  "https://www.csis.org/events/aukus-five-progress-challenges-and-way-forward": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "AUKUS at Five: Progress, Challenges, and the Way Forward",
+    "category": "general"
+  },
+  "https://www.csis.org/events/us-korea-trade-and-investment-deal-capital-cable-142": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "U.S.-Korea Trade and Investment Deal | The Capital Cable #142",
+    "category": "general"
+  },
+  "https://www.csis.org/events/press-previewing-trump-xi-summit": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "Press Briefing: Previewing the Trump-Xi Summit",
+    "category": "general"
+  },
+  "https://www.csis.org/events/technology-security-featuring-anne-neuberger-general-partner-head-global-affairs-a16z": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "Technology Is Security: Featuring Anne Neuberger, General Partner & Head of Global Affairs, a16z – Betting on America",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/nuclear-statecraft-saudi-deal-and-us-china-competition": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "Nuclear Statecraft: The Saudi Deal and U.S.-China Competition",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/future-space-data-network-how-pentagon-can-ensure-competitive-marketplace": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "The Future of the Space Data Network: How the Pentagon Can Ensure a Competitive Marketplace",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/what-drivers-license-breach-shows-about-foreign-data-ai-threats": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "What a Driver’s License Breach Shows About Foreign Data-AI Threats",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/ai-security-threats-arent-hoax-they-also-arent-existential-they-might-seem": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "AI Security Threats Aren’t a Hoax—But They Also Aren’t as Existential as They Might Seem",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2ephp/analysis/long-arm-china-and-north-koreas-repression": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "The Long Arm of China and North Korea’s Repression",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/states-weekly-september-16-2026": {
+    "source": "csis",
+    "fetch_time": "2026-09-16T20:00:10.682652",
+    "title": "States Weekly: September 16, 2026",
+    "category": "general"
+  },
+  "https://news.gallup.com/poll/714479/screens-ubiquitous-classrooms-teachers-split-efficacy.aspx": {
+    "source": "gallup_education",
+    "fetch_time": "2026-09-16T20:00:10.836306",
+    "title": "Screens Ubiquitous in Classrooms; Teachers Split on Efficacy",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52804-iu-physician-researcher-turns-entrepreneur": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-16T20:00:11.765803",
+    "title": "IU physician researcher turns entrepreneur in fight against HPV-related cancers",
+    "category": "ai"
+  },
+  "https://news.iu.edu/live/news/52841-historic-100m-gift-will-transform-kelley-school-gradua": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-16T20:00:11.765803",
+    "title": "Historic $100M gift will transform Kelley School graduate education, expand Lilly School of Philanthropy scholarships",
+    "category": "education"
+  },
+  "https://nursing.iu.edu/news-events/vital-signs/2026/2026-09-sheri-robb-faris-foundation-grant.html": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-16T20:00:11.765803",
+    "title": "IU researcher expands access to music therapy for children with cancer and their families",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/52814-iu-board-of-trustees-executive-committee-to-meet": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-16T20:00:11.765803",
+    "title": "IU Board of Trustees Executive Committee to meet virtually Sept. 16",
+    "category": "general"
+  },
+  "https://www.ed.gov/about/news/press-release/us-secretary-of-education-linda-mcmahon-visits-missouri-returning-education-states-tour": {
+    "source": "edgov",
+    "fetch_time": "2026-09-16T20:00:12.043303",
+    "title": "U.S. Secretary of Education Linda McMahon Visits Missouri on Returning Education to the States Tour",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-and-us-department-of-state-open-foreign-funding-investigations-duke-university-and-university-of-north-dakota": {
+    "source": "edgov",
+    "fetch_time": "2026-09-16T20:00:12.043303",
+    "title": "U.S. Department of Education and U.S. Department of State Open Foreign Funding Investigations into Duke University and the University of North Dakota",
+    "category": "education"
+  },
+  "https://www.ed.gov/about/news/press-release/us-department-of-education-honors-constitution-day-calls-schools-strengthen-civic-literacy-and-invite-routine-recitation-of-pledge-of-allegiance": {
+    "source": "edgov",
+    "fetch_time": "2026-09-16T20:00:12.043303",
+    "title": "U.S. Department of Education Honors Constitution Day, Calls on Schools to Strengthen Civic Literacy and Invite Routine Recitation of the Pledge of Allegiance",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/meet-notre-dames-newest-business-faculty-members/": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-16T20:00:12.683208",
+    "title": "Meet Notre Dame’s newest business faculty members",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/inside-notre-dames-computational-methods-workshop/": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-16T20:00:12.683208",
+    "title": "The new rules are yet unwritten: Inside Notre Dame’s Computational Methods Workshop",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/notre-dame-phd-candidate-awarded-amelia-earhart-fellowship/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-16T20:00:13.376390",
+    "title": "Notre Dame PhD candidate awarded Amelia Earhart Fellowship",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/ku-marching-jayhawks-to-represent-university-in-london-at-union-jack-classic": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-16T20:00:15.612444",
+    "title": "KU Marching Jayhawks to represent university in London at Union Jack Classic",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/four-ku-seniors-to-compete-for-rhodes-marshall-churchill-scholarships": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-16T20:00:15.612444",
+    "title": "Four KU seniors to compete for Rhodes, Marshall, Churchill scholarships",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-engineerings-tiberti-lecture-returns-this-fall-with-a-focus-on-managing-difficult-conversations": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-16T20:00:15.612444",
+    "title": "KU Engineering’s Tiberti Lecture returns this fall with a focus on managing difficult conversations",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71412.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-16T20:00:15.719926",
+    "title": "Legal and Clinical Liability of Comanaging Pediatric Mental Health With Unregulated AI Chatbots: Reply",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/tools/TLA4617-2.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-16T20:00:15.719926",
+    "title": "Data Center Siting Model and Suitability Mapper for Community Planners: Overview and Technical Documentation",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/tools/TLA4617-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-16T20:00:15.719926",
+    "title": "Optimizing Data Center Siting: Considering Local Infrastructure, Environmental, and Community Constraints",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5130-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-16T20:00:15.719926",
+    "title": "The Insurability of Artificial Intelligence",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/fifth-annual-south-side-science-festival-returns-oct-3-curiosity-and-fun": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-16T20:00:16.108835",
+    "title": "Fifth annual South Side Science Festival returns Oct. 3 with curiosity and fun",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-named-a-2026-2027-college-of-distinction": {
+    "source": "msoe",
+    "fetch_time": "2026-09-16T20:00:16.555917",
+    "title": "MSOE named a 2026–2027 College of Distinction",
+    "category": "education"
+  },
+  "/news/2026/09/writing-life-not-pipe-dream": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-16T20:00:16.750712",
+    "title": "A writing life is not a ‘pipe dream’",
+    "category": "education"
+  },
+  "/news/2026/09/new-space-gives-ui-department-dance-room-expand": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-16T20:00:16.750712",
+    "title": "New space gives UI Department of Dance room to expand",
+    "category": "education"
+  },
+  "/news/2026/09/ui-gain-new-resources-rural-students-through-national-gift": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-16T20:00:16.750712",
+    "title": "UI to gain new resources for rural students through national gift",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0916-purdue-armstrong-space-prize-falcon-9-team": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-16T20:00:17.169161",
+    "title": "Falcon 9 Booster Landing Team receives first Neil Armstrong Space Prize for reusable rocket research",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0916-How-SpaceX-Falcon-9-cracked-rocket-reusability-Purdue-2026-Neil-Armstrong-Space-Prize": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-16T20:00:17.169161",
+    "title": "How SpaceX's Falcon 9 cracked rocket reusability: Purdue's 2026 Neil Armstrong Space Prize",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-faculty-and-staff-members-receive-regents-awards-excellence": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-16T20:00:17.281899",
+    "title": "UNI faculty and staff members receive Regents Awards for Excellence",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/arts-design/theatreuni-presents-midsummer-nights-dream-william-shakespeare-adapted-and-directed": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-16T20:00:17.281899",
+    "title": "TheatreUNI presents “A Midsummer Night’s Dream” by William Shakespeare, adapted and directed by Kendra Kahl",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/meet-the-mizzou-students-who-helped-bring-memorial-stadiums-transformation-to-life/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-16T20:00:17.619640",
+    "title": "Meet the Mizzou students who helped bring Memorial Stadium’s transformation to life",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/um-system-honors-six-faculty-with-curators-distinguished-professorships/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-16T20:00:17.619640",
+    "title": "UM System honors six faculty with Curators’ Distinguished Professorships",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/neuro-bootcamp-keeps-participants-active-after-neurological-diagnosis/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-16T20:00:17.619640",
+    "title": "Neuro Bootcamp keeps participants active after neurological diagnosis",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/five-husker-students-earn-pga-scholarship": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-16T20:00:17.836748",
+    "title": "Five Husker students earn PGA scholarship",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/johanns-to-discuss-rural-vitality-in-heuermann-lecture": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-16T20:00:17.836748",
+    "title": "Johanns to discuss rural vitality in Heuermann Lecture",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-restores-reciprocity-in-government-procurement/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Fact Sheet: President Donald J. Trump Restores Reciprocity in Government Procurement",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/restoring-reciprocity-in-government-procurement/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Restoring Reciprocity in Government Procurement",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-provides-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Fact Sheet: President Donald J. Trump Provides Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/providing-meaningful-water-quality-improvements-through-collaboration-and-oversight-of-federal-support/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Providing Meaningful Water Quality Improvements Through Collaboration and Oversight of Federal Support",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/constitution-day-citizenship-day-and-constitution-week-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Constitution Day, Citizenship Day, and Constitution Week, 2026",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/national-pow-mia-recognition-day-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "National POW/MIA Recognition Day, 2026",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-s-32-and-s-307-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Congressional Bills S. 32 and S. 307 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/safer-stronger-built-in-america-president-trumps-record-in-north-carolina/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-16T20:00:18.258653",
+    "title": "Safer, Stronger, Built in America: President Trump’s Record in North Carolina",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/09/learfield-directors-cup-festival-to-celebrate-washu-bears/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-16T20:00:18.391161",
+    "title": "Learfield Directors’ Cup Festival to celebrate WashU Bears",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/gut-microbiome-features-predict-devastating-disease-affecting-preemies/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-16T20:00:18.391161",
+    "title": "Gut microbiome features predict devastating disease affecting preemies",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/09/hotchner-festival-highlights-washu-playwrights-2/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-16T20:00:18.391161",
+    "title": "Hotchner Festival highlights WashU playwrights",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/09/university-to-retire-robert-j-terry-lecture-rename-professorship/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-16T20:00:18.391161",
+    "title": "University to retire Robert J. Terry Lecture, rename professorship",
+    "category": "education"
   }
 }

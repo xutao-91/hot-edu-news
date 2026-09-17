@@ -1,0 +1,44 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-09-16T20:00:12.625534",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Meet Notre Dame’s newest business faculty members",
+      "url": "https://mendoza.nd.edu/news/meet-notre-dames-newest-business-faculty-members/",
+      "date": "September 16, 2026",
+      "type": "News",
+      "summary_en": "Mendoza College of Business welcomes a new cohort of scholars whose research shapes how the College teaches and thinks about today's business challenges.",
+      "source": "Mendoza College of Business",
+      "category": "business"
+    },
+    {
+      "title": "From Research to Me-Search",
+      "url": "https://mendoza.nd.edu/news/from-research-to-me-search/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Dean Shepherd’s research, shaped by personal experience and recognized with a global award, challenges conventional thinking.",
+      "source": "Mendoza College of Business",
+      "category": "research"
+    },
+    {
+      "title": "It’s Time to Kill the Trade-Through Rule",
+      "url": "https://mendoza.nd.edu/news/its-time-to-kill-the-trade-through-rule/",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Notre Dame Finance Professor Robert Battalio testifies about Rule 611 before Congressional subcommittee.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "The new rules are yet unwritten: Inside Notre Dame’s Computational Methods Workshop",
+      "url": "https://mendoza.nd.edu/news/inside-notre-dames-computational-methods-workshop/",
+      "date": "September 14, 2026",
+      "type": "News",
+      "summary_en": "The Computational Methods Workshop's speakers were focused on today’s real research problems and opportunities in research methods.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}
