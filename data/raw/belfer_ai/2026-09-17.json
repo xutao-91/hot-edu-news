@@ -1,0 +1,16 @@
+{
+  "source": "Belfer Center AI",
+  "source_url": "https://www.belfercenter.org/topics/artificial-intelligence",
+  "crawled_at": "2026-09-17T20:00:11.053903",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Computational Statecraft: An Overview",
+      "url": "https://www.belfercenter.org/research-analysis/computational-statecraft-overview",
+      "date": "2026-09-14",
+      "summary_en": "Artificial Intelligence (AI) transforms industries, offering unparalleled opportunities alongside complex challenges. From healthcare to finance to democracy, AI enhances efficiency, scale, and innovation. But ethical concerns persist around regulation, privacy and bias.",
+      "source": "Belfer Center AI",
+      "category": "ai"
+    }
+  ]
+}

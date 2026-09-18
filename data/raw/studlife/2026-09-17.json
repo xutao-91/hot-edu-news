@@ -1,0 +1,68 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-17T20:00:16.609137",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Bear Necessities no longer run by Women’s Society",
+      "url": "https://www.studlife.com/news/2026/09/17/bear-necessities-no-longer-run-by-womens-society",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "author": "Selina Son, Ella Meshoulam",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "WashU launches expanded initiative to fund civic projects",
+      "url": "https://www.studlife.com/news/2026/09/17/washu-launches-expanded-initiative-to-fund-civic-projects",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "author": "Nicholas Demba",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Class of 2030 sees growth in moderate-income students as WashU prepares admissions changes",
+      "url": "https://www.studlife.com/news/2026/09/16/class-of-2030-sees-growth-in-moderate-income-students-as-washu-prepares-admissions-changes",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "",
+      "author": "Victor Huang",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Enrollment in Bursky School of Public Health master’s program declined in 2026",
+      "url": "https://www.studlife.com/news/2026/09/16/enrollment-in-bursky-school-of-public-health-masters-program-declined-in-2026",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "",
+      "author": "Zana Kennedy",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Collins Farms and LaJoy’s swap locations",
+      "url": "https://www.studlife.com/news/2026/09/16/collins-farms-and-lajoys-swap-locations",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "",
+      "author": "Flannery Poon, Caroline Goldstein",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "‘Hopelessness is not an option’: Angela Davis on academic freedom and the future of higher education",
+      "url": "https://www.studlife.com/news/2026/09/14/hopelessness-is-not-an-option-angela-davis-on-academic-freedom-and-the-future-of-higher-education",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "",
+      "author": "Lauren Smith",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-17T20:00:17.815786",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Falcon 9 Booster Landing Team receives first Neil Armstrong Space Prize for reusable rocket research",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0916-purdue-armstrong-space-prize-falcon-9-team",
+      "date": "September 16, 2026",
+      "type": "News",
+      "summary_en": "Purdue University’s Neil Armstrong Space Prize was awarded to the SpaceX Falcon 9 Booster Landing Team, recognizing their globally impactful work on the Falcon 9 reusable two-stage rocket system.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "How SpaceX's Falcon 9 cracked rocket reusability: Purdue's 2026 Neil Armstrong Space Prize",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0916-How-SpaceX-Falcon-9-cracked-rocket-reusability-Purdue-2026-Neil-Armstrong-Space-Prize",
+      "date": "September 16, 2026",
+      "type": "News",
+      "summary_en": "The Falcon 9 Booster Landing Team at SpaceX has been awarded the 2026 Neil Armstrong Space Prize in the Innovation category for proving that rockets could be recovered, refurbished and reused — a feat much of the industry once considered impossible.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Lyles School taps UC San Diego's Michael Todd as its next head",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0915-lyles-school-taps-uc-san-diegos-michael-todd-as-its-next-head",
+      "date": "September 15, 2026",
+      "type": "News",
+      "summary_en": "Purdue Engineering has selected Michael D. Todd as the next Bowen Engineering Head of the Lyles School of Civil and Construction Engineering.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Award-winning Purdue Engineering research targets a persistent solid-state battery problem",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0910-purdue-engineering-aditya-singla-chorafas-award-solid-state-battery",
+      "date": "September 14, 2026",
+      "type": "News",
+      "summary_en": "Aditya Singla used computer modeling to uncover how defects form at battery interfaces, with implications for safer, higher-energy density lithium and sodium batteries.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

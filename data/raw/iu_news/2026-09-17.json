@@ -1,0 +1,53 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-17T20:00:12.977118",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "IU names global orthopedic technology executive as CEO of NSF IMPACT Engine in Indiana",
+      "url": "https://news.iu.edu/live/news/52620-iu-names-global-orthopedic-technology-executive-as",
+      "date": "Sep 14, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "New IU Indianapolis students find room to explore, build and belong",
+      "url": "https://news.iu.edu/live/news/52854-new-iu-indianapolis-students-find-room-to-explore",
+      "date": "Sep 17, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU physician researcher turns entrepreneur in fight against HPV-related cancers",
+      "url": "https://news.iu.edu/live/news/52804-iu-physician-researcher-turns-entrepreneur",
+      "date": "Sep 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Historic $100M gift will transform Kelley School graduate education, expand Lilly School of Philanthropy scholarships",
+      "url": "https://news.iu.edu/live/news/52841-historic-100m-gift-will-transform-kelley-school-gradua",
+      "date": "Sep 16, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "Reimagining Opera for Kids invites young audiences into live theater across southern Indiana",
+      "url": "https://news.iu.edu/rural/live/news/52828-reimagining-opera-for-kids-invites-young-audiences",
+      "date": "Sep 15, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

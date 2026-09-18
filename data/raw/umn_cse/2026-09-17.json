@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-09-17T20:00:17.472333",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "University of Minnesota-led team helps explain what powers Jupiter’s brightest auroras",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-led-team-helps-explain-what-powers-jupiters-brightest-auroras",
+      "date": "2026-09-17",
+      "type": "Research",
+      "summary_en": "When NASA’s Juno spacecraft first flew over Jupiter’s poles in 2016, it found something scientists could not explain: The electrons powering the planet’s auroras were predominantly accelerating in a very different way than those above Earth.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "Suo Yang awarded prestigious naval research fellowship",
+      "url": "https://cse.umn.edu/college/news/suo-yang-awarded-prestigious-naval-research-fellowship",
+      "date": "2026-09-14",
+      "type": "Awards-Grants",
+      "summary_en": "College of Science and Engineering faculty member, Suo Yang, was recently selected to be part of the inaugural Chief of Naval Research (CNR) Fellows program from the Office of Naval Research (ONR).",
+      "source": "UMN CSE",
+      "category": "awards"
+    }
+  ]
+}

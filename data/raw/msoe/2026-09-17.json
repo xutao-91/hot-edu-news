@@ -1,0 +1,26 @@
+{
+  "source": "Milwaukee School of Engineering (MSOE)",
+  "source_url": "https://www.msoe.edu/about-msoe/news/1/",
+  "crawled_at": "2026-09-17T20:00:14.031530",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "MSOE named a 2026–2027 College of Distinction",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-named-a-2026-2027-college-of-distinction",
+      "date": "2026-09-16",
+      "type": "Rankings",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "leadership"
+    },
+    {
+      "title": "MSOE announces Alumni Wall of Distinction inductees",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-announces-alumni-wall-of-distinction-inductees",
+      "date": "2026-09-14",
+      "type": "Alumni",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "announcement"
+    }
+  ]
+}

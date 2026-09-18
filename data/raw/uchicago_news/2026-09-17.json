@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-17T20:00:16.988130",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "UChicago launches new master’s degree in applied AI",
+      "url": "https://news.uchicago.edu/story/uchicago-launches-new-masters-degree-applied-ai",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "New nine-month program prepares technically experienced students to move beyond fundamentals and build, deploy and lead with emerging technologies",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Recreating a sense of touch, using our minds, with Nicholas Hatsopoulos",
+      "url": "https://news.uchicago.edu/big-brains-podcast-recreating-sense-touch-using-our-minds-nicholas-hatsopoulos",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Fifth annual South Side Science Festival returns Oct. 3 with curiosity and fun",
+      "url": "https://news.uchicago.edu/story/fifth-annual-south-side-science-festival-returns-oct-3-curiosity-and-fun",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Annual community gathering invites the wider community to the UChicago campus for a day of discovery and hands-on science demonstrations",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Eighteen students selected as 2026-27 University of Chicago Obama Foundation Scholars",
+      "url": "https://news.uchicago.edu/story/eighteen-students-selected-2026-27-university-chicago-obama-foundation-scholars",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "Eighteen rising leaders have been selected to the newest cohort of the University of Chicago Obama Foundation Scholars Program, which was announced Sept. 15.",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Mail-in Ballots, Redistricting, and Election Rule Uncertainty",
+      "url": "https://news.uchicago.edu/mail-ballots-redistricting-and-election-rule-uncertainty",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "As World Cup referee, UChicago student tests Machiavelli’s vision of leadership",
+      "url": "https://news.uchicago.edu/story/world-cup-referee-uchicago-student-tests-machiavellis-vision-leadership",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "Joe Dickerson draws on his soccer officiating career in studying ‘The Prince’ and philosophy at Graham School",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "The powerful millionaires hiding in plain sight",
+      "url": "https://www.npr.org/sections/planet-money/2026/09/14/g-s1-143041/the-powerful-millionaires-hiding-in-plain-sight",
+      "date": "2026-09-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}
