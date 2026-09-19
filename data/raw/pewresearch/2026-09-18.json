@@ -1,0 +1,135 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-18T20:00:14.153504",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+      "date": "Sep 17, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Global Tech Cybersecurity",
+        "International Technology"
+      ],
+      "summary_en": "Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Democrats are now more worried than Republicans about AI and its impact on jobs",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/",
+      "date": "Sep 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Partisanship Issues"
+      ],
+      "summary_en": "In another shift, Democrats are now more likely than Republicans to predict that AI will lead to fewer jobs over the next 20 years (75% vs. 68%).",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Weighting Polls on Party Affiliation and Past Vote",
+      "url": "https://www.pewresearch.org/methods/2026/09/16/weighting-polls-on-party-affiliation-and-past-vote/",
+      "date": "Sep 16, 2026",
+      "type": "report",
+      "categories": [
+        "Methodological Research",
+        "Survey Methods",
+        "Us Elections Voters",
+        "Uncategorized",
+        "Voters Voting"
+      ],
+      "summary_en": "This report explains how political weighting works, how Pew Research Center does it, and some of its limitations.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "2026 primary season yields greatest preelection House turnover in over 3 decades",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/16/2026-primary-season-yields-greatest-preelection-house-turnover-in-over-3-decades/",
+      "date": "Sep 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Congress",
+        "Election 2026",
+        "Politics Policy"
+      ],
+      "summary_en": "74 House members won’t return next Congress – more than before any general election since 1992.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "Many Israelis and Palestinians Say They Cannot Coexist Peacefully – and Explain Why",
+      "url": "https://www.pewresearch.org/global/2026/09/15/many-israelis-and-palestinians-say-they-cannot-coexist-peacefully-and-explain-why/",
+      "date": "Sep 15, 2026",
+      "type": "report",
+      "categories": [
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "Israelis and Palestinians in the West Bank and East Jerusalem reflect on the viability of a two-state solution",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "About 9 in 10 Palestinians in the West Bank and East Jerusalem see Israeli checkpoints as a major problem",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/15/about-9-in-10-palestinians-in-the-west-bank-and-east-jerusalem-see-israeli-checkpoints-as-a-major-problem/",
+      "date": "Sep 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "International Issues",
+        "War International Conflict 1",
+        "War International Conflict 2"
+      ],
+      "summary_en": "A large majority of Palestinians in the West Bank and East Jerusalem (85%) also say that opportunities for work are a major problem for them and their families.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Who is Hispanic?",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/15/who-is-hispanic/",
+      "date": "Sep 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Hispanic Latino Identity",
+        "Racial Ethnic Identity"
+      ],
+      "summary_en": "More than 70 million people in the U.S. identify as Hispanic today, but government agencies and survey organizations don’t count the Hispanic population in the same way.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans Value Press Freedom but Differ on Its Limits",
+      "url": "https://www.pewresearch.org/journalism/2026/09/15/americans-value-press-freedom-but-differ-on-its-limits/",
+      "date": "Sep 15, 2026",
+      "type": "report",
+      "categories": [
+        "Free Speech Press",
+        "Freedom Of The Press",
+        "Politics Media 2",
+        "Politics Media 1",
+        "Uncategorized"
+      ],
+      "summary_en": "Many people in the U.S. say some press freedom restrictions are OK when weighed against concerns about false information or national security.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Quiz: How much do you know about the First Amendment?",
+      "url": "https://www.pewresearch.org/journalism/quiz/how-much-do-you-know-about-the-first-amendment/",
+      "date": "Sep 15, 2026",
+      "type": "quiz",
+      "categories": [
+        "Free Speech Press",
+        "Freedom Of The Press",
+        "Politics Media 1"
+      ],
+      "summary_en": "How well do you know the First Amendment, including press freedom and other rights? Test your knowledge by taking our quiz.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-09-18T20:00:16.438774",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "University of Minnesota-led team helps explain what powers Jupiter’s brightest auroras",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-led-team-helps-explain-what-powers-jupiters-brightest-auroras",
+      "date": "2026-09-17",
+      "type": "Research",
+      "summary_en": "When NASA’s Juno spacecraft first flew over Jupiter’s poles in 2016, it found something scientists could not explain: The electrons powering the planet’s auroras were predominantly accelerating in a very different way than those above Earth.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}

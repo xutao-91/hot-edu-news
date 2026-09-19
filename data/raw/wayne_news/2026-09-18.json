@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-09-18T20:00:17.346850",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "New Office of Transfer & Adult Learners strengthens support for Wayne State students",
+      "url": "https://today.wayne.edu/news/2026/09/18/new-office-of-transfer-adult-learners-strengthens-support-for-wayne-state-students-70173",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State sees increase in new international student enrollment",
+      "url": "https://oip.wayne.edu/news/wayne-state-sees-increase-in-new-international-student-enrollment-70125",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Alumna builds brand around connection",
+      "url": "https://today.wayne.edu/news/2026/09/15/wsu-alumna-brooklynn-jackson-builds-a-brand-around-connection-70145",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State students learn about diabetes education firsthand in Belize",
+      "url": "https://today.wayne.edu/news/2026/09/15/wayne-state-students-learn-about-diabetes-education-firsthand-in-belize-70152",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-09-18T20:00:11.302169",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "IU School of Education faculty lead education research for $20 Million NSF grant to advance AI-powered learning",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-09-15-iusoe-faculty-lead-20-million-nsf-grant-to-advance-ai-powered-learning.html",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "Researchers with the IU School of Education will lead the education research as part of a five-year, $20 million grant recently awarded by the National Science Foundation (NSF) for the NSF AI Institute for Engaged Learning. This will allow researchers to create artificial intelligence-enabled technology that supports student and teacher agency in narrative-centered learning environments.",
+      "source": "IU School of Education",
+      "category": "faculty"
+    }
+  ]
+}

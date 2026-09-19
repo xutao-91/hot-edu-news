@@ -1,0 +1,44 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-09-18T20:00:10.792898",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Federal Court Blocks DHS Rule Ending Duration of Status for International Students",
+      "url": "https://www.acenet.edu/News-Room/Pages/Intl-Students-Face-New-4-Year-Limit.aspx",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "A federal judge has temporarily blocked a DHS rule that would have ended the longstanding “duration of status” system for international students and exchange visitors.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
+    {
+      "title": "ACEx2027 to Honor Vital Higher Education Accomplishments",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACEx2027-Awards-Nominations.aspx",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "The ACE Experience 2027 (ACEx2027) will feature presentations of awards honoring the work of individuals, institutions, and programs that improve higher education for the benefit of our institutions and students.",
+      "source": "ACE",
+      "category": "higher_ed"
+    },
+    {
+      "title": "ACE, Other Groups Submit Comments on Accreditation Proposal",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Comments-Accreditation-Proposed-Rule.aspx",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "ACE and other higher education groups weighed in this week on the Department of Education’s (ED) draft accreditation rule.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "Senate Panel Takes Up Bill to Strengthen Student Aid Fraud Protections",
+      "url": "https://www.acenet.edu/News-Room/Pages/Senate-Bill-Strengthen-Student-Aid-Fraud-Protections-.aspx",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "​The Senate Health, Education, Labor and Pensions Committee will mark up the bipartisan No Aid for Ghost Students Act of 2026 (S. 4428) on Sept. 24, legislation intended to stop bad actors using fake or stolen identities from obtaining federal student aid",
+      "source": "ACE",
+      "category": "student_aid"
+    }
+  ]
+}

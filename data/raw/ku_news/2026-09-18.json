@@ -1,0 +1,89 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-09-18T20:00:14.991767",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "$1.9M grant will support KU research on boosting drought tolerance in crops",
+      "url": "https://news.ku.edu/news/article/19m-grant-will-support-ku-research-on-boosting-drought-tolerance-in-crops",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "A new National Science Foundation grant will bring $1.9 million to KU to test specific types of microscopic soil fungi for their potential to build drought tolerance in wheat and rice.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Two Lawrence-based filmmakers among recipients of 2026 Rocket Grants",
+      "url": "https://news.ku.edu/news/article/two-lawrence-based-filmmakers-among-recipients-of-2026-rocket-grants",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "Filmmakers Lourdes Kalusha-Aguirre and Sean Kenealy are among the 10 recipients of this year's Rocket Grants. Each recipient will receive $6,000 for a total of $60,000 in funding for public art projects in the Lawrence and Kansas City area.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Kansas Board of Regents recognizes ‘outstanding contributions’ of six KU employees",
+      "url": "https://news.ku.edu/news/article/kansas-board-of-regents-recognizes-outstanding-contributions-of-six-ku-employees",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "The board’s program recognizes faculty and staff at Kansas universities for their contributions to teaching, student success, research, institutional excellence and Kansas communities.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Kudos: Faculty and staff achievements, September 2026",
+      "url": "https://news.ku.edu/news/article/ku-kudos-faculty-and-staff-achievements-september-2026",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "It’s time to celebrate Jayhawk colleagues’ achievements: KU News Service accepted submissions and combed websites, social media and newsletters for recent external honors and awards for current faculty and staff at the Lawrence, Edwards and Medical Center campuses and affiliates.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU Marching Jayhawks to represent university in London at Union Jack Classic",
+      "url": "https://news.ku.edu/news/article/ku-marching-jayhawks-to-represent-university-in-london-at-union-jack-classic",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Members of the University of Kansas Marching Jayhawks will travel to London this month to represent KU at the Union Jack Classic, where the band will perform at the KU football game against Arizona State University on Sept. 19 at Wembley Stadium.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Four KU seniors to compete for Rhodes, Marshall, Churchill scholarships",
+      "url": "https://news.ku.edu/news/article/four-ku-seniors-to-compete-for-rhodes-marshall-churchill-scholarships",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Four University of Kansas seniors — Saad Awan, Kaitlyn Carson, Katherine Goodwin and Jaden Huehl — have been endorsed for prestigious fellowships for study in the United Kingdom with the support of KU’s Center for Undergraduate Research & Fellowships.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Engineering’s Tiberti Lecture returns this fall with a focus on managing difficult conversations",
+      "url": "https://news.ku.edu/news/article/ku-engineerings-tiberti-lecture-returns-this-fall-with-a-focus-on-managing-difficult-conversations",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Aaron Mann, senior principal and chief legal officer at Terracon, will deliver the J.A. Tiberti Family Lecture at the University of Kansas School of Engineering at 2:30 p.m. Oct. 15 in the Beren Auditorium.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Linguistics experts decipher what a Kansas accent is or is not",
+      "url": "https://news.ku.edu/news/article/linguistics-experts-decipher-what-a-kansas-accent-is-or-is-not",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "In a new article, Lacey Wade and Jeff Holliday, assistant professors of linguistics at the University of Kansas, reveal that Kansans associate Kansas speech with “unaccentedness,” while non-Kansans associate Kansas speech with Southern-accented voices.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Authors shed light on first-generation experience for higher ed professionals",
+      "url": "https://news.ku.edu/news/article/authors-shed-light-on-first-generation-experience-for-higher-ed-professionals",
+      "date": "2026-09-15",
+      "type": "News",
+      "summary_en": "A book chapter co-written by University of Kansas researcher Dallas Doane documents the experiences of first-generation higher education professionals who transition to faculty roles while highlighting the strengths people in the experience naturally bring.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

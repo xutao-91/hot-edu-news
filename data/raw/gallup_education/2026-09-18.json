@@ -1,0 +1,16 @@
+{
+  "source": "Gallup Education",
+  "source_url": "https://news.gallup.com/topic/category-education.aspx",
+  "crawled_at": "2026-09-18T20:00:10.129858",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Screens Ubiquitous in Classrooms; Teachers Split on Efficacy",
+      "url": "https://news.gallup.com/poll/714479/screens-ubiquitous-classrooms-teachers-split-efficacy.aspx",
+      "date": "2026-09-16",
+      "summary_en": "Six in 10 teachers want students to spend less time on learning devices, but those with greater oversight of device use report more positive views.",
+      "source": "Gallup Education",
+      "category": "education"
+    }
+  ]
+}
