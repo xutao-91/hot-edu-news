@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-19T20:49:45.318023",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Who benefits from tariffs, according to research",
+      "url": "https://news.uchicago.edu/story/who-benefits-tariffs-according-research",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "Chicago Booth study finds U.S. trade barriers create transfers from services workers toward tradable goods industries, with substantial gains for small number of manufacturing workers",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "UChicago launches new master’s degree in applied AI",
+      "url": "https://news.uchicago.edu/story/uchicago-launches-new-masters-degree-applied-ai",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "New nine-month program prepares technically experienced students to move beyond fundamentals and build, deploy and lead with emerging technologies",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Recreating a sense of touch, using our minds, with Nicholas Hatsopoulos",
+      "url": "https://news.uchicago.edu/big-brains-podcast-recreating-sense-touch-using-our-minds-nicholas-hatsopoulos",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Fifth annual South Side Science Festival returns Oct. 3 with curiosity and fun",
+      "url": "https://news.uchicago.edu/story/fifth-annual-south-side-science-festival-returns-oct-3-curiosity-and-fun",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Annual community gathering invites the wider community to the UChicago campus for a day of discovery and hands-on science demonstrations",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

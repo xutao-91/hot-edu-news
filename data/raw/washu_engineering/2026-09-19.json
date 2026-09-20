@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-09-19T20:49:46.969149",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Clearing the way for renewable carbon fiber production",
+      "url": "https://engineering.washu.edu/news/2026/Clearing-the-way-for-renewable-carbon-fiber-production.html",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "Joshua Yuan’s lab develops a method to use waste pulp to reduce costs, improve quality of carbon fiber.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Lawrence elected as senior member of Optica",
+      "url": "https://engineering.washu.edu/news/2026/Lawrence-elected-as-senior-member-of-Optica.html",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "Mark Lawrence recognized for outstanding contributions to optical community.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

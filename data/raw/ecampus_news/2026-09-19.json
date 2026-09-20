@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-19T20:49:32.131732",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Preparing with confidence: Reflections on the dissertation proposal defense",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/09/18/preparing-with-confidence-reflections-on-the-dissertation-proposal-defense/",
+      "date": "2026-09-18",
+      "type": "Faculty & Staff",
+      "summary_en": "The dissertation proposal defense represents a significant milestone in the doctoral journey, marking the transition from planning a study to engaging as an emerging researcher.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Beyond the gotcha game: Moving from AI detection to verification-first supports stronger academic integrity",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/16/beyond-the-gotcha-game-moving-from-ai-detection-to-verification-first/",
+      "date": "2026-09-16",
+      "type": "AI in Education",
+      "summary_en": "AI, as they say, has entered the chat. The benefits of AI, when applied responsibly, can be a boon to the college and university environment, supporting instruction, study methods, accessibility, course design, administrative tasks and much more.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

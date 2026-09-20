@@ -1,0 +1,62 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-19T20:49:45.105386",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "UNI marks three milestones in one campus celebration",
+      "url": "https://insideuni.uni.edu/campus-community/uni-marks-three-milestones-one-campus-celebration",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa community gathered Friday to celebrate three milestones that connect the university’s past, present and future.",
+      "source": "UNI News",
+      "category": "community"
+    },
+    {
+      "title": "UNI to host Iowa secretary of state, Black Hawk County auditor for a discussion on Iowa’s election processes ahead of the 2026 midterms",
+      "url": "https://insideuni.uni.edu/politics-justice/uni-host-iowa-secretary-state-black-hawk-county-auditor-discussion-iowas-election",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "Paul Pate and Karen Showalter will explore how elections are administered at the state and local levels, including the specific roles of state and county election officials and the procedures used to conduct elections in Iowa.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI receives approval for Chuck and Barbara Grassley Center focused on public engagement, civic learning and archival stewardship",
+      "url": "https://insideuni.uni.edu/politics-justice/uni-receives-approval-chuck-and-barbara-grassley-center-focused-public-engagement",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "The new center will honor the legacy of Chuck and Barbara Grassley while expanding opportunities for civic learning, scholarship and public engagement",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI to formally celebrate 150th anniversary Friday",
+      "url": "https://insideuni.uni.edu/campus-community/uni-formally-celebrate-150th-anniversary-friday",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa will formally celebrate its 150th anniversary with a commemorative program at 2 p.m. Friday, Sept. 18, in the Maucker Union Ballrooms.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI faculty and staff members receive Regents Awards for Excellence",
+      "url": "https://insideuni.uni.edu/campus-community/uni-faculty-and-staff-members-receive-regents-awards-excellence",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "Six University of Northern Iowa faculty and staff members were recognized with Regents Awards for Faculty and Staff Excellence at the Iowa Board of Regents meeting on UNI’s campus.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "TheatreUNI presents “A Midsummer Night’s Dream” by William Shakespeare, adapted and directed by Kendra Kahl",
+      "url": "https://insideuni.uni.edu/arts-design/theatreuni-presents-midsummer-nights-dream-william-shakespeare-adapted-and-directed",
+      "date": "2026-09-16",
+      "type": "News",
+      "summary_en": "For its first production of the 2026-27 season, themed “Wonderings and Wanderings,” TheatreUNI will present a high‑energy, Jazz Age, 90-minute production of William Shakespeare's romantic comedy “A Midsummer Night’s Dream.\"",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

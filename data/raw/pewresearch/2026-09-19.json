@@ -1,0 +1,65 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-19T20:49:43.167232",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+      "date": "Sep 17, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Global Tech Cybersecurity",
+        "International Technology"
+      ],
+      "summary_en": "Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Democrats are now more worried than Republicans about AI and its impact on jobs",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/16/democrats-are-now-more-worried-than-republicans-about-ai-and-its-impact-on-jobs/",
+      "date": "Sep 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Partisanship Issues"
+      ],
+      "summary_en": "In another shift, Democrats are now more likely than Republicans to predict that AI will lead to fewer jobs over the next 20 years (75% vs. 68%).",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Weighting Polls on Party Affiliation and Past Vote",
+      "url": "https://www.pewresearch.org/methods/2026/09/16/weighting-polls-on-party-affiliation-and-past-vote/",
+      "date": "Sep 16, 2026",
+      "type": "report",
+      "categories": [
+        "Methodological Research",
+        "Survey Methods",
+        "Us Elections Voters",
+        "Uncategorized",
+        "Voters Voting"
+      ],
+      "summary_en": "This report explains how political weighting works, how Pew Research Center does it, and some of its limitations.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "2026 primary season yields greatest preelection House turnover in over 3 decades",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/16/2026-primary-season-yields-greatest-preelection-house-turnover-in-over-3-decades/",
+      "date": "Sep 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Congress",
+        "Election 2026",
+        "Politics Policy"
+      ],
+      "summary_en": "74 House members won’t return next Congress – more than before any general election since 1992.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    }
+  ]
+}

@@ -24262,5 +24262,23 @@
     "fetch_time": "2026-09-18T20:00:17.398060",
     "title": "Wayne State sees increase in new international student enrollment",
     "category": "education"
+  },
+  "https://www.csis.org/events/implications-hormuz-energy-crisis-south-asia": {
+    "source": "csis",
+    "fetch_time": "2026-09-19T20:49:36.581868",
+    "title": "The Implications of the Hormuz Energy Crisis on South Asia",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/ensuring-economic-and-energy-security-opportunities-us-japan-leadership": {
+    "source": "csis",
+    "fetch_time": "2026-09-19T20:49:36.581868",
+    "title": "Ensuring Economic and Energy Security: Opportunities for U.S.-Japan Leadership",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-the-79th-birthday-of-the-united-states-air-force/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-19T20:49:47.266621",
+    "title": "Presidential Message on the 79th Birthday of the United States Air Force",
+    "category": "ai"
   }
 }

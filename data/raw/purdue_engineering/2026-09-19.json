@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-19T20:49:46.506810",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Purdue Engineering names 2026 Dean's Leadership Scholars",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0918-purdue-engineering-deans-leadership-scholars-2026-27",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "Purdue Engineering has announced the selection of its newest cohort of Dean’s Leadership Scholars for the 2026–27 academic year.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Meet Purdue Engineering's innovative faculty and students at premier Virtual Graduate Showcase",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0918-Meet-Purdue-Engineering-Innovative-Faculty-and-Students-at-Premier-Virtual-Graduate-Showcase",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "Purdue Engineering Graduate Programs is hosting the Purdue Engineering Virtual Graduate Showcase, a premier graduate recruitment event, on September 27 and 28.",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Falcon 9 Booster Landing Team receives first Neil Armstrong Space Prize for reusable rocket research",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0916-purdue-armstrong-space-prize-falcon-9-team",
+      "date": "September 16, 2026",
+      "type": "News",
+      "summary_en": "Purdue University’s Neil Armstrong Space Prize was awarded to the SpaceX Falcon 9 Booster Landing Team, recognizing their globally impactful work on the Falcon 9 reusable two-stage rocket system.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "How SpaceX's Falcon 9 cracked rocket reusability: Purdue's 2026 Neil Armstrong Space Prize",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0916-How-SpaceX-Falcon-9-cracked-rocket-reusability-Purdue-2026-Neil-Armstrong-Space-Prize",
+      "date": "September 16, 2026",
+      "type": "News",
+      "summary_en": "The Falcon 9 Booster Landing Team at SpaceX has been awarded the 2026 Neil Armstrong Space Prize in the Innovation category for proving that rockets could be recovered, refurbished and reused — a feat much of the industry once considered impossible.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}
