@@ -1,0 +1,44 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-20T22:53:49.888388",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "FTC settlements may fall short of curbing pharmacy benefit managers",
+      "url": "https://source.washu.edu/2026/09/washu-expert-ftc-settlements-may-not-curb-pharmacy-benefit-managers/",
+      "date": "2026-09-18",
+      "type": "Law",
+      "summary_en": "The FTC’s deals with major drug middlemen may not do enough to lower what patients and employers pay for prescription drugs, said WashU Law’s Rachel Sachs.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Clearing the way for renewable carbon fiber production",
+      "url": "https://source.washu.edu/2026/09/clearing-the-way-for-renewable-carbon-fiber-production/",
+      "date": "2026-09-18",
+      "type": "Engineering",
+      "summary_en": "Researchers at the McKelvey School of Engineering developed a process to use waste materials in the production of carbon fiber, a key step to more sustainable manufacturing and stronger material design.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Everyone has a role in suicide prevention",
+      "url": "https://source.washu.edu/2026/09/washu-expert-everyone-has-a-role-in-suicide-prevention/",
+      "date": "2026-09-17",
+      "type": "Social Work",
+      "summary_en": "September is Suicide Prevention Month, and WashU expert Ryan Lindsay is emphasizing a simple message: You don’t have to be a mental health professional to help someone who may be struggling.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "New Transcend Initiative to address mycobacteria threats",
+      "url": "https://source.washu.edu/2026/09/new-transcend-initiative-to-address-mycobacteria-threats/",
+      "date": "2026-09-17",
+      "type": "Health & Society",
+      "summary_en": "A new Transcend Initiative seeks to address and fight life-threatening mycobacterial infections.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

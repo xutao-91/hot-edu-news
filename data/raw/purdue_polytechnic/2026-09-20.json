@@ -1,0 +1,26 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-09-20T22:53:46.697224",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Purdue Polytechnic welcomes new faculty to West Lafayette",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-welcomes-new-faculty-west-lafayette",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "Purdue Polytechnic opens intelligent manufacturing labs in partnership with Rittal and Eplan",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-opens-intelligent-manufacturing-labs-partnership-rittal-and-eplan",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

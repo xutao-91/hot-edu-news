@@ -24280,5 +24280,35 @@
     "fetch_time": "2026-09-19T20:49:47.266621",
     "title": "Presidential Message on the 79th Birthday of the United States Air Force",
     "category": "ai"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/amid-iran-war-tensions-energy-market-resilience-wears-thin": {
+    "source": "csis",
+    "fetch_time": "2026-09-20T22:53:40.899712",
+    "title": "Amid Iran War Tensions, Energy Market Resilience Wears Thin",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/six-charts-explain-global-energy-crisis": {
+    "source": "csis",
+    "fetch_time": "2026-09-20T22:53:40.899712",
+    "title": "Six Charts to Explain the Global Energy Crisis",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/beyond-memory-cycle-ai-hbm-and-new-semiconductor-shortage": {
+    "source": "csis",
+    "fetch_time": "2026-09-20T22:53:40.899712",
+    "title": "Beyond the Memory Cycle: AI, HBM, and the New Semiconductor Shortage",
+    "category": "ai"
+  },
+  "https://www.studlife.com/news/2026/09/20/gephardt-institutes-longest-table-sees-538-attendees": {
+    "source": "studlife",
+    "fetch_time": "2026-09-20T22:53:48.212896",
+    "title": "Gephardt Institute’s Longest Table sees 538 attendees",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-yom-kippur-a68b/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-20T22:53:50.146637",
+    "title": "Presidential Message on Yom Kippur",
+    "category": "general"
   }
 }

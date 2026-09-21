@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-20T22:53:48.030280",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Gephardt Institute’s Longest Table sees 538 attendees",
+      "url": "https://www.studlife.com/news/2026/09/20/gephardt-institutes-longest-table-sees-538-attendees",
+      "date": "2026-09-20",
+      "type": "News",
+      "summary_en": "",
+      "author": "Brayden Wang, Caspian Ferrandino",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "U.S. Secretary of Education visits WashU as part of 50-state tour",
+      "url": "https://www.studlife.com/news/2026/09/17/u-s-secretary-of-education-visits-washu-as-part-of-50-state-tour",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tanvi Gorre",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Bear Necessities no longer run by Women’s Society",
+      "url": "https://www.studlife.com/news/2026/09/17/bear-necessities-no-longer-run-by-womens-society",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "author": "Selina Son, Ella Meshoulam",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "WashU launches expanded initiative to fund civic projects",
+      "url": "https://www.studlife.com/news/2026/09/17/washu-launches-expanded-initiative-to-fund-civic-projects",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "",
+      "author": "Nicholas Demba",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}

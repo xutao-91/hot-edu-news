@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-20T22:53:49.934933",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UW’s new Irving & Dorothy Levy Hall welcomes the world",
+      "url": "https://news.wisc.edu/uws-new-irving-dorothy-levy-hall-welcomes-the-world/",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "The transformational hub for the humanities and interpretive social sciences will serve as a center for cultural studies, history, community and more.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "First drug to treat Alexander disease approved by the FDA after three decades of research at UW–Madison",
+      "url": "https://news.wisc.edu/first-drug-to-treat-alexander-disease-approved-by-the-fda-after-three-decades-of-research-at-uw-madison/",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "The drug is the first and only disease-modifying treatment for the rare neurological disease.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Butterflies in the sky: Badgers explore the world of migrating monarchs",
+      "url": "https://news.wisc.edu/butterflies-in-the-sky-badgers-explore-the-world-of-migrating-monarchs/",
+      "date": "September 18, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison students helped with butterfly tracking efforts as part of the Lakeshore Nature Preserve's ongoing research initiative.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

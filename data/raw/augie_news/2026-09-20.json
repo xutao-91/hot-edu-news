@@ -1,0 +1,26 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-09-20T22:53:40.276085",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The ‘Heart of Campus’ Reimagined: Renovation and Expansion Brings New Life to Chapel of Reconciliation",
+      "url": "https://www.augie.edu/news/2026/heart-campus-reimagined-renovation-and-expansion-brings-new-life-chapel-reconciliation",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "On Friday, Sept. 18, Augustana University celebrated the rededication of the Chapel of Reconciliation following the completion of a $4.4 million donor-funded renovation and expansion project — renewing a space that has served as a place for worship, reflection and community for more than four decades.",
+      "source": "Augustana News",
+      "category": "general"
+    },
+    {
+      "title": "Rediscovered Time Capsule to be Featured at Viking Days Celebration",
+      "url": "https://www.augie.edu/news/2026/rediscovered-time-capsule-be-featured-viking-days-celebration",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "As Augustana University embarked on the renovation and expansion of its Chapel of Reconciliation, the owl statue Hindsight, Insight, Foresight was moved from its long-time home outside of Morrison Commons for refurbishment. The chapel and campus patio upgrades would lead to the discovery of a 40-year-old time capsule hidden within the statue. The capsule will be on display during Viking Days at Vi",
+      "source": "Augustana News",
+      "category": "general"
+    }
+  ]
+}

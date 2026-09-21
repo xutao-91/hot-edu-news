@@ -1,0 +1,17 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-09-20T22:53:39.353170",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Anderon, an IBM Company, Finalizes Agreement with the U.S. Department of Commerce for a $1 Billion CHIPS Award",
+      "url": "https://newsroom.ibm.com/2026-09-16-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry",
+      "date": "2026-09-16",
+      "summary_en": "The award will accelerate Anderon’s R&D efforts to advance the nation's quantum wafer manufacturing capabilities.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

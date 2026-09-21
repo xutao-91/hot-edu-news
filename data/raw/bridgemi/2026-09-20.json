@@ -1,0 +1,48 @@
+{
+  "source": "Bridge Michigan - Talent & Education",
+  "source_url": "https://bridgemi.com/category/talent-education/",
+  "crawled_at": "2026-09-20T22:53:40.207275",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "As Michigan forges forward on literacy, many ask: What about math?",
+      "url": "https://bridgemi.com/talent-education/as-michigan-forges-forward-on-literacy-many-ask-what-about-math/",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "In a state laser focused on literacy, educators and leaders say more attention needs to be paid to math.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "michigan"
+    },
+    {
+      "title": "As enrollments plummet, Michigan communities sweat job losses from universities",
+      "url": "https://bridgemi.com/talent-education/as-enrollments-plummet-michigan-communities-sweat-job-losses-from-universities/",
+      "date": "2026-09-18",
+      "type": "News",
+      "summary_en": "For communities around many of Michigan’s public universities, declining enrollments and inadequate state funding may have severe adverse economic impacts.",
+      "author": "Shaina Sternhell, Capital News Service",
+      "source": "Bridge Michigan",
+      "category": "michigan"
+    },
+    {
+      "title": "Look up how many students miss class in your Michigan school",
+      "url": "https://bridgemi.com/talent-education/look-up-how-many-students-miss-class-in-your-michigan-school/",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "Statewide, more than 1 in 4 Michigan K-12 students are missing more than 10% of the school year. The rate is down slightly from the previous year but ‘more work remains,’ according to the state superintendent.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "education"
+    },
+    {
+      "title": "Michigan absenteeism inches down; 1 in 4 still miss too much school",
+      "url": "https://bridgemi.com/talent-education/chronic-absenteeism-in-michigan-schools-inches-down-but-remains-above-27/",
+      "date": "2026-09-17",
+      "type": "News",
+      "summary_en": "The state’s chronic absenteeism rates have decreased for the fourth year in a row, but more than a fourth of students are missing 10% or more of the school year.",
+      "author": "Isabel Lohman",
+      "source": "Bridge Michigan",
+      "category": "education"
+    }
+  ]
+}

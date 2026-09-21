@@ -1,0 +1,22 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-20T22:53:45.449442",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Globally, More People Expect AI to Cause Job Loss Than Growth",
+      "url": "https://www.pewresearch.org/global/2026/09/17/globally-more-people-expect-ai-to-cause-job-loss-than-growth/",
+      "date": "Sep 17, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Global Tech Cybersecurity",
+        "International Technology"
+      ],
+      "summary_en": "Amid a mix of concern and excitement about AI, a 37-country survey finds pessimism about its potential impact on jobs and economic inequality.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

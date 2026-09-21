@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-20T22:53:42.030544",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU grad student recipient of National Science Foundation fellowship in materials theory",
+      "url": "https://news.iu.edu/college/live/news/52839-iu-grad-student-recipient-of-national-science",
+      "date": "Sep 17, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "New IU Indianapolis students find room to explore, build and belong",
+      "url": "https://news.iu.edu/live/news/52854-new-iu-indianapolis-students-find-room-to-explore",
+      "date": "Sep 17, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU physician researcher turns entrepreneur in fight against HPV-related cancers",
+      "url": "https://news.iu.edu/live/news/52804-iu-physician-researcher-turns-entrepreneur",
+      "date": "Sep 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

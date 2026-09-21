@@ -1,0 +1,24 @@
+{
+  "source": "Quincy Institute",
+  "source_url": "https://quincyinst.org/research/?_sort_by=date_desc",
+  "crawled_at": "2026-09-20T22:53:50.040796",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The Wrong Race: The US, China, and AI Competition",
+      "url": "https://quincyinst.org/research/the-wrong-race-the-us-china-and-ai-competition/",
+      "date": "2026-09-18",
+      "summary_en": "",
+      "source": "Quincy Institute",
+      "category": "diplomacy"
+    },
+    {
+      "title": "From Strategic Patience to Persistent Counter-Escalation: Iran’s Emerging Theory of Deterrence",
+      "url": "https://quincyinst.org/research/from-strategic-patience-to-persistent-counter-escalation-irans-emerging-theory-of-deterrence/",
+      "date": "2026-09-17",
+      "summary_en": "",
+      "source": "Quincy Institute",
+      "category": "diplomacy"
+    }
+  ]
+}

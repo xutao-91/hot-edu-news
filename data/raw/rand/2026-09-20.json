@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-20T22:53:47.670786",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Preserving Jobs and Tax Revenue in the Age of AI: Q&A with Carter Price",
+      "url": "https://www.rand.org/pubs/commentary/2026/09/preserving-jobs-and-tax-revenue-in-the-age-of-ai-qa.html",
+      "date": "Sep 17, 2026",
+      "type": "Commentary",
+      "summary_en": "Carter Price, a mathematician at RAND and co-director of the RAND Von Furstenberg Family Budget Model Initiative, discusses ways to rebalance the tax code so that it doesn't incentivize employers to replace humans with AI.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    }
+  ]
+}
