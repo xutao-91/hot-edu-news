@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-22T20:00:16.614940",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Professors push back on humanities report at widely attended forum",
+      "url": "https://www.studlife.com/news/2026/09/21/132197",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "",
+      "author": "Lexi Lawsky",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Gephardt Institute’s Longest Table sees 538 attendees",
+      "url": "https://www.studlife.com/news/2026/09/20/gephardt-institutes-longest-table-sees-538-attendees",
+      "date": "2026-09-20",
+      "type": "News",
+      "summary_en": "",
+      "author": "Brayden Wang, Caspian Ferrandino",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

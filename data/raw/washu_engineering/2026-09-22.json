@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-09-22T20:00:18.997936",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Listening for cells: New sensor detects and classifies freely flowing particles without labels",
+      "url": "https://engineering.washu.edu/news/2026/Listening-for-cells-New-sensor-detects-and-classifies-freely-flowing-particles-without-labels.html",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Lan Yang’s lab develops new sensing technique to detect nanoparticles.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Alumna Gandhi uses engineering experience to pursue a new purpose",
+      "url": "https://engineering.washu.edu/news/2026/Alumna-Gandhi-uses-engineering-experience-to-pursue-a-new-purpose.html",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "As founder of Young Engineers Chicago, Kita Gandhi is building kids’ interest in STEM.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

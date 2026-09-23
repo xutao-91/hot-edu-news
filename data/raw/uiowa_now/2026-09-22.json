@@ -1,0 +1,26 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-09-22T20:00:16.958450",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UI builds on tradition as nation’s top public university for writing",
+      "url": "/news/2026/09/ui-builds-tradition-nations-top-public-university-writing",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "The University of Iowa remains the nation’s top public university for writing in the latest U.S. News & World Report Best Colleges rankings. Ranked No. 10 overall in writing in the disciplines, Iowa has been recognized as the best public university for six consecutive years.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Jupiter uses surprisingly complex system to fend off particles from sun",
+      "url": "/news/2026/09/jupiter-uses-surprisingly-complex-system-fend-particles-sun-0",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "University of Iowa researchers have made the most detailed observations yet of Jupiter’s bow shock, a barrier that helps deflect harmful particles from the sun. They found that Jupiter uses a more complex wave structure than Earth to efficiently handle the solar wind. The findings could help scientists understand the physics associated with powerful energy released by dying stars.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

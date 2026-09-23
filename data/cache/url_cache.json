@@ -24310,5 +24310,629 @@
     "fetch_time": "2026-09-20T22:53:50.146637",
     "title": "Presidential Message on Yom Kippur",
     "category": "general"
+  },
+  "https://www.ecampusnews.com/it-leadership/2026/09/21/access-the-overlooked-foundation-of-institutional-data-effectiveness/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-09-22T20:00:10.964381",
+    "title": "Access: The overlooked foundation of institutional data effectiveness",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/why-community-engagement-is-vital-to-learning-ecosystems/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-22T20:00:11.011655",
+    "title": "Why community engagement is vital to learning ecosystems",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/what-do-free-tuition-policies-do/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-22T20:00:11.011655",
+    "title": "What do free tuition policies do?",
+    "category": "semiconductor"
+  },
+  "https://stories.butler.edu/butler-university-enters-national-universities-category-earns-top-20-ranking-for-undergraduate-teaching/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-09-22T20:00:11.262412",
+    "title": "Butler University Enters National Universities Category, Earns Top 20 Ranking for Undergraduate Teaching",
+    "category": "education"
+  },
+  "https://www.augie.edu/news/2026/augustana-ranked-top-5-regional-university-us-news-world-report": {
+    "source": "augie_news",
+    "fetch_time": "2026-09-22T20:00:11.327594",
+    "title": "Augustana Ranked Top 5 Regional University by U.S. News & World Report",
+    "category": "education"
+  },
+  "https://www.elmhurst.edu/news/u-s-news-ranks-elmhurst-u-no-2-in-midwest-for-veterans-no-7-for-social-mobility/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-09-22T20:00:11.352212",
+    "title": "U.S. News Ranks Elmhurst No. 2 in Midwest for Veterans, No. 7 for Social Mobility",
+    "category": "general"
+  },
+  "https://globalaffairs.org/research/public-opinion-survey/fears-china-wane-americans-favor-greater-engagement-beijing": {
+    "source": "global_affairs",
+    "fetch_time": "2026-09-22T20:00:11.834956",
+    "title": "As Fears of China Wane, Americans Favor Greater Engagement with Beijing",
+    "category": "semiconductor"
+  },
+  "https://www.news.iastate.edu/news/how-ai-changing-business": {
+    "source": "iastate_news",
+    "fetch_time": "2026-09-22T20:00:12.348136",
+    "title": "How AI is changing business",
+    "category": "ai"
+  },
+  "https://music.indiana.edu/news-events/news/info/2026/09/lincoln-in-the-bardo-met-partnership.html": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-22T20:00:12.476759",
+    "title": "IU Jacobs School of Music and Met Opera advance partnership with Lincoln in the Bardo",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/52866-indiana-youth-survey-shows-continued-decline-in": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-22T20:00:12.476759",
+    "title": "Indiana Youth Survey shows continued decline in substance use among Hoosier youth",
+    "category": "general"
+  },
+  "https://www.iit.edu/news/illinois-tech-athletics-digest-scarlet-hawks-soar-across-all-sports": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-22T20:00:12.478773",
+    "title": "Illinois Tech Athletics Digest: Scarlet Hawks Soar Across All Sports",
+    "category": "semiconductor"
+  },
+  "https://www.kettering.edu/kettering-university-named-among-best-392-colleges-princeton-review-2027": {
+    "source": "kettering_news",
+    "fetch_time": "2026-09-22T20:00:12.934010",
+    "title": "Kettering University Named Among 2027 Best 392 Colleges by The Princeton Review",
+    "category": "education"
+  },
+  "https://heartland.org/opinion/scores-on-pisa-are-leaning-the-wrong-way/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-09-22T20:00:12.991795",
+    "title": "Scores on PISA Are Leaning the Wrong Way",
+    "category": "ai"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-recognized-for-top-ten-engineering-programs-in-the-u-s-2-university-in-the-midwest-by-u-s-news": {
+    "source": "msoe",
+    "fetch_time": "2026-09-22T20:00:13.670883",
+    "title": "MSOE recognized for top ten engineering programs in the U.S.; #2 university in the Midwest by U.S. News",
+    "category": "education"
+  },
+  "https://www.usnews.com/news/best-states/nebraska/articles/2026-09-18/warren-buffett-steps-down-as-berkshire-hathaway-chairman": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-22T20:00:13.730251",
+    "title": "Warren Buffett gives up chairman title at Berkshire Hathaway",
+    "category": "ai"
+  },
+  "https://san.com/cc/this-companys-newspapers-are-optimized-for-profit-for-its-hedge-fund-owner/": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-22T20:00:13.730251",
+    "title": "This company’s newspapers are ‘optimized for profit’ — for its hedge fund owner",
+    "category": "general"
+  },
+  "https://mendoza.nd.edu/news/reimagining-dementia-care/": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-22T20:00:13.730251",
+    "title": "Reimagining Dementia Care",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/university-to-be-consecrated-to-the-sacred-heart-of-jesus/": {
+    "source": "nd_news",
+    "fetch_time": "2026-09-22T20:00:14.040204",
+    "title": "University to be consecrated to the Sacred Heart of Jesus",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/advocacy-in-action-looping-people-in/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-22T20:00:14.614910",
+    "title": "Advocacy in Action: Looping People In",
+    "category": "general"
+  },
+  "https://www.csis.org/events/impossible-state-live-podcast-lips-and-teeth-china-north-korea-and-korean-peninsula": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "The Impossible State Live Podcast: Lips and Teeth? China, North Korea, and the Korean Peninsula",
+    "category": "general"
+  },
+  "https://www.csis.org/events/powering-america-rethinking-economics-transmission": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "Powering America: Rethinking the Economics of Transmission",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/ensuring-australian-resilience-effective-weapon-system-sustainment-era-contested-logistics": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "Ensuring Australian Resilience: Effective Weapon System Sustainment in an Era of Contested Logistics",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/1926-slavery-conventions-centennial-context": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "The 1926 Slavery Convention’s Centennial in Context",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/xi-jinpings-return-washington-state-visit-build-stability": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "Xi Jinping’s Return to Washington: A State Visit to Build Stability",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/he-said-xi-said": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "He Said, Xi Said",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/what-iran-and-ukraine-reveal-about-osint-war": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "What Iran and Ukraine Reveal About OSINT in War",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2ephp/analysis/understanding-us-federal-governments-ai-spending": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "Understanding the U.S. Federal Government’s AI Spending",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/state-ai-global-governance-and-its-implications-us-china-summit": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "The State of AI Global Governance and Its Implications for the U.S.-China Summit",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/levantine-opportunity-churning-middle-east": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "The Levantine Opportunity in a Churning Middle East",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/what-would-interim-us-mexico-trade-deal-actually-involve": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "What Would an Interim U.S.-Mexico Trade Deal Actually Involve?",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/rethinking-export-controls-tool-modern-technology-competition": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "Rethinking Export Controls as a Tool in Modern Technology Competition",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/behind-headlines-what-motivates-and-moves-japanese-elite-opinion-nuclear-weapons": {
+    "source": "csis",
+    "fetch_time": "2026-09-22T20:00:14.752109",
+    "title": "Behind the Headlines: What Motivates and Moves Japanese Elite Opinion on Nuclear Weapons Acquisition",
+    "category": "ai"
+  },
+  "https://www.mtu.edu/news/2026/09/networks-of-success-mtu-computer-engineering-student-finds-the-right-opportunities-for-growth.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-09-22T20:00:15.114106",
+    "title": "Networks of Success: MTU Computer Engineering Student Finds the Right Opportunities for Growth",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-22T20:00:15.234649",
+    "title": "Americans’ views of data centers have turned more negative",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/religion/2026/09/22/tradition-and-change-among-latter-day-saints-in-the-us/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-22T20:00:15.234649",
+    "title": "Tradition and Change Among Latter-day Saints in the U.S.",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/22/how-brazilians-view-their-country-ahead-of-2026-elections/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-22T20:00:15.234649",
+    "title": "How Brazilians view their country ahead of 2026 elections",
+    "category": "ai"
+  },
+  "https://oneill.indiana.edu/news/2026-0921-leadership-center-co-directors.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-22T20:00:15.264735",
+    "title": "Gahl-Mills, Baggetta look to empower others as co-directors of OLC",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/kansas-law-enforcement-training-center-to-celebrate-completion-of-phase-i-of-the-campus-master-plan-with-ribbon-cutting-ceremony": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-22T20:00:16.043585",
+    "title": "Kansas Law Enforcement Training Center to celebrate completion of Phase I of the Campus Master Plan with ribbon-cutting ceremony",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-holds-steady-at-no-74-among-publics-in-latest-us-news-world-report-rankings": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-22T20:00:16.043585",
+    "title": "KU holds steady at No. 74 among publics in latest U.S. News & World Report rankings",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-libraries-to-host-ku-alum-american-girl-author-angela-cervantes-for-hispanic-heritage-month": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-22T20:00:16.043585",
+    "title": "KU Libraries to host KU alum, American Girl author Angela Cervantes for Hispanic Heritage Month",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-researchers-detail-successes-challenges-of-practices-to-help-autistic-students-transition-out-of-high-school": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-22T20:00:16.043585",
+    "title": "KU researchers detail successes, challenges of practices to help autistic students transition out of high school",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-theatre-dance-season-opens-with-songs-for-a-new-world": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-22T20:00:16.043585",
+    "title": "KU Theatre & Dance season opens with ‘Songs for a New World’",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-09-21/three-undergraduate-business-programs-earn-national-recognition-us-news": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-09-22T20:00:16.638797",
+    "title": "Three Undergraduate Business Programs Earn National Recognition from U.S. News",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/09/21/132197": {
+    "source": "studlife",
+    "fetch_time": "2026-09-22T20:00:16.694489",
+    "title": "Professors push back on humanities report at widely attended forum",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/videos/2026-college-opening-convocation-livestream": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-22T20:00:16.759298",
+    "title": "2026 College Opening Convocation Livestream",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/library-congress-awards-john-w-kluge-prize-martha-c-nussbaum": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-22T20:00:16.759298",
+    "title": "Library of Congress awards John W. Kluge Prize to Martha C. Nussbaum",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/guardrails-vs-growth-striking-right-balance-ai": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-22T20:00:16.759298",
+    "title": "Guardrails vs. Growth: Striking the Right Balance on AI",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/class-2030-new-students-embark-uchicago-experience": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-22T20:00:16.759298",
+    "title": "Class of 2030, new students embark on UChicago experience",
+    "category": "education"
+  },
+  "https://www.wsj.com/opinion/teach-students-to-think-with-without-and-about-ai-55bcf34b": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-22T20:00:16.759298",
+    "title": "Teach Students to Think With, Without and About AI",
+    "category": "education"
+  },
+  "https://today.uic.edu/research-funding-at-uic-reaches-498m-in-fy-2026/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-22T20:00:16.868036",
+    "title": "Research funding at UIC reaches $498M in FY 2026",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/u-s-news-ranks-uic-among-nations-top-public-universities/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-22T20:00:16.868036",
+    "title": "U.S. News ranks UIC among nation’s top public universities",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/what-makes-uics-atkins-garden-special/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-22T20:00:16.868036",
+    "title": "What makes UIC’s Atkins Garden special",
+    "category": "semiconductor"
+  },
+  "https://learningpolicyinstitute.org/product/gdtf-california-principals-trends-brief": {
+    "source": "learning_policy",
+    "fetch_time": "2026-09-22T20:00:16.943491",
+    "title": "California’s Principal Workforce: Trends in Supply and Turnover",
+    "category": "general"
+  },
+  "/news/2026/09/ui-builds-tradition-nations-top-public-university-writing": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-22T20:00:17.040725",
+    "title": "UI builds on tradition as nation’s top public university for writing",
+    "category": "education"
+  },
+  "/news/2026/09/jupiter-uses-surprisingly-complex-system-fend-particles-sun-0": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-09-22T20:00:17.040725",
+    "title": "Jupiter uses surprisingly complex system to fend off particles from sun",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0922-2027-us-news-engineering-undergraduate-rankings-Purdue": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "Purdue Engineering scores its most-ever top 5 undergraduate rankings",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-daniels-midwest-japan-association-conference": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "CoE's Lundstrom participates in Midwest-Japan conference in Indianapolis",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-molecular-diagnostics-instruments-verma-lab": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "New molecular diagnostics instruments by ABE's Verma provide improved accuracy",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-jetro-japan-innovation-mou-signing": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "Purdue, Japan strengthen engineering research collaboration with new agreements",
+    "category": "general"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-innovates-commercialization-fellow-sardana": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "ME's Sardana, Purdue Innovates Commercialization Fellow, tackles data annotation bottlenecks",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0921-purdue-innovates-moonshot-pitch-challenge-winners": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "Innovative solutions by Purdue Engineering students abound at Moonshot Pitch Challenge",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0910-purdue-uiuc-semiconductor-workforce-initiative": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "Purdue and University of Illinois, two engineering powerhouses, team up to strengthen semiconductor workforce in U.S.",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0921-purdue-alumni-nasa-artemis-program": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-09-22T20:00:17.515258",
+    "title": "Meet some of the Purdue alums who have powered NASA’s Artemis program",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-ranked-no-1-midwest-us-news-world-report": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-22T20:00:17.817019",
+    "title": "UNI ranked No. 1 in the Midwest by U.S. News & World Report",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/cse-undergraduate-programs-rise-2027-us-news-rankings": {
+    "source": "umn_cse",
+    "fetch_time": "2026-09-22T20:00:18.046991",
+    "title": "CSE undergraduate programs rise in 2027 U.S. News rankings",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-continues-to-rise-in-the-u-s-news-best-colleges-rankings/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-22T20:00:18.062330",
+    "title": "Mizzou continues to rise in the U.S. News Best Colleges rankings",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/at-mizzou-skylar-ciccolini-found-a-way-to-pursue-every-ambition/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-22T20:00:18.062330",
+    "title": "At Mizzou, Skylar Ciccolini found a way to pursue every ambition",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/changing-the-way-we-age-mizzou-discovery-could-help-preserve-muscle-strength/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-22T20:00:18.062330",
+    "title": "Changing the way we age: Mizzou discovery could help preserve muscle strength",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-research-shows-goats-can-help-restore-missouri-woodlands/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-22T20:00:18.062330",
+    "title": "Mizzou research shows goats can help restore Missouri woodlands",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-plays-critical-role-in-one-of-the-worlds-biggest-energy-projects/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-22T20:00:18.062330",
+    "title": "Mizzou plays critical role in one of the world’s biggest energy projects",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-13-more-candidates-for-legislature/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-09-22T20:00:18.098400",
+    "title": "Education Minnesota endorses 13 more candidates for Legislature",
+    "category": "education"
+  },
+  "https://engineering.wisc.edu/news/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Tiny quantum nanostructures could make AI less of an energy hog",
+    "category": "quantum"
+  },
+  "https://cai.wisc.edu/2026/07/31/meet-the-students-making-space-for-women-in-entrepreneurship/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Meet the students making space for Women in Entrepreneurship",
+    "category": "education"
+  },
+  "https://news.wisc.edu/ireland-meet-uw-madison/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Ireland, meet UW–Madison",
+    "category": "education"
+  },
+  "https://news.wisc.edu/uw-rises-to-8th-among-publics-34th-overall-in-u-s-news-rankings/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "UW rises to 8th among publics, 34th overall, in U.S. News rankings",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/higher-learning-commission-visit-is-oct-5-7": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Higher Learning Commission visit is Oct. 5-7",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/nebraska-is-among-first-to-earn-new-carnegie-sustainability-classification": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Nebraska is among first to earn new Carnegie sustainability classification",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/dadamo-turns-classroom-chairs-into-student-portraits": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "D'Adamo turns classroom chairs into student portraits",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/regents-approve-naming-of-elinor-kerrey-classroom-in-scarlet-hotel": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Regents approve naming of Elinor Kerrey Classroom in Scarlet Hotel",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/balasubramaniam-uses-bacterial-gene-networks-to-develop-new-miniature-ai-architecture": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Balasubramaniam uses bacterial gene networks to develop new miniature AI architecture",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/homecoming-festivities-include-battle-of-the-bands-festival-parade-0": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-22T20:00:18.204756",
+    "title": "Homecoming festivities include Battle of the Bands, festival, parade",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/09/the-writer-and-her-editor/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-22T20:00:18.465753",
+    "title": "The Writer and Her Editor",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/09/a-new-toolkit-for-teaching-in-the-age-of-ai/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-22T20:00:18.465753",
+    "title": "A new toolkit for teaching in the age of AI",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/washu-expert-the-future-of-queer-gerontology/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-22T20:00:18.465753",
+    "title": "The future of queer gerontology",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/polytechnic-research-awards-august-2026": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-22T20:00:18.853534",
+    "title": "Polytechnic research awards - August 2026",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/engineering-technology-degree-worth-it-professionals-who-want-impact-industry-answer-yes": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-22T20:00:18.853534",
+    "title": "Is an engineering technology degree worth it? For professionals who want to impact industry, the answer is yes",
+    "category": "general"
+  },
+  "https://polytechnic.purdue.edu/newsroom/game-development-student-creates-aspire-101-help-students-find-connection-campus": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-22T20:00:18.853534",
+    "title": "Game development student creates Aspire 101 to help students find connection on campus",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-brings-new-faculty-board-indianapolis": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-22T20:00:18.853534",
+    "title": "Purdue Polytechnic brings new faculty on board in Indianapolis",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-game-development-program-recognized-among-indianas-best": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-22T20:00:18.853534",
+    "title": "Purdue game development program recognized among Indiana’s best",
+    "category": "general"
+  },
+  "https://polytechnic.purdue.edu/newsroom/faezipour-co-authors-book-large-language-models-health-care": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-22T20:00:18.853534",
+    "title": "Faezipour co-authors book on large language models in health care",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/09/22/the-long-way-around-warrior-way-back-helps-wayne-state-alumna-find-her-calling-70168": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-22T20:00:18.861559",
+    "title": "‘The long way around’: Warrior Way Back helps Wayne State alumna find her calling",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/09/22/wayne-state-university-for-third-consecutive-year-named-a-top-100-public-university-in-latest-us-news-world-report-ranking-70169": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-22T20:00:18.861559",
+    "title": "Wayne State University for third consecutive year named a top 100 public university in latest U.S. News & World Report ranking",
+    "category": "education"
+  },
+  "https://provost.wayne.edu/news/wayne-state-junior-wins-prestigious-obama-chesky-voyager-scholarship-for-public-service-70200": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-22T20:00:18.861559",
+    "title": "WSU junior wins Obama-Chesky scholarship",
+    "category": "general"
+  },
+  "https://economicdevelopment.wayne.edu/news/wayne-state-students-as-consultants-detroit-startups-say-yes-70166": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-22T20:00:18.861559",
+    "title": "Wayne State students as consultants? Detroit startups say yes.",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/president-trump-inks-historic-arctic-security-agreement/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "President Trump Inks Historic Arctic Security Agreement",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-unveils-new-fostering-the-future-together-technology-alliances-international-events-and-membership-expansion/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "First Lady Melania Trump Unveils New Fostering the Future Together Technology Alliances, International Events, and Membership Expansion",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/president-trump-at-the-united-nations-while-others-have-talked-i-have-acted/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "President Trump at the United Nations: “While Others Have Talked, I Have Acted”",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/agreement-between-the-government-of-the-united-states-of-america-and-the-government-of-the-kingdom-of-denmark-together-with-the-government-of-greenland-to-amend-and-supplement-the-agreement-of-27-apri/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "AGREEMENT BETWEEN THE GOVERNMENT OF THE UNITED STATES OF AMERICA AND THE GOVERNMENT OF THE KINGDOM OF DENMARK TOGETHER WITH THE GOVERNMENT OF GREENLAND",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/white-house-access-is-a-privilege-not-a-right/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "White House Access Is a Privilege — Not a Right",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/g20-energy-abundance-ministerial-concludes-with-four-consensus-outcomes/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "G20 Energy Abundance Ministerial Concludes with Four Consensus Outcomes",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-releases-details-ahead-of-his-excellency-xi-jinping-president-of-the-peoples-republic-of-china-and-madame-peng-liyuans-visit-to-the-white-house/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-22T20:00:18.884632",
+    "title": "First Lady Melania Trump Releases Details Ahead of His Excellency Xi Jinping, President of The People’s Republic of China, and Madame Peng Liyuan’s Visit to The White House",
+    "category": "ai"
+  },
+  "https://engineering.washu.edu/news/2026/Listening-for-cells-New-sensor-detects-and-classifies-freely-flowing-particles-without-labels.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-09-22T20:00:19.044389",
+    "title": "Listening for cells: New sensor detects and classifies freely flowing particles without labels",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Alumna-Gandhi-uses-engineering-experience-to-pursue-a-new-purpose.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-09-22T20:00:19.044389",
+    "title": "Alumna Gandhi uses engineering experience to pursue a new purpose",
+    "category": "semiconductor"
+  },
+  "https://www.slu.edu/news/2026/september/pursuing-the-spirit.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-22T20:00:20.329006",
+    "title": "'Pursuing the Spirit' Highlights First Museum to Focus on Religious, Spiritual Dimensions in Contemporary Art",
+    "category": "general"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-22T20:00:10.905122",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Access: The overlooked foundation of institutional data effectiveness",
+      "url": "https://www.ecampusnews.com/it-leadership/2026/09/21/access-the-overlooked-foundation-of-institutional-data-effectiveness/",
+      "date": "2026-09-21",
+      "type": "Data & Analytics",
+      "summary_en": "Many program evaluation reports articulate the need for better data analysis. The key to that analysis is often access. Higher-education institutions have invested heavily in data collection, analytics platforms, data warehouses, and business intelligence tools.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

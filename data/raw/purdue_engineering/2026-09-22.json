@@ -1,0 +1,80 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-22T20:00:17.408742",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Purdue Engineering scores its most-ever top 5 undergraduate rankings",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0922-2027-us-news-engineering-undergraduate-rankings-Purdue",
+      "date": "September 22, 2026",
+      "type": "News",
+      "summary_en": "5 programs in their top 5 specialty rankings, 8 programs in top 10",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "CoE's Lundstrom participates in Midwest-Japan conference in Indianapolis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-daniels-midwest-japan-association-conference",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "The State of Indiana, in partnership with the Japan-America Society of Indiana, hosted the 56th annual joint meeting of the Midwest U.S.-Japan Association (MWJA) and the Japan-Midwest U.S. Association from Sept. 9-11 at the Westin Hotel in downtown Indianapolis.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "New molecular diagnostics instruments by ABE's Verma provide improved accuracy",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-molecular-diagnostics-instruments-verma-lab",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "Purdue University researchers have developed prototypes of three new molecular diagnostics instruments designed to rapidly and affordably deliver results in a user-friendly manner.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue, Japan strengthen engineering research collaboration with new agreements",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-jetro-japan-innovation-mou-signing",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "Partners explore ways to bolster innovation ecosystems in both countries",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    },
+    {
+      "title": "ME's Sardana, Purdue Innovates Commercialization Fellow, tackles data annotation bottlenecks",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0921-purdue-innovates-commercialization-fellow-sardana",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "Pranshul Sardana’s technology accelerates data annotation, making it easier to prepare large, complex image and video datasets for machine‑learning models to enable higher accuracy predictions.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Innovative solutions by Purdue Engineering students abound at Moonshot Pitch Challenge",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0921-purdue-innovates-moonshot-pitch-challenge-winners",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "Purdue Innovates Incubator awards $5,500 to two Purdue Engineering student teams",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    },
+    {
+      "title": "Purdue and University of Illinois, two engineering powerhouses, team up to strengthen semiconductor workforce in U.S.",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0910-purdue-uiuc-semiconductor-workforce-initiative",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "Purdue University and the University of Illinois Urbana-Champaign (U. of I.) signed a memorandum of understanding on Friday (Sept. 18) to establish a joint semiconductor workforce development initiative to prepare students for careers in an industry whose rapid growth is being driven by the AI boom.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Meet some of the Purdue alums who have powered NASA’s Artemis program",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0921-purdue-alumni-nasa-artemis-program",
+      "date": "September 21, 2026",
+      "type": "News",
+      "summary_en": "Boilermakers have taken part in virtually every stage of the program that will bring humankind back to the moon",
+      "source": "Purdue College of Engineering",
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-09-22T20:00:17.959946",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "CSE undergraduate programs rise in 2027 U.S. News rankings",
+      "url": "https://cse.umn.edu/college/news/cse-undergraduate-programs-rise-2027-us-news-rankings",
+      "date": "2026-09-22",
+      "type": "Awards-Grants",
+      "summary_en": "The University of Minnesota Twin Cities College of Science and Engineering programs rose in the 2027 U.S. News & World Report rankings, with every CSE program included here placing among the nation’s top 20 public programs.",
+      "source": "UMN CSE",
+      "category": "students"
+    }
+  ]
+}

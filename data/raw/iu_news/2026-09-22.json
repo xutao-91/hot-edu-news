@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-22T20:00:12.368237",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU Jacobs School of Music and Met Opera advance partnership with Lincoln in the Bardo",
+      "url": "https://music.indiana.edu/news-events/news/info/2026/09/lincoln-in-the-bardo-met-partnership.html",
+      "date": "Sep 22, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Indiana Youth Survey shows continued decline in substance use among Hoosier youth",
+      "url": "https://news.iu.edu/live/news/52866-indiana-youth-survey-shows-continued-decline-in",
+      "date": "Sep 21, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}
