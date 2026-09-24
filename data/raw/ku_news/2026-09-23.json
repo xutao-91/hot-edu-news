@@ -1,0 +1,80 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-09-23T20:00:11.853864",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Researcher will examine galactic evolution with new ‘Roman’ space telescope",
+      "url": "https://news.ku.edu/news/article/researcher-will-examine-galactic-evolution-with-new-roman-space-telescope",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "A University of Kansas researcher will co-direct one of the major debut experiments of the latest space telescope, called GRACE: the Grism Reionization and Cosmic Evolution Survey.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "21 University of Kansas students selected for the 2026 Millennium Fellowship class",
+      "url": "https://news.ku.edu/news/article/21-university-of-kansas-students-selected-for-the-2026-millennium-fellowship-class",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "Selected from a record-breaking 76,000 applicants from more than 6,000 campuses worldwide, 21 University of Kansas students were recently chosen for the 2026 Millennium Fellowship, a leadership development program that partners with the United Nations Academic Impact and is overseen by the Millennium Campus Network.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "2026 Lelon Capps Lecture will explore effective mathematics instruction and teacher preparation",
+      "url": "https://news.ku.edu/news/article/2026-lelon-capps-lecture-will-explore-effective-mathematics-instruction-and-teacher-preparation",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "The KU School of Education & Human Sciences will welcome Angela Barlow, dean of the College of Education and Professional Studies and professor of mathematics education at the University of South Alabama, as the 2026 Lelon Capps featured lecturer. She will give a talk at 4:30 p.m. Sept. 28.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Kansas Law Enforcement Training Center to celebrate completion of Phase I of the Campus Master Plan with ribbon-cutting ceremony",
+      "url": "https://news.ku.edu/news/article/kansas-law-enforcement-training-center-to-celebrate-completion-of-phase-i-of-the-campus-master-plan-with-ribbon-cutting-ceremony",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "The Kansas Law Enforcement Training Center, based at the University of Kansas, invites the media to celebrate the completion of Phase I of its Campus Master Plan with a ribbon-cutting ceremony Oct. 2 at the campus near Yoder.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU holds steady at No. 74 among publics in latest U.S. News & World Report rankings",
+      "url": "https://news.ku.edu/news/article/ku-holds-steady-at-no-74-among-publics-in-latest-us-news-world-report-rankings",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "For the second consecutive year, the University of Kansas is ranked No. 74 among public universities in U.S. News & World Report’s “Best Colleges” rankings, released today.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Libraries to host KU alum, American Girl author Angela Cervantes for Hispanic Heritage Month",
+      "url": "https://news.ku.edu/news/article/ku-libraries-to-host-ku-alum-american-girl-author-angela-cervantes-for-hispanic-heritage-month",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Angela Cervantes, the Jayhawk behind American Girl’s 2026 Girl of the Year character, Raquel Reyes, will return to the University of Kansas on Oct. 17 for a free family event celebrating Hispanic Heritage Month.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU researchers detail successes, challenges of practices to help autistic students transition out of high school",
+      "url": "https://news.ku.edu/news/article/ku-researchers-detail-successes-challenges-of-practices-to-help-autistic-students-transition-out-of-high-school",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "Researchers at the Kansas University Center on Disabilities and special education colleagues are publishing a series of studies in a special journal issue detailing the successes and challenges of two evidence-based practices to help autistic students make the transition from high school.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU Theatre & Dance season opens with ‘Songs for a New World’",
+      "url": "https://news.ku.edu/news/article/ku-theatre-dance-season-opens-with-songs-for-a-new-world",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "The contemporary musical by Jason Robert Brown shows off KU students’ singing talents and offers audiences variety through song, dance and scene changes.  All cast members are students and will be accompanied by professional musicians from the Lawrence and Kansas City communities.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

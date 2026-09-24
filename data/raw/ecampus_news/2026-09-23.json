@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-23T20:00:07.976250",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Using student housing to sharpen your retention strategy",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/09/23/using-student-housing-to-sharpen-your-retention-strategy/",
+      "date": "2026-09-23",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Ask any university president how they can improve visibility into student well-being and satisfaction, and housing may not come up at all, yet housing teams have insight into some of the earliest and most robust signals of student risk and satisfaction anywhere on or off campus.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Access: The overlooked foundation of institutional data effectiveness",
+      "url": "https://www.ecampusnews.com/it-leadership/2026/09/21/access-the-overlooked-foundation-of-institutional-data-effectiveness/",
+      "date": "2026-09-21",
+      "type": "Data & Analytics",
+      "summary_en": "Many program evaluation reports articulate the need for better data analysis. The key to that analysis is often access. Higher-education institutions have invested heavily in data collection, analytics platforms, data warehouses, and business intelligence tools.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

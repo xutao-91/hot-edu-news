@@ -1,0 +1,35 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-09-23T20:00:08.611255",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Dawson Named Researcher to Know",
+      "url": "https://www.iit.edu/news/dawson-named-researcher-know",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "Illinois Tech Associate Professor of Mechanical and Aerospace Engineering Scott Dawson has been recognized as one of the 2026 Illinois Researchers to Know by the Illinois Science & Technology...",
+      "source": "IIT News",
+      "category": "research"
+    },
+    {
+      "title": "Defining Design: Chicago-Kent Professor Cited in Federal Judicial Ruling",
+      "url": "https://www.iit.edu/news/defining-design-chicago-kent-professor-cited-federal-judicial-ruling",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "“I’m gratified and honored when a judge finds my work to be helpful—especially where, as here, they’re dealing with new and novel legal questions,” says Chicago-Kent College of Law Professor Sarah...",
+      "source": "IIT News",
+      "category": "academic"
+    },
+    {
+      "title": "Illinois Tech Athletics Digest: Scarlet Hawks Soar Across All Sports",
+      "url": "https://www.iit.edu/news/illinois-tech-athletics-digest-scarlet-hawks-soar-across-all-sports",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Each week, the Illinois Tech Athletics Digest will look back at the week that was in Scarlet Hawks athletics and provide a brief glimpse at what is up next. Up First September 22: Women’s Tennis...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

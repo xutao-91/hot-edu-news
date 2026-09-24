@@ -1,0 +1,108 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-23T20:00:11.132132",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "The verification gap: can we still measure what matters?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-09-23",
+      "type": "Voices",
+      "summary_en": "Skills have never been more important than in today's job market. But how can employers make sure that today's grads have the tools they need in a quickly changing employment landscape, asks David Harkin.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "David Harkin"
+    },
+    {
+      "title": "Australia squeezes dependants as wider student migration questions emerge",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-23",
+      "type": "Policy",
+      "summary_en": "Australia is squeezing access to dependant visas as the government moves to reduce net overseas migration, with wider questions emerging over its student migration settings and 295,000 student intake target.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Agents and former staffers left in the dark after ILAC goes bust",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Agents and former employees of the now-defunct ILAC have expressed their shock that Canada's biggest language school has filed for bankruptcy – apparently without warning.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Hong Kong’s Northern Metropolis to create new space for universities and innovation",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-09-22",
+      "type": "Partnerships",
+      "summary_en": "Hong Kong is looking to use its Northern Metropolis, a major development area in the north of the city, to expand university capacity and create closer links between higher education, international partners and industry.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "UWA eyes up to 200 students as India campus expansion faces first test",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-09-22",
+      "type": "Transnational education",
+      "summary_en": "The Group of Eight university says affordability, mobility and industry links will distinguish its Mumbai and Chennai campuses, but demand and graduate outcomes remain untested.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "BREAKING: IDP rejects $494m private equity takeover bid",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-09-22",
+      "type": "Investor",
+      "summary_en": "IDP Education has batted away a \"highly opportunistic\" multi-million dollar takeover bid from Blackstone, accusing the private equity giant of significantly undervaluing the business.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "EC English and ILAC’s closures tell an uncomfortable truth about Canada’s ELT sector",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-09-22",
+      "type": "Voices",
+      "summary_en": "The shock closure of two major ELT players just days apart isn’t coincidence, says Heartland International English School president Gary Gervais. It’s the symptom of a much wider problem.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Gary Gervais"
+    },
+    {
+      "title": "ILAC co-founder and ex-CEO opens new Toronto language school",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "The co-founder and former CEO of one-time ELT giant ILAC is opening a new language school in Toronto.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Languages Canada vows to help students affected by “sudden and disorderly” ILAC closure",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-09-21",
+      "type": "Language learning",
+      "summary_en": "Canada's peak body for the ELT sector has pledged to develop a placement plan for displaced students reeling from ILAC's shock bankruptcy announcement last week.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "UK has “almost nowhere left to grow” international recruitment, modelling finds",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-09-21",
+      "type": "Recruitment & agents",
+      "summary_en": "UK universities have “almost nowhere left to grow” their international student numbers safely, according to new modelling from think tank Public First, which finds that the countries offering the greatest potential for growth are generally among the least stable sources of students.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    }
+  ]
+}

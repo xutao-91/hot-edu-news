@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-23T20:00:16.131205",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "'Pursuing the Spirit' Highlights First Museum to Focus on Religious, Spiritual Dimensions in Contemporary Art",
+      "url": "https://www.slu.edu/news/2026/september/pursuing-the-spirit.php",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Pursuing the Spirit: The Museum of Contemporary Religious Art, a new book by the former director of SLU's Museum of Contemporary and Religious Art (MOCRA) offers an extensive and generously illustrated treatment of the first museum to focus on the religious and spiritual dimensions in contemporary art.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Undergraduate Programs Ranked Among Nation’s Best",
+      "url": "https://www.slu.edu/news/2026/september/us-news-undergraduate-rankings.php",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "SLU was ranked No. 100 among 422 national universities included in the 2027 U.S. News & World Report Best Colleges rankings for undergraduate education, released on Sept. 22. Undergraduate programs in the Trudy Busch Valentine School of Nursing and Richard A. Chaifetz School of Business ranked in the top-50.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

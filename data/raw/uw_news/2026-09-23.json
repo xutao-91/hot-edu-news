@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-23T20:00:13.554329",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Great expectations for UW hockey",
+      "url": "https://onwisconsin.uwalumni.com/great-expectations-for-uw-hockey/",
+      "date": "September 23, 2026",
+      "type": "News",
+      "summary_en": "As the college hockey seasons ramp up, the men’s and women’s teams aim to capitalize on their spectacular 2025-26 seasons.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "A new home for the UW Athletic Hall of Fame",
+      "url": "https://news.wisc.edu/a-new-home-for-the-uw-athletic-hall-of-fame/",
+      "date": "September 23, 2026",
+      "type": "News",
+      "summary_en": "Opening last week, the Ray Kubly Plaza outside the Kohl Center recognizes hundreds of Badger greats.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "The return of UW’s rarest books",
+      "url": "https://news.wisc.edu/the-return-of-uws-rarest-books/",
+      "date": "September 23, 2026",
+      "type": "News",
+      "summary_en": "After an 18-month hiatus, Memorial Library’s Special Collections — and its 300,000 invaluable objects — are accessible again.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Tiny quantum nanostructures could make AI less of an energy hog",
+      "url": "https://engineering.wisc.edu/news/tiny-quantum-nanostructures-could-make-ai-less-of-an-energy-hog/",
+      "date": "September 22, 2026",
+      "type": "News",
+      "summary_en": "An emerging technology designed by UW–Madison engineers has the potential to make AI systems faster and significantly more energy efficient.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Meet the students making space for Women in Entrepreneurship",
+      "url": "https://cai.wisc.edu/2026/07/31/meet-the-students-making-space-for-women-in-entrepreneurship/",
+      "date": "September 22, 2026",
+      "type": "News",
+      "summary_en": "The student organization is enabling hundreds of women at UW–Madison to step confidently into entrepreneurial spaces.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Ireland, meet UW–Madison",
+      "url": "https://news.wisc.edu/ireland-meet-uw-madison/",
+      "date": "September 22, 2026",
+      "type": "News",
+      "summary_en": "An Irish delegation promoting the Aer Lingus College Football Classic visited campus last week, creating connections and collaborative opportunities in advance of next year’s international game.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW rises to 8th among publics, 34th overall, in U.S. News rankings",
+      "url": "https://news.wisc.edu/uw-rises-to-8th-among-publics-34th-overall-in-u-s-news-rankings/",
+      "date": "September 22, 2026",
+      "type": "News",
+      "summary_en": "“Best Value Schools” ranking also jumps 23 spots, placing UW–Madison 24th in the nation.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

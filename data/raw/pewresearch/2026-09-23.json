@@ -1,0 +1,77 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-23T20:00:10.865456",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Americans’ views of China have warmed in recent years",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/23/americans-views-of-china-have-warmed-in-recent-years/",
+      "date": "Sep 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "China Global Image",
+        "International Issues",
+        "Political Issues"
+      ],
+      "summary_en": "Americans’ feelings toward China have warmed since 2021, though views remain mostly cold, with sharp partisan and generational divides.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Prediction markets’ trading volume doubled between May and July, largely driven by sports",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/23/prediction-markets-trading-volume-doubled-between-may-and-july-largely-driven-by-sports/",
+      "date": "Sep 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Personal Finances",
+        "Personal Life",
+        "Sports"
+      ],
+      "summary_en": "Prediction market trading on Kalshi and Polymarket doubled from May to July, mostly due to a large uptick in sports trading.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans’ views of data centers have turned more negative",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/22/americans-views-of-data-centers-have-turned-more-negative/",
+      "date": "Sep 22, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Energy",
+        "Political Issues"
+      ],
+      "summary_en": "Americans’ views of data centers have turned more negative since January. But many are unsure or unfamiliar with them.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Tradition and Change Among Latter-day Saints in the U.S.",
+      "url": "https://www.pewresearch.org/religion/2026/09/22/tradition-and-change-among-latter-day-saints-in-the-us/",
+      "date": "Sep 22, 2026",
+      "type": "report",
+      "categories": [
+        "Beliefs Practices",
+        "Latter Day Saint Mormon",
+        "Religion Politics 1",
+        "Religion Social Values"
+      ],
+      "summary_en": "Members of the Church of Jesus Christ of Latter-day Saints are still highly religious and conservative, but signs point to demographic and social change.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "How Brazilians view their country ahead of 2026 elections",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/22/how-brazilians-view-their-country-ahead-of-2026-elections/",
+      "date": "Sep 22, 2026",
+      "type": "short reads",
+      "categories": [
+        "World Leaders"
+      ],
+      "summary_en": "Ahead of Brazil’s Oct. 4 elections, here are four facts about how they view their country and Brazil’s main trading partners.",
+      "source": "Pew Research Center",
+      "category": "international"
+    }
+  ]
+}

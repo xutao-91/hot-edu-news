@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-23T20:00:12.400064",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Class of 2030, new students embark on UChicago experience",
+      "url": "https://news.uchicago.edu/story/class-2030-new-students-embark-uchicago-experience",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "O-Week festivities welcome undergraduate and graduate students as the new academic year approaches",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Study led by UChicago scientists finds atmosphere on the coldest lava world to date",
+      "url": "https://news.uchicago.edu/story/study-led-uchicago-scientists-finds-atmosphere-coldest-lava-world-date",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "Studying the atmospheres of lava worlds offers window to Earth’s earliest history, pathway to habitable worlds",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "2026 College Opening Convocation Livestream",
+      "url": "https://news.uchicago.edu/videos/2026-college-opening-convocation-livestream",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "Watch a Livestream of the College Opening Convocation at 3:30 p.m. CT",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Library of Congress awards John W. Kluge Prize to Martha C. Nussbaum",
+      "url": "https://news.uchicago.edu/story/library-congress-awards-john-w-kluge-prize-martha-c-nussbaum",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Prestigious award recognizes renowned UChicago scholar’s achievements in study of humanity",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Guardrails vs. Growth: Striking the Right Balance on AI",
+      "url": "https://news.uchicago.edu/guardrails-vs-growth-striking-right-balance-ai",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Teach Students to Think With, Without and About AI",
+      "url": "https://www.wsj.com/opinion/teach-students-to-think-with-without-and-about-ai-55bcf34b",
+      "date": "2026-09-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}
