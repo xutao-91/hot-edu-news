@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-09-24T20:00:08.847647",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "How AI is changing business",
+      "url": "https://www.news.iastate.edu/news/how-ai-changing-business",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "From entrepreneurial startups to boosting defense, a 2015 Iowa State graduate will share lessons he's learned and explore how AI is changing the nature of business.",
+      "source": "Iowa State News",
+      "category": "business"
+    }
+  ]
+}

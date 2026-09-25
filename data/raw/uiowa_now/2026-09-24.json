@@ -1,0 +1,53 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-09-24T20:00:14.208017",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Writing across disciplines: UI is in elite company",
+      "url": "https://link.uiowa.edu/l/ce85893a-d913-4b09-9cdd-a2c411099bac?m=dec1e456-6c43-4572-a654-3291e80cb357&c=d.vpsc&i=202609",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "Iowa’s unmatched writing-related resources prepare its graduates for success in many fields. This level of excellence, strengthened in the past year by the creation of the Office of Writing and Communication and piloting a new undergraduate curriculum, positions Iowa as the best public university for writing and communication.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Fall cohort brings new vision to UI’s International Writing Program",
+      "url": "https://link.uiowa.edu/l/d77e4325-ff79-4f6f-8e8e-8564fbfcda8e?m=dec1e456-6c43-4572-a654-3291e80cb357&c=d.vpsc&i=202609",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "Nearly 60 years after its founding, the International Writing Program begins another chapter supported by donors, longtime partners, and the Iowa City community. This fall’s cohort of 22 residents will help guide the program’s future and continue its tradition of bringing writers together across borders.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI builds on tradition as nation’s top public university for writing",
+      "url": "/news/2026/09/ui-builds-tradition-nations-top-public-university-writing",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "The University of Iowa remains the nation’s top public university for writing in the latest U.S. News & World Report Best Colleges rankings. Ranked No. 10 overall in writing in the disciplines, Iowa has been recognized as the best public university for six consecutive years.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Ferentz family's neonatal research gift continues to give hope to preemies",
+      "url": "https://link.uiowa.edu/l/4c6589f7-6399-4b84-b4c4-e28ac4cd0645?m=dec1e456-6c43-4572-a654-3291e80cb357&c=d.vpsc&i=202609",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Iowa head football coach Kirk Ferentz and his wife, Mary, continue to support neonatal research at UI Stead Family Children’s Hospital in memory of their granddaughter Savvy. Their support is helping improve outcomes for the hospital’s tiniest patients. Read about the Savvy Ferentz Program in Neonatal Research and how you can support its work.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Jupiter uses surprisingly complex system to fend off particles from sun",
+      "url": "/news/2026/09/jupiter-uses-surprisingly-complex-system-fend-particles-sun-0",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "University of Iowa researchers have made the most detailed observations yet of Jupiter’s bow shock, a barrier that helps deflect harmful particles from the sun. They found that Jupiter uses a more complex wave structure than Earth to efficiently handle the solar wind. The findings could help scientists understand the physics associated with powerful energy released by dying stars.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

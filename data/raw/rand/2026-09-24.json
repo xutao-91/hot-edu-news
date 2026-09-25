@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-09-24T20:00:14.017716",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "AGI Rideout: Managing Risk on the Road to Advanced AI",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/agi-rideout-managing-risk-on-the-road-to-advanced-ai.html",
+      "date": "Sep 24, 2026",
+      "type": "Podcast",
+      "summary_en": "RAND's David Frelinger and Karl Mueller propose an “AGI Rideout” strategy to help prevent conflict, build resilience, and navigate the potential risks of advanced AI.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

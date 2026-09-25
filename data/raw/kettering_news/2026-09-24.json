@@ -1,0 +1,26 @@
+{
+  "source": "Kettering University News",
+  "source_url": "https://www.kettering.edu/who-we-are/news-events/kettering-news",
+  "crawled_at": "2026-09-24T20:00:10.021083",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Back to the Future: Celebrating 30 Years of the GM EV1 at Kettering",
+      "url": "https://www.kettering.edu/back-future-celebrating-30-years-gm-ev1-kettering",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "general"
+    },
+    {
+      "title": "Kettering University Named Among 2027 Best 392 Colleges by The Princeton Review",
+      "url": "https://www.kettering.edu/kettering-university-named-among-best-392-colleges-princeton-review-2027",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "academics"
+    }
+  ]
+}

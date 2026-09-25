@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-24T20:00:14.380677",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Nursing major from Nebraska finds a home at UNI",
+      "url": "https://insideuni.uni.edu/campus-community/nursing-major-nebraska-finds-home-uni",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "For Christina Johansen, coming to the University of Northern Iowa and taking advantage of Neighboring State Rate was the “best decision” she’s made.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "7 reasons why UNI is ranked #1 Public University in the Midwest",
+      "url": "https://insideuni.uni.edu/campus-community/7-reasons-why-uni-ranked-1-public-university-midwest",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "You’ve probably heard the great news by now: UNI has been ranked the No. 1 public regional university in the Midwest by U.S. News & World Report.  Here's why!",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI ranked No. 1 in the Midwest by U.S. News & World Report",
+      "url": "https://insideuni.uni.edu/campus-community/uni-ranked-no-1-midwest-us-news-world-report",
+      "date": "2026-09-21",
+      "type": "News",
+      "summary_en": "For the first time, the University of Northern Iowa has earned the distinction of being named the No. 1 public regional university in the Midwest by U.S. News & World Report.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-09-24T20:00:08.894029",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New Report Highlights Opportunities for Higher Ed to Expand CPL for Military Learners",
+      "url": "https://www.acenet.edu/News-Room/Pages/New-Report-Expand-CPL-for-Military-Learners.aspx",
+      "date": "September 23, 2026",
+      "type": "Press Release",
+      "summary_en": "A new report explores how colleges can expand CPL to welcome service members into their academic programs and effectively support them as they seek a degree.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

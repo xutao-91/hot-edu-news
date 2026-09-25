@@ -1,0 +1,44 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-09-24T20:00:12.366280",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Steve and Sue Wilson give $10 million to name north campus entrance of Kellogg’s Ann McIlrath Drake Executive Center",
+      "url": "https://news.northwestern.edu/stories/2026/09/steve-and-sue-wilson-give-10-million-to-name-north-campus-entrance-of-kelloggs-ann-mcilrath-drake-executive-center",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Celebrating Northwestern’s 175th anniversary",
+      "url": "https://news.northwestern.edu/stories/2026/09/northwestern-celebrates-175-years",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern’s new students soak it in",
+      "url": "https://news.northwestern.edu/stories/2026/09/meet-the-northwestern-class-of-2030",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "students"
+    },
+    {
+      "title": "Northwestern names new trustees",
+      "url": "https://news.northwestern.edu/stories/2026/09/northwestern-names-new-trustees",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}
