@@ -1,0 +1,26 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-09-25T20:00:13.130245",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Huskies Create Connections, Careers at Michigan Tech’s Fall Career Fair",
+      "url": "https://www.mtu.edu/news/2026/09/huskies-create-connections-careers-at-michigan-techs-fall-career-fair.html",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "From classroom learning to career opportunities, Michigan Technological University's Career Fair showcases how connections help Huskies build successful futures.  At Michigan Tech, Career Fair is about more than resumes and job postings. It's where students build relationships, explore new  . . .",
+      "source": "MTU News",
+      "category": "general"
+    },
+    {
+      "title": "Networks of Success: MTU Computer Engineering Student Finds the Right Opportunities for Growth",
+      "url": "https://www.mtu.edu/news/2026/09/networks-of-success-mtu-computer-engineering-student-finds-the-right-opportunities-for-growth.html",
+      "date": "2026-09-22",
+      "type": "News",
+      "summary_en": "Armed with robotics experience and a love of programming, second-year computer engineering student William Ingels is using his network of Michigan Tech experiences and connections to find more opportunities to build success.  Thanks to Michigan Tech's Summer Bridge Program,  . . .",
+      "source": "MTU News",
+      "category": "student_life"
+    }
+  ]
+}

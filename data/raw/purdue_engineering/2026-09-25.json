@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-25T20:00:16.946694",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Seven seniors selected as Purdue Engineering Fellows in the eighth cohort",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0923-purdue-engineering-fellows",
+      "date": "September 23, 2026",
+      "type": "News",
+      "summary_en": "Seniors in five engineering majors were among the seventh class of fellows, announced Sept. 22, 2026.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Engineering scores its most-ever top 5 undergraduate rankings",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0922-2027-us-news-engineering-undergraduate-rankings-Purdue",
+      "date": "September 22, 2026",
+      "type": "News",
+      "summary_en": "5 programs in their top 5 specialty rankings, 8 programs in top 10",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

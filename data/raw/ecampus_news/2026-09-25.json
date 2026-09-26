@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-25T20:00:08.386764",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Stop trying to AI-proof your assignments",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/25/stop-trying-to-ai-proof-your-assignments/",
+      "date": "2026-09-25",
+      "type": "AI in Education",
+      "summary_en": "A few years ago, many of us in higher education were asking a fairly straightforward question about AI: How do we stop students from using it to do their work? I was asking a different question.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Using student housing to sharpen your retention strategy",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/09/23/using-student-housing-to-sharpen-your-retention-strategy/",
+      "date": "2026-09-23",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Ask any university president how they can improve visibility into student well-being and satisfaction, and housing may not come up at all, yet housing teams have insight into some of the earliest and most robust signals of student risk and satisfaction anywhere on or off campus.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

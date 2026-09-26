@@ -1,0 +1,35 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-09-25T20:00:10.611653",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "New H-1B Fee Could Discourage Employers From Hiring International Graduates",
+      "url": "https://www.acenet.edu/News-Room/Pages/New-H-1B-Fee-Could-Discourage-Employers-From-Hiring-International-Graduates.aspx",
+      "date": "September 25, 2026",
+      "type": "News",
+      "summary_en": "​ACE and 18 other higher education associations are urging DHS to withdraw a proposed rule that would impose a $103,265 fee on H-1B petitions, warning that the extraordinary cost could make it harder for the US to attract and retain international talent.",
+      "source": "ACE",
+      "category": "international"
+    },
+    {
+      "title": "ACE, Higher Ed Groups Urge Education Department to Withdraw Proposed Grant Rule",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Higher-Ed-Groups-Comments-on-ED-Grant-Rule.aspx",
+      "date": "September 25, 2026",
+      "type": "News",
+      "summary_en": "ACE and 39 higher education associations urge ED to withdraw proposed changes to its grant regulations, warning that the revisions would expand the department’s authority over federal grants and weaken merit-based review.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "New Report Highlights Opportunities for Higher Ed to Expand CPL for Military Learners",
+      "url": "https://www.acenet.edu/News-Room/Pages/New-Report-Expand-CPL-for-Military-Learners.aspx",
+      "date": "September 23, 2026",
+      "type": "Press Release",
+      "summary_en": "A new report explores how colleges can expand CPL to welcome service members into their academic programs and effectively support them as they seek a degree.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Education Minnesota",
+  "source_url": "https://educationminnesota.org/news/education-headlines/",
+  "crawled_at": "2026-09-25T20:00:15.865077",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Education Minnesota endorses Little, Swanson for Congress",
+      "url": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-little-swanson-for-congress/",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "Education Minnesota has endorsed Matt Little in Minnesota’s 2nd Congressional District and Trina Swanson in the 8th Congressional District.",
+      "source": "Education Minnesota",
+      "category": "general"
+    },
+    {
+      "title": "Education Minnesota endorses Flanagan for U.S. Senate",
+      "url": "https://educationminnesota.org/news/press-release/education-minnesota-endorses-flanagan-for-u-s-senate/",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "Education Minnesota has endorsed Peggy Flanagan for the U.S. Senate seat being vacated by Sen. Tina Smith. Flanagan, Minnesota’s DFL lieutenant governor, faces Republican Michele Tafoya in the Nov. 3…",
+      "source": "Education Minnesota",
+      "category": "general"
+    }
+  ]
+}

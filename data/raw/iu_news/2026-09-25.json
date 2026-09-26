@@ -1,0 +1,71 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-25T20:00:10.888328",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "IU establishes neuro-oncology research center through $10M gift",
+      "url": "https://news.iu.edu/live/news/53186-iu-establishes-neuro-oncology-research-center-through-",
+      "date": "Sep 24, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU Jacobs School of Music and Met Opera advance partnership with Lincoln in the Bardo",
+      "url": "https://music.indiana.edu/news-events/news/info/2026/09/lincoln-in-the-bardo-met-partnership.html",
+      "date": "Sep 22, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "$1.5 million grant extends IU language expertise from Bloomington to military classrooms",
+      "url": "https://news.iu.edu/live/news/53177-15-million-grant-extends-iu-language-expertise",
+      "date": "Sep 23, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Indiana Alzheimer’s Disease Research Center secures $22.8 million grant renewal to advance precision medicine",
+      "url": "https://medicine.iu.edu/news/2026/09/iadrc-grant-renewal-2026",
+      "date": "Sep 25, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU researcher receives NIH funding to study home-based palliative care",
+      "url": "https://nursing.iu.edu/news-events/vital-signs/2026/2026-09-nih-grant-advances-research-on-palliative-care-at-home.html",
+      "date": "Sep 24, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "2026 cohort of IU Presidential Arts and Humanities Fellows named",
+      "url": "https://news.iu.edu/live/news/53206-2026-cohort-of-iu-presidential-arts-and-humanities",
+      "date": "Sep 23, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "faculty"
+    },
+    {
+      "title": "As AI transforms science and research, IU cybersecurity experts protect against hidden risks",
+      "url": "https://news.iu.edu/live/news/53166-as-ai-transforms-science-and-research-iu",
+      "date": "Sep 22, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

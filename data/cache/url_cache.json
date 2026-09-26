@@ -25534,5 +25534,257 @@
     "fetch_time": "2026-09-24T20:00:21.086000",
     "title": "Saint Louis University Students Participate in Camino de SLU",
     "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/09/25/stop-trying-to-ai-proof-your-assignments/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-09-25T20:00:08.467561",
+    "title": "Stop trying to AI-proof your assignments",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/with-vouchers-and-other-school-choice-policies-read-the-fine-print/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-25T20:00:08.541991",
+    "title": "With vouchers and other school choice policies, read the fine print",
+    "category": "education"
+  },
+  "https://www.csis.org/events/what-did-trump-and-xi-agree-white-house-state-play": {
+    "source": "csis",
+    "fetch_time": "2026-09-25T20:00:08.682189",
+    "title": "What Did Trump and Xi Agree to at the White House? | State of Play",
+    "category": "general"
+  },
+  "https://www.csis.org/events/energy-shots-diesel-export-ban-answer-high-prices": {
+    "source": "csis",
+    "fetch_time": "2026-09-25T20:00:08.682189",
+    "title": "Energy Shots: Is a Diesel Export Ban the Answer to High Prices?",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/takeaways-trump-xi-summit-economic-security-angles": {
+    "source": "csis",
+    "fetch_time": "2026-09-25T20:00:08.682189",
+    "title": "Takeaways from the Trump-Xi Summit: The Economic Security Angles",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/powering-america-transmission-modernization-and-flexibility": {
+    "source": "csis",
+    "fetch_time": "2026-09-25T20:00:08.682189",
+    "title": "Powering America: Transmission Modernization and Flexibility",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/trump-administration-ratchets-export-control-penalties": {
+    "source": "csis",
+    "fetch_time": "2026-09-25T20:00:08.682189",
+    "title": "Trump Administration Ratchets Up Export Control Penalties",
+    "category": "ai"
+  },
+  "https://www.acenet.edu/News-Room/Pages/New-H-1B-Fee-Could-Discourage-Employers-From-Hiring-International-Graduates.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-09-25T20:00:10.679213",
+    "title": "New H-1B Fee Could Discourage Employers From Hiring International Graduates",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ACE-Higher-Ed-Groups-Comments-on-ED-Grant-Rule.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-09-25T20:00:10.679213",
+    "title": "ACE, Higher Ed Groups Urge Education Department to Withdraw Proposed Grant Rule",
+    "category": "education"
+  },
+  "https://medicine.iu.edu/news/2026/09/iadrc-grant-renewal-2026": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-25T20:00:10.986159",
+    "title": "Indiana Alzheimer’s Disease Research Center secures $22.8 million grant renewal to advance precision medicine",
+    "category": "semiconductor"
+  },
+  "https://learningpolicyinstitute.org/product/ar-teacher-residencies-early-lessons-brief": {
+    "source": "learning_policy",
+    "fetch_time": "2026-09-25T20:00:11.722617",
+    "title": "Teacher Residencies in Arkansas: Early Lessons From Pioneering Universities",
+    "category": "education"
+  },
+  "https://heartland.org/publications/research-commentary-report-highlights-need-for-west-viriginia-to-boost-esa-funding/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-09-25T20:00:11.783209",
+    "title": "Research & Commentary: Report Highlights Need for West Viriginia to Boost ESA Funding",
+    "category": "ai"
+  },
+  "https://heartland.org/publications/research-commentary-missouri-lagging-behind-neighbors-on-education-choice/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-09-25T20:00:11.783209",
+    "title": "Research & Commentary: Missouri Lagging Behind Neighbors on Education Choice",
+    "category": "education"
+  },
+  "https://heartland.org/publications/research-commentary-report-highlights-need-for-arkansas-to-boost-esa-funding/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-09-25T20:00:11.783209",
+    "title": "Research & Commentary: Report Highlights Need for Arkansas to Boost ESA Funding",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/abraham-claudio-finds-harmony-between-mariachi-music-and-medicine/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-25T20:00:12.932250",
+    "title": "Abraham Claudio finds harmony between mariachi music and medicine",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/09/renovated-building-for-social-science-education-and-policy-institutes-will-enhance-interdisciplinary-connections-at-northwestern": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-09-25T20:00:13.466515",
+    "title": "Renovated building for social science, education and policy institutes will enhance interdisciplinary connections at Northwestern",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-receives-5-point-8-million-nih-phase-3-cobre-funding-for-chemical-biology-of-infectious-disease-center": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-25T20:00:14.536560",
+    "title": "KU receives $5.8 million NIH Phase 3 COBRE funding for Chemical Biology of Infectious Disease center",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/student-artists-recognized-at-ku-libraries-celebration-of-2026-libart-exhibition": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-25T20:00:14.536560",
+    "title": "Student artists recognized at KU Libraries’ celebration of 2026 LibArt exhibition",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/coffeyville-teams-up-with-ku-to-develop-long-term-community-action-plan": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-25T20:00:14.536560",
+    "title": "Coffeyville teams up with KU to develop long-term community action plan",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/09/25/driver-accused-of-killing-washu-med-student-is-arrested-and-denied-bond": {
+    "source": "studlife",
+    "fetch_time": "2026-09-25T20:00:15.524917",
+    "title": "Driver accused of killing WashU Med student is arrested and denied bond",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/09/25/chief-scientific-officer-of-microsoft-talks-ai-in-healthcare": {
+    "source": "studlife",
+    "fetch_time": "2026-09-25T20:00:15.524917",
+    "title": "Chief Scientific Officer of Microsoft talks AI in healthcare",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/aims-address-explores-how-age-ai-time-human-thought": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-25T20:00:15.654770",
+    "title": "Aims address explores how age of AI is ‘a time for human thought’",
+    "category": "ai"
+  },
+  "https://www.slu.edu/news/2026/september/hnb-fall-cohort.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-25T20:00:15.654770",
+    "title": "SLU Habitat for Neighborhood Business Announces Fall 2026 Cohort",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/september/promotion-tenure-ceremony.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-25T20:00:15.654770",
+    "title": "SLU Recognizes Faculty Promotions",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-little-swanson-for-congress/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-09-25T20:00:15.960294",
+    "title": "Education Minnesota endorses Little, Swanson for Congress",
+    "category": "education"
+  },
+  "https://educationminnesota.org/news/press-release/education-minnesota-endorses-flanagan-for-u-s-senate/": {
+    "source": "education_minnesota",
+    "fetch_time": "2026-09-25T20:00:15.960294",
+    "title": "Education Minnesota endorses Flanagan for U.S. Senate",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/rudney-looks-beyond-the-field-as-final-husker-soccer-season-begins": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-25T20:00:16.297528",
+    "title": "Rudney looks beyond the field as final Husker soccer season begins",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-acting-students-hone-their-craft-at-shakespeares-globe-theatre": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-25T20:00:16.297528",
+    "title": "Nebraska acting students hone their craft at Shakespeare’s Globe Theatre",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/czech-president-makes-historic-visit-recognizing-long-standing-relationship": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-25T20:00:16.297528",
+    "title": "Czech president makes historic visit, recognizing long-standing relationship",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/09/a-unique-solution-for-bioelectronics-collagen-and-cacao-butter/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-25T20:00:17.589222",
+    "title": "A unique solution for bioelectronics: collagen and cacao butter",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/09/cancer-survivors-less-likely-to-be-physically-active-study-finds/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-25T20:00:17.589222",
+    "title": "Cancer survivors less likely to be physically active, study finds",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/blood-proteins-reveal-effects-of-alzheimers-drug/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-25T20:00:17.589222",
+    "title": "Blood proteins reveal effects of Alzheimer’s drug",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/a-message-about-hazing-from-vice-chancellor-for-student-affairs-lori-reesor/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "A message about hazing from Vice Chancellor for Student Affairs Lori Reesor",
+    "category": "education"
+  },
+  "https://news.wisc.edu/uw-madisons-incoming-class-and-the-people-who-got-them-here/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "UW–Madison’s incoming class and the people who got them here",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "President Trump, First Lady Conclude Historic China State Visit",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "Gold Star Mother’s And Family’s Day, 2026",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "Presidential Public Service Announcements Are Nothing New",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-highlights-art-culture-and-the-next-generation-during-state-visit-of-president-xi-jinping-and-madame-peng-liyuan/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-25T20:00:17.592344",
+    "title": "First Lady Melania Trump Highlights Art, Culture, and the Next Generation During State Visit of President Xi Jinping and Madame Peng Liyuan",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/09/25/heart-of-detroit-tuition-pledge-helps-wayne-state-student-find-her-path-to-nursing-70221": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-25T20:00:17.647491",
+    "title": "Heart of Detroit Tuition Pledge helps Wayne State student find her path to nursing",
+    "category": "education"
+  },
+  "https://engineering.washu.edu/news/2026/WashU-study-could-help-manage-air-quality-near-power-plants.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-09-25T20:00:17.714874",
+    "title": "WashU study could help manage air quality near power plants",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/murr-and-curium-extend-partnership-to-strengthen-supply-of-critical-cancer-fighting-radioisotope/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-25T20:00:18.058291",
+    "title": "MURR and Curium extend partnership to strengthen supply of critical cancer-fighting radioisotope",
+    "category": "education"
   }
 }

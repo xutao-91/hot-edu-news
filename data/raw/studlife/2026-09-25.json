@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-25T20:00:15.436565",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Driver accused of killing WashU Med student is arrested and denied bond",
+      "url": "https://www.studlife.com/news/2026/09/25/driver-accused-of-killing-washu-med-student-is-arrested-and-denied-bond",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "author": "Zoe Rhodes",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Chief Scientific Officer of Microsoft talks AI in healthcare",
+      "url": "https://www.studlife.com/news/2026/09/25/chief-scientific-officer-of-microsoft-talks-ai-in-healthcare",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "author": "Noa Shiloach, Tanvi Gorre",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "Faculty committee to provide non-binding recommendation on response to McMahon letter",
+      "url": "https://www.studlife.com/news/2026/09/24/faculty-committee-to-provide-non-binding-recommendation-on-washus-response-to-mcmahon-letter",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "",
+      "author": "Coby Rinke",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Martin stands by engagement with Trump administration at St. Louis education panel",
+      "url": "https://www.studlife.com/news/2026/09/23/martin-stands-by-engagement-with-trump-administration-at-st-louis-education-panel",
+      "date": "2026-09-23",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tanvi Gorre, Coby Rinke",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}
