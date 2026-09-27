@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-26T20:00:20.043593",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "SLU Habitat for Neighborhood Business Announces Fall 2026 Cohort",
+      "url": "https://www.slu.edu/news/2026/september/hnb-fall-cohort.php",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "SLU- HNB, Saint Louis University's program to help small entrepreneurs grow their retail and service businesses in economically-challenged neighborhoods, announces its Fall 2026 cohort.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU Recognizes Faculty Promotions",
+      "url": "https://www.slu.edu/news/2026/september/promotion-tenure-ceremony.php",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "Saint Louis University recently hosted a ceremony to kick off the new academic year and recognize faculty members who received promotions and tenure.",
+      "source": "SLU News",
+      "category": "academic"
+    },
+    {
+      "title": "Saint Louis University Students Participate in Camino de SLU",
+      "url": "https://www.slu.edu/news/2026/september/camino-de-slu.php",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "Ahead of the beatification Mass for Archbishop Fulton J. Sheen in St. Louis on Thursday, Sept. 24, a group of Saint Louis University students and Jesuit scholastics participated in a Camino, or walking tour of significant places, from campus to the Old Cathedral on St. Louis' riverfront, stopping at historic churches along the way.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

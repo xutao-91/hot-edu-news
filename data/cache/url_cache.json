@@ -25786,5 +25786,35 @@
     "fetch_time": "2026-09-25T20:00:18.058291",
     "title": "MURR and Curium extend partnership to strengthen supply of critical cancer-fighting radioisotope",
     "category": "education"
+  },
+  "https://www.csis.org/events/chinas-economy-broken": {
+    "source": "csis",
+    "fetch_time": "2026-09-26T20:00:09.064379",
+    "title": "Is China’s Economy Broken?",
+    "category": "general"
+  },
+  "https://www.csis.org/events/reception-honoring-neelkanth-mishra-executive-director-world-bank-group": {
+    "source": "csis",
+    "fetch_time": "2026-09-26T20:00:09.064379",
+    "title": "Reception Honoring Neelkanth Mishra, Executive Director, World Bank Group",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/media/statement/statement-student-event": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-26T20:00:16.538629",
+    "title": "Statement on Student Event",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-26T20:00:17.697751",
+    "title": "Presidential Message on National Hunting and Fishing Day",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-26T20:00:17.697751",
+    "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+    "category": "ai"
   }
 }
