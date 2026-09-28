@@ -1,0 +1,48 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-27T20:00:16.407759",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "ESAG publishes sector action plans for UK international education strategy",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-25",
+      "type": "Policy",
+      "summary_en": "The UK’s Education Sector Advisory Group (ESAG) has published a series of sector action plans setting out proposed activity to support the delivery of the UK’s international education strategy through to 2030.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Ireland looks overseas as minister questions international student model",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-09-25",
+      "type": "Transnational education",
+      "summary_en": "Ireland's higher education minister James Lawless has urged greater focus on teaching abroad as housing and capacity pressures test further growth in Ireland’s inbound international student market.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "‘A massive punch in the face’: Students pay the price for ILAC’s sudden collapse",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-09-25",
+      "type": "Student experience",
+      "summary_en": "Current and incoming ILAC students and their families tell The PIE of tuition at risk, cancelled travel and immigration uncertainty, as language learners receive replacement classes while career-college students await answers.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Irish uni chairs seek €190m as funding pressures mount",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-24",
+      "type": "Policy",
+      "summary_en": "Six governing body leaders say rising costs and student numbers have left the sector more than €250 million short each year.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

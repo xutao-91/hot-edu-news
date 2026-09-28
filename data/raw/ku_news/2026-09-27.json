@@ -1,0 +1,62 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-09-27T20:00:17.115317",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "KU receives $5.8 million NIH Phase 3 COBRE funding for Chemical Biology of Infectious Disease center",
+      "url": "https://news.ku.edu/news/article/ku-receives-5-point-8-million-nih-phase-3-cobre-funding-for-chemical-biology-of-infectious-disease-center",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "The Chemical Biology of Infectious Disease center recruits, mentors and supports investigators across the University of Kansas, KU Medical Center, Kansas State, Wichita State and other regional partners as they address urgent challenges in infectious disease and antibiotic resistance using chemical-biology approaches.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Student artists recognized at KU Libraries’ celebration of 2026 LibArt exhibition",
+      "url": "https://news.ku.edu/news/article/student-artists-recognized-at-ku-libraries-celebration-of-2026-libart-exhibition",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "KU Libraries’ LibArt program, a year-round, juried exhibition of student art displayed throughout library spaces, celebrated a diverse exhibit of student work and recognized award recipients Sept. 17 at a reception in Watson Library.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Coffeyville teams up with KU to develop long-term community action plan",
+      "url": "https://news.ku.edu/news/article/coffeyville-teams-up-with-ku-to-develop-long-term-community-action-plan",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "A southeast Kansas school district’s need for a renewed strategic plan was the catalyst for the first Community Futures Planning workshop in Kansas.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "New department name reflects KU School of Engineering’s growing strength in energy",
+      "url": "https://news.ku.edu/news/article/new-department-name-reflects-ku-school-of-engineerings-growing-strength-in-energy",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "The University of Kansas Department of Chemical & Petroleum Engineering has been renamed the Department of Chemical & Energy Engineering. The department’s two degree programs — chemical engineering and petroleum engineering — will remain unchanged.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU College of Liberal Arts & Sciences announces Department of Earth, Energy & Environment",
+      "url": "https://news.ku.edu/news/article/ku-college-of-liberal-arts-sciences-announces-department-of-earth-energy-environment",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "KU's new academic department will combine the departments of  Geography & Atmospheric Science and Geology and the Environmental Studies Program. The merger aims to strengthen collaboration while preserving each program’s identity and degree requirements.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Grocery returns lead to greater customer engagement and increase in sales, research finds",
+      "url": "https://news.ku.edu/news/article/grocery-returns-lead-to-greater-customer-engagement-and-increase-in-sales-research-finds",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "In new research, Kissan Joseph, Crown/Sherr Professor at the University of Kansas School of Business, finds that following a product return at a grocery store, customer engagement rises significantly, driving a 40.1% increase in subsequent sales.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

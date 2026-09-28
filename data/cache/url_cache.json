@@ -25816,5 +25816,11 @@
     "fetch_time": "2026-09-26T20:00:17.697751",
     "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
     "category": "ai"
+  },
+  "https://www.csis.org/index%2ephp/events/chinas-economy-broken": {
+    "source": "csis",
+    "fetch_time": "2026-09-27T20:00:11.177368",
+    "title": "Is China’s Economy Broken?",
+    "category": "general"
   }
 }

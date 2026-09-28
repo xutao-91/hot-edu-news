@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-27T20:00:18.472836",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Statement on Student Event",
+      "url": "https://news.uchicago.edu/media/statement/statement-student-event",
+      "date": "2026-09-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Aims address explores how age of AI is ‘a time for human thought’",
+      "url": "https://news.uchicago.edu/story/aims-address-explores-how-age-ai-time-human-thought",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "Prof. Kenneth Warren urges UChicago’s Class of 2030 to think deeply about world around them",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "XENON experiment finds quietest neutrinos ever detected",
+      "url": "https://news.uchicago.edu/story/xenon-experiment-finds-quietest-neutrinos-ever-detected",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "Ultra-sensitive detector designed by UChicago team to search for dark matter captures elusive low-energy neutrino particles from the sun",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

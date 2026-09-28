@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-09-27T20:00:20.021748",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Heart of Detroit Tuition Pledge helps Wayne State student find her path to nursing",
+      "url": "https://today.wayne.edu/news/2026/09/25/heart-of-detroit-tuition-pledge-helps-wayne-state-student-find-her-path-to-nursing-70221",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Dr. Hengguang Li speaks with Fox2 Detroit News on understanding AI risk and safety",
+      "url": "https://www.fox2detroit.com/video/fmc-x98qr2npgr4qeblt",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State student’s passion for AI leads to NASA internship",
+      "url": "https://today.wayne.edu/news/2026/09/24/wayne-state-students-passion-for-ai-leads-to-nasa-internship-70211",
+      "date": "2026-09-24",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}
