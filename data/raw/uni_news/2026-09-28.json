@@ -1,0 +1,53 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-09-28T20:00:18.740595",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "A new era: special and inclusive education BA broadens options",
+      "url": "https://insideuni.uni.edu/education/new-era-special-and-inclusive-education-ba-broadens-options",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Earlier this year, the Iowa Board of Regents approved a new Bachelor of Arts degree in special and inclusive education. For students who find themselves drawn to this field, it's a new era and opportunity to fulfill dreams and meet an ongoing need.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Filling gaps in secondary education: the new MAT",
+      "url": "https://insideuni.uni.edu/education/filling-gaps-secondary-education-new-mat",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Adult learners ready to transition to teaching in their original subject area of expertise -- like business, math or science -- are finding a new career option with the Master of Arts in Teaching in secondary education.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Family ties",
+      "url": "https://insideuni.uni.edu/education/family-ties",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Two faculty families -- the Wilsons and the Cryers -- are among those faculty who found a home at University of Northern Iowa and helped shape the history of the College of Education through two generations",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "TEACH Studio: A space to learn and collaborate",
+      "url": "https://insideuni.uni.edu/education/teach-studio-space-learn-and-collaborate",
+      "date": "2026-09-27",
+      "type": "News",
+      "summary_en": "More than 30,000 visitors in its first 10 months have discovered the newly refreshed TEACH Studio and all it has to offer -- the outcome of a reimagining of existing space and resources led by a partnership of the Rod Library and the College of Education to create a model school media center and library.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Len Froyen: A story of gratitude",
+      "url": "https://insideuni.uni.edu/education/len-froyen-story-gratitude",
+      "date": "2026-09-26",
+      "type": "News",
+      "summary_en": "Len Froyen has spent a lifetime studying, shaping and sharing a story of gratitude that connect with University of Northern Iowa and, eventually, the College of Education, for nearly half of its 150 years of history.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

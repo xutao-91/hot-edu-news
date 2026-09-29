@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-28T20:00:12.951416",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU researcher investigating a key barrier to curing HIV",
+      "url": "https://news.iu.edu/college/live/news/53179-iu-scientist-awarded-nearly-3-million-by-nih-to",
+      "date": "Sep 28, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Indiana Alzheimer’s Disease Research Center secures $22.8 million grant renewal to advance precision medicine",
+      "url": "https://medicine.iu.edu/news/2026/09/iadrc-grant-renewal-2026",
+      "date": "Sep 25, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

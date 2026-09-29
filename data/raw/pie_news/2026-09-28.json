@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-09-28T20:00:16.450890",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Pakistani education consultant arrested over deposit withheld by UK uni",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-09-28",
+      "type": "Recruitment & agents",
+      "summary_en": "A Pakistani education consultant has been arrested following allegations of fraud after a UK university's decision not to refund the deposit of a student who could not attend – opening up questions over who should bear ultimate financial responsibility.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Australia’s chancellors join university peak body as governance rules tighten",
+      "url": "https://thepienews.com/category/news/associations/",
+      "date": "2026-09-28",
+      "type": "Associations",
+      "summary_en": "Universities Australia will take on the chancellors’ council’s work and add three chancellor directors to its board ahead of new national standards.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "US overtakes UK in soft power as more world leaders educated in America",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "The US has strengthened its position as the world’s leading source of educational soft power, with 66 serving world leaders having been educated there, compared with 60 educated in the UK.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "ESAG publishes sector action plans for UK international education strategy",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-09-25",
+      "type": "Policy",
+      "summary_en": "The UK’s Education Sector Advisory Group (ESAG) has published a series of sector action plans setting out proposed activity to support the delivery of the UK’s international education strategy through to 2030.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Ireland looks overseas as minister questions international student model",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-09-25",
+      "type": "Transnational education",
+      "summary_en": "Ireland's higher education minister James Lawless has urged greater focus on teaching abroad as housing and capacity pressures test further growth in Ireland’s inbound international student market.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "‘A massive punch in the face’: Students pay the price for ILAC’s sudden collapse",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-09-25",
+      "type": "Student experience",
+      "summary_en": "Current and incoming ILAC students and their families tell The PIE of tuition at risk, cancelled travel and immigration uncertainty, as language learners receive replacement classes while career-college students await answers.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

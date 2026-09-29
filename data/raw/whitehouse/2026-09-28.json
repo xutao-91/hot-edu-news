@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-09-28T20:00:19.701569",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "President Trump Calls on Congress to Save College Sports",
+      "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-calls-on-congress-to-save-college-sports/",
+      "date": "September 28, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Nominations Sent to the Senate",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/nominations-sent-to-the-senate-e1fc/",
+      "date": "September 28, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Mined, Melted, and Poured in America: President Trump Reverses Years of Anti-Mining Policy",
+      "url": "https://www.whitehouse.gov/releases/2026/09/mined-melted-and-poured-in-america-president-trump-reverses-years-of-anti-mining-policy/",
+      "date": "September 28, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "U.S.-China Board of Trade",
+      "url": "https://www.whitehouse.gov/releases/2026/09/u-s-china-board-of-trade/",
+      "date": "September 27, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on National Hunting and Fishing Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/presidential-message-on-national-hunting-and-fishing-day/",
+      "date": "September 26, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+      "date": "September 25, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump, First Lady Conclude Historic China State Visit",
+      "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-first-lady-conclude-historic-china-state-visit/",
+      "date": "September 25, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bills H.R. 3657, H.R. 7250, S. 550, S. 603, S. 759 and S. 790 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bills-h-r-3657-h-r-7250-s-550-s-603-s-759-and-s-790-signed-into-law/",
+      "date": "September 25, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Gold Star Mother’s And Family’s Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/gold-star-mothers-and-familys-day-2026/",
+      "date": "September 25, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Public Service Announcements Are Nothing New",
+      "url": "https://www.whitehouse.gov/releases/2026/09/presidential-public-service-announcements-are-nothing-new/",
+      "date": "September 25, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

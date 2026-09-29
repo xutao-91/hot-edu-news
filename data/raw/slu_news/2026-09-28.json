@@ -1,0 +1,44 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-28T20:00:21.203469",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "SLU Completes JED Campus Initiative, Becomes Alumni Campus",
+      "url": "https://www.slu.edu/news/2026/september/jed-campus-alumni.php",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Saint Louis University has completed its four-year partnership with the JED Foundation and has officially become a JED Campus Alumni institution. SLU began its partnership with the JED Foundation in fall 2022 as part of a University-wide effort to strengthen student mental health, suicide prevention, and well-being resources. Over the course of the initiative, partners from across the University w",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Chaifetz Students Create Supply Chain Solution for Local Drink Company",
+      "url": "https://www.slu.edu/news/2026/september/karviva-project.php",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Students in the Richard A. Chaifetz School of Business had the opportunity to compete to take a supply-chain system that contained interruptions and find ways to make it run smoothly. The winning proposal was presented to the leadership of Karviva on Sept. 18. St. Louis-based wellness beverage company Karviva, was founded by Angela Zeng, Ph.D. (Med '01).",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "SLU Habitat for Neighborhood Business Announces Fall 2026 Cohort",
+      "url": "https://www.slu.edu/news/2026/september/hnb-fall-cohort.php",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "SLU- HNB, Saint Louis University's program to help small entrepreneurs grow their retail and service businesses in economically-challenged neighborhoods, announces its Fall 2026 cohort.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU Recognizes Faculty Promotions",
+      "url": "https://www.slu.edu/news/2026/september/promotion-tenure-ceremony.php",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "Saint Louis University recently hosted a ceremony to kick off the new academic year and recognize faculty members who received promotions and tenure.",
+      "source": "SLU News",
+      "category": "academic"
+    }
+  ]
+}

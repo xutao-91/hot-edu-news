@@ -1,0 +1,56 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-09-28T20:00:11.149870",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Takeaways from the Trump-Xi Summit: The Economic Security Angles",
+      "url": "https://www.csis.org/events/takeaways-trump-xi-summit-economic-security-angles",
+      "date": "2026-09-28",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Powering America: Transmission Modernization and Flexibility",
+      "url": "https://www.csis.org/events/powering-america-transmission-modernization-and-flexibility",
+      "date": "2026-09-28",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Middle East Futures: U.S. Policy in an Emerging Regional Order",
+      "url": "https://www.csis.org/events/middle-east-futures-us-policy-emerging-regional-order",
+      "date": "2026-09-28",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Is China’s Economy Broken?",
+      "url": "https://www.csis.org/events/chinas-economy-broken",
+      "date": "2026-09-28",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Takeaways from the Trump-Xi White House Summit",
+      "url": "https://www.csis.org/analysis/takeaways-trump-xi-white-house-summit",
+      "date": "2026-09-28",
+      "summary_en": "CSIS experts assess the outcomes of the Trump-Xi White House summit in September 2026 and what it means for the future of U.S.-China relations.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Powering America: Transmission Modernization and Flexibility",
+      "url": "https://www.csis.org/analysis/powering-america-transmission-modernization-and-flexibility",
+      "date": "2026-09-28",
+      "summary_en": "The CSIS Energy Security and Climate Change Program hosted Dr. Yury Dvorkin for a conversation on new approaches to electricity transmission policy.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

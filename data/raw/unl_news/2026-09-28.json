@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-09-28T20:00:19.016771",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Luna-Duran earns Obama-Chesky Voyager Scholarship for Public Service",
+      "url": "https://news.unl.edu/article/luna-duran-earns-obama-chesky-voyager-scholarship-for-public-service",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "University receives $5M grant to expand college access programs in Nebraska",
+      "url": "https://news.unl.edu/article/university-receives-5m-grant-to-expand-college-access-programs-in-nebraska",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Rudney looks beyond the field as final Husker soccer season begins",
+      "url": "https://news.unl.edu/article/rudney-looks-beyond-the-field-as-final-husker-soccer-season-begins",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Nebraska acting students hone their craft at Shakespeare’s Globe Theatre",
+      "url": "https://news.unl.edu/article/nebraska-acting-students-hone-their-craft-at-shakespeares-globe-theatre",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

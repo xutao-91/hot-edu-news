@@ -1,0 +1,38 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-28T20:00:17.532984",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "WashU professors discuss the uses of AI and the need for regulation",
+      "url": "https://www.studlife.com/news/2026/09/28/washu-professors-discuss-the-uses-of-ai-and-the-need-for-regulation",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein, Sophie Lichten",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "Driver accused of killing WashU Med student is arrested and denied bond",
+      "url": "https://www.studlife.com/news/2026/09/25/driver-accused-of-killing-washu-med-student-is-arrested-and-denied-bond",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "author": "Zoe Rhodes",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Chief Scientific Officer of Microsoft talks AI in healthcare",
+      "url": "https://www.studlife.com/news/2026/09/25/chief-scientific-officer-of-microsoft-talks-ai-in-healthcare",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "",
+      "author": "Noa Shiloach, Tanvi Gorre",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-28T20:00:19.643316",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Frequent cannabis use tied to more severe epilepsy",
+      "url": "https://source.washu.edu/2026/09/frequent-cannabis-use-tied-to-more-severe-epilepsy/",
+      "date": "2026-09-28",
+      "type": "Neuroscience & Memory",
+      "summary_en": "A study led by WashU Medicine researchers found that near-daily cannabis users with drug-resistant epilepsy had over twice as many convulsive seizures as nonusers, and they became resistant to antiseizure medications faster.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "A unique solution for bioelectronics: collagen and cacao butter",
+      "url": "https://source.washu.edu/2026/09/a-unique-solution-for-bioelectronics-collagen-and-cacao-butter/",
+      "date": "2026-09-25",
+      "type": "Engineering",
+      "summary_en": "Biomedical engineers at WashU McKelvey Engineering developed an additive manufacturing method using a 3D printer that builds bioelectronic materials from collagen and a polymer that can carry electrical signals, work that could ultimately improve the function of medical implants.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Cancer survivors less likely to be physically active, study finds",
+      "url": "https://source.washu.edu/2026/09/cancer-survivors-less-likely-to-be-physically-active-study-finds/",
+      "date": "2026-09-25",
+      "type": "Cancer Research",
+      "summary_en": "Adults with a history of cancer are less likely to be physically active than those without a cancer history, finds a new study from Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

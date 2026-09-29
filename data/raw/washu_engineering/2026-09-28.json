@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-09-28T20:00:19.849889",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WashU-led team wins $4.25 million DARPA grant to improve fuel injector design",
+      "url": "https://engineering.washu.edu/news/2026/WashU-led-team-wins-4-25-million-DARPA-grant-to-improve-fuel-injector-design.html",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Research led by James Friend aims to crack the code of atomization for future aircraft engines.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "WashU study could help manage air quality near power plants",
+      "url": "https://engineering.washu.edu/news/2026/WashU-study-could-help-manage-air-quality-near-power-plants.html",
+      "date": "2026-09-25",
+      "type": "News",
+      "summary_en": "Chi Li to use NASA grant to retrain tool to provide air quality data.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    }
+  ]
+}

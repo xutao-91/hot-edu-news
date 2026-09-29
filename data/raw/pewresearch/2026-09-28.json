@@ -1,0 +1,33 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-28T20:00:16.258977",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
+      "date": "Sep 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "News Habits Media",
+        "Political Civic Engagement"
+      ],
+      "summary_en": "Urban, suburban and rural Americans engage in public life at similar rates but differ in some of the specific activities they do.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "date": "Sep 28, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science"
+      ],
+      "summary_en": "In this post, we’ll share our current guidelines for the internal use of artificial intelligence and potential areas of experimentation.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}
