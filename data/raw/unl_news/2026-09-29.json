@@ -1,0 +1,35 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-09-29T20:00:12.531339",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Nebraska ag, natural resource podcasts now available in one place",
+      "url": "https://news.unl.edu/article/nebraska-ag-natural-resource-podcasts-now-available-in-one-place",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Breakfast connects honors student, community leaders to grow Nebraska’s workforce",
+      "url": "https://news.unl.edu/article/breakfast-connects-honors-student-community-leaders-to-grow-nebraskas-workforce",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Luna-Duran earns Obama-Chesky Voyager Scholarship for Public Service",
+      "url": "https://news.unl.edu/article/luna-duran-earns-obama-chesky-voyager-scholarship-for-public-service",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-29T20:00:10.547389",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Wild crabapples have genetic potential to improve domestic varieties",
+      "url": "https://source.washu.edu/2026/09/wild-crabapples-have-genetic-potential-to-improve-domestic-varieties/",
+      "date": "2026-09-29",
+      "type": "Biology",
+      "summary_en": "WashU plant scientist Ben Mansfeld is studying the genome of wild crabapples to find helpful traits to develop in domestic apple varieties.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU research finds gaps in Google AI Overview citations, claims",
+      "url": "https://source.washu.edu/2026/09/washu-research-finds-gaps-in-google-ai-overview-citations-claims/",
+      "date": "2026-09-29",
+      "type": "Artificial Intelligence",
+      "summary_en": "With the advent of Google AI Overviews, Google has unprecedented editorial control over what users read and know, according to Jacob Montgomery, a WashU Arts & Sciences political scientist.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Frequent cannabis use tied to more severe epilepsy",
+      "url": "https://source.washu.edu/2026/09/frequent-cannabis-use-tied-to-more-severe-epilepsy/",
+      "date": "2026-09-28",
+      "type": "Neuroscience & Memory",
+      "summary_en": "A study led by WashU Medicine researchers found that near-daily cannabis users with drug-resistant epilepsy had over twice as many convulsive seizures as nonusers, and they became resistant to antiseizure medications faster.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

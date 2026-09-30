@@ -1,0 +1,18 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-29T20:00:09.248305",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "WashU professors discuss the uses of AI and the need for regulation",
+      "url": "https://www.studlife.com/news/2026/09/28/washu-professors-discuss-the-uses-of-ai-and-the-need-for-regulation",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein, Sophie Lichten",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

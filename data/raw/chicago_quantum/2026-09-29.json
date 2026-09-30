@@ -1,0 +1,44 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-09-29T20:00:05.171759",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Q2B26 x Chicago Quantum Summit announces first keynote speakers: John Martinis, Scott Aaronson, and John Preskill",
+      "url": "https://q2b.qcware.com/conference/2026-chicago",
+      "date": "2026-09-29",
+      "summary_en": "Nobel laureate and quantum computing pioneers to headline December event in Chicago, with more speakers to be announced",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Midwest Quantum Week to highlight Quantum Prairie strength with events focused on startups, developers, job seekers, the business community, and more",
+      "url": "https://chicagoquantum.org/news/midwest-quantum-week-highlight-quantum-prairie-strength-events-focused-startups-developers-job",
+      "date": "2026-09-28",
+      "summary_en": "",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "DOE releases national quantum computing roadmap following field-wide effort led by Fermilab-chaired SCAC subcommittee",
+      "url": "https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/",
+      "date": "2026-09-25",
+      "summary_en": "Quantum computing is becoming a revolutionary tool for scientific discovery.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Purdue physicists watch quantum matter lose and regain its coherence",
+      "url": "https://www.physics.purdue.edu/news/2026/purdue-physicists-watch-quantum-matter-lose-and-regain-its-coherence.html",
+      "date": "2026-09-25",
+      "summary_en": "Experiments with ultracold atoms reveal how collective quantum order can survive beneath seemingly chaotic behavior",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

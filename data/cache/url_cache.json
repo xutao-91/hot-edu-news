@@ -26116,5 +26116,311 @@
     "fetch_time": "2026-09-28T20:00:21.255930",
     "title": "Chaifetz Students Create Supply Chain Solution for Local Drink Company",
     "category": "education"
+  },
+  "https://q2b.qcware.com/conference/2026-chicago": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-29T20:00:05.213119",
+    "title": "Q2B26 x Chicago Quantum Summit announces first keynote speakers: John Martinis, Scott Aaronson, and John Preskill",
+    "category": "quantum"
+  },
+  "https://news.fnal.gov/2026/09/doe-releases-national-quantum-computing-roadmap-following-field-wide-effort-led-by-scac-subcommittee/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-29T20:00:05.213119",
+    "title": "DOE releases national quantum computing roadmap following field-wide effort led by Fermilab-chaired SCAC subcommittee",
+    "category": "quantum"
+  },
+  "https://www.physics.purdue.edu/news/2026/purdue-physicists-watch-quantum-matter-lose-and-regain-its-coherence.html": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-09-29T20:00:05.213119",
+    "title": "Purdue physicists watch quantum matter lose and regain its coherence",
+    "category": "quantum"
+  },
+  "https://stories.butler.edu/largest-estate-gift-in-butler-history-to-permanently-endow-full-tuition-scholarship-program/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-09-29T20:00:05.378670",
+    "title": "Largest Estate Gift in Butler History to Permanently Endow Full Tuition Scholarship Program",
+    "category": "education"
+  },
+  "https://www.csis.org/events/shahed-geran-how-russia-continues-reinvent-one-way-attack-drone": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "From Shahed to Geran: How Russia Continues to Reinvent the One-Way Attack Drone",
+    "category": "general"
+  },
+  "https://www.csis.org/events/what-can-us-learn-about-development-norway": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "What Can the U.S. Learn About Development From Norway?",
+    "category": "general"
+  },
+  "https://www.csis.org/events/diesel-policy-dilemma": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "CANCELED: The Diesel Policy Dilemma",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/japan-maritime-great-power-and-china-challenge": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "Japan as a Maritime Great Power and the China Challenge",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/energy-truce-viable-ukraine-war": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "Is an Energy Truce Viable in the Ukraine War?",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/terrorism-threat-2026-midterm-elections-what-data-tells-us": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "The Terrorism Threat to the 2026 Midterm Elections: What the Data Tells Us",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/whats-next-part-i": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "What’s Next? Part I",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/eu-china-relations-face-existential-test-escalation-not-inevitable": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "EU-China Relations Face an Existential Test, but Escalation Is Not Inevitable",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/wrong-place-right-line-interregional-transmission-hedge-against-uncertain-large-loads": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "Wrong Place, Right Line: Interregional Transmission as a Hedge Against Uncertain Large Loads",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/takeaways-trump-xi-summit-economic-security-angles": {
+    "source": "csis",
+    "fetch_time": "2026-09-29T20:00:05.560862",
+    "title": "Takeaways from the Trump-Xi Summit: The Economic Security Angles",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/live/news/53499-indiana-university-surpasses-1b-in-research": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-29T20:00:06.377247",
+    "title": "Indiana University surpasses $1B in research expenditures for second consecutive year",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/53494-trustees-to-meet-oct-1-at-iu-northwest": {
+    "source": "iu_news",
+    "fetch_time": "2026-09-29T20:00:06.377247",
+    "title": "Trustees to meet Oct. 1 at IU Northwest",
+    "category": "general"
+  },
+  "https://heartland.org/opinion/ai-in-our-schools-its-use-and-abuse/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-09-29T20:00:06.999750",
+    "title": "AI in Our Schools—Its Use and Abuse",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/dolly-duffy-84-announces-retirement-from-notre-dame-alumni-association/": {
+    "source": "nd_news",
+    "fetch_time": "2026-09-29T20:00:07.483467",
+    "title": "Dolly Duffy ’84 announces retirement from Notre Dame Alumni Association",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/tutoring-undergrads-in-college-leads-to-a-future-as-a-chemistry-teaching-professor/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-29T20:00:07.615464",
+    "title": "Tutoring undergrads in college leads to a future as a chemistry teaching professor",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/illinois-tech-athletics-digest-womens-soccer-pushes-winning-streak-six-games": {
+    "source": "iit_news",
+    "fetch_time": "2026-09-29T20:00:07.634755",
+    "title": "Illinois Tech Athletics Digest: Women’s Soccer Pushes Winning Streak to Six Games",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/explore-big-questions-and-new-perspectives-in-msoe-s-down-the-rabbit-hole-lecture-series": {
+    "source": "msoe",
+    "fetch_time": "2026-09-29T20:00:08.452127",
+    "title": "Explore big questions and new perspectives in MSOE’s Down the Rabbit Hole Lecture Series",
+    "category": "general"
+  },
+  "https://oneill.indiana.edu/news/2026-0930-naspaa-conference.html": {
+    "source": "oneill",
+    "fetch_time": "2026-09-29T20:00:08.476120",
+    "title": "2026 NASPAA Global Conference",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/uchicago-physicist-vincenzo-vitelli-named-2026-macarthur-fellow": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-29T20:00:09.199989",
+    "title": "UChicago physicist Vincenzo Vitelli named 2026 MacArthur Fellow",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/whats-stake-supreme-courts-new-term": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-29T20:00:09.199989",
+    "title": "What's at Stake in the Supreme Court's New Term",
+    "category": "general"
+  },
+  "https://today.uic.edu/10-ways-to-explore-chicago-as-a-uic-student/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-29T20:00:09.251529",
+    "title": "For UIC students: 10 ways to explore Chicago",
+    "category": "education"
+  },
+  "https://today.uic.edu/latino-cultural-center-marks-50-years-with-butterfly-art-archive-project/": {
+    "source": "uic_today",
+    "fetch_time": "2026-09-29T20:00:09.251529",
+    "title": "Latino Cultural Center marks 50 years with butterfly wings",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/jmc-students-provide-front-row-coverage-of-historic-union-jack-classic-in-london": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-29T20:00:09.515988",
+    "title": "JMC students provide front-row coverage of historic Union Jack Classic in London",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/students-explore-uni-history-through-tours-cedar-falls-cemetery": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-29T20:00:09.853974",
+    "title": "Students explore UNI history through tours at Cedar Falls cemetery",
+    "category": "education"
+  },
+  "https://gobigread.wisc.edu/2026/09/call-for-go-big-read-selection-committee-members-2026-2027": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-29T20:00:10.407151",
+    "title": "Call for Go Big Read Selection Committee Members (2026-2027)",
+    "category": "semiconductor"
+  },
+  "https://education.wisc.edu/news/study-by-uw-madisons-thompson-finds-paid-internships-deliver-strong-payoff-early-in-careers/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-29T20:00:10.407151",
+    "title": "National Study finds paid internships deliver strong payoff early in careers",
+    "category": "education"
+  },
+  "https://engineering.wisc.edu/news/engineering-moonshots-brings-campus-leaders-together-around-six-ambitious-challenges/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-29T20:00:10.407151",
+    "title": "Engineering Moonshots brings campus leaders together around six ambitious challenges",
+    "category": "education"
+  },
+  "https://news.wisc.edu/supporting-shared-governance-participation-3/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-29T20:00:10.407151",
+    "title": "Supporting shared governance participation",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4254-2.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-29T20:00:10.452381",
+    "title": "The Scope and Nature of the U.S.-China Competition",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4734-2.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-29T20:00:10.452381",
+    "title": "Adversarial artificial intelligence: Implications of strategic stability attacks on military AI systems",
+    "category": "ai"
+  },
+  "https://polytechnic.purdue.edu/newsroom/three-purdue-polytechnic-faculty-selected-inaugural-honors-college-faculty-fellows": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-29T20:00:10.470645",
+    "title": "Three Purdue Polytechnic faculty selected as inaugural Honors College Faculty Fellows",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-alumnus-entrepreneur-receives-mitch-daniels-leadership-foundation-award": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-09-29T20:00:10.470645",
+    "title": "Purdue Polytechnic alumnus, entrepreneur receives Mitch Daniels Leadership Foundation award",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/as-ai-advances-skills-that-make-us-human-become-more-valuable-mizzou-expert-says/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-29T20:00:10.565770",
+    "title": "As AI advances, skills that make us human become more valuable, Mizzou expert says",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/when-the-game-changed-so-did-he/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-29T20:00:10.565770",
+    "title": "When the game changed, so did he",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/09/wild-crabapples-have-genetic-potential-to-improve-domestic-varieties/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-29T20:00:10.599425",
+    "title": "Wild crabapples have genetic potential to improve domestic varieties",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/09/washu-research-finds-gaps-in-google-ai-overview-citations-claims/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-29T20:00:10.599425",
+    "title": "WashU research finds gaps in Google AI Overview citations, claims",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "Inaugurating The Era Of Super Intelligence",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "First Lady Melania Trump Announces 2026 Fall Garden Tours",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "Streamlining Access to Government Services Through America.gov",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-29T20:00:10.997866",
+    "title": "Fact Sheet: President Donald J. Trump Streamlines Access to Government Services Through America.gov",
+    "category": "semiconductor"
+  },
+  "https://applebaum.wayne.edu/news/wayne-state-research-team-leads-57-million-nih-study-on-insulin-resistance-and-type-2-diabetes-70237": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-29T20:00:11.090386",
+    "title": "Wayne State research team leads $5.7 million NIH study on insulin resistance and type 2 diabetes",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-ag-natural-resource-podcasts-now-available-in-one-place": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-29T20:00:12.566684",
+    "title": "Nebraska ag, natural resource podcasts now available in one place",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/breakfast-connects-honors-student-community-leaders-to-grow-nebraskas-workforce": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-29T20:00:12.566684",
+    "title": "Breakfast connects honors student, community leaders to grow Nebraska’s workforce",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/weathering-healthcares-perfect-storm/": {
+    "source": "mendoza",
+    "fetch_time": "2026-09-29T20:00:18.716063",
+    "title": "Weathering Healthcare’s Perfect Storm",
+    "category": "ai"
   }
 }

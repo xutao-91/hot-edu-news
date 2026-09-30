@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-29T20:00:09.160428",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "UChicago physicist Vincenzo Vitelli named 2026 MacArthur Fellow",
+      "url": "https://news.uchicago.edu/story/uchicago-physicist-vincenzo-vitelli-named-2026-macarthur-fellow",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "Vitelli honored for his innovative research reimagining possibilities of unconventional materials",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What's at Stake in the Supreme Court's New Term",
+      "url": "https://news.uchicago.edu/whats-stake-supreme-courts-new-term",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Enjoy these fall exhibitions across UChicago",
+      "url": "https://news.uchicago.edu/story/enjoy-these-fall-exhibitions-across-uchicago",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "From the Declaration of Independence to the Dan Ryan Expressway, UChicago’s autumn lineup is now on display",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Free UChicago talks on origins of universe, dark matter and physics to commemorate 50 years of discovery",
+      "url": "https://news.uchicago.edu/story/free-uchicago-talks-origins-universe-dark-matter-and-physics-commemorate-50-years-discovery",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "In Compton Lectures, nine leading scientists will trace Enrico Fermi Institute's work shaping modern physics and cosmology",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Statement on Student Event",
+      "url": "https://news.uchicago.edu/media/statement/statement-student-event",
+      "date": "2026-09-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

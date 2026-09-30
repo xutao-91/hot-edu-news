@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-09-29T20:00:09.210022",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "For UIC students: 10 ways to explore Chicago",
+      "url": "https://today.uic.edu/10-ways-to-explore-chicago-as-a-uic-student/",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "Museums, art, Chicago food, Millennium Park — all a short distance from campus.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Latino Cultural Center marks 50 years with butterfly wings",
+      "url": "https://today.uic.edu/latino-cultural-center-marks-50-years-with-butterfly-art-archive-project/",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "One of the center’s goals is to reconnect with the Latino student movement that gave rise to the center 50 years ago.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC joins Midwest quantum dream team",
+      "url": "https://today.uic.edu/uic-joins-midwest-quantum-dream-team/",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Eight leading academic institutions comprise the Midwest Quantum Collaboratory.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

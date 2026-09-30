@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-09-29T20:00:07.553884",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Illinois Tech Athletics Digest: Women’s Soccer Pushes Winning Streak to Six Games",
+      "url": "https://www.iit.edu/news/illinois-tech-athletics-digest-womens-soccer-pushes-winning-streak-six-games",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "Each week, the Illinois Tech Athletics Digest will look back at the week that was in Scarlet Hawks athletics and provide a brief glimpse at what is up next. Up First September 30: Women’s Soccer...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Doctoral Student Wins Prestigious Fellowship for Low-Income Housing Research",
+      "url": "https://www.iit.edu/news/doctoral-student-wins-prestigious-fellowship-low-income-housing-research",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "An Illinois Institute of Technology School of Architecture doctoral student has been awarded the highly competitive American Doctoral Fellowship from the American Association of University Women, the...",
+      "source": "IIT News",
+      "category": "research"
+    }
+  ]
+}
