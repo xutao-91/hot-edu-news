@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-09-30T20:00:10.283172",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "September Edition: Newly Issued Patents",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0928-purdue-engineering-researchers-newly-issued-patents-september-2026",
+      "date": "September 28, 2026",
+      "type": "News",
+      "summary_en": "Congratulations to Purdue University researchers who recently received 11 patents on their intellectual property from the U.S. Patent and Trademark Office.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Engineering innovation: Purdue seniors invent a dual swing conveyor unloader",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0928-purdue-abe-seniors-dual-swing-conveyor-unloader-capstone",
+      "date": "September 28, 2026",
+      "type": "News",
+      "summary_en": "Five agricultural systems management seniors in Purdue’s Department of Agricultural and Biological Engineering (ABE) rose to the challenge to develop a new unloader for their capstone project, with the goal to save farmers time and money.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

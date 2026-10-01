@@ -1,0 +1,44 @@
+{
+  "source": "Milwaukee School of Engineering (MSOE)",
+  "source_url": "https://www.msoe.edu/about-msoe/news/1/",
+  "crawled_at": "2026-09-30T20:00:06.896209",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "MSOE faculty honored with Karl O. Werwath Applied Research Award",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-faculty-honored-with-karl-o-werwath-applied-research-award",
+      "date": "2026-09-30",
+      "type": "Faculty & Staff",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "faculty"
+    },
+    {
+      "title": "Explore big questions and new perspectives in MSOE’s Down the Rabbit Hole Lecture Series",
+      "url": "https://www.msoe.edu/about-msoe/news/details/explore-big-questions-and-new-perspectives-in-msoe-s-down-the-rabbit-hole-lecture-series",
+      "date": "2026-09-29",
+      "type": "Academics",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "announcement"
+    },
+    {
+      "title": "Grohmann Museum celebrates traditional trades at 15th Annual Lost Arts Festival",
+      "url": "https://www.msoe.edu/about-msoe/news/details/grohmann-museum-celebrates-traditional-trades-at-15th-annual-lost-arts-festival",
+      "date": "2026-09-28",
+      "type": "Grohmann Museum",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "MSOE students earn first at NASA Wisconsin Space Grant Consortium",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-students-earn-first-at-nasa-wisconsin-space-grant-consortium",
+      "date": "2026-09-28",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    }
+  ]
+}

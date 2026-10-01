@@ -1,0 +1,80 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-09-30T20:00:09.262456",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "KU Debate teams excel at Kentucky tournaments",
+      "url": "https://news.ku.edu/news/article/ku-debate-teams-excel-at-kentucky-tournaments",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "Multiple University of Kansas Debate teams placed in the top five at a pair of tournaments hosted by the University of Kentucky this past week.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU achieves record-high enrollment for third straight year",
+      "url": "https://news.ku.edu/news/article/ku-achieves-record-high-enrollment-for-third-straight-year",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "The University of Kansas has achieved its highest overall enrollment in history for the third straight year, according to annual data released Sept. 30.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Spencer Research Library to showcase historic Kiowa artwork",
+      "url": "https://news.ku.edu/news/article/spencer-research-library-to-showcase-historic-kiowa-artwork",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "Nearly a century ago, a group of Kiowa artists gained international attention for an artistic vision that challenged convention and offered a distinctly Kiowa perspective. Kenneth Spencer Research Library is featuring the “Kiowa Indian Art” portfolio in a new exhibit, “Cáuigù Gù:t,” which debuts Oct. 10. Visitors can learn more about the collection and hear from the curator.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "JMC students provide front-row coverage of historic Union Jack Classic in London",
+      "url": "https://news.ku.edu/news/article/jmc-students-provide-front-row-coverage-of-historic-union-jack-classic-in-london",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "As college football made its debut at London's Wembley Stadium, eight William Allen White School of Journalism & Mass Communications students were there to tell the story.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Indigenous Peoples Day celebration returns to the KU Osher Institute",
+      "url": "https://news.ku.edu/news/article/indigenous-peoples-day-celebration-returns-to-the-ku-osher-institute",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "The Osher Lifelong Learning Institute at the University of Kansas will host its annual Indigenous Peoples Day Celebration from 9:30 a.m. to 5 p.m. Oct. 12 at the KU Innovation Park Auditorium.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU School of Education & Human Sciences launches online master’s in higher education administration",
+      "url": "https://news.ku.edu/news/article/ku-school-of-education-human-sciences-launches-online-masters-in-higher-education-administration",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "The University of Kansas School of Education & Human Sciences is launching a fully online M.S.E in Higher Education Administration housed within the Department of Educational Leadership & Policy Studies. The program builds on KU’s established in-person higher education administration graduate degree.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU Field Station will host biennial Visitors’ Day Oct. 3",
+      "url": "https://news.ku.edu/news/article/ku-field-station-will-host-biennial-visitors-day-oct-3",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "The University of Kansas Field Station will open its core research area to the public from 10 a.m. to 2 p.m. Oct. 3. The event is held every two years, and members of the public will be welcomed behind the scenes to tour restricted-access research areas at the Field Station and learn about ongoing research projects.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Study finds online educational resources present imperialism in positive light, put students in inappropriate discussions",
+      "url": "https://news.ku.edu/news/article/study-finds-online-educational-resources-present-imperialism-in-positive-light-put-students-in-inappropriate-discussions",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "University of Kansas researchers have published a study that found popular online educational resources for social studies overwhelmingly present imperialism in a positive light. They also often take a “balance sheet” approach that can ask inappropriate questions of students.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

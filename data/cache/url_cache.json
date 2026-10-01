@@ -26422,5 +26422,299 @@
     "fetch_time": "2026-09-29T20:00:18.716063",
     "title": "Weathering Healthcare’s Perfect Storm",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/what-kind-of-brazil-will-emerge-from-this-election/": {
+    "source": "brookings",
+    "fetch_time": "2026-09-30T20:00:05.290742",
+    "title": "What kind of Brazil will emerge from this election?",
+    "category": "general"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/09/30/your-institutions-website-should-prioritize-prospective-students/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-09-30T20:00:05.329511",
+    "title": "Your institution’s website should prioritize prospective students",
+    "category": "education"
+  },
+  "https://www.csis.org/events/implications-hormuz-energy-crisis-energy-policymaking-southeast-asia": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "The Implications of the Hormuz Energy Crisis for Energy Policymaking in Southeast Asia",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/taking-command-us-korea-opcon-debate-capital-cable-143": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "Taking Command: The U.S.-Korea OPCON Debate | The Capital Cable #143",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/time-confront-escalating-russia-iran-intelligence-cooperation": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "Time to Confront Escalating Russia-Iran Intelligence Cooperation",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/what-does-greenland-deal-mean-north-american-security": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "What Does the Greenland Deal Mean for North American Security?",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/states-weekly-september-30-2026": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "States Weekly: September 30, 2026",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/eu-china-relations-face-existential-test-escalation-not-inevitable": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "EU-China Relations Face an Existential Test, but Escalation Is Not Inevitable",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/terrorism-threat-2026-midterm-elections-what-data-tells-us": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "The Terrorism Threat to the 2026 Midterm Elections: What the Data Tells Us",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/golden-dome-america-initiative": {
+    "source": "csis",
+    "fetch_time": "2026-09-30T20:00:05.501789",
+    "title": "The Golden Dome for America Initiative",
+    "category": "ai"
+  },
+  "https://www.news.iastate.edu/news/new-study-fill-gaps-monarch-migration-research": {
+    "source": "iastate_news",
+    "fetch_time": "2026-09-30T20:00:05.999836",
+    "title": "New study to fill gaps in monarch migration research",
+    "category": "semiconductor"
+  },
+  "https://news.iu.edu/kelley/live/news/53666-from-finance-to-world-class-events-how-rishi-patel": {
+    "source": "kelley",
+    "fetch_time": "2026-09-30T20:00:06.354417",
+    "title": "From finance to world-class events: How Rishi Patel, BS’07, MBA’08, built a global creative career",
+    "category": "general"
+  },
+  "https://learningpolicyinstitute.org/product/gdtf-english-learner-reclassification-brief": {
+    "source": "learning_policy",
+    "fetch_time": "2026-09-30T20:00:06.593007",
+    "title": "California’s Academic Criterion for English Learner Reclassification: Implementation and Impacts",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-faculty-honored-with-karl-o-werwath-applied-research-award": {
+    "source": "msoe",
+    "fetch_time": "2026-09-30T20:00:06.977221",
+    "title": "MSOE faculty honored with Karl O. Werwath Applied Research Award",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/notre-dame-researchers-underscore-importance-of-in-person-meetings-in-international-collaboration/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-30T20:00:07.466075",
+    "title": "Notre Dame researchers underscore importance of in-person meetings in international collaboration",
+    "category": "general"
+  },
+  "https://science.nd.edu/news-and-media/news/nirupama-sensharma-returns-to-notre-dame-to-research-nuclear-physics-promote-public-understanding/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-30T20:00:07.466075",
+    "title": "Nirupama Sensharma returns to Notre Dame to research nuclear physics, promote public understanding",
+    "category": "semiconductor"
+  },
+  "https://science.nd.edu/news-and-media/news/chemistry-is-changing-the-way-researchers-develop-ai-technology/": {
+    "source": "nd_science",
+    "fetch_time": "2026-09-30T20:00:07.466075",
+    "title": "Chemistry is changing the way researchers develop AI technology",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/09/30/from-cash-to-credit-how-americans-payment-methods-have-changed-in-the-past-decade/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-30T20:00:08.162851",
+    "title": "From cash to credit, how Americans’ payment methods have changed in the past decade",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-09-30T20:00:08.162851",
+    "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+    "category": "ai"
+  },
+  "https://news.northwestern.edu/stories/2026/09/search-committee-formed-to-find-new-dean-of-the-weinberg-college-of-arts-and-sciences": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-09-30T20:00:08.210891",
+    "title": "Search committee formed to find new dean of the Weinberg College of Arts and Sciences",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/09/nancy-pelosi-named-northwestern-prison-education-program-commencement-speaker": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-09-30T20:00:08.210891",
+    "title": "Nancy Pelosi will address Northwestern Prison Education Program commencement",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/new-simulation-projects-what-milky-way-looked-cosmic-dawn": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-09-30T20:00:08.841222",
+    "title": "New simulation projects what the Milky Way looked like at ‘cosmic dawn’",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5192-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-30T20:00:08.853494",
+    "title": "Accountability and Alignment Strategies for Implementing Edtech: How One School District Narrowed the Gap Between Promise and Practice",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA5163-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-09-30T20:00:08.853494",
+    "title": "Can AGI Rivals Hold Back? Verification, Domestic Oversight, and the Conditions for Mutual Restraint",
+    "category": "ai"
+  },
+  "https://www.studlife.com/news/2026/09/30/wupd-escorts-trespassing-individual-off-danforth-campus": {
+    "source": "studlife",
+    "fetch_time": "2026-09-30T20:00:08.889919",
+    "title": "WUPD escorts trespassing individual off Danforth campus",
+    "category": "general"
+  },
+  "https://www.slu.edu/news/2026/september/yilmaz-research.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-09-30T20:00:09.042685",
+    "title": "Giant Fluctuations of Focused Light Reveal Hidden Correlations in Complex Media",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/arts-design/new-work-takes-stage-uni-sesquicentennial-finale": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-30T20:00:09.339098",
+    "title": "A new work takes the stage for the UNI sesquicentennial finale",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/business/uni-amazon-evan-seuren-leveraged-uni-turn-creativity-career": {
+    "source": "uni_news",
+    "fetch_time": "2026-09-30T20:00:09.339098",
+    "title": "From UNI to Amazon, Evan Seuren leveraged UNI to turn creativity into a career",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-debate-teams-excel-at-kentucky-tournaments": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-30T20:00:09.339098",
+    "title": "KU Debate teams excel at Kentucky tournaments",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-achieves-record-high-enrollment-for-third-straight-year": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-30T20:00:09.339098",
+    "title": "KU achieves record-high enrollment for third straight year",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/spencer-research-library-to-showcase-historic-kiowa-artwork": {
+    "source": "ku_news",
+    "fetch_time": "2026-09-30T20:00:09.339098",
+    "title": "Spencer Research Library to showcase historic Kiowa artwork",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/staples-lab-helps-nebraska-childcare-providers-implement-outdoor-learning": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-30T20:00:09.816686",
+    "title": "Staples Lab helps Nebraska childcare providers implement outdoor learning",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/trail-systems-are-important-to-rural-nebraskans-poll-shows": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-30T20:00:09.816686",
+    "title": "Trail systems are important to rural Nebraskans, poll shows",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/bureau-of-sociological-research-releases-2025-26-annual-report": {
+    "source": "unl_news",
+    "fetch_time": "2026-09-30T20:00:09.816686",
+    "title": "Bureau of Sociological Research releases 2025-26 annual report",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/we-built-a-brain-roadmap-for-each-person-new-ai-driven-tools-help-researchers-decode-alzheimers-disease-at-the-cellular-level/": {
+    "source": "uw_news",
+    "fetch_time": "2026-09-30T20:00:09.825918",
+    "title": "‘We built a brain roadmap for each person’: New AI-driven tools help decode Alzheimer’s disease at the cellular level",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/09/series-to-explore-practice-of-citizenship/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-30T20:00:10.013151",
+    "title": "Series to explore practice of citizenship",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/09/washu-arboretum-holds-free-tours-and-events/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-30T20:00:10.013151",
+    "title": "WashU Arboretum holds free tours and events",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/09/11-7-million-from-nih-supports-research-on-inflammation-in-blood-cancers/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-30T20:00:10.013151",
+    "title": "$11.7 million from NIH supports research on inflammation in blood cancers",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/09/blocking-immune-cells-path-into-brain-limits-neurodegeneration/": {
+    "source": "washu_source",
+    "fetch_time": "2026-09-30T20:00:10.013151",
+    "title": "Blocking immune cells’ path into brain limits neurodegeneration",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-30T20:00:10.107965",
+    "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-30T20:00:10.107965",
+    "title": "Congressional Bill S. 2398 Signed into Law",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-09-30T20:00:10.107965",
+    "title": "Adobe, Amazon, Intel, Starlink, Google, and Zoom partner with First Lady Melania Trump’s Fostering the Future Together",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/09/30/get-familiar-with-wayne-state-university-traditions-at-investiture-ceremony-61761": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-30T20:00:10.313772",
+    "title": "Get familiar with Wayne State traditions at investiture ceremony",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/09/30/wayne-state-named-2026-aplu-innovation-economic-prosperity-awards-finalist-70251": {
+    "source": "wayne_news",
+    "fetch_time": "2026-09-30T20:00:10.313772",
+    "title": "Wayne State named 2026 APLU Innovation & Economic Prosperity Awards finalist",
+    "category": "semiconductor"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/statement-nea-president-princess-moss-trump-administrations-title-ix-rollbacks": {
+    "source": "nea_news",
+    "fetch_time": "2026-09-30T20:00:11.196837",
+    "title": "Statement from NEA President Princess Moss on the Trump administration's Title IX Rollbacks",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/tigers-from-the-70s-come-home-to-mizzou/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-30T20:00:11.321677",
+    "title": "Tigers from the ’70s come home to Mizzou",
+    "category": "education"
+  },
+  "https://www.earth.com/animals/bullfrog-brains-have-a-backup-power-supply-when-energy-runs-low/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-30T20:00:11.321677",
+    "title": "Bullfrog brains have a backup power supply when energy runs low",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/from-jesse-hall-to-jefferson-city-how-clip-is-opening-doors-for-mizzou-students/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-30T20:00:11.321677",
+    "title": "From Jesse Hall to Jefferson City: How CLIP is opening doors for Mizzou students",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-research-offers-new-hope-for-those-at-higher-risk-of-alzheimers-disease/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-09-30T20:00:11.321677",
+    "title": "Mizzou research offers new hope for those at higher risk of Alzheimer’s disease",
+    "category": "ai"
   }
 }

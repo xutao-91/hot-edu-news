@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-09-30T20:00:05.240048",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Your institution’s website should prioritize prospective students",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/09/30/your-institutions-website-should-prioritize-prospective-students/",
+      "date": "2026-09-30",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "I’ve spent more than 30 years working in higher education, so I know my way around a college website. I understand how institutions are organized. I know the difference between admissions and enrollment, academic affairs and student affairs, advancement and communications. I generally have a pretty good idea of where information should live.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "When AI’s architects ask to slow down, education must speak up",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/09/28/when-ais-architects-ask-to-slow-down-education-must-speak-up/",
+      "date": "2026-09-28",
+      "type": "AI in Education",
+      "summary_en": "When the people building the world’s most powerful artificial intelligence systems warn that their creations are advancing too quickly, the rest of society should stop and listen.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

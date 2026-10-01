@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-09-30T20:00:08.787418",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "New simulation projects what the Milky Way looked like at ‘cosmic dawn’",
+      "url": "https://news.uchicago.edu/story/new-simulation-projects-what-milky-way-looked-cosmic-dawn",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "Most complex rendering of its kind provides insight into early days of our home galaxy",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago physicist Vincenzo Vitelli named 2026 MacArthur Fellow",
+      "url": "https://news.uchicago.edu/story/uchicago-physicist-vincenzo-vitelli-named-2026-macarthur-fellow",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "Vitelli honored for his innovative research reimagining possibilities of unconventional materials",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What's at Stake in the Supreme Court's New Term",
+      "url": "https://news.uchicago.edu/whats-stake-supreme-courts-new-term",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Enjoy these fall exhibitions across UChicago",
+      "url": "https://news.uchicago.edu/story/enjoy-these-fall-exhibitions-across-uchicago",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "From the Declaration of Independence to the Dan Ryan Expressway, UChicago’s autumn lineup is now on display",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Free UChicago talks on origins of universe, dark matter and physics to commemorate 50 years of discovery",
+      "url": "https://news.uchicago.edu/story/free-uchicago-talks-origins-universe-dark-matter-and-physics-commemorate-50-years-discovery",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "In Compton Lectures, nine leading scientists will trace Enrico Fermi Institute's work shaping modern physics and cosmology",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

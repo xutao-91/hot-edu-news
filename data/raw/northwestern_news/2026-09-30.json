@@ -1,0 +1,35 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-09-30T20:00:08.142009",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Search committee formed to find new dean of the Weinberg College of Arts and Sciences",
+      "url": "https://news.northwestern.edu/stories/2026/09/search-committee-formed-to-find-new-dean-of-the-weinberg-college-of-arts-and-sciences",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Nancy Pelosi will address Northwestern Prison Education Program commencement",
+      "url": "https://news.northwestern.edu/stories/2026/09/nancy-pelosi-named-northwestern-prison-education-program-commencement-speaker",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern to launch $30 million center to unlock genome’s hidden code",
+      "url": "https://news.northwestern.edu/stories/2026/08-2/northwestern-to-launch-30-million-center-to-unlock-genomes-hidden-code",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

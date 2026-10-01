@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-09-30T20:00:08.831108",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WUPD escorts trespassing individual off Danforth campus",
+      "url": "https://www.studlife.com/news/2026/09/30/wupd-escorts-trespassing-individual-off-danforth-campus",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "WashU professors discuss the uses of AI and the need for regulation",
+      "url": "https://www.studlife.com/news/2026/09/28/washu-professors-discuss-the-uses-of-ai-and-the-need-for-regulation",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein, Sophie Lichten",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-09-30T20:00:08.530884",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Three Purdue Polytechnic faculty selected as inaugural Honors College Faculty Fellows",
+      "url": "https://polytechnic.purdue.edu/newsroom/three-purdue-polytechnic-faculty-selected-inaugural-honors-college-faculty-fellows",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "Purdue Polytechnic alumnus, entrepreneur receives Mitch Daniels Leadership Foundation award",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-alumnus-entrepreneur-receives-mitch-daniels-leadership-foundation-award",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-09-30T20:00:09.762653",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Staples Lab helps Nebraska childcare providers implement outdoor learning",
+      "url": "https://news.unl.edu/article/staples-lab-helps-nebraska-childcare-providers-implement-outdoor-learning",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Trail systems are important to rural Nebraskans, poll shows",
+      "url": "https://news.unl.edu/article/trail-systems-are-important-to-rural-nebraskans-poll-shows",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Bureau of Sociological Research releases 2025-26 annual report",
+      "url": "https://news.unl.edu/article/bureau-of-sociological-research-releases-2025-26-annual-report",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska ag, natural resource podcasts now available in one place",
+      "url": "https://news.unl.edu/article/nebraska-ag-natural-resource-podcasts-now-available-in-one-place",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Breakfast connects honors student, community leaders to grow Nebraska’s workforce",
+      "url": "https://news.unl.edu/article/breakfast-connects-honors-student-community-leaders-to-grow-nebraskas-workforce",
+      "date": "2026-09-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Luna-Duran earns Obama-Chesky Voyager Scholarship for Public Service",
+      "url": "https://news.unl.edu/article/luna-duran-earns-obama-chesky-voyager-scholarship-for-public-service",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-09-30T20:00:06.159062",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU researcher investigating a key barrier to curing HIV",
+      "url": "https://news.iu.edu/college/live/news/53179-iu-scientist-awarded-nearly-3-million-by-nih-to",
+      "date": "Sep 28, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Indiana University surpasses $1B in research expenditures for second consecutive year",
+      "url": "https://news.iu.edu/live/news/53499-indiana-university-surpasses-1b-in-research",
+      "date": "Sep 29, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Trustees to meet Oct. 1 at IU Northwest",
+      "url": "https://news.iu.edu/live/news/53494-trustees-to-meet-oct-1-at-iu-northwest",
+      "date": "Sep 29, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

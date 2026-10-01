@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-09-30T20:00:05.937701",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New study to fill gaps in monarch migration research",
+      "url": "https://www.news.iastate.edu/news/new-study-fill-gaps-monarch-migration-research",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "Innovative tracking technology is giving Iowa State researchers a closer look at monarch butterflies’ fall migration, helping them study the routes monarchs take to Mexico and the factors that influence their journey.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

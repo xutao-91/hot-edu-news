@@ -1,0 +1,59 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-09-30T20:00:08.086928",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "From cash to credit, how Americans’ payment methods have changed in the past decade",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/30/from-cash-to-credit-how-americans-payment-methods-have-changed-in-the-past-decade/",
+      "date": "Sep 30, 2026",
+      "type": "short reads",
+      "categories": [
+        "Personal Finances"
+      ],
+      "summary_en": "Since 2015, the share of Americans who say they use cash for all or almost all of their purchases in a typical week has fallen by half, from 24% to 12%.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Can AI Stand In for Human Survey-Takers? Not Really",
+      "url": "https://www.pewresearch.org/data-labs/2026/09/30/can-ai-stand-in-for-human-survey-takers-not-really/",
+      "date": "Sep 30, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Methodological Research",
+        "Uncategorized"
+      ],
+      "summary_en": "Synthetic surveys using digital twins do a poor job estimating the public mood and are especially error-prone for some subgroups, including Republicans and Black adults.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "How urban, suburban and rural Americans engage in society",
+      "url": "https://www.pewresearch.org/short-reads/2026/09/28/how-urban-suburban-and-rural-americans-engage-in-society/",
+      "date": "Sep 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "News Habits Media",
+        "Political Civic Engagement"
+      ],
+      "summary_en": "Urban, suburban and rural Americans engage in public life at similar rates but differ in some of the specific activities they do.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "How Pew Research Center is – and is not – using AI in our work",
+      "url": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+      "date": "Sep 28, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science"
+      ],
+      "summary_en": "In this post, we’ll share our current guidelines for the internal use of artificial intelligence and potential areas of experimentation.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

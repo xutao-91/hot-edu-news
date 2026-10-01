@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-09-30T20:00:08.966054",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Giant Fluctuations of Focused Light Reveal Hidden Correlations in Complex Media",
+      "url": "https://www.slu.edu/news/2026/september/yilmaz-research.php",
+      "date": "2026-09-30",
+      "type": "News",
+      "summary_en": "Saint Louis University-led research in collaboration with Sorbonne Université reveals that giant fluctuations in wavefront-shaping enhancement provide a sensitive probe of hidden correlations in complex scattering media.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU Completes JED Campus Initiative, Becomes Alumni Campus",
+      "url": "https://www.slu.edu/news/2026/september/jed-campus-alumni.php",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Saint Louis University has completed its four-year partnership with the JED Foundation and has officially become a JED Campus Alumni institution. SLU began its partnership with the JED Foundation in fall 2022 as part of a University-wide effort to strengthen student mental health, suicide prevention, and well-being resources. Over the course of the initiative, partners from across the University w",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Chaifetz Students Create Supply Chain Solution for Local Drink Company",
+      "url": "https://www.slu.edu/news/2026/september/karviva-project.php",
+      "date": "2026-09-28",
+      "type": "News",
+      "summary_en": "Students in the Richard A. Chaifetz School of Business had the opportunity to compete to take a supply-chain system that contained interruptions and find ways to make it run smoothly. The winning proposal was presented to the leadership of Karviva on Sept. 18. St. Louis-based wellness beverage company Karviva, was founded by Angela Zeng, Ph.D. (Med '01).",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

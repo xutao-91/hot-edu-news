@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-09-30T20:00:10.062341",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "ICYMI: President Trump Announces Largest-Ever Steel Plant Coming to Iowa",
+      "url": "https://www.whitehouse.gov/releases/2026/09/icymi-president-trump-announces-largest-ever-steel-plant-coming-to-iowa/",
+      "date": "September 30, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bill S. 2398 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-s-2398-signed-into-law/",
+      "date": "September 30, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Adobe, Amazon, Intel, Starlink, Google, and Zoom partner with First Lady Melania Trump’s Fostering the Future Together",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/adobe-amazon-intel-starlink-google-and-zoom-partner-with-first-lady-melania-trumps-fostering-the-future-together/",
+      "date": "September 30, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Eliminates Disease-Carrying Pests and Restores Enjoyment of The Great Outdoors",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-eliminates-disease-carrying-pests-and-restores-enjoyment-of-the-great-outdoors/",
+      "date": "September 29, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Eliminating Disease-Carrying Pests And Restoring Enjoyment Of The Great Outdoors",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/eliminating-disease-carrying-pests-and-restoring-enjoyment-of-the-great-outdoors/",
+      "date": "September 29, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Inaugurates The Era of Super Intelligence",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-inaugurates-the-era-of-super-intelligence/",
+      "date": "September 29, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Inaugurating The Era Of Super Intelligence",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
+      "date": "September 29, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Announces 2026 Fall Garden Tours",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/09/first-lady-melania-trump-announces-2026-fall-garden-tours/",
+      "date": "September 29, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Streamlining Access to Government Services Through America.gov",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/09/streamlining-access-to-government-services-through-america-gov/",
+      "date": "September 29, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump Streamlines Access to Government Services Through America.gov",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-streamlines-access-to-government-services-through-america-gov/",
+      "date": "September 29, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    }
+  ]
+}

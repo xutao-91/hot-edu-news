@@ -1,0 +1,71 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-09-30T20:00:09.972069",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Series to explore practice of citizenship",
+      "url": "https://source.washu.edu/2026/09/series-to-explore-practice-of-citizenship/",
+      "date": "2026-09-30",
+      "type": "Politics",
+      "summary_en": "Presented by the WashU John C. Danforth Center on Religion and Politics. “The Practice of Citizenship” series invites participants to think critically about what it means to be a citizen.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU Arboretum holds free tours and events",
+      "url": "https://source.washu.edu/2026/09/washu-arboretum-holds-free-tours-and-events/",
+      "date": "2026-09-30",
+      "type": "Campus & Facilities",
+      "summary_en": "WashU has launched free public tours of its nationally recognized arboretum, showcasing iconic trees, fall colors and campus biodiversity. WashU is among the rare college campuses to host a Level III arboretum and botanic garden.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "$11.7 million from NIH supports research on inflammation in blood cancers",
+      "url": "https://source.washu.edu/2026/09/11-7-million-from-nih-supports-research-on-inflammation-in-blood-cancers/",
+      "date": "2026-09-29",
+      "type": "Cancer Research",
+      "summary_en": "A grant to WashU Medicine researchers will fund the study of how inflammation drives myeloproliferative neoplasms, a group of blood cancers at high risk of progressing to acute myeloid leukemia.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Wild crabapples have genetic potential to improve domestic varieties",
+      "url": "https://source.washu.edu/2026/09/wild-crabapples-have-genetic-potential-to-improve-domestic-varieties/",
+      "date": "2026-09-29",
+      "type": "Biology",
+      "summary_en": "WashU plant scientist Ben Mansfeld is studying the genome of wild crabapples to find helpful traits to develop in domestic apple varieties.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU research finds gaps in Google AI Overview citations, claims",
+      "url": "https://source.washu.edu/2026/09/washu-research-finds-gaps-in-google-ai-overview-citations-claims/",
+      "date": "2026-09-29",
+      "type": "Artificial Intelligence",
+      "summary_en": "With the advent of Google AI Overviews, Google has unprecedented editorial control over what users read and know, according to Jacob Montgomery, a WashU Arts & Sciences political scientist.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Blocking immune cells’ path into brain limits neurodegeneration",
+      "url": "https://source.washu.edu/2026/09/blocking-immune-cells-path-into-brain-limits-neurodegeneration/",
+      "date": "2026-09-28",
+      "type": "Alzheimer's",
+      "summary_en": "In a mouse study, WashU Medicine researchers show that a drug injected into the body can reduce damage caused by a protein called tau, which accumulates in the brain in Alzheimer’s and related neurological diseases.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Frequent cannabis use tied to more severe epilepsy",
+      "url": "https://source.washu.edu/2026/09/frequent-cannabis-use-tied-to-more-severe-epilepsy/",
+      "date": "2026-09-28",
+      "type": "Neuroscience & Memory",
+      "summary_en": "A study led by WashU Medicine researchers found that near-daily cannabis users with drug-resistant epilepsy had over twice as many convulsive seizures as nonusers, and they became resistant to antiseizure medications faster.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

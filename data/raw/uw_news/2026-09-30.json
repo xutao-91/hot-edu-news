@@ -1,0 +1,71 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-09-30T20:00:09.771933",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "‘We built a brain roadmap for each person’: New AI-driven tools help decode Alzheimer’s disease at the cellular level",
+      "url": "https://news.wisc.edu/we-built-a-brain-roadmap-for-each-person-new-ai-driven-tools-help-researchers-decode-alzheimers-disease-at-the-cellular-level/",
+      "date": "September 30, 2026",
+      "type": "News",
+      "summary_en": "Identifying the cells connected with Alzheimer’s symptoms could result in new treatments for the disease.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Call for Go Big Read Selection Committee Members (2026-2027)",
+      "url": "https://gobigread.wisc.edu/2026/09/call-for-go-big-read-selection-committee-members-2026-2027",
+      "date": "September 29, 2026",
+      "type": "News",
+      "summary_en": "Applications are now open for the Go Big Read book selection committee, which will help pick the book for the 2027-2028 academic year.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "National Study finds paid internships deliver strong payoff early in careers",
+      "url": "https://education.wisc.edu/news/study-by-uw-madisons-thompson-finds-paid-internships-deliver-strong-payoff-early-in-careers/",
+      "date": "September 29, 2026",
+      "type": "News",
+      "summary_en": "A UW–Madison team found that paid internships give college graduates a lasting advantage in earnings, job quality, and early career progression.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "Engineering Moonshots brings campus leaders together around six ambitious challenges",
+      "url": "https://engineering.wisc.edu/news/engineering-moonshots-brings-campus-leaders-together-around-six-ambitious-challenges/",
+      "date": "September 29, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison engineering faculty, along with partner schools and colleges, are building the teams — and momentum —needed to transform ambitious ideas into meaningful impact.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Supporting shared governance participation",
+      "url": "https://news.wisc.edu/supporting-shared-governance-participation-3/",
+      "date": "September 29, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison’s longstanding commitment to shared governance is an important part of the campus leadership ecosystem.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "A taste of the world, right on campus",
+      "url": "https://news.wisc.edu/a-taste-of-the-world-right-on-campus/",
+      "date": "September 28, 2026",
+      "type": "News",
+      "summary_en": "Global Café events bring UW–Madison students together for food, conversation and cultural exchange.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "The Wisconsin Idea volunteers for the Peace Corps",
+      "url": "https://news.wisc.edu/the-wisconsin-idea-volunteers-for-the-peace-corps/",
+      "date": "September 28, 2026",
+      "type": "News",
+      "summary_en": "UW–Madison has been named the top volunteer-producing university since 2017.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}
