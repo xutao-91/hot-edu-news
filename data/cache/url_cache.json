@@ -26716,5 +26716,473 @@
     "fetch_time": "2026-09-30T20:00:11.321677",
     "title": "Mizzou research offers new hope for those at higher risk of Alzheimer’s disease",
     "category": "ai"
+  },
+  "https://www.elmhurst.edu/news/elmhurst-u-celebrates-homecoming-2026-with-winning-lineup/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-10-06T09:51:17.042508",
+    "title": "Elmhurst U. Celebrates Homecoming 2026 with Winning Lineup",
+    "category": "general"
+  },
+  "https://www.chicagotribune.com/2026/10/02/quantum-research-chicago-state-universwity-southeast-side-jobs/?clearUserState=true": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-06T09:51:17.077569",
+    "title": "Chicago Tribune: As quantum’s presence grows on the Southeast Side, Chicago State University students eye future careers",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/john-james-vows-to-boost-michigan-literacy-teacher-pay/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-10-06T09:51:17.148402",
+    "title": "John James vows to boost Michigan literacy, teacher pay",
+    "category": "education"
+  },
+  "https://www.augie.edu/news/2026/augustana-ms-applied-behavior-analysis-graduates-exceed-national-certification-pass-rates": {
+    "source": "augie_news",
+    "fetch_time": "2026-10-06T09:51:17.802835",
+    "title": "Augustana M.S. Applied Behavior Analysis Graduates Exceed National Certification Pass Rates",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/10/05/authority-responsibility-and-accountability-for-ai-in-higher-ed/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-10-06T09:51:18.081317",
+    "title": "Authority, responsibility, and accountability for AI in higher ed",
+    "category": "ai"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Groups-Urge-Congress-to-Reverse-Rescissions.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-10-06T09:51:18.191456",
+    "title": "Higher Ed Groups Ask Congress to Reverse Rescissions Targeting International Education",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/New-J-1-Visa-Proposal-Raises-Concerns.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-10-06T09:51:18.191456",
+    "title": "New J-1 Visa Proposal Raises Concerns for International Students and Scholars",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/special-report-researchers-say-ai-can-help-protect-grid-ai-driven-attacks": {
+    "source": "iastate_news",
+    "fetch_time": "2026-10-06T09:51:19.577449",
+    "title": "Special Report: Researchers say AI can help protect the grid from AI-driven attacks",
+    "category": "ai"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-10-05-scholarship-encourages-alumni-to-come-together-to-support-current-students.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-10-06T09:51:21.196475",
+    "title": "Scholarship encourages alumni to come together to support current students",
+    "category": "education"
+  },
+  "https://globalaffairs.org/research/public-opinion-survey/american-favorability-israel-drops-record-low": {
+    "source": "global_affairs",
+    "fetch_time": "2026-10-06T09:51:21.421845",
+    "title": "American Favorability of Israel Drops to Record Low",
+    "category": "semiconductor"
+  },
+  "https://learningpolicyinstitute.org/blog/what-does-the-new-federal-scholarship-tax-credit-program-mean-for-states": {
+    "source": "learning_policy",
+    "fetch_time": "2026-10-06T09:51:21.950492",
+    "title": "What Does the New Federal Scholarship Tax Credit Program Mean for States?",
+    "category": "general"
+  },
+  "https://www.csis.org/events/ai-development-conversation-gaurav-nayyar-director-world-development-report-2026": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "AI for Development: A Conversation with Gaurav Nayyar, Director of the World Development Report 2026",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/russian-roulette-live-podcast-hanna-notte-putins-global-campaign-defeat-west": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "Russian Roulette Live Podcast | Hanna Notte on Putin's Global Campaign to Defeat the West",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/25-years-anthrax-attacks-where-are-we-now": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "25 Years Since the Anthrax Attacks: Where Are We Now?",
+    "category": "general"
+  },
+  "https://www.csis.org/events/impossible-state-live-podcast-brewing-korea-crisis-mines-missiles-pows": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "The Impossible State Live Podcast: Brewing Korea Crisis? Mines, Missiles, & POWs",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/self-reliance-dividend-imperative-syrian-refugees-economic-inclusion": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "The Self-Reliance Dividend: The Imperative of Syrian Refugees’ Economic Inclusion",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/space-intelligence-foundation-space-superiority": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "Space Intelligence: The Foundation of Space Superiority",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/economic-engine-enduring-space-power": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "The Economic Engine of Enduring Space Power",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/trumps-space-superiority-executive-order-stressors-will-shape-deep-space-development": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "Trump’s Space Superiority Executive Order: The Stressors That Will Shape Deep Space Development",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/what-space-superiority": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "What Is Space Superiority?",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/how-commercial-industry-can-form-bedrock-space-superiority": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "How Commercial Industry Can Form the Bedrock of Space Superiority",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/importance-and-role-private-venture-capital-maintaining-us-space-superiority": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "The Importance and Role of Private Venture Capital in Maintaining U.S. Space Superiority",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/space-weapons-disclosure-isnt-enough-deterrence": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "Space Weapons: Disclosure Isn’t Enough for Deterrence",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/new-sanctioning-russia-act-optics-now-leverage-later": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "The New Sanctioning Russia Act: Optics for Now, Leverage for Later",
+    "category": "ai"
+  },
+  "https://www.csis.org/news/csis-launches-initiative-european-energy-security": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T09:51:22.203082",
+    "title": "CSIS Launches Initiative on European Energy Security",
+    "category": "semiconductor"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-celebrates-media-literacy-week-with-speakers-and-events": {
+    "source": "msoe",
+    "fetch_time": "2026-10-06T09:51:24.137081",
+    "title": "MSOE celebrates Media Literacy Week with speakers and events",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/363rd-basic-training-class-graduates-from-kansas-law-enforcement-training-center": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-06T09:51:24.561656",
+    "title": "363rd Basic Training Class graduates from Kansas Law Enforcement Training Center",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-student-kenzie-besgrove-honored-as-newman-civic-fellow": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-06T09:51:24.561656",
+    "title": "KU student Kenzie Besgrove honored as Newman Civic Fellow",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-department-of-mathematics-will-host-2-conferences": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-06T09:51:24.561656",
+    "title": "KU Department of Mathematics will host 2 conferences",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/in-memoriam-jacek-k-furdyna-aurora-and-thomas-marquez-professor-emeritus-of-physics/": {
+    "source": "nd_science",
+    "fetch_time": "2026-10-06T09:51:24.707090",
+    "title": "In memoriam: Jacek K. Furdyna, Aurora and Thomas Marquez Professor Emeritus of physics",
+    "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/university-announces-plan-for-new-residence-halls-on-north-side-of-campus/": {
+    "source": "nd_news",
+    "fetch_time": "2026-10-06T09:51:24.858389",
+    "title": "University announces plan for new residence halls on north side of campus",
+    "category": "education"
+  },
+  "https://today.uic.edu/helping-women-with-hiv-build-strength-as-they-age/": {
+    "source": "uic_today",
+    "fetch_time": "2026-10-06T09:51:28.650170",
+    "title": "Helping women with HIV build strength as they age",
+    "category": "ai"
+  },
+  "https://today.uic.edu/honors-college-dean-shares-her-vision/": {
+    "source": "uic_today",
+    "fetch_time": "2026-10-06T09:51:28.650170",
+    "title": "Honors College dean shares her vision",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1006-finding-amelia-earhart-this-is-purdue-podcast": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-10-06T09:51:29.143010",
+    "title": "\"Finding Amelia\" A podcast miniseries about the search for Amelia Earhart's missing plane",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0925-purdue-neil-armstrong-space-prize-titanium-medallion-making": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-10-06T09:51:29.143010",
+    "title": "From clay to the cosmos: The making of the Neil Armstrong Space Prize",
+    "category": "education"
+  },
+  "/news/2026/10/photo-gallery-caitlin-clark-college-gameday-return-campus": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-10-06T09:51:29.366205",
+    "title": "Photo gallery: Caitlin Clark, College GameDay return to campus",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/health/university-northern-iowa-nursing-earns-acen-accreditation": {
+    "source": "uni_news",
+    "fetch_time": "2026-10-06T09:51:31.289799",
+    "title": "University of Northern Iowa Nursing earns ACEN accreditation",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71524.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "The Impact of Early Colleges on Postsecondary Performance and Completion",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71504.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "Governing The Accelerator: The Case for National Collaboration in AI-Enabled Materials Discovery",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4569-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "The Emerging Digital Battleground: The Critical Factors That Produce Advantage in the U.S.-China Competition for Digital Networks",
+    "category": "semiconductor"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4767-3.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4571-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "Assessing Chinese and U.S. Technology Diffusion Capacity",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4767-2.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "Infinite Potential—Insights from the European Games: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4392-3.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-06T09:51:31.313523",
+    "title": "Mapping Complex Legislation: Applying the RAND U.S. Code Analysis Tool to the One Big Beautiful Bill Act",
+    "category": "semiconductor"
+  },
+  "https://quincyinst.org/research/follow-the-money-countering-illicit-narcofinance-in-latin-america/": {
+    "source": "quincy",
+    "fetch_time": "2026-10-06T09:51:31.589303",
+    "title": "Follow the Money: Countering Narcofinance in Latin America",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/nebraskas-tractor-test-lab-has-helped-shape-global-ag-for-more-than-a-century": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-06T09:51:32.165216",
+    "title": "Nebraska’s Tractor Test Lab has helped shape global ag for more than a century",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraskas-agricultural-influence-reaches-far-beyond-the-cornhusker-state": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-06T09:51:32.165216",
+    "title": "Nebraska’s agricultural influence reaches far beyond the Cornhusker State",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/inaugural-unl-unmc-summit-explores-opportunities": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-06T09:51:32.165216",
+    "title": "Inaugural UNL-UNMC summit explores opportunities",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/wynton-marsalis-jazz-at-lincoln-center-orchestra-to-hold-lincoln-residency": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-06T09:51:32.165216",
+    "title": "Wynton Marsalis, Jazz at Lincoln Center Orchestra to hold Lincoln residency",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/burnside-miller-crowned-homecoming-royalty": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-06T09:51:32.165216",
+    "title": "Burnside, Miller crowned homecoming royalty",
+    "category": "general"
+  },
+  "https://news.wisc.edu/media-availability-with-nobel-prize-winner-francis-halzen/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T09:51:32.284129",
+    "title": "Media availability with Nobel Prize winner Francis Halzen",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/university-of-wisconsin-madison-professor-francis-halzen-named-2026-nobel-laureate-in-physics/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T09:51:32.284129",
+    "title": "University of Wisconsin–Madison Professor Francis Halzen named 2026 Nobel laureate in physics",
+    "category": "education"
+  },
+  "https://news.wisc.edu/uw-madison-to-implement-2027-compensation-strategy/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T09:51:32.284129",
+    "title": "UW–Madison to implement 2027 compensation strategy",
+    "category": "ai"
+  },
+  "https://ischool.wisc.edu/2026/09/09/a-statewide-digital-history-hub-built-by-graduate-students/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T09:51:32.284129",
+    "title": "A statewide digital history hub, built by graduate students",
+    "category": "education"
+  },
+  "https://news.wisc.edu/the-life-at-the-preserve/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T09:51:32.284129",
+    "title": "The life at the preserve",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/badger-spirit-on-display/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T09:51:32.284129",
+    "title": "Badger spirit, on display",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/does-birth-order-shape-our-health-uchicago-scientists-analyze-5-million-families-understand": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-06T09:51:32.545043",
+    "title": "Does birth order shape our health? UChicago scientists analyze 5 million families to understand",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/one-month-out-forces-shaping-2026-midterms": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-06T09:51:32.545043",
+    "title": "One Month Out: The Forces Shaping the 2026 Midterms",
+    "category": "general"
+  },
+  "https://abcnews.com/Politics/election-looms-supreme-court-reconvenes-new-wave-trump/story?id=136871786": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-06T09:51:32.545043",
+    "title": "As election looms, Supreme Court reconvenes to new wave of Trump cases",
+    "category": "general"
+  },
+  "https://www.wsj.com/economy/consumers/american-economy-consumer-profile-33903de1": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-06T09:51:32.545043",
+    "title": "The Mighty American Consumer Is Crashing Through Inflation and Driving Growth",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/10/washu-expert-amazons-smart-glasses-raise-privacy-concerns/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-06T09:51:32.835014",
+    "title": "Amazon’s smart glasses raise privacy concerns",
+    "category": "ai"
+  },
+  "https://source.washu.edu/2026/10/iconic-illustrator-mary-engelbreit-donates-collection-to-washu-libraries/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-06T09:51:32.835014",
+    "title": "Iconic illustrator Mary Engelbreit donates collection to WashU Libraries",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "Emergency Tax Relief on Diesel Fuel",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-child-health-day-c67c/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "Presidential Message on Child Health Day",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-fire-prevention-week/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "Presidential Message on Fire Prevention Week",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-takes-decisive-action-to-lower-diesel-costs-for-american-truckers-farmers/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "President Trump Takes Decisive Action to Lower Diesel Costs for American Truckers, Farmers",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-promotes-diesel-affordability/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "Fact Sheet: President Donald J. Trump Promotes Diesel Affordability",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-and-republicans-are-delivering-real-results-for-nebraska/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "President Trump and Republicans Are Delivering Real Results for Nebraska",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T09:51:32.886866",
+    "title": "U.S. Leads International Coalition to Endorse Kyoto Vision for a Golden Age of Science",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-guarantees-admission-for-eligible-students-in-five-missouri-school-districts/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Mizzou guarantees admission for eligible students in five Missouri school districts",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-child-development-lab-earns-national-recognition/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Mizzou Child Development Lab earns national recognition",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-expands-support-for-nsf-graduate-research-fellowship-applicants/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Mizzou expands support for NSF Graduate Research Fellowship applicants",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/real-or-ai-mizzou-expert-examines-rise-of-political-deepfakes/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Real or AI? Mizzou expert examines rise of political deepfakes",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/forever-faurotcious-views-from-a-mizzou-homecoming/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Forever Faurotcious: Views from Mizzou Homecoming",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/incoming-stamp-scholars-bring-their-curiosity-and-ambition-to-mizzou/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Incoming Stamps Scholars bring their curiosity and ambition to Mizzou",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/outdoor-rec-adds-more-than-10b-to-states-economy/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T09:51:32.958845",
+    "title": "Outdoor rec adds more than $10B to state’s economy",
+    "category": "ai"
+  },
+  "https://provost.wayne.edu/news/the-work-behind-accreditation-happens-every-day-at-wayne-state-70300": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-06T09:51:33.028037",
+    "title": "The work behind accreditation happens every day at Wayne State",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/10/05/bog-notebook-campus-investment-and-a-home-for-the-emerging-school-of-public-health-enrollment-and-research-growth-highlight-october-meeting-70302": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-06T09:51:33.028037",
+    "title": "BOG Notebook: Campus investment and a home for the emerging school of public health, enrollment and research growth highlight October meeting",
+    "category": "education"
   }
 }

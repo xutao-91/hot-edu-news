@@ -1,0 +1,48 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-06T09:51:27.819744",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Australia’s Coalition pledges to scrap Temporary Graduate visas, cut student numbers",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-06",
+      "type": "Policy",
+      "summary_en": "If elected, the Coalition has vowed to abolish Temporary Graduate visas and cut international student commencements to 240,000 a year under a sweeping migration plan.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Mainland students fuel Hong Kong’s education boom",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-06",
+      "type": "Recruitment & agents",
+      "summary_en": "More than half of Hong Kong’s higher education students are now from outside the territory, according to new British Council research, as the city accelerates efforts to strengthen its position as a regional education hub.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "In focus: How UK unis are staying under the 5% BCA threshold",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-10-05",
+      "type": "Data",
+      "summary_en": "As institutions scramble to stay compliant under tightened BCA requirements, Spencer Withrington uncovers one of the ways universities are staying under the new 5% visa refusal threshold – and the cost it is having on students.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Spencer Withrington"
+    },
+    {
+      "title": "Inside South Korea’s push to bring IB into mainstream schools",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-10-05",
+      "type": "K-12",
+      "summary_en": "Wilson Shang explores how South Korea has emerged as one of the world’s most prominent testbeds for embedding international curricula into mainstream state schooling.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Wilson Shang"
+    }
+  ]
+}

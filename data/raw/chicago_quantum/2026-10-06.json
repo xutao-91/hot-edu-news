@@ -1,0 +1,17 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-06T09:51:16.803185",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Chicago Tribune: As quantum’s presence grows on the Southeast Side, Chicago State University students eye future careers",
+      "url": "https://www.chicagotribune.com/2026/10/02/quantum-research-chicago-state-universwity-southeast-side-jobs/?clearUserState=true",
+      "date": "2026-10-02",
+      "summary_en": "The Chicago Quantum Exchange's workforce lead Emily Whitman Easton says CSU's role in training a quantum-literate community on the Southeast Side is filling workforce needs few other institutions can.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

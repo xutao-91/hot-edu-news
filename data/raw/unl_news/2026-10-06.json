@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-10-06T09:51:31.963365",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Nebraska’s Tractor Test Lab has helped shape global ag for more than a century",
+      "url": "https://news.unl.edu/article/nebraskas-tractor-test-lab-has-helped-shape-global-ag-for-more-than-a-century",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska’s agricultural influence reaches far beyond the Cornhusker State",
+      "url": "https://news.unl.edu/article/nebraskas-agricultural-influence-reaches-far-beyond-the-cornhusker-state",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Inaugural UNL-UNMC summit explores opportunities",
+      "url": "https://news.unl.edu/article/inaugural-unl-unmc-summit-explores-opportunities",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Wynton Marsalis, Jazz at Lincoln Center Orchestra to hold Lincoln residency",
+      "url": "https://news.unl.edu/article/wynton-marsalis-jazz-at-lincoln-center-orchestra-to-hold-lincoln-residency",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Burnside, Miller crowned homecoming royalty",
+      "url": "https://news.unl.edu/article/burnside-miller-crowned-homecoming-royalty",
+      "date": "2026-10-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

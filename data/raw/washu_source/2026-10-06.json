@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-06T09:51:32.601758",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Amazon’s smart glasses raise privacy concerns",
+      "url": "https://source.washu.edu/2026/10/washu-expert-amazons-smart-glasses-raise-privacy-concerns/",
+      "date": "2026-10-06",
+      "type": "Law",
+      "summary_en": "Amazon’s introduction of smart glasses for its delivery drivers raises significant questions about privacy, workplace surveillance and the normalization of continuously recording technology, says  WashU Law professor Neil Richards.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Iconic illustrator Mary Engelbreit donates collection to WashU Libraries",
+      "url": "https://source.washu.edu/2026/10/iconic-illustrator-mary-engelbreit-donates-collection-to-washu-libraries/",
+      "date": "2026-10-05",
+      "type": "Art & Design",
+      "summary_en": "Beloved illustrator Mary Engelbreit has donated 120 original illustrations and related materials to WashU Libraries. The collection highlights her whimsical style, business acumen and activism and will support research, teaching and a public exhibition planned for July.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}
