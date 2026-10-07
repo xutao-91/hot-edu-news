@@ -27184,5 +27184,149 @@
     "fetch_time": "2026-10-06T09:51:33.028037",
     "title": "BOG Notebook: Campus investment and a home for the emerging school of public health, enrollment and research growth highlight October meeting",
     "category": "education"
+  },
+  "https://bridgemi.com/talent-education/8-michigan-colleges-face-extra-federal-scrutiny-over-finances-other-issues/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-10-06T20:00:08.443519",
+    "title": "Albion, Cooley, Madonna, 6 others on watch lists as financial woes mount",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/unpacking-data-center-backlash-jasmine-sun": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T20:00:08.828733",
+    "title": "Unpacking the Data Center Backlash with Jasmine Sun",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/postwar-threat-gulf-energy-infrastructure": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T20:00:08.828733",
+    "title": "The Postwar Threat to Gulf Energy Infrastructure",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/ai-export-dilemma": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T20:00:08.828733",
+    "title": "The AI Export Dilemma",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/us-foreign-economic-policy-needs-quarterback": {
+    "source": "csis",
+    "fetch_time": "2026-10-06T20:00:08.828733",
+    "title": "U.S. Foreign Economic Policy Needs a Quarterback",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/illinois-tech-athletics-digest-mens-soccer-posts-unbeaten-week": {
+    "source": "iit_news",
+    "fetch_time": "2026-10-06T20:00:09.682255",
+    "title": "Illinois Tech Athletics Digest: Men’s Soccer Posts Unbeaten Week",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/third-federal-judge-cites-law-professors-research-legal-ruling": {
+    "source": "iit_news",
+    "fetch_time": "2026-10-06T20:00:09.682255",
+    "title": "Third Federal Judge Cites Law Professor’s Research in Legal Ruling",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/53702-iu-leaders-mark-milestone-in-construction-of-iu": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-06T20:00:09.934307",
+    "title": "IU leaders mark milestone in construction of IU LAB",
+    "category": "general"
+  },
+  "https://news.iu.edu/rural/live/news/53712-iu-students-explore-a-more-accessible-future-for": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-06T20:00:09.934307",
+    "title": "Orange County Community Gardens explores more accessible future with help from IU grad students",
+    "category": "education"
+  },
+  "https://heartland.org/opinion/fixing-failing-u-s-schools/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-10-06T20:00:10.517260",
+    "title": "Fixing Failing U.S. Schools",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-assistant-dean-publishes-book-creative-teamwork-themed-entertainment": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-10-06T20:00:13.417277",
+    "title": "Purdue Polytechnic assistant dean publishes book on creative teamwork in themed entertainment",
+    "category": "ai"
+  },
+  "https://www.studlife.com/news/2026/10/06/mckelvey-cuts-undergraduate-ethics-and-writing-courses-requirements": {
+    "source": "studlife",
+    "fetch_time": "2026-10-06T20:00:14.025427",
+    "title": "McKelvey cuts undergraduate ethics and writing courses requirements",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/book-bans-are-surging-so-are-efforts-let-books-be": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-06T20:00:14.056619",
+    "title": "Book bans are surging. So are efforts to ‘let books be’",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/uchicago-commemorates-americas-250th-exhibition-discussions": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-06T20:00:14.056619",
+    "title": "UChicago commemorates America’s 250th with exhibition, discussions",
+    "category": "education"
+  },
+  "/news/2026/10/photo-gallery-nothing-see-here-we-beg-differ": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-10-06T20:00:14.227924",
+    "title": "Photo gallery: Nothing to see here? We beg to differ",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/professor-jian-ping-wang-named-twin-cities-business-100-honoree-list": {
+    "source": "umn_cse",
+    "fetch_time": "2026-10-06T20:00:14.495294",
+    "title": "Professor Jian-Ping Wang named to Twin Cities Business 100 honoree list",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/10/its-up-to-us-to-be-advocates-healers-make-connections/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-06T20:00:15.514304",
+    "title": "‘It’s up to us to be advocates, healers, make connections’",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/10/washu-research-helped-shape-important-step-with-trump-accounts/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-06T20:00:15.514304",
+    "title": "WashU research helped shape important step with Trump Accounts",
+    "category": "education"
+  },
+  "https://economicdevelopment.wayne.edu/news/detroit-month-of-design-closes-in-cultural-center-and-on-campus-with-symposium-design-crawl-70291": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-06T20:00:15.719042",
+    "title": "Detroit Month of Design closes in Cultural Center and on campus with symposium, Design Crawl",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T20:00:15.765298",
+    "title": "Presidential Message on German American Day",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-06T20:00:15.765298",
+    "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/congrats-to-uw-madisons-newest-nobel-laureate-francis-halzen/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-06T20:00:15.769297",
+    "title": "Congrats to UW–Madison’s newest Nobel laureate: Francis Halzen",
+    "category": "semiconductor"
+  },
+  "https://www.popsci.com/environment/bullfrog-brain-superpower-backup-fuel/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T20:00:18.819373",
+    "title": "Bullfrogs have a brain superpower",
+    "category": "ai"
+  },
+  "https://www.mensjournal.com/health/muscles-get-weaker-with-age-but-scientists-found-a-surprising-longevity-clue": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-06T20:00:18.819373",
+    "title": "Muscles Get Weaker With Age, but Scientists Found a Surprising Longevity Clue",
+    "category": "general"
   }
 }

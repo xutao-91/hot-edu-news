@@ -1,7 +1,7 @@
 {
   "source": "CSIS Analysis",
   "source_url": "https://www.csis.org/analysis",
-  "crawled_at": "2026-10-06T09:51:21.918161",
+  "crawled_at": "2026-10-06T20:00:08.713276",
   "total_news": 14,
   "news": [
     {
@@ -29,10 +29,34 @@
       "category": "diplomacy"
     },
     {
-      "title": "The Impossible State Live Podcast: Brewing Korea Crisis? Mines, Missiles, & POWs",
-      "url": "https://www.csis.org/events/impossible-state-live-podcast-brewing-korea-crisis-mines-missiles-pows",
+      "title": "Unpacking the Data Center Backlash with Jasmine Sun",
+      "url": "https://www.csis.org/events/unpacking-data-center-backlash-jasmine-sun",
       "date": "2026-10-08",
       "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Postwar Threat to Gulf Energy Infrastructure",
+      "url": "https://www.csis.org/analysis/postwar-threat-gulf-energy-infrastructure",
+      "date": "2026-10-06",
+      "summary_en": "As Gulf states build new pipelines to reduce Iran’s leverage over the Strait of Hormuz, Tehran is likely to adapt. Pipelines offer greater resilience, but remain vulnerable to Iranian missiles, drones, sabotage, and other attacks on critical energy infrastructure.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The AI Export Dilemma",
+      "url": "https://www.csis.org/analysis/ai-export-dilemma",
+      "date": "2026-10-06",
+      "summary_en": "In this week’s column, Bill Reinsch discusses whether the United States should allow exports of AI technologies and strategies the United States could employ to stay ahead in the global technology race.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "U.S. Foreign Economic Policy Needs a Quarterback",
+      "url": "https://www.csis.org/analysis/us-foreign-economic-policy-needs-quarterback",
+      "date": "2026-10-06",
+      "summary_en": "The U.S. government should empower the Millennium Challenge Corporation (MCC) to be a more effective agency to lead on economic growth abroad.",
       "source": "CSIS Analysis",
       "category": "diplomacy"
     },
@@ -89,30 +113,6 @@
       "url": "https://www.csis.org/analysis/importance-and-role-private-venture-capital-maintaining-us-space-superiority",
       "date": "2026-10-05",
       "summary_en": "U.S. space superiority increasingly relies on private venture capital to finance rapid, milestone-driven capabilities. With domestic R&D shifting to the private sector, venture funding absorbs technical risk and fields unpredictable architectures to outpace adversaries.",
-      "source": "CSIS Analysis",
-      "category": "diplomacy"
-    },
-    {
-      "title": "Space Weapons: Disclosure Isn’t Enough for Deterrence",
-      "url": "https://www.csis.org/analysis/space-weapons-disclosure-isnt-enough-deterrence",
-      "date": "2026-10-05",
-      "summary_en": "Can disclosing space weapons deter an adversary? Credible deterrence also requires communicating what those weapons can do and what actions could prompt their use, while protecting sensitive technical details.",
-      "source": "CSIS Analysis",
-      "category": "diplomacy"
-    },
-    {
-      "title": "The New Sanctioning Russia Act: Optics for Now, Leverage for Later",
-      "url": "https://www.csis.org/analysis/new-sanctioning-russia-act-optics-now-leverage-later",
-      "date": "2026-10-05",
-      "summary_en": "The United States just passed a sanctions bill aimed at Russia's oil revenues, but its real leverage may be the tariff abilities embedded inside it. India, the second-largest buyer of Russian crude, may become the law’s first real test.",
-      "source": "CSIS Analysis",
-      "category": "diplomacy"
-    },
-    {
-      "title": "CSIS Launches Initiative on European Energy Security",
-      "url": "https://www.csis.org/news/csis-launches-initiative-european-energy-security",
-      "date": "2026-10-05",
-      "summary_en": "The Center for Strategic and International Studies today announced the launch of the Powering Forward Initiative, a new five-year research project exploring Europe’s ascending role in global energy policy and transatlantic relations, with a focus on the intersection of energy, security, and technology.",
       "source": "CSIS Analysis",
       "category": "diplomacy"
     }

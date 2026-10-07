@@ -1,7 +1,17 @@
 {
   "source": "University of Minnesota CSE",
   "source_url": "https://cse.umn.edu/college/news",
-  "crawled_at": "2026-10-06T09:51:29.339579",
-  "total_news": 0,
-  "news": []
+  "crawled_at": "2026-10-06T20:00:14.397519",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Professor Jian-Ping Wang named to Twin Cities Business 100 honoree list",
+      "url": "https://cse.umn.edu/college/news/professor-jian-ping-wang-named-twin-cities-business-100-honoree-list",
+      "date": "2026-10-06",
+      "type": "Awards-Grants",
+      "summary_en": "University of Minnesota Twin Cities Professor Jian-Ping Wang has been named to the Twin Cities Business (TCB) 100, recognizing his contributions to technologies and companies that connect University research with Minnesota’s economy.",
+      "source": "UMN CSE",
+      "category": "awards"
+    }
+  ]
 }

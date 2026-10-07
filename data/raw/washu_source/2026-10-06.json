@@ -1,9 +1,27 @@
 {
   "source": "Washington University Source",
   "source_url": "https://source.washu.edu/channels/newsroom/",
-  "crawled_at": "2026-10-06T09:51:32.601758",
-  "total_news": 2,
+  "crawled_at": "2026-10-06T20:00:15.450533",
+  "total_news": 4,
   "news": [
+    {
+      "title": "‘It’s up to us to be advocates, healers, make connections’",
+      "url": "https://source.washu.edu/2026/10/its-up-to-us-to-be-advocates-healers-make-connections/",
+      "date": "2026-10-06",
+      "type": "Students",
+      "summary_en": "First-year WashU Medicine MD and MD/PhD students received their white coats at a ceremony Oct. 2. Other ceremonies recognized incoming students studying physical therapy, occupational therapy and audiology.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU research helped shape important step with Trump Accounts",
+      "url": "https://source.washu.edu/2026/10/washu-research-helped-shape-important-step-with-trump-accounts/",
+      "date": "2026-10-06",
+      "type": "Social Work",
+      "summary_en": "Research from the WashU Brown School’s Center for Social Development helped lay the groundwork for a major change to the federal government’s new Trump Accounts program: automatic account creation for eligible children, which the administration announced Sept. 29.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
     {
       "title": "Amazon’s smart glasses raise privacy concerns",
       "url": "https://source.washu.edu/2026/10/washu-expert-amazons-smart-glasses-raise-privacy-concerns/",

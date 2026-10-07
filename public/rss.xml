@@ -5,7 +5,7 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:51:41 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 01:00:23 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
@@ -15,6 +15,16 @@
         <description></description>
         <pubDate>Thu, 08 Oct 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://www.csis.org/events/impossible-state-live-podcast-brewing-korea-crisis-mines-missiles-pows</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>Unpacking the Data Center Backlash with Jasmine Sun</title>
+        <link>https://www.csis.org/events/unpacking-data-center-backlash-jasmine-sun</link>
+        <description></description>
+        <pubDate>Thu, 08 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/events/unpacking-data-center-backlash-jasmine-sun</guid>
         <category>外交政策</category>
         <source>CSIS Analysis</source>
     </item>
@@ -40,6 +50,16 @@
     </item>
     
     <item>
+        <title>Albion, Cooley, Madonna, 6 others on watch lists as financial woes mount</title>
+        <link>https://bridgemi.com/talent-education/8-michigan-colleges-face-extra-federal-scrutiny-over-finances-other-issues/</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://bridgemi.com/talent-education/8-michigan-colleges-face-extra-federal-scrutiny-over-finances-other-issues/</guid>
+        <category>综合</category>
+        <source>Bridge Michigan</source>
+    </item>
+    
+    <item>
         <title>AI for Development: A Conversation with Gaurav Nayyar, Director of the World Development Report 2026</title>
         <link>https://www.csis.org/events/ai-development-conversation-gaurav-nayyar-director-world-development-report-2026</link>
         <description></description>
@@ -57,6 +77,86 @@
         <guid isPermaLink="true">https://www.csis.org/events/russian-roulette-live-podcast-hanna-notte-putins-global-campaign-defeat-west</guid>
         <category>外交政策</category>
         <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>The Postwar Threat to Gulf Energy Infrastructure</title>
+        <link>https://www.csis.org/analysis/postwar-threat-gulf-energy-infrastructure</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/postwar-threat-gulf-energy-infrastructure</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>The AI Export Dilemma</title>
+        <link>https://www.csis.org/analysis/ai-export-dilemma</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/ai-export-dilemma</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>U.S. Foreign Economic Policy Needs a Quarterback</title>
+        <link>https://www.csis.org/analysis/us-foreign-economic-policy-needs-quarterback</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/us-foreign-economic-policy-needs-quarterback</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>Fixing Failing U.S. Schools</title>
+        <link>https://heartland.org/opinion/fixing-failing-u-s-schools/</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://heartland.org/opinion/fixing-failing-u-s-schools/</guid>
+        <category>教育政策</category>
+        <source>Heartland Education</source>
+    </item>
+    
+    <item>
+        <title>Illinois Tech Athletics Digest: Men’s Soccer Posts Unbeaten Week</title>
+        <link>https://www.iit.edu/news/illinois-tech-athletics-digest-mens-soccer-posts-unbeaten-week</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.iit.edu/news/illinois-tech-athletics-digest-mens-soccer-posts-unbeaten-week</guid>
+        <category>综合</category>
+        <source>IIT News</source>
+    </item>
+    
+    <item>
+        <title>Third Federal Judge Cites Law Professor’s Research in Legal Ruling</title>
+        <link>https://www.iit.edu/news/third-federal-judge-cites-law-professors-research-legal-ruling</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.iit.edu/news/third-federal-judge-cites-law-professors-research-legal-ruling</guid>
+        <category>law</category>
+        <source>IIT News</source>
+    </item>
+    
+    <item>
+        <title>IU leaders mark milestone in construction of IU LAB</title>
+        <link>https://news.iu.edu/live/news/53702-iu-leaders-mark-milestone-in-construction-of-iu</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.iu.edu/live/news/53702-iu-leaders-mark-milestone-in-construction-of-iu</guid>
+        <category>综合</category>
+        <source>Indiana University</source>
+    </item>
+    
+    <item>
+        <title>Orange County Community Gardens explores more accessible future with help from IU grad students</title>
+        <link>https://news.iu.edu/rural/live/news/53712-iu-students-explore-a-more-accessible-future-for</link>
+        <description></description>
+        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://news.iu.edu/rural/live/news/53712-iu-students-explore-a-more-accessible-future-for</guid>
+        <category>教育政策</category>
+        <source>Indiana University</source>
     </item>
     
     <item>
@@ -107,106 +207,6 @@
         <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/prehistoric-fossil-uncovered-through-4h-dig-to-compete-at-kansas-state-fair.html</guid>
         <category>综合</category>
         <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>'Collaborative in nature'</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/root-source-volland-foundation-fellowship-ursula-emery-mcclure.html</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/root-source-volland-foundation-fellowship-ursula-emery-mcclure.html</guid>
-        <category>综合</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Nick Brown named director of graduate recruitment</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/nick-brown-named-director-graduate-recruitment.html</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/nick-brown-named-director-graduate-recruitment.html</guid>
-        <category>综合</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Exceptional students earn early admission to K-State veterinary college</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/veterinary-medicine-early-admission-scholars.html</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/veterinary-medicine-early-admission-scholars.html</guid>
-        <category>students</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>"Finding Amelia" A podcast miniseries about the search for Amelia Earhart's missing plane</title>
-        <link>https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1006-finding-amelia-earhart-this-is-purdue-podcast</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1006-finding-amelia-earhart-this-is-purdue-podcast</guid>
-        <category>综合</category>
-        <source>Purdue College of Engineering</source>
-    </item>
-    
-    <item>
-        <title>Follow the Money: Countering Narcofinance in Latin America</title>
-        <link>https://quincyinst.org/research/follow-the-money-countering-illicit-narcofinance-in-latin-america/</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://quincyinst.org/research/follow-the-money-countering-illicit-narcofinance-in-latin-america/</guid>
-        <category>外交政策</category>
-        <source>Quincy Institute</source>
-    </item>
-    
-    <item>
-        <title>Mizzou guarantees admission for eligible students in five Missouri school districts</title>
-        <link>https://showme.missouri.edu/2026/mizzou-guarantees-admission-for-eligible-students-in-five-missouri-school-districts/</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://showme.missouri.edu/2026/mizzou-guarantees-admission-for-eligible-students-in-five-missouri-school-districts/</guid>
-        <category>students</category>
-        <source>Show Me Mizzou</source>
-    </item>
-    
-    <item>
-        <title>Mizzou Child Development Lab earns national recognition</title>
-        <link>https://showme.missouri.edu/2026/mizzou-child-development-lab-earns-national-recognition/</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://showme.missouri.edu/2026/mizzou-child-development-lab-earns-national-recognition/</guid>
-        <category>综合</category>
-        <source>Show Me Mizzou</source>
-    </item>
-    
-    <item>
-        <title>Mizzou expands support for NSF Graduate Research Fellowship applicants</title>
-        <link>https://showme.missouri.edu/2026/mizzou-expands-support-for-nsf-graduate-research-fellowship-applicants/</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://showme.missouri.edu/2026/mizzou-expands-support-for-nsf-graduate-research-fellowship-applicants/</guid>
-        <category>research</category>
-        <source>Show Me Mizzou</source>
-    </item>
-    
-    <item>
-        <title>Real or AI? Mizzou expert examines rise of political deepfakes</title>
-        <link>https://showme.missouri.edu/2026/real-or-ai-mizzou-expert-examines-rise-of-political-deepfakes/</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://showme.missouri.edu/2026/real-or-ai-mizzou-expert-examines-rise-of-political-deepfakes/</guid>
-        <category>综合</category>
-        <source>Show Me Mizzou</source>
-    </item>
-    
-    <item>
-        <title>Does birth order shape our health? UChicago scientists analyze 5 million families to understand</title>
-        <link>https://news.uchicago.edu/story/does-birth-order-shape-our-health-uchicago-scientists-analyze-5-million-families-understand</link>
-        <description></description>
-        <pubDate>Tue, 06 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.uchicago.edu/story/does-birth-order-shape-our-health-uchicago-scientists-analyze-5-million-families-understand</guid>
-        <category>research</category>
-        <source>UChicago News</source>
     </item>
     
 </channel>
