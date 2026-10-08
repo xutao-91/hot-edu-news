@@ -1,0 +1,36 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-07T20:00:12.385019",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How Do Americans Engage With News Online?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/07/how-do-americans-engage-with-news-online/",
+      "date": "Oct 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Civic Activities Online",
+        "Digital News Landscape 2",
+        "Digital News Landscape 1",
+        "Political Civic Engagement"
+      ],
+      "summary_en": "Most Americans chat privately about news online, but only about a quarter post publicly.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "What Do Health and Wellness Influencers Post About?",
+      "url": "https://www.pewresearch.org/data-labs/2026/10/07/what-do-health-and-wellness-influencers-post-about/",
+      "date": "Oct 7, 2026",
+      "type": "report",
+      "categories": [
+        "Healthcare Online",
+        "Influencers"
+      ],
+      "summary_en": "Just over half of health and wellness content on social media focuses on healthy living, while about a third discusses medical topics. And 38% of posts have a product or service promotion.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

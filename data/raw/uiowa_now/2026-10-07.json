@@ -1,0 +1,35 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-10-07T20:00:13.994304",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Nicholas Boggs receives 2026 Truman Capote Award from UI",
+      "url": "/news/2026/10/nicholas-boggs-receives-2026-truman-capote-award-ui",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "Nicholas Boggs, a writer and assistant professor of English and creative writing at Stony Brook University in Stony Brook, New York, has been selected as the 2026 recipient of the Truman Capote Literary Trust Award for Literary Criticism in Memory of Newton Arvin.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa Writers’ Workshop alumna named finalist for National Book Award",
+      "url": "/news/2026/10/iowa-writers-workshop-alumna-named-finalist-national-book-award",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "Poet Brenda Hillman, who earned an MFA from the University of Iowa Writers’ Workshop in 1976, is a 2026 finalist for the prestigious National Book Award.",
+      "source": "UIowa Now",
+      "category": "leadership"
+    },
+    {
+      "title": "Photo gallery: Nothing to see here? We beg to differ",
+      "url": "/news/2026/10/photo-gallery-nothing-see-here-we-beg-differ",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "From Caitlin Clark’s return to the excitement surrounding College GameDay and a marquee football matchup, it was a memorable weekend for Hawkeye fans.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

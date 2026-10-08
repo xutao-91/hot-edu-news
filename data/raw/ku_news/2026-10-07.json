@@ -1,0 +1,62 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-07T20:00:11.146016",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Study: ‘Classic example’ of sexual dimorphism in fossil record actually shows nuance between males and females",
+      "url": "https://news.ku.edu/news/article/study-classic-example-of-sexual-dimorphism-in-fossil-record-actually-shows-nuance-between-males-and-females",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "A new study from the University of Kansas appearing in the open-access, peer-reviewed journal PLOS One shows the differences between male and female uintatheres might not be as vast as paleontologists have long believed.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Spencer Museum’s Backyard Bash returns Oct. 11 to celebrate art and nature in Marvin Grove",
+      "url": "https://news.ku.edu/news/article/spencer-museums-backyard-bash-returns-oct-11-to-celebrate-art-and-nature-in-marvin-grove",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "The Spencer Museum of Art Backyard Bash, an outdoor and indoor celebration of art and nature, returns from 1 p.m. to 4 p.m. Oct. 11. The free, all-ages community event will take place at the museum as well as in KU’s historic Marvin Grove.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Distinguished Professor will explore how deep-space signals reach Earth",
+      "url": "https://news.ku.edu/news/article/ku-distinguished-professor-will-explore-how-deep-space-signals-reach-earth",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "Erik Perrins will deliver his inaugural distinguished professor lecture, “Finding the Signal in the Noise: The Hidden Magic of Error Correcting Codes in Deep-Space Radios,” on Nov. 11.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "363rd Basic Training Class graduates from Kansas Law Enforcement Training Center",
+      "url": "https://news.ku.edu/news/article/363rd-basic-training-class-graduates-from-kansas-law-enforcement-training-center",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "Sixteen officers graduated from the Kansas Law Enforcement Training Center, based at the University of Kansas, on Oct. 2. They were members of the KLETC 363rd Basic Training Class and represented 12 law enforcement agencies across the state.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU student Kenzie Besgrove honored as Newman Civic Fellow",
+      "url": "https://news.ku.edu/news/article/ku-student-kenzie-besgrove-honored-as-newman-civic-fellow",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "Kenzie Besgrove, a University of Kansas junior in speech-language-hearing, was named a member of the 2026-2027 Newman Civic Fellow cohort. Newman programming emphasizes personal, professional and civic growth that empowers fellows to collaborate effectively and create large-scale positive change.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU Department of Mathematics will host 2 conferences",
+      "url": "https://news.ku.edu/news/article/ku-department-of-mathematics-will-host-2-conferences",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "The Department of Mathematics at the University of Kansas, is hosting two research conferences in October focusing on commutative algebra and analysis.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

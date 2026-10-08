@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-10-07T20:00:07.658467",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Special Report: Researchers say AI can help protect the grid from AI-driven attacks",
+      "url": "https://www.news.iastate.edu/news/special-report-researchers-say-ai-can-help-protect-grid-ai-driven-attacks",
+      "date": "2026-10-05",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State's Manimaran Govindarasu is an invited co-editor of a technical magazine's special issue devoted to cybersecurity of the power grid. The special issue's theme: Use AI security tools against AI attack tools.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

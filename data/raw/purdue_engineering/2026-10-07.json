@@ -1,0 +1,35 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-10-07T20:00:13.448843",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue-led biotech accelerator selected for SBA funding",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0928-purdue-b-prime-biotech-accelerator-sba-scale-award",
+      "date": "October 7, 2026",
+      "type": "News",
+      "summary_en": "Over a two-year period, the B-PRIME Accelerator will help small manufacturers meet the technical, regulatory and production requirements of the pharmaceutical industry",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "\"Finding Amelia\" A podcast miniseries about the search for Amelia Earhart's missing plane",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1006-finding-amelia-earhart-this-is-purdue-podcast",
+      "date": "October 6, 2026",
+      "type": "News",
+      "summary_en": "On what would've been Amelia Earhart's 129th birthday, the Purdue Research Foundation and the Archaeological Legacy Institute announced a renewed joint effort to identify Amelia Earhart's missing university-sponsored plane.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "From clay to the cosmos: The making of the Neil Armstrong Space Prize",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-0925-purdue-neil-armstrong-space-prize-titanium-medallion-making",
+      "date": "October 5, 2026",
+      "type": "News",
+      "summary_en": "When Purdue University set out to create its newest and most prestigious honor, the Neil Armstrong Space Prize, it needed a physical object worthy of the name. Not just a trophy, but a piece that could carry the weight of one of history's most consequential legacies.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

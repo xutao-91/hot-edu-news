@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-10-07T20:00:11.311324",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Search committee formed to find new Charles Deering McCormick University Librarian",
+      "url": "https://news.northwestern.edu/stories/2026/10/search-committee-formed-to-find-new-charles-deering-mccormick-university-librarian",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Jonathan Rivnay receives Blavatnik Award for Young Scientists",
+      "url": "https://news.northwestern.edu/stories/2026/10/jonathan-rivnay-receives-blavatnik-award-for-young-scientists",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

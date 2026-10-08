@@ -1,0 +1,35 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-07T20:00:06.329309",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "NSF's eight Quantum Leap Challenge Institutes to hold first joint public discussion at Q2B x Chicago Quantum Summit",
+      "url": "https://chicagoquantum.org/news/nsfs-eight-quantum-leap-challenge-institutes-hold-first-joint-public-discussion-q2b-x-chicago",
+      "date": "2026-10-07",
+      "summary_en": "",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "CBS News Chicago: Chicago State program offering credentials in quantum, semiconductor workforce",
+      "url": "https://www.cbsnews.com/chicago/video/chicago-state-program-offering-credentials-in-quantum-semiconductor-workforce/",
+      "date": "2026-10-06",
+      "summary_en": "According to Chicago State, the quantum field has seen a 180% increase in job postings since 2020 and is projected to need more than 100,000 new professionals by 2030.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Argonne scientists develop new X-ray technique to watch quantum materials respond to laser pulses",
+      "url": "https://www.anl.gov/article/scientists-develop-new-xray-technique-to-watch-quantum-materials-respond-to-laser-pulses",
+      "date": "2026-10-06",
+      "summary_en": "New imaging method offers scientists an unprecedented view inside silicon carbide as researchers work toward precisely engineering future quantum devices",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

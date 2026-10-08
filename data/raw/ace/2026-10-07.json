@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-10-07T20:00:10.047924",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Higher Ed Groups Ask Congress to Reverse Rescissions Targeting International Education",
+      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Groups-Urge-Congress-to-Reverse-Rescissions.aspx",
+      "date": "October 5, 2026",
+      "type": "News",
+      "summary_en": "Nearly $70 million for foreign language and international education programs is at stake in the administration’s latest rescissions package, raising new questions about the future of congressionally approved funding.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
+    {
+      "title": "New J-1 Visa Proposal Raises Concerns for International Students and Scholars",
+      "url": "https://www.acenet.edu/News-Room/Pages/New-J-1-Visa-Proposal-Raises-Concerns.aspx",
+      "date": "October 5, 2026",
+      "type": "News",
+      "summary_en": "The proposed rule would allow J-1 participation to end immediately after a visa is revoked, leaving international students and scholars with little opportunity to challenge the decision.",
+      "source": "ACE",
+      "category": "international"
+    }
+  ]
+}
