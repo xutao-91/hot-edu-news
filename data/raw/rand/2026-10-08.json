@@ -1,0 +1,116 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-08T21:53:35.582663",
+  "total_news": 12,
+  "news": [
+    {
+      "title": "Biosecurity in the Age of AI: Q&A with Steph Guerra",
+      "url": "https://www.rand.org/pubs/commentary/2026/10/biosecurity-in-the-age-of-ai-qa-with-steph-guerra.html",
+      "date": "Oct 8, 2026",
+      "type": "Commentary",
+      "summary_en": "The question that drives Steph Guerra's work at RAND may be one of the most consequential for this moment in the AI era: How can we harness the full potential of AI for science and medicine—but also ensure it never helps anyone build a biological weapon?",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "AI ecosystems in the Netherlands and the UK: Life sciences",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4654-2.html",
+      "date": "Oct 8, 2026",
+      "type": "Research Summary",
+      "summary_en": "This research briefing identifies opportunities for UK–Netherlands collaboration on AI in life sciences and health, linking UK commercial scale and research depth with Dutch clinical integration, validation and European market pathways.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Mapping AI Ecosystems in the Netherlands and the United Kingdom: Opportunities for bilateral collaboration and action",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4654-1.html",
+      "date": "Oct 8, 2026",
+      "type": "Research",
+      "summary_en": "This report maps UK and Dutch AI ecosystems, identifying collaboration opportunities in health, agrifood and compute. The UK offers scale, frontier research and investment; the Netherlands offers specialisation and public-private coordination.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "AI ecosystems in the Netherlands and the UK: Compute for AI",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4654-1.html",
+      "date": "Oct 8, 2026",
+      "type": "Research Summary",
+      "summary_en": "This research briefing identifies opportunities for UK–Netherlands collaboration on AI in life sciences and health, linking UK commercial scale and research depth with Dutch clinical integration, validation and European market pathways.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "AI ecosystems in the Netherlands and the UK: Agrifood & agritech",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4654-3.html",
+      "date": "Oct 8, 2026",
+      "type": "Research Summary",
+      "summary_en": "This research briefing identifies opportunities for UK–Netherlands collaboration on AI in agrifood and agritech, combining UK research and digital innovation with Dutch strengths in deployment, scaling and food-system integration.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Governing The Accelerator: The Case for National Collaboration in AI-Enabled Materials Discovery",
+      "url": "https://www.rand.org/pubs/external_publications/EP71504.html",
+      "date": "Oct 5, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This perspective examines how federally funded research and development centers can close gaps across three domains: data and infrastructure, algorithmic intelligence, and autonomous experimentation.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "The Impact of Early Colleges on Postsecondary Performance and Completion",
+      "url": "https://www.rand.org/pubs/external_publications/EP71524.html",
+      "date": "Oct 5, 2026",
+      "type": "Research",
+      "summary_en": "This article updates findings from a 17-year longitudinal experimental study on early colleges, examining the impact on postsecondary performance and completion.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "The Emerging Digital Battleground: The Critical Factors That Produce Advantage in the U.S.-China Competition for Digital Networks",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4569-1.html",
+      "date": "Oct 5, 2026",
+      "type": "Research",
+      "summary_en": "Digital infrastructure is now central to the U.S.-China rivalry. The authors identify nine factors that shape competition in global markets and offer five strategic priorities for the United States.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Assessing Chinese and U.S. Technology Diffusion Capacity",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4571-1.html",
+      "date": "Oct 5, 2026",
+      "type": "Research",
+      "summary_en": "The U.S.-China tech rivalry hinges not only on innovation but also on achieving widespread technological diffusion in the economy. This report examines both countries’ capacity to convert technological progress into sustained productivity gains.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Infinite Potential—Insights On Artificial Intelligence Loss of Control Across Five Scenarios: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4767-3.html",
+      "date": "Oct 5, 2026",
+      "type": "Research",
+      "summary_en": "The authors analyze observations from Infinite Potential games with AI loss of control to identify issues, capabilities, and recommendations needed to navigate the potential collapse of social legitimacy, economic stability, and technical control.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Mapping Complex Legislation: Applying the RAND U.S. Code Analysis Tool to the One Big Beautiful Bill Act",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4392-3.html",
+      "date": "Oct 5, 2026",
+      "type": "Research",
+      "summary_en": "The authors applied RAND’s U.S. Code Analysis Tool (CAT) to the One Big Beautiful Bill Act as a proof of concept to show how CAT can support rapid statutory triage by identifying which statutory changes warrant closer review.",
+      "source": "Rand Corporation",
+      "category": "policy"
+    },
+    {
+      "title": "Infinite Potential—Insights from the European Games: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4767-2.html",
+      "date": "Oct 5, 2026",
+      "type": "Research",
+      "summary_en": "The authors synthesize observations from tabletop games on artificial intelligence conducted in Europe or with European scenarios and identify the key issues and capabilities that players deemed necessary to navigate AI’s potential adverse effects.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

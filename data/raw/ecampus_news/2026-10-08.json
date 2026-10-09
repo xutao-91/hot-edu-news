@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-08T21:53:17.566663",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Learner agency comes first in AI-driven digital literacy",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/10/07/learner-agency-comes-first-in-ai-driven-digital-literacy/",
+      "date": "2026-10-07",
+      "type": "AI in Education",
+      "summary_en": "For many schools, the path to AI literacy remains unclear. The challenge is not simply AI’s rapid evolution, but its ability to generate answers almost instantly, forcing educators to reconsider how learning is guided and measured.",
+      "source": "eCampus News",
+      "category": "ai"
+    },
+    {
+      "title": "Authority, responsibility, and accountability for AI in higher ed",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/10/05/authority-responsibility-and-accountability-for-ai-in-higher-ed/",
+      "date": "2026-10-05",
+      "type": "AI in Education",
+      "summary_en": "If governance must preserve institutional purpose and leadership must remain accountable for institutional direction, an important question must be answered: Who possesses the authority to make the decisions through which that purpose is maintained and direction is determined?",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

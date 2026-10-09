@@ -1,0 +1,35 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-10-08T21:53:21.977212",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Notre Dame Photo Essay: Illustrating Imaging",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dame-photo-essay-illustrating-imaging-core-facilities-2/",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
+    {
+      "title": "College of Science welcomes seven new postdoctoral fellows",
+      "url": "https://science.nd.edu/news-and-media/news/college-of-science-welcomes-seven-new-postdoctoral-fellows/",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "In memoriam: Jacek K. Furdyna, Aurora and Thomas Marquez Professor Emeritus of physics",
+      "url": "https://science.nd.edu/news-and-media/news/in-memoriam-jacek-k-furdyna-aurora-and-thomas-marquez-professor-emeritus-of-physics/",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
+}

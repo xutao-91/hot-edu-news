@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-10-08T21:53:43.605234",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "President Trump Is Putting American Industry, Jobs, and Paychecks Back on the Map",
+      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-is-putting-american-industry-jobs-and-paychecks-back-on-the-map/",
+      "date": "October 8, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Presents National Medals of Science and National Medals of Technology and Innovation",
+      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-presents-national-medals-of-science-and-national-medals-of-technology-and-innovation/",
+      "date": "October 8, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: Trump Administration Announces the Most Ambitious Set of Science Initiatives This Century",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-trump-administration-announces-the-most-ambitious-set-of-science-initiatives-this-century/",
+      "date": "October 8, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Trump Accounts Put 70 Million Kids on the Path to Financial Freedom",
+      "url": "https://www.whitehouse.gov/releases/2026/10/a-financial-stake-in-the-future-for-nearly-70-million-american-children-trump-accounts-made-it-possible/",
+      "date": "October 7, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "National Energy Dominance Month, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/national-energy-dominance-month-2026/",
+      "date": "October 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bills H.R. 5345 and S. 766 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/congressional-bills-h-r-5345-and-s-766-signed-into-law/",
+      "date": "October 7, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Columbus Day, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/columbus-day-2026/",
+      "date": "October 7, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Lower Taxes, Safer Streets, Stronger Border: President Trump’s Texas Record",
+      "url": "https://www.whitehouse.gov/releases/2026/10/lower-taxes-safer-streets-stronger-border-president-trumps-texas-record/",
+      "date": "October 7, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on German American Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-german-american-day/",
+      "date": "October 6, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "WHAT THEY ARE SAYING: President Trump Delivers Immediate Diesel Relief, Saving Americans Up to $100 Per Fill",
+      "url": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-delivers-immediate-diesel-relief-saving-americans-up-to-100-per-fill/",
+      "date": "October 6, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

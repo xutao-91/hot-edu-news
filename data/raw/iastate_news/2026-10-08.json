@@ -1,0 +1,35 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-10-08T21:53:18.004760",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "By simulating a savanna without elephants, ISU ecologist shows their importance",
+      "url": "https://www.news.iastate.edu/news/simulating-savanna-without-elephants-isu-ecologist-shows-their-importance",
+      "date": "2026-10-08",
+      "type": "Innovation and Research",
+      "summary_en": "An Iowa State University ecologist was part of a research team that provided new evidence for co-extinction theory, findings that relied on his long-running research plots designed to simulate the extinction of large animals such as elephants.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Unique lakes help demonstrate a better way to measure nitrogen loss in aquatic ecosystems",
+      "url": "https://www.news.iastate.edu/news/unique-lakes-help-demonstrate-better-way-measure-nitrogen-loss-aquatic-ecosystems",
+      "date": "2026-10-08",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State geochemist Elizabeth Swanner contributed to a study that demonstrated a more precise way to measure the natural process of denitrification in lakes and other water bodies. The process involves microbes converting nitrate into common, atmospheric nitrogen. The journal Science published the study.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Special Report: Researchers say AI can help protect the grid from AI-driven attacks",
+      "url": "https://www.news.iastate.edu/news/special-report-researchers-say-ai-can-help-protect-grid-ai-driven-attacks",
+      "date": "2026-10-05",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State's Manimaran Govindarasu is an invited co-editor of a technical magazine's special issue devoted to cybersecurity of the power grid. The special issue's theme: Use AI security tools against AI attack tools.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

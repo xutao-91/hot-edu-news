@@ -1,0 +1,80 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-08T21:53:38.235090",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "What are data centers, and why do they need so much power? An expert explains",
+      "url": "https://news.uchicago.edu/story/what-are-data-centers-and-why-do-they-need-so-much-power-expert-explains",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "UChicago computer science Prof. Andrew A. Chien, former vice president of research at Intel, answers questions about AI, sustainability and water",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Learning is a blast—literally—at the South Side Science Festival",
+      "url": "https://news.uchicago.edu/story/learning-blast-literally-south-side-science-festival",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "Dancing robots, mutant Legos and rocks that rock marked the fifth annual UChicago STEM community outreach event",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago scientists reveal a Jurassic otter that could chew and swallow like modern mammals",
+      "url": "https://news.uchicago.edu/story/uchicago-scientists-reveal-jurassic-otter-could-chew-and-swallow-modern-mammals",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "165-million-year-old mammal had throat structures that enable modern mammals to eat a diverse diet",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Book bans are surging. So are efforts to ‘let books be’",
+      "url": "https://news.uchicago.edu/story/book-bans-are-surging-so-are-efforts-let-books-be",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "During Banned Books Week, UChicago scholar Dulcey Hunter discusses organized rise of literary censorship and importance of open dialogue in the classroom",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago commemorates America’s 250th with exhibition, discussions",
+      "url": "https://news.uchicago.edu/story/uchicago-commemorates-americas-250th-exhibition-discussions",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "From exhibitions to panel discussions, UChicago scholars and students will examine our past and future as the United States commemorates its 250th anniversary.",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "One Month Out: The Forces Shaping the 2026 Midterms",
+      "url": "https://news.uchicago.edu/one-month-out-forces-shaping-2026-midterms",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Does birth order shape our health? UChicago scientists analyze 5 million families to understand",
+      "url": "https://news.uchicago.edu/story/does-birth-order-shape-our-health-uchicago-scientists-analyze-5-million-families-understand",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "Analysis reveals patterns in later diagnoses between first-born and second-born siblings",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "As election looms, Supreme Court reconvenes to new wave of Trump cases",
+      "url": "https://abcnews.com/Politics/election-looms-supreme-court-reconvenes-new-wave-trump/story?id=136871786",
+      "date": "2026-10-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
