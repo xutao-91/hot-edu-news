@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-10-09T20:00:16.047716",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Former WashU Med neurosurgeon convicted of sexual assault in Scotland",
+      "url": "https://www.studlife.com/news/2026/10/09/former-washu-med-neurosurgeon-convicted-of-sexual-assault-in-scotland",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "author": "Zoe Rhodes",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "WashU reports over $4 billion endowment increase and budget surplus for fiscal year 2026",
+      "url": "https://www.studlife.com/news/2026/10/08/washu-reports-over-4-billion-endowment-increase-and-budget-surplus-for-fiscal-year-2026",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "",
+      "author": "Coby Rinke",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "WashU rises to No. 16 in the U.S. News and World Report’s rankings",
+      "url": "https://www.studlife.com/news/2026/10/08/washu-rises-to-no-16-in-the-u-s-news-and-world-reports-rankings",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "",
+      "author": "Willa Marks, Flannery Poon",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "McKelvey cuts undergraduate ethics and writing courses requirements",
+      "url": "https://www.studlife.com/news/2026/10/06/mckelvey-cuts-undergraduate-ethics-and-writing-courses-requirements",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam, Natalie Rodriguez",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

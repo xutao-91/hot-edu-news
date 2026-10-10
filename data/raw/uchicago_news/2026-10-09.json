@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-09T20:00:15.961053",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Neutrino hunters: Searching for ghostly particles in Antarctic ice, with Abby Vieregg",
+      "url": "https://news.uchicago.edu/big-brains-podcast-neutrino-hunters-searching-ghostly-particles-antarctic-ice-abby-vieregg",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "What are data centers, and why do they need so much power? An expert explains",
+      "url": "https://news.uchicago.edu/story/what-are-data-centers-and-why-do-they-need-so-much-power-expert-explains",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "UChicago computer science Prof. Andrew A. Chien, former vice president of research at Intel, answers questions about AI, sustainability and water",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Learning is a blast—literally—at the South Side Science Festival",
+      "url": "https://news.uchicago.edu/story/learning-blast-literally-south-side-science-festival",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "Dancing robots, mutant Legos and rocks that rock marked the fifth annual UChicago STEM community outreach event",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago scientists reveal a Jurassic otter that could chew and swallow like modern mammals",
+      "url": "https://news.uchicago.edu/story/uchicago-scientists-reveal-jurassic-otter-could-chew-and-swallow-modern-mammals",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "165-million-year-old mammal had throat structures that enable modern mammals to eat a diverse diet",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Book bans are surging. So are efforts to ‘let books be’",
+      "url": "https://news.uchicago.edu/story/book-bans-are-surging-so-are-efforts-let-books-be",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "During Banned Books Week, UChicago scholar Dulcey Hunter discusses organized rise of literary censorship and importance of open dialogue in the classroom",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago commemorates America’s 250th with exhibition, discussions",
+      "url": "https://news.uchicago.edu/story/uchicago-commemorates-americas-250th-exhibition-discussions",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "From exhibitions to panel discussions, UChicago scholars and students will examine our past and future as the United States commemorates its 250th anniversary.",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

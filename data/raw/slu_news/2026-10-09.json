@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-09T20:00:16.229389",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "SLU to Host Every Voice, Every Vote: Exploring Civic Life Across Missouri",
+      "url": "https://www.slu.edu/news/2026/october/one-voice-one-vote.php",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "Saint Louis University’s William L. Clay Sr. Institute of Civic Engagement and Economic Justice will host a public conversation, “Every Voice, Every Vote: Exploring Civic Life Across Missouri,” on Monday, Oct. 26. The panel discussion will explore how election laws and civic institutions shape public trust in elections.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "World Wide Technology to Expand Technology Collaboration with Saint Louis University and Become Official Jersey Partner of Billiken Athletics",
+      "url": "https://www.slu.edu/news/2026/october/slu-world-wide-technology-partnership.php",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "Saint Louis University and World Wide Technology (WWT) announced a strategic partnership that brings together WWT's expertise in technology, artificial intelligence and data-driven decision-making with SLU's mission of education, research and community. Combined with a Billiken Athletics sponsorship, this expansion of SLU and WWT's longstanding partnership will help advance priorities that benefit",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU Student Researchers Leverage Tech to Fight Mosquitoes",
+      "url": "https://www.slu.edu/news/2026/september/public-health-mosquito-alert.php",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "In a collaborative effort with the St. Louis County Department of Public Health, the City of St. Louis Department of Health and the Missouri Botanical Garden, faculty and students from SLU’s College for Public Health and Social Justice (CPHSJ) engaged with MASTL, the first project in the United States to promote the public use of the Mosquito Alert App, a participatory mosquito-borne disease surve",
+      "source": "SLU News",
+      "category": "research"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-10-09T20:00:15.368096",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Purdue aviation researcher selected for program to study pilot response to increasing cognitive demands",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-aviation-researcher-selected-program-study-pilot-response-increasing-cognitive",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Purdue Polytechnic professor secures patent for dual-function solar cell technology",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-professor-secures-patent-dual-function-solar-cell-technology",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "Purdue Polytechnic assistant dean publishes book on creative teamwork in themed entertainment",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-assistant-dean-publishes-book-creative-teamwork-themed-entertainment",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

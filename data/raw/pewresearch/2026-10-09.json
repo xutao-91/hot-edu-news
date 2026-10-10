@@ -1,0 +1,111 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-09T20:00:14.684189",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Why Don’t Some People Use Chatbots?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/09/why-dont-some-people-use-chatbots/",
+      "date": "Oct 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Emerging Technology"
+      ],
+      "summary_en": "About half of U.S. adults never use chatbots, and most non-users cite disinterest, privacy or accuracy concerns.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "French Adults Stand Out for Their Economic Pessimism",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/09/french-adults-stand-out-for-their-economic-pessimism/",
+      "date": "Oct 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Government Spending The Deficit 1",
+        "Income Wealth Poverty",
+        "International Issues",
+        "World Leaders"
+      ],
+      "summary_en": "Amid protests, 85% of French adults say their economy is bad, a higher share than in any of 17 other high-income countries surveyed.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Iran Conflict Remains Deeply Unpopular as Many Americans Expect It To Go On for Months",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/08/iran-conflict-remains-deeply-unpopular-as-many-americans-expect-it-to-go-on-for-months/",
+      "date": "Oct 8, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "War International Conflict 1"
+      ],
+      "summary_en": "Around two-thirds (65%) now disapprove of the way President Donald Trump is handling the U.S. military action in Iran, while a third (33%) approve.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Cost Concerns Dominate as Public’s Economic Ratings Turn More Negative",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/cost-concerns-dominate-as-publics-economic-ratings-turn-more-negative/",
+      "date": "Oct 8, 2026",
+      "type": "report",
+      "categories": [
+        "Donald Trump",
+        "Economic Conditions",
+        "Economy Work",
+        "National Conditions",
+        "Political Issues",
+        "Politics Policy",
+        "Uncategorized"
+      ],
+      "summary_en": "The costs of many household essentials are a top economic concern for most Americans – much as they were four years ago on the eve of the last midterm election.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "With Americans in a Sour Mood, Democratic Voters Are More Engaged in Midterms",
+      "url": "https://www.pewresearch.org/politics/2026/10/08/with-americans-in-a-sour-mood-democratic-voters-are-more-engaged-in-midterms/",
+      "date": "Oct 8, 2026",
+      "type": "report",
+      "categories": [
+        "Election 2026",
+        "Politics Policy",
+        "Us Elections Voters",
+        "Voter Participation",
+        "Voters Voting"
+      ],
+      "summary_en": "The 2026 midterm election comes amid deep public dissatisfaction with the state of the nation and near-record low approval ratings for Trump.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "How Do Americans Engage With News Online?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/07/how-do-americans-engage-with-news-online/",
+      "date": "Oct 7, 2026",
+      "type": "short reads",
+      "categories": [
+        "Civic Activities Online",
+        "Digital News Landscape 2",
+        "Digital News Landscape 1",
+        "Political Civic Engagement"
+      ],
+      "summary_en": "Most Americans chat privately about news online, but only about a quarter post publicly.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "What Do Health and Wellness Influencers Post About?",
+      "url": "https://www.pewresearch.org/data-labs/2026/10/07/what-do-health-and-wellness-influencers-post-about/",
+      "date": "Oct 7, 2026",
+      "type": "report",
+      "categories": [
+        "Healthcare Online",
+        "Influencers"
+      ],
+      "summary_en": "Just over half of health and wellness content on social media focuses on healthy living, while about a third discusses medical topics. And 38% of posts have a product or service promotion.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

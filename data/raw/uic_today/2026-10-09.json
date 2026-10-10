@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-10-09T20:00:16.513883",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC physicist elected Fellow of the American Physical Society",
+      "url": "https://today.uic.edu/uic-physicist-elected-fellow-of-the-american-physical-society/",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "Robert Klie recognized for pioneering contributions to atomic-resolution electron microscopy and spectroscopy.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Rockford regional dean reflects on first six months",
+      "url": "https://today.uic.edu/rockford-regional-dean-reflects-on-first-six-months/",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "“The future of medicine is bright,” says Dr. Trevonne Thompson.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

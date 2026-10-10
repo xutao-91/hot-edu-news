@@ -1,0 +1,128 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-09T20:00:15.138641",
+  "total_news": 12,
+  "news": [
+    {
+      "title": "US probes nine unis over J-1 visas and suspends firms’ green card pathway",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-09",
+      "type": "Policy",
+      "summary_en": "US universities face allegations of using J-1 visas to undercut American researchers’ wages, while a separate suspension at eight major employers threatens to delay permanent residency applications for foreign workers.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "US to seek expedited appeal over blocked int’l student time limits",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-10-09",
+      "type": "Immigration",
+      "summary_en": "The government and higher education groups face an October 9 deadline to set out their positions, with four-year admission limits still on hold nationwide.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Vancouver’s language school sector faces a new reality",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-10-08",
+      "type": "Voices",
+      "summary_en": "EC English and ILAC's shock closures last month lay bare the challenges that have blighted Vancouver's language school sector for years, writes Patricio Alfaro.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Patricio Alfaro"
+    },
+    {
+      "title": "US associations sue over ICE changes to international student internships",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "Four major US higher education associations have launched a legal challenge against the federal government over changes to rules governing internships and practical learning for international students.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Trump targets $70m in international education funding as opposition grows",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-08",
+      "type": "Policy",
+      "summary_en": "University groups are urging Congress to reverse the cuts, while seven states have challenged the administration’s wider effort to withhold funding approved by lawmakers.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "BSC Education enters liquidation, ceases trading",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-10-08",
+      "type": "Language learning",
+      "summary_en": "The English language school group with centres in the UK, Malta is entering liquidation.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Trump administration proposes $70,000 OPT fee",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-07",
+      "type": "Policy",
+      "summary_en": "The Trump administration has proposed charging US universities $70,000 for each international student they recommend for Optional Practical Training (OPT), with institutions facing further annual fees for extensions.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Russell Group universities to showcase UK higher ed at China open days",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-07",
+      "type": "Recruitment & agents",
+      "summary_en": "Fifteen UK research-intensive universities will take part in collaborative events in Shanghai and Beijing designed to highlight future skills, academic excellence and the long-term value of a UK education.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "CU Denver takes step towards India campus in Hyderabad",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-10-07",
+      "type": "Transnational education",
+      "summary_en": "The university plans to begin teaching in August 2027, with admissions awaiting final UGC approval and its initial location and cohort size still being determined.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UWA gets green light for Chennai as two-campus India bet takes shape",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-10-07",
+      "type": "Transnational education",
+      "summary_en": "The Group of Eight university will begin classes in Chennai on October 19, completing the initial launch of an AUD $80m India expansion spanning two cities.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Australia’s Coalition pledges to scrap Temporary Graduate visas, cut student numbers",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-06",
+      "type": "Policy",
+      "summary_en": "If elected, the Coalition has vowed to abolish Temporary Graduate visas and cut international student commencements to 240,000 a year under a sweeping migration plan.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Mainland students fuel Hong Kong’s education boom",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-06",
+      "type": "Recruitment & agents",
+      "summary_en": "More than half of Hong Kong’s higher education students are now from outside the territory, according to research from BONARD Education and the British Council research, as the city accelerates efforts to strengthen its position as a regional education hub.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    }
+  ]
+}

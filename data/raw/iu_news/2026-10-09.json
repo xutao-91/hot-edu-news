@@ -1,0 +1,53 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-10-09T20:00:11.655565",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Six IU projects awarded grants for biotechnology defense research",
+      "url": "https://news.iu.edu/live/news/53936-six-iu-projects-awarded-grants-for-biotechnology",
+      "date": "Oct 8, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Kelley earns accreditation to award continuing medical education credits for physicians",
+      "url": "https://blog.kelley.indianapolis.iu.edu/2026/10/06/kelley-earns-accreditation-to-award-cme-credits-for-physicians/",
+      "date": "Oct 7, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    },
+    {
+      "title": "IU leaders mark milestone in construction of IU LAB",
+      "url": "https://news.iu.edu/live/news/53702-iu-leaders-mark-milestone-in-construction-of-iu",
+      "date": "Oct 6, 2026",
+      "type": "Administration",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "GLAM at Indiana University",
+      "url": "https://news.iu.edu/feature/17-glam-at-indiana-university",
+      "date": "Oct 8, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Orange County Community Gardens explores more accessible future with help from IU grad students",
+      "url": "https://news.iu.edu/rural/live/news/53712-iu-students-explore-a-more-accessible-future-for",
+      "date": "Oct 6, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

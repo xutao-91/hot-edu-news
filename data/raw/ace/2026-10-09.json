@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-10-09T20:00:12.473323",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "DHS Proposes New OPT Fee as International Students Face New Restrictions",
+      "url": "https://www.acenet.edu/News-Room/Pages/DHS-Proposes-New-OPT-Fee.aspx",
+      "date": "October 8, 2026",
+      "type": "News",
+      "summary_en": "Colleges and universities would have to pay $70,000 for each international student they recommend for Optional Practical Training (OPT) under a Trump administration proposal announced Oct. 7.",
+      "source": "ACE",
+      "category": "international"
+    },
+    {
+      "title": "Last Chance to Take Advantage of ACEx2027 Early Bird Rates",
+      "url": "https://www.acenet.edu/News-Room/Pages/Last-Chance-ACEx2027-Early-Bird-Rates.aspx",
+      "date": "October 8, 2026",
+      "type": "News",
+      "summary_en": "Register now to gain the Early Bird discount rate for the ACE Experience 2027 (ACEx2027) before it ends at midnight, Oct. 14.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

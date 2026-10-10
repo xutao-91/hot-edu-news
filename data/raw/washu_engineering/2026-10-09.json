@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-10-09T20:00:17.963268",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "In the clouds",
+      "url": "https://engineering.washu.edu/news/2026/In-the-clouds.html",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "WashU team uses AI, statistics to improve predictions for rainfall, extreme weather.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "New building blocks expand functions of photonic chips",
+      "url": "https://engineering.washu.edu/news/2026/New-building-blocks-expand-functions-of-photonic-chips.html",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "With integration of single-crystal nanomembranes, WashU engineers establish a framework for photonic circuits.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

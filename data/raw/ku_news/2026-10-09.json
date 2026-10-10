@@ -1,0 +1,71 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-09T20:00:15.123520",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "KU physicist Daniel Tapia Takaki named American Physical Society fellow",
+      "url": "https://news.ku.edu/news/article/ku-physicist-daniel-tapia-takaki-named-american-physical-society-fellow",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "Founded in 1899, the American Physical Society honors members with the designation of fellow for significant accomplishments in physics. Tapia Takaki was recommended for the honor by the society’s Division of Nuclear Physics.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "2026 Gene A. Budig Lecture will explore teacher identity through multimodal writing",
+      "url": "https://news.ku.edu/news/article/2026-gene-a-budig-lecture-will-explore-teacher-identity-through-multimodal-writing",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "Hyesun Cho, professor in the Department of Curriculum & Teaching, will present “Teacher Identity, Emotion, and Agency Through Multimodal Writing” at 4:30 p.m. Oct. 13 in Room 150 of Joseph R. Pearson Hall. A reception will begin at 4 p.m.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "KU aerospace engineering student wins first place in international aircraft design competition",
+      "url": "https://news.ku.edu/news/article/ku-aerospace-engineering-student-wins-first-place-in-international-aircraft-design-competition",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "The win marks the KU aerospace engineering department’s 109th award in American Institute of Aeronautics and Astronautics competitions dating back 50 years.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU eating disorders research center to welcome the public with open house and resource fair",
+      "url": "https://news.ku.edu/news/article/ku-eating-disorders-research-center-to-welcome-the-public-with-open-house-and-resource-fair",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "The Center for the Advancement of Research on Eating Behaviors at the Life Span Institute recently moved to Youngberg Hall on the University of Kansas campus in Lawrence.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Study: ‘Classic example’ of sexual dimorphism in fossil record actually shows nuance between males and females",
+      "url": "https://news.ku.edu/news/article/study-classic-example-of-sexual-dimorphism-in-fossil-record-actually-shows-nuance-between-males-and-females",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "A new study from the University of Kansas appearing in the open-access, peer-reviewed journal PLOS One shows the differences between male and female uintatheres might not be as vast as paleontologists have long believed.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Spencer Museum’s Backyard Bash returns Oct. 11 to celebrate art and nature in Marvin Grove",
+      "url": "https://news.ku.edu/news/article/spencer-museums-backyard-bash-returns-oct-11-to-celebrate-art-and-nature-in-marvin-grove",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "The Spencer Museum of Art Backyard Bash, an outdoor and indoor celebration of art and nature, returns from 1 p.m. to 4 p.m. Oct. 11. The free, all-ages community event will take place at the museum as well as in KU’s historic Marvin Grove.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Distinguished Professor will explore how deep-space signals reach Earth",
+      "url": "https://news.ku.edu/news/article/ku-distinguished-professor-will-explore-how-deep-space-signals-reach-earth",
+      "date": "2026-10-07",
+      "type": "News",
+      "summary_en": "Erik Perrins will deliver his inaugural distinguished professor lecture, “Finding the Signal in the Noise: The Hidden Magic of Error Correcting Codes in Deep-Space Radios,” on Nov. 11.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-10-09T20:00:11.114426",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "New Research Exposes Hurdles for Small-Scale Food Producers",
+      "url": "https://www.iit.edu/news/new-research-exposes-hurdles-small-scale-food-producers",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "Although small-scale and Black, Indigenous, and people of color (BIPOC) food producers are more likely to meet measures that buyers say that they seek, there are market forces that keep them sidelined...",
+      "source": "IIT News",
+      "category": "research"
+    },
+    {
+      "title": "Illinois Tech Athletics Digest: Men’s Soccer Posts Unbeaten Week",
+      "url": "https://www.iit.edu/news/illinois-tech-athletics-digest-mens-soccer-posts-unbeaten-week",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "Each week, the Illinois Tech Athletics Digest will look back at the week that was in Scarlet Hawks athletics and provide a brief glimpse at what is up next. Up First October 7: Women’s Volleyball at...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Third Federal Judge Cites Law Professor’s Research in Legal Ruling",
+      "url": "https://www.iit.edu/news/third-federal-judge-cites-law-professors-research-legal-ruling",
+      "date": "2026-10-06",
+      "type": "News",
+      "summary_en": "Innovative research by Chicago-Kent College of Law Professor Sarah Fackrell is proving helpful to federal judges who are adjudicating new types of intellectual property infringement cases in the...",
+      "source": "IIT News",
+      "category": "law"
+    }
+  ]
+}
