@@ -28120,5 +28120,17 @@
     "fetch_time": "2026-10-09T20:00:17.701054",
     "title": "Establishment of a Committee of Inquiry to Investigate Allegations of False Statements by Lisa DeNell Cook",
     "category": "general"
+  },
+  "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-10T20:00:18.456901",
+    "title": "The State of American Manufacturing",
+    "category": "semiconductor"
+  },
+  "https://today.wayne.edu/news/2026/10/09/sexual-violence-prevention-and-support-resources-available-to-wayne-state-community-70329": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-10T20:00:18.626914",
+    "title": "Sexual violence prevention and support resources available to Wayne State community",
+    "category": "ai"
   }
 }

@@ -1,0 +1,17 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-10-10T20:00:11.323949",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "New Research Exposes Hurdles for Small-Scale Food Producers",
+      "url": "https://www.iit.edu/news/new-research-exposes-hurdles-small-scale-food-producers",
+      "date": "2026-10-08",
+      "type": "News",
+      "summary_en": "Although small-scale and Black, Indigenous, and people of color (BIPOC) food producers are more likely to meet measures that buyers say that they seek, there are market forces that keep them sidelined...",
+      "source": "IIT News",
+      "category": "research"
+    }
+  ]
+}
