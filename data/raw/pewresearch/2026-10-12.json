@@ -1,0 +1,36 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-12T14:54:52.192122",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Why Don’t Some People Use Chatbots?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/09/why-dont-some-people-use-chatbots/",
+      "date": "Oct 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Emerging Technology"
+      ],
+      "summary_en": "About half of U.S. adults never use chatbots, and most non-users cite disinterest, privacy or accuracy concerns.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "French Adults Stand Out for Their Economic Pessimism",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/09/french-adults-stand-out-for-their-economic-pessimism/",
+      "date": "Oct 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Government Spending The Deficit 1",
+        "Income Wealth Poverty",
+        "International Issues",
+        "World Leaders"
+      ],
+      "summary_en": "Amid protests, 85% of French adults say their economy is bad, a higher share than in any of 17 other high-income countries surveyed.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

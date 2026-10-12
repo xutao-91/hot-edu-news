@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-12T14:54:42.156845",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How higher ed can fight fraud without collecting more student data",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/10/12/how-higher-ed-can-fight-fraud-without-collecting-more-student-data/",
+      "date": "2026-10-12",
+      "type": "Data Security",
+      "summary_en": "As students settle into the academic year, colleges and universities are managing a growing identity challenge that extends far beyond enrollment.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "5 leadership priorities to become AI-ready",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/10/09/5-leadership-priorities-to-become-ai-ready/",
+      "date": "2026-10-09",
+      "type": "AI in Education",
+      "summary_en": "Four years after ChatGPT changed the conversation around AI, many higher education institutions are still asking how they should adopt AI. A more useful question is whether their systems, data, and people are ready to support it.",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

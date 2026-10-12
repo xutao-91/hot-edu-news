@@ -28132,5 +28132,209 @@
     "fetch_time": "2026-10-10T20:00:18.626914",
     "title": "Sexual violence prevention and support resources available to Wayne State community",
     "category": "ai"
+  },
+  "https://pme.uchicago.edu/news-events/news/carpet-growth-method-yields-long-sought-2d-quantum-material": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-12T14:54:41.717103",
+    "title": "“Carpet” growth method yields long-sought 2D quantum material",
+    "category": "quantum"
+  },
+  "https://news.fnal.gov/2026/10/new-doe-early-career-project-uses-magnetic-vortices-to-uncover-hidden-sources-of-loss-in-superconducting-quantum-devices/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-12T14:54:41.717103",
+    "title": "New DOE Early Career project uses magnetic vortices to uncover hidden sources of loss in superconducting quantum devices",
+    "category": "quantum"
+  },
+  "https://news.fnal.gov/2026/10/fermilab-physicist-wins-doe-early-career-award-to-study-dark-matter-with-entangled-qubits/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-12T14:54:41.717103",
+    "title": "Fermilab physicist wins DOE Early Career Award to study dark matter with entangled qubits",
+    "category": "quantum"
+  },
+  "https://news.fnal.gov/2026/10/fermilab-to-lead-two-new-genesis-mission-awards-to-accelerate-development-of-microelectronics-and-quantum/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-12T14:54:41.717103",
+    "title": "Fermilab to lead two new Genesis Mission awards to accelerate development of microelectronics and quantum",
+    "category": "quantum"
+  },
+  "https://www.ecampusnews.com/cybersecurity/2026/10/12/how-higher-ed-can-fight-fraud-without-collecting-more-student-data/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-10-12T14:54:42.284749",
+    "title": "How higher ed can fight fraud without collecting more student data",
+    "category": "education"
+  },
+  "https://stories.butler.edu/butler-university-receives-1-million-to-expand-engineering-and-data-analytics-education/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-10-12T14:54:44.629371",
+    "title": "Butler University Receives $1 Million to Expand Engineering and Data Analytics Education",
+    "category": "education"
+  },
+  "https://www.csis.org/events/strategic-landpower-dialogue-conversation-general-xavier-t-brunson": {
+    "source": "csis",
+    "fetch_time": "2026-10-12T14:54:46.152332",
+    "title": "Strategic Landpower Dialogue: A Conversation with General Xavier T. Brunson",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/without-parallel-north-korean-human-rights-and-russia-axis": {
+    "source": "csis",
+    "fetch_time": "2026-10-12T14:54:46.152332",
+    "title": "Without Parallel: North Korean Human Rights and the Russia Axis",
+    "category": "general"
+  },
+  "https://www.csis.org/events/iran-war-how-does-end-htk": {
+    "source": "csis",
+    "fetch_time": "2026-10-12T14:54:46.152332",
+    "title": "The Iran War: How Does This End? | HTK",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/russias-turn-china-under-sanctions": {
+    "source": "csis",
+    "fetch_time": "2026-10-12T14:54:46.152332",
+    "title": "Russia’s Turn to China Under Sanctions: Sanctions Decay, Substitution Elasticity, and the Challenge of Sustaining Pressure",
+    "category": "ai"
+  },
+  "https://www.news.iastate.edu/news/how-super-el-nino-could-affect-fall-fertilizers-all-important-timing": {
+    "source": "iastate_news",
+    "fetch_time": "2026-10-12T14:54:48.902374",
+    "title": "How the super El Niño could affect fall fertilizer’s all-important timing",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/53948-kelley-school-to-present-futurecast-2027-economic": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-12T14:54:49.726661",
+    "title": "Kelley School to present Futurecast 2027 economic outlook tour in 11 Indiana cities",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/notre-dame-business-research-roundup-september-2026/": {
+    "source": "mendoza",
+    "fetch_time": "2026-10-12T14:54:49.272186",
+    "title": "Notre Dame Business Research Roundup: September 2026",
+    "category": "semiconductor"
+  },
+  "https://mendoza.nd.edu/news/consumers-moral-authority/": {
+    "source": "mendoza",
+    "fetch_time": "2026-10-12T14:54:49.272186",
+    "title": "When consumers turn to a moral authority",
+    "category": "semiconductor"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-10-12-hickey-receives-fulbright-award-to-study-ai-in-education-in-estonia.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-10-12T14:54:50.441979",
+    "title": "Hickey receives Fulbright award to study AI in education in Estonia",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-engineering-to-host-58th-annual-geotechnical-engineering-conference": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-12T14:54:51.535654",
+    "title": "KU Engineering to host 58th Annual Geotechnical Engineering Conference",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-launches-higher-learning-commission-accreditation-2029-mid-cycle-review": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-12T14:54:51.535654",
+    "title": "KU launches Higher Learning Commission Accreditation 2029 mid-cycle review",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/new-tagging-system-shows-first-ovarian-cancer-cells-to-spread-block-cells-that-arrive-later/": {
+    "source": "nd_science",
+    "fetch_time": "2026-10-12T14:54:51.703165",
+    "title": "New “tagging” system shows first ovarian cancer cells to spread block cells that arrive later",
+    "category": "general"
+  },
+  "https://oneill.indiana.edu/news/2026-1012-ma-awarded-philanthropy-grant.html": {
+    "source": "oneill",
+    "fetch_time": "2026-10-12T14:54:52.388874",
+    "title": "Ma awarded AFP Foundation for Philanthropy grant to study generative AI and strategic giving",
+    "category": "ai"
+  },
+  "https://oneill.indiana.edu/news/2026-1012-simon-care-economy.html": {
+    "source": "oneill",
+    "fetch_time": "2026-10-12T14:54:52.388874",
+    "title": "Simon part of NASEM report urging overhaul of U.S. care economy data infrastructure",
+    "category": "ai"
+  },
+  "https://www.rockhurst.edu/news/2026-10-12/world-cultures-day-highlights-global-community": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-10-12T14:54:55.825348",
+    "title": "World Cultures Day Highlights Global Community",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/communing-dead-what-they-can-teach-living": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-12T14:54:56.176361",
+    "title": "Communing with the Dead: What They Can Teach the Living",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/story/plans-advance-new-health-and-science-campus-washington-park": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-12T14:54:56.176361",
+    "title": "Plans advance for new health and science campus in Washington Park",
+    "category": "ai"
+  },
+  "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-12T14:54:56.176361",
+    "title": "How Do Cuttlefish Hide?",
+    "category": "general"
+  },
+  "https://www.wsj.com/us-news/law/courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-90455f79": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-12T14:54:56.176361",
+    "title": "Courts Grapple With Problem of People Betting on the Outcome of Jury Cases",
+    "category": "general"
+  },
+  "https://insideuni.uni.edu/arts-design/theatreuni-presents-language-archive-julia-cho": {
+    "source": "uni_news",
+    "fetch_time": "2026-10-12T14:54:56.520294",
+    "title": "TheatreUNI presents “The Language Archive” by Julia Cho",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/cafnr-celebrates-state-of-the-art-facilities-to-benefit-missouri-agriculture/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-12T14:54:56.520294",
+    "title": "CAFNR celebrates state-of-the-art facilities to benefit Missouri agriculture",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-archaeology-student-digs-into-communitys-local-history/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-12T14:54:56.520294",
+    "title": "Mizzou archaeology student digs into community’s local history",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1012-purdue-strachan-aps-fellow-materials-extreme-conditions": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-10-12T14:54:57.051807",
+    "title": "MSE's Strachan named APS fellow for research on materials under extreme conditions",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/nebraska-helps-mauntel-turn-childhood-passion-into-future-in-paleontology": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-12T14:54:58.054100",
+    "title": "Nebraska helps Mauntel turn childhood passion into future in paleontology",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/10/in-the-clouds/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-12T14:54:58.359497",
+    "title": "In the clouds",
+    "category": "ai"
+  },
+  "https://today.wayne.edu/news/2026/10/12/longtime-friend-and-georgetown-president-reflects-on-richard-bierschbachs-path-to-wayne-state-70322": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-12T14:54:58.510483",
+    "title": "Longtime friend and Georgetown president reflects on Richard Bierschbach's path to Wayne State",
+    "category": "semiconductor"
+  },
+  "https://ilitchbusiness.wayne.edu/news/students-evaluated-real-startups-and-put-their-judgement-to-the-test-in-the-2026-venture-capital-case-competition-70326": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-12T14:54:58.510483",
+    "title": "Students evaluated real startups and put their judgement to the test in the 2026 Venture Capital Case Competition",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA5068-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-12T14:54:59.355883",
+    "title": "Recursive Self-Improvement and Automated AI Research and Development",
+    "category": "ai"
   }
 }

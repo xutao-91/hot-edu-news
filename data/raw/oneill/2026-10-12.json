@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-10-12T14:54:52.286575",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Ma awarded AFP Foundation for Philanthropy grant to study generative AI and strategic giving",
+      "url": "https://oneill.indiana.edu/news/2026-1012-ma-awarded-philanthropy-grant.html",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "O’Neill professor Ji Ma receives a national grant to study how AI-generated fundraising appeals affect donor behavior, trust, and charitable giving.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Simon part of NASEM report urging overhaul of U.S. care economy data infrastructure",
+      "url": "https://oneill.indiana.edu/news/2026-1012-simon-care-economy.html",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "A National Academies report led by O’Neill professor Kosali Simon recommends stronger data systems to better measure the economic value of paid and unpaid care.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

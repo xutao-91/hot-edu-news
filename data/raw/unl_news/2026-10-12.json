@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-10-12T14:54:57.962686",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Nebraska helps Mauntel turn childhood passion into future in paleontology",
+      "url": "https://news.unl.edu/article/nebraska-helps-mauntel-turn-childhood-passion-into-future-in-paleontology",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Hogans establish Franchise Leadership Program at Nebraska",
+      "url": "https://news.unl.edu/article/hogans-establish-franchise-leadership-program-at-nebraska",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Hostert rallies Huskers to give blood, compete for $1 million",
+      "url": "https://news.unl.edu/article/hostert-rallies-huskers-to-give-blood-compete-for-1-million",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "University Libraries make research, education more accessible, affordable",
+      "url": "https://news.unl.edu/article/university-libraries-make-research-education-more-accessible-affordable",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker researchers explore hidden nitrogen, new ways to reduce groundwater risk",
+      "url": "https://news.unl.edu/article/husker-researchers-explore-hidden-nitrogen-new-ways-to-reduce-groundwater-risk",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Der Matossian co-edits first in-depth study of Armenian Genocide camps",
+      "url": "https://news.unl.edu/article/der-matossian-co-edits-first-in-depth-study-of-armenian-genocide-camps",
+      "date": "2026-10-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-12T14:54:52.359214",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "International security and defence: Is it time for universities to step up?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-10-12",
+      "type": "Voices",
+      "summary_en": "In her latest column for The PIE, Diana Beech asks whether universities can keep their doors open to the world while guarding against growing security threats – and why getting that balance right has never mattered more.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Diana Beech"
+    },
+    {
+      "title": "Curtin vows to fight WA mega-university merger",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-12",
+      "type": "Policy",
+      "summary_en": "Curtin University has vowed to “vigorously oppose” plans to merge three of Western Australia’s biggest universities, warning the proposed mega-institution would bring “cost, waste and loss of choice”.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "TrustEd framework and consistent visa process should enhance Ireland’s position",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-10-12",
+      "type": "Language learning",
+      "summary_en": "Ireland remains well placed to attract international students, but uncertainty over visas and the implementation of new quality standards could shape its ability to capitalise on that demand, according to speakers preparing for The PIE Live Ireland.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Amy Baker"
+    },
+    {
+      "title": "US probes nine unis over J-1 visas and suspends firms’ green card pathway",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-09",
+      "type": "Policy",
+      "summary_en": "US universities face allegations of using J-1 visas to undercut American researchers’ wages, while a separate suspension at eight major employers threatens to delay permanent residency applications for foreign workers.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "US to seek expedited appeal over blocked int’l student time limits",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-10-09",
+      "type": "Immigration",
+      "summary_en": "The government and higher education groups face an October 9 deadline to set out their positions, with four-year admission limits still on hold nationwide.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

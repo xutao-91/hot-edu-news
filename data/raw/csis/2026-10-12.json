@@ -1,0 +1,64 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-10-12T14:54:46.030193",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Why Japan’s Aid Strategy Focuses on Trust",
+      "url": "https://www.csis.org/events/why-japans-aid-strategy-focuses-trust",
+      "date": "2026-10-13",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Strategic Landpower Dialogue: A Conversation with General Xavier T. Brunson",
+      "url": "https://www.csis.org/events/strategic-landpower-dialogue-conversation-general-xavier-t-brunson",
+      "date": "2026-10-13",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Without Parallel: North Korean Human Rights and the Russia Axis",
+      "url": "https://www.csis.org/events/without-parallel-north-korean-human-rights-and-russia-axis",
+      "date": "2026-10-14",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Iran War: How Does This End? | HTK",
+      "url": "https://www.csis.org/events/iran-war-how-does-end-htk",
+      "date": "2026-10-14",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Russia’s Turn to China Under Sanctions: Sanctions Decay, Substitution Elasticity, and the Challenge of Sustaining Pressure",
+      "url": "https://www.csis.org/analysis/russias-turn-china-under-sanctions",
+      "date": "2026-10-09",
+      "summary_en": "Sanctions lose force not only when governments stop updating them, but also when targeted actors replace restricted products, suppliers, and acquisition channels faster than controls can adapt.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Understanding the Chinese-Language Media Landscape in Southeast Asia",
+      "url": "https://www.csis.org/analysis/understanding-chinese-language-media-landscape-southeast-asia",
+      "date": "2026-10-09",
+      "summary_en": "There is no viable strategy for countering Chinese information warfare that does not involve buy-in from regional partners and an awareness of the scale, scope, and impact of Chinese-language media in Southeast Asia.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "China’s Weaponization of Dual-Use Research Vessels for Undersea Data Dominance",
+      "url": "https://www.csis.org/analysis/chinas-weaponization-dual-use-research-vessels-undersea-data-dominance",
+      "date": "2026-10-08",
+      "summary_en": "Analysis of 223 vessels finds that Chinese research ships spend an unusually large share of time near subsea infrastructure on the high seas. The findings call for stronger allied monitoring, coordinated patrols, and faster cable repair.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

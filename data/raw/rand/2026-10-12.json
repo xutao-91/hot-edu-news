@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-12T14:54:59.304758",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Recursive Self-Improvement and Automated AI Research and Development",
+      "url": "https://www.rand.org/pubs/perspectives/PEA5068-1.html",
+      "date": "Oct 12, 2026",
+      "type": "Expert Insights",
+      "summary_en": "If artificial intelligence systems begin to contribute to their own improvement, existing institutions and governance frameworks may not be able to keep pace. The authors offer policy recommendations for navigating the resulting uncertainties.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}
