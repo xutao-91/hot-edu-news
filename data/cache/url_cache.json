@@ -28336,5 +28336,35 @@
     "fetch_time": "2026-10-12T14:54:59.355883",
     "title": "Recursive Self-Improvement and Automated AI Research and Development",
     "category": "ai"
+  },
+  "https://www.brookings.edu/articles/what-the-trump-administrations-recent-guidance-on-school-discipline-gets-wrong/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-12T20:00:10.882206",
+    "title": "What the Trump administration’s recent guidance on school discipline gets wrong",
+    "category": "education"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-dedicates-michels-center-for-cancer-discovery-following-landmark-gift": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-10-12T20:00:13.731104",
+    "title": "Medical College of Wisconsin Dedicates Michels Center for Cancer Discovery Following Landmark Gift",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-researchers-study-why-long-covid-leaves-some-chronically-exhausted/": {
+    "source": "uic_today",
+    "fetch_time": "2026-10-12T20:00:17.120818",
+    "title": "UIC researchers study why long COVID leaves some chronically exhausted",
+    "category": "ai"
+  },
+  "https://today.uic.edu/uic-researchers-quantify-community-engagement/": {
+    "source": "uic_today",
+    "fetch_time": "2026-10-12T20:00:17.120818",
+    "title": "UIC researchers quantify community engagement",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/michael-woodford-uchicago-alum-and-former-faculty-member-shares-nobel-prize": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-12T20:00:17.120818",
+    "title": "Michael Woodford, UChicago alum and former faculty member, shares Nobel Prize",
+    "category": "semiconductor"
   }
 }

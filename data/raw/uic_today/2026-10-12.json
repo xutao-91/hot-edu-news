@@ -1,9 +1,27 @@
 {
   "source": "UIC Today",
   "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
-  "crawled_at": "2026-10-12T14:54:55.946943",
-  "total_news": 1,
+  "crawled_at": "2026-10-12T20:00:16.974701",
+  "total_news": 3,
   "news": [
+    {
+      "title": "UIC researchers study why long COVID leaves some chronically exhausted",
+      "url": "https://today.uic.edu/uic-researchers-study-why-long-covid-leaves-some-chronically-exhausted/",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "NIH-funded study investigates post-exertional malaise.",
+      "source": "UIC Today",
+      "category": "research"
+    },
+    {
+      "title": "UIC researchers quantify community engagement",
+      "url": "https://today.uic.edu/uic-researchers-quantify-community-engagement/",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Practices like including patients in decision making are critical to research partnerships but not usually measured.",
+      "source": "UIC Today",
+      "category": "research"
+    },
     {
       "title": "UIC physicist elected Fellow of the American Physical Society",
       "url": "https://today.uic.edu/uic-physicist-elected-fellow-of-the-american-physical-society/",

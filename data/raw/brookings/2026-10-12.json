@@ -1,9 +1,18 @@
 {
   "source": "Brookings Institution - Education",
   "source_url": "https://www.brookings.edu/topics/education-2/",
-  "crawled_at": "2026-10-12T14:54:42.196577",
-  "total_news": 2,
+  "crawled_at": "2026-10-12T20:00:10.798646",
+  "total_news": 3,
   "news": [
+    {
+      "title": "What the Trump administration’s recent guidance on school discipline gets wrong",
+      "url": "https://www.brookings.edu/articles/what-the-trump-administrations-recent-guidance-on-school-discipline-gets-wrong/",
+      "author": "Rachel M. Perera",
+      "date": "October 12, 2026",
+      "summary_en": "",
+      "source": "Brookings Institution",
+      "category": "k12"
+    },
     {
       "title": "Rethinking the purpose of education systems transformation",
       "url": "https://www.brookings.edu/articles/rethinking-purpose-education-systems-transformation/",

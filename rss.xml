@@ -5,7 +5,7 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Oct 2026 19:55:02 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 01:00:22 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
     
@@ -47,6 +47,16 @@
         <guid isPermaLink="true">https://www.csis.org/events/strategic-landpower-dialogue-conversation-general-xavier-t-brunson</guid>
         <category>外交政策</category>
         <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>What the Trump administration’s recent guidance on school discipline gets wrong</title>
+        <link>https://www.brookings.edu/articles/what-the-trump-administrations-recent-guidance-on-school-discipline-gets-wrong/</link>
+        <description></description>
+        <pubDate>Mon, 12 Oct 2026 05:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.brookings.edu/articles/what-the-trump-administrations-recent-guidance-on-school-discipline-gets-wrong/</guid>
+        <category>K-12教育</category>
+        <source>Brookings Institution</source>
     </item>
     
     <item>
@@ -195,16 +205,6 @@
         <description></description>
         <pubDate>Mon, 12 Oct 2026 05:00:00 -0000</pubDate>
         <guid isPermaLink="true">https://news.ku.edu/news/article/ku-engineering-to-host-58th-annual-geotechnical-engineering-conference</guid>
-        <category>综合</category>
-        <source>KU News</source>
-    </item>
-    
-    <item>
-        <title>KU launches Higher Learning Commission Accreditation 2029 mid-cycle review</title>
-        <link>https://news.ku.edu/news/article/ku-launches-higher-learning-commission-accreditation-2029-mid-cycle-review</link>
-        <description></description>
-        <pubDate>Mon, 12 Oct 2026 05:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.ku.edu/news/article/ku-launches-higher-learning-commission-accreditation-2029-mid-cycle-review</guid>
         <category>综合</category>
         <source>KU News</source>
     </item>

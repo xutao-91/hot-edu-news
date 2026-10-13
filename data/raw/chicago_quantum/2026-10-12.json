@@ -1,7 +1,7 @@
 {
   "source": "Chicago Quantum Exchange",
   "source_url": "https://chicagoquantum.org/news",
-  "crawled_at": "2026-10-12T14:54:41.653717",
+  "crawled_at": "2026-10-12T20:00:09.175517",
   "total_news": 4,
   "news": [
     {
@@ -9,6 +9,15 @@
       "url": "https://pme.uchicago.edu/news-events/news/carpet-growth-method-yields-long-sought-2d-quantum-material",
       "date": "2026-10-12",
       "summary_en": "A new approach to growing a thin sheet of bismuth telluride let UChicago PME researchers confirm its ability to form a 2D topological insulator at ambient conditions.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Fermilab to lead two new Genesis Mission awards to accelerate development of microelectronics and quantum",
+      "url": "https://news.fnal.gov/2026/10/fermilab-to-lead-two-new-genesis-mission-awards-to-accelerate-development-of-microelectronics-and-quantum/",
+      "date": "2026-10-08",
+      "summary_en": "Two new awards will expand Fermilab’s critical role in the Genesis Mission by developing custom microelectronics and advancing quantum information science.",
       "source": "Chicago Quantum Exchange",
       "source_url": "https://chicagoquantum.org/news",
       "category": "quantum"
@@ -27,15 +36,6 @@
       "url": "https://news.fnal.gov/2026/10/fermilab-physicist-wins-doe-early-career-award-to-study-dark-matter-with-entangled-qubits/",
       "date": "2026-10-08",
       "summary_en": "Building on her earlier work with quantum amplifiers for a leading dark matter experiment, Rakshya Khatiwada will use a four-qubit entangled system to test whether it offers a sensing advantage when exposed to a simulated dark matter signal.",
-      "source": "Chicago Quantum Exchange",
-      "source_url": "https://chicagoquantum.org/news",
-      "category": "quantum"
-    },
-    {
-      "title": "Fermilab to lead two new Genesis Mission awards to accelerate development of microelectronics and quantum",
-      "url": "https://news.fnal.gov/2026/10/fermilab-to-lead-two-new-genesis-mission-awards-to-accelerate-development-of-microelectronics-and-quantum/",
-      "date": "2026-10-08",
-      "summary_en": "Two new awards will expand Fermilab’s critical role in the Genesis Mission by developing custom microelectronics and advancing quantum information science.",
       "source": "Chicago Quantum Exchange",
       "source_url": "https://chicagoquantum.org/news",
       "category": "quantum"
