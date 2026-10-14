@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-13T20:00:19.890366",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "‘The opportunity to engage’",
+      "url": "https://source.washu.edu/2026/10/the-opportunity-to-engage/",
+      "date": "2026-10-13",
+      "type": "Academics",
+      "summary_en": "WashU Arts & Sciences will host its second annual Teaching Innovation Showcase Oct. 22. In this Q&A, three participating faculty — Michael Olson, B. Duygu Özpolat and Zhiling Zheng — discuss their projects and teaching philosophies.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Wick installed as Robert G. and Maxine W. Scheibe Professor of Mathematics",
+      "url": "https://source.washu.edu/2026/10/wick-installed-as-robert-g-and-maxine-w-scheibe-professor-of-mathematics/",
+      "date": "2026-10-13",
+      "type": "Advancement",
+      "summary_en": "Brett D. Wick, chair of the Department of Mathematics in Arts & Sciences, has been installed as the inaugural Robert G. and Maxine W. Scheibe Professor of Mathematics.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "In the clouds",
+      "url": "https://source.washu.edu/2026/10/in-the-clouds/",
+      "date": "2026-10-12",
+      "type": "Engineering",
+      "summary_en": "Under a new grant from the NSF, a WashU team will use AI and statistics to study the impact of aerosols on marine low clouds. That knowledge can help communities protect health and prepare for extreme weather.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

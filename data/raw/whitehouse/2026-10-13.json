@@ -1,0 +1,43 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-10-13T20:00:19.441425",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "President Trump Visits Alaska: Delivering Results for the Last Frontier",
+      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-visits-alaska-delivering-results-for-the-last-frontier/",
+      "date": "October 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Katie Zacharia Delivers Powerful Inaugural Briefing as the 37th White House Press Secretary",
+      "url": "https://www.whitehouse.gov/releases/2026/10/katie-zacharia-delivers-powerful-inaugural-briefing-as-37th-white-house-press-secretary/",
+      "date": "October 13, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Launches 2027 Presidential SI Challenge and Establishes First Lady Seal of SI Readiness",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-launches-2027-presidential-si-challenge-and-establishes-first-lady-seal-of-si-readiness/",
+      "date": "October 13, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on General Pulaski Memorial Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-general-pulaski-memorial-day/",
+      "date": "October 11, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "The State of American Manufacturing",
+      "url": "https://www.whitehouse.gov/research/2026/10/the-state-of-american-manufacturing/",
+      "date": "October 10, 2026",
+      "category": "Research",
+      "source": "The White House"
+    }
+  ]
+}

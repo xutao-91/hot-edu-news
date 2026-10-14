@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-13T20:00:19.566689",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Longtime friend and Georgetown president reflects on Richard Bierschbach's path to Wayne State",
+      "url": "https://today.wayne.edu/news/2026/10/12/longtime-friend-and-georgetown-president-reflects-on-richard-bierschbachs-path-to-wayne-state-70322",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Students evaluated real startups and put their judgement to the test in the 2026 Venture Capital Case Competition",
+      "url": "https://ilitchbusiness.wayne.edu/news/students-evaluated-real-startups-and-put-their-judgement-to-the-test-in-the-2026-venture-capital-case-competition-70326",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "The South End: Decades of Warriors perform for WSU’s homecoming game",
+      "url": "https://www.thesouthend.wayne.edu/arts_and_entertainment/article_37434f3b-2c7f-4f95-95a5-798949845787.html",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

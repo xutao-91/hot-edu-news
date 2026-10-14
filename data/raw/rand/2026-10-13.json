@@ -1,0 +1,26 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-13T20:00:17.389421",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Infinite Potential—Insights from the Societal Warfare Games: After-Action Report from a Sequence of Day After Artificial General Intelligence Exercises",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4626-2.html",
+      "date": "Oct 13, 2026",
+      "type": "Research",
+      "summary_en": "This report synthesizes observations from RAND’s Infinite Potential Societal Warfare games, which explored how domestic unrest related to advanced AI could be strategically exploited by U.S. adversaries.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Recursive Self-Improvement and Automated AI Research and Development",
+      "url": "https://www.rand.org/pubs/perspectives/PEA5068-1.html",
+      "date": "Oct 12, 2026",
+      "type": "Expert Insights",
+      "summary_en": "If artificial intelligence systems begin to contribute to their own improvement, existing institutions and governance frameworks may not be able to keep pace. The authors offer policy recommendations for navigating the resulting uncertainties.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

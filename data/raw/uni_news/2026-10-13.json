@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-13T20:00:18.610856",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UNI Gallery of Art Presents the 2026 Elena Diane Curris Biennial Design Exhibition: “Making Meaning: The Work of Dan Stiles”",
+      "url": "https://insideuni.uni.edu/arts-design/uni-gallery-art-presents-2026-elena-diane-curris-biennial-design-exhibition-making",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "The showcase features the creations of internationally acclaimed designer and illustrator Dan Stiles alongside works by students and alumni from UNI’s Department of Art & Graphic Design.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "TheatreUNI presents “The Language Archive” by Julia Cho",
+      "url": "https://insideuni.uni.edu/arts-design/theatreuni-presents-language-archive-julia-cho",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "TheatreUNI will present “The Language Archive” – a fast-paced, modern tragi-comedy with an essence of magical realism, written by Julia Cho.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

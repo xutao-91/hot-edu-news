@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-13T20:00:17.696336",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "UChicago Space Program takes stratospheric science to new heights with NASA",
+      "url": "https://news.uchicago.edu/story/uchicago-space-program-takes-stratospheric-science-new-heights-nasa",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Undergraduate-built experiment collects particles 23 miles above Earth aboard a high-altitude balloon",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Michael Woodford, UChicago alum and former faculty member, shares Nobel Prize",
+      "url": "https://news.uchicago.edu/story/michael-woodford-uchicago-alum-and-former-faculty-member-shares-nobel-prize",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Pioneering macroeconomist, AB’77, created models that helped stabilize fluctuations in our economy",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Communing with the Dead: What They Can Teach the Living",
+      "url": "https://news.uchicago.edu/communing-dead-what-they-can-teach-living",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Plans advance for new health and science campus in Washington Park",
+      "url": "https://news.uchicago.edu/story/plans-advance-new-health-and-science-campus-washington-park",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Garfield Boulevard site to support new clinical lab and job training program",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How Do Cuttlefish Hide?",
+      "url": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Courts Grapple With Problem of People Betting on the Outcome of Jury Cases",
+      "url": "https://www.wsj.com/us-news/law/courts-grapple-with-problem-of-people-betting-on-the-outcome-of-jury-cases-90455f79",
+      "date": "2026-10-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

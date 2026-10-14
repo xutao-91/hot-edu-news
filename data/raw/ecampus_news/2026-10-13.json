@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-13T20:00:12.446586",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "How higher ed can fight fraud without collecting more student data",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/10/12/how-higher-ed-can-fight-fraud-without-collecting-more-student-data/",
+      "date": "2026-10-12",
+      "type": "Data Security",
+      "summary_en": "As students settle into the academic year, colleges and universities are managing a growing identity challenge that extends far beyond enrollment.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

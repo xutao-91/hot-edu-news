@@ -1,0 +1,26 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-10-13T20:00:18.122360",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Iowa alumna wins 2026 Kirkus Prize",
+      "url": "/news/2026/10/iowa-alumna-wins-2026-kirkus-prize",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Author Tayari Jones, who earned a master’s degree in English from the University of Iowa in 1994, has won the 2026 Kirkus Prize for Fiction for her novel Kin.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Using AI in violence prevention should put survivors first, researcher argues",
+      "url": "/news/2026/10/using-ai-violence-prevention-should-put-survivors-first-researcher-argues",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "A University of Iowa researcher wants social service agencies to establish guidelines for how AI is used. In a new study, Aislinn Conrad recommends that agencies keep people involved in decisions, regularly check AI systems for discrimination, and leverage AI to connect vulnerable people with needed resources and services.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

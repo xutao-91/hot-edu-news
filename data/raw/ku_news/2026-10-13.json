@@ -1,0 +1,44 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-13T20:00:17.086323",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Gerri Berendzen to give Budig Writing Lecture on the value of revision in the age of AI",
+      "url": "https://news.ku.edu/news/article/gerri-berendzen-to-give-budig-writing-lecture-on-the-value-of-revision-in-the-age-of-ai",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Gerri Berendzen, lecturer in the William Allen White School of Journalism & Mass Communications and coordinator of the Bremner Editing Center, will present “When Writing and Editing Meet: The Growing Value of Revision” at 2 p.m. Nov. 2.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Dean Carol Smith elected to Association of Research Libraries board of directors",
+      "url": "https://news.ku.edu/news/article/dean-carol-smith-elected-to-association-of-research-libraries-board-of-directors",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "KU Libraries Dean Carol Smith was elected to the 2027 board of directors of the Association of Research Libraries during the association’s fall meeting in Alexandria, Virginia. She will begin her three-year term Jan. 1, 2027.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU Engineering to host 58th Annual Geotechnical Engineering Conference",
+      "url": "https://news.ku.edu/news/article/ku-engineering-to-host-58th-annual-geotechnical-engineering-conference",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "On Nov. 12, the University of Kansas Department of Civil, Environmental & Architectural Engineering will host experts in the field of geotechnical engineering for a conference exploring the latest developments in the field.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU launches Higher Learning Commission Accreditation 2029 mid-cycle review",
+      "url": "https://news.ku.edu/news/article/ku-launches-higher-learning-commission-accreditation-2029-mid-cycle-review",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "In a little more than two years, the University of Kansas will undergo evaluation by the Higher Learning Commission (HLC) to verify the institution continues to meet accreditation standards. On Oct. 6, members from various KU campuses met in the Kansas Union to formally begin the process.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

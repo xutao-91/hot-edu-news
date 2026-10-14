@@ -1,0 +1,28 @@
+{
+  "source": "Butler University Stories",
+  "source_url": "https://stories.butler.edu/all-stories/",
+  "crawled_at": "2026-10-13T20:00:12.495333",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Preparing Scientists for What Comes Next",
+      "url": "https://stories.butler.edu/preparing-scientists-for-what-comes-next/",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Artificial intelligence can analyze more data, identify patterns faster, and give pharmaceutical scientists new ways to search for promising treatments. But it still takes a scientist to know which questions are worth asking.  Butler University is preparing those scientists.  The University’s Bachelor of Science in Pharmaceutical Sciences (BSPS) combines foundational science, research, professiona",
+      "author": "Katie Palmer Wharton '14",
+      "source": "Butler Stories",
+      "category": "general"
+    },
+    {
+      "title": "Butler University Receives $1 Million to Expand Engineering and Data Analytics Education",
+      "url": "https://stories.butler.edu/butler-university-receives-1-million-to-expand-engineering-and-data-analytics-education/",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Federal investment secured by Congressman André Carson will support tech-enabled learning environments that advance workforce preparation in STEM fields  Butler University has received $1 million in federal funding to expand laboratory equipment and technology supporting the University’s new Engineering program and Business Data Analytics program at Founder’s College.  The $1 million investment wi",
+      "author": "Mark Apple",
+      "source": "Butler Stories",
+      "category": "education"
+    }
+  ]
+}

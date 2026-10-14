@@ -1,0 +1,17 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-13T20:00:12.050146",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "“Carpet” growth method yields long-sought 2D quantum material",
+      "url": "https://pme.uchicago.edu/news-events/news/carpet-growth-method-yields-long-sought-2d-quantum-material",
+      "date": "2026-10-12",
+      "summary_en": "A new approach to growing a thin sheet of bismuth telluride let UChicago PME researchers confirm its ability to form a 2D topological insulator at ambient conditions.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-10-13T20:00:18.905523",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Lincoln invited to roll up their sleeves for We Give Blood Day Oct. 20",
+      "url": "https://news.unl.edu/article/lincoln-invited-to-roll-up-their-sleeves-for-we-give-blood-day-oct-20",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker broadcasters win nine awards in On-Location Creative Competition",
+      "url": "https://news.unl.edu/article/husker-broadcasters-win-nine-awards-in-on-location-creative-competition",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Honors, Raikes School highlight careers in Nebraska’s energy sector",
+      "url": "https://news.unl.edu/article/honors-raikes-school-highlight-careers-in-nebraskas-energy-sector",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska helps Mauntel turn childhood passion into future in paleontology",
+      "url": "https://news.unl.edu/article/nebraska-helps-mauntel-turn-childhood-passion-into-future-in-paleontology",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}
