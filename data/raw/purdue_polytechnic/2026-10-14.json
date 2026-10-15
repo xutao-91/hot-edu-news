@@ -1,0 +1,35 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-10-14T20:00:13.663674",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Techies Today Episode 022: Daniel Castro, Research is Currency",
+      "url": "https://polytechnic.purdue.edu/newsroom/techies-today-022",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "Bowen School of Construction hosts hundreds of companies at fall career fair",
+      "url": "https://polytechnic.purdue.edu/newsroom/bowen-school-construction-hosts-hundreds-companies-fall-career-fair",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Polytechnic doctoral candidate named to SME 30 Under 30",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-doctoral-candidate-named-sme-30-under-30",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    }
+  ]
+}

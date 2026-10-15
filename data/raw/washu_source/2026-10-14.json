@@ -1,0 +1,53 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-14T20:00:15.926892",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Spielman installed as Lauren and Lee Fixel Distinguished Professor",
+      "url": "https://source.washu.edu/2026/10/spielman-installed-as-lauren-and-lee-fixel-distinguished-professor/",
+      "date": "2026-10-14",
+      "type": "Advancement",
+      "summary_en": "Economist David Spielman brings global expertise in food policy and agricultural innovation to Bursky Public Health, advancing research connecting food systems and health.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Using AI to fight election misinformation works, WashU research finds",
+      "url": "https://source.washu.edu/2026/10/using-ai-to-fight-election-misinformation-works-washu-research-finds/",
+      "date": "2026-10-14",
+      "type": "Politics",
+      "summary_en": "Artificial intelligence could help counter election misinformation at the same speed that false narratives spread, according to new research from WashU and Caltech.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "‘The opportunity to engage’",
+      "url": "https://source.washu.edu/2026/10/the-opportunity-to-engage/",
+      "date": "2026-10-13",
+      "type": "Academics",
+      "summary_en": "WashU Arts & Sciences will host its second annual Teaching Innovation Showcase Oct. 22. In this Q&A, three participating faculty — Michael Olson, B. Duygu Özpolat and Zhiling Zheng — discuss their projects and teaching philosophies.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Wick installed as Robert G. and Maxine W. Scheibe Professor of Mathematics",
+      "url": "https://source.washu.edu/2026/10/wick-installed-as-robert-g-and-maxine-w-scheibe-professor-of-mathematics/",
+      "date": "2026-10-13",
+      "type": "Advancement",
+      "summary_en": "Brett D. Wick, chair of the Department of Mathematics in Arts & Sciences, has been installed as the inaugural Robert G. and Maxine W. Scheibe Professor of Mathematics.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "In the clouds",
+      "url": "https://source.washu.edu/2026/10/in-the-clouds/",
+      "date": "2026-10-12",
+      "type": "Engineering",
+      "summary_en": "Under a new grant from the NSF, a WashU team will use AI and statistics to study the impact of aerosols on marine low clouds. That knowledge can help communities protect health and prepare for extreme weather.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

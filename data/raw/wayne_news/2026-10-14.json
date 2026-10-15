@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-14T20:00:16.068581",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Longtime friend and Georgetown president reflects on Richard Bierschbach's path to Wayne State",
+      "url": "https://today.wayne.edu/news/2026/10/12/longtime-friend-and-georgetown-president-reflects-on-richard-bierschbachs-path-to-wayne-state-70322",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Students evaluated real startups and put their judgement to the test in the 2026 Venture Capital Case Competition",
+      "url": "https://ilitchbusiness.wayne.edu/news/students-evaluated-real-startups-and-put-their-judgement-to-the-test-in-the-2026-venture-capital-case-competition-70326",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

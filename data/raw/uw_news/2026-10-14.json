@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-10-14T20:00:15.826504",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Where an art education can take you",
+      "url": "https://news.wisc.edu/where-an-art-education-can-take-you/",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Following an illustrious career, Professor Emerita Laurie Beth Clark is putting on a massive exhibition to showcase the work and lives of her former graduate students.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "A work party for a Nobel Prize",
+      "url": "https://news.wisc.edu/a-work-party-for-a-nobel-prize/",
+      "date": "October 13, 2026",
+      "type": "News",
+      "summary_en": "After returning to campus, Francis Halzen celebrated the Nobel Prize achievement with his UW–Madison colleagues.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

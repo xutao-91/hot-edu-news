@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Regulating Artificial Intelligence Design to Prevent Youth Mental Health Harms",
+    "url": "https://www.rand.org/pubs/external_publications/EP71389.html",
+    "date": "Oct 14, 2026",
+    "type": "Expert Insights",
+    "summary_en": "This viewpoint examines the mental health risks AI chatbots pose to young people and outlines four regulatory priorities, including safety standards, independent testing, protective defaults, and harm monitoring.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Regulating Artificial Intelligence Design to Prevent Youth Mental Health Harms",
+    "summary_cn": "",
+    "_sort_date": "2026-10-14"
+  },
+  {
+    "title": "Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study",
+    "url": "https://www.rand.org/pubs/external_publications/EP71440.html",
+    "date": "Oct 14, 2026",
+    "type": "Research",
+    "summary_en": "This study examines how frequently AI chatbots provide direct responses to suicide-related prompts across access modes and whether response patterns differ between consumer-facing UI and API access across models and prompt risk levels.",
+    "source": "Rand Corporation",
+    "category": "ai_technology",
+    "title_cn": "Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study",
+    "summary_cn": "",
+    "_sort_date": "2026-10-14"
+  }
+]

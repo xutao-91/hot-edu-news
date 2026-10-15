@@ -1,0 +1,16 @@
+{
+  "source": "Gallup Education",
+  "source_url": "https://news.gallup.com/topic/category-education.aspx",
+  "crawled_at": "2026-10-14T20:00:08.843640",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Teachers Using AI Say It Frees Up Time for What Matters Most",
+      "url": "https://news.gallup.com/poll/715364/teachers-using-say-frees-time-matters-mostost.aspx",
+      "date": "2026-10-14",
+      "summary_en": "Fifty-nine percent of K-12 educators used AI tools last year, and 64% of them say it freed up time for the parts of the job that matter most to them.",
+      "source": "Gallup Education",
+      "category": "education"
+    }
+  ]
+}

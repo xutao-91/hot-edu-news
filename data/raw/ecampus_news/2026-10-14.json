@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-14T20:00:09.128927",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Graduates and employers differ on career preparedness",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/10/14/graduates-and-employers-differ-on-career-preparedness/",
+      "date": "2026-10-14",
+      "type": "Career Readiness",
+      "summary_en": "New data from Cengage’s 2026 Graduate Employability Report finds the connection between education and employment is changing as rising employer expectations redefine what it means to be career-ready.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "How higher ed can fight fraud without collecting more student data",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/10/12/how-higher-ed-can-fight-fraud-without-collecting-more-student-data/",
+      "date": "2026-10-12",
+      "type": "Data Security",
+      "summary_en": "As students settle into the academic year, colleges and universities are managing a growing identity challenge that extends far beyond enrollment.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}
