@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-15T20:00:12.060926",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "WSU leaders selected for MI-ACE mentorship program",
+      "url": "https://provost.wayne.edu/news/wayne-state-leaders-selected-for-michigan-ace-womens-network-mentorship-program-70353",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Dr. Richard Benson II shares his vision for the Detroit Center for Black Studies at WSU",
+      "url": "https://today.wayne.edu/news/2026/10/15/rooted-in-detroit-focused-on-the-future-dr-richard-benson-ii-shares-his-vision-for-the-detroit-center-for-black-studies-at-wsu-70358",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "New handbook helps Michigan courts navigate Assisted Outpatient Treatment process",
+      "url": "https://behaviorhealthjustice.wayne.edu/news/new-handbook-helps-michigan-courts-navigate-assisted-outpatient-treatment-process-70352",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Employer partnerships bring career prep tools to Ilitch School students",
+      "url": "https://economicdevelopment.wayne.edu/news/employer-partnerships-help-bring-innovative-career-prep-tools-to-ilitch-school-students-70341",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Longtime friend and Georgetown president reflects on Richard Bierschbach's path to Wayne State",
+      "url": "https://today.wayne.edu/news/2026/10/12/longtime-friend-and-georgetown-president-reflects-on-richard-bierschbachs-path-to-wayne-state-70322",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Students evaluated real startups and put their judgement to the test in the 2026 Venture Capital Case Competition",
+      "url": "https://ilitchbusiness.wayne.edu/news/students-evaluated-real-startups-and-put-their-judgement-to-the-test-in-the-2026-venture-capital-case-competition-70326",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

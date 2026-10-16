@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-15T20:00:10.448112",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Stump To Receive St. Hyacinth Medal from the Dominican Province of Poland",
+      "url": "https://www.slu.edu/news/2026/october/eleonore-stump-st-hyacinth-medal.php",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Eleonore Stump, Ph.D., the Robert J. Henle, S.J., Professor of Philosophy at Saint Louis University, is set to receive the St. Hyacinth Medal from the Dominican Province of Poland. The recognition is the highest honor given by the Polish Province. Stump will be recognized at a ceremony at noon on Wednesday, Oct. 28, at the Aquinas Institute of Theology in St. Louis.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Lobster, Paladin Named to Women In Leadership Cohort",
+      "url": "https://www.slu.edu/news/2026/october/focus-st-louis-women-leadership.php",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Two members of the Saint Louis University community have been named to the FOCUS St. Louis Women In Leadership. LySyin Lobster, operations coordinator for Habitat for Neighborhood Business (SLU-HNB) in the Richard A. Chaifetz School of Business, and Kelly Paladin, assistant director of communication in the Office of Admission, were two of the 27 women named to the fall 2026 cohort.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

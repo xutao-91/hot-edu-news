@@ -1,0 +1,71 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-10-15T20:00:12.133523",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Celebrating a decade of creativity for 3 Iowa arts buildings",
+      "url": "/news/2026/10/celebrating-decade-creativity-3-iowa-arts-buildings",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "Ten years ago, three University of Iowa arts buildings opened with great fanfare, marking a major milestone in the university’s recovery from the devastating 2008 flood. Together, the buildings represented more than a return to campus; they sparked a new era for the arts at Iowa.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa alumnus turns UI memories into music for Voxman anniversary",
+      "url": "https://clas.uiowa.edu/news/2026/10/clas-alumnus-scott-icenogle-turns-his-iowa-memories-music",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "UI communication studies graduate Scott Icenogle has fond memories of his time at Iowa, from football Saturdays to film projects and food with friends. His musical tribute, Ode to Voxman, will premiere Oct. 29 as part of the Voxman Music Building’s 10th anniversary celebration.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa Pulitzer Prize winner to discuss memoir from the abyss",
+      "url": "https://magazine.foriowa.org/story.php?ed=true&storyid=2668",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "Iowa Writers’ Workshop graduate Yiyun Li won a 2026 Pulitzer Prize for her memoir, Things in Nature Merely Grow, which explores the devastating loss of her two sons to suicide six years apart. Li returns to campus Oct. 23 to discuss her book and her time at Iowa.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "A healthy addition to Tiffin: UI Health Care opens new family medicine clinic",
+      "url": "https://uihc.org/news/ui-health-care-family-medicine-clinic-now-open-tiffin",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "University of Iowa Health Care’s new family medicine clinic in Tiffin is now open and welcoming patients.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "New UI AI Industry Advisory Board helps prepare campus for future of work",
+      "url": "https://ai.uiowa.edu/news/2026/10/new-ai-industry-advisory-board-pairs-ui-industry-leaders-improve-workforce-readiness",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "The new University of Iowa AI Industry Advisory Board connects university leaders with industry experts to help understand how artificial intelligence is reshaping the workplace and prepare students, faculty, and staff to thrive in an AI-enabled workforce.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa alumna wins 2026 Kirkus Prize",
+      "url": "/news/2026/10/iowa-alumna-wins-2026-kirkus-prize",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Author Tayari Jones, who earned a master’s degree in English from the University of Iowa in 1994, has won the 2026 Kirkus Prize for Fiction for her novel Kin.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Using AI in violence prevention should put survivors first, researcher argues",
+      "url": "/news/2026/10/using-ai-violence-prevention-should-put-survivors-first-researcher-argues",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "A University of Iowa researcher wants social service agencies to establish guidelines for how AI is used. In a new study, Aislinn Conrad recommends that agencies keep people involved in decisions, regularly check AI systems for discrimination, and leverage AI to connect vulnerable people with needed resources and services.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

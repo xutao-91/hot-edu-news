@@ -1,0 +1,53 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-10-15T20:00:10.792613",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Innovative, minimally invasive surgery delivers kidney cancer cure for patient",
+      "url": "https://today.uic.edu/innovative-minimally-invasive-surgery-delivers-kidney-cancer-cure-for-patient/",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Kim Thomas shares experience as a UI Health patient.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC steps up at the Chicago Marathon",
+      "url": "https://today.uic.edu/uic-steps-up-at-the-chicago-marathon/",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "UIC students, faculty and alumni ran in the marathon and also cheered and volunteered on the sidelines.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "3 UIC students earn Obama Foundation scholarships",
+      "url": "https://today.uic.edu/3-uic-students-earn-obama-foundation-scholarships/",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Students will plan public service-oriented “summer voyages” in their chosen field.",
+      "source": "UIC Today",
+      "category": "students"
+    },
+    {
+      "title": "Why does long COVID leave some chronically exhausted?",
+      "url": "https://today.uic.edu/uic-researchers-study-why-long-covid-leaves-some-chronically-exhausted/",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "NIH-funded study investigates post-exertional malaise.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC researchers quantify community engagement",
+      "url": "https://today.uic.edu/uic-researchers-quantify-community-engagement/",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Practices like including patients in decision making are critical to research partnerships but not usually measured.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

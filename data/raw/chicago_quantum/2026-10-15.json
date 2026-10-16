@@ -1,0 +1,26 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-15T20:00:06.198650",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
+      "url": "https://www.anl.gov/article/from-spin-wave-to-superconducting-circuit-a-oneway-street-for-quantum-information",
+      "date": "2026-10-13",
+      "summary_en": "A collaboration between Argonne and the University of Illinois Urbana-Champaign builds the first hybrid circuit system between propagating spin waves in magnetic materials and a superconducting circuit.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "“Carpet” growth method yields long-sought 2D quantum material",
+      "url": "https://pme.uchicago.edu/news-events/news/carpet-growth-method-yields-long-sought-2d-quantum-material",
+      "date": "2026-10-12",
+      "summary_en": "A new approach to growing a thin sheet of bismuth telluride let UChicago PME researchers confirm its ability to form a 2D topological insulator at ambient conditions.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

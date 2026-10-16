@@ -1,0 +1,44 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-10-15T20:00:11.190705",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Powering the nuclear comeback: Three universities form consortium to close a critical workforce gap",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0803-purdue-nnac-nuclear-workforce-consortium",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Three powerhouse public research universities — Arizona State University (ASU), Purdue University and the University of Tennessee Knoxville (UTK) — have united to create the New Nuclear Academic Consortium.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Wearable AI device by ECE's Hussain aims to improve epinephrine injections to treat anaphylaxis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1014-purdue-wearable-ai-device-epinephrine-anaphylaxis",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Patent-pending device seeks to administer drug rapidly by monitoring, acting on physiological indicators",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Finding her place among the stars",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1007-my-victory-olivia-descipio-purdue-aerospace-human-spaceflight",
+      "date": "October 13, 2026",
+      "type": "News",
+      "summary_en": "AAE junior Olivia DeScipio went from feeling like an outsider to excelling in her pursuit of a career in human spaceflight and STEM outreach.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "MSE's Strachan named APS fellow for research on materials under extreme conditions",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1012-purdue-strachan-aps-fellow-materials-extreme-conditions",
+      "date": "October 12, 2026",
+      "type": "News",
+      "summary_en": "Alejandro (Ale) Strachan, Reilly Professor of Materials Engineering in Purdue University's School of Materials Engineering, has been named a 2026 Fellow of the American Physical Society (APS) through the Topical Group on Compression of Condensed Matter.",
+      "source": "Purdue College of Engineering",
+      "category": "research"
+    }
+  ]
+}

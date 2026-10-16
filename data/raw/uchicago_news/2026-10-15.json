@@ -1,0 +1,80 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-15T20:00:10.434284",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Mourning in Colombia, delivery routes in Chengdu: UChicagoans recount discoveries abroad",
+      "url": "https://news.uchicago.edu/story/mourning-colombia-delivery-routes-chengdu-uchicagoans-recount-discoveries-abroad",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Dispatches span research on human evolution, gig labor economics and ethnography of state violence",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Russell Tuttle, renowned scholar of human evolution, 1939-2026",
+      "url": "https://news.uchicago.edu/story/russell-tuttle-renowned-scholar-human-evolution-1939-2026",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "Over his six-decade career, UChicago professor championed honest scholarship, diverse perspectives and his students",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago announces recipients of 2026 Academic Communicators Network Excellence Awards",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-recipients-2026-academic-communicators-network-excellence-awards",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago Space Program takes stratospheric science to new heights with NASA",
+      "url": "https://news.uchicago.edu/story/uchicago-space-program-takes-stratospheric-science-new-heights-nasa",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Undergraduate-built experiment collects particles 23 miles above Earth aboard a high-altitude balloon",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Michael Woodford, UChicago alum and former faculty member, shares Nobel Prize",
+      "url": "https://news.uchicago.edu/story/michael-woodford-uchicago-alum-and-former-faculty-member-shares-nobel-prize",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Pioneering macroeconomist, AB’77, created models that helped stabilize fluctuations in our economy",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Communing with the Dead: What They Can Teach the Living",
+      "url": "https://news.uchicago.edu/communing-dead-what-they-can-teach-living",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "Plans advance for new health and science campus in Washington Park",
+      "url": "https://news.uchicago.edu/story/plans-advance-new-health-and-science-campus-washington-park",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "Garfield Boulevard site to support new clinical lab and job training program",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How Do Cuttlefish Hide?",
+      "url": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+      "date": "2026-10-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
