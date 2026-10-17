@@ -1,0 +1,53 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-10-16T20:00:11.437387",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Charles Deering McCormick University Librarian search committee seeks community input",
+      "url": "https://news.northwestern.edu/stories/2026/10/charles-deering-mccormick-university-librarian-search-committee-seeks-community-input",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern launches national search for next Chief Human Resources Officer",
+      "url": "https://news.northwestern.edu/stories/2026/10/northwestern-launches-national-search-for-next-chief-human-resources-officer",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "New memorial honors alumni lost on 9/11",
+      "url": "https://news.northwestern.edu/stories/2026/10/new-memorial-honors-alumni-lost-on-911",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    },
+    {
+      "title": "Northwestern Alumni Association elects new board president, officers and directors",
+      "url": "https://news.northwestern.edu/stories/2026/10/northwestern-alumni-association-elects-new-board-president-officers-and-directors",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Northwestern invests in the future of discovery",
+      "url": "https://news.northwestern.edu/stories/2026/10/northwestern-invests-in-the-future-of-discovery",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-10-16T20:00:13.029946",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "New 4D biofabrication technology holds promise for tissue engineering, wound healing",
+      "url": "https://today.uic.edu/new-4d-biofabrication-technology-holds-promise-for-tissue-engineering-wound-healing/",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "Engineering researchers use kirigami strategies to generate complex shapes that mimic tissue forms found in the human body.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "Innovative, minimally invasive surgery delivers kidney cancer cure for patient",
+      "url": "https://today.uic.edu/innovative-minimally-invasive-surgery-delivers-kidney-cancer-cure-for-patient/",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Kim Thomas shares experience as a UI Health patient.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC steps up at the Chicago Marathon",
+      "url": "https://today.uic.edu/uic-steps-up-at-the-chicago-marathon/",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "UIC students, faculty and alumni ran in the marathon and also cheered and volunteered on the sidelines.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "3 UIC students earn Obama Foundation scholarships",
+      "url": "https://today.uic.edu/3-uic-students-earn-obama-foundation-scholarships/",
+      "date": "2026-10-13",
+      "type": "News",
+      "summary_en": "Students will plan public service-oriented “summer voyages” in their chosen field.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}

@@ -29206,5 +29206,215 @@
     "fetch_time": "2026-10-15T20:00:12.380788",
     "title": "Osteoarthritis therapy study advances with $17 million from ARPA-H",
     "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/10/an-important-moment-for-quantum-biology": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-16T20:00:07.008538",
+    "title": "An important moment for quantum biology",
+    "category": "quantum"
+  },
+  "http://matse.illinois.edu/news/92380": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-16T20:00:07.008538",
+    "title": "UIUC Assistant Professor Chris Anderson named 2026 Packard Fellow",
+    "category": "quantum"
+  },
+  "https://pme.uchicago.edu/news-events/news/quantum-calculations-reveal-how-quantum-defects-lose-energy": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-16T20:00:07.008538",
+    "title": "Quantum calculations reveal how quantum defects lose energy",
+    "category": "quantum"
+  },
+  "https://www.brookings.edu/articles/a-snapshot-of-americas-schools-trends-and-global-comparisons/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-16T20:00:07.469568",
+    "title": "A snapshot of America’s schools: Trends and global comparisons",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/10/16/what-small-models-teach/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-10-16T20:00:07.557456",
+    "title": "What small models teach",
+    "category": "education"
+  },
+  "https://www.csis.org/events/book-event-lifeline-john-donnelly": {
+    "source": "csis",
+    "fetch_time": "2026-10-16T20:00:07.860487",
+    "title": "Book Event: Lifeline by John Donnelly",
+    "category": "general"
+  },
+  "https://www.csis.org/events/how-can-future-ai-center-human-rights": {
+    "source": "csis",
+    "fetch_time": "2026-10-16T20:00:07.860487",
+    "title": "How can the future of AI center human rights?",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/capturing-national-security-benefits-offshore-wind": {
+    "source": "csis",
+    "fetch_time": "2026-10-16T20:00:07.860487",
+    "title": "Capturing National Security Benefits from Offshore Wind",
+    "category": "general"
+  },
+  "https://www.news.iastate.edu/news/jared-benko-named-director-athletics": {
+    "source": "iastate_news",
+    "fetch_time": "2026-10-16T20:00:08.485186",
+    "title": "Jared Benko named director of athletics",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/54184-ray-bradbury-collection-finds-new-homes-at-iu": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-16T20:00:08.727195",
+    "title": "Ray Bradbury collection finds new homes at IU Indianapolis, expanding community access",
+    "category": "general"
+  },
+  "https://news.nd.edu/news/alumni-association-honors-four-outstanding-alumni-at-fall-board-meeting/": {
+    "source": "nd_news",
+    "fetch_time": "2026-10-16T20:00:10.608605",
+    "title": "Alumni Association honors four outstanding alumni at fall board meeting",
+    "category": "general"
+  },
+  "https://news.northwestern.edu/stories/2026/10/charles-deering-mccormick-university-librarian-search-committee-seeks-community-input": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-10-16T20:00:11.522856",
+    "title": "Charles Deering McCormick University Librarian search committee seeks community input",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/faculty-showcase-highlights-lasting-impact-of-msoe-mindset-curriculum-initiative": {
+    "source": "msoe",
+    "fetch_time": "2026-10-16T20:00:11.551993",
+    "title": "Faculty Showcase highlights lasting impact of MSOE Mindset Curriculum Initiative",
+    "category": "semiconductor"
+  },
+  "https://www.mtu.edu/news/2026/10/awardwinning-business-husky-believes-success-is-something-you-pass-along.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-10-16T20:00:11.570884",
+    "title": "Award-winning Business Husky Believes Success Is Something You Pass Along",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/race-and-ethnicity/2026/10/16/how-latino-voters-are-experiencing-the-2026-midterm-elections/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-16T20:00:11.882822",
+    "title": "How Latino Voters Are Experiencing the 2026 Midterm Elections",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-16T20:00:11.882822",
+    "title": "The Gender Gap in AI",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/16/republicans-views-of-some-countries-and-international-organizations-differ-widely-by-age/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-16T20:00:11.882822",
+    "title": "Republicans’ Views of Some Countries and International Organizations Differ Widely by Age",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/global/2026/10/16/how-do-americans-feel-about-g20-countries/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-16T20:00:11.882822",
+    "title": "How Do Americans Feel About G20 Countries?",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/el-centro-and-ku-partner-on-data-driven-statewide-effort-to-build-a-fuller-picture-of-latino-communities-in-kansas": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-16T20:00:12.324641",
+    "title": "El Centro and KU partner on data-driven statewide effort to build a fuller picture of Latino communities in Kansas",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-school-of-music-to-present-annual-vespers-concerts-on-dec-6": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-16T20:00:12.324641",
+    "title": "KU School of Music to present annual Vespers concerts on Dec. 6",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-evolutionary-genetics-researcher-wins-big-12-faculty-of-the-year-award": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-16T20:00:12.324641",
+    "title": "KU evolutionary genetics researcher wins Big 12 Faculty of the Year Award",
+    "category": "ai"
+  },
+  "https://polytechnic.purdue.edu/newsroom/interior-architecture-student-bridges-class-work-real-world-community-impact-indianapolis": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-10-16T20:00:12.473074",
+    "title": "Interior Architecture student bridges class work with real-world community impact in Indianapolis",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/explainer/cosmic-microwave-background-explained": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-16T20:00:13.025453",
+    "title": "The cosmic microwave background, explained",
+    "category": "ai"
+  },
+  "https://today.uic.edu/new-4d-biofabrication-technology-holds-promise-for-tissue-engineering-wound-healing/": {
+    "source": "uic_today",
+    "fetch_time": "2026-10-16T20:00:13.118341",
+    "title": "New 4D biofabrication technology holds promise for tissue engineering, wound healing",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/stem/uni-host-2026-halloween-house-children-and-families": {
+    "source": "uni_news",
+    "fetch_time": "2026-10-16T20:00:13.480354",
+    "title": "UNI to host 2026 “Halloween House” for children and families",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/snyder-finds-her-stride-on-the-water-and-in-the-classroom": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-16T20:00:14.309057",
+    "title": "Snyder finds her stride on the water and in the classroom",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/hix-earns-kudos-award-for-advancing-universitys-research-enterprise": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-16T20:00:14.309057",
+    "title": "Hix earns Kudos Award for advancing university's research enterprise",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/perez-part-of-national-engineering-alliances-leadership-group": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-16T20:00:14.309057",
+    "title": "Pérez part of national engineering alliance’s leadership group",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/achievements-honors-appointments-retirements-and-publications-for-oct-16": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-16T20:00:14.309057",
+    "title": "Achievements | Honors, appointments, retirements and publications for Oct. 16",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/10/washu-expert-supreme-court-case-tests-limits-of-online-privacy/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-16T20:00:14.349889",
+    "title": "Supreme Court case tests limits of online privacy",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/10/private-equity-owns-less-than-4-of-u-s-hospitals-washu-research-finds/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-16T20:00:14.349889",
+    "title": "Private equity owns less than 4% of U.S. hospitals, WashU research finds",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/10/vaccinating-moms-protects-offspring-from-deadly-superbug/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-16T20:00:14.349889",
+    "title": "Vaccinating moms protects offspring from deadly superbug",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-16T20:00:14.410376",
+    "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-16T20:00:14.410376",
+    "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-16T20:00:14.410376",
+    "title": "President Trump Returns to Georgia with a Record of Results",
+    "category": "general"
   }
 }

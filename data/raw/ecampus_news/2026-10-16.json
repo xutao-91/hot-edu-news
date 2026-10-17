@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-16T20:00:07.449837",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "What small models teach",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/10/16/what-small-models-teach/",
+      "date": "2026-10-16",
+      "type": "AI in Education",
+      "summary_en": "While investigating how to responsibly deploy generative AI at Haverford College, I have moved parts of my own AI workflow off commercial cloud platforms onto local hardware—my phone, work laptop, and an older desktop with a used graphics card. What began as an experiment has reshaped how I think about AI.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Graduates and employers differ on career preparedness",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/10/14/graduates-and-employers-differ-on-career-preparedness/",
+      "date": "2026-10-14",
+      "type": "Career Readiness",
+      "summary_en": "New data from Cengage’s 2026 Graduate Employability Report finds the connection between education and employment is changing as rising employer expectations redefine what it means to be career-ready.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

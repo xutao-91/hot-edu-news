@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-10-16T20:00:13.111153",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Department of Homeland Security final rule raises concerns for WashU international students",
+      "url": "https://www.studlife.com/news/2026/10/14/department-of-homeland-security-final-rule-raises-concerns-for-washu-international-students",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "author": "Sara Strassberg",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "WashU kickstarts new AI faculty cluster hiring program",
+      "url": "https://www.studlife.com/news/2026/10/14/washu-kickstarts-new-ai-faculty-cluster-hiring-program",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "author": "Macy Ott",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

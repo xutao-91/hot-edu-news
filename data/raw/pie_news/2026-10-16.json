@@ -1,0 +1,118 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-16T20:00:11.780846",
+  "total_news": 11,
+  "news": [
+    {
+      "title": "Liverpool opens Bengaluru campus with nearly 300 students",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-10-16",
+      "type": "Transnational education",
+      "summary_en": "The University of Liverpool has officially opened its Bengaluru campus, welcoming nearly 300 students and becoming the first Russell Group university to establish a campus in Karnataka.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "University of Manchester plans Bengaluru centre in India push",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "The proposed centre will focus on industry-linked learning and research collaboration, adding to a growing UK presence spanning campuses and partnership hubs.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Ireland’s international education sector risks hitting “social license wall”",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-10-15",
+      "type": "Student experience",
+      "summary_en": "Housing pressures, perceptions of racism and concerns over graduate outcomes risk undermining public support for international students, panellists at the second edition of The PIE Live Ireland have warned.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Firmli plans AI co-pilot for international student recruitment",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-10-15",
+      "type": "Edtech",
+      "summary_en": "The Norwegian company’s planned November launch will bring together student applications and communications to help recruitment teams identify issues requiring attention.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Overseas student commencements fall 5% in Australian higher education",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-15",
+      "type": "Recruitment & agents",
+      "summary_en": "International student commencements at Australian higher education providers fell by almost 5% year-on-year in the first part of 2026, according to new preliminary government data.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "International graduates deliver $1.7tn lifetime boost to host economies",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "International students who graduated in 2024 are projected to contribute USD $1.7 trillion to their host economies over their working lives, according to new global research seeking to put a price on their post-study impact.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "CPT crackdown threatens America’s student appeal",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-14",
+      "type": "Policy",
+      "summary_en": "As internship and work authorisations come under threat in the US, experts warn the Trump administration is upending the American pitch to international students.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Polly Nash"
+    },
+    {
+      "title": "Ireland’s international education challenge is access, not demand",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-14",
+      "type": "Policy",
+      "summary_en": "As visa uncertainty clouds a growing sector, Irish education leaders warn that bureaucracy and inconsistent decisions could weaken the country’s appeal to global students.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Pakistani graduate’s death puts alleged US study fraud in national spotlight",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-13",
+      "type": "Recruitment & agents",
+      "summary_en": "The death of Pakistani graduate Laiba Aijaz has prompted intervention from the country’s Prime Minister amid allegations that her family was defrauded of millions of rupees by a man promising to secure her admission to Harvard University.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "ITECA warns Australian policy is “choking” international education and skills pipeline",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-10-13",
+      "type": "Policy",
+      "summary_en": "Australia’s independent tertiary education sector has accused the government of putting international education and the country’s long-term skills pipeline at risk, as providers grapple with rising costs and tighter policy settings.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "The PIE Live Ireland – live feed",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-10-13",
+      "type": "Events",
+      "summary_en": "Follow along here for live updates from the conference.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    }
+  ]
+}
