@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-10-17T20:00:14.635526",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Powering the nuclear comeback: Three universities form consortium to close a critical workforce gap",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0803-purdue-nnac-nuclear-workforce-consortium",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Three powerhouse public research universities — Arizona State University (ASU), Purdue University and the University of Tennessee Knoxville (UTK) — have united to create the New Nuclear Academic Consortium.",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Wearable AI device by ECE's Hussain aims to improve epinephrine injections to treat anaphylaxis",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1014-purdue-wearable-ai-device-epinephrine-anaphylaxis",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Patent-pending device seeks to administer drug rapidly by monitoring, acting on physiological indicators",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

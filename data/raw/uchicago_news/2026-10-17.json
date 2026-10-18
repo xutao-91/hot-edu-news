@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-17T20:00:14.064463",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "The cosmic microwave background, explained",
+      "url": "https://news.uchicago.edu/explainer/cosmic-microwave-background-explained",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Mourning in Colombia, delivery routes in Chengdu: UChicagoans recount discoveries abroad",
+      "url": "https://news.uchicago.edu/story/mourning-colombia-delivery-routes-chengdu-uchicagoans-recount-discoveries-abroad",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Dispatches span research on human evolution, gig labor economics and ethnography of state violence",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Russell Tuttle, renowned scholar of human evolution, 1939-2026",
+      "url": "https://news.uchicago.edu/story/russell-tuttle-renowned-scholar-human-evolution-1939-2026",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "Over his six-decade career, UChicago professor championed honest scholarship, diverse perspectives and his students",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago announces recipients of 2026 Academic Communicators Network Excellence Awards",
+      "url": "https://news.uchicago.edu/story/uchicago-announces-recipients-2026-academic-communicators-network-excellence-awards",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

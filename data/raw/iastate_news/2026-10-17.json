@@ -1,0 +1,44 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-10-17T20:00:09.504466",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Jared Benko named director of athletics",
+      "url": "https://www.news.iastate.edu/news/jared-benko-named-director-athletics",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "President David Cook has selected Jared Benko as the next director of athletics at Iowa State University. Benko, who has spent the past two years as the\r\nexecutive deputy athletic director at Auburn University, brings more than 20 years of leadership experience in athletics.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Engineers make quality, low-cost carbon fiber from coproducts of paper, energy production",
+      "url": "https://www.news.iastate.edu/news/engineers-make-quality-low-cost-carbon-fiber-coproducts-paper-energy-production",
+      "date": "2026-10-14",
+      "type": "Innovation and Research",
+      "summary_en": "Iowa State researchers are taking their innovations for producing high-performance, high-value biobased carbon fiber from batch production in a lab to commercially relevant continuous production.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "When Wall Street (almost) never sleeps",
+      "url": "https://www.news.iastate.edu/news/when-wall-street-almost-never-sleeps",
+      "date": "2026-10-14",
+      "type": "Innovation and Research",
+      "summary_en": "Wall Street is preparing to stay awake longer. As major exchanges move toward a 23-hours-a-day, five-days-a-week trading schedule, Iowa State finance researcher Bidisha Chakrabarty discusses the shift to expanded trading hours, why it's happening, and the opportunities, risks and realities behind an always-on market.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Borlaug lecture features researcher’s success expanding nutrition sources in Africa",
+      "url": "https://www.news.iastate.edu/news/borlaug-lecture-features-researchers-success-expanding-nutrition-sources-africa",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "Afokpe, a plant breeder and product specialist at East-West Seed International based in Benin, West Africa, discuss her work developing climate-resistant vegetables that have improved food and nutrition security across the region.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

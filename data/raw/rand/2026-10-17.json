@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-17T20:00:13.477150",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Building Resilience Against Artificial Intelligence–Enabled Biological Threats: Conference Proceedings from a Follow-Up RAND and Helena Workshop, May 2026",
+      "url": "https://www.rand.org/pubs/conf_proceedings/CFA4954-2.html",
+      "date": "Oct 15, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors share the results of a second workshop to explore options for implementing mitigations to combat the potential for AI-enabled biology to be misused to cause harm. They identify potential policy levers, operational steps, and trade-offs.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Regulating Artificial Intelligence Design to Prevent Youth Mental Health Harms",
+      "url": "https://www.rand.org/pubs/external_publications/EP71389.html",
+      "date": "Oct 14, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This viewpoint examines the mental health risks AI chatbots pose to young people and outlines four regulatory priorities, including safety standards, independent testing, protective defaults, and harm monitoring.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Suicide-Related Responses From AI Chatbots Through Application Programming Interfaces and Consumer-Facing Apps: Observational Cross-Sectional Comparative Study",
+      "url": "https://www.rand.org/pubs/external_publications/EP71440.html",
+      "date": "Oct 14, 2026",
+      "type": "Research",
+      "summary_en": "This study examines how frequently AI chatbots provide direct responses to suicide-related prompts across access modes and whether response patterns differ between consumer-facing UI and API access across models and prompt risk levels.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

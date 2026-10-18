@@ -29416,5 +29416,17 @@
     "fetch_time": "2026-10-16T20:00:14.410376",
     "title": "President Trump Returns to Georgia with a Record of Results",
     "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/art-swarming": {
+    "source": "csis",
+    "fetch_time": "2026-10-17T20:00:08.383200",
+    "title": "The Art of Swarming",
+    "category": "ai"
+  },
+  "https://www.studlife.com/news/2026/10/17/ordinary-as-can-be-gabe-fleisher-on-the-2026-midterms": {
+    "source": "studlife",
+    "fetch_time": "2026-10-17T20:00:13.973083",
+    "title": "‘Ordinary as can be’: Gabe Fleisher on the 2026 midterms",
+    "category": "general"
   }
 }

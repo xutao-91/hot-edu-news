@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-10-17T20:00:15.367888",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Save the dates: Help shape the future of Wisconsin’s universities",
+      "url": "https://news.wisc.edu/save-the-dates-help-shape-the-future-of-wisconsins-universities/",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Public forums on Oct. 26 and Oct. 27 will feature finalists for president of the Universities of Wisconsin.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Where an art education can take you",
+      "url": "https://news.wisc.edu/where-an-art-education-can-take-you/",
+      "date": "October 14, 2026",
+      "type": "News",
+      "summary_en": "Following an illustrious career, Professor Emerita Laurie Beth Clark is putting on a massive exhibition to showcase the work and lives of her former graduate students.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

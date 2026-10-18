@@ -1,0 +1,130 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-17T20:00:13.092958",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "How Latino Voters Are Experiencing the 2026 Midterm Elections",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/10/16/how-latino-voters-are-experiencing-the-2026-midterm-elections/",
+      "date": "Oct 16, 2026",
+      "type": "report",
+      "categories": [
+        "Election 2026",
+        "Hispanic Latino Voters"
+      ],
+      "summary_en": "Democratic congressional candidates have a sizable advantage among Latino registered voters. And Latino Democratic candidate supporters are more engaged with this year’s election compared with four years ago.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "The Gender Gap in AI",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/16/the-gender-gap-in-ai/",
+      "date": "Oct 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Emerging Technology",
+        "Gender Lgbtq"
+      ],
+      "summary_en": "Men and women now use AI chatbots at similar rates, but men use them more often, while women are more skeptical of AI’s impact on their lives.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Republicans’ Views of Some Countries and International Organizations Differ Widely by Age",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/16/republicans-views-of-some-countries-and-international-organizations-differ-widely-by-age/",
+      "date": "Oct 16, 2026",
+      "type": "short reads",
+      "categories": [
+        "Organizations Alliances Treaties",
+        "Partisanship Issues"
+      ],
+      "summary_en": "Younger Republicans’ views of some countries and international organizations are sometimes closer to Democrats’ views than they are to those of older Republicans.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "How Do Americans Feel About G20 Countries?",
+      "url": "https://www.pewresearch.org/global/2026/10/16/how-do-americans-feel-about-g20-countries/",
+      "date": "Oct 16, 2026",
+      "type": "report",
+      "categories": [
+        "Global Balance Power",
+        "Global Image Of Countries"
+      ],
+      "summary_en": "Ahead of this year’s G20 summit, most Americans rate Australia, Canada, Japan, Italy and other members warmly. Sentiment is coldest toward Russia.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Majority of Americans Expect Democrats to Win Control of House; Public Is Split on Senate",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/15/majority-of-americans-expect-democrats-to-win-control-of-house-public-is-split-on-senate/",
+      "date": "Oct 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Congress",
+        "Election 2026",
+        "Voters Voting"
+      ],
+      "summary_en": "Americans overall see the Democrats as having a better chance to win a House majority than take control of the Senate.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "So Far, the 119th Congress Is Among the Least Productive of the Past 40 Years",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/15/so-far-the-119th-congress-is-among-the-least-productive-of-the-past-40-years/",
+      "date": "Oct 15, 2026",
+      "type": "short reads",
+      "categories": [
+        "Congress",
+        "Politics Policy"
+      ],
+      "summary_en": "The 119th Congress has enacted 121 laws so far, the second fewest of any Congress in the past four decades.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Online Community and Connection in America",
+      "url": "https://www.pewresearch.org/internet/2026/10/14/online-community-and-connection-in-america/",
+      "date": "Oct 14, 2026",
+      "type": "report",
+      "categories": [
+        "Friendships",
+        "Internet Technology",
+        "Politics Online",
+        "Social Media"
+      ],
+      "summary_en": "Nearly four-in-ten U.S. adults are in an online community. These virtual third spaces can take many forms, like Facebook groups, online video games or fandom forums on Reddit.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Many Americans Are Struggling to Afford Basic Necessities",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/14/many-americans-are-struggling-to-afford-basic-necessities/",
+      "date": "Oct 14, 2026",
+      "type": "short reads",
+      "categories": [
+        "Economic Conditions",
+        "Income Wealth Poverty",
+        "Personal Finances"
+      ],
+      "summary_en": "44% of Americans had trouble paying for a basic necessity in the past year, with lower-income adults hit hardest.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans’ Views of Economic Inequality, Its Causes and Who Should Fix It",
+      "url": "https://www.pewresearch.org/social-trends/2026/10/14/americans-views-of-economic-inequality-its-causes-and-who-should-fix-it/",
+      "date": "Oct 14, 2026",
+      "type": "report",
+      "categories": [
+        "Economic Policy",
+        "Economic Systems",
+        "Economy Work"
+      ],
+      "summary_en": "Since 2019, a growing share among those who say there’s too much inequality think the economic system needs to be completely rebuilt to address it.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

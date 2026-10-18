@@ -1,0 +1,26 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-10-17T20:00:11.717942",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Award-winning Business Husky Believes Success Is Something You Pass Along",
+      "url": "https://www.mtu.edu/news/2026/10/awardwinning-business-husky-believes-success-is-something-you-pass-along.html",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "Michigan Tech senior Jim Brisson's work to help students connect with business professionals, industries and the accounting community has earned him the 2026 Campus Influencer of the Year award from the Michigan Association of Certified Public Accountants. He'll be  . . .",
+      "source": "MTU News",
+      "category": "student_life"
+    },
+    {
+      "title": "Michigan Technological University’s APS LABS Partners with Oshkosh Defense to Advance Mobile Energy Generation Capability",
+      "url": "https://www.mtu.edu/news/2026/10/michigan-technological-universitys-aps-labs-partners-with-oshkosh-defense-to-advance-mobile-energy-generation-capability.html",
+      "date": "2026-10-14",
+      "type": "News",
+      "summary_en": "Michigan Technological University’s Advanced Power Systems Research Center, also known as APS LABS, has been tapped by the U.S. Army to expand its cutting-edge work developing expeditionary power generation kits for tactical vehicles.    Through a Defense Innovation Unit other transaction  . . .",
+      "source": "MTU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-10-17T20:00:09.074233",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE, Ultranauts Release Paper on AI’s Ability to Amplify Learning",
+      "url": "https://www.acenet.edu/News-Room/Pages/New-Paper-AI-Amplifying-Learning.aspx",
+      "date": "October 15, 2026",
+      "type": "News",
+      "summary_en": "Leading with Purpose: Artificial Intelligence and the Future of Higher Education​ explores how campuses can meaningfully integrate AI throughout their institution while prioritizing human connection and equity.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

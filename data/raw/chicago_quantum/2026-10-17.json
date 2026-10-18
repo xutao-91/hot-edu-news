@@ -1,0 +1,44 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-17T20:00:07.653147",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "An important moment for quantum biology",
+      "url": "https://news.northwestern.edu/stories/2026/10/an-important-moment-for-quantum-biology",
+      "date": "2026-10-15",
+      "summary_en": "The new field takes center stage as Northwestern co-hosts the Quantum Effects at the Biology and Innovation Interface consortium",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "UIUC Assistant Professor Chris Anderson named 2026 Packard Fellow",
+      "url": "http://matse.illinois.edu/news/92380",
+      "date": "2026-10-15",
+      "summary_en": "The fellowship provides nearly a million dollars in unrestricted funds over five years to advance materials that control light and quantum information.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Quantum calculations reveal how quantum defects lose energy",
+      "url": "https://pme.uchicago.edu/news-events/news/quantum-calculations-reveal-how-quantum-defects-lose-energy",
+      "date": "2026-10-14",
+      "summary_en": "A first-principles framework from UChicago PME researchers sheds light on the utility of spin defects as qubits and could help design materials for energy conversion and storage",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "From spin wave to superconducting circuit: A one-way street for quantum information",
+      "url": "https://www.anl.gov/article/from-spin-wave-to-superconducting-circuit-a-oneway-street-for-quantum-information",
+      "date": "2026-10-13",
+      "summary_en": "A collaboration between Argonne and the University of Illinois Urbana-Champaign builds the first hybrid circuit system between propagating spin waves in magnetic materials and a superconducting circuit.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}
