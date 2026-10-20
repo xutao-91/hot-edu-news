@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-10-18T20:00:09.703201",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Ray Bradbury collection finds new homes at IU Indianapolis, expanding community access",
+      "url": "https://news.iu.edu/live/news/54184-ray-bradbury-collection-finds-new-homes-at-iu",
+      "date": "Oct 16, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "Artists’ book collection provides tactile experience for Herron Art Library students and visitors",
+      "url": "https://news.iu.edu/live/news/53937-artists-book-collection-provides-tactile",
+      "date": "Oct 15, 2026",
+      "type": "Arts and Humanities",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

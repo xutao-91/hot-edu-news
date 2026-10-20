@@ -1,0 +1,35 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-10-19T20:00:14.096064",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "What if family history didn’t dictate genetic screenings?",
+      "url": "https://today.uic.edu/what-if-family-history-didnt-dictate-genetic-screenings/",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "UIC’s Dr. Pam Ganschow believes genetic testing should be accessible for all.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC chancellor elected to National Academy of Medicine",
+      "url": "https://today.uic.edu/uic-chancellor-elected-to-national-academy-of-medicine/",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "Marie Lynn Miranda receives one of the highest honors in health and medicine in the United States.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "New 4D biofabrication technology holds promise for tissue engineering, wound healing",
+      "url": "https://today.uic.edu/new-4d-biofabrication-technology-holds-promise-for-tissue-engineering-wound-healing/",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "Engineering researchers use kirigami strategies to generate complex shapes that mimic tissue forms found in the human body.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

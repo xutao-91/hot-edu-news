@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-18T20:00:14.082824",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UNI to host 2026 “Halloween House” for children and families",
+      "url": "https://insideuni.uni.edu/stem/uni-host-2026-halloween-house-children-and-families",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "University of Northern Iowa students will be performing Halloween-themed science demonstrations and supervising hands-on activities at this family-friendly event.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Premiere reading of UNI’s sesquicentennial poem on Oct. 29",
+      "url": "https://insideuni.uni.edu/campus-community/premiere-reading-unis-sesquicentennial-poem-oct-29",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Over 150 years, many voices have echoed through the campus of the University of Northern Iowa. Now, a series of representative experiences are celebrated in an official UNI sesquicentennial poem, “Voices & Echoes” by Vince Gotera.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

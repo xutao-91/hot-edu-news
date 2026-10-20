@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-18T20:00:15.096521",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WSU leaders selected for MI-ACE mentorship program",
+      "url": "https://provost.wayne.edu/news/wayne-state-leaders-selected-for-michigan-ace-womens-network-mentorship-program-70353",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Dr. Richard Benson II shares his vision for the Detroit Center for Black Studies at WSU",
+      "url": "https://today.wayne.edu/news/2026/10/15/rooted-in-detroit-focused-on-the-future-dr-richard-benson-ii-shares-his-vision-for-the-detroit-center-for-black-studies-at-wsu-70358",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

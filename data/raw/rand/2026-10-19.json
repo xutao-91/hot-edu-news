@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-19T20:00:13.935656",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Incorporating Equity into Decision-Support Models: An Analytical Architecture and Application to Natural Gas Power Plant Retirement in California",
+      "url": "https://www.rand.org/pubs/rgs_dissertations/RGSDA5479-1.html",
+      "date": "Oct 19, 2026",
+      "type": "Research",
+      "summary_en": "This dissertation develops and applies an analytical architecture for integrating equity into quantitative decision-support models.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-18T20:00:12.287076",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Liverpool opens Bengaluru campus with nearly 300 students",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-10-16",
+      "type": "Transnational education",
+      "summary_en": "The University of Liverpool has officially opened its Bengaluru campus, welcoming nearly 300 students and becoming the first Russell Group university to establish a campus in Karnataka.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "University of Manchester plans Bengaluru centre in India push",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "The proposed centre will focus on industry-linked learning and research collaboration, adding to a growing UK presence spanning campuses and partnership hubs.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Ireland’s international education sector risks hitting “social license wall”",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-10-15",
+      "type": "Student experience",
+      "summary_en": "Housing pressures, perceptions of racism and concerns over graduate outcomes risk undermining public support for international students, panellists at the second edition of The PIE Live Ireland have warned.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Firmli plans AI co-pilot for international student recruitment",
+      "url": "https://thepienews.com/category/news/edtech/",
+      "date": "2026-10-15",
+      "type": "Edtech",
+      "summary_en": "The Norwegian company’s planned November launch will bring together student applications and communications to help recruitment teams identify issues requiring attention.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Overseas student commencements fall 5% in Australian higher education",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-15",
+      "type": "Recruitment & agents",
+      "summary_en": "International student commencements at Australian higher education providers fell by almost 5% year-on-year in the first part of 2026, according to new preliminary government data.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "International graduates deliver $1.7tn lifetime boost to host economies",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "International students who graduated in 2024 are projected to contribute USD $1.7 trillion to their host economies over their working lives, according to new global research seeking to put a price on their post-study impact.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    }
+  ]
+}

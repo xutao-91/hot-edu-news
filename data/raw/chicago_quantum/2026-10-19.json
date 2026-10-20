@@ -1,0 +1,26 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-19T20:00:07.583538",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIUC Assistant Professor Chris Anderson named 2026 Packard Fellow",
+      "url": "http://matse.illinois.edu/news/92380",
+      "date": "2026-10-15",
+      "summary_en": "The fellowship provides nearly a million dollars in unrestricted funds over five years to advance materials that control light and quantum information.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "An important moment for quantum biology",
+      "url": "https://news.northwestern.edu/stories/2026/10/an-important-moment-for-quantum-biology",
+      "date": "2026-10-15",
+      "summary_en": "The new field takes center stage as Northwestern co-hosts the Quantum Effects at the Biology and Innovation Interface consortium",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

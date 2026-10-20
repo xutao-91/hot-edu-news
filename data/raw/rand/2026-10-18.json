@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-18T20:00:12.977771",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Building Resilience Against Artificial Intelligence–Enabled Biological Threats: Conference Proceedings from a Follow-Up RAND and Helena Workshop, May 2026",
+      "url": "https://www.rand.org/pubs/conf_proceedings/CFA4954-2.html",
+      "date": "Oct 15, 2026",
+      "type": "Expert Insights",
+      "summary_en": "The authors share the results of a second workshop to explore options for implementing mitigations to combat the potential for AI-enabled biology to be misused to cause harm. They identify potential policy levers, operational steps, and trade-offs.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

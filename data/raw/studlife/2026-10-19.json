@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-10-19T20:00:14.097334",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Q&A: WashU vice provosts on AI spending, student privacy, and what students should still learn themselves",
+      "url": "https://www.studlife.com/news/2026/10/19/qa-washu-vice-provosts-on-ai-spending-student-privacy-and-what-students-should-still-learn-themselves",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "",
+      "author": "Victor Huang",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "‘Ordinary as can be’: Gabe Fleisher on the 2026 midterms",
+      "url": "https://www.studlife.com/news/2026/10/17/ordinary-as-can-be-gabe-fleisher-on-the-2026-midterms",
+      "date": "2026-10-17",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tommy Jaeger",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

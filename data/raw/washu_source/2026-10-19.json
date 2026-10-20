@@ -1,0 +1,44 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-19T20:00:16.028770",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Locusts get a sensory assist from nanomaterials",
+      "url": "https://source.washu.edu/2026/10/locusts-get-a-sensory-assist-from-nanomaterials/",
+      "date": "2026-10-19",
+      "type": "Engineering",
+      "summary_en": "Researchers from WashU McKelvey Engineering have developed a hybrid system that augments organisms including locusts to serve as sample collectors for chemical vapors. The work has implications for homeland security, environmental and industrial monitoring and healthcare.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Sterling Lawrence: ‘It Is What It Is When It Is’",
+      "url": "https://source.washu.edu/2026/10/sterling-lawrence-it-is-what-it-is-when-it-is/",
+      "date": "2026-10-19",
+      "type": "Art & Design",
+      "summary_en": "The Sam Fox School Gallery at Washington University in St. Louis presents “It Is What It Is When It Is,” a solo exhibition of new work from St. Louis-based artist Sterling Lawrence.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Supreme Court case tests limits of online privacy",
+      "url": "https://source.washu.edu/2026/10/washu-expert-supreme-court-case-tests-limits-of-online-privacy/",
+      "date": "2026-10-16",
+      "type": "Law",
+      "summary_en": "A dispute before the U.S. Supreme Court over the Video Privacy Protection Act could have significant implications for surveillance-based advertising and the future of internet privacy, says Neil Richards, a privacy law expert at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Private equity owns less than 4% of U.S. hospitals, WashU research finds",
+      "url": "https://source.washu.edu/2026/10/private-equity-owns-less-than-4-of-u-s-hospitals-washu-research-finds/",
+      "date": "2026-10-16",
+      "type": "Economy",
+      "summary_en": "A new study led by researchers at Olin Business School at Washington University in St. Louis finds private equity only accounts for a small share of the nation’s hospitals, with most investors exiting within five years.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

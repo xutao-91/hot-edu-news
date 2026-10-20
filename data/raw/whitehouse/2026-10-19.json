@@ -1,0 +1,57 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-10-19T20:00:15.644819",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "President Trump Delivers Historic Wins for Kansas Workers, Families, Farmers, and Rural Communities",
+      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-delivers-historic-wins-for-kansas-workers-families-farmers-and-rural-communities/",
+      "date": "October 19, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump Champions New U.S. Women’s Health Initiative",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-champions-new-u-s-womens-health-initiative/",
+      "date": "October 19, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Advancing Women’s Health to Improve Outcomes in All Phases of Life",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "date": "October 19, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Fact Sheet: President Donald J. Trump and First Lady Melania Trump Advance Women’s Health to Improve Outcomes in All Phases of Life",
+      "url": "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-and-first-lady-melania-trump-advance-womens-health-to-improve-outcomes-in-all-phases-of-life/",
+      "date": "October 19, 2026",
+      "category": "Fact Sheets",
+      "source": "The White House"
+    },
+    {
+      "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026/",
+      "date": "October 16, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Trump-Vance Administration Leads Nationwide Coalition in Fighting War on Fraud",
+      "url": "https://www.whitehouse.gov/releases/2026/10/trump-vance-administration-leads-nationwide-coalition-in-fighting-war-on-fraud/",
+      "date": "October 16, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Returns to Georgia with a Record of Results",
+      "url": "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-georgia-with-a-record-of-results/",
+      "date": "October 16, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}

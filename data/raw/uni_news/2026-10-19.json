@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-19T20:00:15.072543",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UNI’s ABSN makes a path for a variety of non-traditional students",
+      "url": "https://insideuni.uni.edu/health/unis-absn-makes-path-variety-non-traditional-students",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "UNI's inaugural cohort of Accelerated Bachelor of Science in Nursing students is a diverse group ranging in age from 20 to 35, all with a common goal of becoming a nurse in just about a year.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "UNI selected for national initiative to strengthen civic dialogue on college campuses",
+      "url": "https://insideuni.uni.edu/campus-community/uni-selected-national-initiative-strengthen-civic-dialogue-college-campuses",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa has been selected as one of just 12 institutions nationwide to participate in a new initiative aimed at strengthening civic dialogue and preparing students to engage thoughtfully across differences.",
+      "source": "UNI News",
+      "category": "community"
+    },
+    {
+      "title": "UNI to host 2026 “Halloween House” for children and families",
+      "url": "https://insideuni.uni.edu/stem/uni-host-2026-halloween-house-children-and-families",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "University of Northern Iowa students will be performing Halloween-themed science demonstrations and supervising hands-on activities at this family-friendly event.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

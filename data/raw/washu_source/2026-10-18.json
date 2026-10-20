@@ -1,0 +1,53 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-18T20:00:14.960221",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Supreme Court case tests limits of online privacy",
+      "url": "https://source.washu.edu/2026/10/washu-expert-supreme-court-case-tests-limits-of-online-privacy/",
+      "date": "2026-10-16",
+      "type": "Law",
+      "summary_en": "A dispute before the U.S. Supreme Court over the Video Privacy Protection Act could have significant implications for surveillance-based advertising and the future of internet privacy, says Neil Richards, a privacy law expert at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Private equity owns less than 4% of U.S. hospitals, WashU research finds",
+      "url": "https://source.washu.edu/2026/10/private-equity-owns-less-than-4-of-u-s-hospitals-washu-research-finds/",
+      "date": "2026-10-16",
+      "type": "Economy",
+      "summary_en": "A new study led by researchers at Olin Business School at Washington University in St. Louis finds private equity only accounts for a small share of the nation’s hospitals, with most investors exiting within five years.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "WashU to adopt Okanagan Charter, strengthening commitment to health, well-being",
+      "url": "https://source.washu.edu/2026/10/washu-to-adopt-okanagan-charter-strengthening-commitment-to-health-well-being/",
+      "date": "2026-10-15",
+      "type": "Students",
+      "summary_en": "WashU will formally adopt the Okanagan Charter, reinforcing the university’s commitment to making health and well-being an integral part of campus culture and decision-making.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "ICC sanctions threaten academic freedom, legal education",
+      "url": "https://source.washu.edu/2026/10/washu-expert-icc-sanctions-threaten-academic-freedom-legal-education/",
+      "date": "2026-10-15",
+      "type": "Law",
+      "summary_en": "The United States imposed sweeping new sanctions against the International Criminal Court (ICC) Oct. 9, following up on sanctions imposed last year. They are threatening academic freedom, limiting opportunities for law students and making it harder for scholars to engage with international legal institutions, WashU law professor Leila Sadat argues.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "In plants, sense of time is connected with sense of danger",
+      "url": "https://source.washu.edu/2026/10/in-plants-sense-of-time-is-connected-with-sense-of-danger/",
+      "date": "2026-10-15",
+      "type": "Biology",
+      "summary_en": "A well-known clock gene helps plants sense salt and respond to it, according to new research from biologist Xuehua Zhong in WashU Arts & Sciences. The findings could help scientists develop more resilient crops.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

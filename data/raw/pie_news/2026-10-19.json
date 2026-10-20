@@ -1,0 +1,58 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-19T20:00:12.855315",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Protecting the metric, damaging the mission",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-10-19",
+      "type": "Voices",
+      "summary_en": "Compliance experts Alex Lock and Mike Strong argue that unintended consequences linked to fulfilling BCA metrics are damaging the UK's overall mission for sustainable recruitment and quality, as set out in the International Education Strategy.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Alex Lock and Mike Strong"
+    },
+    {
+      "title": "Telangana courts international campuses for ‘Future City’",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-10-19",
+      "type": "Transnational education",
+      "summary_en": "Telangana has ordered officials to draw up a policy to attract international universities to its proposed Future City development, although the University of Birmingham and University of London, both named in media reports citing state officials, have yet to confirm campus commitments.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Unis urged to build deeper international partnerships amid geopolitical uncertainty",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-10-19",
+      "type": "Partnerships",
+      "summary_en": "Universities must invest in long-term, mutually beneficial international partnerships to maintain public trust and deliver meaningful research and economic outcomes amid geopolitical uncertainty, higher education leaders have said.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Liverpool opens Bengaluru campus with nearly 300 students",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-10-16",
+      "type": "Transnational education",
+      "summary_en": "The University of Liverpool has officially opened its Bengaluru campus, welcoming nearly 300 students and becoming the first Russell Group university to establish a campus in Karnataka.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "University of Manchester plans Bengaluru centre in India push",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "The proposed centre will focus on industry-linked learning and research collaboration, adding to a growing UK presence spanning campuses and partnership hubs.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    }
+  ]
+}

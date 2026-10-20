@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-18T20:00:13.555182",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The cosmic microwave background, explained",
+      "url": "https://news.uchicago.edu/explainer/cosmic-microwave-background-explained",
+      "date": "2026-10-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Mourning in Colombia, delivery routes in Chengdu: UChicagoans recount discoveries abroad",
+      "url": "https://news.uchicago.edu/story/mourning-colombia-delivery-routes-chengdu-uchicagoans-recount-discoveries-abroad",
+      "date": "2026-10-15",
+      "type": "News",
+      "summary_en": "Dispatches span research on human evolution, gig labor economics and ethnography of state violence",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}
