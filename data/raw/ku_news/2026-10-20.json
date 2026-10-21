@@ -1,0 +1,35 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-20T20:00:14.228382",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "KU researchers will evaluate program aimed at supporting adoptive families",
+      "url": "https://news.ku.edu/news/article/ku-researchers-will-evaluate-program-aimed-at-supporting-adoptive-families",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Researchers in the University of Kansas School of Social Welfare have received a $1.8 million federal grant to evaluate FosterAdopt Connect, a program that supports adoptive parents and children to prevent disruptions or dissolutions of adoptions among families in Kansas and Missouri.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "University of Kansas kicks off week of 2026 Homecoming activities",
+      "url": "https://news.ku.edu/news/article/university-of-kansas-kicks-off-week-of-2026-homecoming-activities",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "The University of Kansas will host its 114th Homecoming, sponsored by Central Bank, Oct. 19-25. The week culminates with the KU football game against Baylor on Oct. 24 at David Booth Kansas Memorial Stadium.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "2026 midterm elections: University of Kansas experts available to comment",
+      "url": "https://news.ku.edu/news/article/2026-midterm-elections-university-of-kansas-experts-available-to-comment",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "From artificial intelligence to tariffs to the administration of elections, KU scholars from a variety of disciplines are available to speak with news media.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

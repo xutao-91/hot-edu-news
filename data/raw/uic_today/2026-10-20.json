@@ -1,0 +1,44 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-10-20T20:00:15.632705",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Cranberry juice may be a boon for oral hygiene",
+      "url": "https://today.uic.edu/from-bog-to-bicuspids-cranberry-juice-may-be-a-boon-for-oral-hygiene/",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Anti-inflammatory compounds in cranberries may be the key.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "In harmony: UIC Choirs build community through music",
+      "url": "https://today.uic.edu/harmony-and-belonging-uic-choirs-build-community-through-music/",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "UIC Choirs welcomes more than 125 music and non-music majors each year.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "What if family history didn’t dictate genetic screenings?",
+      "url": "https://today.uic.edu/what-if-family-history-didnt-dictate-genetic-screenings/",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "UIC’s Dr. Pam Ganschow believes genetic testing should be accessible for all.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "UIC chancellor elected to National Academy of Medicine",
+      "url": "https://today.uic.edu/uic-chancellor-elected-to-national-academy-of-medicine/",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "Marie Lynn Miranda receives one of the highest honors in health and medicine in the United States.",
+      "source": "UIC Today",
+      "category": "general"
+    }
+  ]
+}

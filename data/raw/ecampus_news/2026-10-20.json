@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-20T20:00:09.241001",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Here’s what happens when colleges make the SAT optional",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/19/heres-what-happens-when-colleges-make-the-sat-optional/",
+      "date": "2026-10-19",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Debating the value of the SAT is something of an American pastime. The latest kerfuffle is happening at the University of California, a massive system that no longer considers test scores in college admissions after critics raised concerns that tests limit opportunities for disadvantaged students.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}

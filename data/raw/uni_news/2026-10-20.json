@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-20T20:00:16.298824",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "“Can’t wait to see where you go:” A father’s voicemail anchors new UNI commercial",
+      "url": "https://insideuni.uni.edu/campus-community/cant-wait-see-where-you-go-fathers-voicemail-anchors-new-uni-commercial",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Those words close a father’s voicemail to his college-aged student in the University of Northern Iowa’s new 30-second commercial, which will begin airing soon on Iowa television stations and streaming platforms such as Hulu and YouTube.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI’s ABSN makes a path for a variety of non-traditional students",
+      "url": "https://insideuni.uni.edu/health/unis-absn-makes-path-variety-non-traditional-students",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "UNI's inaugural cohort of Accelerated Bachelor of Science in Nursing students is a diverse group ranging in age from 20 to 35, all with a common goal of becoming a nurse in just about a year.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "UNI selected for national initiative to strengthen civic dialogue on college campuses",
+      "url": "https://insideuni.uni.edu/campus-community/uni-selected-national-initiative-strengthen-civic-dialogue-college-campuses",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "The University of Northern Iowa has been selected as one of just 12 institutions nationwide to participate in a new initiative aimed at strengthening civic dialogue and preparing students to engage thoughtfully across differences.",
+      "source": "UNI News",
+      "category": "community"
+    }
+  ]
+}

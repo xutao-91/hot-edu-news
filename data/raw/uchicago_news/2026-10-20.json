@@ -1,0 +1,35 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-20T20:00:15.559013",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Prof. Matthew Tirrell elected to the National Academy of Medicine",
+      "url": "https://news.uchicago.edu/story/prof-matthew-tirrell-elected-national-academy-medicine",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "In rare honor, pioneering UChicago scientist becomes member of all three National Academies",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Distrust in the media and courts can cause democratic backsliding, UChicago study suggests",
+      "url": "https://news.uchicago.edu/story/distrust-media-and-courts-can-cause-democratic-backsliding-uchicago-study-suggests",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Citizens are less likely to hold politicians accountable when they doubt the intentions of third-party watchdogs",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "New study abroad program takes student across Sydney to observe Australia’s multilayered history",
+      "url": "https://news.uchicago.edu/story/new-study-abroad-program-takes-student-across-sydney-observe-australias-multilayered-history",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "Three-week course explored how relationships among people, land and human health changed as the port city became a global player",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

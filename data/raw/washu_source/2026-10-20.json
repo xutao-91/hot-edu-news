@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-20T20:00:17.088035",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Locusts get a sensory assist from nanomaterials",
+      "url": "https://source.washu.edu/2026/10/locusts-get-a-sensory-assist-from-nanomaterials/",
+      "date": "2026-10-19",
+      "type": "Engineering",
+      "summary_en": "Researchers from WashU McKelvey Engineering have developed a hybrid system that augments organisms including locusts to serve as sample collectors for chemical vapors. The work has implications for homeland security, environmental and industrial monitoring and healthcare.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Sterling Lawrence: ‘It Is What It Is When It Is’",
+      "url": "https://source.washu.edu/2026/10/sterling-lawrence-it-is-what-it-is-when-it-is/",
+      "date": "2026-10-19",
+      "type": "Art & Design",
+      "summary_en": "The Sam Fox School Gallery at Washington University in St. Louis presents “It Is What It Is When It Is,” a solo exhibition of new work from St. Louis-based artist Sterling Lawrence.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-10-20T20:00:16.956798",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Nebraska recognized for campuswide sustainability engagement",
+      "url": "https://news.unl.edu/article/nebraska-recognized-for-campuswide-sustainability-engagement",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Husker Gaming Center to open in Nebraska Union",
+      "url": "https://news.unl.edu/article/husker-gaming-center-to-open-in-nebraska-union",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "10 faculty chosen to participate in Big Ten leadership programs",
+      "url": "https://news.unl.edu/article/10-faculty-chosen-to-participate-in-big-ten-leadership-programs-0",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Spur Ventures strengthens Nebraska’s ag tech ecosystem",
+      "url": "https://news.unl.edu/article/spur-ventures-strengthens-nebraskas-ag-tech-ecosystem",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Smith finds his compositional voice in the Alaskan wilderness",
+      "url": "https://news.unl.edu/article/smith-finds-his-compositional-voice-in-the-alaskan-wilderness",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Campus, Lincoln community asked to roll up their sleeves Oct. 20",
+      "url": "https://news.unl.edu/article/campus-lincoln-community-asked-to-roll-up-their-sleeves-oct-20",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

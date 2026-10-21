@@ -1,0 +1,135 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-20T20:00:13.561271",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Online Communities Rarely Focus on Politics, and Many Say It Should Stay That Way",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/20/online-communities-rarely-focus-on-politics-and-many-say-it-should-stay-that-way/",
+      "date": "Oct 20, 2026",
+      "type": "short reads",
+      "categories": [
+        "Friendships",
+        "Lifestyle Relationships Online",
+        "Online Services",
+        "Politics Online",
+        "Social Media",
+        "Social Relations Tech"
+      ],
+      "summary_en": "Most people in online communities see little to no politics in their go-to space, and 54% say it doesn’t belong there.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "Broad Public Confidence in Elections in the U.S. – but Partisans Differ Over Concerns About Access, Security",
+      "url": "https://www.pewresearch.org/politics/2026/10/20/broad-public-confidence-in-elections-in-the-u-s-but-partisans-differ-over-concerns-about-access-security/",
+      "date": "Oct 20, 2026",
+      "type": "report",
+      "categories": [
+        "Election 2026",
+        "Election System Voting Process",
+        "Us Elections Voters",
+        "Uncategorized",
+        "Voters Voting"
+      ],
+      "summary_en": "Most voters expect well-run 2026 midterms, but Republicans and Democrats differ on noncitizen voting safeguards and whether eligible citizens can vote if they choose to.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "Quiz: What Is Your Civic Personality?",
+      "url": "https://www.pewresearch.org/journalism/quiz/what-is-your-civic-personality/",
+      "date": "Oct 20, 2026",
+      "type": "quiz",
+      "categories": [
+        "Beliefs Practices",
+        "News Habits Media",
+        "Political Civic Engagement"
+      ],
+      "summary_en": "Take our civic personality quiz to find out how your engagement with news, politics, religious and civic activities compares with other U.S. adults.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans’ Use of Internet, Broadband in 2026",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/internet-broadband/",
+      "date": "Oct 19, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Internet Connectivity",
+        "Platforms Services"
+      ],
+      "summary_en": "The internet represents a fundamental shift in how Americans connect with one another, gather information and conduct their day-to-day lives. Explore the patterns, trends and statistics of internet and home broadband adoption in the United States.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Americans’ Use of Social Media in 2026",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/social-media/",
+      "date": "Oct 19, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Social Media"
+      ],
+      "summary_en": "Today YouTube and Facebook are the most-widely used online platforms. Explore the demographic patterns and trends shaping the social media landscape.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Americans’ Use of Mobile Devices in 2026",
+      "url": "https://www.pewresearch.org/internet/fact-sheet/mobile/",
+      "date": "Oct 19, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Mobile"
+      ],
+      "summary_en": "Americans today are increasingly connected to the world of digital information while “on the go” via smartphones. Explore the latest patterns, trends and statistics that have shaped the mobile revolution.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "1 in 5 Americans Regularly Get News on TikTok",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok/",
+      "date": "Oct 19, 2026",
+      "type": "short reads",
+      "categories": [
+        "Social Media",
+        "Social Media News",
+        "Tiktok"
+      ],
+      "summary_en": "Among adults under 30, 39% say they regularly get news from TikTok, up from 9% in 2020.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "News Platform Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/",
+      "date": "Oct 19, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Audio Radio Podcasts",
+        "Digital News Landscape 2",
+        "News Platforms Sources",
+        "Newspapers",
+        "State Of The News Media Project",
+        "Television"
+      ],
+      "summary_en": "How Americans get news continues to evolve as platforms emerge, like AI chatbots and email newsletters. Find out how often they get news from digital devices.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Social Media and News Fact Sheet",
+      "url": "https://www.pewresearch.org/journalism/fact-sheet/social-media-and-news-fact-sheet/",
+      "date": "Oct 19, 2026",
+      "type": "fact sheet",
+      "categories": [
+        "Social Media News"
+      ],
+      "summary_en": "Many Americans use social media for news: About a fifth or more regularly get news on Facebook, YouTube, Instagram and TikTok.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}
