@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-21T20:00:17.214623",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Wayne State University Press hires two new editors",
+      "url": "https://today.wayne.edu/news/2026/10/21/wayne-state-university-press-hires-two-new-editors-70396",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State celebrates investiture of President Richard A. Bierschbach",
+      "url": "https://today.wayne.edu/news/2026/10/19/wayne-state-celebrates-investiture-of-president-richard-a-bierschbach-70387",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Apply early, secure more aid: Wayne State encourages students to complete 2027-28 FAFSA",
+      "url": "https://today.wayne.edu/news/2026/10/19/apply-early-secure-more-aid-wayne-state-encourages-students-to-complete-2027-28-fafsa-70390",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}

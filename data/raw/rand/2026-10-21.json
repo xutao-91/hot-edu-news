@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-21T20:00:15.209414",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Making Medical AI Benchmarks Clinically Interpretable: The Case of Mental Health",
+      "url": "https://www.rand.org/pubs/external_publications/EP71489.html",
+      "date": "Oct 21, 2026",
+      "type": "Expert Insights",
+      "summary_en": "This perspective examines how aggregate scores on medical AI benchmarks like HealthBench can mask variation across clinical domains. It argues for domain-specific reporting, using mental health as a test case.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Difficulty Supporting Student Mental Health Strains Teacher Well-Being: Findings from the 2026 State of the American Teacher Survey",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4404-6.html",
+      "date": "Oct 21, 2026",
+      "type": "Research",
+      "summary_en": "Young people face significant mental health challenges, and teachers are increasingly on the front lines. This report describes how teachers support student mental health and the consequences for teachers’ work environment and well-being.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Incorporating Equity into Decision-Support Models: An Analytical Architecture and Application to Natural Gas Power Plant Retirement in California",
+      "url": "https://www.rand.org/pubs/rgs_dissertations/RGSDA5479-1.html",
+      "date": "Oct 19, 2026",
+      "type": "Research",
+      "summary_en": "This dissertation develops and applies an analytical architecture for integrating equity into quantitative decision-support models.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

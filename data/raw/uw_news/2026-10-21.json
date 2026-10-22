@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-10-21T20:00:16.906436",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The AI effect",
+      "url": "https://lsmagazine.wisc.edu/issues/spring-2026/explorediscover/the-ai-effect/",
+      "date": "October 20, 2026",
+      "type": "News",
+      "summary_en": "Through the Center for Humanistic Inquiry into AI and Uncertainty, researchers in UW's College of Letters & Science are answering the tough AI questions.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Energizing first-time voters",
+      "url": "https://onwisconsin.uwalumni.com/energizing-first-time-voters/",
+      "date": "October 20, 2026",
+      "type": "News",
+      "summary_en": "Students in UW–Madison's School of Human Ecology are helping translate complex election processes into intuitive, approachable experiences.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

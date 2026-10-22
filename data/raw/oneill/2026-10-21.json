@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-10-21T20:00:14.231673",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The Forever Threat: How O'Neill School researchers are tackling the PFAS challenge",
+      "url": "https://oneill.indiana.edu/news/2026-1021-forever-threat-pfas.html",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "So-called \"forever chemicals\" are a growing issue, and the O'Neill School is hard at work understanding and confronting the crisis.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Markarova honored with Distinguished Alumni Award",
+      "url": "https://oneill.indiana.edu/news/2026-1020-markarova-distinguished-alumni.html",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Oksana Markarova, former Ukrainian ambassador to the U.S. and O’Neill alumna, receives the school’s 2026 Distinguished Alumni Award for public service and leadership.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

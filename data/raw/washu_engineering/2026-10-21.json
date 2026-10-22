@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-10-21T20:00:17.259172",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Xu selected for Anthropic AI for Science program",
+      "url": "https://engineering.washu.edu/news/2026/Xu-selected-for-Anthropic-AI-for-Science-program.html",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Ziqi Xu, a doctoral student in Chenyang Lu’s lab, will explore how agentic AI can support reliable clinical decision-making.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Locusts get a sensory assist from nanomaterials",
+      "url": "https://engineering.washu.edu/news/2026/Locusts-get-a-sensory-assist-from-nanomaterials.html",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "Hybrid tool combines advantages of synthetic chemical sensors with insect olfactory power.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-10-21T20:00:13.522053",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Ali Hanks brings passion for science education and radiation outreach to Notre Dame",
+      "url": "https://science.nd.edu/news-and-media/news/ali-hanks-brings-passion-for-science-education-and-radiation-outreach-to-notre-dame/",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "Notre Dame wraps another landmark year for research awards",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dame-landmark-year-research-awards-fiscal-year-2026/",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "Zhong Zheng investigates real-world problems through lens of complex mathematical ideas",
+      "url": "https://science.nd.edu/news-and-media/news/zhong-zheng-investigates-real-world-problems-through-lens-of-complex-mathematical-ideas/",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
+}

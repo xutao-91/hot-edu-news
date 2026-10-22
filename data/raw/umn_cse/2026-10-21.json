@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-10-21T20:00:15.908619",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Research team breaks century-old catalytic speed limit by more than 1,000 times",
+      "url": "https://cse.umn.edu/college/news/research-team-breaks-century-old-catalytic-speed-limit-more-1000-times",
+      "date": "2026-10-20",
+      "type": "Nanotechnology",
+      "summary_en": "A University of Minnesota-led research team funded by the U.S. Department of Energy (DOE) has developed programmable catalysts that accelerate a chemical reaction to more than 1,000 times a century-old theoretical speed limit.",
+      "source": "UMN CSE",
+      "category": "research"
+    }
+  ]
+}
