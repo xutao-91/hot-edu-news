@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-22T20:00:17.794431",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Saint Louis University Hosting Screening of Refugee Student's Film",
+      "url": "https://www.slu.edu/news/2026/october/jwl-film.php",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Saint Louis University will host a screening of a film directed by Koang Simon Thot, a senior undergraduate student and resident of Kakuma refugee camp in Kenya where he pursues his degree remotely. Thot's 15-minute fictional film short, \"Destiny Can Be chosen, Fate Cannot,” will be screened on Thursday Oct. 29.",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "With a $4.1 Million Agreement, Saint Louis University's Geospatial Center Will Train Federal Workforce",
+      "url": "https://www.slu.edu/news/2026/october/geospatial-workforce-agreement.php",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "Saint Louis University's Geospatial Center has been awarded a Blanket Purchase Agreement (BPA) from the federal government's GEOINT Learning Through Academic Program (GLAP) to develop training for the geospatial sciences.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "SLU’s William L. Clay, Sr. Institute of Civic Engagement and Economic Justice to Hold Community Symposium",
+      "url": "https://www.slu.edu/news/2026/october/clay-center-symposium.php",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "Saint Louis University’s William L. Clay Sr. Institute of Civic Engagement and Economic Justice will host a community and civic engagement symposium on Wednesday, Nov. 11.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

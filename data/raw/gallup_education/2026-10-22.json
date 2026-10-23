@@ -1,0 +1,16 @@
+{
+  "source": "Gallup Education",
+  "source_url": "https://news.gallup.com/topic/category-education.aspx",
+  "crawled_at": "2026-10-22T20:00:11.947414",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Employers' Confidence in Higher Education Undaunted by AI",
+      "url": "https://news.gallup.com/poll/715601/employers-confidence-higher-education-undaunted.aspx",
+      "date": "2026-10-19",
+      "summary_en": "Most employers prefer candidates with a degree, and nearly half expect AI to make college degrees more important in the next five years.",
+      "source": "Gallup Education",
+      "category": "education"
+    }
+  ]
+}

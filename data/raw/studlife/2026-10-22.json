@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-10-22T20:00:17.755152",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "The boiling frog effect: WashU’s AAUP chapter launches survey to identify ‘pain points’ for international scholars",
+      "url": "https://www.studlife.com/news/2026/10/22/the-boiling-frog-effect-washus-aaup-chapter-launches-survey-to-identify-pain-points-for-international-scholars",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "author": "Elizabeth Stump",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "Inside WashU’s SpaceX investment and its impact",
+      "url": "https://www.studlife.com/news/2026/10/22/inside-washus-spacex-investment-and-its-impact",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "author": "Asher Darling",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "SU and dining workers’ union pushes back on Ibby’s tipping cap",
+      "url": "https://www.studlife.com/news/2026/10/22/su-and-dining-workers-union-pushes-back-on-ibbys-tipping-cap",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "author": "Sara Strassberg",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Q&A: WashU vice provosts on AI spending, student privacy, and what students should still learn themselves",
+      "url": "https://www.studlife.com/news/2026/10/19/qa-washu-vice-provosts-on-ai-spending-student-privacy-and-what-students-should-still-learn-themselves",
+      "date": "2026-10-19",
+      "type": "News",
+      "summary_en": "",
+      "author": "Victor Huang",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-10-22T20:00:13.530623",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Higher Education Leaders Announce Commitments to Drive Student Success",
+      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Announce-NSSP.aspx",
+      "date": "October 22, 2026",
+      "type": "Press Release",
+      "summary_en": "The National Student Success Project​ addresses practical concerns from students and families about the value of a college degree by spelling out five core commitments that represent an action agenda for American higher education.",
+      "source": "ACE",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Higher Ed Associations Release Survey on Federal Student Loan Changes",
+      "url": "https://www.acenet.edu/News-Room/Pages/New-Survey-Federal-Student-Loan-Changes.aspx",
+      "date": "October 19, 2026",
+      "type": "News",
+      "summary_en": "A new survey captures insights from campus leaders on how the One Big Beautiful Bill's changes to federal student loans are beginning to affect campuses.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
+    {
+      "title": "ACE,  Higher Ed Groups Warn Census Proposal Could Undercount Campus Communities",
+      "url": "https://www.acenet.edu/News-Room/Pages/Census-Proposal-Could-Undercount-Campus-Communities.aspx",
+      "date": "October 19, 2026",
+      "type": "News",
+      "summary_en": "Proposed changes to how the U.S. Census Bureau counts residents and collects demographic information could have significant consequences for colleges and universities.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

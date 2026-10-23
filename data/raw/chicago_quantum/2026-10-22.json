@@ -1,0 +1,35 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-10-22T20:00:10.739984",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Early-career researchers to be honored with 2026 Boeing Quantum Creators Prize",
+      "url": "https://chicagoquantum.org/news/early-career-researchers-be-honored-2026-boeing-quantum-creators-prize",
+      "date": "2026-10-22",
+      "summary_en": "Twelve early-career quantum researchers have been awarded the 2026 Boeing Quantum Creators Prize for work that moves the field of quantum information science and engineering in new directions.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Apply by Nov. 10 for the 2026 Q2B x Chicago Quantum Summit poster session",
+      "url": "https://chicagoquantum.org/news/apply-november-10-2026-q2b-x-chicago-quantum-summit-poster-session",
+      "date": "2026-10-21",
+      "summary_en": "",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Six years of SQMS: asking what limits quantum systems and building the answers",
+      "url": "https://news.fnal.gov/2026/10/six-years-of-sqms-asking-what-limits-quantum-systems-and-building-the-answers/",
+      "date": "2026-10-19",
+      "summary_en": "The founding director provides perspective on the first six years of a DOE National Quantum Information Science Research Center — the Superconducting Quantum Materials and Systems Center, led by Fermi National Accelerator Laboratory.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

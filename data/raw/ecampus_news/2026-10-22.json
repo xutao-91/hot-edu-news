@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-22T20:00:11.151867",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Expect the unexpected: Lessons learned from conducting online survey research",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/21/expect-the-unexpected-lessons-learned-from-conducting-online-survey-research/",
+      "date": "2026-10-21",
+      "type": "Campus Leadership",
+      "summary_en": "Online surveys have become one of the most widely used tools in educational and social science research because they provide access to geographically dispersed populations, reduce data collection costs, and allow researchers to gather substantial amounts of information quickly.",
+      "source": "eCampus News",
+      "category": "edtech"
+    },
+    {
+      "title": "Here’s what happens when colleges make the SAT optional",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/19/heres-what-happens-when-colleges-make-the-sat-optional/",
+      "date": "2026-10-19",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Debating the value of the SAT is something of an American pastime. The latest kerfuffle is happening at the University of California, a massive system that no longer considers test scores in college admissions after critics raised concerns that tests limit opportunities for disadvantaged students.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}
