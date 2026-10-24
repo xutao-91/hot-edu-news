@@ -1,0 +1,35 @@
+{
+  "source": "Mendoza College of Business at Notre Dame",
+  "source_url": "https://mendoza.nd.edu/news/",
+  "crawled_at": "2026-10-23T20:00:11.125268",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Speed networking pairs alumni, students",
+      "url": "https://mendoza.nd.edu/news/speed-networking-pairs-alumni-students/",
+      "date": "October 23, 2026",
+      "type": "News",
+      "summary_en": "Notre Dame held its first Executive Connections, a speed networking event that brought 24 alumni executives to campus to meet MBA and Specialized Master’s students.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "Bestselling author Martha MacCallum to discuss ‘The Book of Valor’",
+      "url": "https://mendoza.nd.edu/news/bestselling-author-martha-maccallum-to-discuss-the-book-of-valor/",
+      "date": "October 23, 2026",
+      "type": "News",
+      "summary_en": "The annual Thomas H. Quinn Speaker Series features author Martha MacCallum and retired U.S. Army Maj. Gen. Patrick Brady.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    },
+    {
+      "title": "Built to Rise",
+      "url": "https://mendoza.nd.edu/news/built-to-rise/",
+      "date": "October 21, 2026",
+      "type": "News",
+      "summary_en": "From Heisman glory to business success — and through devastating loss — John Huarte’s life has been defined by resilience.",
+      "source": "Mendoza College of Business",
+      "category": "general"
+    }
+  ]
+}

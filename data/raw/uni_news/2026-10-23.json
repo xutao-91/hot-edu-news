@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-23T20:00:15.699404",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UNI President Mark Nook to retire at conclusion of current academic year",
+      "url": "https://insideuni.uni.edu/campus-community/uni-president-mark-nook-retire-conclusion-current-academic-year",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Mark Nook will continue to serve until the 12th president of the University of Northern Iowa begins their service.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "“Can’t wait to see where you go:” A father’s voicemail anchors new UNI commercial",
+      "url": "https://insideuni.uni.edu/campus-community/cant-wait-see-where-you-go-fathers-voicemail-anchors-new-uni-commercial",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Those words close a father’s voicemail to his college-aged student in the University of Northern Iowa’s new 30-second commercial, which will begin airing soon on Iowa television stations and streaming platforms such as Hulu and YouTube.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

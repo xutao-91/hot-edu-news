@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-10-23T20:00:17.233328",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Engineers Without Borders holds first Run to Build 5K",
+      "url": "https://engineering.washu.edu/news/2026/Engineers-Without-Borders-holds-first-Run-to-Build-5K.html",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Money raised will support clean water projects in Uganda.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Xu selected for Anthropic AI for Science program",
+      "url": "https://engineering.washu.edu/news/2026/Xu-selected-for-Anthropic-AI-for-Science-program.html",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Ziqi Xu, a doctoral student in Chenyang Lu’s lab, will explore how agentic AI can support reliable clinical decision-making.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

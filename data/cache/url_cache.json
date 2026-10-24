@@ -30448,5 +30448,245 @@
     "fetch_time": "2026-10-22T20:00:20.677509",
     "title": "Wayne State researchers and students bring brain science to life at Ypsilanti District Library",
     "category": "education"
+  },
+  "https://chicagoquantum.org/news/queras-pedro-lopes-has-been-all-around-world-and-couldnt-ignore-pull-quantum-information": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-10-23T20:00:08.025429",
+    "title": "QuEra’s Pedro Lopes has been all around the world, and couldn’t ignore the pull of quantum information",
+    "category": "quantum"
+  },
+  "https://www.csis.org/events/maritime-electrification-future-american-shipbuilding-featuring-ryan-cook-co-founder-cto-arc": {
+    "source": "csis",
+    "fetch_time": "2026-10-23T20:00:08.526355",
+    "title": "Is Maritime Electrification the Future of American Shipbuilding? Featuring Ryan Cook, Co-Founder & CTO of Arc | Betting on America",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/events/crypto-commodities-and-dollar-power-trade": {
+    "source": "csis",
+    "fetch_time": "2026-10-23T20:00:08.526355",
+    "title": "Crypto, Commodities, and Dollar Power | The Trade Off",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/no-front-lines-decision-guide-companies-caught-conflict": {
+    "source": "csis",
+    "fetch_time": "2026-10-23T20:00:08.526355",
+    "title": "No Front Lines: A Decision Guide for Companies Caught in Conflict",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/did-united-states-and-russia-just-agree-collaborate-data-centers": {
+    "source": "csis",
+    "fetch_time": "2026-10-23T20:00:08.526355",
+    "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/ukraine-and-south-koreas-diplomatic-dispute-deepens-state-play": {
+    "source": "csis",
+    "fetch_time": "2026-10-23T20:00:08.526355",
+    "title": "Ukraine and South Korea’s Diplomatic Dispute Deepens | State of Play",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/campus-leadership/2026/10/23/the-most-advantaged-students-attend-the-best-funded-colleges-does-it-have-to-be-this-way/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-10-23T20:00:08.872184",
+    "title": "The most advantaged students attend the best-funded colleges. Does it have to be this way?",
+    "category": "education"
+  },
+  "https://bridgemi.com/talent-education/to-fix-michigan-schools-experts-urge-better-reading-skills-less-politics/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-10-23T20:00:09.147954",
+    "title": "To fix Michigan schools, experts urge better reading skills, less politics",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/appellate-advocacy-action-chicago-kent-hosts-arguments-us-appeals-court": {
+    "source": "iit_news",
+    "fetch_time": "2026-10-23T20:00:09.676010",
+    "title": "Appellate Advocacy in Action: Chicago-Kent Hosts Arguments for U.S. Appeals Court",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-10-23-distinguished-alumni-awards.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-10-23T20:00:10.206839",
+    "title": "Five alumni honored with Distinguished Alumni Award",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/speed-networking-pairs-alumni-students/": {
+    "source": "mendoza",
+    "fetch_time": "2026-10-23T20:00:11.237939",
+    "title": "Speed networking pairs alumni, students",
+    "category": "education"
+  },
+  "https://mendoza.nd.edu/news/bestselling-author-martha-maccallum-to-discuss-the-book-of-valor/": {
+    "source": "mendoza",
+    "fetch_time": "2026-10-23T20:00:11.237939",
+    "title": "Bestselling author Martha MacCallum to discuss ‘The Book of Valor’",
+    "category": "semiconductor"
+  },
+  "https://science.nd.edu/news-and-media/news/integrated-imaging-facility-new-instrument-helios-5-hydra-cx-dualbeam-materials-discovery/": {
+    "source": "nd_science",
+    "fetch_time": "2026-10-23T20:00:12.333083",
+    "title": "New dual-capability instrument to strengthen Integrated Imaging Facility, advance materials discovery at Notre Dame",
+    "category": "general"
+  },
+  "https://news.nd.edu/news/notre-dame-landmark-year-research-awards-fiscal-year-2026/": {
+    "source": "nd_news",
+    "fetch_time": "2026-10-23T20:00:12.354481",
+    "title": "Notre Dame wraps another landmark year for research awards",
+    "category": "general"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/down-the-rabbit-hole-lecture-series-the-liberal-arts-engineering-and-college-in-prison": {
+    "source": "msoe",
+    "fetch_time": "2026-10-23T20:00:13.144251",
+    "title": "Down the Rabbit Hole Lecture Series: The Liberal Arts, Engineering and College-in-Prison",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/364th-basic-training-class-graduates-from-kansas-law-enforcement-training-center": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-23T20:00:13.226438",
+    "title": "364th Basic Training Class graduates from Kansas Law Enforcement Training Center",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/kansas-fire-rescue-training-institute-hosts-first-international-class-since-2015": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-23T20:00:13.226438",
+    "title": "Kansas Fire & Rescue Training Institute hosts first international class since 2015",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-expert-available-to-discuss-decisive-factors-in-israels-oct-27-election": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-23T20:00:13.226438",
+    "title": "KU expert available to discuss decisive factors in Israel’s Oct. 27 election",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-23T20:00:13.810067",
+    "title": "Few Americans Say They Are Asking AI Chatbots for 2026 Election Information",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/23/growing-share-of-americans-say-social-media-is-an-important-news-source-for-them/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-23T20:00:13.810067",
+    "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/10/northwestern-students-are-first-incarcerated-women-to-graduate-from-a-top-10-university": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-10-23T20:00:13.907210",
+    "title": "Northwestern students are first incarcerated women to graduate from a top 10 university",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-1023-wing-freedman-jpie.html": {
+    "source": "oneill",
+    "fetch_time": "2026-10-23T20:00:14.130323",
+    "title": "Wing, Freedman named to editorial team of new APPAM Journal of Policy Implementation and Evaluation",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/psychology-why-we-overpay-used-cars": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-23T20:00:15.163317",
+    "title": "The psychology of why we overpay for used cars",
+    "category": "semiconductor"
+  },
+  "https://insideuni.uni.edu/campus-community/uni-president-mark-nook-retire-conclusion-current-academic-year": {
+    "source": "uni_news",
+    "fetch_time": "2026-10-23T20:00:15.780204",
+    "title": "UNI President Mark Nook to retire at conclusion of current academic year",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/nebraska-entrepreneurship-center-celebrates-40-years-of-turning-ideas-into-action": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "Nebraska Entrepreneurship Center celebrates 40 years of turning ideas into action",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/breathing-to-the-beat-to-evaluate-musics-role-in-emotional-regulation": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "'Breathing to the Beat' to evaluate music's role in emotional regulation",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/combined-campaign-offers-huskers-a-chance-to-give-back": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "Combined Campaign offers Huskers a chance to give back",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/benefits-enrollment-opens-oct-26-for-staff-faculty": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "Benefits enrollment opens Oct. 26 for staff, faculty",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/unique-scholarship-helps-bell-turn-livestock-passion-into-a-future": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "Unique scholarship helps Bell turn livestock passion into a future",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/honors-students-give-back-during-annual-fall-break-service-trip": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "Honors students give back during annual fall break service trip",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/nebraska-social-indicators-survey-reaches-50-year-milestone": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-23T20:00:16.439711",
+    "title": "Nebraska social indicators survey reaches 50-year milestone",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/10/gephardt-institute-volunteers-promote-voting-access/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-23T20:00:16.795953",
+    "title": "Gephardt Institute volunteers promote voting access",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-announces-the-america-first-seafood-strategy-and-seafood-gov/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-23T20:00:16.940416",
+    "title": "Fact Sheet: President Donald J. Trump Announces the America First Seafood Strategy and Seafood.gov",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/10/further-modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset-canadian-discrimination-against-the-commerce-of-the-united-states-with-respect-to-motor-vehicles/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-23T20:00:16.940416",
+    "title": "FURTHER MODIFYING THE SCOPE OF PRODUCTS OF CANADA SUBJECT TO THE ADDITIONAL DUTIES IMPOSED TO OFFSET CANADIAN DISCRIMINATION AGAINST THE COMMERCE OF THE UNITED STATES WITH RESPECT TO MOTOR VEHICLES",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-further-modifies-canadian-products-subject-to-tariffs-under-section-338/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-23T20:00:16.940416",
+    "title": "Fact Sheet: President Donald J. Trump Further Modifies Canadian Products Subject to Tariffs Under Section 338",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-the-sunshine-state-with-major-wins-for-workers-seniors-and-veterans/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-23T20:00:16.940416",
+    "title": "President Trump Returns to the Sunshine State with Major Wins for Workers, Seniors, and Veterans",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-23T20:00:16.940416",
+    "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-the-world-series/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-23T20:00:16.940416",
+    "title": "Presidential Message on the World Series",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/10/23/wayne-state-celebrates-employees-service-and-employee-recognition-week-honors-professor-for-60-years-at-university-70407": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-23T20:00:17.162855",
+    "title": "Wayne State celebrates employees’ service and Employee Recognition Week, honors professor for 60 years at university",
+    "category": "education"
+  },
+  "https://economicdevelopment.wayne.edu/news/detroiters-build-solutions-to-city-challenges-at-the-2026-venture-313-buildathon-showcase-70402": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-23T20:00:17.162855",
+    "title": "Detroiters build solutions to city challenges at the 2026 Venture 313 Buildathon & Showcase",
+    "category": "general"
   }
 }

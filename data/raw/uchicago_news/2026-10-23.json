@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-23T20:00:15.102347",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "The psychology of why we overpay for used cars",
+      "url": "https://news.uchicago.edu/story/psychology-why-we-overpay-used-cars",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Chicago Booth study of the market explores the cost of ‘left-digit bias’ and how consumers are penalized for inattention",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New UChicago-built tools predict how cancer responds to treatment by studying ‘floor plans’ of tumors",
+      "url": "https://news.uchicago.edu/story/new-uchicago-built-tools-predict-how-cancer-responds-treatment-studying-floor-plans-tumors",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Borrowing from the study of complex systems such as flocks of birds, researchers built AI methods to compare the spatial organization of tumors—a step toward personalized cancer treatment",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Arts & Humanities Day returns to reconsider familiar stories and America’s legacy at 250",
+      "url": "https://news.uchicago.edu/story/arts-humanities-day-returns-reconsider-familiar-stories-and-americas-legacy-250",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "Annual celebration spotlights UChicago scholars in conversation with award-winning authors, artists and thinkers",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Prof. Matthew Tirrell elected to the National Academy of Medicine",
+      "url": "https://news.uchicago.edu/story/prof-matthew-tirrell-elected-national-academy-medicine",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "In rare honor, pioneering UChicago scientist becomes member of all three National Academies",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Distrust in the media and courts can cause democratic backsliding, UChicago study suggests",
+      "url": "https://news.uchicago.edu/story/distrust-media-and-courts-can-cause-democratic-backsliding-uchicago-study-suggests",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Citizens are less likely to hold politicians accountable when they doubt the intentions of third-party watchdogs",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

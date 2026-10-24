@@ -1,0 +1,35 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-10-23T20:00:12.246268",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "New dual-capability instrument to strengthen Integrated Imaging Facility, advance materials discovery at Notre Dame",
+      "url": "https://science.nd.edu/news-and-media/news/integrated-imaging-facility-new-instrument-helios-5-hydra-cx-dualbeam-materials-discovery/",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
+    {
+      "title": "Ali Hanks brings passion for science education and radiation outreach to Notre Dame",
+      "url": "https://science.nd.edu/news-and-media/news/ali-hanks-brings-passion-for-science-education-and-radiation-outreach-to-notre-dame/",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "Notre Dame wraps another landmark year for research awards",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dame-landmark-year-research-awards-fiscal-year-2026/",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    }
+  ]
+}

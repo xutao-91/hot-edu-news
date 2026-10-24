@@ -1,0 +1,44 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-10-23T20:00:14.045981",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Wing, Freedman named to editorial team of new APPAM Journal of Policy Implementation and Evaluation",
+      "url": "https://oneill.indiana.edu/news/2026-1023-wing-freedman-jpie.html",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "O’Neill professors Coady Wing and Seth Freedman join the inaugural editorial team of APPAM’s new journal, advancing timely, evidence-based policy research.",
+      "source": "O'Neill School at IU",
+      "category": "public_affairs"
+    },
+    {
+      "title": "Observing Civic Engagement Lab receives $1 million AmeriCorps grant to extend research",
+      "url": "https://oneill.indiana.edu/news/2026-1022-oce-americorps-grant.html",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "O’Neill’s Observing Civic Engagement Lab receives a $1 million AmeriCorps grant to expand research on civic health, community engagement, and local organizations.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "The Forever Threat: How O'Neill School researchers are tackling the PFAS challenge",
+      "url": "https://oneill.indiana.edu/news/2026-1021-forever-threat-pfas.html",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "So-called \"forever chemicals\" are a growing issue, and the O'Neill School is hard at work understanding and confronting the crisis.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Markarova honored with Distinguished Alumni Award",
+      "url": "https://oneill.indiana.edu/news/2026-1020-markarova-distinguished-alumni.html",
+      "date": "2026-10-20",
+      "type": "News",
+      "summary_en": "Oksana Markarova, former Ukrainian ambassador to the U.S. and O’Neill alumna, receives the school’s 2026 Distinguished Alumni Award for public service and leadership.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

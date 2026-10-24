@@ -1,0 +1,26 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-10-23T20:00:09.524678",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "More than a score",
+      "url": "https://www.news.iastate.edu/news/more-score",
+      "date": "2026-10-22",
+      "type": "Innovation and Research",
+      "summary_en": "What if two people with the same childhood trauma score have very different stories and outcomes? New Iowa State research suggests that understanding the specific kinds of adversity people experience, and not just how much, could help transform how schools, clinicians and correctional systems provide support.",
+      "source": "Iowa State News",
+      "category": "general"
+    },
+    {
+      "title": "Iowa State, U.S. Department of Energy extend contract for Ames National Laboratory",
+      "url": "https://www.news.iastate.edu/news/iowa-state-us-department-energy-extend-contract-ames-national-laboratory",
+      "date": "2026-10-20",
+      "type": "Science and Technology",
+      "summary_en": "Iowa State University and the U.S. Department of Energy have extended the management and operating contract for Ames National Laboratory for another five years. Under the contract, the federal government owns the national lab’s facilities, land and major assets. The university manages and operates the national lab and earns a management fee each year.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

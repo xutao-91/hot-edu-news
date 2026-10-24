@@ -1,0 +1,26 @@
+{
+  "source": "Rockhurst University News",
+  "source_url": "https://www.rockhurst.edu/news",
+  "crawled_at": "2026-10-23T20:00:14.945800",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Rockhurst University Welcomes Two New Trustees",
+      "url": "https://www.rockhurst.edu/news/2026-10-22/rockhurst-university-welcomes-two-new-trustees",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Two alumni have been elected to the Rockhurst University Board of Trustees.",
+      "source": "Rockhurst News",
+      "category": "academics"
+    },
+    {
+      "title": "Rockhurst Celebrates Outstanding Retention Rate, Freshman GPA",
+      "url": "https://www.rockhurst.edu/news/2026-10-21/rockhurst-celebrates-outstanding-retention-rate-freshman-gpa",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "As the 2026-27 academic year continues in full swing, data about both new students and those returning is proving the power of the Rockhurst education.",
+      "source": "Rockhurst News",
+      "category": "general"
+    }
+  ]
+}
