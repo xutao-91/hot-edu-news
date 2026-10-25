@@ -1,0 +1,120 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-10-24T20:00:10.469427",
+  "total_news": 14,
+  "news": [
+    {
+      "title": "Proportional to the Mischief: International Law and U.S. Grand Strategy",
+      "url": "https://www.csis.org/events/proportional-mischief-international-law-and-us-grand-strategy",
+      "date": "2026-10-26",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Who Does What in Development After the Aid Cuts?",
+      "url": "https://www.csis.org/events/who-does-what-development-after-aid-cuts",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "New Zealand Votes: What’s at Stake for Foreign and Defense Policy",
+      "url": "https://www.csis.org/events/new-zealand-votes-whats-stake-foreign-and-defense-policy",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Book Event: Lifeline by John Donnelly",
+      "url": "https://www.csis.org/events/book-event-lifeline-john-donnelly",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "No Front Lines: A Decision Guide for Companies Caught in Conflict",
+      "url": "https://www.csis.org/analysis/no-front-lines-decision-guide-companies-caught-conflict",
+      "date": "2026-10-23",
+      "summary_en": "Companies that never considered themselves defense companies are now on the front lines. This report explores how companies can navigate the fog of conflict and mitigate risks, as well as how the U.S. government can assess and reduce the threats they face.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
+      "url": "https://www.csis.org/analysis/did-united-states-and-russia-just-agree-collaborate-data-centers",
+      "date": "2026-10-23",
+      "summary_en": "A joint data center proposed as part of broader negotiations between the United States and Russia poses a substantive threat to U.S. national security. Congress should play a vital role in scrutinizing the idea before it becomes a reality.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Ukraine and South Korea’s Diplomatic Dispute Deepens | State of Play",
+      "url": "https://www.csis.org/analysis/ukraine-and-south-koreas-diplomatic-dispute-deepens-state-play",
+      "date": "2026-10-23",
+      "summary_en": "Victor Cha explains why the diplomatic dispute between South Korea and Ukraine over President Volodymyr Zelensky’s public disclosure that Kyiv had transferred two North Korean prisoners of war to Seoul has deepened, and what both sides may want out of it.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Will AI Concerns Become a New Source of Terrorism?",
+      "url": "https://www.csis.org/analysis/will-ai-concerns-become-new-source-terrorism",
+      "date": "2026-10-22",
+      "summary_en": "What is the risk that fears about AI will motivate terrorist attacks? This analysis examines the record of anti-AI violence so far, how and why new terrorist causes emerge, and what that history suggests for AI-related violence.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Throttling Starlink Is a Disaster for Ukraine and the United States",
+      "url": "https://www.csis.org/analysis/throttling-starlink-disaster-ukraine-and-united-states",
+      "date": "2026-10-22",
+      "summary_en": "In demonstrating its unreliability as a security partner, the United States is eroding allied trust in U.S. defense and technology suppliers and in NATO.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Sustaining South Africa’s Progress in the Next Phase of the HIV Fight",
+      "url": "https://www.csis.org/analysis/sustaining-south-africas-progress-next-phase-hiv-fight",
+      "date": "2026-10-22",
+      "summary_en": "South Africa has 8 million people living with HIV, and the government has introduced lenacapavir, a new HIV prevention drug. Thousands have started on the injections, but questions about future costs and supplies will need to be resolved to ensure the campaign’s success.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Risk to Refugee Return",
+      "url": "https://www.csis.org/analysis/risk-refugee-return",
+      "date": "2026-10-22",
+      "summary_en": "This installment of Charting the Middle East highlights how the scale of unexploded ordnance (UXO) contamination, relative to returning populations, varies across Syria.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The AI Force the United States Needs is a Cyber Force",
+      "url": "https://www.csis.org/analysis/ai-force-united-states-needs-cyber-force",
+      "date": "2026-10-21",
+      "summary_en": "Cyberspace is the only warfighting domain without a dedicated service, and President Trump's calls for an AI Force won't fix that. A Cyber Force will.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Beyond the U.S.-China Binary: The New Landscape of AI Partnerships in the Global South",
+      "url": "https://www.csis.org/analysis/beyond-us-china-binary-new-landscape-ai-partnerships-global-south",
+      "date": "2026-10-21",
+      "summary_en": "Global South countries are gaining new choices in building their AI ecosystems as China, India, and the Gulf States expand their technology offerings, creating new challenges for U.S. leadership.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Preparing U.S. Land Forces to Fight in an Era of Strategic and Technological Disruption",
+      "url": "https://www.csis.org/analysis/preparing-us-land-forces-fight-era-strategic-and-technological-disruption",
+      "date": "2026-10-21",
+      "summary_en": "This working paper considers modernization questions confronting the Army and Marine Corps, assessing force structure, joint enabling roles, recruitment and training, budget constraints, and acquisition priorities.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-24T20:00:22.696316",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Wayne State celebrates employees’ service and Employee Recognition Week, honors professor for 60 years at university",
+      "url": "https://today.wayne.edu/news/2026/10/23/wayne-state-celebrates-employees-service-and-employee-recognition-week-honors-professor-for-60-years-at-university-70407",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Detroiters build solutions to city challenges at the 2026 Venture 313 Buildathon & Showcase",
+      "url": "https://economicdevelopment.wayne.edu/news/detroiters-build-solutions-to-city-challenges-at-the-2026-venture-313-buildathon-showcase-70402",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "WSU students breathe new life into cold cases — and pursue answers for families",
+      "url": "https://today.wayne.edu/news/2026/10/22/wayne-state-students-are-breathing-new-life-into-cold-cases-and-pursuing-answers-for-families-70404",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State researchers and students bring brain science to life at Ypsilanti District Library",
+      "url": "https://research.wayne.edu/news/wayne-state-researchers-and-students-bring-brain-science-to-life-at-ypsilanti-district-library-70401",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "Wayne State University Press hires two new editors",
+      "url": "https://today.wayne.edu/news/2026/10/21/wayne-state-university-press-hires-two-new-editors-70396",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

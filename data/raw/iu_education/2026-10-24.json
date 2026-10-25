@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-10-24T20:00:13.104035",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Five alumni honored with Distinguished Alumni Award",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-10-23-distinguished-alumni-awards.html",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Five alumni of the IU School of Education have been awarded the Distinguished Alumni Award, the highest honor for graduates of the school. The award, founded in 1977, recognizes alumni who have enhanced the reputation of the school by distinguishing themselves in their careers through significant professional and civic contributions to their community, state, and nation.",
+      "source": "IU School of Education",
+      "category": "general"
+    },
+    {
+      "title": "Lester selected for Big Ten Academic Alliance leadership program",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-10-21-lester-selected-for-big-ten-academic-alliance-leadership-program.html",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "Professor Jessica Lester has been selected for the Academic Leadership Program, a prestigious professional development initiative that prepares faculty leaders to navigate and excel in academic administration, with a network of more than 2,400 alumni including many university presidents, provosts, and deans.",
+      "source": "IU School of Education",
+      "category": "education"
+    }
+  ]
+}

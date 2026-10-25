@@ -1,0 +1,71 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-24T20:00:16.375754",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "364th Basic Training Class graduates from Kansas Law Enforcement Training Center",
+      "url": "https://news.ku.edu/news/article/364th-basic-training-class-graduates-from-kansas-law-enforcement-training-center",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Community members and law enforcement personnel filled Integrity Hall at the Kansas Law Enforcement Training Center on Oct. 23 to watch 21 students graduate and become the newest members of the law enforcement community.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Kansas Fire & Rescue Training Institute hosts first international class since 2015",
+      "url": "https://news.ku.edu/news/article/kansas-fire-rescue-training-institute-hosts-first-international-class-since-2015",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Earlier this month, Kansas Fire & Rescue Training Institute hosted its first international class in a decade as four Taiwanese firefighters came to Lawrence and Salina for the 80-hour Structural Collapse Awareness Operations Technician Certification, training alongside Kansas firefighters and task force members to gain accreditation for Taiwan’s USAR program.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU expert available to discuss decisive factors in Israel’s Oct. 27 election",
+      "url": "https://news.ku.edu/news/article/ku-expert-available-to-discuss-decisive-factors-in-israels-oct-27-election",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Rami Zeedan, associate professor of Israel studies, is available to speak with journalists before and after the election about these factors and their implications for the next government. Zeedan is available for interviews in English, Arabic or Hebrew.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Military aircraft to fly over campus Friday morning in advance of Oct. 24 football game",
+      "url": "https://news.ku.edu/news/article/military-aircraft-to-fly-over-campus-friday-morning-in-advance-of-oct-24-football-game",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "U.S. military aircraft will fly over the Lawrence campus Friday, Oct. 23, in advance of the Oct. 24 football game between the University of Kansas and Baylor University.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Libraries name 2026 Shulenburger Award recipients, honor contributions to open scholarship",
+      "url": "https://news.ku.edu/news/article/ku-libraries-name-2026-shulenburger-award-recipients-honor-contributions-to-open-scholarship",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Michael Vitevitch and Emily Casey, two University of Kansas faculty members whose work expands access to scholarship through public engagement, open publishing and research resources, have been named recipients of the 2026 Shulenburger Award for Innovation and Advocacy in Scholarly Communication by KU Libraries.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Alumni to celebrate 2026 Fred Ellsworth Medallion, Homecoming Award honorees",
+      "url": "https://news.ku.edu/news/article/ku-alumni-to-celebrate-2026-fred-ellsworth-medallion-homecoming-award-honorees",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "The University of Kansas will announce the recipients of the 2026 Fred Ellsworth Medallion and the 2026 Homecoming Awards at the Oct. 24 football game. The honorees include alumni, volunteers, students and faculty recognized for their leadership, service and commitment to KU.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "‘The Emperor of the Moon: A Farce’ showcases physical comedy, shares messages of love, longing, trickery",
+      "url": "https://news.ku.edu/news/article/the-emperor-of-the-moon-a-farce-showcases-physical-comedy-shares-messages-of-love-longing-trickery",
+      "date": "2026-10-21",
+      "type": "News",
+      "summary_en": "This fall the University Theatre is staging a sci-fi rom-com by Aphra Behn, a 17th century writer whose success inspired a future generation of women authors. Performance, direction and design work by both undergraduate and graduate students shine in “The Emperor of the Moon: A Farce,” which has been brought forward in time to the 1950s.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

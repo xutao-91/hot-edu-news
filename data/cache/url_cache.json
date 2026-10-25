@@ -30688,5 +30688,23 @@
     "fetch_time": "2026-10-23T20:00:17.162855",
     "title": "Detroiters build solutions to city challenges at the 2026 Venture 313 Buildathon & Showcase",
     "category": "general"
+  },
+  "https://www.csis.org/events/who-does-what-development-after-aid-cuts": {
+    "source": "csis",
+    "fetch_time": "2026-10-24T20:00:10.550311",
+    "title": "Who Does What in Development After the Aid Cuts?",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/new-zealand-votes-whats-stake-foreign-and-defense-policy": {
+    "source": "csis",
+    "fetch_time": "2026-10-24T20:00:10.550311",
+    "title": "New Zealand Votes: What’s at Stake for Foreign and Defense Policy",
+    "category": "semiconductor"
+  },
+  "https://www.studlife.com/news/2026/10/23/some-washu-faculty-raise-concerns-over-classroom-assignments": {
+    "source": "studlife",
+    "fetch_time": "2026-10-24T20:00:20.427969",
+    "title": "WashU faculty raise concerns over classroom assignments",
+    "category": "ai"
   }
 }

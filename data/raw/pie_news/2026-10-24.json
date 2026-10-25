@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-24T20:00:18.343871",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Three signals shaping Australian international education ahead of AIEC 2026",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "From slowing student growth and tighter visa settings to the rise of transnational education, Australia's international education sector is entering a new phase. Ahead of AIEC 2026, The PIE looks at five shifts likely to shape conversations on the ground.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-10-23",
+      "type": "Data",
+      "summary_en": "International student recruitment at UK universities has taken another hit, with CAS issuance down almost a quarter year-on-year and visa refusals climbing sharply, new Enroly data suggests.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Refugee student route aims to bring 40 students to UK universities in 2027",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-10-22",
+      "type": "Immigration",
+      "summary_en": "A new safe and legal route for refugee students is aiming to bring 40 students to UK universities for September 2027, with around 15 institutions expected to take part in the first cohort.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Efekta expands Rwanda ELT program, training over 90k teachers",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "AI-powered language learning platform Efekta has scaled up its one-year English language proficiency program in Rwanda to reach over 90,000 teachers.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "New study signals rethink of overseas education among India’s Gen Z",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-10-22",
+      "type": "Study Abroad",
+      "summary_en": "Cost and visa concerns are tempering overseas ambitions, an Emeritus survey finds, as international programs in India appeal to students weighing where and how to pursue a global education.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Myanmar students flock to Germany, Thailand, Malaysia for visa, finance reasons",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-10-21",
+      "type": "Study Abroad",
+      "summary_en": "Germany, Thailand and Malaysia are attracting students from Myanmar as political instability complicates international study plans.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "New Zealand to help more schools recruit international students",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-10-21",
+      "type": "K-12",
+      "summary_en": "New Zealand is investing up to NZ$2.5 million in a new support service designed to help more schools recruit, enrol and retain international students from 2027, as the government pushes ahead with ambitious international education growth targets.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    }
+  ]
+}
