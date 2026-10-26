@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-25T20:00:20.024113",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "The psychology of why we overpay for used cars",
+      "url": "https://news.uchicago.edu/story/psychology-why-we-overpay-used-cars",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Chicago Booth study of the market explores the cost of ‘left-digit bias’ and how consumers are penalized for inattention",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New UChicago-built tools predict how cancer responds to treatment by studying ‘floor plans’ of tumors",
+      "url": "https://news.uchicago.edu/story/new-uchicago-built-tools-predict-how-cancer-responds-treatment-studying-floor-plans-tumors",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Borrowing from the study of complex systems such as flocks of birds, researchers built AI methods to compare the spatial organization of tumors—a step toward personalized cancer treatment",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

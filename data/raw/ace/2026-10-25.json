@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-10-25T20:00:13.986219",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Higher Education Leaders Announce Commitments to Drive Student Success",
+      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Leaders-Announce-NSSP.aspx",
+      "date": "October 22, 2026",
+      "type": "Press Release",
+      "summary_en": "The National Student Success Project​ addresses practical concerns from students and families about the value of a college degree by spelling out five core commitments that represent an action agenda for American higher education.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

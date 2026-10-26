@@ -1,0 +1,35 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-10-25T20:00:20.007956",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UI’s Catlett among American Academy of Arts & Sciences legacy honorees",
+      "url": "https://www.amacad.org/person/elizabeth-catlett",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "The American Academy of Arts & Sciences has named Elizabeth Catlett to its 2026 class of legacy honorees, which recognizes people whose accomplishments were overlooked or undervalued due to their race, ethnicity, gender, or sexual orientation. Catlett, a sculptor and printmaker, was one of the first three students to receive an MFA from Iowa in 1940 and the first African American woman to earn the",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Celebrating 50 years of treating nonfiction as an art at Iowa",
+      "url": "https://stories.uiowa.edu/50-years-treating-nonfiction-as-art",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "While nonfiction writing may seem straightforward — writing rooted in fact — the UI Nonfiction Writing Program prides itself on interpreting the genre as broadly as possible and encouraging students to experiment and explore. Marking its 50th anniversary at a moment of strength, the program finds itself with a new director, faculty that reflect a breadth of writing, and notable alumni.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI begins development of 2027-32 Strategic Plan",
+      "url": "https://strategicplan.uiowa.edu/news/2026/10/ui-begins-development-next-strategic-plan",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "The University of Iowa has begun the next phase of developing its 2027–32 Strategic Plan, building on progress made through the current plan and input gathered from the university community. Several teams will begin meeting to propose priorities related to the university’s core missions of teaching, research, and service. Stay updated and learn how you can provide feedback.",
+      "source": "UIowa Now",
+      "category": "advancement"
+    }
+  ]
+}

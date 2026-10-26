@@ -1,0 +1,64 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-25T20:00:17.348283",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Few Americans Say They Are Asking AI Chatbots for 2026 Election Information",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/",
+      "date": "Oct 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Election 2026",
+        "Election News 2",
+        "Political Issues"
+      ],
+      "summary_en": "Among the 8% of U.S. adults using chatbots for this purpose, most have sought information about candidates or issues in the elections.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/23/growing-share-of-americans-say-social-media-is-an-important-news-source-for-them/",
+      "date": "Oct 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Social Media",
+        "Social Media News"
+      ],
+      "summary_en": "A majority of U.S. adults (58%) now say social media is an important way for them to keep up with the news.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Women, Work and Caregiving Through the Arc of Family Life",
+      "url": "https://www.pewresearch.org/social-trends/2026/10/22/women-work-and-caregiving-through-the-arc-of-family-life/",
+      "date": "Oct 22, 2026",
+      "type": "feature",
+      "categories": [
+        "Family Caregiving",
+        "Uncategorized"
+      ],
+      "summary_en": "Gender, work and caregiving are often woven together in family life in the United States. Most parents with children under 18 are employed. And as the population ages, a growing share of Americans are caring for an older parent. In fact, many U.S. adults are sandwiched in between roles, supporting both children and parents. When […]",
+      "source": "Pew Research Center",
+      "category": "workforce"
+    },
+    {
+      "title": "Men Are Experiencing More Job Growth Than Women in AI-Exposed Occupations",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/22/men-are-experiencing-more-job-growth-than-women-in-ai-exposed-occupations/",
+      "date": "Oct 22, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Business Workplace",
+        "Economics Work Gender",
+        "Gender Work"
+      ],
+      "summary_en": "Men’s employment grew faster than women’s in occupations most exposed to AI, a gap driven largely by workers without a bachelor’s degree.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

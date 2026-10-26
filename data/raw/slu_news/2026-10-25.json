@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-25T20:00:19.986209",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Saint Louis University Hosting Screening of Refugee Student's Film",
+      "url": "https://www.slu.edu/news/2026/october/jwl-film.php",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "Saint Louis University will host a screening of a film directed by Koang Simon Thot, a senior undergraduate student and resident of Kakuma refugee camp in Kenya where he pursues his degree remotely. Thot's 15-minute fictional film short, \"Destiny Can Be chosen, Fate Cannot,” will be screened on Thursday Oct. 29.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

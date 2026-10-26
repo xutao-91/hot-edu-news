@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-25T20:00:21.853112",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Gephardt Institute volunteers promote voting access",
+      "url": "https://source.washu.edu/2026/10/gephardt-institute-volunteers-promote-voting-access/",
+      "date": "2026-10-23",
+      "type": "Politics",
+      "summary_en": "Early voting has started in Missouri, and the general election is Nov. 3. Until then, members of the Voter Champions Network and WashU Votes, both initiatives of the Gephardt Institute for Civic and Community Engagement, remain hard at work connecting students, faculty and staff to voter information.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Board grants faculty tenure, promotions",
+      "url": "https://source.washu.edu/2026/10/board-grants-faculty-tenure-promotions/",
+      "date": "2026-10-22",
+      "type": "Appointments & Promotions",
+      "summary_en": "At the Washington University in St. Louis Board of Trustees meeting Sept. 25, several faculty members in Arts & Sciences and at WashU Medicine were promoted or granted tenure, effective that day.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

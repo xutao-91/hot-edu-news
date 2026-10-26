@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-10-25T20:00:19.891401",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "WashU faculty raise concerns over classroom assignments",
+      "url": "https://www.studlife.com/news/2026/10/23/some-washu-faculty-raise-concerns-over-classroom-assignments",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "",
+      "author": "Nathaniel Dick",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "The boiling frog effect: WashU’s AAUP chapter launches survey to identify ‘pain points’ for international scholars",
+      "url": "https://www.studlife.com/news/2026/10/22/the-boiling-frog-effect-washus-aaup-chapter-launches-survey-to-identify-pain-points-for-international-scholars",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "author": "Elizabeth Stump",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "Inside WashU’s SpaceX investment and its impact",
+      "url": "https://www.studlife.com/news/2026/10/22/inside-washus-spacex-investment-and-its-impact",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "author": "Asher Darling",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "SU and dining workers’ union pushes back on Ibby’s tipping cap",
+      "url": "https://www.studlife.com/news/2026/10/22/su-and-dining-workers-union-pushes-back-on-ibbys-tipping-cap",
+      "date": "2026-10-22",
+      "type": "News",
+      "summary_en": "",
+      "author": "Sara Strassberg",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

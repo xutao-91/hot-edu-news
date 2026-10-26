@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-25T20:00:20.160430",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Biosecurity in the AI Era",
+      "url": "https://www.rand.org/pubs/podcasts/policy-minded/2026/biosecurity-in-the-ai-era.html",
+      "date": "Oct 22, 2026",
+      "type": "Podcast",
+      "summary_en": "RAND's Steph Guerra breaks down a layered defense strategy to mitigate the risks of AI-enabled bioweapons while preserving open science.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

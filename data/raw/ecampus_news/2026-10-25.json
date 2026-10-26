@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-25T20:00:12.099535",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The most advantaged students attend the best-funded colleges. Does it have to be this way?",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/23/the-most-advantaged-students-attend-the-best-funded-colleges-does-it-have-to-be-this-way/",
+      "date": "2026-10-23",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "The prevailing philosophy of American higher education is simple enough: The best-funded universities ought to be reserved for the best-qualified students, who are largely from advantaged backgrounds.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}
