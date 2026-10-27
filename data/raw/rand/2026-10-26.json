@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-26T20:00:17.742523",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "U.S.-Japan Alliance Conference: The U.S.-Japan Alliance Today and Beyond",
+      "url": "https://www.rand.org/pubs/conf_proceedings/CFA2070-8.html",
+      "date": "Oct 26, 2026",
+      "type": "Expert Insights",
+      "summary_en": "To better understand the state of the U.S.-Japan alliance, RAND convened a conference at the JAPAN HOUSE Los Angeles in February 2026. These proceedings contain a conference overview and a short assessment of the main themes raised by participants.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

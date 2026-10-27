@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-26T20:00:09.999911",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "College was the default answer, but the data says it’s time to ask better questions",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/26/college-was-the-default-answer-but-the-data-says-its-time-to-ask-better-questions/",
+      "date": "2026-10-26",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "Over more than 25 years working in education and edtech, I’ve heard countless questions and concerns about education and career decisions. I’ve also watched the options available to students and workers change considerably.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "The most advantaged students attend the best-funded colleges. Does it have to be this way?",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/23/the-most-advantaged-students-attend-the-best-funded-colleges-does-it-have-to-be-this-way/",
+      "date": "2026-10-23",
+      "type": "Recruitment & Enrollment",
+      "summary_en": "The prevailing philosophy of American higher education is simple enough: The best-funded universities ought to be reserved for the best-qualified students, who are largely from advantaged backgrounds.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-26T20:00:18.031278",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How shoes change our bones—and what that tells us about the evolution of walking",
+      "url": "https://news.uchicago.edu/story/how-shoes-change-our-bones-and-what-tells-us-about-evolution-walking",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "UChicago study comparing ankles from barefoot and shoe-wearing populations gives researchers better understanding of how our fossil ancestors got around",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The psychology of why we overpay for used cars",
+      "url": "https://news.uchicago.edu/story/psychology-why-we-overpay-used-cars",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Chicago Booth study of the market explores the cost of ‘left-digit bias’ and how consumers are penalized for inattention",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-10-26T20:00:19.716489",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Neutrinos, Bucky and a brass section",
+      "url": "https://news.wisc.edu/neutrinos-bucky-and-a-brass-section/",
+      "date": "October 26, 2026",
+      "type": "News",
+      "summary_en": "Thousands honored UW–Madison physics professor Francis Halzen, the university's newest Nobel laureate, at Memorial Union on Oct. 23.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison policies address nepotism and consensual relationships in the workplace",
+      "url": "https://news.wisc.edu/uw-madison-policies-address-nepotism-and-consensual-relationships-in-the-workplace/",
+      "date": "October 26, 2026",
+      "type": "News",
+      "summary_en": "These policies are in place to ensure fairness and transparency in our workplace.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

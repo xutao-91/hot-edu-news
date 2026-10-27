@@ -1,0 +1,73 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-26T20:00:15.600278",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Americans’ Views of ICE Grow More Negative",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/26/americans-views-of-ice-grow-more-negative/",
+      "date": "Oct 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Federal Government",
+        "Immigration Migration",
+        "Political Issues"
+      ],
+      "summary_en": "A majority of Americans (56%) now say they have an unfavorable opinion of Immigration and Customs Enforcement.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "How Americans View Federal Agencies",
+      "url": "https://www.pewresearch.org/fact-sheet/how-americans-view-federal-agencies/",
+      "date": "Oct 26, 2026",
+      "type": "fact sheet",
+      "categories": [],
+      "summary_en": "Americans view eight of 12 federal agencies we asked about more favorably than unfavorably. The National Park Service, National Weather Service and U.S. Postal Service are viewed especially positively.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "Why Is Election Day on a Tuesday in the U.S., and How Many Other Countries Have Weekday Elections?",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/26/why-is-election-day-on-a-tuesday-in-the-us-and-how-many-other-countries-have-weekday-elections/",
+      "date": "Oct 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Government",
+        "Us Elections Voters"
+      ],
+      "summary_en": "The U.S. is one of 28 democratic countries that routinely holds national elections on non-holiday weekdays.",
+      "source": "Pew Research Center",
+      "category": "politics"
+    },
+    {
+      "title": "Few Americans Say They Are Asking AI Chatbots for 2026 Election Information",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/23/few-americans-say-they-are-asking-ai-chatbots-for-2026-election-information/",
+      "date": "Oct 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Artificial Intelligence",
+        "Election 2026",
+        "Election News 2",
+        "Political Issues"
+      ],
+      "summary_en": "Among the 8% of U.S. adults using chatbots for this purpose, most have sought information about candidates or issues in the elections.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Growing Share of Americans Say Social Media Is an Important News Source for Them",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/23/growing-share-of-americans-say-social-media-is-an-important-news-source-for-them/",
+      "date": "Oct 23, 2026",
+      "type": "short reads",
+      "categories": [
+        "Social Media",
+        "Social Media News"
+      ],
+      "summary_en": "A majority of U.S. adults (58%) now say social media is an important way for them to keep up with the news.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    }
+  ]
+}

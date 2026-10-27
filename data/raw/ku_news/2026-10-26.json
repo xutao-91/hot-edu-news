@@ -1,0 +1,80 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-26T20:00:16.171259",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Technology executive to lead KU assessment technology center with national reach",
+      "url": "https://news.ku.edu/news/article/technology-executive-to-lead-ku-assessment-technology-center-with-national-reach",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Scott McLewin joins Assessment & Technology Solutions (ATS) at the University of Kansas after more than a decade in leadership roles for a financial technology company, most recently as chief technology officer.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU students honor speech-language-hearing lecturer with 2026 HOPE Award",
+      "url": "https://news.ku.edu/news/article/ku-students-honor-speech-language-hearing-lecturer-with-2026-hope-award",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "At the Oct. 24 Homecoming football game, Courtney Summers received the award, which remains the only honor given to faculty through the Student Alumni and Endowment Board.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Connected by nanotech: KU researcher leads $4 million, multistate NSF grant to decode diseases",
+      "url": "https://news.ku.edu/news/article/connected-by-nanotech-ku-researcher-leads-4-million-multistate-nsf-grant-to-decode-diseases",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Foundation Distinguished Professor Steve Soper is leading a team of researchers who are developing nanotechnology that can identify diseases and health anomalies by analyzing the structure of proteins involved in the disease down to the individual amino acid level. This approach could change how doctors detect, monitor and treat complex diseases, such as the many forms of cancer.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Students lead community-minded service projects through KU Trailblazers Program",
+      "url": "https://news.ku.edu/news/article/ku-students-lead-community-minded-service-projects-through-trailblazers-program",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Eighteen Jayhawks are leading service projects in partnership with community and campus partners as part of the Center for Service Learning's Trailblazers Mini-Grant program. Throughout the academic year, students connect monthly for cohort training and group problem-solving.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Researchers land grant to test effectiveness, sustainability of fitness program for individuals with disabilities",
+      "url": "https://news.ku.edu/news/article/researchers-land-grant-to-test-effectiveness-sustainability-of-fitness-program-for-individuals-with-disabilities",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Researchers in the Life Span Institute at the University of Kansas will evaluate a community fitness program that has been adapted for individuals with mobility disabilities. The program will set up a randomized control trial to see if Functional Fitness is more effective at long-term use, improving mobility, strength and other factors.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "364th Basic Training Class graduates from Kansas Law Enforcement Training Center",
+      "url": "https://news.ku.edu/news/article/364th-basic-training-class-graduates-from-kansas-law-enforcement-training-center",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Community members and law enforcement personnel filled Integrity Hall at the Kansas Law Enforcement Training Center on Oct. 23 to watch 21 students graduate and become the newest members of the law enforcement community.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Kansas Fire & Rescue Training Institute hosts first international class since 2015",
+      "url": "https://news.ku.edu/news/article/kansas-fire-rescue-training-institute-hosts-first-international-class-since-2015",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Earlier this month, Kansas Fire & Rescue Training Institute hosted its first international class in a decade as four Taiwanese firefighters came to Lawrence and Salina for the 80-hour Structural Collapse Awareness Operations Technician Certification, training alongside Kansas firefighters and task force members to gain accreditation for Taiwan’s USAR program.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU expert available to discuss decisive factors in Israel’s Oct. 27 election",
+      "url": "https://news.ku.edu/news/article/ku-expert-available-to-discuss-decisive-factors-in-israels-oct-27-election",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "Rami Zeedan, associate professor of Israel studies, is available to speak with journalists before and after the election about these factors and their implications for the next government. Zeedan is available for interviews in English, Arabic or Hebrew.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

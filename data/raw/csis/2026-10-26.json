@@ -1,0 +1,80 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-10-26T20:00:10.116148",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Proportional to the Mischief: International Law and U.S. Grand Strategy",
+      "url": "https://www.csis.org/events/proportional-mischief-international-law-and-us-grand-strategy",
+      "date": "2026-10-26",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Who Does What in Development After the Aid Cuts?",
+      "url": "https://www.csis.org/events/who-does-what-development-after-aid-cuts",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Impossible State Live Podcast: Bridge to Beijing? Kim Jong-un Crosses the Yalu",
+      "url": "https://www.csis.org/events/impossible-state-live-podcast-bridge-beijing-kim-jong-un-crosses-yalu",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Book Event: Lifeline by John Donnelly",
+      "url": "https://www.csis.org/events/book-event-lifeline-john-donnelly",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "New Zealand’s Two-Track China Policy",
+      "url": "https://www.csis.org/index%2ephp/analysis/new-zealands-two-track-china-policy",
+      "date": "2026-10-26",
+      "summary_en": "New Zealand is hardening its stance toward China as security concerns mount, but deep economic dependence on Beijing limits how far Wellington can realign with its Western partners.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The FCC Covered List: National Security, Economic Policy, and Technology Supply Chains",
+      "url": "https://www.csis.org/index%2ephp/analysis/fcc-covered-list-national-security-economic-policy-and-technology-supply-chains",
+      "date": "2026-10-26",
+      "summary_en": "The FCC’s Covered List has expanded beyond specific high-risk suppliers to restrict entire categories of foreign-produced technology. What does this shift mean for U.S. national security, domestic businesses, and global technology supply chains?",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "No Front Lines: A Decision Guide for Companies Caught in Conflict",
+      "url": "https://www.csis.org/analysis/no-front-lines-decision-guide-companies-caught-conflict",
+      "date": "2026-10-23",
+      "summary_en": "Companies that never considered themselves defense companies are now on the front lines. This report explores how companies can navigate the fog of conflict and mitigate risks, as well as how the U.S. government can assess and reduce the threats they face.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Did the United States and Russia Just Agree to Collaborate on Data Centers?",
+      "url": "https://www.csis.org/analysis/did-united-states-and-russia-just-agree-collaborate-data-centers",
+      "date": "2026-10-23",
+      "summary_en": "A joint data center proposed as part of broader negotiations between the United States and Russia poses a substantive threat to U.S. national security. Congress should play a vital role in scrutinizing the idea before it becomes a reality.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Ukraine and South Korea’s Diplomatic Dispute Deepens | State of Play",
+      "url": "https://www.csis.org/index%2ephp/analysis/ukraine-and-south-koreas-diplomatic-dispute-deepens-state-play",
+      "date": "2026-10-23",
+      "summary_en": "Victor Cha explains why the diplomatic dispute between South Korea and Ukraine over President Volodymyr Zelensky’s public disclosure that Kyiv had transferred two North Korean prisoners of war to Seoul has deepened, and what both sides may want out of it.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

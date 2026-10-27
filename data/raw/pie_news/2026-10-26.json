@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-10-26T20:00:15.850153",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Too big to brake: why Bangladesh and Pakistan escaped the visa brake, and what comes next",
+      "url": "https://thepienews.com/category/analysis/",
+      "date": "2026-10-26",
+      "type": "Analysis",
+      "summary_en": "A High Court judgment shows that several key sending countries had a near miss in being included in the UK Home Office's study visa breaks. With fresh compliance requirements looming, universities have been left to manage the largest markets themselves – but could fresh changes be on the horizon? Spencer Withrington investigates.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Spencer Withrington"
+    },
+    {
+      "title": "Grads face career readiness “disconnect” as skills take centre stage",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-10-26",
+      "type": "Student experience",
+      "summary_en": "Stakeholders are warning that AI and other technologies are creating a skills \"disconnect\" in the job market, with today's graduates expected to enter the workforce with the same skill levels as someone who has already gained several years of work experience.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Australian universities back new benchmark for education agents",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-10-26",
+      "type": "Recruitment & agents",
+      "summary_en": "Six major Australian education providers have joined a new initiative aiming to put student feedback at the heart of how education agents are evaluated and provide stronger evidence of their contribution to international education.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Proposed new OPT fee would decimate the international talent pipeline",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-10-26",
+      "type": "Voices",
+      "summary_en": "Zuzana Čeplá Wootson, deputy director of federal policy at the Presidents’ Alliance on Higher Education and Immigration, argues that proposed OPT fees would harm students, employers and US competitiveness.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Zuzana Čeplá Wootson"
+    },
+    {
+      "title": "Three signals shaping Australian international education ahead of AIEC 2026",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "From slowing student growth and tighter visa settings to the rise of transnational education, Australia's international education sector is entering a new phase. Ahead of AIEC 2026, The PIE looks at the shifts likely to shape conversations on the ground.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Enroly: UK CAS issuance falls 24% as visa refusals jump 44%",
+      "url": "https://thepienews.com/category/news/data/",
+      "date": "2026-10-23",
+      "type": "Data",
+      "summary_en": "International student recruitment at UK universities has taken another hit, with CAS issuance down almost a quarter year-on-year and visa refusals climbing sharply, new Enroly data suggests.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-26T20:00:19.814637",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Wayne State celebrates employees’ service and Employee Recognition Week, honors professor for 60 years at university",
+      "url": "https://today.wayne.edu/news/2026/10/23/wayne-state-celebrates-employees-service-and-employee-recognition-week-honors-professor-for-60-years-at-university-70407",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Youth Justice Action Month recognizes continued efforts to strengthen juvenile justice in Michigan",
+      "url": "https://behaviorhealthjustice.wayne.edu/news/youth-justice-action-month-recognizes-continued-efforts-to-strengthen-juvenile-justice-in-michigan-70411",
+      "date": "2026-10-23",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}
