@@ -1,0 +1,35 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-10-27T20:00:12.103802",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU lands partnership with international semiconductor powerhouse imec",
+      "url": "https://news.iu.edu/live/news/54261-iu-lands-partnership-with-international",
+      "date": "Oct 27, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "School of Dentistry will expand children’s care in rural Indiana with $2 million grant",
+      "url": "https://dentistry.iu.edu/about/news-events/school-news/rural-grant-2026.html",
+      "date": "Oct 26, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU, local, state public safety agencies coordinate ahead of IU Homecoming weekend",
+      "url": "https://news.iu.edu/live/news/54249-iu-local-state-public-safety-agencies-coordinate",
+      "date": "Oct 26, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    }
+  ]
+}

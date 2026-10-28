@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-10-27T20:00:11.670949",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Illinois Tech Athletics Digest: Vathulya’s Big Game Sparks Women’s Soccer",
+      "url": "https://www.iit.edu/news/illinois-tech-athletics-digest-vathulyas-big-game-sparks-womens-soccer",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "Each week, the Illinois Tech Athletics Digest will look back at the week that was in Scarlet Hawks athletics and provide a brief glimpse at what is up next. Up First October 28: Men’s Soccer at...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Nobel Prize in Physics Opens New Window into the Universe",
+      "url": "https://www.iit.edu/news/nobel-prize-physics-opens-new-window-universe",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "For centuries, astronomers have studied light from distant stars and galaxies to understand how the cosmos works. Some of the universe’s most energetic events, however, leave clues that light alone...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

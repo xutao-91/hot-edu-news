@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-27T20:00:18.238769",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Towards an Australian Circular Economy for Solar Photovoltaic Technologies",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4495-1.html",
+      "date": "Oct 27, 2026",
+      "type": "Research",
+      "summary_en": "By 2035, more than 1 million tonnes of solar panels will be decommissioned, presenting Australia with an urgent reuse and recycling challenge. This report maps pathways to a circular photovoltaic economy through policy, technology and market reform.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Towards an Australian Circular Economy for Solar Photovoltaic Technologies: A Policy Brief for Government, Industry and Research Stakeholders",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4495-1.html",
+      "date": "Oct 27, 2026",
+      "type": "Research Summary",
+      "summary_en": "Australia’s solar panel installation boom will generate a wave of waste—and the window to address it is closing. This brief summarizes the problem, outlines five pathways to a circular economy and offers three priority recommendations for government.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "U.S.-Japan Alliance Conference: The U.S.-Japan Alliance Today and Beyond",
+      "url": "https://www.rand.org/pubs/conf_proceedings/CFA2070-8.html",
+      "date": "Oct 26, 2026",
+      "type": "Expert Insights",
+      "summary_en": "To better understand the state of the U.S.-Japan alliance, RAND convened a conference at the JAPAN HOUSE Los Angeles in February 2026. These proceedings contain a conference overview and a short assessment of the main themes raised by participants.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

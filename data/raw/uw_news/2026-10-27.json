@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-10-27T20:00:19.923900",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Ever-green Morgridge Hall",
+      "url": "https://onwisconsin.uwalumni.com/ever-green-morgridge-hall/",
+      "date": "October 27, 2026",
+      "type": "News",
+      "summary_en": "The new home of the College of Computing & Artificial Intelligence is the most sustainable building on the UW–Madison campus.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Neutrinos, Bucky and a brass section",
+      "url": "https://news.wisc.edu/neutrinos-bucky-and-a-brass-section/",
+      "date": "October 26, 2026",
+      "type": "News",
+      "summary_en": "Thousands honored UW–Madison physics professor Francis Halzen, the university's newest Nobel laureate, at Memorial Union on Oct. 23.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison policies address nepotism and consensual relationships in the workplace",
+      "url": "https://news.wisc.edu/uw-madison-policies-address-nepotism-and-consensual-relationships-in-the-workplace/",
+      "date": "October 26, 2026",
+      "type": "News",
+      "summary_en": "These policies are in place to ensure fairness and transparency in our workplace.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

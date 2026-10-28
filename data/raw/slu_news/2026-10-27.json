@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-27T20:00:17.573663",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Pershing Fellowship Puts SLU Students on Path to Nonprofit Leadership",
+      "url": "https://www.slu.edu/news/2026/october/pershing-fellowship-students-path-to-nonprofit-leadership.php",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "SLU students who become Pershing Fellows are immersed in the St. Louis nonprofit community with paid internships and professional development.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

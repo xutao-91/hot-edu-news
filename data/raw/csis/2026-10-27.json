@@ -1,0 +1,72 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-10-27T20:00:14.290841",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "Who Does What in Development After the Aid Cuts?",
+      "url": "https://www.csis.org/events/who-does-what-development-after-aid-cuts",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Impossible State Live Podcast: Bridge to Beijing? Kim Jong-un Crosses the Yalu",
+      "url": "https://www.csis.org/events/impossible-state-live-podcast-bridge-beijing-kim-jong-un-crosses-yalu",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "New Zealand Votes: What’s at Stake for Foreign and Defense Policy",
+      "url": "https://www.csis.org/index%2ephp/events/new-zealand-votes-whats-stake-foreign-and-defense-policy",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Book Event: Lifeline by John Donnelly",
+      "url": "https://www.csis.org/events/book-event-lifeline-john-donnelly",
+      "date": "2026-10-27",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Business Support for Human Rights Defenders in an Era of Government Retrenchment",
+      "url": "https://www.csis.org/analysis/business-support-human-rights-defenders-era-government-retrenchment",
+      "date": "2026-10-27",
+      "summary_en": "Human rights defenders are vital partners for businesses operating around the globe. Civic space and the business operating environment are fundamentally intertwined. Businesses should, can, and have supported HRDs in their important work, and such support is more needed than ever.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Ant and the Grasshopper—Revised Version",
+      "url": "https://www.csis.org/index%2ephp/analysis/ant-and-grasshopper-revised-version",
+      "date": "2026-10-27",
+      "summary_en": "In this week’s column, Bill Reinsch discusses the administration’s challenges in implementing some elements of its trade policies.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "New Zealand’s Two-Track China Policy",
+      "url": "https://www.csis.org/analysis/new-zealands-two-track-china-policy",
+      "date": "2026-10-26",
+      "summary_en": "New Zealand is hardening its stance toward China as security concerns mount, but deep economic dependence on Beijing limits how far Wellington can realign with its Western partners.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The FCC Covered List: National Security, Economic Policy, and Technology Supply Chains",
+      "url": "https://www.csis.org/index%2Ephp/analysis/fcc-covered-list-national-security-economic-policy-and-technology-supply-chains",
+      "date": "2026-10-26",
+      "summary_en": "The FCC’s Covered List has expanded beyond specific high-risk suppliers to restrict entire categories of foreign-produced technology. What does this shift mean for U.S. national security, domestic businesses, and global technology supply chains?",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}
