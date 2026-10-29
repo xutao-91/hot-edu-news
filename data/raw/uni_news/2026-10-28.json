@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-28T20:00:20.847499",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "How the ‘Return to UNI’ Program Helped Jess Betts Finish What She Started",
+      "url": "https://insideuni.uni.edu/campus-community/how-return-uni-program-helped-jess-betts-finish-what-she-started",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "A short summary displayed on listings of news on InsideUNI and on the InsideUNI homepage if promoted to top of the front page.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI sets students up for success as physical therapists",
+      "url": "https://insideuni.uni.edu/health/uni-sets-students-success-physical-therapists",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "Leadership opportunities, supportive faculty members and undergraduate research are helping University of Northern Iowa seniors Alyssa Niemeier and Derek Hoerner prepare for careers dedicated to helping patients.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "Making harvest more efficient with geographic information science",
+      "url": "https://insideuni.uni.edu/stem/making-harvest-more-efficient-geographic-information-science",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "University of Northern Iowa senior Kyler Frerichs' hands-on internship with a local farm group has led to a full-time geographic information science job upon graduation.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

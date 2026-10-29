@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-28T20:00:20.460936",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "So you had a near-death experience. Now what?",
+      "url": "https://news.uchicago.edu/story/so-you-had-near-death-experience-now-what",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "In new UChicago Divinity course, students read accounts of the briefly deceased through the lens of anthropology and Islamic thought",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "The way Earth’s ‘thermostat’ works may have changed during Pangea era, UChicago scientists suggest",
+      "url": "https://news.uchicago.edu/story/way-earths-thermostat-works-may-have-changed-during-pangea-era-uchicago-scientists-suggest",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Supercontinent could have affected how Earth maintained stable temperatures",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Arts & Humanities Day: Old Stories, New Questions",
+      "url": "https://news.uchicago.edu/arts-humanities-day-old-stories-new-questions",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "How shoes change our bones—and what that tells us about the evolution of walking",
+      "url": "https://news.uchicago.edu/story/how-shoes-change-our-bones-and-what-tells-us-about-evolution-walking",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "UChicago study comparing ankles from barefoot and shoe-wearing populations gives researchers better understanding of how our fossil ancestors got around",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

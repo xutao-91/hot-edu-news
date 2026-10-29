@@ -1,0 +1,98 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-10-28T20:00:18.837707",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Study finds Amazon rainforest now releases more carbon than it absorbs",
+      "url": "https://news.ku.edu/news/article/study-finds-amazon-rainforest-now-releases-more-carbon-than-it-absorbs",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "A new study in Nature by an international team of researchers, including from the University of Kansas, shows the hotter, drier Amazon is a net source of global carbon emissions.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU Alumni announces student honorees of 2026 Homecoming awards",
+      "url": "https://news.ku.edu/news/article/ku-alumni-announces-student-honorees-of-2026-homecoming-awards",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "The 114th University of Kansas Homecoming, sponsored by Central Bank, concluded with a win against Baylor University on Oct. 24. Thirteen Jayhawks were honored with 2026 Homecoming Awards, shining a spotlight on the alumni, students and faculty who embody the very best of Jayhawk pride and tradition.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Jayhawks win 2nd place at Rocky Mountain Debating Championship Tournament",
+      "url": "https://news.ku.edu/news/article/jayhawks-win-2nd-place-at-rocky-mountain-debating-championship-tournament",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "The University of Kansas debate team of Michael Redlich, Kansas City, Missouri, and Jack Turec, Olathe, took second place at a British Parliamentary debate tournament Oct. 24-25 co-hosted by the University of Denver and Metropolitan State University-Denver.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU social work degree programs earn Council on Social Work Education reaccreditation",
+      "url": "https://news.ku.edu/news/article/ku-social-work-degree-programs-earn-council-on-social-work-education-reaccreditation",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "The Bachelor of Social Work (BSW) and Master of Social Work (MSW) programs are fully accredited by the Council on Social Work Education (CSWE) for another eight years, through the 2033-2034 academic year.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Symposium to explore tribal sovereignty, climate change and children’s health",
+      "url": "https://news.ku.edu/news/article/symposium-to-explore-tribal-sovereignty-climate-change-and-childrens-health",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "American Indian law scholars and advocates will gather Nov. 12-13 in Lawrence to discuss “Sovereignty: Good Medicine for Healthy Nations & Healthy People.” Hosted by the University of Kansas School of Law and Haskell Indian Nations University, the symposium will explore the critical relationship of public policy and law with the environmental degradation that accompanies global climate change.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Technology executive to lead KU assessment technology center with national reach",
+      "url": "https://news.ku.edu/news/article/technology-executive-to-lead-ku-assessment-technology-center-with-national-reach",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Scott McLewin joins Assessment & Technology Solutions (ATS) at the University of Kansas after more than a decade in leadership roles for a financial technology company, most recently as chief technology officer.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU students honor speech-language-hearing lecturer with 2026 HOPE Award",
+      "url": "https://news.ku.edu/news/article/ku-students-honor-speech-language-hearing-lecturer-with-2026-hope-award",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "At the Oct. 24 Homecoming football game, Courtney Summers received the award, which remains the only honor given to faculty through the Student Alumni and Endowment Board.",
+      "source": "KU News",
+      "category": "academic"
+    },
+    {
+      "title": "Connected by nanotech: KU researcher leads $4 million, multistate NSF grant to decode diseases",
+      "url": "https://news.ku.edu/news/article/connected-by-nanotech-ku-researcher-leads-4-million-multistate-nsf-grant-to-decode-diseases",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Foundation Distinguished Professor Steve Soper is leading a team of researchers who are developing nanotechnology that can identify diseases and health anomalies by analyzing the structure of proteins involved in the disease down to the individual amino acid level. This approach could change how doctors detect, monitor and treat complex diseases, such as the many forms of cancer.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Students lead community-minded service projects through KU Trailblazers Program",
+      "url": "https://news.ku.edu/news/article/ku-students-lead-community-minded-service-projects-through-trailblazers-program",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Eighteen Jayhawks are leading service projects in partnership with community and campus partners as part of the Center for Service Learning's Trailblazers Mini-Grant program. Throughout the academic year, students connect monthly for cohort training and group problem-solving.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "Researchers land grant to test effectiveness, sustainability of fitness program for individuals with disabilities",
+      "url": "https://news.ku.edu/news/article/researchers-land-grant-to-test-effectiveness-sustainability-of-fitness-program-for-individuals-with-disabilities",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "Researchers in the Life Span Institute at the University of Kansas will evaluate a community fitness program that has been adapted for individuals with mobility disabilities. The program will set up a randomized control trial to see if Functional Fitness is more effective at long-term use, improving mobility, strength and other factors.",
+      "source": "KU News",
+      "category": "research"
+    }
+  ]
+}

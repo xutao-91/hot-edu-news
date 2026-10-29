@@ -1,0 +1,53 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-10-28T20:00:15.631402",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "IU lands partnership with international semiconductor powerhouse imec",
+      "url": "https://news.iu.edu/live/news/54261-iu-lands-partnership-with-international",
+      "date": "Oct 27, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "School of Dentistry will expand children’s care in rural Indiana with $2 million grant",
+      "url": "https://dentistry.iu.edu/about/news-events/school-news/rural-grant-2026.html",
+      "date": "Oct 26, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU, local, state public safety agencies coordinate ahead of IU Homecoming weekend",
+      "url": "https://news.iu.edu/live/news/54249-iu-local-state-public-safety-agencies-coordinate",
+      "date": "Oct 26, 2026",
+      "type": "Campus Life",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "New state historical marker honors two IU astronomy alumni",
+      "url": "https://news.iu.edu/college/live/news/54235-indiana-honors-college-of-arts-and-sciences-alumni",
+      "date": "Oct 28, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU student and cancer survivor recognized during IU football game",
+      "url": "https://cancer.iu.edu/about/news/stories/2026-10-09-never-daunted-darley.html",
+      "date": "Oct 28, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

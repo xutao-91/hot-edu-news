@@ -31228,5 +31228,311 @@
     "fetch_time": "2026-10-27T20:00:20.227887",
     "title": "Chakrabarty named 2026 AAAR Fellow",
     "category": "semiconductor"
+  },
+  "https://www.augie.edu/news/2026/augustana-inducts-seven-members-2026-honorary-alumni-society-class": {
+    "source": "augie_news",
+    "fetch_time": "2026-10-28T20:00:13.329031",
+    "title": "Augustana Inducts Seven Members Into 2026 Honorary Alumni Society Class",
+    "category": "education"
+  },
+  "https://www.elmhurst.edu/news/old-main-is-home-to-campuss-newest-art-gallery/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-10-28T20:00:13.456947",
+    "title": "Old Main Is Home to Campus’s Newest Art Gallery",
+    "category": "ai"
+  },
+  "https://www.brookings.edu/articles/hbcu-campus-and-community-development/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-28T20:00:13.551336",
+    "title": "Harnessing the wind: A strategy for HBCU campus and community development",
+    "category": "general"
+  },
+  "https://www.brookings.edu/articles/tools-that-fit-a-guide-for-measuring-family-school-and-community-engagement/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-28T20:00:13.551336",
+    "title": "Tools that fit: A guide for measuring family, school, and community engagement",
+    "category": "education"
+  },
+  "https://bridgemi.com/michigan-education-watch/michigans-free-community-college-shuts-out-rural-universities-they-want-in/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-10-28T20:00:13.578150",
+    "title": "Michigan’s free community college shuts out rural universities. They want in",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/cybersecurity/2026/10/28/the-data-retention-challenge-for-online-exam-platforms/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-10-28T20:00:13.611836",
+    "title": "The data retention challenge for online exam platforms",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/civil-society-perspectives-lebanons-reform-agenda": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "Civil Society Perspectives on Lebanon’s Reform Agenda",
+    "category": "general"
+  },
+  "https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK",
+    "category": "general"
+  },
+  "https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/decoding-right-repair-debate": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "Decoding the Right-to-Repair Debate",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/fy-2027-defense-funding-potential-post-midterm-outcomes": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "FY 2027 Defense Funding: Potential Post-Midterm Outcomes",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/states-weekly-october-28-2026": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "States Weekly: October 28, 2026",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/ant-and-grasshopper-revised-version": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "The Ant and the Grasshopper—Revised Version",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/analysis/book-event-lifeline-john-donnelly": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "Book Event: Lifeline by John Donnelly",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/fcc-covered-list-national-security-economic-policy-and-technology-supply-chains": {
+    "source": "csis",
+    "fetch_time": "2026-10-28T20:00:13.638974",
+    "title": "The FCC Covered List: National Security, Economic Policy, and Technology Supply Chains",
+    "category": "ai"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-10-28-cuenca-appointed-to-aacte-board-of-director.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-10-28T20:00:15.691662",
+    "title": "Cuenca appointed to AACTE Board of Directors",
+    "category": "ai"
+  },
+  "https://news.iu.edu/college/live/news/54235-indiana-honors-college-of-arts-and-sciences-alumni": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-28T20:00:15.717826",
+    "title": "New state historical marker honors two IU astronomy alumni",
+    "category": "semiconductor"
+  },
+  "https://cancer.iu.edu/about/news/stories/2026-10-09-never-daunted-darley.html": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-28T20:00:15.717826",
+    "title": "IU student and cancer survivor recognized during IU football game",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/when-artificial-intelligence-wears-famous-face": {
+    "source": "iastate_news",
+    "fetch_time": "2026-10-28T20:00:15.860561",
+    "title": "When artificial intelligence wears a famous face",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/28/17-states-havent-had-a-woman-governor-and-15-havent-had-a-woman-senator/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-28T20:00:18.813443",
+    "title": "17 States Haven’t Had a Woman Governor, and 15 Haven’t Had a Woman Senator",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/28/most-americans-religious-lives-havent-changed-much-in-recent-years/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-28T20:00:18.813443",
+    "title": "Most Americans’ Religious Lives Haven’t Changed Much in Recent Years",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/religion/2026/10/28/religion-remains-stable-in-the-us-with-mixed-signals-for-young-adults/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-28T20:00:18.813443",
+    "title": "Religion Remains Stable in the U.S., With Mixed Signals for Young Adults",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/study-finds-amazon-rainforest-now-releases-more-carbon-than-it-absorbs": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-28T20:00:18.933931",
+    "title": "Study finds Amazon rainforest now releases more carbon than it absorbs",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-alumni-announces-student-honorees-of-2026-homecoming-awards": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-28T20:00:18.933931",
+    "title": "KU Alumni announces student honorees of 2026 Homecoming awards",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/so-you-had-near-death-experience-now-what": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-28T20:00:20.594196",
+    "title": "So you had a near-death experience. Now what?",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/october/remembering-uca.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-10-28T20:00:20.622601",
+    "title": "Saint Louis University to Host Event Honoring UCA Martyrs of El Salvador",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/how-return-uni-program-helped-jess-betts-finish-what-she-started": {
+    "source": "uni_news",
+    "fetch_time": "2026-10-28T20:00:20.958614",
+    "title": "How the ‘Return to UNI’ Program Helped Jess Betts Finish What She Started",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/perspectives/PEA5380-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-28T20:00:21.015704",
+    "title": "Settlement and Governance Behind the AI Frontier",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4445-2.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-28T20:00:21.015704",
+    "title": "Evaluation of Texas’s Student Success Acceleration Program 2.0: Implementation, Early Outcomes, and Lessons for Continuous Improvement",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1028-purdue-engineering-students-shahlab-ai-social-good-competition": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-10-28T20:00:21.234984",
+    "title": "Purdue Engineering students use AI to tackle societal challenges in ShahLab.AI competition",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/chancellor-search-advances-public-input-sought-in-november": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-28T20:00:21.399973",
+    "title": "Chancellor search advances; public input sought in November",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/health-scare-pushes-ritchie-into-advocacy-for-blood-donation": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-28T20:00:21.399973",
+    "title": "Health scare pushes Ritchie into advocacy for blood donation",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/artificial-intelligence-use-doubles-in-rural-nebraska-poll-shows": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-28T20:00:21.399973",
+    "title": "Artificial intelligence use doubles in rural Nebraska, poll shows",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/quantum-fusion-and-ai-stand-out-during-doe-leaders-campus-visit/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-28T20:00:21.682480",
+    "title": "Quantum, fusion and AI stand out during DOE leader’s campus visit",
+    "category": "quantum"
+  },
+  "https://news.wisc.edu/battiato-named-interim-university-staff-secretary/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-28T20:00:21.682480",
+    "title": "Battiato named interim University Staff secretary",
+    "category": "education"
+  },
+  "https://news.wisc.edu/a-movie-about-war-college-football-and-two-heroic-badgers/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-28T20:00:21.682480",
+    "title": "A movie about war, college football and two heroic Badgers",
+    "category": "education"
+  },
+  "https://news.wisc.edu/national-biotechnology-commission-visits-uw-madison-to-explore-research-and-innovation/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-28T20:00:21.682480",
+    "title": "National biotechnology commission visits UW–Madison to explore research and innovation",
+    "category": "ai"
+  },
+  "https://www.library.wisc.edu/news/2026/10/27/out-of-left-field/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-28T20:00:21.682480",
+    "title": "Out of left field",
+    "category": "ai"
+  },
+  "https://news.wisc.edu/gourd-vibes-only/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-28T20:00:21.682480",
+    "title": "Gourd vibes only",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-ended-the-illegal-and-discriminatory-practices-of-diversity-equity-and-inclusion/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "Fact Sheet: President Donald J. Trump Ended the Illegal and Discriminatory Practices of Diversity, Equity, and Inclusion",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/fact-sheets/2026/10/fact-sheet-president-donald-j-trump-adjusts-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "Fact Sheet: President Donald J. Trump Adjusts Imports of Robotics, Industrial Machinery, and their Parts and Components into the United States",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "ADJUSTING IMPORTS OF ROBOTICS, INDUSTRIAL MACHINERY, AND THEIR PARTS AND COMPONENTS INTO THE UNITED STATES",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "The Economic Benefits of Permitting Reform",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-returns-to-ohio-with-a-record-of-results/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "President Trump Returns to Ohio With a Record of Results",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-announces-arrival-of-first-one-million-barrels-of-oil-in-texas-thanks-to-historic-oil-deal/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "President Trump Announces Arrival of First One Million Barrels of Oil in Texas Thanks to Historic Oil Deal",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/new-survey-president-trump-delivers-historic-drop-in-violent-crime/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-28T20:00:21.883663",
+    "title": "NEW SURVEY: President Trump Delivers Historic Drop in Violent Crime",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/10/great-artists-series-presents-igor-levit/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-28T20:00:21.929899",
+    "title": "Great Artists Series presents Igor Levit",
+    "category": "semiconductor"
+  },
+  "https://www.wilsoncenter.org/video/china-winning-robotics-race": {
+    "source": "wilson_china",
+    "fetch_time": "2026-10-28T20:00:21.945308",
+    "title": "Is China Winning the Robotics Race?",
+    "category": "semiconductor"
+  },
+  "https://socialwork.wayne.edu/news/wsu-school-of-social-work-awarded-21-million-in-nih-funding-for-primary-care-research-training-70441": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-28T20:00:21.962840",
+    "title": "WSU School of Social Work awarded $2.1 million in NIH funding for primary care research training",
+    "category": "education"
+  },
+  "https://alumni.wayne.edu/news/cfpca-alumnus-and-voice-of-detroit-retires-after-three-decade-broadcast-journalism-career-70412": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-28T20:00:21.962840",
+    "title": "CFPCA alumnus, voice of Detroit retires after three-decade broadcast journalism career",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-alumna-laura-mchugh-knows-how-to-program-a-mystery/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-28T20:00:22.862448",
+    "title": "Mizzou alumna Laura McHugh knows how to program a mystery",
+    "category": "talent"
   }
 }

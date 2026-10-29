@@ -1,0 +1,26 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-28T20:00:20.480559",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Saint Louis University to Host Event Honoring UCA Martyrs of El Salvador",
+      "url": "https://www.slu.edu/news/2026/october/remembering-uca.php",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "Saint Louis University, in collaboration with the Immigration Task Force of the Archdiocese of St. Louis, the Central and Southern Province of the Society of Jesus and St. Francis Xavier College Church, will host “What is a Jesuit University For? Remembering the UCA Martyrs of El Salvador.”",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Pershing Fellowship Puts SLU Students on Path to Nonprofit Leadership",
+      "url": "https://www.slu.edu/news/2026/october/pershing-fellowship-students-path-to-nonprofit-leadership.php",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "SLU students who become Pershing Fellows are immersed in the St. Louis nonprofit community with paid internships and professional development.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}

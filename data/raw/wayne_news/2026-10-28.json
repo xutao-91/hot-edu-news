@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-28T20:00:21.918919",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WSU School of Social Work awarded $2.1 million in NIH funding for primary care research training",
+      "url": "https://socialwork.wayne.edu/news/wsu-school-of-social-work-awarded-21-million-in-nih-funding-for-primary-care-research-training-70441",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "CFPCA alumnus, voice of Detroit retires after three-decade broadcast journalism career",
+      "url": "https://alumni.wayne.edu/news/cfpca-alumnus-and-voice-of-detroit-retires-after-three-decade-broadcast-journalism-career-70412",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}
