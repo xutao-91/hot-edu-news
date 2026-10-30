@@ -31534,5 +31534,293 @@
     "fetch_time": "2026-10-28T20:00:22.862448",
     "title": "Mizzou alumna Laura McHugh knows how to program a mystery",
     "category": "talent"
+  },
+  "https://www.elmhurst.edu/news/elmhurst-senior-awarded-newman-civic-fellowship-2/": {
+    "source": "elmhurst_news",
+    "fetch_time": "2026-10-29T20:00:10.235224",
+    "title": "Elmhurst Senior Awarded Newman Civic Fellowship",
+    "category": "semiconductor"
+  },
+  "https://www.augie.edu/news/2026/augustana-crowns-royals-2026-viking-days-coronation": {
+    "source": "augie_news",
+    "fetch_time": "2026-10-29T20:00:10.293619",
+    "title": "Augustana Crowns Royals at 2026 Viking Days Coronation",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/results-from-2-years-of-active-playful-learning-in-primary-schools/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-29T20:00:10.397021",
+    "title": "Results from 2 years of Active Playful Learning in primary schools",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/spending-it-faster-what-a-10000-agent-proof-means-for-ais-borrowed-expertise/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-29T20:00:10.397021",
+    "title": "Spending it faster: What a 10,000-agent proof means for AI’s borrowed expertise",
+    "category": "ai"
+  },
+  "https://www.brookings.edu/articles/parenting-in-an-ai-revolution/": {
+    "source": "brookings",
+    "fetch_time": "2026-10-29T20:00:10.397021",
+    "title": "Parenting in an AI revolution",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/all-about-base-aatb-location-conversations-ausa": {
+    "source": "csis",
+    "fetch_time": "2026-10-29T20:00:10.487177",
+    "title": "All About the Base | AATB on Location: Conversations from AUSA",
+    "category": "general"
+  },
+  "https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological": {
+    "source": "csis",
+    "fetch_time": "2026-10-29T20:00:10.487177",
+    "title": "Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/states-weekly-october-28-2026": {
+    "source": "csis",
+    "fetch_time": "2026-10-29T20:00:10.487177",
+    "title": "States Weekly: October 28, 2026",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/book-event-lifeline-john-donnelly": {
+    "source": "csis",
+    "fetch_time": "2026-10-29T20:00:10.487177",
+    "title": "Book Event: Lifeline by John Donnelly",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/opening-doors-stem-earns-illinois-tech-adjunct-professor-teaching-award": {
+    "source": "iit_news",
+    "fetch_time": "2026-10-29T20:00:11.794804",
+    "title": "Opening Doors in STEM Earns Illinois Tech Adjunct Professor Teaching Award",
+    "category": "general"
+  },
+  "https://news.iu.edu/live/news/54287-indiana-university-led-bioscience-accelerator": {
+    "source": "iu_news",
+    "fetch_time": "2026-10-29T20:00:11.918722",
+    "title": "Indiana University-led bioscience accelerator programs advance next generation of healthcare",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/faculty-showcase-scholarly-projects-at-fall-forum": {
+    "source": "msoe",
+    "fetch_time": "2026-10-29T20:00:12.539292",
+    "title": "Faculty showcase scholarly projects at Fall Forum",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/29/on-facebook-and-instagram-political-ads-are-increasingly-critical-of-data-centers/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-29T20:00:13.735484",
+    "title": "On Facebook and Instagram, Political Ads Are Increasingly Critical of Data Centers",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/10/29/the-2026-midterms-will-be-uniquely-difficult-for-polls/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-29T20:00:13.735484",
+    "title": "The 2026 Midterms Will Be Uniquely Difficult for Polls",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-10-29T20:00:13.735484",
+    "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
+    "category": "ai"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Groups-Urge-IRS-Withdraw-Tax-Exempt-Status-Rule.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-10-29T20:00:13.775119",
+    "title": "ACE, Higher Education Groups Urge IRS to Withdraw Rule Threatening Colleges' Tax-Exempt Status",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-lawrence-campus-events-to-honor-military-service-around-veterans-day": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-29T20:00:14.434130",
+    "title": "KU Lawrence campus events to honor military service around Veterans Day",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/spencer-lecture-to-feature-dark-laboratory-author-tao-leigh-goffe": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-29T20:00:14.434130",
+    "title": "Spencer Lecture to feature ‘Dark Laboratory’ author Tao Leigh Goffe",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/comparative-law-scholar-to-discuss-corporate-law-governance": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-29T20:00:14.434130",
+    "title": "Comparative law scholar to discuss corporate law, governance",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/humanlike-design-of-ai-voice-assistants-helps-users-disregard-security-risks-study-finds": {
+    "source": "ku_news",
+    "fetch_time": "2026-10-29T20:00:14.434130",
+    "title": "Humanlike design of AI voice assistants helps users disregard security risks, study finds",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/halloween-traditions-and-campus-connect-uchicago-and-local-community": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-29T20:00:14.715189",
+    "title": "Halloween traditions on and off campus connect UChicago and local community",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/chicago-critics-table-writers-sharpen-their-pens-art-culture-commentary": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-10-29T20:00:14.715189",
+    "title": "At Chicago Critic's Table, writers sharpen their pens with art, culture commentary",
+    "category": "ai"
+  },
+  "https://www.studlife.com/uncategorized/2026/10/29/as-ai-sweeps-into-higher-education-two-professors-take-divergent-approaches": {
+    "source": "studlife",
+    "fetch_time": "2026-10-29T20:00:14.745764",
+    "title": "As AI sweeps into higher education, two professors take divergent approaches",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/10/29/what-we-know-about-washus-trustees": {
+    "source": "studlife",
+    "fetch_time": "2026-10-29T20:00:14.745764",
+    "title": "What we know about WashU’s trustees",
+    "category": "general"
+  },
+  "https://www.studlife.com/news/2026/10/29/proposed-fees-to-optional-practical-training-may-change-postgrad-employment-for-international-students": {
+    "source": "studlife",
+    "fetch_time": "2026-10-29T20:00:14.745764",
+    "title": "Proposed fees to Optional Practical Training may change postgrad employment for international students",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4215-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-10-29T20:00:14.798575",
+    "title": "Enhancing Leadership Selection: Recommendations for a Multi-Factor, AI-Supported Assessment Tool for the Evaluation and Selection of U.S. Air Force Squadron Command Teams",
+    "category": "ai"
+  },
+  "https://www.wsj.com/finance/the-four-academics-who-dreamed-up-californias-billionaire-tax-b0d05dcc?st=x78W5B&reflink=desktopwebshare_permalink": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-29T20:00:14.798575",
+    "title": "The Four Academics Who Dreamed Up California’s Billionaire Tax",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/mizzou-receives-significant-estate-gift-to-advance-journalism-education/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-29T20:00:14.798575",
+    "title": "Mizzou receives significant estate gift to advance journalism education",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/adam-guys-mizzou-journey-comes-full-circle-at-memorial-stadium/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-10-29T20:00:14.798575",
+    "title": "Adam Guy’s Mizzou journey comes full circle at Memorial Stadium",
+    "category": "general"
+  },
+  "https://magazine.foriowa.org/story.php?ed=true&storyid=2673": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-10-29T20:00:15.488675",
+    "title": "Marilynne Robinson looks back on 25 years at Iowa",
+    "category": "education"
+  },
+  "https://magazine.foriowa.org/story.php?ed=true&storyid=2632": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-10-29T20:00:15.488675",
+    "title": "Ultimate team effort: Behind the scenes at Kinnick Stadium on game day",
+    "category": "education"
+  },
+  "https://today.uic.edu/uics-artificial-intelligence-laboratory-awarded-6m-from-illinois-department-of-transportation/": {
+    "source": "uic_today",
+    "fetch_time": "2026-10-29T20:00:15.516889",
+    "title": "UIC’s Artificial Intelligence Laboratory awarded $6M from Illinois Department of Transportation",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0901-purdue-lyohub-fill-finish-facility-merck-donation": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-10-29T20:00:16.363580",
+    "title": "Purdue's LyoHUB to open pharmaceutical fill-finish innovation facility built on $3M+ equipment donation from Merck",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/fellowship-to-expand-muellers-work-on-americas-founders": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-29T20:00:16.461299",
+    "title": "Fellowship to expand Mueller’s work on America’s founders",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/sarafs-team-pioneers-technique-to-measure-multiple-reactions-on-single-electrode": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-29T20:00:16.461299",
+    "title": "Saraf’s team pioneers technique to measure multiple reactions on single electrode",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/chapman-discusses-lice-treatment-in-yahoo-article": {
+    "source": "unl_news",
+    "fetch_time": "2026-10-29T20:00:16.461299",
+    "title": "Chapman discusses lice treatment in Yahoo article",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-unleashes-the-american-economy-gdp-surges-as-investment-hits-multi-year-high/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-29T20:00:16.514196",
+    "title": "President Trump Unleashes the American Economy: GDP Surges as Investment Hits Multi-Year High",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/memorandum-of-understanding-between-the-government-of-the-united-states-of-america-and-the-government-of-finland-regarding-the-technology-prosperity-deal/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-29T20:00:16.514196",
+    "title": "Memorandum of Understanding Between The Government of the United States of America and the Government of Finland Regarding the Technology Prosperity Deal",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/10/president-trump-put-money-back-in-your-pockets-radical-democrats-want-it-back-and-more/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-29T20:00:16.514196",
+    "title": "President Trump Put Money Back in Your Pockets—Radical Democrats Want It Back and More",
+    "category": "semiconductor"
+  },
+  "https://engineering.washu.edu/news/2026/Harnessing-atomic-structure-to-advance-semiconductor-technology.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-10-29T20:00:16.556692",
+    "title": "Harnessing atomic structure to advance semiconductor technology",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/10/washu-to-host-two-polling-places-2/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-29T20:00:16.559620",
+    "title": "WashU to host two polling places",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/10/washu-study-helps-martian-astronauts-prepare-for-dust/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-29T20:00:16.559620",
+    "title": "WashU study helps Martian astronauts prepare for dust",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/10/high-risk-pregnancy-care-reaches-families-closer-to-home/": {
+    "source": "washu_source",
+    "fetch_time": "2026-10-29T20:00:16.559620",
+    "title": "High-risk pregnancy care reaches families closer to home",
+    "category": "semiconductor"
+  },
+  "https://clas.wayne.edu/news/celebrate-the-power-of-stories-art-and-ideas-at-humanities-arts-action-day-nov-13-at-wayne-state-university-70454": {
+    "source": "wayne_news",
+    "fetch_time": "2026-10-29T20:00:16.620101",
+    "title": "Celebrate the power of stories and art at Humanities & Arts Action Day on Nov. 13",
+    "category": "general"
+  },
+  "https://news.wisc.edu/lighting-up-blue-for-the-brewers/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-29T20:00:16.837319",
+    "title": "Lighting up blue for the Brewers",
+    "category": "general"
+  },
+  "https://education.wisc.edu/news/uw-madison-researchers-launch-badger-caregiving-clinic-pilot-to-help-address-caregiving-crisis/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-29T20:00:16.837319",
+    "title": "Badger Caregiving Clinic helps to address caregiving crisis",
+    "category": "ai"
+  },
+  "https://www.med.wisc.edu/news/cyclotron-expansion-accelerates-precision-medicine/": {
+    "source": "uw_news",
+    "fetch_time": "2026-10-29T20:00:16.837319",
+    "title": "Cyclotron expansion to accelerate precision medicine",
+    "category": "semiconductor"
+  },
+  "https://globalaffairs.org/research/public-opinion-survey/americans-say-ai-benefits-are-not-worth-risks": {
+    "source": "global_affairs",
+    "fetch_time": "2026-10-29T20:00:18.742310",
+    "title": "Americans Say AI Benefits Are Not Worth the Risks",
+    "category": "ai"
   }
 }

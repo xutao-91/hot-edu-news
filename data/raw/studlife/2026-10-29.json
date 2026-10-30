@@ -1,0 +1,38 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-10-29T20:00:14.564473",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "As AI sweeps into higher education, two professors take divergent approaches",
+      "url": "https://www.studlife.com/uncategorized/2026/10/29/as-ai-sweeps-into-higher-education-two-professors-take-divergent-approaches",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "",
+      "author": "Leni Saltos",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "What we know about WashU’s trustees",
+      "url": "https://www.studlife.com/news/2026/10/29/what-we-know-about-washus-trustees",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "",
+      "author": "Nicholas Demba",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Proposed fees to Optional Practical Training may change postgrad employment for international students",
+      "url": "https://www.studlife.com/news/2026/10/29/proposed-fees-to-optional-practical-training-may-change-postgrad-employment-for-international-students",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

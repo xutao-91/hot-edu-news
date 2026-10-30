@@ -1,0 +1,26 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-10-29T20:00:13.905883",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Chief Human Resources Officer search committee seeks community input",
+      "url": "https://news.northwestern.edu/stories/2026/10/chief-human-resources-officer-search-committee-seeks-community-input",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    },
+    {
+      "title": "Chemist James Gaynor receives Department of Energy early career award",
+      "url": "https://news.northwestern.edu/stories/2026/10/chemist-james-gaynor-receives-department-of-energy-early-career-award",
+      "date": "2026-10-26",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "awards"
+    }
+  ]
+}

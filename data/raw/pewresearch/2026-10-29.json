@@ -1,0 +1,139 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-10-29T20:00:13.674164",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "On Facebook and Instagram, Political Ads Are Increasingly Critical of Data Centers",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/29/on-facebook-and-instagram-political-ads-are-increasingly-critical-of-data-centers/",
+      "date": "Oct 29, 2026",
+      "type": "short reads",
+      "categories": [
+        "Social Media"
+      ],
+      "summary_en": "Political ads about data centers on Facebook and Instagram have turned increasingly critical, with 57% opposed and just 3% supportive ahead of the midterms.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "The 2026 Midterms Will Be Uniquely Difficult for Polls",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/29/the-2026-midterms-will-be-uniquely-difficult-for-polls/",
+      "date": "Oct 29, 2026",
+      "type": "short reads",
+      "categories": [
+        "Election 2026",
+        "Methodological Research"
+      ],
+      "summary_en": "Polls haven’t gotten worse, but fake respondents, synthetic AI surveys and election unknowns make the 2026 midterms uniquely hard to poll.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans Are Open to AI in Healthcare, but Want Humans Making Final Calls",
+      "url": "https://www.pewresearch.org/science/2026/10/29/americans-are-open-to-ai-in-healthcare-but-want-humans-making-final-calls/",
+      "date": "Oct 29, 2026",
+      "type": "report",
+      "categories": [
+        "Artificial Intelligence",
+        "Medicine Health",
+        "Science",
+        "Science Issues"
+      ],
+      "summary_en": "Americans are generally open to AI handling administrative and medical tasks, but they largely don’t want AI operating without human oversight. About half (47%) say AI will make the relationship between patients and their doctors worse, compared with 10% who say it will make it better.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "17 States Haven’t Had a Woman Governor, and 15 Haven’t Had a Woman Senator",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/28/17-states-havent-had-a-woman-governor-and-15-havent-had-a-woman-senator/",
+      "date": "Oct 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Congress",
+        "Gender Leadership",
+        "Gender Politics 2",
+        "Leaders",
+        "State",
+        "Us Elections Voters"
+      ],
+      "summary_en": "Today, women currently hold a record 27 of the Senate’s 100 seats, and women hold the office of governor in 14 of the 50 states.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Most Americans’ Religious Lives Haven’t Changed Much in Recent Years",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/28/most-americans-religious-lives-havent-changed-much-in-recent-years/",
+      "date": "Oct 28, 2026",
+      "type": "short reads",
+      "categories": [
+        "Beliefs Practices",
+        "Religious Demographics"
+      ],
+      "summary_en": "Tracking the same adults from 2020 to 2025 shows most Americans’ religious affiliation, prayer frequency and service attendance remained steady.",
+      "source": "Pew Research Center",
+      "category": "religion"
+    },
+    {
+      "title": "Religion Remains Stable in the U.S., With Mixed Signals for Young Adults",
+      "url": "https://www.pewresearch.org/religion/2026/10/28/religion-remains-stable-in-the-us-with-mixed-signals-for-young-adults/",
+      "date": "Oct 28, 2026",
+      "type": "report",
+      "categories": [
+        "Religion",
+        "Younger Adults"
+      ],
+      "summary_en": "There is no clear evidence in the Center’s surveys that any birth cohort that can be tracked over time has become more religious in recent years.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "What We Know About Eligible Voters Who Are Naturalized U.S. Citizens",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/27/what-we-know-about-eligible-voters-who-are-naturalized-us-citizens/",
+      "date": "Oct 27, 2026",
+      "type": "short reads",
+      "categories": [],
+      "summary_en": "Around one-in-ten eligible voters in this year’s midterms are naturalized citizens. See where they live, where they’re from and how they differ demographically.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "What We Learned From a Survey Experiment About Global ‘Superpowers’",
+      "url": "https://www.pewresearch.org/decoded/2026/10/27/what-we-learned-from-a-survey-experiment-about-global-superpowers/",
+      "date": "Oct 27, 2026",
+      "type": "decoded",
+      "categories": [
+        "Data Science",
+        "International Surveys",
+        "Survey Methods"
+      ],
+      "summary_en": "We tested open-ended ways to ask which countries are global superpowers. Here’s what cognitive interviews and a survey experiment revealed.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "Americans’ Views of ICE Grow More Negative",
+      "url": "https://www.pewresearch.org/short-reads/2026/10/26/americans-views-of-ice-grow-more-negative/",
+      "date": "Oct 26, 2026",
+      "type": "short reads",
+      "categories": [
+        "Federal Government",
+        "Immigration Migration",
+        "Political Issues"
+      ],
+      "summary_en": "A majority of Americans (56%) now say they have an unfavorable opinion of Immigration and Customs Enforcement.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "How Americans View Federal Agencies",
+      "url": "https://www.pewresearch.org/fact-sheet/how-americans-view-federal-agencies/",
+      "date": "Oct 26, 2026",
+      "type": "fact sheet",
+      "categories": [],
+      "summary_en": "Americans view eight of 12 federal agencies we asked about more favorably than unfavorably. The National Park Service, National Weather Service and U.S. Postal Service are viewed especially positively.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    }
+  ]
+}

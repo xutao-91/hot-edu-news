@@ -1,0 +1,26 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-10-29T20:00:10.159626",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Elmhurst Senior Awarded Newman Civic Fellowship",
+      "url": "https://www.elmhurst.edu/news/elmhurst-senior-awarded-newman-civic-fellowship-2/",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "Old Main Is Home to Campus’s Newest Art Gallery",
+      "url": "https://www.elmhurst.edu/news/old-main-is-home-to-campuss-newest-art-gallery/",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}
