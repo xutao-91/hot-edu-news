@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-10-30T20:00:13.950740",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Register Now for ACE-IHEP Webinar on Preparing for New Federal Accountability Rules",
+      "url": "https://www.acenet.edu/News-Room/Pages/Register-ACE-IHEP-Webinar-New-Federal-Accountability-Rules.aspx",
+      "date": "October 30, 2026",
+      "type": "News",
+      "summary_en": "The webinar, “Preparing for Federal Earnings-Based Accountability: What Institutions and States Need to Know,” will be Nov. 19.",
+      "source": "ACE",
+      "category": "federal_policy"
+    },
+    {
+      "title": "ACE, Higher Education Groups Urge IRS to Withdraw Rule Threatening Colleges' Tax-Exempt Status",
+      "url": "https://www.acenet.edu/News-Room/Pages/Higher-Ed-Groups-Urge-IRS-Withdraw-Tax-Exempt-Status-Rule.aspx",
+      "date": "October 29, 2026",
+      "type": "News",
+      "summary_en": "ACE and 40 other higher education associations are urging the IRS to withdraw a proposal that could strip private, nonprofit colleges and universities of their tax-exempt status.",
+      "source": "ACE",
+      "category": "higher_ed"
+    }
+  ]
+}

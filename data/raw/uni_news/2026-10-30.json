@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-10-30T20:00:19.012132",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How the ‘Return to UNI’ program helped Jess Betts finish what she started",
+      "url": "https://insideuni.uni.edu/campus-community/how-return-uni-program-helped-jess-betts-finish-what-she-started",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "UNI Brand & Licensing Manager Jess Betts left graduate school just one class short of completing her master's degree. More than a decade later, the Return to UNI initiative allowed her to come back and graduate after taking one online course. Jess encourages former Panthers to reach out and finish what they started at return.uni.edu.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "UNI sets students up for success as physical therapists",
+      "url": "https://insideuni.uni.edu/health/uni-sets-students-success-physical-therapists",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "Leadership opportunities, supportive faculty members and undergraduate research are helping University of Northern Iowa seniors Alyssa Niemeier and Derek Hoerner prepare for careers dedicated to helping patients.",
+      "source": "UNI News",
+      "category": "students"
+    }
+  ]
+}

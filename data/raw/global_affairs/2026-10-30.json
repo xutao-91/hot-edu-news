@@ -1,0 +1,24 @@
+{
+  "source": "Chicago Council on Global Affairs",
+  "source_url": "https://globalaffairs.org/research",
+  "crawled_at": "2026-10-30T20:00:16.733792",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Americans’ Views Of India Rebound—But Are More Polarized",
+      "url": "https://globalaffairs.org/research/public-opinion-survey/americans-views-india-rebound-are-more-polarized",
+      "date": "2026-10-30",
+      "summary_en": "Democrats and Independents rate India more warmly than Republicans and are more supportive of high-skilled immigration from India and reducing tariffs on Indian goods.",
+      "source": "Chicago Council on Global Affairs",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Americans Say AI Benefits Are Not Worth the Risks",
+      "url": "https://globalaffairs.org/research/public-opinion-survey/americans-say-ai-benefits-are-not-worth-risks",
+      "date": "2026-10-29",
+      "summary_en": "Half of Americans also say artificial intelligence poses a critical threat to the vital interests of the United States over the next decade.",
+      "source": "Chicago Council on Global Affairs",
+      "category": "diplomacy"
+    }
+  ]
+}

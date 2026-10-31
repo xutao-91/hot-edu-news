@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-10-30T20:00:18.897136",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "A new hub for writing, in the age of AI",
+      "url": "https://news.uchicago.edu/story/new-hub-writing-age-ai",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "UChicago community celebrates the launch of the Chicago Center for Writing",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Halloween traditions on and off campus connect UChicago and local community",
+      "url": "https://news.uchicago.edu/story/halloween-traditions-and-campus-connect-uchicago-and-local-community",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "On Harper Avenue, spooky celebration ‘isn’t a holiday—it’s a season’",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "At Chicago Critic’s Table, writers sharpen their pens with art, culture commentary",
+      "url": "https://news.uchicago.edu/story/chicago-critics-table-writers-sharpen-their-pens-art-culture-commentary",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "UChicago Arts + Public Life fellowship is seeking its next cohort as it builds community and trains a new generation of cultural critics",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "So you had a near-death experience. Now what?",
+      "url": "https://news.uchicago.edu/story/so-you-had-near-death-experience-now-what",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "In new UChicago Divinity course, students read accounts of the briefly deceased through the lens of anthropology and Islamic thought",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

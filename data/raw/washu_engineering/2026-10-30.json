@@ -1,0 +1,35 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-10-30T20:00:20.468414",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Harnessing atomic structure to advance semiconductor technology",
+      "url": "https://engineering.washu.edu/news/2026/Harnessing-atomic-structure-to-advance-semiconductor-technology.html",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "Rohan Mishra and team are researching how manipulating material behavior at the atomic level can shape electronic devices of tomorrow.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Xu receives AAAR Whitby Award",
+      "url": "https://engineering.washu.edu/news/2026/Xu-receives-AAAR-Whitby-Award.html",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "Lu Xu won the 2026 Kenneth T. Whitby Award from the American Association for Aerosol Research.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    },
+    {
+      "title": "Chakrabarty named 2026 AAAR Fellow",
+      "url": "https://engineering.washu.edu/news/2026/Chakrabarty-named-2026-AAAR-Fellow.html",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "Rajan Chakrabarty honored for contributions to aerosol science by the American Association for Aerosol Research.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

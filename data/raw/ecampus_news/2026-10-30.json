@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-10-30T20:00:11.709050",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Beyond the script: Why every faculty interview needs a few unexpected questions",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/30/beyond-the-script-why-every-faculty-interview-needs-a-few-unexpected-questions/",
+      "date": "2026-10-30",
+      "type": "Faculty & Staff",
+      "summary_en": "Faculty interviews are, by necessity, somewhat formulaic. Candidates expect questions about their teaching philosophy. They anticipate discussions about their research interests, publication agenda, student mentoring experience, commitment to diversity and inclusion, service contributions, and long-term professional goals.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "The data retention challenge for online exam platforms",
+      "url": "https://www.ecampusnews.com/cybersecurity/2026/10/28/the-data-retention-challenge-for-online-exam-platforms/",
+      "date": "2026-10-28",
+      "type": "Data Security",
+      "summary_en": "The shift from exam halls to online assessment platforms has quietly created a significant data management challenge.",
+      "source": "eCampus News",
+      "category": "edtech"
+    }
+  ]
+}

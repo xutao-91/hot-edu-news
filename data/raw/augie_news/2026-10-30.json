@@ -1,0 +1,26 @@
+{
+  "source": "Augustana University News",
+  "source_url": "https://www.augie.edu/about/news",
+  "crawled_at": "2026-10-30T20:00:11.601794",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Augustana Crowns Royals at 2026 Viking Days Coronation",
+      "url": "https://www.augie.edu/news/2026/augustana-crowns-royals-2026-viking-days-coronation",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "Augustana University students Vy Nguyen ‘27 and Ridge Fisher ‘27 were crowned the 2026 Viking Days Royals during a coronation ceremony Wednesday, Oct. 21, in the Elmen Center.",
+      "source": "Augustana News",
+      "category": "general"
+    },
+    {
+      "title": "Augustana Inducts Seven Members Into 2026 Honorary Alumni Society Class",
+      "url": "https://www.augie.edu/news/2026/augustana-inducts-seven-members-2026-honorary-alumni-society-class",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "Augustana University established the Augustana Honorary Alumni Society to recognize individuals who have shown extraordinary dedication to Augustana’s mission, along with its core values of Christian, liberal arts, excellence, community and service. Through sustained commitment to the university, honorary alumni have demonstrated the gold standard of engagement.",
+      "source": "Augustana News",
+      "category": "general"
+    }
+  ]
+}

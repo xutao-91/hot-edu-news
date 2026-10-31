@@ -1,0 +1,44 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-10-30T20:00:13.732504",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Indiana University-led bioscience accelerator programs advance next generation of healthcare",
+      "url": "https://news.iu.edu/live/news/54287-indiana-university-led-bioscience-accelerator",
+      "date": "Oct 29, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "IU lands partnership with international semiconductor powerhouse imec",
+      "url": "https://news.iu.edu/live/news/54261-iu-lands-partnership-with-international",
+      "date": "Oct 27, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "New state historical marker honors two IU astronomy alumni",
+      "url": "https://news.iu.edu/college/live/news/54235-indiana-honors-college-of-arts-and-sciences-alumni",
+      "date": "Oct 28, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "general"
+    },
+    {
+      "title": "IU student and cancer survivor recognized during IU football game",
+      "url": "https://cancer.iu.edu/about/news/stories/2026-10-09-never-daunted-darley.html",
+      "date": "Oct 28, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "education"
+    }
+  ]
+}

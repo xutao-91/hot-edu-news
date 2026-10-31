@@ -1,0 +1,44 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-10-30T20:00:18.920519",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Mitch Daniels visits School of Applied and Creative Computing Spirit Day in Indianapolis",
+      "url": "https://polytechnic.purdue.edu/newsroom/mitch-daniels-visits-school-applied-and-creative-computing-spirit-day-indianapolis",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue researchers explore how students engage with artificial intelligence in STEM classrooms",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-researchers-explore-how-students-engage-artificial-intelligence-stem-classrooms",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    },
+    {
+      "title": "Is a master’s in information technology worth it?",
+      "url": "https://polytechnic.purdue.edu/newsroom/masters-information-technology-worth-it",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "technology"
+    },
+    {
+      "title": "How Jacob Luna is steering synthetic trust in healthcare with Purdue University’s online Doctor of Technology program",
+      "url": "https://polytechnic.purdue.edu/newsroom/how-jacob-luna-steering-synthetic-trust-healthcare-purdue-universitys-online-doctor",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-10-30T20:00:20.382384",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Miller, Thakor receive faculty achievement awards",
+      "url": "https://source.washu.edu/2026/10/miller-thakor-receive-faculty-achievement-awards/",
+      "date": "2026-10-30",
+      "type": "Awards & Notables",
+      "summary_en": "Timothy Miller and Anjan Thakor are the recipients of WashU’s 2026 faculty achievement awards. They were among several people recognized during WashU’s annual Founders Day celebration.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "40-year mystery solved: Common gut virus infects bacteria, not human cells",
+      "url": "https://source.washu.edu/2026/10/40-year-mystery-solved-common-gut-virus-infects-bacteria-not-human-cells/",
+      "date": "2026-10-29",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine researchers have rewritten the story on a group of viruses once thought to directly infect human tissue and play a role in gastrointestinal disease. They found that the common virus actually infects gut bacteria, redefining how these viruses impact human health.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU to host two polling places",
+      "url": "https://source.washu.edu/2026/10/washu-to-host-two-polling-places-2/",
+      "date": "2026-10-29",
+      "type": "St. Louis Region",
+      "summary_en": "WashU will host two polling places on Election Day, Tuesday, Nov. 3. St. Louis County voters may cast their ballots at the Athletic Complex, while those registered to vote in St. Louis are invited to vote at the McDonnell Medical Sciences Building, 4565 McKinley Ave.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU study helps Martian astronauts prepare for dust",
+      "url": "https://source.washu.edu/2026/10/washu-study-helps-martian-astronauts-prepare-for-dust/",
+      "date": "2026-10-29",
+      "type": "Space",
+      "summary_en": "WashU assistant research professor Scott VanBommel is the lead author of a new paper that examines how dust interacts with Mars rover Perseverance’s spacesuit swatches and other materials.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Great Artists Series presents Igor Levit",
+      "url": "https://source.washu.edu/2026/10/great-artists-series-presents-igor-levit/",
+      "date": "2026-10-28",
+      "type": "Performing Arts",
+      "summary_en": "Igor Levit is “one of the essential artists of his generation” (The New York Times), a pianist who “guides the public to the heart of Beethoven” (Le Figaro). On Nov. 9, Levit will launch WashU’s 10th annual Great Artists Series with an evening of Beethoven sonatas.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "High-risk pregnancy care reaches families closer to home",
+      "url": "https://source.washu.edu/2026/10/high-risk-pregnancy-care-reaches-families-closer-to-home/",
+      "date": "2026-10-28",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine maternal-fetal specialists are collaborating with rural obstetricians to reduce patients’ travel time and improve access to high-risk pregnancy care.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

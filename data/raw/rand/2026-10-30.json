@@ -1,0 +1,53 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-10-30T20:00:19.595927",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Development, Validation and AI Chatbot Evaluation of the Adolescent Mental Health AI Response Tool",
+      "url": "https://www.rand.org/pubs/external_publications/EP71522.html",
+      "date": "Oct 30, 2026",
+      "type": "Research",
+      "summary_en": "The authors developed and validated a clinician-informed tool for auditing AI chatbot responses to adolescent mental health disclosures and used it to compare four major chatbots, finding better coverage of guideline-informed content for anxiety than depression and for moderate than severe presentations.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Enhancing Leadership Selection: Recommendations for a Multi-Factor, AI-Supported Assessment Tool for the Evaluation and Selection of U.S. Air Force Squadron Command Teams",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4215-1.html",
+      "date": "Oct 29, 2026",
+      "type": "Research",
+      "summary_en": "This report supports a comprehensive leadership assessment program for squadron command by identifying key competencies and derailing behaviors and by reviewing assessment methods that could improve the selection of effective squadron commanders.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Settlement and Governance Behind the AI Frontier",
+      "url": "https://www.rand.org/pubs/perspectives/PEA5380-1.html",
+      "date": "Oct 28, 2026",
+      "type": "Expert Insights",
+      "summary_en": "Although there is much focus on cutting-edge AI models from frontier labs, the author argues that open-weight models, agents, and AI uses “behind the frontier” are also dangerous and their governance demands different concepts and tools.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Towards an Australian Circular Economy for Solar Photovoltaic Technologies",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4495-1.html",
+      "date": "Oct 27, 2026",
+      "type": "Research",
+      "summary_en": "By 2035, more than 1 million tonnes of solar panels will be decommissioned, presenting Australia with an urgent reuse and recycling challenge. This report maps pathways to a circular photovoltaic economy through policy, technology and market reform.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Towards an Australian Circular Economy for Solar Photovoltaic Technologies: A Policy Brief for Government, Industry and Research Stakeholders",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4495-1.html",
+      "date": "Oct 27, 2026",
+      "type": "Research Summary",
+      "summary_en": "Australia’s solar panel installation boom will generate a wave of waste—and the window to address it is closing. This brief summarizes the problem, outlines five pathways to a circular economy and offers three priority recommendations for government.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

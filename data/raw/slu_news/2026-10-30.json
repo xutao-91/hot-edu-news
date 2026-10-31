@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-10-30T20:00:19.015659",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "School of Science and Engineering Students Show Off Their Majors in Pumpkin Innovation Challenge",
+      "url": "https://www.slu.edu/news/2026/october/pumpkin-challenge.php",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "Teams of students in Saint Louis University’s School of Science and Engineering put their critical thinking and carving skills to work using pumpkins to represent their majors in the SSE’s October Innovation Challenge.",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "Saint Louis University to Host Event Honoring UCA Martyrs of El Salvador",
+      "url": "https://www.slu.edu/news/2026/october/remembering-uca.php",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "Saint Louis University, in collaboration with the Immigration Task Force of the Archdiocese of St. Louis, the Central and Southern Province of the Society of Jesus and St. Francis Xavier College Church, will host “What is a Jesuit University For? Remembering the UCA Martyrs of El Salvador.”",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Pershing Fellowship Puts SLU Students on Path to Nonprofit Leadership",
+      "url": "https://www.slu.edu/news/2026/october/pershing-fellowship-students-path-to-nonprofit-leadership.php",
+      "date": "2026-10-27",
+      "type": "News",
+      "summary_en": "SLU students who become Pershing Fellows are immersed in the St. Louis nonprofit community with paid internships and professional development.",
+      "source": "SLU News",
+      "category": "students"
+    }
+  ]
+}
