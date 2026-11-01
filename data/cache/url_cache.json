@@ -32050,5 +32050,23 @@
     "fetch_time": "2026-10-30T20:00:20.519712",
     "title": "WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance",
     "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/analysis/strength-unity-climate-action-pacific-islands": {
+    "source": "csis",
+    "fetch_time": "2026-10-31T20:00:11.637477",
+    "title": "Strength in Unity: Climate Action for the Pacific Islands",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/decoding-right-repair-debate": {
+    "source": "csis",
+    "fetch_time": "2026-10-31T20:00:11.637477",
+    "title": "Decoding the Right-to-Repair Debate",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-10-31T20:00:29.629433",
+    "title": "Presidential Message on Reformation Day",
+    "category": "general"
   }
 }

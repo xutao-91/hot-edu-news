@@ -1,0 +1,26 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-10-31T20:00:26.038291",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Celebrate the power of stories and art at Humanities & Arts Action Day on Nov. 13",
+      "url": "https://clas.wayne.edu/news/celebrate-the-power-of-stories-art-and-ideas-at-humanities-arts-action-day-nov-13-at-wayne-state-university-70454",
+      "date": "2026-10-29",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "WSU School of Social Work awarded $2.1 million in NIH funding for primary care research training",
+      "url": "https://socialwork.wayne.edu/news/wsu-school-of-social-work-awarded-21-million-in-nih-funding-for-primary-care-research-training-70441",
+      "date": "2026-10-28",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    }
+  ]
+}
