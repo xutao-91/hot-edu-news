@@ -1,0 +1,78 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-01T19:00:21.952548",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Times Higher Education to wind down BMI by end of 2026",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-10-30",
+      "type": "Events",
+      "summary_en": "Times Higher Education (THE) is closing the BMI GlobalEd arm of its business, citing pressure on the international education sector that has made \"business hard to sustain\".",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Irish court overturns Gazan student visa refusal over “significant errors”",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-10-30",
+      "type": "Immigration",
+      "summary_en": "The Irish High Court has overturned a decision to refuse a study visa to a 20-year-old Palestinian woman, following \"significant and demonstrable errors\" in the refusal decision by the Department of Justice.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "Australia consults on student visa overhaul as refusals hit key markets",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "Proposals would revise the Genuine Student requirement and financial-capacity rules, including possible Australian bank accounts and tougher evidence for certain international student applicants.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The PIE Live Germany – live feed",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-10-30",
+      "type": "Events",
+      "summary_en": "Follow along here for live updates from The PIE Live Germany conference.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Nicholas Cuthbert"
+    },
+    {
+      "title": "In an age of AI, character matters more than ever – so why do too many schools leave it to chance?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-10-29",
+      "type": "Voices",
+      "summary_en": "AI has put extraordinary capability in every student’s hands. But are schools giving young people the\nvalues to decide what to do with it, asks David Harkin.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "David Harkin"
+    },
+    {
+      "title": "Brazil’s study abroad ambitions widen, but information gap holds back demand",
+      "url": "https://thepienews.com/category/news/study-abroad/",
+      "date": "2026-10-29",
+      "type": "Study Abroad",
+      "summary_en": "Growing interest in Europe, expanding bilingual schooling and demand for shorter overseas experiences are reshaping Brazil’s outbound student market, according to speakers preparing for The PIE High Brazil.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Amy Baker"
+    },
+    {
+      "title": "English UK launches student protection review after provider closures",
+      "url": "https://thepienews.com/category/news/elt/",
+      "date": "2026-10-29",
+      "type": "Language learning",
+      "summary_en": "English UK has launched a major review of student protection arrangements following a series of large-scale provider closures that have exposed gaps in existing safeguards for international students.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    }
+  ]
+}

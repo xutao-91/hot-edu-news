@@ -32068,5 +32068,17 @@
     "fetch_time": "2026-10-31T20:00:29.629433",
     "title": "Presidential Message on Reformation Day",
     "category": "general"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/meters-machine-learning-building-ai-ready-utilities-india": {
+    "source": "csis",
+    "fetch_time": "2026-11-01T19:00:13.655027",
+    "title": "From Meters to Machine Learning: Building AI-Ready Utilities in India",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-01T19:00:25.082801",
+    "title": "Presidential Message on All Saints’ Day",
+    "category": "ai"
   }
 }

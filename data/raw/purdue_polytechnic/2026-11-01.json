@@ -1,0 +1,26 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-11-01T19:00:22.271211",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Mitch Daniels visits School of Applied and Creative Computing Spirit Day in Indianapolis",
+      "url": "https://polytechnic.purdue.edu/newsroom/mitch-daniels-visits-school-applied-and-creative-computing-spirit-day-indianapolis",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue researchers explore how students engage with artificial intelligence in STEM classrooms",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-researchers-explore-how-students-engage-artificial-intelligence-stem-classrooms",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    }
+  ]
+}
