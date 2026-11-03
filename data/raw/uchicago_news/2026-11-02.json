@@ -1,0 +1,53 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-02T19:00:15.507794",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Election Night and Beyond: Making Sense of the Midterms",
+      "url": "https://news.uchicago.edu/election-night-and-beyond-making-sense-midterms",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Why a research university needs an art history department",
+      "url": "https://www.bostonglobe.com/2026/11/02/opinion/higher-ed-unbundling-khurana-boyer/",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why do radiation cancer treatments sometimes fail? A new UChicago study suggests answers—and a solution",
+      "url": "https://news.uchicago.edu/story/why-do-radiation-cancer-treatments-sometimes-fail-new-uchicago-study-suggests-answers-and",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "UChicago Medicine study could help immune cells attack tumors rather than protect them",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Rise in US colon cancer rates not limited to young adults, analysis finds",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/rise-us-colon-cancer-rates-not-limited-young-adults-analysis-finds-2026-10-30/",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "A new hub for writing, in the age of AI",
+      "url": "https://news.uchicago.edu/story/new-hub-writing-age-ai",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "UChicago community celebrates the launch of the Chicago Center for Writing",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

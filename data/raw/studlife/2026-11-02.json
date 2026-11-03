@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-02T19:00:15.550862",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "WashU students react to new data on the postgrad earnings of different majors",
+      "url": "https://www.studlife.com/news/2026/11/02/new-york-times-releases-database-to-aid-students-in-comparing-majors-across-schools",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein, Sara Strassberg",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Former Ukrainian president urges WashU community to stand with his nation",
+      "url": "https://www.studlife.com/news/2026/10/30/former-ukrainian-president-urges-washu-community-to-stand-with-his-nation",
+      "date": "2026-10-30",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

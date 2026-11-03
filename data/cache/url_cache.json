@@ -32080,5 +32080,227 @@
     "fetch_time": "2026-11-01T19:00:25.082801",
     "title": "Presidential Message on All Saints’ Day",
     "category": "ai"
+  },
+  "https://chicagoquantum.org/news/aaron-fluitt-joins-chicago-quantum-exchange-ceo": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-02T19:00:08.762421",
+    "title": "Aaron Fluitt joins the Chicago Quantum Exchange as CEO",
+    "category": "quantum"
+  },
+  "https://www.mccormick.northwestern.edu/news/articles/2026/10/students-explore-quantum-science-and-technology-on-global-engineering-trek-to-turkiye/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-02T19:00:08.762421",
+    "title": "Northwestern Students Explore Quantum Science and Technology on Global Engineering Trek to Türkiye",
+    "category": "education"
+  },
+  "https://www.augie.edu/news/2026/augustana-faculty-visiting-artists-showcase-work-eide/dalrymple-gallery": {
+    "source": "augie_news",
+    "fetch_time": "2026-11-02T19:00:08.957416",
+    "title": "Augustana Faculty, Visiting Artists to Showcase Work at Eide/Dalrymple Gallery",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/online-learning/2026/11/02/5-best-practices-for-building-a-university-wide-model-for-online-enrollment-growth/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-11-02T19:00:09.221553",
+    "title": "5 best practices for building a university-wide model for online enrollment growth",
+    "category": "education"
+  },
+  "https://www.csis.org/analysis/what-are-us-military-options-iran": {
+    "source": "csis",
+    "fetch_time": "2026-11-02T19:00:09.487238",
+    "title": "What Are U.S. Military Options in Iran?",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/who-controls-ukraines-starlink-access": {
+    "source": "csis",
+    "fetch_time": "2026-11-02T19:00:09.487238",
+    "title": "Who Controls Ukraine’s Starlink Access?",
+    "category": "ai"
+  },
+  "https://news.iu.edu/kelley/live/news/54305-how-kelley-student-paulina-selicorni-and-a-bunny": {
+    "source": "kelley",
+    "fetch_time": "2026-11-02T19:00:11.319009",
+    "title": "How Kelley student Paulina Selicorni and a bunny named Benny are helping kids build financial literacy",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/54324-cook-medical-and-indiana-university-open-iu": {
+    "source": "iu_news",
+    "fetch_time": "2026-11-02T19:00:11.390944",
+    "title": "Cook Medical and Indiana University open IU Interventional MRI/CMR Center of Excellence",
+    "category": "education"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-11-02-introducing-the-center-for-education-innovation-and-entrepreneurship.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-11-02T19:00:11.434727",
+    "title": "Introducing the Center for Education Innovation and Entrepreneurship",
+    "category": "education"
+  },
+  "https://heartland.org/opinion/the-public-school-exodus-continues/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-11-02T19:00:11.539087",
+    "title": "The Public School Exodus Continues",
+    "category": "education"
+  },
+  "https://news.nd.edu/news/notre-dame-campus-ministry-announces-global-saints-initiative-in-basilica-of-the-sacred-heart/": {
+    "source": "nd_news",
+    "fetch_time": "2026-11-02T19:00:12.953336",
+    "title": "Notre Dame Campus Ministry announces Global Saints Initiative in Basilica of the Sacred Heart",
+    "category": "ai"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/02/majorities-in-both-parties-say-media-criticism-keeps-politicians-in-check/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-02T19:00:14.066217",
+    "title": "Majorities in Both Parties Say Media Criticism Keeps Politicians in Check",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/02/americans-trust-in-information-from-news-organizations-has-risen-in-the-past-year/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-02T19:00:14.066217",
+    "title": "Americans’ Trust in Information From News Organizations Has Risen in the Past Year",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/decoded/2026/11/02/how-many-people-in-the-us-are-middle-eastern-or-north-african/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-02T19:00:14.066217",
+    "title": "How Many People in the U.S. Are Middle Eastern or North African?",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/election-night-and-beyond-making-sense-midterms": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-02T19:00:15.599080",
+    "title": "Election Night and Beyond: Making Sense of the Midterms",
+    "category": "general"
+  },
+  "https://www.bostonglobe.com/2026/11/02/opinion/higher-ed-unbundling-khurana-boyer/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-02T19:00:15.599080",
+    "title": "Why a research university needs an art history department",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/why-do-radiation-cancer-treatments-sometimes-fail-new-uchicago-study-suggests-answers-and": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-02T19:00:15.599080",
+    "title": "Why do radiation cancer treatments sometimes fail? A new UChicago study suggests answers—and a solution",
+    "category": "ai"
+  },
+  "https://www.reuters.com/business/healthcare-pharmaceuticals/rise-us-colon-cancer-rates-not-limited-young-adults-analysis-finds-2026-10-30/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-02T19:00:15.599080",
+    "title": "Rise in US colon cancer rates not limited to young adults, analysis finds",
+    "category": "general"
+  },
+  "https://www.studlife.com/news/2026/11/02/new-york-times-releases-database-to-aid-students-in-comparing-majors-across-schools": {
+    "source": "studlife",
+    "fetch_time": "2026-11-02T19:00:15.642261",
+    "title": "WashU students react to new data on the postgrad earnings of different majors",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-celebrates-65-years-of-peace-corps-service-around-the-world/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-02T19:00:15.757462",
+    "title": "Mizzou celebrates 65 years of Peace Corps service around the world",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researchers-seek-better-ways-to-support-families-affected-by-dementia/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-02T19:00:15.757462",
+    "title": "Mizzou researchers seek better ways to support families affected by dementia",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/finding-her-voice-through-mizzou-traditions/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-02T19:00:15.757462",
+    "title": "Finding her voice through Mizzou traditions",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/media-advisory-university-of-missouri-to-celebrate-grant-expanding-kinder-institutes-global-opportunities/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-02T19:00:15.757462",
+    "title": "MEDIA ADVISORY: University of Missouri to celebrate grant expanding Kinder Institute’s global opportunities",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-community-prepares-for-midterm-elections/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-02T19:00:15.832138",
+    "title": "UIC community prepares for midterm elections",
+    "category": "education"
+  },
+  "https://today.uic.edu/1-2-m-grant-funds-uic-research-investigating-tooth-regeneration/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-02T19:00:15.832138",
+    "title": "$1.2 M grant funds UIC research on tooth regeneration",
+    "category": "semiconductor"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-0917-purdue-mem-alumnus-daya-cross-border-payments": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-11-02T19:00:16.559481",
+    "title": "From Purdue MEM to $2.4 million investment",
+    "category": "semiconductor"
+  },
+  "/news/2026/11/tracers-mission-extended-spring-2027": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-02T19:00:16.811199",
+    "title": "TRACERS mission extended to spring 2027",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/small-class-sizes-brought-minneapolis-native-uni": {
+    "source": "uni_news",
+    "fetch_time": "2026-11-02T19:00:17.362912",
+    "title": "Small class sizes brought this Minneapolis native to UNI",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/washu-expert-addressing-the-youth-mental-health-crisis/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-02T19:00:17.704515",
+    "title": "Addressing the youth mental health crisis",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/11/to-restore-attention-reach-out-to-nature/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-02T19:00:17.704515",
+    "title": "To restore attention, reach out to nature",
+    "category": "general"
+  },
+  "https://news.wisc.edu/search-begins-for-cals-dean/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-02T19:00:17.772347",
+    "title": "Search begins for CALS dean",
+    "category": "semiconductor"
+  },
+  "https://news.wisc.edu/save-the-dates-uw-madison-chancellor-finalist-presentations/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-02T19:00:17.772347",
+    "title": "Save the dates: UW–Madison Chancellor finalist presentations",
+    "category": "education"
+  },
+  "https://news.wisc.edu/robert-george-cornel-west-truth-seeking-starts-with-admitting-you-might-be-wrong/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-02T19:00:17.772347",
+    "title": "Robert George, Cornel West: Truth-seeking starts with admitting you might be wrong",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-02T19:00:17.849151",
+    "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-02T19:00:17.849151",
+    "title": "President Trump’s Second Term: Promises Made, Promises Kept, Results Delivered",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-in-the-national-news-october-2026": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-02T19:00:17.885395",
+    "title": "Nebraska in the national news: October 2026",
+    "category": "general"
+  },
+  "https://engineering.washu.edu/news/2026/New-plant-inspired-natural-coatings-can-beat-forever-chemicals.html": {
+    "source": "washu_engineering",
+    "fetch_time": "2026-11-02T19:00:18.019615",
+    "title": "New, plant-inspired natural coatings can beat forever chemicals",
+    "category": "education"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-02T19:00:17.647944",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Addressing the youth mental health crisis",
+      "url": "https://source.washu.edu/2026/11/washu-expert-addressing-the-youth-mental-health-crisis/",
+      "date": "2026-11-02",
+      "type": "Mental Health",
+      "summary_en": "Child and adolescent psychiatrist Cynthia Rogers discusses how WashU Medicine’s clinical expertise, research and expanded access to care are improving the lives of children and their families.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "To restore attention, reach out to nature",
+      "url": "https://source.washu.edu/2026/11/to-restore-attention-reach-out-to-nature/",
+      "date": "2026-11-02",
+      "type": "Psychology",
+      "summary_en": "Psychology researchers at WashU have found evidence that children’s exposure to natural spaces correlates with improved attention and achievement scores.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Miller, Thakor receive faculty achievement awards",
+      "url": "https://source.washu.edu/2026/10/miller-thakor-receive-faculty-achievement-awards/",
+      "date": "2026-10-30",
+      "type": "Awards & Notables",
+      "summary_en": "Timothy Miller and Anjan Thakor are the recipients of WashU’s 2026 faculty achievement awards. They were among several people recognized during WashU’s annual Founders Day celebration.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

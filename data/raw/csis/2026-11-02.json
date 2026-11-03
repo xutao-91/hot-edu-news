@@ -1,0 +1,64 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-11-02T19:00:09.387768",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "All About the Base | AATB on Location: Conversations from AUSA",
+      "url": "https://www.csis.org/events/all-about-base-aatb-location-conversations-ausa",
+      "date": "2026-11-02",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What’s Happening Between the Two Koreas at the DMZ? | The Capital Cable #145",
+      "url": "https://www.csis.org/events/whats-happening-between-two-koreas-dmz-capital-cable-145",
+      "date": "2026-11-02",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK",
+      "url": "https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk",
+      "date": "2026-11-04",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions",
+      "url": "https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions",
+      "date": "2026-11-04",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What Are U.S. Military Options in Iran?",
+      "url": "https://www.csis.org/analysis/what-are-us-military-options-iran",
+      "date": "2026-11-02",
+      "summary_en": "As Washington weighs force against Tehran alongside ongoing negotiations and an economic blockade, CSIS’s Benjamin Jensen evaluates six military options ranging from coercive diplomacy and targeted strikes to a prolonged sea control campaign and covert action.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Who Controls Ukraine’s Starlink Access?",
+      "url": "https://www.csis.org/analysis/who-controls-ukraines-starlink-access",
+      "date": "2026-11-02",
+      "summary_en": "A 100 mph speed limit on Starshield terminals hindered Ukraine’s efforts to intercept Russia’s jet-powered drones. The risk of losing access during an attack gives allies another reason to build their own networks instead of buying service from U.S. companies.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "From Meters to Machine Learning: Building AI-Ready Utilities in India",
+      "url": "https://www.csis.org/analysis/meters-machine-learning-building-ai-ready-utilities-india",
+      "date": "2026-10-30",
+      "summary_en": "Can AI help improve India’s power distribution utilities? An original survey of utilities in Tamil Nadu and Odisha finds that strong digital infrastructure, interoperable data, and in-house capacity will determine whether AI can deliver results at scale.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-11-02T19:00:09.137206",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "5 best practices for building a university-wide model for online enrollment growth",
+      "url": "https://www.ecampusnews.com/online-learning/2026/11/02/5-best-practices-for-building-a-university-wide-model-for-online-enrollment-growth/",
+      "date": "2026-11-02",
+      "type": "Online Learning",
+      "summary_en": "For many universities, online education does not develop according to a single institutional blueprint.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    },
+    {
+      "title": "Beyond the script: Why every faculty interview needs a few unexpected questions",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/10/30/beyond-the-script-why-every-faculty-interview-needs-a-few-unexpected-questions/",
+      "date": "2026-10-30",
+      "type": "Faculty & Staff",
+      "summary_en": "Faculty interviews are, by necessity, somewhat formulaic. Candidates expect questions about their teaching philosophy. They anticipate discussions about their research interests, publication agenda, student mentoring experience, commitment to diversity and inclusion, service contributions, and long-term professional goals.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

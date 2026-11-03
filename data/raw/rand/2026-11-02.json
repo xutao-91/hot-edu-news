@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-02T19:00:15.516026",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Development, Validation and AI Chatbot Evaluation of the Adolescent Mental Health AI Response Tool",
+      "url": "https://www.rand.org/pubs/external_publications/EP71522.html",
+      "date": "Oct 30, 2026",
+      "type": "Research",
+      "summary_en": "The authors developed and validated a clinician-informed tool for auditing AI chatbot responses to adolescent mental health disclosures and used it to compare four major chatbots, finding better coverage of guideline-informed content for anxiety than depression and for moderate than severe presentations.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-11-02T19:00:17.783773",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/",
+      "date": "November 2, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Second Term: Promises Made, Promises Kept, Results Delivered",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/",
+      "date": "November 2, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on All Saints’ Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
+      "date": "November 1, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on Reformation Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/presidential-message-on-reformation-day/",
+      "date": "October 31, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "WHAT THEY ARE SAYING: President Trump Puts America’s Fishermen First and Secures American Seafood Dominance",
+      "url": "https://www.whitehouse.gov/releases/2026/10/what-they-are-saying-president-trump-puts-americas-fishermen-first-and-secures-american-seafood-dominance/",
+      "date": "October 30, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    }
+  ]
+}
