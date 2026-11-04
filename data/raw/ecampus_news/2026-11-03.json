@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-11-03T19:00:11.839653",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "5 best practices for building a university-wide model for online enrollment growth",
+      "url": "https://www.ecampusnews.com/online-learning/2026/11/02/5-best-practices-for-building-a-university-wide-model-for-online-enrollment-growth/",
+      "date": "2026-11-02",
+      "type": "Online Learning",
+      "summary_en": "For many universities, online education does not develop according to a single institutional blueprint.",
+      "source": "eCampus News",
+      "category": "higher_ed"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-11-03T19:00:15.943733",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK",
+      "url": "https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk",
+      "date": "2026-11-04",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Modernization of South American Militaries: Opportunities, Challenges, and Future Directions",
+      "url": "https://www.csis.org/events/modernization-south-american-militaries-opportunities-challenges-and-future-directions",
+      "date": "2026-11-04",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Antitrust and National Security: Balancing Competition, Innovation, and Technological Leadership",
+      "url": "https://www.csis.org/events/antitrust-and-national-security-balancing-competition-innovation-and-technological",
+      "date": "2026-11-05",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Rebuilding Regional Connectivity: A Conversation with Lebanon’s Minister of Public Works and Transport H.E. Fayez Rasamny",
+      "url": "https://www.csis.org/events/rebuilding-regional-connectivity-conversation-lebanons-minister-public-works-and-transport",
+      "date": "2026-11-09",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Future of USMCA",
+      "url": "https://www.csis.org/analysis/future-usmca",
+      "date": "2026-11-03",
+      "summary_en": "In this week’s column, William Alan Reinsch discusses the difference between the type of North American trade agreement that the United States wants and the type of agreement that would benefit all three countries on the continent.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Technology Clusters and National Power: The Case of Albany NanoTech",
+      "url": "https://www.csis.org/analysis/technology-clusters-and-national-power-case-albany-nanotech",
+      "date": "2026-11-03",
+      "summary_en": "Albany NanoTech shows how sustained public investment, shared infrastructure, industry partnerships, and workforce development can turn a regional semiconductor cluster into a strategic asset for U.S. technological leadership and national security.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What Are U.S. Military Options in Iran?",
+      "url": "https://www.csis.org/analysis/what-are-us-military-options-iran",
+      "date": "2026-11-02",
+      "summary_en": "As Washington weighs force against Tehran alongside ongoing negotiations and an economic blockade, CSIS’s Benjamin Jensen evaluates six military options ranging from coercive diplomacy and targeted strikes to a prolonged sea control campaign and covert action.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Who Controls Ukraine’s Starlink Access?",
+      "url": "https://www.csis.org/analysis/who-controls-ukraines-starlink-access",
+      "date": "2026-11-02",
+      "summary_en": "A 100 mph speed limit on Starshield terminals hindered Ukraine’s efforts to intercept Russia’s jet-powered drones. The risk of losing access during an attack gives allies another reason to build their own networks instead of buying service from U.S. companies.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Deepfakes Are Dominating Global Elections, and Regulation Is Playing Catch-Up",
+      "url": "https://www.csis.org/analysis/deepfakes-are-dominating-global-elections-and-regulation-playing-catch",
+      "date": "2026-11-02",
+      "summary_en": "As AI-generated deepfakes become increasingly prevalent in elections worldwide, governments are struggling to distinguish political expression from deception and enforce regulations before misleading content reaches voters.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

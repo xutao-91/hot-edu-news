@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-03T19:00:18.647355",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Canada-EU alliance to expand opportunities for students",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-11-03",
+      "type": "Partnerships",
+      "summary_en": "A newly announced alliance between Canada and the EU could create new opportunities for students on both sides of the Atlantic and forge closer academic ties between the two partners.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "Natalie Cryan, QS",
+      "url": "https://thepienews.com/category/voices/five-mins-with/",
+      "date": "2026-11-03",
+      "type": "Five mins with",
+      "summary_en": "This week, The PIE spent five minutes with Natalie Cryan, senior vice president, Future Students at QS, to discuss embracing change and why people remain the most important part of the job.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Five things we learned about Australian TNE at AIEC 2026",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-11-03",
+      "type": "Transnational education",
+      "summary_en": "From the commercial challenge to government’s role, delegates set out what it will take to build stronger offshore partnerships.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Germany’s international student push turns to retention",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-11-03",
+      "type": "Recruitment & agents",
+      "summary_en": "Germany’s popularity as a study destination remains strong, but attention is shifting from growth alone to attracting the right students and helping them succeed. Panellists at The PIE Live Germany discussed how language, academic integration and a decentralised support system will shape the country’s ability to retain international talent.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "UK to raise HPI visa cap as eligibility expands to top 150 universities",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "The UK government has announced that there will be a “proportional increase” in the current yearly cap on High Potential Individual visa applications, as the government unveils new plans to “go further in attracting the world’s best graduates”.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "New Zealand student experience hits record high, but work opportunities lag",
+      "url": "https://thepienews.com/category/news/student-experience/",
+      "date": "2026-11-02",
+      "type": "Student experience",
+      "summary_en": "International student satisfaction in New Zealand has reached its highest level since national surveying began, though students continue to report difficulties finding work alongside their studies.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    }
+  ]
+}

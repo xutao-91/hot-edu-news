@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-03T19:00:20.092841",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Data exposure revealed hundreds of internal University documents to students, faculty, and staff",
+      "url": "https://www.studlife.com/news/2026/11/03/data-exposure-revealed-hundreds-of-internal-university-documents-to-students-faculty-and-staff",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "author": "Laurel Wang, Coby Rinke, Elizabeth Stump",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "College Democrats and Republicans debate the state of politics before midterms",
+      "url": "https://www.studlife.com/news/2026/11/03/college-democrats-and-republicans-debate-the-state-of-politics-before-midterms",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tanvi Gorre",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "The result of Amendment 3 in today’s election will determine access to reproductive healthcare for WashU community and fellow Missourians",
+      "url": "https://www.studlife.com/news/2026/11/03/the-result-of-amendment-3-in-todays-election-will-determine-access-to-reproductive-healthcare-for-washu-community-and-fellow-missourians",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "author": "Lexi Lawsky, Sara Strassberg",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "WashU students react to new data on the postgrad earnings of different majors",
+      "url": "https://www.studlife.com/news/2026/11/02/new-york-times-releases-database-to-aid-students-in-comparing-majors-across-schools",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "author": "Caroline Goldstein, Sara Strassberg",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}

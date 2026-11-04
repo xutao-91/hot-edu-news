@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-11-03T19:00:21.888869",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Nebraska Research Days to showcase faculty work, collaboration",
+      "url": "https://news.unl.edu/article/nebraska-research-days-to-showcase-faculty-work-collaboration",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "University Libraries join downtown Lincoln project",
+      "url": "https://news.unl.edu/article/university-libraries-join-downtown-lincoln-project",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Winn honored for supporting future environmental leaders",
+      "url": "https://news.unl.edu/article/winn-honored-for-supporting-future-environmental-leaders",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "agriculture"
+    },
+    {
+      "title": "Residency inspires Fritz's new work exploring connections to nature",
+      "url": "https://news.unl.edu/article/residency-inspires-fritzs-new-work-exploring-connections-to-nature",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska in the national news: October 2026",
+      "url": "https://news.unl.edu/article/nebraska-in-the-national-news-october-2026",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    }
+  ]
+}

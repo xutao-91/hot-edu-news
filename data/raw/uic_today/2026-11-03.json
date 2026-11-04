@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-11-03T19:00:21.443735",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UIC community prepares for midterm elections",
+      "url": "https://today.uic.edu/uic-community-prepares-for-midterm-elections/",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "UIC students, and anyone who lives in Chicago, can vote on campus in Student Center East Nov. 2-3.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "$1.2 M grant funds UIC research on tooth regeneration",
+      "url": "https://today.uic.edu/1-2-m-grant-funds-uic-research-investigating-tooth-regeneration/",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "Anne George will investigate how tooth protein protects stem cells.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

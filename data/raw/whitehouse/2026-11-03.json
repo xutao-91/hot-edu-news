@@ -1,0 +1,78 @@
+{
+  "source": "The White House",
+  "source_url": "https://www.whitehouse.gov/news/",
+  "crawled_at": "2026-11-03T19:00:22.462794",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "ANTI-COMMUNISM WEEK, 2026",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/anti-communism-week-2026/",
+      "date": "November 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "THE AMERICAN DECLARATION OF FREEDOM IN SPACE",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/11/the-american-declaration-of-freedom-in-space/",
+      "date": "November 3, 2026",
+      "category": "Presidential Actions",
+      "source": "The White House"
+    },
+    {
+      "title": "Congressional Bills H.R. 1744 and H.R. 8205 Signed into Law",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/congressional-bills-h-r-1744-and-h-r-8205-signed-into-law/",
+      "date": "November 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "ICYMI: Drug Prices Are Falling at the Fastest Rate in Over 60 Years Under President Trump",
+      "url": "https://www.whitehouse.gov/releases/2026/11/icymi-drug-prices-are-falling-at-the-fastest-rate-in-over-60-years-under-president-trump/",
+      "date": "November 3, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "ICYMI: Relentless Travel Schedule Puts Trump Administration’s Results Front and Center",
+      "url": "https://www.whitehouse.gov/releases/2026/11/icymi-relentless-travel-schedule-puts-trump-administrations-results-front-and-center/",
+      "date": "November 3, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Is Powering an American Manufacturing Renaissance",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-is-powering-an-american-manufacturing-renaissance/",
+      "date": "November 3, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "First Lady Melania Trump to Convene Russian and Ukrainian Representatives at the White House",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-to-convene-russian-and-ukrainian-representatives-at-the-white-house/",
+      "date": "November 3, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump Completes Historic Travel Blitz: 30 Events, 20 States, 32 Days",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-completes-historic-travel-blitz-30-events-20-states-32-days/",
+      "date": "November 2, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "President Trump’s Second Term: Promises Made, Promises Kept, Results Delivered",
+      "url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-second-term-promises-made-promises-kept-results-delivered/",
+      "date": "November 2, 2026",
+      "category": "Releases",
+      "source": "The White House"
+    },
+    {
+      "title": "Presidential Message on All Saints’ Day",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-all-saints-day-3b81/",
+      "date": "November 1, 2026",
+      "category": "Briefings & Statements",
+      "source": "The White House"
+    }
+  ]
+}
