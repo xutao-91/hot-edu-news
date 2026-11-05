@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-04T19:00:10.997983",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Simons Observatory begins probing the birth of the universe",
+      "url": "https://news.uchicago.edu/story/simons-observatory-begins-probing-birth-universe",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "‘An exhilarating period for science,’ say UChicago scientists who played key role in telescope design and deployment",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago, Toyota collaborate to advance quantum technologies for future mobility and transportation",
+      "url": "https://news.uchicago.edu/story/uchicago-toyota-collaborate-advance-quantum-technologies-future-mobility-and-transportation",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "Multi-year research agreement will address key challenges in sensing, communication and energy storage",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago-Caltech conference examines the expanding frontiers of scientific AI",
+      "url": "https://news.uchicago.edu/story/uchicago-caltech-conference-examines-expanding-frontiers-scientific-ai",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "Event includes announcement of major grant from Schmidt Sciences to boost capacity for AI and computational science",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Election Night and Beyond: Making Sense of the Midterms",
+      "url": "https://news.uchicago.edu/election-night-and-beyond-making-sense-midterms",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Why a research university needs an art history department",
+      "url": "https://www.bostonglobe.com/2026/11/02/opinion/higher-ed-unbundling-khurana-boyer/",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "Why do radiation cancer treatments sometimes fail? A new UChicago study suggests answers—and a solution",
+      "url": "https://news.uchicago.edu/story/why-do-radiation-cancer-treatments-sometimes-fail-new-uchicago-study-suggests-answers-and",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "UChicago Medicine study could help immune cells attack tumors rather than protect them",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

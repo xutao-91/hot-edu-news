@@ -1,0 +1,46 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-11-04T19:00:09.371287",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Majorities in Both Parties Say Media Criticism Keeps Politicians in Check",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/02/majorities-in-both-parties-say-media-criticism-keeps-politicians-in-check/",
+      "date": "Nov 2, 2026",
+      "type": "short reads",
+      "categories": [
+        "News Habits Media",
+        "Politics Media 1"
+      ],
+      "summary_en": "Overall, 80% of Americans express this view, up from 75% in September 2025. Another 16% say such criticism keeps political leaders from doing their job.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Americans’ Trust in Information From News Organizations Has Risen in the Past Year",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/02/americans-trust-in-information-from-news-organizations-has-risen-in-the-past-year/",
+      "date": "Nov 2, 2026",
+      "type": "short reads",
+      "categories": [
+        "Social Media News",
+        "Trust In Media"
+      ],
+      "summary_en": "Trust in national and local news has risen since last year across parties and age groups, while trust in social media is virtually unchanged.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "How Many People in the U.S. Are Middle Eastern or North African?",
+      "url": "https://www.pewresearch.org/decoded/2026/11/02/how-many-people-in-the-us-are-middle-eastern-or-north-african/",
+      "date": "Nov 2, 2026",
+      "type": "decoded",
+      "categories": [
+        "Demographic Research"
+      ],
+      "summary_en": "Estimates of the U.S. Middle Eastern or North African population range from 3.1 to 5.2 million in 2024, depending on how ancestry, race and language are counted.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

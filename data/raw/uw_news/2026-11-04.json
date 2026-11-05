@@ -1,0 +1,80 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-11-04T19:00:12.227578",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "A campus to fall for",
+      "url": "https://news.wisc.edu/a-campus-to-fall-for/",
+      "date": "November 4, 2026",
+      "type": "News",
+      "summary_en": "Take in autumn at UW–Madison, where Badgers welcome brisk days and burnished views.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Learning and earning: Another banner academic year for UW–Madison degree recipients",
+      "url": "https://news.wisc.edu/learning-and-earning-another-banner-academic-year-for-uw-madison-degree-recipients/",
+      "date": "November 4, 2026",
+      "type": "News",
+      "summary_en": "The university awarded a record number of degrees during the 2025-26 academic year, with students earning an undergraduate degree at the fastest pace ever.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison information about Nov. 3 Crime Warning",
+      "url": "https://news.wisc.edu/uw-madison-information-about-nov-3-crime-warning/",
+      "date": "November 3, 2026",
+      "type": "News",
+      "summary_en": "UW-Madison is investigating anonymous reports of drugging that were received by the university.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Remembering educator, advocate and philanthropist Tashia Morgridge",
+      "url": "https://www.uwalumni.com/news/remembering-tashia-morgridge/",
+      "date": "November 3, 2026",
+      "type": "News",
+      "summary_en": "A former teacher and advocate for literacy, Tashia Morgridge was one of UW–Madison’s most generous supporters. Her philanthropy will affect Badgers for generations.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison ranked No. 11 for ‘best value’ among public schools",
+      "url": "https://news.wisc.edu/uw-madison-ranked-no-11-for-best-value-among-public-schools/",
+      "date": "November 3, 2026",
+      "type": "News",
+      "summary_en": "Princeton Review also places the university at No. 5 for financial aid and among top 20 for career placement, alumni networks and service impact.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Search begins for CALS dean",
+      "url": "https://news.wisc.edu/search-begins-for-cals-dean/",
+      "date": "November 2, 2026",
+      "type": "News",
+      "summary_en": "Members of the UW–Madison community can give input to the search committee through an online survey or at public listening sessions on Nov. 18 and 19.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Save the dates: UW–Madison chancellor finalist presentations",
+      "url": "https://news.wisc.edu/save-the-dates-uw-madison-chancellor-finalist-presentations/",
+      "date": "November 2, 2026",
+      "type": "News",
+      "summary_en": "Faculty, staff and students, as well as alumni and members of the public, are encouraged to attend the sessions the week of Nov. 9.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Robert George, Cornel West: Truth-seeking starts with admitting you might be wrong",
+      "url": "https://news.wisc.edu/robert-george-cornel-west-truth-seeking-starts-with-admitting-you-might-be-wrong/",
+      "date": "November 2, 2026",
+      "type": "News",
+      "summary_en": "Visiting UW–Madison, the two scholars and close friends from opposite ends of the political spectrum make the case for talking it out.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

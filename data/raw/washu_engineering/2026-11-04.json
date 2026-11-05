@@ -1,0 +1,26 @@
+{
+  "source": "WashU McKelvey Engineering",
+  "source_url": "https://engineering.washu.edu/news/index.html",
+  "crawled_at": "2026-11-04T19:00:13.534416",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Setton receives 2026 PSRS Lifetime Research Achievement Award",
+      "url": "https://engineering.washu.edu/news/2026/Setton-receives-2026-PSRS-Lifetime-Research-Achievement-Award.html",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "Lori Setton recognized for contributions to spine research.",
+      "source": "WashU McKelvey Engineering",
+      "category": "research"
+    },
+    {
+      "title": "New, plant-inspired natural coatings can beat forever chemicals",
+      "url": "https://engineering.washu.edu/news/2026/New-plant-inspired-natural-coatings-can-beat-forever-chemicals.html",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "Researchers at Washington University in St. Louis have developed a PFAS alternative that serves as an effective water-proof coating, without the toxic downstream effects on human health and the environment.",
+      "source": "WashU McKelvey Engineering",
+      "category": "general"
+    }
+  ]
+}

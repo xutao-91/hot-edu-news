@@ -32548,5 +32548,215 @@
     "fetch_time": "2026-11-03T19:00:22.889801",
     "title": "Plant-inspired natural coatings can beat forever chemicals",
     "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/whats-canadas-new-national-security-plan": {
+    "source": "csis",
+    "fetch_time": "2026-11-04T19:00:06.597814",
+    "title": "What’s in Canada’s New National Security Plan?",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/analysis/states-weekly-november-4-2026": {
+    "source": "csis",
+    "fetch_time": "2026-11-04T19:00:06.597814",
+    "title": "States Weekly: November 4, 2026",
+    "category": "general"
+  },
+  "https://www.news.iastate.edu/news/art-and-science-christmas-carol": {
+    "source": "iastate_news",
+    "fetch_time": "2026-11-04T19:00:07.050958",
+    "title": "The art and science of ‘A Christmas Carol’",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/teaching-learning/2026/11/04/so-you-want-to-be-a-school-administrator/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-11-04T19:00:07.417514",
+    "title": "So, you want to be a school administrator?",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/54367-kelley-futurecast-moderate-steady-growth-expected": {
+    "source": "kelley",
+    "fetch_time": "2026-11-04T19:00:07.720017",
+    "title": "Kelley Futurecast: Moderate steady growth expected for 2027 economy",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/54281-down-to-earth-iu-alumni-tackle-housing-crisis-by": {
+    "source": "iu_news",
+    "fetch_time": "2026-11-04T19:00:07.521565",
+    "title": "Down to earth: IU alumni tackle housing crisis by modernizing ancient building technology with AI",
+    "category": "ai"
+  },
+  "https://www.iit.edu/news/illinois-tech-athletics-digest-womens-volleyball-sweeps-pair-nacc-games": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-04T19:00:07.693856",
+    "title": "Illinois Tech Athletics Digest: Women’s Volleyball Sweeps Pair of NACC Games",
+    "category": "ai"
+  },
+  "https://www.brookings.edu/articles/localizing-agency-co-constructing-meaning-with-girls-and-communities/": {
+    "source": "brookings",
+    "fetch_time": "2026-11-04T19:00:07.693856",
+    "title": "Localizing agency: Co-constructing meaning with girls and communities",
+    "category": "general"
+  },
+  "https://www.mcw.edu/newsroom/news-articles/medical-college-of-wisconsin-announces-advancing-a-healthier-wisconsin-endowment-executive-director": {
+    "source": "mcw_cancer",
+    "fetch_time": "2026-11-04T19:00:08.492877",
+    "title": "Medical College of Wisconsin Announces  Advancing a Healthier Wisconsin Endowment Executive Director",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/hartland-named-editor-in-chief-of-the-journal-of-physical-chemistry-letters/": {
+    "source": "nd_science",
+    "fetch_time": "2026-11-04T19:00:08.834419",
+    "title": "Hartland named Editor-In-Chief of The Journal of Physical Chemistry Letters",
+    "category": "semiconductor"
+  },
+  "https://oneill.indiana.edu/news/2026-1104-appam-research-conference.html": {
+    "source": "oneill",
+    "fetch_time": "2026-11-04T19:00:09.506851",
+    "title": "O'Neill researchers set to make impact at APPAM Conference",
+    "category": "education"
+  },
+  "https://news.northwestern.edu/stories/2026/11/search-committee-formed-to-find-new-vice-president-for-research": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-11-04T19:00:09.775104",
+    "title": "Search committee formed to find new Vice President for Research",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/ku-team-plans-us-network-for-high-quality-reference-genome-sequencing": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-04T19:00:10.512400",
+    "title": "KU team plans US network for high-quality reference genome sequencing",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-to-celebrate-first-generation-jayhawks-at-i-am-first-too-poster-unveiling": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-04T19:00:10.512400",
+    "title": "KU to celebrate first-generation Jayhawks at I Am First Too poster unveiling",
+    "category": "education"
+  },
+  "https://www.rockhurst.edu/news/2026-11-04/alumni-come-back-classroom-leadership-and-ethics-day": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-11-04T19:00:10.725292",
+    "title": "Alumni Come Back to the Classroom for Leadership and Ethics Day",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/commentary/2026/11/preparedness-for-the-ai-era-requires-a-reserve-of-critical.html": {
+    "source": "rand",
+    "fetch_time": "2026-11-04T19:00:10.805644",
+    "title": "Preparedness for the AI Era Requires a Reserve of Critical Workers",
+    "category": "ai"
+  },
+  "https://www.rand.org/pubs/external_publications/EP71555.html": {
+    "source": "rand",
+    "fetch_time": "2026-11-04T19:00:10.805644",
+    "title": "Governing Augmentative Brain-Computer Interfaces",
+    "category": "ai"
+  },
+  "https://www.studlife.com/news/2026/11/04/washu-faculty-debate-should-academic-freedom-protect-racist-or-sexist-research": {
+    "source": "studlife",
+    "fetch_time": "2026-11-04T19:00:10.810653",
+    "title": "WashU faculty debate: Should academic freedom protect racist or sexist research?",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-students-contribute-to-murrs-continued-global-expansion/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-04T19:00:10.856186",
+    "title": "Mizzou students contribute to MURR’s continued global expansion",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/first-generation-mizzou-student-finds-her-calling-in-nuclear-medicine-and-helping-others/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-04T19:00:10.856186",
+    "title": "First-generation Mizzou student finds her calling in nuclear medicine — and helping others",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/story/simons-observatory-begins-probing-birth-universe": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-04T19:00:11.058469",
+    "title": "Simons Observatory begins probing the birth of the universe",
+    "category": "semiconductor"
+  },
+  "https://today.uic.edu/uic-researcher-developing-intelligent-welding-technology-for-deep-space-exploration/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-04T19:00:11.341152",
+    "title": "UIC researcher develops intelligent welding technology for deep-space exploration",
+    "category": "space"
+  },
+  "https://news.unl.edu/article/honors-student-conference-showcases-experiential-learning-professional-development": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-04T19:00:11.900522",
+    "title": "Honors student conference showcases experiential learning, professional development",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/jacobs-land-returns-documentary-to-air-on-pbs": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-04T19:00:11.900522",
+    "title": "Jacobs' ‘Land Returns’ documentary to air on PBS",
+    "category": "ai"
+  },
+  "https://news.unl.edu/article/nebraska-study-reveals-hidden-financial-costs-of-online-sports-betting": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-04T19:00:11.900522",
+    "title": "Nebraska study reveals hidden financial costs of online sports betting",
+    "category": "general"
+  },
+  "https://news.wisc.edu/a-campus-to-fall-for/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-04T19:00:12.277845",
+    "title": "A campus to fall for",
+    "category": "general"
+  },
+  "https://news.wisc.edu/learning-and-earning-another-banner-academic-year-for-uw-madison-degree-recipients/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-04T19:00:12.277845",
+    "title": "Learning and earning: Another banner academic year for UW–Madison degree recipients",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/voters-choose-more-affordable-future-strong-public-schools-and-safer-communities": {
+    "source": "nea_news",
+    "fetch_time": "2026-11-04T19:00:12.449107",
+    "title": "Voters choose a more affordable future, strong public schools and safer communities",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/washu-dance-theatre-right-now-nov-6-to-8/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-04T19:00:12.870645",
+    "title": "WashU Dance Theatre: ‘right now’ Nov. 6 to 8",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/11/cannabis-involved-in-most-substance-related-emergency-visits-among-teens-young-adults/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-04T19:00:12.870645",
+    "title": "Cannabis involved in most substance-related emergency visits among teens, young adults",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/president-trump-will-again-defy-the-odds-the-fake-news-and-the-radical-left/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-04T19:00:12.906088",
+    "title": "President Trump Will Again Defy the Odds, the Fake News, and the Radical Left",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/11/first-lady-melania-trump-and-lsu-establish-5-million-fostering-the-future-endowment-fund/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-04T19:00:12.906088",
+    "title": "First Lady Melania Trump and LSU Establish $5 Million Fostering the Future Endowment Fund",
+    "category": "general"
+  },
+  "/news/2026/11/ui-honors-2026-hawkeye-distinguished-veterans-award-recipients": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-04T19:00:13.902834",
+    "title": "UI honors 2026 Hawkeye Distinguished Veterans Award recipients",
+    "category": "education"
+  },
+  "/news/2026/11/no-place-home-hawkeyes-come-together-homecoming-2026": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-04T19:00:13.902834",
+    "title": "No place like home: Hawkeyes come together for Homecoming 2026",
+    "category": "ai"
+  },
+  "/news/2026/11/viewing-world-through-hawkeye-eyes": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-04T19:00:13.902834",
+    "title": "Viewing the world through Hawkeye eyes",
+    "category": "education"
   }
 }
