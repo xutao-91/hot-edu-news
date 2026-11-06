@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-05T19:00:10.669396",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "How academic advisors help students at UNI",
+      "url": "https://insideuni.uni.edu/campus-community/how-academic-advisors-help-students-uni",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "It's registration season for Panthers, which means it's the perfect time to schedule a meeting with your academic advisor at the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "Celebrating 30 Years of the UNI John Pappajohn Entrepreneurial Center",
+      "url": "https://insideuni.uni.edu/celebrating-30-years-uni-john-pappajohn-entrepreneurial-center",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "From bold ideas to thriving businesses, discover how UNI’s John Pappajohn Entrepreneurial Center has helped turn entrepreneurial dreams into reality for 30 years.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Small class sizes brought this Minneapolis native to UNI",
+      "url": "https://insideuni.uni.edu/campus-community/small-class-sizes-brought-minneapolis-native-uni",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "For Minneapolis native Lela Sabin, her goal was always to go out of state for college. UNI’s Neighboring State Rate allowed her to make that happen at a more affordable price.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

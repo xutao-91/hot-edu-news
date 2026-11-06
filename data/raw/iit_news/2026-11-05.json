@@ -1,0 +1,26 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-11-05T19:00:06.692035",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Law and Technology: Emerita Professor Receives LegalTech Inspiration Award",
+      "url": "https://www.iit.edu/news/law-and-technology-emerita-professor-receives-legaltech-inspiration-award",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "“I’m thrilled to be recognized by the UIA for my work in the field of law and technology,” says Chicago-Kent College of Law University Distinguished Professor Emerita Lori B. Andrews. Andrews, who...",
+      "source": "IIT News",
+      "category": "law"
+    },
+    {
+      "title": "Illinois Tech Athletics Digest: Women’s Volleyball Sweeps Pair of NACC Games",
+      "url": "https://www.iit.edu/news/illinois-tech-athletics-digest-womens-volleyball-sweeps-pair-nacc-games",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "Each week, the Illinois Tech Athletics Digest will look back at the week that was in Scarlet Hawks athletics and provide a brief glimpse at what is up next. Up First November 3: Women’s Soccer versus...",
+      "source": "IIT News",
+      "category": "general"
+    }
+  ]
+}

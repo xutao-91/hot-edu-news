@@ -1,0 +1,17 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-11-05T19:00:09.565052",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Search committee formed to find new Vice President for Research",
+      "url": "https://news.northwestern.edu/stories/2026/11/search-committee-formed-to-find-new-vice-president-for-research",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "research"
+    }
+  ]
+}

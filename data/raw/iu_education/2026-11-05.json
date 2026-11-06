@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-11-05T19:00:06.904505",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Junior Madi Russ makes her mark through leadership, service and school spirit",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-11-05-junior-madi-russ-makes-her-mark.html",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "Junior Madi Russ has kept a busy schedule during her time at IU: studying elementary education, competing as an athlete with IU Rowing, and even starting new student organizations, all part of how she’s making the most of her time on campus.",
+      "source": "IU School of Education",
+      "category": "general"
+    },
+    {
+      "title": "Introducing the Center for Education Innovation and Entrepreneurship",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-11-02-introducing-the-center-for-education-innovation-and-entrepreneurship.html",
+      "date": "2026-11-02",
+      "type": "News",
+      "summary_en": "The new Center for Education Innovation and Entrepreneurship helps turn innovative ideas into real-world solutions, providing opportunities for students and faculty to put their research and expertise into practice.",
+      "source": "IU School of Education",
+      "category": "education"
+    }
+  ]
+}
