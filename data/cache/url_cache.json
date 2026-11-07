@@ -33064,5 +33064,233 @@
     "fetch_time": "2026-11-05T19:00:11.449031",
     "title": "Wayne State Social Work faculty awarded Sozosei Foundation grant for crisis response study",
     "category": "general"
+  },
+  "https://news.uchicago.edu/story/ibms-most-advanced-quantum-computer-unveiled-uchicagos-hyde-park-labs": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-06T19:00:05.977445",
+    "title": "IBM’s most advanced quantum computer unveiled at UChicago’s Hyde Park Labs",
+    "category": "education"
+  },
+  "https://www.augie.edu/index%2Ephp/news/2026/augustana-school-music-celebrates-89-years-christmas-vespers-three-services": {
+    "source": "augie_news",
+    "fetch_time": "2026-11-06T19:00:06.278811",
+    "title": "Augustana School of Music Celebrates 89 Years of Christmas Vespers With Three Services",
+    "category": "education"
+  },
+  "https://bridgemi.com/michigan-education-watch/monroe-policy-renews-debate-about-trans-athletes-in-michigan-schools/": {
+    "source": "bridgemi",
+    "fetch_time": "2026-11-06T19:00:06.320576",
+    "title": "Monroe policy renews debate about trans athletes in Michigan schools",
+    "category": "education"
+  },
+  "https://www.belfercenter.org/research-analysis/when-market-decides-creeping-governance-crisis-critical-infrastructure-norways": {
+    "source": "belfer_ai",
+    "fetch_time": "2026-11-06T19:00:06.355444",
+    "title": "When the Market Decides: The Creeping Governance Crisis of Critical Infrastructure in Norway’s Datacentre Politics",
+    "category": "ai"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/11/06/instructional-design-first-ai-assisted-courseware-for-mastery-and-learner-agency/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-11-06T19:00:06.411254",
+    "title": "Instructional design first: AI-assisted courseware for mastery and learner agency",
+    "category": "ai"
+  },
+  "https://www.csis.org/events/2026-elections-new-congress-new-trade-agenda": {
+    "source": "csis",
+    "fetch_time": "2026-11-06T19:00:06.516802",
+    "title": "2026 Elections: New Congress, New Trade Agenda?",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/national-security-cannot-be-afterthought-antitrust-enforcement": {
+    "source": "csis",
+    "fetch_time": "2026-11-06T19:00:06.516802",
+    "title": "National Security Cannot Be an Afterthought in Antitrust Enforcement",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/south-korea-export-nation-or-ecosystem-power": {
+    "source": "csis",
+    "fetch_time": "2026-11-06T19:00:06.516802",
+    "title": "South Korea: Export Nation or Ecosystem Power?",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/analysis/post-election-thoughts": {
+    "source": "csis",
+    "fetch_time": "2026-11-06T19:00:06.516802",
+    "title": "Post-Election Thoughts",
+    "category": "semiconductor"
+  },
+  "https://www.iit.edu/news/illinois-tech-womens-soccer-host-nacc-tournament-title-game": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-06T19:00:07.022418",
+    "title": "Illinois Tech Women’s Soccer to Host NACC Tournament Title Game",
+    "category": "ai"
+  },
+  "https://today.iu.edu/iub/live/news/54463-faculty-100-qampa-ankit-shah-on-ai-and": {
+    "source": "kelley",
+    "fetch_time": "2026-11-06T19:00:07.267972",
+    "title": "Faculty 100 Q&A: Ankit Shah on AI and cybersecurity",
+    "category": "ai"
+  },
+  "https://learningpolicyinstitute.org/product/tx-teacher-workforce-policy-brief": {
+    "source": "learning_policy",
+    "fetch_time": "2026-11-06T19:00:07.597712",
+    "title": "Texas Teacher Workforce Policy: Evolving from Short-Term Solutions to Comprehensive Investment",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/guangyuan-frank-li-contributes-to-cancer-research-with-ai/": {
+    "source": "nd_science",
+    "fetch_time": "2026-11-06T19:00:08.590427",
+    "title": "Guangyuan (Frank) Li contributes to cancer research with AI",
+    "category": "ai"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/msoe-students-take-first-and-second-place-at-physical-ai-hackathon": {
+    "source": "msoe",
+    "fetch_time": "2026-11-06T19:00:09.137656",
+    "title": "MSOE students take first and second place at Physical AI Hackathon",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/06/a-first-look-at-polling-performance-in-2026/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-06T19:00:09.210568",
+    "title": "A First Look at Polling Performance in 2026",
+    "category": "general"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/06/about-a-third-of-americans-have-left-an-online-community/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-06T19:00:09.210568",
+    "title": "About a Third of Americans Have Left an Online Community",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/06/majority-of-americans-say-social-media-companies-news-outlets-have-too-much-power-in-politics/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-06T19:00:09.210568",
+    "title": "Majority of Americans Say Social Media Companies, News Outlets Have Too Much Power in Politics",
+    "category": "semiconductor"
+  },
+  "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-professor-inducted-purdue-university-teaching-academy": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-11-06T19:00:09.430180",
+    "title": "Purdue Polytechnic professor inducted into Purdue University Teaching Academy",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/arizona-state-professor-discusses-ceramic-additive-manufacturing-polytechnic-deans-lecture": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-11-06T19:00:09.430180",
+    "title": "Arizona State professor discusses ceramic additive manufacturing at Polytechnic Dean’s Lecture Series",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/decades-of-dedication-mizzou-supporters-commit-5-million-to-future-tigers/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-06T19:00:10.070325",
+    "title": "Decades of dedication: Mizzou supporters commit $5 million to future Tigers",
+    "category": "education"
+  },
+  "https://www.studlife.com/news/2026/11/06/doris-kearns-goodwin-on-what-it-takes-to-be-president-of-the-united-states": {
+    "source": "studlife",
+    "fetch_time": "2026-11-06T19:00:10.145068",
+    "title": "Doris Kearns Goodwin on what it takes to be president of the United States",
+    "category": "general"
+  },
+  "https://news.ku.edu/news/article/military-helicopters-to-fly-over-campus-before-saturday-football-game": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-06T19:00:10.174792",
+    "title": "Military helicopters to fly over campus before Saturday football game",
+    "category": "education"
+  },
+  "https://today.uic.edu/uic-law-students-gain-hands-on-experience-in-immigrantion-law-in-texas/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-06T19:00:10.179814",
+    "title": "UIC Law students gain hands-on experience in immigration law in Texas",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/step-toward-organs-waiting-patients-not-patients-waiting-organs": {
+    "source": "umn_cse",
+    "fetch_time": "2026-11-06T19:00:10.776071",
+    "title": "A step toward organs waiting for patients, not patients waiting for organs",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/exploring-campuses-together-making-most-college-visit-days-your-teen": {
+    "source": "uni_news",
+    "fetch_time": "2026-11-06T19:00:10.818929",
+    "title": "Exploring campuses together: Making the most of college visit days with your teen",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/husker-gymnasts-bring-big-red-dreams-to-life": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-06T19:00:11.090632",
+    "title": "Husker gymnasts bring Big Red dreams to life",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/nebraska-to-lead-cybersecurity-for-national-ai-research-project": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-06T19:00:11.090632",
+    "title": "Nebraska to lead cybersecurity for national AI research project",
+    "category": "ai"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Final-Accreditation-Rule-Leaves-Concerns-Unaddressed.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-11-06T19:00:11.129887",
+    "title": "Final Accreditation Rule Leaves Higher Ed Concerns Largely Unaddressed",
+    "category": "education"
+  },
+  "https://www.acenet.edu/News-Room/Pages/Groups-Raise-Concerns-About-Ed-Provisions-in-Defense-Bill.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-11-06T19:00:11.129887",
+    "title": "Higher Ed Groups Raise Concerns About Research and Education Provisions in Defense Bill",
+    "category": "education"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1106-purdue-pari-doe-nric-nuclear-construction-technologies-partnership": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-11-06T19:00:11.355289",
+    "title": "CCE's Varma leads partnership with U.S. Department of Energy to advance nuclear construction technologies",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-06T19:00:11.396865",
+    "title": "President Trump Names Stephen Miller as 33rd White House Chief of Staff",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-blowout-october-jobs-report-smashes-expectations/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-06T19:00:11.396865",
+    "title": "What They Are Saying: Blowout October Jobs Report Smashes Expectations",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/president-trump-was-right-tariffs-and-tax-cuts-are-reshoring-manufacturing-creating-jobs/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-06T19:00:11.396865",
+    "title": "President Trump Was Right: Tariffs and Tax Cuts Are Reshoring Manufacturing, Creating Jobs",
+    "category": "general"
+  },
+  "https://today.wayne.edu/news/2026/11/06/wayne-state-brings-community-together-for-national-career-development-week-70521": {
+    "source": "wayne_news",
+    "fetch_time": "2026-11-06T19:00:11.925068",
+    "title": "Wayne State brings community together for National Career Development Week",
+    "category": "general"
+  },
+  "https://alumni.wayne.edu/news/astronomy-professor-proves-first-generation-students-can-reach-the-stars-70515": {
+    "source": "wayne_news",
+    "fetch_time": "2026-11-06T19:00:11.925068",
+    "title": "Astronomy professor proves first-generation students can reach the stars",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/washu-expert-preparing-workers-for-the-age-of-ai/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-06T19:00:12.375248",
+    "title": "Preparing workers for the age of AI",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/new-investments-in-humanities-scholarship-academic-inquiry/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-06T19:00:12.375248",
+    "title": "New investments in humanities scholarship, academic inquiry",
+    "category": "semiconductor"
+  },
+  "https://www.rockhurst.edu/news/2026-11-06/student-awarded-un-association-greater-kansas-city": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-11-06T19:00:12.589049",
+    "title": "Student Awarded by U.N. Association of Greater Kansas City",
+    "category": "education"
   }
 }

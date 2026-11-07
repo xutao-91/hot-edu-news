@@ -1,0 +1,71 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-11-06T19:00:11.897668",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Wayne State brings community together for National Career Development Week",
+      "url": "https://today.wayne.edu/news/2026/11/06/wayne-state-brings-community-together-for-national-career-development-week-70521",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "47th Annual Arts Achievement Awards honors WSU alumni, community members",
+      "url": "https://cfpca.wayne.edu/news/47th-annual-arts-achievement-awards-honors-wayne-state-university-alumni-community-members-70492",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "How a WSU doctoral candidate came to lead Farmington’s school board",
+      "url": "https://today.wayne.edu/news/2026/11/05/how-a-wayne-state-doctoral-candidate-came-to-lead-farmingtons-school-board-70504",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "MI-DDI announces 2026 Jane Vermeulen Leadership Award winner",
+      "url": "https://today.wayne.edu/news/2026/11/05/mi-ddi-announces-2026-jane-vermeulen-leadership-award-winner-70507",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Ph.D. student Sumudu Nimasha earns Applied Materials' Best Business Impact internship award",
+      "url": "https://economicdevelopment.wayne.edu/news/wayne-state-doctoral-student-sumudu-nimasha-earns-applied-materials-best-business-impact-internship-award-70510",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Astronomy professor proves first-generation students can reach the stars",
+      "url": "https://alumni.wayne.edu/news/astronomy-professor-proves-first-generation-students-can-reach-the-stars-70515",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    },
+    {
+      "title": "Wayne State Social Work faculty awarded Sozosei Foundation grant for crisis response study",
+      "url": "https://socialwork.wayne.edu/news/wayne-state-social-work-faculty-awarded-sozosei-foundation-grant-for-crisis-response-implementation-and-utilization-study-70491",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    }
+  ]
+}

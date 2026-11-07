@@ -1,0 +1,71 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-11-06T19:00:11.704469",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "UI Health Care seeks approval for cancer research expansion, hospital naming",
+      "url": "https://uihealthcare.org/article/ui-health-care-seeks-regents-approval-cancer-research-expansion-adult-hospital-naming",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "UI Health Care is seeking Iowa Board of Regents approval for two proposals: Expanding cancer research space in the College of Pharmacy Building and naming the university campus adult hospital after Richard O. Jacobson in recognition of his historic $70 million gift and philanthropic legacy to UI.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Steady progress in cancer research brings better care, more hope for Iowans",
+      "url": "https://holden.uihealthcare.org/news/better-care-more-hope-iowans-facing-cancer",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "Mark Burkard, director of UI Health Care's Holden Comprehensive Cancer Center, is building on decades of cancer research to make a difference in the lives of Iowans. By combining new discoveries and partnerships with providers such as Mission Cancer + Blood, his team is bringing together experts from across the state to give more Iowans access to advanced treatments and care, no matter where they ",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI honors 2026 Hawkeye Distinguished Veterans Award recipients",
+      "url": "/news/2026/11/ui-honors-2026-hawkeye-distinguished-veterans-award-recipients",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "The University of Iowa is honoring four Veterans and members of the UI community with the 2026 Hawkeye Distinguished Veterans Award.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "No place like home: Hawkeyes come together for Homecoming 2026",
+      "url": "/news/2026/11/no-place-home-hawkeyes-come-together-homecoming-2026",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "Iowa City was the place to be as Hawkeyes near and far gathered for a memorable Homecoming celebration featuring beloved traditions, familiar faces, plenty of black and gold pride — and a bit of rain. Whether you joined the festivities in person or want to relive the fun, check out the highlights in this photo gallery and recap video below.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI seeks approval for Developmental Studies Hybridoma Bank facility improvements",
+      "url": "/news/2026/11/ui-seeks-approval-developmental-studies-hybridoma-bank-facility-improvements",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "The University of Iowa is seeking approval from the Iowa Board of Regents at its November meeting to renovate the Biology Building's north wing, creating a dedicated space for its internationally recognized Developmental Studies Hybridoma Bank (DSHB).",
+      "source": "UIowa Now",
+      "category": "advancement"
+    },
+    {
+      "title": "UI seeks approval for IMU footbridge renovations",
+      "url": "/news/2026/11/ui-seeks-approval-imu-footbridge-renovations",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "The University of Iowa is seeking approval from the Iowa Board of Regents at its November meeting to renovate the Iowa Memorial Union (IMU) footbridge, replacing aging decking and railings and making other improvements to extend the bridge's life.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Viewing the world through Hawkeye eyes",
+      "url": "/news/2026/11/viewing-world-through-hawkeye-eyes",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "This year's International Education Month photo contest drew nearly 500 entries, capturing moments from study abroad programs, international research projects, internships, service experiences, and cultural exchanges around the world.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

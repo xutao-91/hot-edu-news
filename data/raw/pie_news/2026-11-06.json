@@ -1,0 +1,118 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-06T19:00:09.137656",
+  "total_news": 11,
+  "news": [
+    {
+      "title": "Canada extends 150,000 international student arrivals target to 2029",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-11-06",
+      "type": "Immigration",
+      "summary_en": "Canada will maintain its target of 150,000 new international student arrivals annually through 2029, extending the target set out in last year’s immigration plan.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "South Korea’s free tuition plan could reshape international student recruitment",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-06",
+      "type": "Voices",
+      "summary_en": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact the size and shape of Korea's higher education sector.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kyuseok (KS) Kim"
+    },
+    {
+      "title": "API and The Intern Group join forces to connect study abroad, internships, and career readiness",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-11-05",
+      "type": "Investor",
+      "summary_en": "Academic Programs International (API) has announced the acquisition of The Intern Group (TIG), bringing together two leading international education providers in a move designed to create more connected pathways between study abroad, international internships and graduate career readiness.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Philippines to fast-track student visas as TNE strategy takes off",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-11-05",
+      "type": "Transnational education",
+      "summary_en": "The Philippines will create a \"green lane\" for students and academics seeking visas to enter the country, cutting red tape and fast-tracking applications as part of its new transnational education (TNE) strategy.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "US midterm elections: what could change for international education?",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-11-05",
+      "type": "Policy",
+      "summary_en": "The Democrats’ win in the US midterm elections could have implications for international students studying in the US, amid Trump’s tightening of restrictions on study and post-graduate opportunities.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "International universities face pressure to prove value in India",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-11-04",
+      "type": "Transnational education",
+      "summary_en": "At AIEC, delegates said universities will need to match international credentials with local career pathways, mobility and credible partnerships.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "The graduate visa U-turn: are we rewarding outcomes or reinforcing old hierarchies?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-04",
+      "type": "Voices",
+      "summary_en": "Could the UK’s Graduate Route U-turn reinforce university hierarchies? Diana Beech argues that graduate outcomes must be measured beyond prestige and geography.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Diana Beech"
+    },
+    {
+      "title": "Canada-EU alliance to expand opportunities for students",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-11-03",
+      "type": "Partnerships",
+      "summary_en": "A newly announced alliance between Canada and the EU could create new opportunities for students on both sides of the Atlantic and forge closer academic ties between the two partners.",
+      "source": "The PIE News",
+      "category": "students",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "Natalie Cryan, QS",
+      "url": "https://thepienews.com/category/voices/five-mins-with/",
+      "date": "2026-11-03",
+      "type": "Five mins with",
+      "summary_en": "This week, The PIE spent five minutes with Natalie Cryan, senior vice president, Future Students at QS, to discuss embracing change and why people remain the most important part of the job.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "The PIE News team"
+    },
+    {
+      "title": "Five things we learned about Australian TNE at AIEC 2026",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-11-03",
+      "type": "Transnational education",
+      "summary_en": "From the commercial challenge to government’s role, delegates set out what it will take to build stronger offshore partnerships.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "Germany’s international student push turns to retention",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-11-03",
+      "type": "Recruitment & agents",
+      "summary_en": "Germany’s popularity as a study destination remains strong, but attention is shifting from growth alone to attracting the right students and helping them succeed. Panellists at The PIE Live Germany discussed how language, academic integration and a decentralised support system will shape the country’s ability to retain international talent.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    }
+  ]
+}

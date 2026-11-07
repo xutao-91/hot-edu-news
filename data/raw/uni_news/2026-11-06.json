@@ -1,0 +1,35 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-06T19:00:10.777396",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Exploring campuses together: Making the most of college visit days with your teen",
+      "url": "https://insideuni.uni.edu/campus-community/exploring-campuses-together-making-most-college-visit-days-your-teen",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "Campus visits are a crucial part of the college decision-making process. Here are some tips for how to prepare for a college visit!",
+      "source": "UNI News",
+      "category": "community"
+    },
+    {
+      "title": "How academic advisors help students at UNI",
+      "url": "https://insideuni.uni.edu/campus-community/how-academic-advisors-help-students-uni",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "It's registration season for Panthers, which means it's the perfect time to schedule a meeting with your academic advisor at the University of Northern Iowa.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "Celebrating 30 Years of the UNI John Pappajohn Entrepreneurial Center",
+      "url": "https://insideuni.uni.edu/celebrating-30-years-uni-john-pappajohn-entrepreneurial-center",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "From bold ideas to thriving businesses, discover how UNI’s John Pappajohn Entrepreneurial Center has helped turn entrepreneurial dreams into reality for 30 years.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

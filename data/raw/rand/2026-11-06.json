@@ -1,0 +1,35 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-06T19:00:10.132542",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Parent Comfort With Artificial Intelligence-Led Behavioral Therapy for Their Child",
+      "url": "https://www.rand.org/pubs/external_publications/EP71461.html",
+      "date": "Nov 5, 2026",
+      "type": "Research",
+      "summary_en": "This cross-sectional survey of US parents examined how comfortable they were with AI-led behavioral therapy for their children and which factors were associated with greater comfort.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Preparedness for the AI Era Requires a Reserve of Critical Workers",
+      "url": "https://www.rand.org/pubs/commentary/2026/11/preparedness-for-the-ai-era-requires-a-reserve-of-critical.html",
+      "date": "Nov 4, 2026",
+      "type": "Commentary",
+      "summary_en": "If governments or employers assume that permanent AI automation is right around the corner, vital training and career pipelines could collapse. We could find ourselves without enough people to perform work essential for our society to function.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Governing Augmentative Brain-Computer Interfaces",
+      "url": "https://www.rand.org/pubs/external_publications/EP71555.html",
+      "date": "Nov 4, 2026",
+      "type": "Research",
+      "summary_en": "This report examines how brain-computer interfaces could augment human capabilities, identifies signals of emerging augmentation, and assesses how governance frameworks can address the ethical and regulatory challenges these uses raise.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

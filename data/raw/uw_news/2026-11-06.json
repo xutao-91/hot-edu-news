@@ -1,0 +1,80 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-11-06T19:00:10.953099",
+  "total_news": 8,
+  "news": [
+    {
+      "title": "UW–Madison chancellor special regent committee announces three finalists",
+      "url": "https://news.wisc.edu/uwmadison-chancellor-special-regent-committee-announces-three-finalists/",
+      "date": "November 5, 2026",
+      "type": "News",
+      "summary_en": "Candidate interviews and forums will be held on the UW–Madison campus next week.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Hope for the critically endangered northern muriqui monkey",
+      "url": "https://news.wisc.edu/hope-for-the-critically-endangered-northern-muriqui-monkey/",
+      "date": "November 5, 2026",
+      "type": "News",
+      "summary_en": "A new grant is providing $1 million over five years to go directly toward the conservation of Brazil’s peaceful primate population, and UW–Madison researcher Karen Strier will be leading the effort.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW’s Nobel laureate started his research with a question",
+      "url": "https://news.wisc.edu/uws-nobel-laureate-started-his-research-with-a-question/",
+      "date": "November 4, 2026",
+      "type": "News",
+      "summary_en": "In an opinion piece for the Milwaukee Journal Sentinel, interim Chancellor Eric Wilcots makes the case for giving researchers the resources necessary to pursue answers to curiosity-driven questions.",
+      "source": "UW-Madison News",
+      "category": "research"
+    },
+    {
+      "title": "A campus to fall for",
+      "url": "https://news.wisc.edu/a-campus-to-fall-for/",
+      "date": "November 4, 2026",
+      "type": "News",
+      "summary_en": "Take in autumn at UW–Madison, where Badgers welcome brisk days and burnished views.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Learning and earning: Another banner academic year for UW–Madison degree recipients",
+      "url": "https://news.wisc.edu/learning-and-earning-another-banner-academic-year-for-uw-madison-degree-recipients/",
+      "date": "November 4, 2026",
+      "type": "News",
+      "summary_en": "The university awarded a record number of degrees during the 2025-26 academic year, with students earning an undergraduate degree at the fastest pace ever.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison information about Nov. 3 Crime Warning",
+      "url": "https://news.wisc.edu/uw-madison-information-about-nov-3-crime-warning/",
+      "date": "November 3, 2026",
+      "type": "News",
+      "summary_en": "UW-Madison is investigating anonymous reports of drugging that were received by the university.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Remembering educator, advocate and philanthropist Tashia Morgridge",
+      "url": "https://www.uwalumni.com/news/remembering-tashia-morgridge/",
+      "date": "November 3, 2026",
+      "type": "News",
+      "summary_en": "A former teacher and advocate for literacy, Tashia Morgridge was one of UW–Madison’s most generous supporters. Her philanthropy will affect Badgers for generations.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison ranked No. 11 for ‘best value’ among public schools",
+      "url": "https://news.wisc.edu/uw-madison-ranked-no-11-for-best-value-among-public-schools/",
+      "date": "November 3, 2026",
+      "type": "News",
+      "summary_en": "Princeton Review also places the university at No. 5 for financial aid and among top 20 for career placement, alumni networks and service impact.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

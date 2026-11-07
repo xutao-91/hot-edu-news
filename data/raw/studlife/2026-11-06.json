@@ -1,0 +1,78 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-06T19:00:10.079215",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Doris Kearns Goodwin on what it takes to be president of the United States",
+      "url": "https://www.studlife.com/news/2026/11/06/doris-kearns-goodwin-on-what-it-takes-to-be-president-of-the-united-states",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tommy Jaeger",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "WashU master’s programs see a drop in enrollment, particularly among international students",
+      "url": "https://www.studlife.com/news/2026/11/05/washu-masters-programs-see-a-drop-in-enrollment-particularly-among-international-students",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "",
+      "author": "Leni Saltos",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Missouri midterm results: Abortion remains legal, citizen-led ballot initiatives are protected, and Democrats gain seat in U.S. House",
+      "url": "https://www.studlife.com/news/2026/11/04/missouri-midterm-results-abortion-remains-legal-citizen-led-ballot-initiatives-are-protected-and-democrats-gain-seat-in-u-s-house",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "",
+      "author": "Lauren Smith",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "WashU faculty debate: Should academic freedom protect racist or sexist research?",
+      "url": "https://www.studlife.com/news/2026/11/04/washu-faculty-debate-should-academic-freedom-protect-racist-or-sexist-research",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "",
+      "author": "John Kim",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Data exposure revealed hundreds of internal University documents to students, faculty, and staff",
+      "url": "https://www.studlife.com/news/2026/11/03/data-exposure-revealed-hundreds-of-internal-university-documents-to-students-faculty-and-staff",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "author": "Laurel Wang, Coby Rinke, Elizabeth Stump",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "College Democrats and Republicans debate the state of politics before midterms",
+      "url": "https://www.studlife.com/news/2026/11/03/college-democrats-and-republicans-debate-the-state-of-politics-before-midterms",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tanvi Gorre",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "The result of Amendment 3 in today’s election will determine access to reproductive healthcare for WashU community and fellow Missourians",
+      "url": "https://www.studlife.com/news/2026/11/03/the-result-of-amendment-3-in-todays-election-will-determine-access-to-reproductive-healthcare-for-washu-community-and-fellow-missourians",
+      "date": "2026-11-03",
+      "type": "News",
+      "summary_en": "",
+      "author": "Lexi Lawsky, Sara Strassberg",
+      "source": "Student Life",
+      "category": "campus"
+    }
+  ]
+}
