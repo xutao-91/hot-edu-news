@@ -1,0 +1,44 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-11-07T19:00:09.984537",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Military helicopters to fly over campus before Saturday football game",
+      "url": "https://news.ku.edu/news/article/military-helicopters-to-fly-over-campus-before-saturday-football-game",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "A group of Black Hawk helicopters will fly over campus immediately prior to the 2:45 p.m. Nov. 7 football game between the University of Kansas and the University of Central Florida.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Endowment board elects five new trustees",
+      "url": "https://news.ku.edu/news/article/ku-endowment-board-elects-five-new-trustees",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "Five new trustees were elected to the KU Endowment board of trustees at its Annual Meeting on Oct. 23. Representing a range of professional backgrounds and areas of expertise, they bring valuable perspectives and experience to the board.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU team plans US network for high-quality reference genome sequencing",
+      "url": "https://news.ku.edu/news/article/ku-team-plans-us-network-for-high-quality-reference-genome-sequencing",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "Investigators from the University of Kansas — where genomics are prioritized as a research focus — are making detailed plans for a national reference genome infrastructure with support from the National Science Foundation.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU to celebrate first-generation Jayhawks at I Am First Too poster unveiling",
+      "url": "https://news.ku.edu/news/article/ku-to-celebrate-first-generation-jayhawks-at-i-am-first-too-poster-unveiling",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "Twelve KU students, faculty, staff and alumni who were the first in their families to attend college will be honored at the I Am First Too Poster Unveiling Celebration from 3 to 4:30 p.m. Nov. 9 in the Kansas Union Ballroom. The Center for Educational Opportunity Programs hosts the event, which will feature a keynote address by Melissa Peterson.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-07T19:00:10.266535",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "IBM’s most advanced quantum computer unveiled at UChicago’s Hyde Park Labs",
+      "url": "https://news.uchicago.edu/story/ibms-most-advanced-quantum-computer-unveiled-uchicagos-hyde-park-labs",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "IBM Quantum System Two marks a milestone for the University’s quantum partnerships and for state of Illinois",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Colorectal cancer rates on the rise in nearly all age groups, UChicago study finds",
+      "url": "https://news.uchicago.edu/story/colorectal-cancer-rates-rise-nearly-all-age-groups-uchicago-study-finds",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "First overall increase in more than two decades points to factors screening alone can’t explain",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "States tax sports betting heavily, but gamblers may barely feel it",
+      "url": "https://news.uchicago.edu/story/states-tax-sports-betting-heavily-gamblers-may-barely-feel-it",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "UChicago research finds sportsbooks are mostly swallowing the levies out of profits, while states take in more than $3 billion a year",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Simons Observatory begins probing the birth of the universe",
+      "url": "https://news.uchicago.edu/story/simons-observatory-begins-probing-birth-universe",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "‘An exhilarating period for science,’ say UChicago scientists who played key role in telescope design and deployment",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

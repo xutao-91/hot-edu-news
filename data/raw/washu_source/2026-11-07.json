@@ -1,0 +1,62 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-07T19:00:11.212062",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Preparing workers for the age of AI",
+      "url": "https://source.washu.edu/2026/11/washu-expert-preparing-workers-for-the-age-of-ai/",
+      "date": "2026-11-06",
+      "type": "Artificial Intelligence",
+      "summary_en": "As artificial intelligence reshapes the workforce, the Brown School’s Jason Jabbari explains how higher education can prepare students with the skills to adapt and thrive while expanding economic opportunity.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "New investments in humanities scholarship, academic inquiry",
+      "url": "https://source.washu.edu/2026/11/new-investments-in-humanities-scholarship-academic-inquiry/",
+      "date": "2026-11-06",
+      "type": "Academics",
+      "summary_en": "Two new funding streams will examine how academic inquiry works and how collaboration bolsters the humanities.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Harnessing atomic structure to advance semiconductor technology",
+      "url": "https://source.washu.edu/2026/11/harnessing-atomic-structure-to-advance-semiconductor-technology/",
+      "date": "2026-11-05",
+      "type": "Engineering",
+      "summary_en": "McKelvey Engineering’s Rohan Mishra is helping to unlock the power of atomically thin materials to improve silicon-based transistors. The goal is to enable vastly more efficient electronic devices.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Callais’ impact on voting rights extends beyond 2026 midterms",
+      "url": "https://source.washu.edu/2026/11/washu-expert-callais-impact-on-voting-rights-extends-beyond-2026-midterms/",
+      "date": "2026-11-05",
+      "type": "Law",
+      "summary_en": "The 2026 midterm results may have softened the immediate political impact of the Supreme Court’s Louisiana v. Callais decision, but they don’t diminish its long-term consequences for voting rights and minority representation, says an election law expert at Washington University in St. Louis.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "‘Counterpublic 2026: Coyote Time’",
+      "url": "https://source.washu.edu/2026/11/counterpublic-2026-coyote-time/",
+      "date": "2026-11-05",
+      "type": "Art & Design",
+      "summary_en": "Counterpublic returns with “Coyote Time,” its third iteration. On view throughout the fall, the St. Louis-wide public art triennial — one of the largest in the United States — features more than 50 artists, including many associated with the WashU Sam Fox School.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "WashU Dance Theatre: ‘right now’ Nov. 6 to 8",
+      "url": "https://source.washu.edu/2026/11/washu-dance-theatre-right-now-nov-6-to-8/",
+      "date": "2026-11-04",
+      "type": "Performing Arts",
+      "summary_en": "WashU Dance Theatre will present its 2026 performance, “right now,” Nov. 6-8 in Edison Theatre. The evening-length concert will feature new works by resident and guest choreographers, including visiting artists Shura Baryshnikov and Renée Austin.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

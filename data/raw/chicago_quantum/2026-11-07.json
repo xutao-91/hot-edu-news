@@ -1,0 +1,26 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-11-07T19:00:05.557852",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IBM’s most advanced quantum computer unveiled at UChicago’s Hyde Park Labs",
+      "url": "https://news.uchicago.edu/story/ibms-most-advanced-quantum-computer-unveiled-uchicagos-hyde-park-labs",
+      "date": "2026-11-06",
+      "summary_en": "IBM Quantum System Two marks a milestone for the University’s quantum partnerships and for state of Illinois",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "UChicago, Toyota collaborate to advance quantum technologies for future mobility and transportation",
+      "url": "https://news.uchicago.edu/story/uchicago-toyota-collaborate-advance-quantum-technologies-future-mobility-and-transportation",
+      "date": "2026-11-03",
+      "summary_en": "Multi-year research agreement will address key challenges in sensing, communication and energy storage",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

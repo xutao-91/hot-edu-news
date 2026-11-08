@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-11-07T19:00:06.803163",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Final Accreditation Rule Leaves Higher Ed Concerns Largely Unaddressed",
+      "url": "https://www.acenet.edu/News-Room/Pages/Final-Accreditation-Rule-Leaves-Concerns-Unaddressed.aspx",
+      "date": "November 6, 2026",
+      "type": "News",
+      "summary_en": "Developed through the department's Accreditation, Innovation, and Modernization negotiated rulemaking process earlier this year, the regulations establish more than 20 new requirements for accreditors evaluating colleges and universities.",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "Higher Ed Groups Raise Concerns About Research and Education Provisions in Defense Bill",
+      "url": "https://www.acenet.edu/News-Room/Pages/Groups-Raise-Concerns-About-Ed-Provisions-in-Defense-Bill.aspx",
+      "date": "November 6, 2026",
+      "type": "News",
+      "summary_en": "The National Defense Authorization Act sets defense policy and authorizes military spending, but it also regularly includes provisions that affect colleges and universities.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

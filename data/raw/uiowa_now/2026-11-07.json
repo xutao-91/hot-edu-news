@@ -1,0 +1,44 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-11-07T19:00:10.522198",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UI Health Care seeks approval for cancer research expansion, hospital naming",
+      "url": "https://uihealthcare.org/article/ui-health-care-seeks-regents-approval-cancer-research-expansion-adult-hospital-naming",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "UI Health Care is seeking Iowa Board of Regents approval for two proposals: Expanding cancer research space in the College of Pharmacy Building and naming the university campus adult hospital after Richard O. Jacobson in recognition of his historic $70 million gift and philanthropic legacy to UI.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Steady progress in cancer research brings better care, more hope for Iowans",
+      "url": "https://holden.uihealthcare.org/news/better-care-more-hope-iowans-facing-cancer",
+      "date": "2026-11-05",
+      "type": "News",
+      "summary_en": "Mark Burkard, director of UI Health Care's Holden Comprehensive Cancer Center, is building on decades of cancer research to make a difference in the lives of Iowans. By combining new discoveries and partnerships with providers such as Mission Cancer + Blood, his team is bringing together experts from across the state to give more Iowans access to advanced treatments and care, no matter where they ",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI honors 2026 Hawkeye Distinguished Veterans Award recipients",
+      "url": "/news/2026/11/ui-honors-2026-hawkeye-distinguished-veterans-award-recipients",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "The University of Iowa is honoring four Veterans and members of the UI community with the 2026 Hawkeye Distinguished Veterans Award.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "No place like home: Hawkeyes come together for Homecoming 2026",
+      "url": "/news/2026/11/no-place-home-hawkeyes-come-together-homecoming-2026",
+      "date": "2026-11-04",
+      "type": "News",
+      "summary_en": "Iowa City was the place to be as Hawkeyes near and far gathered for a memorable Homecoming celebration featuring beloved traditions, familiar faces, plenty of black and gold pride — and a bit of rain. Whether you joined the festivities in person or want to relive the fun, check out the highlights in this photo gallery and recap video below.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

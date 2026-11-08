@@ -1,0 +1,35 @@
+{
+  "source": "Milwaukee School of Engineering (MSOE)",
+  "source_url": "https://www.msoe.edu/about-msoe/news/1/",
+  "crawled_at": "2026-11-07T19:00:09.154574",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "MSOE students take first and second place at Physical AI Hackathon",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-students-take-first-and-second-place-at-physical-ai-hackathon",
+      "date": "2026-11-06",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "Closing ceremony for Physical AI Hackathon to showcase student-built industrial AI solutions",
+      "url": "https://www.msoe.edu/about-msoe/news/details/closing-ceremony-for-physical-ai-hackathon-to-showcase-student-built-industrial-ai-solutions",
+      "date": "2026-11-05",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    },
+    {
+      "title": "MSOE shines a spotlight on student veterans",
+      "url": "https://www.msoe.edu/about-msoe/news/details/msoe-shines-a-spotlight-on-student-veterans",
+      "date": "2026-11-05",
+      "type": "Students",
+      "summary_en": "",
+      "source": "MSOE",
+      "category": "general"
+    }
+  ]
+}
