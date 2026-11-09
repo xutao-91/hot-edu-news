@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-08T19:00:10.170142",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Parent Comfort With Artificial Intelligence-Led Behavioral Therapy for Their Child",
+      "url": "https://www.rand.org/pubs/external_publications/EP71461.html",
+      "date": "Nov 5, 2026",
+      "type": "Research",
+      "summary_en": "This cross-sectional survey of US parents examined how comfortable they were with AI-led behavioral therapy for their children and which factors were associated with greater comfort.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-11-08T19:00:11.509360",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "UW–Madison chancellor special regent committee announces three finalists",
+      "url": "https://news.wisc.edu/uwmadison-chancellor-special-regent-committee-announces-three-finalists/",
+      "date": "November 5, 2026",
+      "type": "News",
+      "summary_en": "Candidate interviews and forums will be held on the UW–Madison campus next week.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Hope for the critically endangered northern muriqui monkey",
+      "url": "https://news.wisc.edu/hope-for-the-critically-endangered-northern-muriqui-monkey/",
+      "date": "November 5, 2026",
+      "type": "News",
+      "summary_en": "A new grant is providing $1 million over five years to go directly toward the conservation of Brazil’s peaceful primate population, and UW–Madison researcher Karen Strier will be leading the effort.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

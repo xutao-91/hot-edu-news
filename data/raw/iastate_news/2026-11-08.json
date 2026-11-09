@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-11-08T19:00:10.546993",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "The art and science of ‘A Christmas Carol’",
+      "url": "https://www.news.iastate.edu/news/art-and-science-christmas-carol",
+      "date": "2026-11-05",
+      "type": "Innovation and Research",
+      "summary_en": "The ISU Theatre's new adaptation of \"A Christmas Carol\" features more than 80 handcrafted puppets, highlighting the intersection of art and science as students draw on design, engineering and problem-solving skills to turn imagination into movement.",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

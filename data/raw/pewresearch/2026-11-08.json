@@ -1,0 +1,64 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-11-08T19:00:09.133329",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "A First Look at Polling Performance in 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/06/a-first-look-at-polling-performance-in-2026/",
+      "date": "Nov 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Data Science",
+        "Election 2026"
+      ],
+      "summary_en": "Preelection polls captured the direction of this year’s election, while generally understating the size of Democrats’ advantage.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "About a Third of Americans Have Left an Online Community",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/06/about-a-third-of-americans-have-left-an-online-community/",
+      "date": "Nov 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "Friendships",
+        "Lifestyle Relationships Online",
+        "Platforms Services"
+      ],
+      "summary_en": "About a third of U.S. adults have left an online community, most often because they lost interest. Younger adults are likelier to leave.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Majority of Americans Say Social Media Companies, News Outlets Have Too Much Power in Politics",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/06/majority-of-americans-say-social-media-companies-news-outlets-have-too-much-power-in-politics/",
+      "date": "Nov 6, 2026",
+      "type": "short reads",
+      "categories": [
+        "News Platforms Sources",
+        "Politics Media 1",
+        "Politics Online",
+        "Social Media News"
+      ],
+      "summary_en": "About seven-in-ten Americans say social media firms wield too much political power; 55% say so of news outlets, but Republicans and Democrats differ.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "LGBTQ Americans Stand Out for Being Part of Online Communities, Finding Value in Them",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/05/lgbtq-americans-stand-out-for-being-part-of-online-communities-finding-value-in-them/",
+      "date": "Nov 5, 2026",
+      "type": "short reads",
+      "categories": [
+        "Friendships",
+        "Social Media",
+        "Social Relations Tech"
+      ],
+      "summary_en": "LGBTQ adults are more likely to join online communities, though some also leave over people being harassed.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}
