@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-11-09T19:00:11.194453",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "University of Minnesota launches Interdisciplinary Computing major",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-launches-interdisciplinary-computing-major",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "The University of Minnesota Twin Cities is launching Interdisciplinary Computing, an undergraduate major that combines a foundation in computer science with in-depth study in another discipline.",
+      "source": "UMN CSE",
+      "category": "general"
+    },
+    {
+      "title": "A step toward organs waiting for patients, not patients waiting for organs",
+      "url": "https://cse.umn.edu/college/news/step-toward-organs-waiting-patients-not-patients-waiting-organs",
+      "date": "2026-11-06",
+      "type": "Medical-Health Technology",
+      "summary_en": "University of Minnesota Twin Cities researchers have restored function in cryogenically preserved pig kidneys comparable in size to human kidneys, overcoming a major barrier to long-term organ banking.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-11-09T19:00:06.277371",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "UChicago to collaborate with Tohoku University to bolster quantum research and education",
+      "url": "https://news.uchicago.edu/story/uchicago-collaborate-tohoku-university-bolster-quantum-research-and-education",
+      "date": "2026-11-09",
+      "summary_en": "Agreement establishes joint research framework in Japan, with distinguished visiting professorships and shared access to leading facilities",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "IBM’s most advanced quantum computer unveiled at UChicago’s Hyde Park Labs",
+      "url": "https://news.uchicago.edu/story/ibms-most-advanced-quantum-computer-unveiled-uchicagos-hyde-park-labs",
+      "date": "2026-11-06",
+      "summary_en": "IBM Quantum System Two marks a milestone for the University’s quantum partnerships and for state of Illinois",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Quantum research leads to startup for UChicago PhD Student",
+      "url": "https://pme.uchicago.edu/news-events/news/quantum-research-leads-startup-phd-student",
+      "date": "2026-11-05",
+      "summary_en": "Sagar Kumar Seth, PhD’26, has found success in commercializing the processes he helped develop as a graduate student studying quantum engineering",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

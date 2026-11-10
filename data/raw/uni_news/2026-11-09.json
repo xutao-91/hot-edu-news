@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-09T19:00:11.329999",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Building real-world tech skills: New $294K grant transforms UNI computer science learning",
+      "url": "https://insideuni.uni.edu/stem/building-real-world-tech-skills-new-294k-grant-transforms-uni-computer-science-learning",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "A $294,000 grant from the Roy J. Carver Charitable Trust is helping UNI’s Department of Computer Science create state-of-the-art virtual computing environments where students can gain hands-on experience in cybersecurity, networking, system administration and more.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Exploring campuses together: Making the most of college visit days with your teen",
+      "url": "https://insideuni.uni.edu/campus-community/exploring-campuses-together-making-most-college-visit-days-your-teen",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "Campus visits are a crucial part of the college decision-making process. Here are some tips for how to prepare for a college visit!",
+      "source": "UNI News",
+      "category": "community"
+    }
+  ]
+}

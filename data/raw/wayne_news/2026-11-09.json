@@ -1,0 +1,35 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-11-09T19:00:12.811081",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Celebrating Veterans Day with Gadson OMVAE",
+      "url": "https://provost.wayne.edu/news/academic-success-is-its-own-mission-celebrating-veterans-day-with-gadson-omvae-70526",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State brings community together for National Career Development Week",
+      "url": "https://today.wayne.edu/news/2026/11/06/wayne-state-brings-community-together-for-national-career-development-week-70521",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Michigan professor offers advice for easing post-election tensions",
+      "url": "https://www.wkar.org/election-2026/2026-11-06/michigan-professor-offers-advice-for-easing-post-election-tensions",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    }
+  ]
+}

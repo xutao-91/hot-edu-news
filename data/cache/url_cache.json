@@ -33358,5 +33358,257 @@
     "fetch_time": "2026-11-08T19:00:12.139269",
     "title": "Presidential Message on Honoring the American Flag",
     "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/uchicago-collaborate-tohoku-university-bolster-quantum-research-and-education": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-09T19:00:06.318045",
+    "title": "UChicago to collaborate with Tohoku University to bolster quantum research and education",
+    "category": "education"
+  },
+  "https://pme.uchicago.edu/news-events/news/quantum-research-leads-startup-phd-student": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-09T19:00:06.318045",
+    "title": "Quantum research leads to startup for UChicago PhD Student",
+    "category": "education"
+  },
+  "https://www.csis.org/analysis/mind-gap-keeping-export-compliance-within-reach-bis-focuses-enforcement": {
+    "source": "csis",
+    "fetch_time": "2026-11-09T19:00:06.532546",
+    "title": "Mind the Gap: Keeping Export Compliance Within Reach as BIS Focuses on Enforcement",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/contested-skies-what-recent-military-operation-mexico-reveals-about-homeland-drone-fight": {
+    "source": "csis",
+    "fetch_time": "2026-11-09T19:00:06.532546",
+    "title": "Contested Skies: What a Recent Military Operation with Mexico Reveals About the Homeland Drone Fight",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/trilateral-denuclearization-false-promises-or-way-forward": {
+    "source": "csis",
+    "fetch_time": "2026-11-09T19:00:06.532546",
+    "title": "Trilateral “Denuclearization”: False Promises or Way Forward?",
+    "category": "diplomacy"
+  },
+  "https://www.csis.org/analysis/csis-press-briefing-previewing-president-trumps-trip-asia": {
+    "source": "csis",
+    "fetch_time": "2026-11-09T19:00:06.532546",
+    "title": "CSIS Press Briefing: Previewing President Trump's Trip to Asia",
+    "category": "semiconductor"
+  },
+  "https://stories.butler.edu/butler-university-receives-5-million-grant-from-allen-whitehill-clowes-charitable-foundation-to-further-advance-midtown-arts-district-vision/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-11-09T19:00:06.669056",
+    "title": "Butler University Receives $5 Million Grant From Allen Whitehill Clowes Charitable Foundation to Further Advance Midtown Arts District Vision",
+    "category": "education"
+  },
+  "https://stories.butler.edu/butler-university-expands-doctoral-pathways-for-physician-associates-at-every-career-stage/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-11-09T19:00:06.669056",
+    "title": "Butler University Expands Doctoral Pathways for Physician Associates at Every Career Stage",
+    "category": "education"
+  },
+  "https://globalaffairs.org/research/public-opinion-survey/fewer-americans-see-immigration-critical-threat-two-thirds-back": {
+    "source": "global_affairs",
+    "fetch_time": "2026-11-09T19:00:07.124757",
+    "title": "Fewer Americans See Immigration as Critical Threat; Two-Thirds Back Citizenship Path",
+    "category": "semiconductor"
+  },
+  "https://www.acenet.edu/News-Room/Pages/ACE-Others-Call-on-DHS-Withdraw-OPT-Rule.aspx": {
+    "source": "ace",
+    "fetch_time": "2026-11-09T19:00:07.430393",
+    "title": "ACE, Others Call on DHS to Withdraw Proposed OPT Fee Increase",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/ai-in-education/2026/11/09/ai-can-generate-research-themes-can-students-defend-them/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-11-09T19:00:07.478091",
+    "title": "AI can generate research themes. Can students defend them?",
+    "category": "education"
+  },
+  "https://www.belfercenter.org/research-analysis/spenser-warren-and-dennis-murphy-discuss-ai-and-international-security-yale": {
+    "source": "belfer_ai",
+    "fetch_time": "2026-11-09T19:00:08.756192",
+    "title": "Spenser Warren and Dennis Murphy Discuss AI and International Security at Yale University",
+    "category": "education"
+  },
+  "https://www.brookings.edu/articles/later-school-start-times-need-not-blow-up-transportation-budgets/": {
+    "source": "brookings",
+    "fetch_time": "2026-11-09T19:00:08.810774",
+    "title": "Later school start times need not blow up transportation budgets",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/09/what-we-know-and-dont-know-about-flocks-license-plate-cameras/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-09T19:00:09.447624",
+    "title": "What We Know – and Don’t Know – About Flock’s License Plate Cameras",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/personal-stories-help-honor-the-service-sacrifice-of-jayhawks-and-all-veterans": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-09T19:00:10.354122",
+    "title": "Personal stories help honor the service, sacrifice of Jayhawks and all veterans",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/rgs_dissertations/RGSDA5506-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-11-09T19:00:10.579592",
+    "title": "Three Essays on High School Social Studies Coursetaking",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/rgs_dissertations/RGSDA5507-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-11-09T19:00:10.579592",
+    "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/research-powering-sustainable-future": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-09T19:00:10.622581",
+    "title": "The Research Powering A Sustainable Future",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/what-were-getting-wrong-about-economy-uchicago-scholar-explains": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-09T19:00:10.622581",
+    "title": "What we’re getting wrong about the economy, UChicago scholar explains",
+    "category": "ai"
+  },
+  "https://apnews.com/article/education-school-closures-16c5cc6be682d7ce3d2e5eb056fb65c9": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-09T19:00:10.622581",
+    "title": "School closures are accelerating in US, but more financial pain lies ahead",
+    "category": "education"
+  },
+  "https://www.chicagotribune.com/2026/11/06/ibm-quantum-hyde-park-labs/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-09T19:00:10.622581",
+    "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
+    "category": "quantum"
+  },
+  "https://www.rockhurst.edu/news/2026-11-09/rockhurst-university-awarded-nearly-3-million-federal-grant": {
+    "source": "rockhurst_news",
+    "fetch_time": "2026-11-09T19:00:10.690667",
+    "title": "Rockhurst University Awarded Nearly $3 Million Federal Grant",
+    "category": "education"
+  },
+  "https://www.news.iastate.edu/news/knowing-how-plants-stretch-out-when-warm-could-help-dial-back-their-response": {
+    "source": "iastate_news",
+    "fetch_time": "2026-11-09T19:00:10.690667",
+    "title": "Knowing how plants stretch out when warm could help dial back their response",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-alumni-association-celebrates-2026-gold-standard-award-recipients/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-09T19:00:10.757208",
+    "title": "Mizzou Alumni Association celebrates 2026 Gold Standard Award recipients",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-students-train-service-dogs-to-help-veterans-live-more-independently/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-09T19:00:10.757208",
+    "title": "Mizzou students train service dogs to help veterans live more independently",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/november/africa-cultural-showcase.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-11-09T19:00:10.842441",
+    "title": "SLU African International Students Lead Campus Cultural Showcase.",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/october/entrepreneurship-hall-of-fame.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-11-09T19:00:10.842441",
+    "title": "Chaifetz Center for Entrepreneurship to Hold 2026 Entrepreneurship Hall of Fame December 3",
+    "category": "education"
+  },
+  "https://today.uic.edu/us-youths-see-nearly-4000-food-marketing-messages-on-digital-media-each-year/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-09T19:00:10.856864",
+    "title": "US youths see nearly 4,000 food marketing messages on digital media each year",
+    "category": "general"
+  },
+  "https://today.uic.edu/uic-class-teaches-students-to-use-the-tools-needed-in-archaeology/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-09T19:00:10.856864",
+    "title": "In this archaeology class, students get hands-on practice with professional tools",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/university-minnesota-launches-interdisciplinary-computing-major": {
+    "source": "umn_cse",
+    "fetch_time": "2026-11-09T19:00:11.263933",
+    "title": "University of Minnesota launches Interdisciplinary Computing major",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/stem/building-real-world-tech-skills-new-294k-grant-transforms-uni-computer-science-learning": {
+    "source": "uni_news",
+    "fetch_time": "2026-11-09T19:00:11.375799",
+    "title": "Building real-world tech skills: New $294K grant transforms UNI computer science learning",
+    "category": "education"
+  },
+  "https://news.wisc.edu/badger-basketball-legend-frank-kaminsky-will-address-graduates-at-winter-commencement/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-09T19:00:11.577322",
+    "title": "Badger basketball legend Frank Kaminsky will address graduates at winter commencement",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/reports-celebrate-a-year-of-nebraska-research-and-discovery": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-09T19:00:11.668235",
+    "title": "Reports celebrate a year of Nebraska research and discovery",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/record-number-of-husker-entrepreneurs-compete-in-3-2-1-quick-pitch-0": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-09T19:00:11.668235",
+    "title": "Record number of Husker entrepreneurs compete in 3-2-1 Quick Pitch",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/11/why-veterans-choose-olin/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-09T19:00:11.775248",
+    "title": "Why veterans choose Olin",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/serving-those-who-served/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-09T19:00:11.775248",
+    "title": "Serving those who served",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-and-withdrawals-sent-to-the-senate-ba2b/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-09T19:00:11.912561",
+    "title": "Nominations and Withdrawals Sent to the Senate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-national-american-history-and-founders-month/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-09T19:00:11.912561",
+    "title": "Presidential Message on National American History and Founders Month",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/icymi-president-trump-on-60-minutes-we-have-historically-good-numbers/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-09T19:00:11.912561",
+    "title": "ICYMI: President Trump on 60 Minutes: “We Have Historically Good Numbers”",
+    "category": "semiconductor"
+  },
+  "https://www.wilsoncenter.org/article/new-age-religious-surveillance": {
+    "source": "wilson_china",
+    "fetch_time": "2026-11-09T19:00:12.094497",
+    "title": "A New Age of Religious Surveillance",
+    "category": "general"
+  },
+  "https://provost.wayne.edu/news/academic-success-is-its-own-mission-celebrating-veterans-day-with-gadson-omvae-70526": {
+    "source": "wayne_news",
+    "fetch_time": "2026-11-09T19:00:12.854365",
+    "title": "Celebrating Veterans Day with Gadson OMVAE",
+    "category": "general"
+  },
+  "https://www.wkar.org/election-2026/2026-11-06/michigan-professor-offers-advice-for-easing-post-election-tensions": {
+    "source": "wayne_news",
+    "fetch_time": "2026-11-09T19:00:12.854365",
+    "title": "Michigan professor offers advice for easing post-election tensions",
+    "category": "semiconductor"
   }
 }

@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-09T19:00:09.447624",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Canada cuts, NZ grows as Australia and US rethink international education",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-11-09",
+      "type": "Policy",
+      "summary_en": "At AIEC 2026, leaders said policy uncertainty, public trust and student outcomes are redrawing the competition for global talent.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UK business schools’ finances strained amid fall in international enrolments",
+      "url": "https://thepienews.com/category/news/associations/",
+      "date": "2026-11-09",
+      "type": "Associations",
+      "summary_en": "Almost 70% of UK business schools are reporting a drop in international enrolments, as government policies add pressure to already-strained finances.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "AIECA backs mandatory agent accreditation as Hill signals regulatory rethink",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-11-09",
+      "type": "Recruitment & agents",
+      "summary_en": "AIECA has backed mandatory accreditation and a government-supported regulatory model for education agents, as Australia's assistant minister signals openness to reform without imposing a costly licensing scheme.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Why the Philippines’ new TNE strategy could make it  South East Asia’s partnership hotspot",
+      "url": "https://thepienews.com/category/news/tne/",
+      "date": "2026-11-06",
+      "type": "Transnational education",
+      "summary_en": "The Philippines' large youth population, vast higher education system and government backing have primed it to take on new transnational education (TNE) partnerships, higher education leaders have told The PIE.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Canada extends 150,000 international student arrivals target to 2029",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-11-06",
+      "type": "Immigration",
+      "summary_en": "Canada will maintain its target of 150,000 new international student arrivals annually through 2029, extending the target set out in last year’s immigration plan.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "South Korea’s free tuition plan could reshape international student recruitment",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-06",
+      "type": "Voices",
+      "summary_en": "South Korea is planning to provide full tuition support to new Korean students at 30 national universities outside the Seoul metropolitan area in 2027. Kyuseok (KS) Kim explores how this could impact the size and shape of Korea's higher education sector.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Kyuseok (KS) Kim"
+    }
+  ]
+}

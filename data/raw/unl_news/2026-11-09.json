@@ -1,0 +1,35 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-11-09T19:00:11.608713",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Reports celebrate a year of Nebraska research and discovery",
+      "url": "https://news.unl.edu/article/reports-celebrate-a-year-of-nebraska-research-and-discovery",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Record number of Husker entrepreneurs compete in 3-2-1 Quick Pitch",
+      "url": "https://news.unl.edu/article/record-number-of-husker-entrepreneurs-compete-in-3-2-1-quick-pitch-0",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Husker gymnasts bring Big Red dreams to life",
+      "url": "https://news.unl.edu/article/husker-gymnasts-bring-big-red-dreams-to-life",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

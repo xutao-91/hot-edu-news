@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-09T19:00:10.555864",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "The Research Powering A Sustainable Future",
+      "url": "https://news.uchicago.edu/research-powering-sustainable-future",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "UChicago to collaborate with Tohoku University to bolster quantum research and education",
+      "url": "https://news.uchicago.edu/story/uchicago-collaborate-tohoku-university-bolster-quantum-research-and-education",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "Agreement establishes joint research framework in Japan, with distinguished visiting professorships and shared access to leading facilities",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "What we’re getting wrong about the economy, UChicago scholar explains",
+      "url": "https://news.uchicago.edu/story/what-were-getting-wrong-about-economy-uchicago-scholar-explains",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "In Q&A, Greg Kaplan discusses his new book ‘Macro’ and translating the latest economic research for the general public",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "School closures are accelerating in US, but more financial pain lies ahead",
+      "url": "https://apnews.com/article/education-school-closures-16c5cc6be682d7ce3d2e5eb056fb65c9",
+      "date": "2026-11-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "IBM unveils its first quantum computer in Illinois at Hyde Park Labs",
+      "url": "https://www.chicagotribune.com/2026/11/06/ibm-quantum-hyde-park-labs/",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "IBM’s most advanced quantum computer unveiled at UChicago’s Hyde Park Labs",
+      "url": "https://news.uchicago.edu/story/ibms-most-advanced-quantum-computer-unveiled-uchicagos-hyde-park-labs",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "IBM Quantum System Two marks a milestone for the University’s quantum partnerships and for state of Illinois",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

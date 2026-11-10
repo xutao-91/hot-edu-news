@@ -1,0 +1,26 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-11-09T19:00:10.303600",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Personal stories help honor the service, sacrifice of Jayhawks and all veterans",
+      "url": "https://news.ku.edu/news/article/personal-stories-help-honor-the-service-sacrifice-of-jayhawks-and-all-veterans",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "Each Veterans Day, the University of Kansas recognizes the service, sacrifice and commitment of the millions of Americans who have served in the nation’s armed forces. Read profiles of ROTC students and Jayhawk veterans.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Military helicopters to fly over campus before Saturday football game",
+      "url": "https://news.ku.edu/news/article/military-helicopters-to-fly-over-campus-before-saturday-football-game",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "A group of Black Hawk helicopters will fly over campus immediately prior to the 2:45 p.m. Nov. 7 football game between the University of Kansas and the University of Central Florida.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

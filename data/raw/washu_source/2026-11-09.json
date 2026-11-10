@@ -1,0 +1,44 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-09T19:00:11.737098",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Why veterans choose Olin",
+      "url": "https://source.washu.edu/2026/11/why-veterans-choose-olin/",
+      "date": "2026-11-09",
+      "type": "Students",
+      "summary_en": "Olin Business School has doubled its enrollment of talented veterans in recent years. Most veteran MBA students attend WashU for free, using a combination of U.S. Department of Veterans Affairs Yellow Ribbon benefits and Olin scholarship dollars.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Preparing workers for the age of AI",
+      "url": "https://source.washu.edu/2026/11/washu-expert-preparing-workers-for-the-age-of-ai/",
+      "date": "2026-11-06",
+      "type": "Artificial Intelligence",
+      "summary_en": "As artificial intelligence reshapes the workforce, the Brown School’s Jason Jabbari explains how higher education can prepare students with the skills to adapt and thrive while expanding economic opportunity.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Serving those who served",
+      "url": "https://source.washu.edu/2026/11/serving-those-who-served/",
+      "date": "2026-11-06",
+      "type": "Medicine",
+      "summary_en": "WashU Medicine’s 80-year collaboration with Veterans Affairs St. Louis has spurred clinical innovation, scientific discovery and physician training.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "New investments in humanities scholarship, academic inquiry",
+      "url": "https://source.washu.edu/2026/11/new-investments-in-humanities-scholarship-academic-inquiry/",
+      "date": "2026-11-06",
+      "type": "Academics",
+      "summary_en": "Two new funding streams will examine how academic inquiry works and how collaboration bolsters the humanities.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

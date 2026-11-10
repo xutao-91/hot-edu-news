@@ -1,0 +1,18 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-09T19:00:10.511330",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Doris Kearns Goodwin on what it takes to be president of the United States",
+      "url": "https://www.studlife.com/news/2026/11/06/doris-kearns-goodwin-on-what-it-takes-to-be-president-of-the-united-states",
+      "date": "2026-11-06",
+      "type": "News",
+      "summary_en": "",
+      "author": "Tommy Jaeger",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

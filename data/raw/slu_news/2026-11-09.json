@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-11-09T19:00:10.768960",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "SLU African International Students Lead Campus Cultural Showcase.",
+      "url": "https://www.slu.edu/news/2026/november/africa-cultural-showcase.php",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "Saint Louis University African international students took center stage at the recent \"Echoes of Africa\" showcase, demonstrating exceptional spirit of leadership, community impact, and cultural awareness.\nThrough a strategic partnership between external organization Community Art Development Initiative (CADI), SLU's Department of English, Department of Psychology, Department of African American St",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "Chaifetz Center for Entrepreneurship to Hold 2026 Entrepreneurship Hall of Fame December 3",
+      "url": "https://www.slu.edu/news/2026/october/entrepreneurship-hall-of-fame.php",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "The Chaifetz Center for Entrepreneurship at Saint Louis University will hold its 2026 Entrepreneurship Hall of Fame induction ceremony at a dinner on Thursday, Dec. 3, at the Richard A. Chaifetz School of Business.",
+      "source": "SLU News",
+      "category": "general"
+    },
+    {
+      "title": "Rivalry Renewed: Raucous Fans Relish Billiken Victory Over Tigers",
+      "url": "https://www.slu.edu/news/2026/november/billiken-mizzou-show-me-showdown.php",
+      "date": "2026-11-07",
+      "type": "News",
+      "summary_en": "For the first time in 25 years Saint Louis University and the University of Missouri met up in a men's basketball game. Fans were excited for the return of the rivalry and seeing the Billikens come home with a big win.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}
