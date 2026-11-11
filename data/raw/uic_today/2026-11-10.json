@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-11-10T19:00:10.694733",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "US youths see nearly 4,000 food marketing messages on digital media each year",
+      "url": "https://today.uic.edu/us-youths-see-nearly-4000-food-marketing-messages-on-digital-media-each-year/",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "They see 83% of food marketing on social media, mostly on TikTok and YouTube.",
+      "source": "UIC Today",
+      "category": "general"
+    },
+    {
+      "title": "In this archaeology class, students get hands-on practice with professional tools",
+      "url": "https://today.uic.edu/uic-class-teaches-students-to-use-the-tools-needed-in-archaeology/",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "Most UIC archaeology professors have fieldwork projects around the world that offer students opportunities.",
+      "source": "UIC Today",
+      "category": "students"
+    }
+  ]
+}

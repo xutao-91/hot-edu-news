@@ -1,0 +1,26 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-11-10T19:00:08.564935",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Notre Dame Alumni Association Launches Military & Veteran Alumni Group",
+      "url": "https://news.nd.edu/news/notre-dame-alumni-association-launches-military-veteran-alumni-group/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Notre Dame to launch new Department of Bioengineering",
+      "url": "https://news.nd.edu/news/notre-dame-to-launch-new-department-of-bioengineering/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

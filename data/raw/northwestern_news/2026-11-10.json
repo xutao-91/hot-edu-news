@@ -1,0 +1,17 @@
+{
+  "source": "Northwestern University News",
+  "source_url": "https://news.northwestern.edu/university-news",
+  "crawled_at": "2026-11-10T19:00:09.505657",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Cyberattacks are accelerating. Here is what it means for Northwestern.",
+      "url": "https://news.northwestern.edu/stories/2026/11/cyberattacks-are-accelerating-here-is-what-it-means-for-northwestern",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Northwestern News",
+      "category": "general"
+    }
+  ]
+}

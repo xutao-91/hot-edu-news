@@ -1,0 +1,17 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-11-10T19:00:05.831674",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "AI can generate research themes. Can students defend them?",
+      "url": "https://www.ecampusnews.com/ai-in-education/2026/11/09/ai-can-generate-research-themes-can-students-defend-them/",
+      "date": "2026-11-09",
+      "type": "AI in Education",
+      "summary_en": "Higher education has spent considerable energy debating whether students use artificial intelligence to write papers. I believe an equally consequential question deserves attention: What happens when AI helps produce the findings those papers report?",
+      "source": "eCampus News",
+      "category": "ai"
+    }
+  ]
+}

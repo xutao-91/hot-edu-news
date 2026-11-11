@@ -1,0 +1,21 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-11-10T19:00:09.298947",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "What We Know – and Don’t Know – About Flock’s License Plate Cameras",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/09/what-we-know-and-dont-know-about-flocks-license-plate-cameras/",
+      "date": "Nov 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Criminal Justice",
+        "Police 2"
+      ],
+      "summary_en": "There are more than 100,000 Flock cameras in the U.S. Here’s what the data shows about their locations and how agencies use them.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

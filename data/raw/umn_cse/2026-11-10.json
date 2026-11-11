@@ -1,0 +1,26 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-11-10T19:00:10.876470",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "University of Minnesota awarded $20 million to expand scientific drilling on large bodies of water",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-awarded-20-million-expand-scientific-drilling-large-bodies-water",
+      "date": "2026-11-10",
+      "type": "Energy-Environment",
+      "summary_en": "The National Science Foundation has awarded $20 million to a University of Minnesota-led project to develop a modular drilling platform for research on large lakes and in nearshore marine settings. The system will allow scientists to collect samples at sites that existing systems cannot reach.",
+      "source": "UMN CSE",
+      "category": "awards"
+    },
+    {
+      "title": "University of Minnesota launches Interdisciplinary Computing major",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-launches-interdisciplinary-computing-major",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "The University of Minnesota Twin Cities is launching Interdisciplinary Computing, an undergraduate major that combines a foundation in computer science with in-depth study in another discipline.",
+      "source": "UMN CSE",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-11-10T19:00:12.251367",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "New café planned for Adele Hall Learning Commons",
+      "url": "https://news.unl.edu/article/new-cafe-planned-for-adele-hall-learning-commons",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Steinacher’s new book examines Vatican’s response after the Holocaust",
+      "url": "https://news.unl.edu/article/steinachers-new-book-examines-vaticans-response-after-the-holocaust",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Reports celebrate a year of Nebraska research and discovery",
+      "url": "https://news.unl.edu/article/reports-celebrate-a-year-of-nebraska-research-and-discovery",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Record number of Husker entrepreneurs compete in 3-2-1 Quick Pitch",
+      "url": "https://news.unl.edu/article/record-number-of-husker-entrepreneurs-compete-in-3-2-1-quick-pitch-0",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}
