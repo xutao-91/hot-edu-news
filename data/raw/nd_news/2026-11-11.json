@@ -1,0 +1,35 @@
+{
+  "source": "University of Notre Dame News",
+  "source_url": "https://news.nd.edu/news/category/university-news/",
+  "crawled_at": "2026-11-11T19:00:08.453860",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Refik Anadol, ‘Artist of the AI Age,’ will bring exhibition to Notre Dame Arts Biennial",
+      "url": "https://news.nd.edu/news/refik-anadol-artist-of-the-ai-age-will-bring-exhibition-to-notre-dame-arts-biennial/",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Notre Dame Alumni Association Launches Military & Veteran Alumni Group",
+      "url": "https://news.nd.edu/news/notre-dame-alumni-association-launches-military-veteran-alumni-group/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    },
+    {
+      "title": "Notre Dame to launch new Department of Bioengineering",
+      "url": "https://news.nd.edu/news/notre-dame-to-launch-new-department-of-bioengineering/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame News",
+      "category": "general"
+    }
+  ]
+}

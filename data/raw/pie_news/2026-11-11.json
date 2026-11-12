@@ -1,0 +1,108 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-11T19:00:09.259050",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "International business student decline could cost UK economy £4.2bn",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "The UK economy could experience a £4.2 billion loss if international business students' numbers continue to fall and return to their 2019/20 level, a new report reveals.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "South Asia needs more than a recruitment strategy. It needs a market development strategy",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-11",
+      "type": "Voices",
+      "summary_en": "International education providers invest heavily in reaching South Asian students. But their long-term success may depend on what they build in the region, not simply how many applications they generate, says Mukesh Dhamala.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Mukesh Dhamala"
+    },
+    {
+      "title": "Interest in US surges as study destination up 40% after midterms",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "Just one week on from the US midterm elections, new data shows international students’ interest in studying in the US has jumped by 40%, following two years of decline.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "Exclusive: London Met returns to Bangladesh, warns of UKVI fallout",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-11-11",
+      "type": "Recruitment & agents",
+      "summary_en": "The university had paused recruitment from Bangladesh as the sector braced for tighter Basic Compliance Assessment (BCA) requirements, but deputy vice-chancellor Gary Davies has confirmed that improved data now supports a return.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Global PBSA leaders outline China’s new student-centric era",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "The global international student housing and education sectors stand at a critical inflection point, marked by a structural shift from supply shortages to an oversupplied market in key university hubs.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Rongrong Walker"
+    },
+    {
+      "title": "AIEC 2026: Australia rethinks its international education promise",
+      "url": "https://thepienews.com/category/news/events/",
+      "date": "2026-11-10",
+      "type": "Events",
+      "summary_en": "At its 40th conference in Sydney, the Australian sector confronted visa uncertainty, global competition and the need to make a more credible case to students and the public.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "ASEAN-UK higher education partnerships must reflect local priorities",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "ASEAN and UK higher education leaders have called for more locally driven partnerships, backed by clear regulation and funding, as universities look to deepen collaboration on skills, research and AI.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Canada cuts, NZ grows as Australia and US rethink international education",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-11-09",
+      "type": "Policy",
+      "summary_en": "At AIEC 2026, leaders said policy uncertainty, public trust and student outcomes are redrawing the competition for global talent.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Abhishek Nair"
+    },
+    {
+      "title": "UK business schools’ finances strained amid fall in international enrolments",
+      "url": "https://thepienews.com/category/news/associations/",
+      "date": "2026-11-09",
+      "type": "Associations",
+      "summary_en": "Almost 70% of UK business schools are reporting a drop in international enrolments, as government policies add pressure to already-strained finances.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "AIECA backs mandatory agent accreditation as Hill signals regulatory rethink",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-11-09",
+      "type": "Recruitment & agents",
+      "summary_en": "AIECA has backed mandatory accreditation and a government-supported regulatory model for education agents, as Australia's assistant minister signals openness to reform without imposing a costly licensing scheme.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    }
+  ]
+}

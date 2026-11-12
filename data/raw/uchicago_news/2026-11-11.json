@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-11T19:00:10.236507",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "In Taiwan and Chicago, students say yes to the unfamiliar",
+      "url": "https://news.uchicago.edu/story/taiwan-and-chicago-students-say-yes-unfamiliar",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "Through the UChicago-Taiwan Student Exchange, undergraduates and fellows conduct hands-on research abroad while finding new paths forward",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Chemistry from plastic wrap could lead to brighter, stretchier screens for wearable devices",
+      "url": "https://news.uchicago.edu/story/chemistry-plastic-wrap-could-lead-brighter-stretchier-screens-wearable-devices",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "Undergraduate-led UChicago PME study boosts efficiency and elasticity of light-emitting polymers with common additive",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago team wins $10 million Laude Institute grant to advance AI weather forecasting for low- and middle-income economies",
+      "url": "https://news.uchicago.edu/story/uchicago-team-wins-10-million-laude-institute-grant-advance-ai-weather-forecasting-low-and",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "The Research Powering A Sustainable Future",
+      "url": "https://news.uchicago.edu/research-powering-sustainable-future",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "UChicago to collaborate with Tohoku University to bolster quantum research and education",
+      "url": "https://news.uchicago.edu/story/uchicago-collaborate-tohoku-university-bolster-quantum-research-and-education",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "Agreement establishes joint research framework in Japan, with distinguished visiting professorships and shared access to leading facilities",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "What we’re getting wrong about the economy, UChicago scholar explains",
+      "url": "https://news.uchicago.edu/story/what-were-getting-wrong-about-economy-uchicago-scholar-explains",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "In Q&A, Greg Kaplan discusses his new book ‘Macro’ and translating the latest economic research for the general public",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "School closures are accelerating in US, but more financial pain lies ahead",
+      "url": "https://apnews.com/article/education-school-closures-16c5cc6be682d7ce3d2e5eb056fb65c9",
+      "date": "2026-11-08",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "ai"
+    }
+  ]
+}

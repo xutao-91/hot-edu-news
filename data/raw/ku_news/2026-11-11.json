@@ -1,0 +1,71 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-11-11T19:00:10.118142",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "New review explores how faint ‘glow’ from plants could transform global monitoring of photosynthesis",
+      "url": "https://news.ku.edu/news/article/new-review-explores-how-faint-glow-from-plants-could-transform-global-monitoring-of-photosynthesis",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "New work co-written by a University of Kansas researcher examines how solar-induced chlorophyll fluorescence can help scientists measure photosynthetic activity, connecting processes inside individual plant cells with observations of entire ecosystems from space.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Former governor, political journalists will participate in Dole Institute’s 2026 Post Election Conference",
+      "url": "https://news.ku.edu/news/article/former-governor-political-journalists-will-participate-in-dole-institutes-2026-post-election-conference",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "A former Kansas governor, national political reporters, and Democratic and Republican strategists are among the panelists who will join the Robert J. Dole Institute of Politics' 2026 Post Election Conference on Dec. 9.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Theories of when people first entered American continents evaluated for compatibility with genomic evidence",
+      "url": "https://news.ku.edu/news/article/theories-of-when-people-first-entered-american-continents-evaluated-for-compatibility-with-genomic-evidence",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "Jennifer Raff, associate professor of anthropology at the University of Kansas, reviewed various models for early migrations into the Western Hemisphere, considering their compatibility with genetic, archaeological and environmental evidence.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Libraries to host typewriter type-in with student repair expert, collector",
+      "url": "https://news.ku.edu/news/article/ku-libraries-to-host-typewriter-type-in-with-student-repair-expert-collector",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "KU Libraries will bring part of student Jonathan Swanberg’s typewriter collection to Watson Library for “Watson Type-In: Exploring Typewriter History, Technology and Freedom of Speech” on Dec. 1.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU scholar forms Courageous Minority movement, international group to create conditions for educational revolution",
+      "url": "https://news.ku.edu/news/article/ku-scholar-forms-courageous-minority-movement-international-group-to-create-conditions-for-educational-revolution",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "Yong Zhao, an education researcher at the University of Kansas, has organized a group of scholars across five continents dedicated to reimagining education in the age of artificial intelligence. Zhao published new work about the cause in the academic journal Interchange: A Quarterly Review of Education.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KPR’s Live Day returns with full slate of performances at Lawrence Public Library",
+      "url": "https://news.ku.edu/news/article/kprs-live-day-returns-with-full-slate-of-performances-at-lawrence-public-library",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "Kansas Public Radio’s Live Day will return this fall with seven live classical concerts for the community Nov. 13. Area musicians will perform at Lawrence Public Library; concerts and free and open to the public.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Personal stories help honor the service, sacrifice of Jayhawks and all veterans",
+      "url": "https://news.ku.edu/news/article/personal-stories-help-honor-the-service-sacrifice-of-jayhawks-and-all-veterans",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "Each Veterans Day, the University of Kansas recognizes the service, sacrifice and commitment of the millions of Americans who have served in the nation’s armed forces. Read profiles of ROTC students and Jayhawk veterans.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

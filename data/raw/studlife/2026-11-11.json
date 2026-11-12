@@ -1,0 +1,28 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-11T19:00:10.327917",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "How students have navigated disability housing accommodations",
+      "url": "https://www.studlife.com/news/2026/11/11/how-students-have-navigated-disability-housing-accommodations",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "author": "Flannery Poon",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Predatory flyers posted in Women’s Building and DUC",
+      "url": "https://www.studlife.com/news/2026/11/10/predatory-flyers-posted-in-womens-building-and-duc",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}

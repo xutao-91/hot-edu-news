@@ -1,0 +1,112 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-11-11T19:00:06.315941",
+  "total_news": 13,
+  "news": [
+    {
+      "title": "Israel’s Elections and the Future of the Middle East",
+      "url": "https://www.csis.org/events/israels-elections-and-future-middle-east",
+      "date": "2026-11-12",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Taking Stock of the U.S.-Korea Alliance | The Capital Cable #146",
+      "url": "https://www.csis.org/index%2Ephp/events/taking-stock-us-korea-alliance-capital-cable-146",
+      "date": "2026-11-13",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Powering America: Connecting Regions, Strengthening the Grid",
+      "url": "https://www.csis.org/events/powering-america-connecting-regions-strengthening-grid",
+      "date": "2026-11-13",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Strategic Implications of the Russia-North Korea Axis",
+      "url": "https://www.csis.org/events/strategic-implications-russia-north-korea-axis",
+      "date": "2026-11-16",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "William Daley and Paul Ryan Named Chair and Vice Chair of the CSIS Board of Trustees",
+      "url": "https://www.csis.org/news/william-daley-and-paul-ryan-named-chair-and-vice-chair-csis-board-trustees",
+      "date": "2026-11-11",
+      "summary_en": "The Center for Strategic and International Studies (CSIS) today announced the appointment of William Daley, former White House chief of staff and U.S. secretary of commerce, as chair of its board of trustees. Paul Ryan, former speaker of the U.S. House of Representatives, has been appointed vice chair.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Strategic Shores: Strengthening Overseas Port Infrastructure to Safeguard U.S. Economic and Security Interests",
+      "url": "https://www.csis.org/analysis/strategic-strengthening-overseas-infrastructure-safeguard-us-economic",
+      "date": "2026-11-10",
+      "summary_en": "Global seaports have become a key arena for U.S.-China strategic competition. A new CSIS report examines vulnerabilities across the maritime port sector and offers recommendations to strengthen U.S. competitiveness and security overseas.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Strategic Shores: Strengthening Overseas Port Infrastructure to Safeguard U.S. Economic and Security Interests (Country Case Studies)",
+      "url": "https://www.csis.org/analysis/strategic-shores-strengthening-overseas-port-infrastructure-safeguard-us-economic-and",
+      "date": "2026-11-10",
+      "summary_en": "Global seaports have become an important arena for strategic competition, creating new economic and security challenges for the United States. Drawing on field visits and interviews, four CSIS case studies examine port infrastructure in Panama, Peru, Sri Lanka, and Greece.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Munition Inventories: An Update Amid Renewed War Risk",
+      "url": "https://www.csis.org/analysis/munition-inventories-update-amid-renewed-war-risk",
+      "date": "2026-11-10",
+      "summary_en": "Some munitions inventories are in good shape, others are not, and a few are critically short as President Trump mulls resuming the war against Iran.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "One Year After Busan: Has China Kept Its Rare Earth Promises?",
+      "url": "https://www.csis.org/analysis/one-year-after-busan-has-china-kept-its-rare-earth-promises",
+      "date": "2026-11-10",
+      "summary_en": "One year after Busan, China’s rare earth exports to the United States remain sharply below pre-restriction levels, even as global shipments hold steady. Beijing’s continued control over rare earth supplies raises the stakes for Trump-Xi meetings in Shenzhen and Miami.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Mind the Gap: Keeping Export Compliance Within Reach as BIS Focuses on Enforcement",
+      "url": "https://www.csis.org/analysis/mind-gap-keeping-export-compliance-within-reach-bis-focuses-enforcement",
+      "date": "2026-11-09",
+      "summary_en": "The Department of Commerce is emphasizing enforcement of export controls and engaging less with industry. CSIS and UGA experts lay out four steps to keep the resulting compliance burden manageable.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Contested Skies: What a Recent Military Operation with Mexico Reveals About the Homeland Drone Fight",
+      "url": "https://www.csis.org/analysis/contested-skies-what-recent-military-operation-mexico-reveals-about-homeland-drone-fight",
+      "date": "2026-11-09",
+      "summary_en": "A novel operation along the southwest border to counter cartel drones demonstrated homeland drone defense that centers the U.S. military in a law enforcement role. This analysis examines Operation High Eagle and its implications for U.S. ability to defend against drones.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Trilateral “Denuclearization”: False Promises or Way Forward?",
+      "url": "https://www.csis.org/analysis/trilateral-denuclearization-false-promises-or-way-forward",
+      "date": "2026-11-09",
+      "summary_en": "The Trump administration wants denuclearization on the agenda for potential talks with Putin and Xi at APEC. Washington should use the talks to lay the groundwork for trilateral arms control, promote transparency, and out-compete Beijing and Moscow in nuclear diplomacy.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "CSIS Press Briefing: Previewing President Trump’s Trip to Asia",
+      "url": "https://www.csis.org/analysis/csis-press-briefing-previewing-president-trumps-trip-asia",
+      "date": "2026-11-09",
+      "summary_en": "The Center for Strategic and International Studies (CSIS) hosted a virtual press briefing to preview President Trump’s upcoming Asia trip (November 16-19).",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-11-11T19:00:09.206398",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Key Facts About U.S. Data Centers",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/11/key-facts-about-us-data-centers/",
+      "date": "Nov 11, 2026",
+      "type": "short reads",
+      "categories": [
+        "Emerging Technology",
+        "Politics Policy"
+      ],
+      "summary_en": "Data centers are expanding fast to power AI, and public backlash is growing. Here are some key facts on their locations, energy use and Americans’ views.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "What We Know – and Don’t Know – About Flock’s License Plate Cameras",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/09/what-we-know-and-dont-know-about-flocks-license-plate-cameras/",
+      "date": "Nov 9, 2026",
+      "type": "short reads",
+      "categories": [
+        "Criminal Justice",
+        "Police 2"
+      ],
+      "summary_en": "There are more than 100,000 Flock cameras in the U.S. Here’s what the data shows about their locations and how agencies use them.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

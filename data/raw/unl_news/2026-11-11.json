@@ -1,0 +1,71 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-11-11T19:00:11.323413",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "High costs inhibit Nebraskans from seeking healthcare, poll shows",
+      "url": "https://news.unl.edu/article/high-costs-inhibit-nebraskans-from-seeking-healthcare-poll-shows",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Nebraska Law works to expand rural access to justice",
+      "url": "https://news.unl.edu/article/nebraska-law-works-to-expand-rural-access-to-justice",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Engler program celebrates 15 years of building people who build Nebraska",
+      "url": "https://news.unl.edu/article/engler-program-celebrates-15-years-of-building-people-who-build-nebraska",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "New café planned for Adele Hall Learning Commons",
+      "url": "https://news.unl.edu/article/new-cafe-planned-for-adele-hall-learning-commons",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Steinacher’s new book examines Vatican’s response after the Holocaust",
+      "url": "https://news.unl.edu/article/steinachers-new-book-examines-vaticans-response-after-the-holocaust",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Reports celebrate a year of Nebraska research and discovery",
+      "url": "https://news.unl.edu/article/reports-celebrate-a-year-of-nebraska-research-and-discovery",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Record number of Husker entrepreneurs compete in 3-2-1 Quick Pitch",
+      "url": "https://news.unl.edu/article/record-number-of-husker-entrepreneurs-compete-in-3-2-1-quick-pitch-0",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

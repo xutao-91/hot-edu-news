@@ -1,0 +1,44 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-11T19:00:10.980931",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UNI Physics students present at international conference",
+      "url": "https://insideuni.uni.edu/stem/uni-physics-students-present-international-conference",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "Four undergraduate students from the UNI Department of Physics presented their work at the 71st Annual Conference on Magnetism and Magnetic Materials in Hawaii. The conference brings together thousands of researchers, educators and students from around the world to share the latest scientific discoveries and technological advances.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "UNI named a 2026 Best for Vets college",
+      "url": "https://insideuni.uni.edu/campus-community/uni-named-2026-best-vets-college",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "The Best for Vets: Colleges recognition affirms UNI’s commitment to supporting military-connected students from the time they apply all the way through graduation.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Growing connection and Panther Pride in Story County",
+      "url": "https://insideuni.uni.edu/campus-community/growing-connection-and-panther-pride-story-county",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "In the heart of Story County, Iowa, patrons have been coming to Berry Patch Farm in Nevada for more than 50 years to pick their own fresh prodcue. Owners Joe and Kristin Wakeman both attended UNI and frequently connect with visitors on Panther Pride.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "Building real-world tech skills: New $294K grant transforms UNI computer science learning",
+      "url": "https://insideuni.uni.edu/stem/building-real-world-tech-skills-new-294k-grant-transforms-uni-computer-science-learning",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "A $294,000 grant from the Roy J. Carver Charitable Trust is helping UNI’s Department of Computer Science create state-of-the-art virtual computing environments where students can gain hands-on experience in cybersecurity, networking, system administration and more.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

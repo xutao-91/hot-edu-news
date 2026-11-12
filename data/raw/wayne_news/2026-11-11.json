@@ -1,0 +1,44 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-11-11T19:00:11.979403",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "For more than 85 years, Wayne State has strengthened Michigan’s funeral service workforce",
+      "url": "https://today.wayne.edu/news/2026/11/10/for-more-than-85-years-wayne-state-has-strengthened-michigans-funeral-service-workforce-70534",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Hands-on experience prepares Wayne State engineers for Michigan’s AI-powered manufacturing future",
+      "url": "https://today.wayne.edu/news/2026/11/10/hands-on-experience-prepares-wayne-state-engineers-for-michigans-ai-powered-manufacturing-future-70535",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Celebrating Veterans Day with Gadson OMVAE",
+      "url": "https://provost.wayne.edu/news/academic-success-is-its-own-mission-celebrating-veterans-day-with-gadson-omvae-70526",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "WSU Applebaum faculty member receives national grant to connect physician assistant education with community needs",
+      "url": "https://applebaum.wayne.edu/news/wsu-applebaum-faculty-member-receives-national-grant-to-connect-physician-assistant-education-with-community-needs-70532",
+      "date": "2026-11-09",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "academic"
+    }
+  ]
+}
