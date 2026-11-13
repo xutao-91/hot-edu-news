@@ -1,0 +1,17 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-11-12T23:39:11.648785",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "ACE, Others Call on DHS to Withdraw Proposed OPT Fee Increase",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Others-Call-on-DHS-Withdraw-OPT-Rule.aspx",
+      "date": "November 9, 2026",
+      "type": "News",
+      "summary_en": "The higher ed community urges DHS to withdraw a proposed rule that would hike the fee institutions pay for each international student that is recommended for Optional Practical Training.",
+      "source": "ACE",
+      "category": "general"
+    }
+  ]
+}

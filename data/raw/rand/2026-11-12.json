@@ -1,0 +1,44 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-12T23:39:18.362772",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Higher-Income Parents Use AI More and Encourage Their Children to Do the Same",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4742-5.html",
+      "date": "Nov 12, 2026",
+      "type": "Research",
+      "summary_en": "Analyzing RAND American Life Panel survey data from 2025 and 2026, the authors describe what parents and teens say about their AI use, their perspectives concerning such use, and what parents tell their children about AI use for school or homework.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "The U.S. Mobile Network Industrial Base: An Assessment and U.S. Government Action Plan",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4368-1.html",
+      "date": "Nov 10, 2026",
+      "type": "Research",
+      "summary_en": "This assessment of the U.S. mobile network industrial base identifies a strategy to leverage U.S. strengths to build an advanced 6G ecosystem by establishing a public-private partnership between the U.S. government and the private sector.",
+      "source": "Rand Corporation",
+      "category": "general"
+    },
+    {
+      "title": "Three Essays on Artificial Intelligence and Work in the U.S.",
+      "url": "https://www.rand.org/pubs/rgs_dissertations/RGSDA5507-1.html",
+      "date": "Nov 9, 2026",
+      "type": "Research",
+      "summary_en": "The arrival of artificial intelligence (AI) in workplaces worldwide has raised concerns about the implications for workers. The author examines the relationship between AI and work in the United States through quantitative and qualitative lenses.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Three Essays on High School Social Studies Coursetaking",
+      "url": "https://www.rand.org/pubs/rgs_dissertations/RGSDA5506-1.html",
+      "date": "Nov 9, 2026",
+      "type": "Research",
+      "summary_en": "The author explores which students take which courses and why; the extent to which state and local policy mechanisms shape enrollment patterns; and the extent to which students’ coursetaking matters for their college, career, and civic outcomes.",
+      "source": "Rand Corporation",
+      "category": "students"
+    }
+  ]
+}

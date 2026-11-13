@@ -1,0 +1,53 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-12T23:39:20.123382",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "WashU researchers develop first human model for form of inherited heart disease",
+      "url": "https://source.washu.edu/2026/11/washu-researchers-develop-first-human-model-for-form-of-inherited-heart-disease/",
+      "date": "2026-11-11",
+      "type": "Engineering",
+      "summary_en": "Desmin-related cardiomyopathy (DRM) affects approximately 1 in 2,000 individuals worldwide. Engineered tissues developed in the lab of Nathaniel Huebsch at WashU McKelvey Engineering are helping to improve understanding of DRM and other cardiomyopathies — and could lead to more targeted therapies.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Mental health care may not keep pace with needs of women veterans, study finds",
+      "url": "https://source.washu.edu/2026/11/mental-health-care-may-not-keep-pace-with-needs-of-women-veterans-study-finds/",
+      "date": "2026-11-11",
+      "type": "Social Work",
+      "summary_en": "Nearly half of the post-9/11 veterans surveyed in a new study showed signs of depression, anxiety or post-traumatic stress disorder. But women veterans, who reported substantially more mental health and substance use problems than men, did not see an increase in mental health appointments, finds a new study from the Brown School.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "$32 million NIH grant expands decades-long Alzheimer’s study",
+      "url": "https://source.washu.edu/2026/11/32-million-nih-grant-expands-decades-long-alzheimers-study/",
+      "date": "2026-11-10",
+      "type": "Alzheimer's",
+      "summary_en": "The Healthy Aging and Senile Dementia program, led by WashU Medicine neurologist John Morris, MD, is one of the longest-running Alzheimer’s studies. The new funding will allow investigators to reach new populations with a focus on prevention.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Lucht appointed vice chancellor for enterprise risk management",
+      "url": "https://source.washu.edu/2026/11/lucht-appointed-vice-chancellor-for-enterprise-risk-management/",
+      "date": "2026-11-10",
+      "type": "Appointments & Promotions",
+      "summary_en": "Melanie Lucht has been appointed the inaugural vice chancellor for enterprise risk management at Washington University in St. Louis, effective Nov. 9, announced Nichol Luoma, executive vice chancellor for enterprise operations and chief operating officer.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Why veterans choose Olin",
+      "url": "https://source.washu.edu/2026/11/why-veterans-choose-olin/",
+      "date": "2026-11-09",
+      "type": "Students",
+      "summary_en": "Olin Business School has doubled its enrollment of talented veterans in recent years. Most veteran MBA students attend WashU for free, using a combination of U.S. Department of Veterans Affairs Yellow Ribbon benefits and Olin scholarship dollars.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-11-12T23:39:20.377857",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Strategic Plan update: Coordinated campus effort helps more students earn degrees",
+      "url": "https://strategicplan.uiowa.edu/plan-progress",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "The latest Plan in Progress highlights how the University of Iowa has achieved its four- and six-year graduation rate goals ahead of schedule. The milestone reflects the collective commitment of faculty, staff, and campus leaders to supporting student success through innovative programs that help more Hawkeyes earn their degrees.",
+      "source": "UIowa Now",
+      "category": "students"
+    },
+    {
+      "title": "New report highlights Iowa Writers’ Workshop’s economic impact",
+      "url": "https://www.uschamber.com/intellectual-property/turning-pages-into-prosperity",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "The Iowa Writers’ Workshop boosts the local economy by attracting writers, visitors, and creative talent while supporting businesses, tourism, and jobs, according to a report from the U.S. Chamber of Commerce. Its influence is part of a thriving arts and culture sector that generated $32 million in economic activity across Johnson County in 2022.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI researchers unearth evidence of natural hydrogen beneath Iowa",
+      "url": "https://engineering.uiowa.edu/news-all/2026/10/iowa-geological-survey-unearths-evidence-natural-hydrogen-beneath-iowa",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "UI researchers with the Iowa Geological Survey have found evidence of naturally occurring hydrogen deep beneath Iowa, a finding that could open new possibilities for clean energy production. The discovery could eventually lead to a low-cost, low-emission energy source in the future.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "UI respiratory therapist brings a creative touch to patient care",
+      "url": "https://uihc.org/childrens/news/respiratory-therapist-uses-art-connect-pediatric-patients",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "Eddie Hatcher draws on his own childhood experiences as a patient and his love of art to connect with children at UI Health Care’s Stead Family Children’s Hospital. He brightens young patients’ days with drawings featuring everything from unicorns to favorite cartoon characters. His artwork brings smiles, builds connections, and makes hospital stays a little less scary.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa alumna digs deep to uncover stories driving sports",
+      "url": "https://stories.uiowa.edu/iowa-alumna-finds-her-game-sports-writing",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "UI journalism graduate Annie Costabile learned early that great sports reporting requires digging deeper. Through hands-on experience covering Hawkeye athletics and producing broadcasts for Daily Iowan TV, she developed the skills to tell stories that matter. As a senior women’s basketball reporter for The Athletic, she now explores the WNBA’s challenges, achievements, and growing influence on wom",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

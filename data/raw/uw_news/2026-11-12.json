@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-11-12T23:39:19.970146",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Author Eliot Stein to deliver Go Big Read keynote Nov. 19",
+      "url": "https://news.wisc.edu/author-eliot-stein-to-deliver-go-big-read-keynote-nov-19/",
+      "date": "November 12, 2026",
+      "type": "News",
+      "summary_en": "The journalist and BBC Travel editor will take readers behind the scenes of “Custodians of Wonder: Ancient Customs, Profound Traditions, and the Last People Keeping Them Alive.”",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "FGLI Services makes the invisible, visible — and accessible — for first generation and limited income students",
+      "url": "https://news.wisc.edu/fgli-services-makes-the-invisible-visible-and-accessible-for-first-generation-and-limited-income-students/",
+      "date": "November 11, 2026",
+      "type": "News",
+      "summary_en": "The new office aims to connect UW–Madison students with mentorship opportunities, important resources and each other.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    },
+    {
+      "title": "Badger basketball legend Frank Kaminsky will address graduates at winter commencement",
+      "url": "https://news.wisc.edu/badger-basketball-legend-frank-kaminsky-will-address-graduates-at-winter-commencement/",
+      "date": "November 9, 2026",
+      "type": "News",
+      "summary_en": "The former college player of the year will return to the Kohl Center, on the very court he dominated, to deliver the keynote on Dec. 13.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

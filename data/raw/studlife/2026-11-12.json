@@ -1,0 +1,48 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-12T23:39:18.348372",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Former Transgender Center case manager sues WashU, alleging retaliation after whistleblower report",
+      "url": "https://www.studlife.com/news/2026/11/11/former-transgender-center-case-manager-sues-washu-alleging-retaliation-after-whistleblower-report",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "author": "Sara Strassberg",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "WashU can see students’ AI chat logs in misconduct cases. What do students think?",
+      "url": "https://www.studlife.com/news/2026/11/11/washu-can-see-students-ai-chat-logs-in-misconduct-cases-what-do-students-think",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "author": "Peter Eiswert",
+      "source": "Student Life",
+      "category": "ai"
+    },
+    {
+      "title": "How students have navigated disability housing accommodations",
+      "url": "https://www.studlife.com/news/2026/11/11/how-students-have-navigated-disability-housing-accommodations",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "",
+      "author": "Flannery Poon",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Predatory flyers posted in Women’s Building and DUC",
+      "url": "https://www.studlife.com/news/2026/11/10/predatory-flyers-posted-in-womens-building-and-duc",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "author": "Ella Meshoulam",
+      "source": "Student Life",
+      "category": "general"
+    }
+  ]
+}
