@@ -1,0 +1,17 @@
+{
+  "source": "University of Minnesota CSE",
+  "source_url": "https://cse.umn.edu/college/news",
+  "crawled_at": "2026-11-13T19:00:11.061296",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "University of Minnesota awarded $20 million to expand scientific drilling on large bodies of water",
+      "url": "https://cse.umn.edu/college/news/university-minnesota-awarded-20-million-expand-scientific-drilling-large-bodies-water",
+      "date": "2026-11-10",
+      "type": "Energy-Environment",
+      "summary_en": "The National Science Foundation has awarded $20 million to a University of Minnesota-led project to develop a modular drilling platform for research on large lakes and in nearshore marine settings. The system will allow scientists to collect samples at sites that existing systems cannot reach.",
+      "source": "UMN CSE",
+      "category": "awards"
+    }
+  ]
+}

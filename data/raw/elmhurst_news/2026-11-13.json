@@ -1,0 +1,26 @@
+{
+  "source": "Elmhurst University News",
+  "source_url": "https://www.elmhurst.edu/news/",
+  "crawled_at": "2026-11-13T19:00:06.287565",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Art Collection Receives Arts DuPage Grant",
+      "url": "https://www.elmhurst.edu/news/elmhurst-university-art-collection-receives-arts-dupage-grant/",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    },
+    {
+      "title": "65th Annual Festival of Lessons & Carols to be Held on Dec. 4",
+      "url": "https://www.elmhurst.edu/news/65th-annual-festival-of-lessons-carols-to-be-held-on-dec-4/",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "",
+      "source": "Elmhurst News",
+      "category": "general"
+    }
+  ]
+}

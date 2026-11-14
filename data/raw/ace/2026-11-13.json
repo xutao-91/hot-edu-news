@@ -1,0 +1,26 @@
+{
+  "source": "ACE - American Council on Education",
+  "source_url": "https://www.acenet.edu/News-Room/Pages/default.aspx?k=((ACETileType:%22News%22%20OR%20ACETileType:%22Statement%22%20OR%20ACETileType:%22Press%20Release%22))",
+  "crawled_at": "2026-11-13T19:00:08.331719",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Calling All Presidents: Attend Exclusive Events at ACEx2027",
+      "url": "https://www.acenet.edu/News-Room/Pages/Presidents-Exclusive-Events-ACEx2027.aspx",
+      "date": "November 13, 2026",
+      "type": "News",
+      "summary_en": "Three events exclusively for college and university presidents and chancellors are on tap during the ACE Experience 2027 (ACEx2027).",
+      "source": "ACE",
+      "category": "general"
+    },
+    {
+      "title": "Higher Education Groups Oppose Trump Administration Proposed Rule to Remove “Deference” Policy",
+      "url": "https://www.acenet.edu/News-Room/Pages/ACE-Groups-Oppose-Proposed-Deference-Rule.aspx",
+      "date": "November 13, 2026",
+      "type": "News",
+      "summary_en": "ACE, others are asking DHS to withdraw its proposed rule ending the policy of deferring to earlier visa approvals in making decisions about H-1B extension requests.",
+      "source": "ACE",
+      "category": "federal_policy"
+    }
+  ]
+}

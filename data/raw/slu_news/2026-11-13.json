@@ -1,0 +1,17 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-11-13T19:00:10.188883",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "SLU Employees Recognized for Decades of Service",
+      "url": "https://www.slu.edu/news/2026/november/presidential-service-awards.php",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "Saint Louis University celebrated its long-time employees at the Presidential Service Awards breakfast ceremony on Tuesday, Nov. 10, in the Wool Ballrooms at the Busch Student Center. At the ceremony, SLU saluted employees who have been with the University for 10, 15, 20, 25, 30, 35, 40, 45, 50 and 55 years.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

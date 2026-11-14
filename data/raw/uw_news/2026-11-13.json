@@ -1,0 +1,35 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-11-13T19:00:11.356933",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Museum, Reimagined",
+      "url": "https://onwisconsin.uwalumni.com/museum-reimagined/",
+      "date": "November 13, 2026",
+      "type": "News",
+      "summary_en": "With innovative changes to its gallery space, the Chazen Museum of Art offers a bold new perspective on what it means to showcase a collection of works.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "Author Eliot Stein to deliver Go Big Read keynote Nov. 19",
+      "url": "https://news.wisc.edu/author-eliot-stein-to-deliver-go-big-read-keynote-nov-19/",
+      "date": "November 12, 2026",
+      "type": "News",
+      "summary_en": "The journalist and BBC Travel editor will take readers behind the scenes of “Custodians of Wonder: Ancient Customs, Profound Traditions, and the Last People Keeping Them Alive.”",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "FGLI Services makes the invisible, visible — and accessible — for first generation and limited income students",
+      "url": "https://news.wisc.edu/fgli-services-makes-the-invisible-visible-and-accessible-for-first-generation-and-limited-income-students/",
+      "date": "November 11, 2026",
+      "type": "News",
+      "summary_en": "The new office aims to connect UW students with mentorship opportunities, important resources and each other.",
+      "source": "UW-Madison News",
+      "category": "campus"
+    }
+  ]
+}

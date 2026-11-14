@@ -1,0 +1,44 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-11-13T19:00:05.717677",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "New CQE report reveals the Quantum Prairie’s hidden talent pipeline",
+      "url": "https://chicagoquantum.org/news/new-cqe-report-reveals-quantum-prairies-hidden-talent-pipeline",
+      "date": "2026-11-11",
+      "summary_en": "Analysis finds Illinois, Indiana, and Wisconsin are producing quantum-relevant talent at above-average rates, with complementary strengths across the region",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "The Bloch Quantum Tech Hub names governance institutions",
+      "url": "https://chicagoquantum.org/news/bloch-quantum-tech-hubs-names-governance-institutions",
+      "date": "2026-11-11",
+      "summary_en": "Board includes academia, industry, national labs, economic development, manufacturing, and more",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "A quantum material and a little gold leads to a record-setting digital memory device",
+      "url": "https://engineering.wisc.edu/news/a-quantum-material-and-a-little-gold-leads-to-a-record-setting-digital-memory-device/",
+      "date": "2026-11-10",
+      "summary_en": "Electrical engineers at the University of Wisconsin-Madison have developed a new digital memory technology that’s more efficient than any other currently on the market.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "UChicago to collaborate with Tohoku University to bolster quantum research and education",
+      "url": "https://news.uchicago.edu/story/uchicago-collaborate-tohoku-university-bolster-quantum-research-and-education",
+      "date": "2026-11-09",
+      "summary_en": "Agreement establishes joint research framework in Japan, with distinguished visiting professorships and shared access to leading facilities",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

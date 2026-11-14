@@ -1,0 +1,89 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-11-13T19:00:09.074386",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Where Americans Get News Relates to How They Engage in Public Life",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/13/where-americans-get-news-relates-to-how-they-engage-in-public-life/",
+      "date": "Nov 13, 2026",
+      "type": "short reads",
+      "categories": [
+        "News Habits Media",
+        "News Platforms Sources",
+        "Political Civic Engagement"
+      ],
+      "summary_en": "News outlets that heavily cover politics are among the sources whose audiences contain a disproportionately high share of the most engaged Americans.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "A First Look at Polling Performance in 2026",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/12/a-first-look-at-polling-performance-in-2026/",
+      "date": "Nov 12, 2026",
+      "type": "short reads",
+      "categories": [
+        "Data Science",
+        "Election 2026"
+      ],
+      "summary_en": "Preelection polls captured the direction of this year’s election, while generally understating the size of Democrats’ advantage.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "‘Download My Free Guide’: What Products and Services Do Health and Wellness Influencers Promote?",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/12/download-my-free-guide-what-products-and-services-do-health-and-wellness-influencers-promote/",
+      "date": "Nov 12, 2026",
+      "type": "short reads",
+      "categories": [
+        "Medicine Health",
+        "Science News Information"
+      ],
+      "summary_en": "Health and wellness influencers promote some kind of product or service in 38% of posts, most often guides and other information, and many followers act on it.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "The Dating Attitudes of Single Black Adults",
+      "url": "https://www.pewresearch.org/race-and-ethnicity/2026/11/12/the-dating-attitudes-of-single-black-adults/",
+      "date": "Nov 12, 2026",
+      "type": "report",
+      "categories": [
+        "Black Americans",
+        "Romance Dating"
+      ],
+      "summary_en": "While about half of Black singles are looking for a relationship or dates, men and women differ on goals and financial considerations.",
+      "source": "Pew Research Center",
+      "category": "social_trends"
+    },
+    {
+      "title": "Many Black Adults Say Close Relationships Influence Their Views About Being a Black Man or Woman",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/12/many-black-adults-say-close-relationships-influence-their-views-about-being-a-black-man-or-woman/",
+      "date": "Nov 12, 2026",
+      "type": "short reads",
+      "categories": [
+        "Black Americans",
+        "Family Relationships",
+        "Gender Roles",
+        "Race Ethnicity"
+      ],
+      "summary_en": "Mothers top the list of influences on how Black adults see being a Black man or woman, while media like social platforms play a smaller role.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "Key Facts About U.S. Data Centers",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/11/key-facts-about-us-data-centers/",
+      "date": "Nov 11, 2026",
+      "type": "short reads",
+      "categories": [
+        "Emerging Technology",
+        "Politics Policy"
+      ],
+      "summary_en": "Data centers are expanding fast to power AI, and public backlash is growing. Here are some key facts on their locations, energy use and Americans’ views.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

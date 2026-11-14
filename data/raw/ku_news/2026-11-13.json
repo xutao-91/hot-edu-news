@@ -1,0 +1,98 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-11-13T19:00:09.785824",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "365th Basic Training Class graduates from Kansas Law Enforcement Training Center",
+      "url": "https://news.ku.edu/news/article/365th-basic-training-class-graduates-from-kansas-law-enforcement-training-center",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "After 14 weeks of training, members of the 365th Basic Training Class reached their goal of becoming sworn law enforcement officers. Friends and family filled Integrity Hall on Nov. 13 to celebrate the graduates and mark the occasion.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "2026 Mini Wheat State Tour explores western Kansas innovation",
+      "url": "https://news.ku.edu/news/article/2026-mini-wheat-state-tour-explores-western-kansas-innovation",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "On Oct. 23-24, the Hall Center for the Humanities’ Mini Wheat State Tour brought University of Kansas faculty and staff to Colby and the surrounding area to explore the technology, innovation and community resources shaping life in the northwest corner of the state.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU researchers awarded $10 million grant to advance sustainable chemical manufacturing",
+      "url": "https://news.ku.edu/news/article/ku-researchers-awarded-10-million-grant-to-advance-sustainable-chemical-manufacturing",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "A $10 million grant from the Gordon and Betty Moore Foundation was awarded to a team of University of Kansas scientists to establish a research hub that will transform chemical manufacturing by developing fundamental design principles to make these products in a sustainable manner.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU Engineering to host 70th Annual Asphalt Paving Conference",
+      "url": "https://news.ku.edu/news/article/ku-engineering-to-host-70th-annual-asphalt-paving-conference",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "On Dec. 3, the University of Kansas Department of Civil, Environmental & Architectural Engineering will host experts in the field of asphalt paving engineering for a conference exploring the latest developments in the profession.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "New review explores how faint ‘glow’ from plants could transform global monitoring of photosynthesis",
+      "url": "https://news.ku.edu/news/article/new-review-explores-how-faint-glow-from-plants-could-transform-global-monitoring-of-photosynthesis",
+      "date": "2026-11-11",
+      "type": "News",
+      "summary_en": "New work co-written by a University of Kansas researcher examines how solar-induced chlorophyll fluorescence can help scientists measure photosynthetic activity, connecting processes inside individual plant cells with observations of entire ecosystems from space.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Former governor, political journalists will participate in Dole Institute’s 2026 Post Election Conference",
+      "url": "https://news.ku.edu/news/article/former-governor-political-journalists-will-participate-in-dole-institutes-2026-post-election-conference",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "A former Kansas governor, national political reporters, and Democratic and Republican strategists are among the panelists who will join the Robert J. Dole Institute of Politics' 2026 Post Election Conference on Dec. 9.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Theories of when people first entered American continents evaluated for compatibility with genomic evidence",
+      "url": "https://news.ku.edu/news/article/theories-of-when-people-first-entered-american-continents-evaluated-for-compatibility-with-genomic-evidence",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "Jennifer Raff, associate professor of anthropology at the University of Kansas, reviewed various models for early migrations into the Western Hemisphere, considering their compatibility with genetic, archaeological and environmental evidence.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU Libraries to host typewriter type-in with student repair expert, collector",
+      "url": "https://news.ku.edu/news/article/ku-libraries-to-host-typewriter-type-in-with-student-repair-expert-collector",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "KU Libraries will bring part of student Jonathan Swanberg’s typewriter collection to Watson Library for “Watson Type-In: Exploring Typewriter History, Technology and Freedom of Speech” on Dec. 1.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "KU scholar forms Courageous Minority movement, international group to create conditions for educational revolution",
+      "url": "https://news.ku.edu/news/article/ku-scholar-forms-courageous-minority-movement-international-group-to-create-conditions-for-educational-revolution",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "Yong Zhao, an education researcher at the University of Kansas, has organized a group of scholars across five continents dedicated to reimagining education in the age of artificial intelligence. Zhao published new work about the cause in the academic journal Interchange: A Quarterly Review of Education.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KPR’s Live Day returns with full slate of performances at Lawrence Public Library",
+      "url": "https://news.ku.edu/news/article/kprs-live-day-returns-with-full-slate-of-performances-at-lawrence-public-library",
+      "date": "2026-11-10",
+      "type": "News",
+      "summary_en": "Kansas Public Radio’s Live Day will return this fall with seven live classical concerts for the community Nov. 13. Area musicians will perform at Lawrence Public Library; concerts and free and open to the public.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}
