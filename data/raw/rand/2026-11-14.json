@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-14T19:00:12.621914",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Higher-Income Parents Use AI More and Encourage Their Children to Do the Same",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4742-5.html",
+      "date": "Nov 12, 2026",
+      "type": "Research",
+      "summary_en": "Analyzing RAND American Life Panel survey data from 2025 and 2026, the authors describe what parents and teens say about their AI use, their perspectives concerning such use, and what parents tell their children about AI use for school or homework.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    }
+  ]
+}

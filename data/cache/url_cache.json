@@ -34618,5 +34618,47 @@
     "fetch_time": "2026-11-13T19:00:12.000753",
     "title": "Mathematical tools may help organize extremely large groups of systems with single controls",
     "category": "ai"
+  },
+  "https://www.csis.org/index%2ephp/events/beyond-pause-whats-next-cmmc": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "Beyond the Pause: What's Next for CMMC",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/events/strategic-implications-russia-north-korea-axis": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "The Strategic Implications of the Russia-North Korea Axis",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/events/dynamics-us-japan-semiconductor-partnership-national-security": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/events/decoding-energy-markets-conversation-amrita-sen": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "Decoding Energy Markets: A Conversation with Amrita Sen",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/european-nations-state-their-vision-future-european-security": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "European Nations State Their Vision for the Future of European Security",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/resilience-and-reform-us-china-relations-and-global-economic-order": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "Resilience and Reform: U.S.-China Relations and the Global Economic Order",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2ephp/analysis/foreign-policy-american-heartland-issues-120th-congress": {
+    "source": "csis",
+    "fetch_time": "2026-11-14T19:00:07.552142",
+    "title": "Foreign Policy in the American Heartland: Issues for the 120th Congress",
+    "category": "semiconductor"
   }
 }

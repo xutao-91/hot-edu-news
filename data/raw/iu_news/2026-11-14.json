@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-11-14T19:00:09.040800",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "7 research-backed tips for putting gratitude into action",
+      "url": "https://news.iu.edu/live/news/54529-7-research-backed-tips-for-putting-gratitude-into",
+      "date": "Nov 13, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "Community-engaged research provides insights on Southern Indiana housing needs",
+      "url": "https://news.iu.edu/live/news/54459-community-engaged-research-provides-insights-on",
+      "date": "Nov 11, 2026",
+      "type": "Law and Policy",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}
