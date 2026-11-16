@@ -1,0 +1,53 @@
+{
+  "source": "Purdue Polytechnic Institute",
+  "source_url": "https://polytechnic.purdue.edu/newsroom/all-news",
+  "crawled_at": "2026-11-15T19:00:11.034500",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Bowen School of Construction, Lennar host high schoolers for hands-on career day",
+      "url": "https://polytechnic.purdue.edu/newsroom/bowen-school-construction-lennar-host-high-schoolers-hands-career-day",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue researcher examines how mobile apps collect and share personal information",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-researcher-examines-how-mobile-apps-collect-and-share-personal-information",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue researcher uses data visualization to better understand cancer cell development",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-researcher-uses-data-visualization-better-understand-cancer-cell-development",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "game_development"
+    },
+    {
+      "title": "Purdue faculty innovates in AI, quantum computing and software security",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-faculty-innovates-ai-quantum-computing-and-software-security",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "general"
+    },
+    {
+      "title": "Purdue Polytechnic student pioneers three-phase international engineering program with Saab and KTH",
+      "url": "https://polytechnic.purdue.edu/newsroom/purdue-polytechnic-student-pioneers-three-phase-international-engineering-program-saab-and",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "",
+      "source": "Purdue Polytechnic Institute",
+      "category": "education"
+    }
+  ]
+}

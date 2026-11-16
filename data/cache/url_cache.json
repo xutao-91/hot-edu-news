@@ -34660,5 +34660,41 @@
     "fetch_time": "2026-11-14T19:00:07.552142",
     "title": "Foreign Policy in the American Heartland: Issues for the 120th Congress",
     "category": "semiconductor"
+  },
+  "https://news.nd.edu/news/notre-dame-student-charles-sander-named-rhodes-scholar/": {
+    "source": "nd_news",
+    "fetch_time": "2026-11-15T19:00:09.785647",
+    "title": "Notre Dame student Charles Sander named Rhodes Scholar",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/nayana-christudas-beena-bridges-synthesis-and-applications-in-modern-materials-chemistry/": {
+    "source": "nd_science",
+    "fetch_time": "2026-11-15T19:00:09.799970",
+    "title": "Nayana Christudas Beena bridges synthesis and applications in modern materials chemistry",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/index%2Ephp/events/decoding-energy-markets-conversation-amrita-sen": {
+    "source": "csis",
+    "fetch_time": "2026-11-15T19:00:11.280314",
+    "title": "Decoding Energy Markets: A Conversation with Amrita Sen",
+    "category": "general"
+  },
+  "https://news.uchicago.edu/story/uchicago-student-michelle-du-named-2027-rhodes-scholar": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-15T19:00:11.840702",
+    "title": "UChicago student Michelle Du named 2027 Rhodes Scholar",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-15T19:00:12.765871",
+    "title": "ICYMI: Secretary Duffy’s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/icymi-after-nationwide-ground-stop-trump-administration-prioritizes-safety-calls-for-full-modernization-funding/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-15T19:00:12.765871",
+    "title": "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding",
+    "category": "semiconductor"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-15T19:00:11.765635",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "UChicago student Michelle Du named 2027 Rhodes Scholar",
+      "url": "https://news.uchicago.edu/story/uchicago-student-michelle-du-named-2027-rhodes-scholar",
+      "date": "2026-11-15",
+      "type": "News",
+      "summary_en": "College fourth-year to focus on crossroads of society and technological related issues at Oxford",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "UChicago study measures impact of pandemic stress on gun violence spike",
+      "url": "https://news.uchicago.edu/story/uchicago-study-measures-impact-pandemic-stress-gun-violence-spike",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "Behavioral economist Jens Ludwig tests economic and criminal justice explanations, finds ‘expressive’ interpersonal violence driving the surge",
+      "source": "UChicago News",
+      "category": "research"
+    },
+    {
+      "title": "UChicago students travel globe to understand climate challenge firsthand",
+      "url": "https://news.uchicago.edu/story/uchicago-students-travel-globe-understand-climate-challenge-firsthand",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "From Texas oil fields to solar plants in India, course provides perspectives with those shaping policies",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "UChicago scientists reveal how viruses edit DNA cleanly—and how we might do the same",
+      "url": "https://news.uchicago.edu/story/uchicago-scientists-reveal-how-viruses-edit-dna-cleanly-and-how-we-might-do-same",
+      "date": "2026-11-12",
+      "type": "News",
+      "summary_en": "Near-atomic imaging technique lets researchers watch a single enzyme handle genetic insertion and removal without a trace",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

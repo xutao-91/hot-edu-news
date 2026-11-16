@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-15T19:00:10.544220",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "5 bizarre reasons international students have been refused visas",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-11-13",
+      "type": "Immigration",
+      "summary_en": "With visa refusals surging across major study destinations, The PIE has gathered together the most bonkers reasons government agents have given for rejecting applications.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Access for whom?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-13",
+      "type": "Voices",
+      "summary_en": "As students across Africa battle with visa refusals, it's no longer enough to simply talk about widening access to higher education. Action must be taken to help students take up the opportunities they have earned, writes Bimpe Femi-Oyewo",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Bimpe Femi-Oyewo"
+    },
+    {
+      "title": "IDP weighs up $573.3m private equity takeover bid",
+      "url": "https://thepienews.com/category/news/partnerships/",
+      "date": "2026-11-12",
+      "type": "Partnerships",
+      "summary_en": "IDP Education is considering a renewed proposal from Blackstone, after the private equity giant submitted a sweetened bid worth $573.3 million.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "UK student visa applications down 31% as Russell Group warns of volatility",
+      "url": "https://thepienews.com/category/news/agencies/",
+      "date": "2026-11-12",
+      "type": "Recruitment & agents",
+      "summary_en": "UK student visa applications fell by 31% in October compared with the same month last year, prompting fresh warnings over continued volatility in the international student market.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "AI can improve test fairness, but human judgement remains vital",
+      "url": "https://thepienews.com/category/news/testing/",
+      "date": "2026-11-12",
+      "type": "Testing",
+      "summary_en": "Speakers at the Pearson HE Admissions Summit said universities should ask why a test uses AI, expect openness about how it works, and keep humans accountable for decisions.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Kim Martin"
+    },
+    {
+      "title": "Migration is essential to education and the Australian way of life",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-12",
+      "type": "Voices",
+      "summary_en": "Australia risks losing more than talent and economic opportunity as migration restrictions threaten multiculturalism, argues Jessica Gallagher, deputy vice chancellor international and external engagement at Adelaide University.",
+      "source": "The PIE News",
+      "category": "us",
+      "author": "Jessica Gallagher"
+    }
+  ]
+}
