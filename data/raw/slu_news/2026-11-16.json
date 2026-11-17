@@ -1,0 +1,35 @@
+{
+  "source": "Saint Louis University News",
+  "source_url": "https://www.slu.edu/news/archive.php",
+  "crawled_at": "2026-11-16T19:00:09.350821",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Saint Louis University Launches Direct Admission for 1818 Advanced College Credit Students",
+      "url": "https://www.slu.edu/news/2026/november/1818-direct-admission.php",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "SLU is launching a new direct admission program that allows eligible 1818 students to be admitted to the University without completing a separate application, submitting an essay or test scores, or providing a Secondary School Report.",
+      "source": "SLU News",
+      "category": "students"
+    },
+    {
+      "title": "SLU Research Finds Pandemic-Era Drop in Social Participation Associated With Cognitive Decline in Older Adults",
+      "url": "https://www.slu.edu/news/2026/november/social-isolation-and-cognition-research.php",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "In new research findings, SLU researchers found that older adults who stopped participating in community activities during the pandemic showed poorer cognitive functioning in 2022 than those who remained engaged.",
+      "source": "SLU News",
+      "category": "research"
+    },
+    {
+      "title": "SLU Employees Recognized for Decades of Service",
+      "url": "https://www.slu.edu/news/2026/november/presidential-service-awards.php",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "Saint Louis University celebrated its long-time employees at the Presidential Service Awards breakfast ceremony on Tuesday, Nov. 10, in the Wool Ballrooms at the Busch Student Center. At the ceremony, SLU saluted employees who have been with the University for 10, 15, 20, 25, 30, 35, 40, 45, 50 and 55 years.",
+      "source": "SLU News",
+      "category": "general"
+    }
+  ]
+}

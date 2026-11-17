@@ -1,0 +1,112 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-11-16T19:00:05.192607",
+  "total_news": 13,
+  "news": [
+    {
+      "title": "Beyond the Pause: What's Next for CMMC",
+      "url": "https://www.csis.org/events/beyond-pause-whats-next-cmmc",
+      "date": "2026-11-16",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Strategic Implications of the Russia-North Korea Axis",
+      "url": "https://www.csis.org/events/strategic-implications-russia-north-korea-axis",
+      "date": "2026-11-16",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+      "url": "https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security",
+      "date": "2026-11-16",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Decoding Energy Markets: A Conversation with Amrita Sen",
+      "url": "https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen",
+      "date": "2026-11-16",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Data Is Physical; Its Security Must Be, Too",
+      "url": "https://www.csis.org/analysis/data-physical-its-security-must-be-too",
+      "date": "2026-11-16",
+      "summary_en": "Data centers are the invisible backbone of the internet. As they continue to expand, policymakers need to consider protecting the physical infrastructure that houses the functioning of daily life.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What AI Agent Attacks Mean for India’s Cyberspace",
+      "url": "https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace",
+      "date": "2026-11-16",
+      "summary_en": "India has disclosed its first cyber incident carried out by an AI agent rather than a human. How New Delhi and Washington respond is an early test of whether they can manage frontier AI risk together.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?",
+      "url": "https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate",
+      "date": "2026-11-16",
+      "summary_en": "Democratic gains in Congress and several states will reshape U.S. energy politics but are unlikely to reverse federal climate rollbacks. Instead, affordability, data center costs, and state utility regulators are poised to define the next two years of clean energy policy.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Peace Disease: Is the PLA Battle Ready?",
+      "url": "https://www.csis.org/analysis/peace-disease-pla-battle-ready",
+      "date": "2026-11-16",
+      "summary_en": "China poses a formidable military challenge to the United States. But as this analysis shows, the People's Liberation Army likely has significant weaknesses in wartime, such as mission command, power projection, the undersea domain, joint warfighting, and corruption.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Nvidia Controversy Should Put Corporations on High Alert About Threats to U.S. National Security",
+      "url": "https://www.csis.org/analysis/nvidia-controversy-should-put-corporations-high-alert-about-threats-us-national-security",
+      "date": "2026-11-16",
+      "summary_en": "Jensen Huang's resignation shows that for companies at the center of U.S.-China competition, protecting executives and planning for their sudden departure are now national security issues.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What a New Biosecurity Policy Can Teach Us About Overseeing Frontier AI",
+      "url": "https://www.csis.org/analysis/what-new-biosecurity-policy-can-teach-us-about-overseeing-frontier-ai",
+      "date": "2026-11-16",
+      "summary_en": "The White House’s new nucleic acid screening policy replaces self-attestation with two layers of verification. Melissa Hopkins argues Congress should apply that model to frontier AI oversight rather than repeat two decades of trial and error.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Are the United States and Its Allies Learning Quickly Enough from the War in Ukraine?",
+      "url": "https://www.csis.org/analysis/are-united-states-and-its-allies-learning-quickly-enough-war-ukraine",
+      "date": "2026-11-13",
+      "summary_en": "Drawing on more than 30 trips to Ukraine and his experience commanding SAG-U and NSATU, LTG (Ret.) Curtis Buzzard argues that the United States and its allies are not learning from the war fast enough—and the side that adapts faster will hold the edge in future conflicts.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Largest Crypto Heist in History Could Have Been Avoided",
+      "url": "https://www.csis.org/analysis/largest-crypto-heist-history-could-have-been-avoided",
+      "date": "2026-11-13",
+      "summary_en": "North Korea pulled off the largest heist in history, stealing $6 billion from crypto exchange Binance. What will it take for policymakers to wake up to these threats?",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The 2027 Congress and the Dangerous Data Breach Pileup",
+      "url": "https://www.csis.org/analysis/2027-congress-and-dangerous-data-breach-pileup",
+      "date": "2026-11-13",
+      "summary_en": "The next Congress has an opportunity for bipartisan oversight, legislation, and support to public servants by ensuring mitigations of the multiple, serious data breaches that have recently impacted the executive branch.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

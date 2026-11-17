@@ -1,0 +1,17 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-16T19:00:09.060380",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Infinite Potential—Insights on Economic and Societal Impacts Across Two Scenarios: After-Action Report from a Series of Day After Artificial General Intelligence Games",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4767-4.html",
+      "date": "Nov 16, 2026",
+      "type": "Research",
+      "summary_en": "The authors analyze observations from Infinite Potential games that model advanced artificial intelligence causing profound economic disruption, and summarize the issues, capabilities, and recommendations needed to navigate that disruption.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

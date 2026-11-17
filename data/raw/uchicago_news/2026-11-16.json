@@ -1,0 +1,62 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-16T19:00:09.290524",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Flu, RSV, and Measles’ Comeback: What to Know This Sick Season",
+      "url": "https://news.uchicago.edu/flu-rsv-and-measles-comeback-what-know-sick-season",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Chicago Magazine’s 2026 Chicagoans of the Year",
+      "url": "https://www.chicagotribune.com/2026/11/16/chicago-magazines-2026-chicagoans-of-the-year/",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New center at Crown Family School will focus on reducing climate-driven health disparities",
+      "url": "https://news.uchicago.edu/story/new-center-crown-family-school-will-focus-reducing-climate-driven-health-disparities",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "Event marks the relaunch of the Center for Climate, Health, and Society",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "UChicago student Michelle Du named 2027 Rhodes Scholar",
+      "url": "https://news.uchicago.edu/story/uchicago-student-michelle-du-named-2027-rhodes-scholar",
+      "date": "2026-11-15",
+      "type": "News",
+      "summary_en": "College fourth-year to focus on crossroads of society and technological related issues at Oxford",
+      "source": "UChicago News",
+      "category": "education"
+    },
+    {
+      "title": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
+      "url": "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "UChicago study measures impact of pandemic stress on gun violence spike",
+      "url": "https://news.uchicago.edu/story/uchicago-study-measures-impact-pandemic-stress-gun-violence-spike",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "Behavioral economist Jens Ludwig tests economic and criminal justice explanations, finds ‘expressive’ interpersonal violence driving the surge",
+      "source": "UChicago News",
+      "category": "research"
+    }
+  ]
+}

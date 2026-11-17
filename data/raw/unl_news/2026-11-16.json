@@ -1,0 +1,53 @@
+{
+  "source": "University of Nebraska-Lincoln News",
+  "source_url": "https://news.unl.edu/headlines",
+  "crawled_at": "2026-11-16T19:00:10.122601",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Father-daughter alumni build community through family business",
+      "url": "https://news.unl.edu/article/father-daughter-alumni-build-community-through-family-business",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "195 Huskers rank among world's most influential scientists",
+      "url": "https://news.unl.edu/article/195-huskers-rank-among-worlds-most-influential-scientists",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    },
+    {
+      "title": "Adkins awarded prestigious fellowship for veteran advocacy",
+      "url": "https://news.unl.edu/article/adkins-awarded-prestigious-fellowship-for-veteran-advocacy",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Achievements | Honors, appointments and publications for Nov. 13",
+      "url": "https://news.unl.edu/article/achievements-honors-appointments-and-publications-for-nov-13",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "general"
+    },
+    {
+      "title": "Huskers gain hands-on experience in Nebraska Sandhills",
+      "url": "https://news.unl.edu/article/huskers-gain-hands-on-experience-in-nebraska-sandhills-0",
+      "date": "2026-11-13",
+      "type": "News",
+      "summary_en": "",
+      "source": "UNL News",
+      "category": "alumni"
+    }
+  ]
+}

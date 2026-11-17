@@ -1,0 +1,26 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-16T19:00:10.240464",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Three WashU scholars were Rhodes finalists",
+      "url": "https://source.washu.edu/2026/11/three-washu-scholars-were-rhodes-finalists/",
+      "date": "2026-11-16",
+      "type": "Students",
+      "summary_en": "WashU senior Romen Der Manuelian and two recent alumni, Mason Shaver and Vincent Tsay, were finalists for the prestigious Rhodes Scholarship.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Progress toward a blood test for CTE",
+      "url": "https://source.washu.edu/2026/11/progress-toward-a-blood-test-for-cte/",
+      "date": "2026-11-13",
+      "type": "Neuroscience & Memory",
+      "summary_en": "A new study by WashU Medicine researchers advances the goal of diagnosing and treating chronic traumatic encephalopathy, a degenerative brain disease linked to repeated blows to the head.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

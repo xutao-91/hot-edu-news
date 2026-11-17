@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-11-16T19:00:05.948935",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Indiana University expands national security research partnerships through Applied Research Center",
+      "url": "https://news.iu.edu/live/news/54545-indiana-university-expands-national-security",
+      "date": "Nov 16, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    },
+    {
+      "title": "7 research-backed tips for putting gratitude into action",
+      "url": "https://news.iu.edu/live/news/54529-7-research-backed-tips-for-putting-gratitude-into",
+      "date": "Nov 13, 2026",
+      "type": "Health and Wellness",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

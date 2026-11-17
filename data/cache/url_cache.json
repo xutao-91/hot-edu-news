@@ -34696,5 +34696,275 @@
     "fetch_time": "2026-11-15T19:00:12.765871",
     "title": "ICYMI: After Nationwide Ground Stop, Trump Administration Prioritizes Safety, Calls for Full Modernization Funding",
     "category": "semiconductor"
+  },
+  "https://www.augie.edu/news/2026/augustana-school-music-bear-names-longtime-supporters-alumni": {
+    "source": "augie_news",
+    "fetch_time": "2026-11-16T19:00:05.110824",
+    "title": "Augustana School of Music to Bear Names of Longtime Supporters, Alumni",
+    "category": "education"
+  },
+  "https://stories.butler.edu/building-a-team-to-support-student-success-tyler-gregerson-%ca%bc31/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-11-16T19:00:05.147050",
+    "title": "Building a Team to Support Student Success: Tyler Gregerson ʼ31",
+    "category": "education"
+  },
+  "https://www.csis.org/events/beyond-pause-whats-next-cmmc": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "Beyond the Pause: What's Next for CMMC",
+    "category": "general"
+  },
+  "https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "Dynamics in U.S.-Japan Semiconductor Partnership For National Security",
+    "category": "semiconductor"
+  },
+  "https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "Decoding Energy Markets: A Conversation with Amrita Sen",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/data-physical-its-security-must-be-too": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "Data Is Physical; Its Security Must Be, Too",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "What AI Agent Attacks Mean for India’s Cyberspace",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/peace-disease-pla-battle-ready": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "Peace Disease: Is the PLA Battle Ready?",
+    "category": "ai"
+  },
+  "https://www.csis.org/analysis/nvidia-controversy-should-put-corporations-high-alert-about-threats-us-national-security": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "The Nvidia Controversy Should Put Corporations on High Alert About Threats to U.S. National Security",
+    "category": "general"
+  },
+  "https://www.csis.org/analysis/what-new-biosecurity-policy-can-teach-us-about-overseeing-frontier-ai": {
+    "source": "csis",
+    "fetch_time": "2026-11-16T19:00:05.271459",
+    "title": "What a New Biosecurity Policy Can Teach Us About Overseeing Frontier AI",
+    "category": "ai"
+  },
+  "https://www.iit.edu/news/rooted-community-750000-scholarship-expand-educational-access-and-economic-opportunity": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-16T19:00:05.846845",
+    "title": "Rooted in Community: $750,000 Scholarship to Expand Educational Access and Economic Opportunity",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/bridging-gap-between-potential-and-possibility": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-16T19:00:05.846845",
+    "title": "Bridging the Gap Between Potential and Possibility",
+    "category": "general"
+  },
+  "https://www.iit.edu/news/architecture-student-earns-lincoln-academy-student-laureate-award": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-16T19:00:05.846845",
+    "title": "Architecture Student Earns Lincoln Academy Student Laureate Award",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/54545-indiana-university-expands-national-security": {
+    "source": "iu_news",
+    "fetch_time": "2026-11-16T19:00:06.011500",
+    "title": "Indiana University expands national security research partnerships through Applied Research Center",
+    "category": "education"
+  },
+  "https://www.kettering.edu/kettering-university-ranks-among-nations-50-best-colleges-return-investment": {
+    "source": "kettering_news",
+    "fetch_time": "2026-11-16T19:00:06.182886",
+    "title": "Kettering University Ranks Among Nation’s 50 Best Colleges for Return on Investment",
+    "category": "education"
+  },
+  "https://heartland.org/opinion/united-states-moves-toward-becoming-a-socialist-dystopia/": {
+    "source": "heartland_education",
+    "fetch_time": "2026-11-16T19:00:06.602408",
+    "title": "United States Moves Toward Becoming a Socialist Dystopia",
+    "category": "ai"
+  },
+  "https://science.nd.edu/news-and-media/news/notre-dame-student-charles-sander-named-rhodes-scholar/": {
+    "source": "nd_science",
+    "fetch_time": "2026-11-16T19:00:07.623839",
+    "title": "Notre Dame student Charles Sander named Rhodes Scholar",
+    "category": "education"
+  },
+  "https://www.mtu.edu/news/2026/11/less-data-faster-discovery-researchers-rethink-ais-role-in-developing-new-materials.html": {
+    "source": "mtu_news",
+    "fetch_time": "2026-11-16T19:00:08.058083",
+    "title": "Less Data, Faster Discovery: Researchers Rethink AI’s Role in Developing New Materials",
+    "category": "education"
+  },
+  "https://oneill.indiana.edu/news/2026-1116-li-yang-hydroclimate.html": {
+    "source": "oneill",
+    "fetch_time": "2026-11-16T19:00:08.230317",
+    "title": "Study finds hydroclimate whiplash a growing problem in U.S.",
+    "category": "education"
+  },
+  "https://www.nea.org/about-nea/media-center/press-releases/nea-celebrates-american-education-week-honoring-educators-and-education-support-professionals-who": {
+    "source": "nea_news",
+    "fetch_time": "2026-11-16T19:00:08.868994",
+    "title": "NEA celebrates American Education Week, honoring the educators and education support professionals who make public schools strong",
+    "category": "education"
+  },
+  "https://www.rand.org/pubs/research_reports/RRA4767-4.html": {
+    "source": "rand",
+    "fetch_time": "2026-11-16T19:00:09.136434",
+    "title": "Infinite Potential—Insights on Economic and Societal Impacts Across Two Scenarios: After-Action Report from a Series of Day After Artificial General Intelligence Games",
+    "category": "ai"
+  },
+  "https://news.ku.edu/news/article/ku-celebrates-international-education-week-following-record-year-for-study-abroad": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-16T19:00:09.302667",
+    "title": "KU celebrates International Education Week following record year for study abroad",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/representative-from-embassy-of-the-republic-of-poland-to-the-us-to-visit-ku": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-16T19:00:09.302667",
+    "title": "Representative from Embassy of the Republic of Poland to the US to visit KU",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-alumnus-and-ceramicist-josh-goering-will-give-public-talk-at-the-commons": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-16T19:00:09.302667",
+    "title": "KU alumnus and ceramicist Josh Goering will give public talk at The Commons",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/new-ethical-approach-to-environmental-issues-would-avoid-problem-shifting-law-scholar-says": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-16T19:00:09.302667",
+    "title": "New ethical approach to environmental issues would avoid 'problem shifting,' law scholar says",
+    "category": "education"
+  },
+  "https://news.uchicago.edu/flu-rsv-and-measles-comeback-what-know-sick-season": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-16T19:00:09.363527",
+    "title": "Flu, RSV, and Measles’ Comeback: What to Know This Sick Season",
+    "category": "semiconductor"
+  },
+  "https://www.chicagotribune.com/2026/11/16/chicago-magazines-2026-chicagoans-of-the-year/": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-16T19:00:09.363527",
+    "title": "Chicago Magazine’s 2026 Chicagoans of the Year",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/new-center-crown-family-school-will-focus-reducing-climate-driven-health-disparities": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-16T19:00:09.363527",
+    "title": "New center at Crown Family School will focus on reducing climate-driven health disparities",
+    "category": "education"
+  },
+  "https://www.wsj.com/world/americas/the-unstoppable-prison-gangs-transforming-ecuador-into-a-narco-state-cf3295c9": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-16T19:00:09.363527",
+    "title": "The Unstoppable Prison Gangs Transforming Ecuador Into a Narco State",
+    "category": "general"
+  },
+  "https://www.slu.edu/news/2026/november/1818-direct-admission.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-11-16T19:00:09.443365",
+    "title": "Saint Louis University Launches Direct Admission for 1818 Advanced College Credit Students",
+    "category": "education"
+  },
+  "https://www.slu.edu/news/2026/november/social-isolation-and-cognition-research.php": {
+    "source": "slu_news",
+    "fetch_time": "2026-11-16T19:00:09.443365",
+    "title": "SLU Research Finds Pandemic-Era Drop in Social Participation Associated With Cognitive Decline in Older Adults",
+    "category": "ai"
+  },
+  "https://today.uic.edu/going-behind-the-scenes-of-acupuncture/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-16T19:00:09.454281",
+    "title": "UIC research: Treating cancer pain with acupuncture",
+    "category": "ai"
+  },
+  "https://insideuni.uni.edu/business/30-career-change-leads-new-possibilities-uni": {
+    "source": "uni_news",
+    "fetch_time": "2026-11-16T19:00:09.887341",
+    "title": "At 30, a career change leads to new possibilities at UNI",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/195-huskers-rank-among-worlds-most-influential-scientists": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-16T19:00:10.171003",
+    "title": "195 Huskers rank among world's most influential scientists",
+    "category": "general"
+  },
+  "https://news.wisc.edu/uw-madison-selected-to-direct-national-transportation-leadership-development-program/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-16T19:00:10.280696",
+    "title": "UW–Madison selected to direct national transportation leadership development program",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/three-washu-scholars-were-rhodes-finalists/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-16T19:00:10.298832",
+    "title": "Three WashU scholars were Rhodes finalists",
+    "category": "general"
+  },
+  "https://source.washu.edu/2026/11/progress-toward-a-blood-test-for-cte/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-16T19:00:10.298832",
+    "title": "Progress toward a blood test for CTE",
+    "category": "ai"
+  },
+  "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-a864/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-16T19:00:10.435768",
+    "title": "Nominations Sent to the Senate",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-16T19:00:10.435768",
+    "title": "President Trump’s Immigration Policies Are Saving American Lives",
+    "category": "semiconductor"
+  },
+  "https://www.whitehouse.gov/releases/2026/11/icymi-trump-border-crackdown-drives-encounters-to-record-october-low-as-zero-release-streak-hits-18-months/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-16T19:00:10.435768",
+    "title": "ICYMI: “Trump border crackdown drives encounters to record October low as zero-release streak hits 18 months”",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-in-living-color-october-photos-of-the-month/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-16T19:00:10.442173",
+    "title": "Mizzou in living color: October photos of the month",
+    "category": "general"
+  },
+  "https://showme.missouri.edu/2026/mizzou-veterinary-students-give-shelter-animals-a-fresh-start/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-16T19:00:10.442173",
+    "title": "Mizzou veterinary students give shelter animals a fresh start",
+    "category": "education"
+  },
+  "https://showme.missouri.edu/2026/mizzou-student-artists-create-lasting-tribute-to-memorial-student-union/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-16T19:00:10.442173",
+    "title": "Mizzou student artists create lasting tribute to Memorial Student Union",
+    "category": "education"
+  },
+  "https://www.ecampusnews.com/teaching-learning/2026/11/16/what-detective-fiction-can-teach-us-about-becoming-better-researchers/": {
+    "source": "ecampus_news",
+    "fetch_time": "2026-11-16T19:00:14.703619",
+    "title": "What detective fiction can teach us about becoming better researchers",
+    "category": "education"
   }
 }

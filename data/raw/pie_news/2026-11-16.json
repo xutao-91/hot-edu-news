@@ -1,0 +1,68 @@
+{
+  "source": "The PIE News",
+  "source_url": "https://thepienews.com/category/news/",
+  "crawled_at": "2026-11-16T19:00:08.119931",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "IDP rejects sweetened bid from private equity giant Blackstone",
+      "url": "https://thepienews.com/category/news/acquisitions-news/",
+      "date": "2026-11-16",
+      "type": "Investor",
+      "summary_en": "IDP Education has turned down another offer from Blackstone, arguing that the bid does not adequately reflect the company's value and would only serve as a \"distraction\" for its board.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Tighter compliance not tactic to manage international student numbers, says UK Home Office",
+      "url": "https://thepienews.com/category/news/government/",
+      "date": "2026-11-16",
+      "type": "Policy",
+      "summary_en": "There is no blanket policy to manage the number of international students coming to the UK through visa refusals or tighter compliance policies, the Home Office has insisted.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "US: Total number of international students drops for first time in five years",
+      "url": "https://thepienews.com/category/news/",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "While the United States remains the top destination for international students globally, new student enrolments have continued to fall in 2025/26, with a record 18% decline shown by newly released data.",
+      "source": "The PIE News",
+      "category": "international",
+      "author": "Jenna O'Flynn"
+    },
+    {
+      "title": "Brazil’s K-12 sector calls for closer collaboration",
+      "url": "https://thepienews.com/category/news/k12/",
+      "date": "2026-11-16",
+      "type": "K-12",
+      "summary_en": "International education professionals at the inaugural PIE High Brazil called for stronger collaboration among schools, education agents, independent advisers and government-linked organisations – with students’ interests at the centre of the study-abroad journey.",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "5 bizarre reasons international students have been refused visas",
+      "url": "https://thepienews.com/category/news/immigration/",
+      "date": "2026-11-13",
+      "type": "Immigration",
+      "summary_en": "With visa refusals surging across major study destinations, The PIE has gathered together the most bonkers reasons government agents have given for rejecting applications.",
+      "source": "The PIE News",
+      "category": "immigration",
+      "author": "Beth Kennedy"
+    },
+    {
+      "title": "Access for whom?",
+      "url": "https://thepienews.com/category/voices/",
+      "date": "2026-11-13",
+      "type": "Voices",
+      "summary_en": "As students across Africa battle with visa refusals, it's no longer enough to simply talk about widening access to higher education. Action must be taken to help students take up the opportunities they have earned, writes Bimpe Femi-Oyewo",
+      "source": "The PIE News",
+      "category": "general",
+      "author": "Bimpe Femi-Oyewo"
+    }
+  ]
+}

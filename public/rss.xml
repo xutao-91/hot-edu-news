@@ -5,9 +5,29 @@
     <link>https://xutao-91.github.io/hot-edu-news/</link>
     <description>每日更新的美国教育新闻中文编译，体制内公文风格，客观准确</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 16 Nov 2026 01:00:17 -0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:00:17 -0000</lastBuildDate>
     <atom:link href="https://xutao-91.github.io/hot-edu-news/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+        <title>Augustana School of Music to Bear Names of Longtime Supporters, Alumni</title>
+        <link>https://www.augie.edu/news/2026/augustana-school-music-bear-names-longtime-supporters-alumni</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.augie.edu/news/2026/augustana-school-music-bear-names-longtime-supporters-alumni</guid>
+        <category>综合</category>
+        <source>Augustana News</source>
+    </item>
+    
+    <item>
+        <title>Building a Team to Support Student Success: Tyler Gregerson ʼ31</title>
+        <link>https://stories.butler.edu/building-a-team-to-support-student-success-tyler-gregerson-%ca%bc31/</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://stories.butler.edu/building-a-team-to-support-student-success-tyler-gregerson-%ca%bc31/</guid>
+        <category>community</category>
+        <source>Butler Stories</source>
+    </item>
     
     <item>
         <title>The Strategic Implications of the Russia-North Korea Axis</title>
@@ -70,143 +90,123 @@
     </item>
     
     <item>
-        <title>The universal language of learning</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/costa-rica-study-abroad-education.html</link>
+        <title>Beyond the Pause: What's Next for CMMC</title>
+        <link>https://www.csis.org/events/beyond-pause-whats-next-cmmc</link>
         <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/costa-rica-study-abroad-education.html</guid>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/events/beyond-pause-whats-next-cmmc</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>Dynamics in U.S.-Japan Semiconductor Partnership For National Security</title>
+        <link>https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/events/dynamics-us-japan-semiconductor-partnership-national-security</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>Decoding Energy Markets: A Conversation with Amrita Sen</title>
+        <link>https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/events/decoding-energy-markets-conversation-amrita-sen</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>Data Is Physical; Its Security Must Be, Too</title>
+        <link>https://www.csis.org/analysis/data-physical-its-security-must-be-too</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/data-physical-its-security-must-be-too</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>What AI Agent Attacks Mean for India’s Cyberspace</title>
+        <link>https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?</title>
+        <link>https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>Peace Disease: Is the PLA Battle Ready?</title>
+        <link>https://www.csis.org/analysis/peace-disease-pla-battle-ready</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/peace-disease-pla-battle-ready</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>The Nvidia Controversy Should Put Corporations on High Alert About Threats to U.S. National Security</title>
+        <link>https://www.csis.org/analysis/nvidia-controversy-should-put-corporations-high-alert-about-threats-us-national-security</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/nvidia-controversy-should-put-corporations-high-alert-about-threats-us-national-security</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>What a New Biosecurity Policy Can Teach Us About Overseeing Frontier AI</title>
+        <link>https://www.csis.org/analysis/what-new-biosecurity-policy-can-teach-us-about-overseeing-frontier-ai</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.csis.org/analysis/what-new-biosecurity-policy-can-teach-us-about-overseeing-frontier-ai</guid>
+        <category>外交政策</category>
+        <source>CSIS Analysis</source>
+    </item>
+    
+    <item>
+        <title>What detective fiction can teach us about becoming better researchers</title>
+        <link>https://www.ecampusnews.com/teaching-learning/2026/11/16/what-detective-fiction-can-teach-us-about-becoming-better-researchers/</link>
+        <description></description>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.ecampusnews.com/teaching-learning/2026/11/16/what-detective-fiction-can-teach-us-about-becoming-better-researchers/</guid>
         <category>综合</category>
-        <source>K-State News</source>
+        <source>eCampus News</source>
     </item>
     
     <item>
-        <title>An update on Budget Transformation and one of the key efforts it supports: Compensation Study implementation</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/budget-transformation-update-compensation-study-implementation-plan.html</link>
+        <title>United States Moves Toward Becoming a Socialist Dystopia</title>
+        <link>https://heartland.org/opinion/united-states-moves-toward-becoming-a-socialist-dystopia/</link>
         <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/budget-transformation-update-compensation-study-implementation-plan.html</guid>
-        <category>research</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Morse Scholarship recipient gains experience in agricultural policy, advocacy</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/morse-family-scholarship-strengthens-professional-skills-for-erin-driscoll.html</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/morse-family-scholarship-strengthens-professional-skills-for-erin-driscoll.html</guid>
-        <category>students</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Wildcat Scholar launches publicly, connecting K-State expertise to the world</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/wildcat-scholar-connects-university-researchers-with-the-world.html</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/wildcat-scholar-connects-university-researchers-with-the-world.html</guid>
-        <category>综合</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>4-Her's rare fossil find highlights Kansas State Fair exhibits</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/prehistoric-fossil-uncovered-through-4h-dig-to-compete-at-kansas-state-fair.html</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/prehistoric-fossil-uncovered-through-4h-dig-to-compete-at-kansas-state-fair.html</guid>
-        <category>综合</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>'Collaborative in nature'</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/root-source-volland-foundation-fellowship-ursula-emery-mcclure.html</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/root-source-volland-foundation-fellowship-ursula-emery-mcclure.html</guid>
-        <category>综合</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Nick Brown named director of graduate recruitment</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/nick-brown-named-director-graduate-recruitment.html</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/nick-brown-named-director-graduate-recruitment.html</guid>
-        <category>综合</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Exceptional students earn early admission to K-State veterinary college</title>
-        <link>https://www.k-state.edu/news/articles/2026/09/veterinary-medicine-early-admission-scholars.html</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.k-state.edu/news/articles/2026/09/veterinary-medicine-early-admission-scholars.html</guid>
-        <category>students</category>
-        <source>K-State News</source>
-    </item>
-    
-    <item>
-        <title>Notre Dame student Charles Sander named Rhodes Scholar</title>
-        <link>https://news.nd.edu/news/notre-dame-student-charles-sander-named-rhodes-scholar/</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.nd.edu/news/notre-dame-student-charles-sander-named-rhodes-scholar/</guid>
-        <category>综合</category>
-        <source>Notre Dame News</source>
-    </item>
-    
-    <item>
-        <title>Nayana Christudas Beena bridges synthesis and applications in modern materials chemistry</title>
-        <link>https://science.nd.edu/news-and-media/news/nayana-christudas-beena-bridges-synthesis-and-applications-in-modern-materials-chemistry/</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://science.nd.edu/news-and-media/news/nayana-christudas-beena-bridges-synthesis-and-applications-in-modern-materials-chemistry/</guid>
-        <category>综合</category>
-        <source>Notre Dame College of Science</source>
-    </item>
-    
-    <item>
-        <title>UChicago student Michelle Du named 2027 Rhodes Scholar</title>
-        <link>https://news.uchicago.edu/story/uchicago-student-michelle-du-named-2027-rhodes-scholar</link>
-        <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://news.uchicago.edu/story/uchicago-student-michelle-du-named-2027-rhodes-scholar</guid>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://heartland.org/opinion/united-states-moves-toward-becoming-a-socialist-dystopia/</guid>
         <category>教育政策</category>
-        <source>UChicago News</source>
+        <source>Heartland Education</source>
     </item>
     
     <item>
-        <title>ICYMI: Secretary Duffy’s Full Sunday Circuit Outlines Ground Stop Response and the Path Forward</title>
-        <link>https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/</link>
+        <title>Rooted in Community: $750,000 Scholarship to Expand Educational Access and Economic Opportunity</title>
+        <link>https://www.iit.edu/news/rooted-community-750000-scholarship-expand-educational-access-and-economic-opportunity</link>
         <description></description>
-        <pubDate>Sun, 15 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.whitehouse.gov/releases/2026/11/icymi-secretary-duffys-full-sunday-circuit-outlines-ground-stop-response-and-the-path-forward/</guid>
-        <category>Releases</category>
-        <source>The White House</source>
-    </item>
-    
-    <item>
-        <title>Calling All Presidents: Attend Exclusive Events at ACEx2027</title>
-        <link>https://www.acenet.edu/News-Room/Pages/Presidents-Exclusive-Events-ACEx2027.aspx</link>
-        <description></description>
-        <pubDate>Fri, 13 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.acenet.edu/News-Room/Pages/Presidents-Exclusive-Events-ACEx2027.aspx</guid>
+        <pubDate>Mon, 16 Nov 2026 06:00:00 -0000</pubDate>
+        <guid isPermaLink="true">https://www.iit.edu/news/rooted-community-750000-scholarship-expand-educational-access-and-economic-opportunity</guid>
         <category>综合</category>
-        <source>ACE</source>
-    </item>
-    
-    <item>
-        <title>Higher Education Groups Oppose Trump Administration Proposed Rule to Remove “Deference” Policy</title>
-        <link>https://www.acenet.edu/News-Room/Pages/ACE-Groups-Oppose-Proposed-Deference-Rule.aspx</link>
-        <description></description>
-        <pubDate>Fri, 13 Nov 2026 06:00:00 -0000</pubDate>
-        <guid isPermaLink="true">https://www.acenet.edu/News-Room/Pages/ACE-Groups-Oppose-Proposed-Deference-Rule.aspx</guid>
-        <category>联邦政策</category>
-        <source>ACE</source>
+        <source>IIT News</source>
     </item>
     
 </channel>
