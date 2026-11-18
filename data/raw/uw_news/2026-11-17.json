@@ -1,0 +1,26 @@
+{
+  "source": "UW-Madison News",
+  "source_url": "https://news.wisc.edu/latest-news/",
+  "crawled_at": "2026-11-17T19:00:12.392980",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Two Badgers were Rhodes Scholarship finalists",
+      "url": "https://news.wisc.edu/two-badgers-were-rhodes-scholarship-finalists/",
+      "date": "November 17, 2026",
+      "type": "News",
+      "summary_en": "Amitabha Shatdal and Andrew Dirkse reached the final stage of competition for a 2027 Rhodes Scholarship, one of the most prestigious and selective academic honors in the world.",
+      "source": "UW-Madison News",
+      "category": "general"
+    },
+    {
+      "title": "UW–Madison selected to direct national transportation leadership development program",
+      "url": "https://news.wisc.edu/uw-madison-selected-to-direct-national-transportation-leadership-development-program/",
+      "date": "November 16, 2026",
+      "type": "News",
+      "summary_en": "Working with AASHTO, the university will develop and deliver training for transportation leaders nationwide beginning in 2027.",
+      "source": "UW-Madison News",
+      "category": "general"
+    }
+  ]
+}

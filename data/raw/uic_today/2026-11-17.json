@@ -1,0 +1,26 @@
+{
+  "source": "UIC Today",
+  "source_url": "https://today.uic.edu/uicnews/section/uic-news/",
+  "crawled_at": "2026-11-17T19:00:11.731711",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "New scholarship from retired professor will support interns at Field Museum",
+      "url": "https://today.uic.edu/retired-anthropology-professor-establishes-undergrad-field-museum-internship-scholarship/",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "The funding will provide an internship stipend to a student intern starting this spring.",
+      "source": "UIC Today",
+      "category": "academic"
+    },
+    {
+      "title": "UIC research: Treating cancer pain with acupuncture",
+      "url": "https://today.uic.edu/going-behind-the-scenes-of-acupuncture/",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "A new UIC study examines how breast cancer survivors respond to the therapy.",
+      "source": "UIC Today",
+      "category": "research"
+    }
+  ]
+}

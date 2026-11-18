@@ -1,0 +1,17 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-11-17T19:00:12.628813",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Wayne State students build public health careers, serve Detroit",
+      "url": "https://today.wayne.edu/news/2026/11/17/wayne-state-students-build-public-health-careers-serve-detroit-70573",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    }
+  ]
+}

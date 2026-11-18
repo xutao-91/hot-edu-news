@@ -1,0 +1,96 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-11-17T19:00:06.792189",
+  "total_news": 11,
+  "news": [
+    {
+      "title": "PONI 2026 Fall Conference",
+      "url": "https://www.csis.org/index%2Ephp/events/poni-2026-fall-conference",
+      "date": "2026-11-17",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Impossible State Live Podcast: The New Yalta? Trump-Xi-Putin Summit",
+      "url": "https://www.csis.org/index%2Ephp/events/impossible-state-live-podcast-new-yalta-trump-xi-putin-summit",
+      "date": "2026-11-17",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "A Conversation on the U.S. Role in Global Port Infrastructure",
+      "url": "https://www.csis.org/index%2Ephp/events/conversation-us-role-global-port-infrastructure",
+      "date": "2026-11-17",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+      "url": "https://www.csis.org/index%2Ephp/events/digital-resilience-post-mythos-world-conversation-greg-rattray",
+      "date": "2026-11-18",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Dealing with Canada",
+      "url": "https://www.csis.org/index%2ephp/analysis/dealing-canada",
+      "date": "2026-11-17",
+      "summary_en": "In this week’s column, Bill Reinsch discusses how the new Congress might address tariffs on Canada.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Peace Disease: Is the PLA Battle Ready?",
+      "url": "https://www.csis.org/analysis/peace-disease-pla-battle-ready",
+      "date": "2026-11-16",
+      "summary_en": "China poses a formidable military challenge to the United States. But as this analysis shows, the People's Liberation Army likely has significant weaknesses in wartime, such as mission command, power projection, the undersea domain, joint warfighting, and corruption.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Data Is Physical; Its Security Must Be, Too",
+      "url": "https://www.csis.org/index%2ephp/analysis/data-physical-its-security-must-be-too",
+      "date": "2026-11-16",
+      "summary_en": "Data centers are the invisible backbone of the internet. As they continue to expand, policymakers need to consider protecting the physical infrastructure that houses the functioning of daily life.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What AI Agent Attacks Mean for India’s Cyberspace",
+      "url": "https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace",
+      "date": "2026-11-16",
+      "summary_en": "India has disclosed its first cyber incident carried out by an AI agent rather than a human. How New Delhi and Washington respond is an early test of whether they can manage frontier AI risk together.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?",
+      "url": "https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate",
+      "date": "2026-11-16",
+      "summary_en": "Democratic gains in Congress and several states will reshape U.S. energy politics but are unlikely to reverse federal climate rollbacks. Instead, affordability, data center costs, and state utility regulators are poised to define the next two years of clean energy policy.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "The Nvidia Controversy Should Put Corporations on High Alert About Threats to U.S. National Security",
+      "url": "https://www.csis.org/index%2Ephp/analysis/nvidia-controversy-should-put-corporations-high-alert-about-threats-us-national-security",
+      "date": "2026-11-16",
+      "summary_en": "Jensen Huang's resignation shows that for companies at the center of U.S.-China competition, protecting executives and planning for their sudden departure are now national security issues.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What a New Biosecurity Policy Can Teach Us About Overseeing Frontier AI",
+      "url": "https://www.csis.org/analysis/what-new-biosecurity-policy-can-teach-us-about-overseeing-frontier-ai",
+      "date": "2026-11-16",
+      "summary_en": "The White House’s new nucleic acid screening policy replaces self-attestation with two layers of verification. Melissa Hopkins argues Congress should apply that model to frontier AI oversight rather than repeat two decades of trial and error.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}

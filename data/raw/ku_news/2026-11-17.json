@@ -1,0 +1,89 @@
+{
+  "source": "University of Kansas News",
+  "source_url": "https://news.ku.edu/news",
+  "crawled_at": "2026-11-17T19:00:10.624338",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "KU establishes research partnership with Kansas-based AI and cybersecurity company",
+      "url": "https://news.ku.edu/news/article/ku-establishes-research-partnership-with-kansas-based-ai-and-cybersecurity-company",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "The University of Kansas has established a research partnership with SOFTwarfare, a Kansas-based AI operations and cybersecurity technology company, to explore opportunities in cybersecurity, trusted computing and artificial intelligence.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU students present plans to promote local news in Media Innovation Challenge",
+      "url": "https://news.ku.edu/news/article/ku-students-present-plans-to-promote-local-news-in-media-innovation-challenge",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "Three teams of undergraduate students presented ideas Nov. 12 to increase revenue at rural newspapers during the journalism school’s inaugural Media Innovation Challenge. Each pitch was presented in front of a panel of five industry and faculty judges for a “Shark Tank”-style competition, with the audience serving as a collective sixth judge.",
+      "source": "KU News",
+      "category": "students"
+    },
+    {
+      "title": "15 Jayhawks named to 2027 Global Scholars cohort",
+      "url": "https://news.ku.edu/news/article/15-jayhawks-named-to-2027-global-scholars-cohort",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "The University of Kansas 2027 Global Scholars will pursue internationally focused research with faculty mentors, with opportunities to study and conduct research abroad before presenting their work as seniors.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "Babies rarely see exaggerated facial expressions used in emotion research, study shows",
+      "url": "https://news.ku.edu/news/article/babies-rarely-see-exaggerated-facial-expressions-used-in-emotion-research-study-shows-ARTICLE-HP889X",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "A new paper in Communications Psychology calls into question the value of exaggerated facial expressions commonly used in research to study babies’ emotional understanding. The study, led by University of Kansas researchers, shows that babies ages 6-17 months rarely encounter these expressions in everyday life — and rarely see full faces at all.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "New protocol finds ways to relieve overcrowding at hospital emergency departments, study finds",
+      "url": "https://news.ku.edu/news/article/new-protocol-finds-ways-to-relieve-overcrowding-at-hospital-emergency-departments-study-finds",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "In a new article, Suman Mallik, B. Allen and Dorothy V. Lay Professor at the University of Kansas School of Business, examines the efficiency of the full-capacity protocol (FCP), a set of temporary hospital-wide guidelines designed to alleviate crowding at the emergency department.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "KU celebrates International Education Week following record year for study abroad",
+      "url": "https://news.ku.edu/news/article/ku-celebrates-international-education-week-following-record-year-for-study-abroad",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "A record 1,437 KU students participated in study abroad programs during the 2025-26 academic year, reflecting growing interest in international learning opportunities. As KU prepares to celebrate International Education Week, the university is highlighting how global experiences help students build skills, confidence and connections across cultures.",
+      "source": "KU News",
+      "category": "research"
+    },
+    {
+      "title": "Representative from Embassy of the Republic of Poland to the US to visit KU",
+      "url": "https://news.ku.edu/news/article/representative-from-embassy-of-the-republic-of-poland-to-the-us-to-visit-ku",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "Bogdan Klich, the Head of Mission, Embassy of the Republic of Poland to the United States, will visit the Robert J. Dole Institute of Politics at the University of Kansas on Nov. 19 as part of the institute’s ongoing series featuring ambassadors and diplomats from around the world.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "KU alumnus and ceramicist Josh Goering will give public talk at The Commons",
+      "url": "https://news.ku.edu/news/article/ku-alumnus-and-ceramicist-josh-goering-will-give-public-talk-at-the-commons",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "Ceramicist and wild clay forager Josh Goering will give an artist talk Nov. 16 at The Commons in Spooner Hall. In addition to offering an introduction to his work, the University of Kansas alumnus will discuss his experiential learning work with ceramics students at the KU Field Station.",
+      "source": "KU News",
+      "category": "general"
+    },
+    {
+      "title": "New ethical approach to environmental issues would avoid 'problem shifting,' law scholar says",
+      "url": "https://news.ku.edu/news/article/new-ethical-approach-to-environmental-issues-would-avoid-problem-shifting-law-scholar-says",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "Robin Kundis Craig, a water and environmental law expert at the University of Kansas, has co-written a study calling for “strange loop ethics,” a new approach to environmental legal issues. The practice would help identify new solutions and avoid passing problems on to others when governments try to address environmental questions.",
+      "source": "KU News",
+      "category": "general"
+    }
+  ]
+}

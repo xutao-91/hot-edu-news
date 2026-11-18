@@ -1,0 +1,26 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-11-17T19:00:09.911956",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "O'Neill School ready to shine at ARNOVA Conference",
+      "url": "https://oneill.indiana.edu/news/2026-1117-arnova-2026.html",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "O’Neill School faculty and doctoral students will share research at the 2026 ARNOVA Conference, advancing nonprofit, philanthropy, and civil society scholarship.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "Study finds hydroclimate whiplash a growing problem in U.S.",
+      "url": "https://oneill.indiana.edu/news/2026-1116-li-yang-hydroclimate.html",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "New O’Neill School research finds rapid shifts from drought to extreme rainfall are intensifying across the U.S., highlighting growing risks to communities and ecosystems.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-17T19:00:12.529156",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Proposed SNAP cuts would mean more hungry children",
+      "url": "https://source.washu.edu/2026/11/washu-expert-proposed-snap-cuts-would-mean-more-hungry-children/",
+      "date": "2026-11-17",
+      "type": "Social Work",
+      "summary_en": "The Trump administration last week announced a proposed policy shift for the Supplemental Nutrition Assistance Program that could strip benefits from millions. The change would devastate families already struggling due to updated eligibility rules, said Stephen Roll, at the WashU Brown School.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "PAD presents ‘Top Girls’ Nov. 19-22",
+      "url": "https://source.washu.edu/2026/11/pad-presents-top-girls-nov-19-22/",
+      "date": "2026-11-17",
+      "type": "Performing Arts",
+      "summary_en": "Five exceptional women from history, folklore, literature and art gather for dinner. In “Top Girls,” British playwright Caryl Churchill explores gender, social expectation and definitions of success. WashU’s Performing Arts Department will present the celebrated drama Nov. 19-22.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Three WashU scholars were Rhodes finalists",
+      "url": "https://source.washu.edu/2026/11/three-washu-scholars-were-rhodes-finalists/",
+      "date": "2026-11-16",
+      "type": "Students",
+      "summary_en": "WashU senior Romen Der Manuelian and two recent alumni, Mason Shaver and Vincent Tsay, were finalists for the prestigious Rhodes Scholarship.",
+      "source": "WashU Source",
+      "category": "general"
+    }
+  ]
+}

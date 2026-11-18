@@ -34966,5 +34966,347 @@
     "fetch_time": "2026-11-16T19:00:14.703619",
     "title": "What detective fiction can teach us about becoming better researchers",
     "category": "education"
+  },
+  "https://www.bizjournals.com/chicago/news/2026/11/16/chicago-quantum-exchange-aaron-fluitt-funding.html": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-17T19:00:06.421041",
+    "title": "Chicago Business Journal: Blueprint for the future: Chicago Quantum Exchange's new CEO outlines the next phase for quantum tech",
+    "category": "quantum"
+  },
+  "https://www.anl.gov/article/argonnes-advanced-photon-source-illuminates-the-quantum-world-within-materials": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-17T19:00:06.421041",
+    "title": "Argonne’s Advanced Photon Source illuminates the quantum world within materials",
+    "category": "quantum"
+  },
+  "https://www.chicagobusiness.com/real-estate/commercial/ccb-uiuc-quantum-startup-mansueto-20261113/": {
+    "source": "chicago_quantum",
+    "fetch_time": "2026-11-17T19:00:06.421041",
+    "title": "Crain's Chicago Business: A U of I quantum startup that didn’t get away",
+    "category": "quantum"
+  },
+  "https://www.csis.org/index%2Ephp/events/poni-2026-fall-conference": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "PONI 2026 Fall Conference",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2Ephp/events/impossible-state-live-podcast-new-yalta-trump-xi-putin-summit": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "The Impossible State Live Podcast: The New Yalta? Trump-Xi-Putin Summit",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2Ephp/events/conversation-us-role-global-port-infrastructure": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "A Conversation on the U.S. Role in Global Port Infrastructure",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2Ephp/events/digital-resilience-post-mythos-world-conversation-greg-rattray": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/dealing-canada": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "Dealing with Canada",
+    "category": "general"
+  },
+  "https://www.csis.org/index%2ephp/analysis/data-physical-its-security-must-be-too": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "Data Is Physical; Its Security Must Be, Too",
+    "category": "ai"
+  },
+  "https://www.csis.org/index%2Ephp/analysis/nvidia-controversy-should-put-corporations-high-alert-about-threats-us-national-security": {
+    "source": "csis",
+    "fetch_time": "2026-11-17T19:00:06.860932",
+    "title": "The Nvidia Controversy Should Put Corporations on High Alert About Threats to U.S. National Security",
+    "category": "general"
+  },
+  "https://www.iit.edu/news/architecture-students-win-second-prize-national-competition": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-17T19:00:07.388140",
+    "title": "Architecture Students Win Second Prize in National Competition",
+    "category": "education"
+  },
+  "https://www.iit.edu/news/designing-and-building-brazils-atlantic-forest-region": {
+    "source": "iit_news",
+    "fetch_time": "2026-11-17T19:00:07.388140",
+    "title": "Designing and Building in Brazil’s Atlantic Forest Region",
+    "category": "education"
+  },
+  "https://news.iu.edu/live/news/54559-ius-richard-dimarchi-receives-major-international": {
+    "source": "iu_news",
+    "fetch_time": "2026-11-17T19:00:07.562040",
+    "title": "IU’s Richard DiMarchi receives major international award for pioneering obesity, diabetes treatments",
+    "category": "semiconductor"
+  },
+  "https://education.indiana.edu/news/2026/jul-dec/2026-11-17-dean-berry-joins-epac.html": {
+    "source": "iu_education",
+    "fetch_time": "2026-11-17T19:00:07.660270",
+    "title": "Dean Robert Berry joins national council shaping how teachers are prepared for the age of AI",
+    "category": "education"
+  },
+  "https://stories.butler.edu/meet-april-kirts-26-the-handler-behind-butler-blue-v/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-11-17T19:00:08.105892",
+    "title": "Meet April Kirts ’26, the Handler Behind Butler Blue V",
+    "category": "education"
+  },
+  "https://stories.butler.edu/butler-university-mba-program-launches-innovative-executive-coaching-partnership-with-luther-company/": {
+    "source": "butler_stories",
+    "fetch_time": "2026-11-17T19:00:08.105892",
+    "title": "Butler University MBA Program Launches Innovative Executive Coaching Partnership with Luther & Company",
+    "category": "education"
+  },
+  "https://science.nd.edu/news-and-media/news/ghimire-to-lead-multi-institutional-u-s-army-research-grant-to-investigate-new-types-of-magnets/": {
+    "source": "nd_science",
+    "fetch_time": "2026-11-17T19:00:09.488641",
+    "title": "Ghimire to lead multi-institutional U.S. Army research grant to investigate new types of magnets",
+    "category": "general"
+  },
+  "https://oneill.indiana.edu/news/2026-1117-arnova-2026.html": {
+    "source": "oneill",
+    "fetch_time": "2026-11-17T19:00:09.952611",
+    "title": "O'Neill School ready to shine at ARNOVA Conference",
+    "category": "education"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/17/younger-and-lgbtq-adults-in-the-us-stand-out-for-finding-friendship-online/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-17T19:00:10.021276",
+    "title": "Younger and LGBTQ Adults in the U.S. Stand Out for Finding Friendship Online",
+    "category": "semiconductor"
+  },
+  "https://www.pewresearch.org/short-reads/2026/11/17/at-least-10-states-require-in-person-businesses-to-accept-cash/": {
+    "source": "pewresearch",
+    "fetch_time": "2026-11-17T19:00:10.021276",
+    "title": "At Least 10 States Require In-Person Businesses to Accept Cash",
+    "category": "semiconductor"
+  },
+  "https://news.northwestern.edu/stories/2026/11/office-of-civil-rights-shares-updates-to-title-ix-process": {
+    "source": "northwestern_news",
+    "fetch_time": "2026-11-17T19:00:10.246978",
+    "title": "Office of Civil Rights shares updates to Northwestern’s Title IX process",
+    "category": "semiconductor"
+  },
+  "https://news.ku.edu/news/article/ku-establishes-research-partnership-with-kansas-based-ai-and-cybersecurity-company": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-17T19:00:10.675536",
+    "title": "KU establishes research partnership with Kansas-based AI and cybersecurity company",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/ku-students-present-plans-to-promote-local-news-in-media-innovation-challenge": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-17T19:00:10.675536",
+    "title": "KU students present plans to promote local news in Media Innovation Challenge",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/15-jayhawks-named-to-2027-global-scholars-cohort": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-17T19:00:10.675536",
+    "title": "15 Jayhawks named to 2027 Global Scholars cohort",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/babies-rarely-see-exaggerated-facial-expressions-used-in-emotion-research-study-shows-ARTICLE-HP889X": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-17T19:00:10.675536",
+    "title": "Babies rarely see exaggerated facial expressions used in emotion research, study shows",
+    "category": "education"
+  },
+  "https://news.ku.edu/news/article/new-protocol-finds-ways-to-relieve-overcrowding-at-hospital-emergency-departments-study-finds": {
+    "source": "ku_news",
+    "fetch_time": "2026-11-17T19:00:10.675536",
+    "title": "New protocol finds ways to relieve overcrowding at hospital emergency departments, study finds",
+    "category": "education"
+  },
+  "https://polytechnic.purdue.edu/newsroom/bowen-school-faculty-externship-gaylor-electric-shapes-new-electrical-construction-course": {
+    "source": "purdue_polytechnic",
+    "fetch_time": "2026-11-17T19:00:10.975083",
+    "title": "Bowen School faculty externship with Gaylor Electric shapes new electrical construction course",
+    "category": "education"
+  },
+  "https://www.msoe.edu/about-msoe/news/details/dr-chris-taylor-honored-with-abet-fellow-award": {
+    "source": "msoe",
+    "fetch_time": "2026-11-17T19:00:11.124636",
+    "title": "Dr. Chris Taylor honored with ABET Fellow Award",
+    "category": "general"
+  },
+  "https://www.rand.org/pubs/research_briefs/RBA4707-1.html": {
+    "source": "rand",
+    "fetch_time": "2026-11-17T19:00:11.313368",
+    "title": "Supply Chain Vulnerabilities May Worsen Critical Electrical Equipment Bottlenecks, Further Delaying the U.S. Ability to Power AI Energy Expansion",
+    "category": "ai"
+  },
+  "https://quincyinst.org/research/old-assumptions-new-realities-rethinking-us-korea-policies/": {
+    "source": "quincy",
+    "fetch_time": "2026-11-17T19:00:11.495410",
+    "title": "Old Assumptions, New Realities: Rethinking US-Korea Policies",
+    "category": "semiconductor"
+  },
+  "https://quincyinst.org/research/next-year-in-tehran-predictions-of-the-islamic-republics-collapse-and-us-foreign-policy/": {
+    "source": "quincy",
+    "fetch_time": "2026-11-17T19:00:11.495410",
+    "title": "Next Year in Tehran: Predictions of the Islamic Republic’s Collapse and US Foreign Policy",
+    "category": "semiconductor"
+  },
+  "https://news.uchicago.edu/story/base-ocean-food-chain-scientists-uncover-impacts-changing-atmosphere": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-17T19:00:11.516721",
+    "title": "At base of ocean food chain, scientists uncover impacts of a changing atmosphere",
+    "category": "ai"
+  },
+  "https://news.uchicago.edu/story/richard-posner-influential-scholar-and-judge-who-pioneered-field-law-and-economics-1939-2026": {
+    "source": "uchicago_news",
+    "fetch_time": "2026-11-17T19:00:11.516721",
+    "title": "Richard A. Posner, influential scholar and judge who pioneered field of law and economics, 1939-2026",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/mizzou-researchers-put-ais-understanding-of-people-to-the-test/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-17T19:00:11.549690",
+    "title": "Mizzou researchers put AI's understanding of people to the test",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/meet-mupd-deputy-chief-april-colbrecht/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-17T19:00:11.549690",
+    "title": "Meet MUPD Deputy Chief April Colbrecht",
+    "category": "semiconductor"
+  },
+  "https://showme.missouri.edu/2026/the-gift-of-gratitude-why-being-thankful-matters-beyond-thanksgiving/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-17T19:00:11.549690",
+    "title": "The gift of gratitude: Why being thankful matters beyond Thanksgiving",
+    "category": "ai"
+  },
+  "https://showme.missouri.edu/2026/kbia-wins-national-edward-r-murrow-award-for-investigative-reporting/": {
+    "source": "showme_mizzou",
+    "fetch_time": "2026-11-17T19:00:11.549690",
+    "title": "KBIA wins National Edward R. Murrow Award for investigative reporting",
+    "category": "general"
+  },
+  "/news/2026/11/long-term-utilities-project-t-anne-cleary-walkway-begin-fall": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-17T19:00:11.800715",
+    "title": "Long-term utilities project on T. Anne Cleary Walkway to begin this fall",
+    "category": "education"
+  },
+  "/news/2026/11/iowa-connected-voyager-1-reaches-historic-milestone-space": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-17T19:00:11.800715",
+    "title": "Iowa-connected Voyager 1 reaches historic milestone in space",
+    "category": "education"
+  },
+  "/news/2026/11/photo-gallery-dance-gala-2026-brings-stories-life": {
+    "source": "uiowa_now",
+    "fetch_time": "2026-11-17T19:00:11.800715",
+    "title": "Photo gallery: Dance Gala 2026 brings stories to life",
+    "category": "education"
+  },
+  "https://today.uic.edu/retired-anthropology-professor-establishes-undergrad-field-museum-internship-scholarship/": {
+    "source": "uic_today",
+    "fetch_time": "2026-11-17T19:00:11.813990",
+    "title": "New scholarship from retired professor will support interns at Field Museum",
+    "category": "education"
+  },
+  "https://cse.umn.edu/college/news/university-minnesota-researchers-receive-funding-through-great-lakes-renew-advance": {
+    "source": "umn_cse",
+    "fetch_time": "2026-11-17T19:00:11.936666",
+    "title": "University of Minnesota researchers receive funding through Great Lakes ReNEW to advance pressing water challenges",
+    "category": "education"
+  },
+  "https://insideuni.uni.edu/campus-community/no-major-no-problem-these-students-found-their-way-uni": {
+    "source": "uni_news",
+    "fetch_time": "2026-11-17T19:00:12.078324",
+    "title": "No major? No problem. These students found their way at UNI",
+    "category": "education"
+  },
+  "https://news.wisc.edu/two-badgers-were-rhodes-scholarship-finalists/": {
+    "source": "uw_news",
+    "fetch_time": "2026-11-17T19:00:12.427906",
+    "title": "Two Badgers were Rhodes Scholarship finalists",
+    "category": "semiconductor"
+  },
+  "https://source.washu.edu/2026/11/washu-expert-proposed-snap-cuts-would-mean-more-hungry-children/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-17T19:00:12.566250",
+    "title": "Proposed SNAP cuts would mean more hungry children",
+    "category": "education"
+  },
+  "https://source.washu.edu/2026/11/pad-presents-top-girls-nov-19-22/": {
+    "source": "washu_source",
+    "fetch_time": "2026-11-17T19:00:12.566250",
+    "title": "PAD presents ‘Top Girls’ Nov. 19-22",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/11/presidential-message-on-american-education-week-ddcb/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-17T19:00:12.639814",
+    "title": "Presidential Message on American Education Week",
+    "category": "education"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/11/quad-leaders-summit-joint-press-release/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-17T19:00:12.639814",
+    "title": "Quad Leaders’ Summit Joint Press Release",
+    "category": "general"
+  },
+  "https://www.whitehouse.gov/briefings-statements/2026/11/joint-statement-on-an-agreement-between-the-united-states-of-america-and-the-kingdom-of-thailand-on-reciprocal-trade/": {
+    "source": "whitehouse",
+    "fetch_time": "2026-11-17T19:00:12.639814",
+    "title": "Joint Statement on an Agreement Between the United States of America and the Kingdom of Thailand on Reciprocal Trade",
+    "category": "ai"
+  },
+  "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1012-purdue-1-mission-patch-designs-2027-spaceflight": {
+    "source": "purdue_engineering",
+    "fetch_time": "2026-11-17T19:00:12.669971",
+    "title": "Purdue 1 patch designs tell the stories of the university's 2027 mission to space",
+    "category": "education"
+  },
+  "https://today.wayne.edu/news/2026/11/17/wayne-state-students-build-public-health-careers-serve-detroit-70573": {
+    "source": "wayne_news",
+    "fetch_time": "2026-11-17T19:00:12.670972",
+    "title": "Wayne State students build public health careers, serve Detroit",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/nebraska-ranks-no-37-among-worlds-top-undergraduate-entrepreneurship-programs": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-17T19:00:14.782250",
+    "title": "Nebraska ranks No. 37 among world's top undergraduate entrepreneurship programs",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/lawrence-works-to-expand-resources-for-caregivers": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-17T19:00:14.782250",
+    "title": "Lawrence works to expand resources for caregivers",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/christmas-catalog-features-gift-ideas-from-engler-entrepreneurs": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-17T19:00:14.782250",
+    "title": "Christmas catalog features gift ideas from Engler entrepreneurs",
+    "category": "general"
+  },
+  "https://news.unl.edu/article/university-libraries-receive-189000-grant-to-support-community-archives": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-17T19:00:14.782250",
+    "title": "University Libraries receive $189,000 grant to support community archives",
+    "category": "education"
+  },
+  "https://news.unl.edu/article/honors-cooper-conversation-explores-military-medicine-and-veteran-healthcare": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-17T19:00:14.782250",
+    "title": "Honors Cooper Conversation explores military medicine and veteran healthcare",
+    "category": "semiconductor"
+  },
+  "https://news.unl.edu/article/universitys-new-stormwater-basins-help-protect-local-waterways": {
+    "source": "unl_news",
+    "fetch_time": "2026-11-17T19:00:14.782250",
+    "title": "University's new stormwater basins help protect local waterways",
+    "category": "education"
   }
 }

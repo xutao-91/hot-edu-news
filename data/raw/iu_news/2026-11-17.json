@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University News",
+  "source_url": "https://news.iu.edu/news/",
+  "crawled_at": "2026-11-17T19:00:07.517313",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "IU’s Richard DiMarchi receives major international award for pioneering obesity, diabetes treatments",
+      "url": "https://news.iu.edu/live/news/54559-ius-richard-dimarchi-receives-major-international",
+      "date": "Nov 17, 2026",
+      "type": "Business and Innovation",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "award"
+    },
+    {
+      "title": "Indiana University expands national security research partnerships through Applied Research Center",
+      "url": "https://news.iu.edu/live/news/54545-indiana-university-expands-national-security",
+      "date": "Nov 16, 2026",
+      "type": "Science and Technology",
+      "summary_en": "",
+      "source": "Indiana University",
+      "category": "science"
+    }
+  ]
+}

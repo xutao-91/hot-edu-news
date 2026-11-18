@@ -1,0 +1,26 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-17T19:00:12.010929",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "No major? No problem. These students found their way at UNI",
+      "url": "https://insideuni.uni.edu/campus-community/no-major-no-problem-these-students-found-their-way-uni",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "It's totally OK to not have your major figured out when you first get to college. In fact, it's pretty common. Check out these students' experiences in UNI's Exploratory Program.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "At 30, a career change leads to new possibilities at UNI",
+      "url": "https://insideuni.uni.edu/business/30-career-change-leads-new-possibilities-uni",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "At 30, Austin Anderson traded engineering for accounting, finding the support, connections and opportunities at UNI to launch a new chapter in his career.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

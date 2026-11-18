@@ -1,0 +1,53 @@
+{
+  "source": "Illinois Institute of Technology News",
+  "source_url": "https://www.iit.edu/news",
+  "crawled_at": "2026-11-17T19:00:07.353809",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Architecture Students Win Second Prize in National Competition",
+      "url": "https://www.iit.edu/news/architecture-students-win-second-prize-national-competition",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "Two Illinois Institute of Technology School of Architecture students are being recognized nationally for a proposal that asks a deceptively simple question: What if Chicago could add much-needed...",
+      "source": "IIT News",
+      "category": "students"
+    },
+    {
+      "title": "Designing and Building in Brazil’s Atlantic Forest Region",
+      "url": "https://www.iit.edu/news/designing-and-building-brazils-atlantic-forest-region",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "A dozen Illinois Institute of Technology School of Architecture students traveled to a rural Brazilian village to put their designs to a real-world test. The students, part of Associate Professor...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Rooted in Community: $750,000 Scholarship to Expand Educational Access and Economic Opportunity",
+      "url": "https://www.iit.edu/news/rooted-community-750000-scholarship-expand-educational-access-and-economic-opportunity",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "When Richard Nathan speaks about the newly established Nathan Family Endowed Scholarship, his words carry more than generosity. They carry the memory and love of his late father, Walter Nathan (ME ’44...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Bridging the Gap Between Potential and Possibility",
+      "url": "https://www.iit.edu/news/bridging-gap-between-potential-and-possibility",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "For the five children of the late William “Bill” Bartholomay, former owner of the Atlanta Braves, Illinois Tech trustee, and lifelong champion of opportunity, philanthropy is about more than helping...",
+      "source": "IIT News",
+      "category": "general"
+    },
+    {
+      "title": "Architecture Student Earns Lincoln Academy Student Laureate Award",
+      "url": "https://www.iit.edu/news/architecture-student-earns-lincoln-academy-student-laureate-award",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "Jilliana Pilutti (B. ARCH. M.Eng. STE 5th Year) has been named Illinois Institute of Technology’s winner of the 2026 Student Laureate of the Lincoln Academy of Illinois. The annual award recognizes...",
+      "source": "IIT News",
+      "category": "students"
+    }
+  ]
+}
