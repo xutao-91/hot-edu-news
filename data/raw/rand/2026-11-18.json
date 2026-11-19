@@ -1,0 +1,53 @@
+{
+  "source": "Rand Corporation",
+  "source_url": "https://www.rand.org/pubs.html?realized_taxonomy_ss=Teachers+and+Teaching&realized_taxonomy_ss=Students&realized_taxonomy_ss=Emerging+Technologies&realized_taxonomy_ss=Artificial+Intelligence&rows=12",
+  "crawled_at": "2026-11-18T19:00:15.749088",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Will Teens Just Stay Up Later If School Starts Later? California Says No.",
+      "url": "https://www.rand.org/pubs/commentary/2026/11/will-teens-just-stay-up-later-if-school-starts-later.html",
+      "date": "Nov 18, 2026",
+      "type": "Commentary",
+      "summary_en": "Every time a school district considers a later start time, the same objection surfaces: teens will just stay up later. It's an understandable worry. But now we have national data that suggest otherwise.",
+      "source": "Rand Corporation",
+      "category": "commentary"
+    },
+    {
+      "title": "Care Forward Colorado and Career Advance Colorado: Financial Aid Programs to Support Workforce Credentialing in High-Demand Fields",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4747-1.html",
+      "date": "Nov 18, 2026",
+      "type": "Research",
+      "summary_en": "The authors evaluate the implementation and impacts of two Colorado financial aid programs: Care Forward and Career Advance. These programs provided financial support to individuals pursuing certificates and associates degrees in high-demand fields.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "If AI Takes the Jobs, Who Will Pay the Taxes?",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4392-3.html",
+      "date": "Nov 18, 2026",
+      "type": "Research Summary",
+      "summary_en": "This research brief describes the fiscal implications for federal revenue in scenarios in which artificial intelligence and automation technologies replace human labor and summarizes policy options to stabilize the tax base.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Supply Chain Vulnerabilities May Worsen Critical Electrical Equipment Bottlenecks, Further Delaying the U.S. Ability to Power AI Energy Expansion",
+      "url": "https://www.rand.org/pubs/research_briefs/RBA4707-1.html",
+      "date": "Nov 17, 2026",
+      "type": "Research Summary",
+      "summary_en": "Researchers examined how supply chain vulnerabilities could affect the equipment needed to power frontier artificial intelligence (AI) data centers and, in turn, the U.S. power system’s ability to meet AI demand by 2030.",
+      "source": "Rand Corporation",
+      "category": "ai_technology"
+    },
+    {
+      "title": "Infinite Potential—Insights on Economic and Societal Impacts Across Two Scenarios: After-Action Report from a Series of Day After Artificial General Intelligence Games",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4767-4.html",
+      "date": "Nov 16, 2026",
+      "type": "Research",
+      "summary_en": "The authors analyze observations from Infinite Potential games that model advanced artificial intelligence causing profound economic disruption, and summarize the issues, capabilities, and recommendations needed to navigate that disruption.",
+      "source": "Rand Corporation",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "source": "Pew Research Center",
+  "source_url": "https://www.pewresearch.org/publications/",
+  "crawled_at": "2026-11-18T19:00:14.612478",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Two-Thirds of Americans Disapprove of Trump’s Handling of the Russia-Ukraine War",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/18/two-thirds-of-americans-disapprove-of-trumps-handling-of-the-russia-ukraine-war/",
+      "date": "Nov 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Donald Trump",
+        "War International Conflict 1",
+        "War International Conflict 2",
+        "World Leaders"
+      ],
+      "summary_en": "Around four-in-ten Americans say Trump is favoring Russia too much in the conflict, while a much smaller share (7%) say he is favoring Ukraine too much.",
+      "source": "Pew Research Center",
+      "category": "technology"
+    },
+    {
+      "title": "Q&A: How Pew Research Center Projects Religious Groups’ Future Growth or Decline",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/18/qa-how-pew-research-center-projects-religious-groups-future-growth-or-decline/",
+      "date": "Nov 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Global Religious Demographics",
+        "Pew Templeton Global Religious Futures Project",
+        "Religious Demographics"
+      ],
+      "summary_en": "Senior Demographer and Associate Director of Research Conrad Hackett explains how the Center makes its projections for seven major religious groups.",
+      "source": "Pew Research Center",
+      "category": "science"
+    },
+    {
+      "title": "Islam Will Soon Be the World’s Largest Religion, but Christianity Will Keep Growing Too",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/18/islam-will-soon-be-the-worlds-largest-religion-but-christianity-will-keep-growing-too/",
+      "date": "Nov 18, 2026",
+      "type": "short reads",
+      "categories": [
+        "Global Religious Demographics",
+        "Pew Templeton Global Religious Futures Project",
+        "Size Demographic Characteristics Of Religious Groups"
+      ],
+      "summary_en": "Muslims will outnumber Christians by 2035, driven by higher fertility, but both groups are projected to keep growing in the decades ahead.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "The Future of World Religions: Population Growth Projections, 2020-2070",
+      "url": "https://www.pewresearch.org/religion/2026/11/18/the-future-of-world-religions-population-growth-projections-2020-2070/",
+      "date": "Nov 18, 2026",
+      "type": "report",
+      "categories": [
+        "Global Religious Demographics",
+        "Pew Templeton Global Religious Futures Project",
+        "Size Demographic Characteristics Of Religious Groups"
+      ],
+      "summary_en": "Our projections detail why Muslims will soon become the world’s largest religious group and Christians will be the second largest.",
+      "source": "Pew Research Center",
+      "category": "demographics"
+    },
+    {
+      "title": "Religious Composition by Country, 2010-2070",
+      "url": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2070/",
+      "date": "Nov 18, 2026",
+      "type": "feature",
+      "categories": [],
+      "summary_en": "Find how many and what percent of people in 201 countries and territories identify with each religious group, and how diverse these places are as of 2010 and 2020.",
+      "source": "Pew Research Center",
+      "category": "international"
+    },
+    {
+      "title": "Younger and LGBTQ Adults in the U.S. Stand Out for Finding Friendship Online",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/17/younger-and-lgbtq-adults-in-the-us-stand-out-for-finding-friendship-online/",
+      "date": "Nov 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Friendships",
+        "Lifestyle Relationships Online",
+        "Social Relations Tech"
+      ],
+      "summary_en": "Roughly a quarter of Americans have friends they met online, and most have met those friends in person.",
+      "source": "Pew Research Center",
+      "category": "general"
+    },
+    {
+      "title": "At Least 10 States Require In-Person Businesses to Accept Cash",
+      "url": "https://www.pewresearch.org/short-reads/2026/11/17/at-least-10-states-require-in-person-businesses-to-accept-cash/",
+      "date": "Nov 17, 2026",
+      "type": "short reads",
+      "categories": [
+        "Personal Finances",
+        "State"
+      ],
+      "summary_en": "At least 10 states and 10 municipalities require in-person businesses to accept cash, with some exceptions.",
+      "source": "Pew Research Center",
+      "category": "general"
+    }
+  ]
+}

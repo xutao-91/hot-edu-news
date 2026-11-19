@@ -1,0 +1,17 @@
+{
+  "source": "Michigan Technological University News",
+  "source_url": "https://www.mtu.edu/news/archives/",
+  "crawled_at": "2026-11-18T19:00:13.162594",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Less Data, Faster Discovery: Researchers Rethink AI’s Role in Developing New Materials",
+      "url": "https://www.mtu.edu/news/2026/11/less-data-faster-discovery-researchers-rethink-ais-role-in-developing-new-materials.html",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "A collaborative team led by Michigan Technological University's Associate Professor Susanta Ghosh has found that artificial intelligence models need less data than previously thought to produce accurate predictions in the development of novel materials.  Developing new materials often starts with  . . .",
+      "source": "MTU News",
+      "category": "research"
+    }
+  ]
+}

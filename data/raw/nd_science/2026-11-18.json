@@ -1,0 +1,44 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-11-18T19:00:13.783138",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Protein targeting uncovers new potential for prostate cancer treatment",
+      "url": "https://science.nd.edu/news-and-media/news/protein-targeting-uncovers-new-potential-for-prostate-cancer-treatment/",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
+    {
+      "title": "Ghimire to lead multi-institutional U.S. Army research grant to investigate new types of magnets",
+      "url": "https://science.nd.edu/news-and-media/news/ghimire-to-lead-multi-institutional-u-s-army-research-grant-to-investigate-new-types-of-magnets/",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    },
+    {
+      "title": "Notre Dame student Charles Sander named Rhodes Scholar",
+      "url": "https://science.nd.edu/news-and-media/news/notre-dame-student-charles-sander-named-rhodes-scholar/",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "student"
+    },
+    {
+      "title": "Nayana Christudas Beena bridges synthesis and applications in modern materials chemistry",
+      "url": "https://science.nd.edu/news-and-media/news/nayana-christudas-beena-bridges-synthesis-and-applications-in-modern-materials-chemistry/",
+      "date": "2026-11-15",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    }
+  ]
+}

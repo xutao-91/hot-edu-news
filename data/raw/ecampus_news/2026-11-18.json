@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-11-18T19:00:10.575480",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Do you have an employee retention problem?",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/11/18/do-you-have-an-employee-retention-problem/",
+      "date": "2026-11-18",
+      "type": "Faculty & Staff",
+      "summary_en": "Fall brings a rhythm of change. From the energy of a new semester to the shift in daylight, many parts of life get reorganized in the fall, providing a natural opportunity to consider the past and make a blueprint for success in the future.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "What detective fiction can teach us about becoming better researchers",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/11/16/what-detective-fiction-can-teach-us-about-becoming-better-researchers/",
+      "date": "2026-11-16",
+      "type": "Classroom Innovation",
+      "summary_en": "Research methodology courses typically introduce students to research design, sampling, validity, reliability, data analysis, and scholarly writing. These are essential competencies, but teaching the mechanics of research does not necessarily teach students how to think like researchers.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

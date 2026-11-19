@@ -1,0 +1,44 @@
+{
+  "source": "University of Iowa Now",
+  "source_url": "https://now.uiowa.edu/tags/featured-headlines",
+  "crawled_at": "2026-11-18T19:00:16.007697",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "Long-term utilities project on T. Anne Cleary Walkway to begin this fall",
+      "url": "/news/2026/11/long-term-utilities-project-t-anne-cleary-walkway-begin-fall",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "The University of Iowa’s utility system operator, ENGIE, will begin a series of projects this fall to support an upcoming utility tunnel reconstruction project that is expected to last more than three years. A section of the Currier Tunnel, an underground utility tunnel that runs underneath T. Anne Cleary Walkway, needs to be replaced due to its age and condition.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Iowa-connected Voyager 1 reaches historic milestone in space",
+      "url": "/news/2026/11/iowa-connected-voyager-1-reaches-historic-milestone-space",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "The Voyager 1 spacecraft, with deep, longstanding ties to the University of Iowa, has reached a historic milestone: traveling so far into space that its signal now takes a full day to reach Earth, even traveling at the speed of light. Nearly 50 years after launch, Iowa scientists remain part of the mission, continuing to explore the mysteries of interstellar space.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "3MT winner sheds light on turning food waste into renewable energy",
+      "url": "/news/2026/11/3mt-winner-sheds-light-turning-food-waste-renewable-energy",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "Zoe Kramin is researching how light-based technology and artificial intelligence could help wastewater treatment plants turn more food waste into renewable energy.",
+      "source": "UIowa Now",
+      "category": "general"
+    },
+    {
+      "title": "Photo gallery: Dance Gala 2026 brings stories to life",
+      "url": "/news/2026/11/photo-gallery-dance-gala-2026-brings-stories-life",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "Hancher Auditorium came alive Nov. 13–14 as University of Iowa students took center stage for the Department of Dance’s 45th annual Dance Gala.",
+      "source": "UIowa Now",
+      "category": "general"
+    }
+  ]
+}

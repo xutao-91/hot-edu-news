@@ -1,0 +1,112 @@
+{
+  "source": "CSIS Analysis",
+  "source_url": "https://www.csis.org/analysis",
+  "crawled_at": "2026-11-18T19:00:10.806632",
+  "total_news": 13,
+  "news": [
+    {
+      "title": "Digital Resilience in a Post-Mythos World: A Conversation with Greg Rattray",
+      "url": "https://www.csis.org/index%2ephp/events/digital-resilience-post-mythos-world-conversation-greg-rattray",
+      "date": "2026-11-18",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Peace Through Strength: A Book Talk with Roger Zakheim",
+      "url": "https://www.csis.org/index%2ephp/events/peace-through-strength-book-talk-roger-zakheim",
+      "date": "2026-11-18",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Global Collaboration to Eliminate Cervical Cancer",
+      "url": "https://www.csis.org/events/global-collaboration-eliminate-cervical-cancer",
+      "date": "2026-11-18",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Kim Crashes Shenzhen: Trump, Xi, and Kim | The Capital Cable #147",
+      "url": "https://www.csis.org/events/kim-crashes-shenzhen-trump-xi-and-kim-capital-cable-147",
+      "date": "2026-11-19",
+      "summary_en": "",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "ASEAN Outcomes and Trump’s Manila Visit",
+      "url": "https://www.csis.org/analysis/asean-outcomes-and-trumps-manila-visit",
+      "date": "2026-11-18",
+      "summary_en": "U.S. President Donald Trump joined dozens of world leaders in Manila on November 17 and 18 during the annual ASEAN Summit and related meetings. What happened at the meetings, and how will they impact U.S.-China competition and U.S.–Southeast Asia relations moving forward?",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "New Export Controls on Remote Access: The Implications for Industry and Competition with China",
+      "url": "https://www.csis.org/analysis/new-export-controls-remote-access-implications-industry-and-competition-china",
+      "date": "2026-11-18",
+      "summary_en": "The Department of Commerce issued a new regulation to restrict China’s remote access to advanced compute. CSIS experts discuss the implications for industry and U.S.-China competition.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Human Rights Initiative Director's Note: November 2026 Edition",
+      "url": "https://www.csis.org/analysis/human-rights-initiative-directors-note-november-2026-edition",
+      "date": "2026-11-18",
+      "summary_en": "The November 2026 edition of the Human Rights Initiative Director's Note where Andrew Friedman shares his reflections on human rights and democracy issues occupying significant space in his mind, highlights key HRI ongoings, and spotlights notable articles and videos he's come across.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "States Weekly: November 18, 2026",
+      "url": "https://www.csis.org/index%2ephp/analysis/states-weekly-november-18-2026",
+      "date": "2026-11-18",
+      "summary_en": "This edition of States Weekly covers November 18, 2026.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Dealing with Canada",
+      "url": "https://www.csis.org/analysis/dealing-canada",
+      "date": "2026-11-17",
+      "summary_en": "In this week’s column, Bill Reinsch discusses how the new Congress might address tariffs on Canada.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Peace Disease: Is the PLA Battle Ready?",
+      "url": "https://www.csis.org/analysis/peace-disease-pla-battle-ready",
+      "date": "2026-11-16",
+      "summary_en": "China poses a formidable military challenge to the United States. But as this analysis shows, the People's Liberation Army likely has significant weaknesses in wartime, such as mission command, power projection, the undersea domain, joint warfighting, and corruption.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "Data Is Physical; Its Security Must Be, Too",
+      "url": "https://www.csis.org/analysis/data-physical-its-security-must-be-too",
+      "date": "2026-11-16",
+      "summary_en": "Data centers are the invisible backbone of the internet. As they continue to expand, policymakers need to consider protecting the physical infrastructure that houses the functioning of daily life.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What AI Agent Attacks Mean for India’s Cyberspace",
+      "url": "https://www.csis.org/analysis/what-ai-agent-attacks-mean-indias-cyberspace",
+      "date": "2026-11-16",
+      "summary_en": "India has disclosed its first cyber incident carried out by an AI agent rather than a human. How New Delhi and Washington respond is an early test of whether they can manage frontier AI risk together.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    },
+    {
+      "title": "What Do the Results of the Midterm Elections Mean for Clean Energy and Climate?",
+      "url": "https://www.csis.org/analysis/what-do-results-midterm-elections-mean-clean-energy-and-climate",
+      "date": "2026-11-16",
+      "summary_en": "Democratic gains in Congress and several states will reshape U.S. energy politics but are unlikely to reverse federal climate rollbacks. Instead, affordability, data center costs, and state utility regulators are poised to define the next two years of clean energy policy.",
+      "source": "CSIS Analysis",
+      "category": "diplomacy"
+    }
+  ]
+}
