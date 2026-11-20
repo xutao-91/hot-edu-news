@@ -1,0 +1,17 @@
+{
+  "source": "Iowa State University News",
+  "source_url": "https://www.news.iastate.edu/news-releases",
+  "crawled_at": "2026-11-19T19:00:09.859334",
+  "total_news": 1,
+  "news": [
+    {
+      "title": "Updates from a wireless living lab connecting rural areas to the digital world",
+      "url": "https://www.news.iastate.edu/news/updates-wireless-living-lab-connecting-rural-areas-digital-world",
+      "date": "2026-11-18",
+      "type": "Innovation and Research",
+      "summary_en": "The $16 million ARA wireless living lab is approaching buildout, has been named an FCC \"Innovation Zone,\" is part of a project to develop wireless technology for precision agriculture and hosted a discussion of 6G wireless technology that's about \"connecting the unconnected.\"",
+      "source": "Iowa State News",
+      "category": "general"
+    }
+  ]
+}

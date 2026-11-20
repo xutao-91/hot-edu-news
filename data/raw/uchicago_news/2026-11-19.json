@@ -1,0 +1,89 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-19T19:00:15.279303",
+  "total_news": 9,
+  "news": [
+    {
+      "title": "Tiny ‘Pac-Man’ capsules use the power of turbulence to vacuum up particles",
+      "url": "https://news.uchicago.edu/story/tiny-pac-man-capsules-use-power-turbulence-vacuum-particles",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "UChicago, NYU team create capsules that could someday allow precision filtering, drug delivery",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Helping preterm babies survive and thrive, with Erika Claud",
+      "url": "https://news.uchicago.edu/big-brains-podcast-helping-preterm-babies-survive-and-thrive-erika-claud",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Walter E. Massey awarded University of Chicago Medal",
+      "url": "https://news.uchicago.edu/story/walter-e-massey-awarded-university-chicago-medal",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "‘Visionary’ leader honored for extraordinary, decades-long contributions to the University",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "David Booth makes the case for embracing uncertainty in investing and life",
+      "url": "https://news.uchicago.edu/story/david-booth-makes-case-embracing-uncertainty-investing-and-life",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "In his new book, UChicago alum looks back on his career and how academic research shaped his thinking",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "At base of ocean food chain, scientists uncover impacts of a changing atmosphere",
+      "url": "https://news.uchicago.edu/story/base-ocean-food-chain-scientists-uncover-impacts-changing-atmosphere",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "New UChicago research drawing from more 25 years of data finds seawater acidification due to rising CO2 locks away silicon that microscopic algae need to survive",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Richard A. Posner, influential scholar and judge who pioneered field of law and economics, 1939-2026",
+      "url": "https://news.uchicago.edu/story/richard-posner-influential-scholar-and-judge-who-pioneered-field-law-and-economics-1939-2026",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "‘Leading intellectual light’ remembered for his curiosity, love of literature, and impact on legal thought and the UChicago community",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Flu, RSV, and Measles’ Comeback: What to Know This Sick Season",
+      "url": "https://news.uchicago.edu/flu-rsv-and-measles-comeback-what-know-sick-season",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Chicago Magazine’s 2026 Chicagoans of the Year",
+      "url": "https://www.chicagotribune.com/2026/11/16/chicago-magazines-2026-chicagoans-of-the-year/",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "New center at Crown Family School will focus on reducing climate-driven health disparities",
+      "url": "https://news.uchicago.edu/story/new-center-crown-family-school-will-focus-reducing-climate-driven-health-disparities",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "Event marks the relaunch of the Center for Climate, Health, and Society",
+      "source": "UChicago News",
+      "category": "education"
+    }
+  ]
+}

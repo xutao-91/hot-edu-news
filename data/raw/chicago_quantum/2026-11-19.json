@@ -1,0 +1,26 @@
+{
+  "source": "Chicago Quantum Exchange",
+  "source_url": "https://chicagoquantum.org/news",
+  "crawled_at": "2026-11-19T19:00:08.433989",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Argonne’s Advanced Photon Source illuminates the quantum world within materials",
+      "url": "https://www.anl.gov/article/argonnes-advanced-photon-source-illuminates-the-quantum-world-within-materials",
+      "date": "2026-11-16",
+      "summary_en": "Researchers use cutting-edge X-ray capabilities to peer deep inside quantum materials in real time as they grow and transform",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    },
+    {
+      "title": "Chicago Business Journal: Blueprint for the future: Chicago Quantum Exchange's new CEO outlines the next phase for quantum tech",
+      "url": "https://www.bizjournals.com/chicago/news/2026/11/16/chicago-quantum-exchange-aaron-fluitt-funding.html",
+      "date": "2026-11-16",
+      "summary_en": "The Chicago Quantum Exchange leader highlights a shift toward commercial manufacturing where 70% of future roles may not require graduate degrees.",
+      "source": "Chicago Quantum Exchange",
+      "source_url": "https://chicagoquantum.org/news",
+      "category": "quantum"
+    }
+  ]
+}

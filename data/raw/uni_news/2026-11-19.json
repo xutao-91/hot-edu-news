@@ -1,0 +1,44 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-19T19:00:16.523133",
+  "total_news": 4,
+  "news": [
+    {
+      "title": "What drives the cost of Thanksgiving dinner? A UNI economist explains",
+      "url": "https://insideuni.uni.edu/campus-community/what-drives-cost-thanksgiving-dinner-uni-economist-explains",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "Robin Chen, assistant professor in macroeconomics in the Wilson College of Business, explains the forces shaping Thanksgiving prices and what consumers might expect next.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "McLeod Center turns 20",
+      "url": "https://insideuni.uni.edu/campus-community/mcleod-center-turns-20",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "The arena opened on November 18, 2006 with a crowd of 5,522 watching UNI volleyball sweep Bradley. Not only is the facility home to athletics events, but it also hosts commencements and community gatherings.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "No major? No problem. These students found their way at UNI",
+      "url": "https://insideuni.uni.edu/campus-community/no-major-no-problem-these-students-found-their-way-uni",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "It's totally OK to not have your major figured out when you first get to college. In fact, it's pretty common. Check out these students' experiences in UNI's Exploratory Program.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "At 30, a career change leads to new possibilities at UNI",
+      "url": "https://insideuni.uni.edu/business/30-career-change-leads-new-possibilities-uni",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "At 30, Austin Anderson traded engineering for accounting, finding the support, connections and opportunities at UNI to launch a new chapter in his career.",
+      "source": "UNI News",
+      "category": "general"
+    }
+  ]
+}

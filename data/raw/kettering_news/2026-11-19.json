@@ -1,0 +1,26 @@
+{
+  "source": "Kettering University News",
+  "source_url": "https://www.kettering.edu/who-we-are/news-events/kettering-news",
+  "crawled_at": "2026-11-19T19:00:10.921655",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Kettering University Celebrates Alumni Who Lead, Create, and Make a Difference",
+      "url": "https://www.kettering.edu/kettering-university-celebrates-alumni-who-lead-create-and-make-difference",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "academics"
+    },
+    {
+      "title": "Kettering University Ranks Among Nation’s 50 Best Colleges for Return on Investment",
+      "url": "https://www.kettering.edu/kettering-university-ranks-among-nations-50-best-colleges-return-investment",
+      "date": "2026-11-16",
+      "type": "News",
+      "summary_en": "",
+      "source": "Kettering News",
+      "category": "academics"
+    }
+  ]
+}
