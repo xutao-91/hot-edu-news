@@ -1,0 +1,35 @@
+{
+  "source": "O'Neill School of Public and Environmental Affairs at IU",
+  "source_url": "https://oneill.indiana.edu/news/index.html",
+  "crawled_at": "2026-11-20T19:00:13.124278",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "IU Climate Week highlights solutions to environmental challenges",
+      "url": "https://oneill.indiana.edu/news/2026-1120-iu-climate-week.html",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "Learn about IU’s inaugural Climate Week, featuring campus events, expert talks, and hands-on activities focused on climate solutions and sustainability.",
+      "source": "O'Neill School at IU",
+      "category": "public_affairs"
+    },
+    {
+      "title": "Denison University and O’Neill School announce partnership",
+      "url": "https://oneill.indiana.edu/news/2026-1119-denison-university-partnership.html",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "Through a partnership with the O’Neill School, eligible Denison alumni can pursue graduate study in public and environmental affairs, with a 25% tuition reduction and an application fee waiver.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    },
+    {
+      "title": "O'Neill School ready to shine at ARNOVA Conference",
+      "url": "https://oneill.indiana.edu/news/2026-1117-arnova-2026.html",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "O’Neill School faculty and doctoral students will share research at the 2026 ARNOVA Conference, advancing nonprofit, philanthropy, and civil society scholarship.",
+      "source": "O'Neill School at IU",
+      "category": "general"
+    }
+  ]
+}

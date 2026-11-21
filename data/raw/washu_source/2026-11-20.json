@@ -1,0 +1,98 @@
+{
+  "source": "Washington University Source",
+  "source_url": "https://source.washu.edu/channels/newsroom/",
+  "crawled_at": "2026-11-20T19:00:17.010253",
+  "total_news": 10,
+  "news": [
+    {
+      "title": "Rural students find belonging at WashU through growing collective",
+      "url": "https://source.washu.edu/2026/11/rural-students-find-belonging-at-washu-through-growing-collective/",
+      "date": "2026-11-20",
+      "type": "Students",
+      "summary_en": "WashU’s Rural Students Collective helps students from small towns build community, find academic support and feel at home on campus. Rural enrollment has steadily increased in recent years.",
+      "source": "WashU Source",
+      "category": "campus"
+    },
+    {
+      "title": "Breakthrough material gets stronger the more it bends",
+      "url": "https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/",
+      "date": "2026-11-20",
+      "type": "Chemistry",
+      "summary_en": "WashU chemists led by Arts & Sciences’ Chenfeng Ke have created a material that gets stronger with use, a discovery with potential medical and industrial applications.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "One tiny sensor, many signals",
+      "url": "https://source.washu.edu/2026/11/one-tiny-sensor-many-signals/",
+      "date": "2026-11-20",
+      "type": "Engineering",
+      "summary_en": "WashU McKelvey engineers paired optical sensors with a new AI approach that decodes hidden patterns in light. The research, led by Lan Yang and Chenyang Lu, paves the way for smaller, smarter sensors for robotics, human health monitoring and cybersecurity.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "AI faculty search underway",
+      "url": "https://source.washu.edu/2026/11/ai-faculty-search-underway/",
+      "date": "2026-11-19",
+      "type": "Artificial Intelligence",
+      "summary_en": "A faculty AI cluster hire is now underway across Danforth Campus schools. So far, more than 500 candidates have submitted applications.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "US loses measles elimination status. What does that mean for Missouri?",
+      "url": "https://source.washu.edu/2026/11/washu-expert-us-loses-measles-elimination-status-what-does-that-mean-for-missouri/",
+      "date": "2026-11-19",
+      "type": "Health & Society",
+      "summary_en": "Jennifer Layden, MD, PhD, of WashU Bursky Public Health, explains how declining childhood vaccination rates threaten community protection and what families can do to reduce risks.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Epstein receives $11 million European Research Council Synergy Grant",
+      "url": "https://source.washu.edu/2026/11/epstein-receives-11-million-european-research-council-synergy-grant/",
+      "date": "2026-11-19",
+      "type": "Law",
+      "summary_en": "Lee Epstein, the Ethan A.H. Shepley Distinguished University Professor at WashU, and collaborators have received a grant from the European Research Council to examine how judges’ decisions affect democracy.",
+      "source": "WashU Source",
+      "category": "academic"
+    },
+    {
+      "title": "Provost West reappointed to role",
+      "url": "https://source.washu.edu/2026/11/provost-west-reappointed-to-role/",
+      "date": "2026-11-19",
+      "type": "Appointments & Promotions",
+      "summary_en": "Mark D. West, executive vice chancellor for academic affairs and provost, has been reappointed to his role through June 2030.",
+      "source": "WashU Source",
+      "category": "advancement"
+    },
+    {
+      "title": "Have we forgotten how dangerous measles can be?",
+      "url": "https://source.washu.edu/2026/11/washu-expert-have-we-forgotten-how-dangerous-measles-can-be/",
+      "date": "2026-11-18",
+      "type": "Health & Society",
+      "summary_en": "As measles resurges in the United States, infectious disease epidemiologist Catie Oldenburg explains what global vaccination successes can teach us about preventing its spread.",
+      "source": "WashU Source",
+      "category": "general"
+    },
+    {
+      "title": "Brown School program works to move discoveries into real world",
+      "url": "https://source.washu.edu/2026/11/brown-school-program-works-to-move-discoveries-into-real-world/",
+      "date": "2026-11-18",
+      "type": "Social Work",
+      "summary_en": "A Brown School training program that has helped shape the field of implementation science for nearly two decades has received a new five-year federal grant, supporting its continued work to prepare researchers to bring scientific discoveries into everyday practice.",
+      "source": "WashU Source",
+      "category": "business"
+    },
+    {
+      "title": "$43 million extends global study of inherited Alzheimer’s disease",
+      "url": "https://source.washu.edu/2026/11/43-million-extends-global-study-of-inherited-alzheimers-disease/",
+      "date": "2026-11-17",
+      "type": "Alzheimer's",
+      "summary_en": "Funding from the NIH will help double enrollment in WashU Medicine’s Dominantly Inherited Alzheimer Network Observational Study (DIAN Obs) and explore why some people who inherit Alzheimer’s genes resist the disease.",
+      "source": "WashU Source",
+      "category": "academic"
+    }
+  ]
+}

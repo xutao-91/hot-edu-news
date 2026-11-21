@@ -1,0 +1,53 @@
+{
+  "source": "University of Northern Iowa News",
+  "source_url": "https://insideuni.uni.edu/all-news",
+  "crawled_at": "2026-11-20T19:00:16.173234",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Unlocking opportunities: A family’s guide to college financial aid and scholarships",
+      "url": "https://insideuni.uni.edu/campus-community/unlocking-opportunities-familys-guide-college-financial-aid-and-scholarships",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "Financial aid can be confusing. Here's a guide covering the options available and how to get them to help you and your college-bound teen.",
+      "source": "UNI News",
+      "category": "donation"
+    },
+    {
+      "title": "All hands on deck: UNI nursing students join area responders for simulated emergency",
+      "url": "https://insideuni.uni.edu/health/all-hands-deck-uni-nursing-students-join-area-responders-simulated-emergency",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "At UNI, nursing students are gaining hands-on experience in emergency preparedness right on campus. A simulated mass casualty incident tested how students and area responders can come together when a large disaster occurs with limited resources.",
+      "source": "UNI News",
+      "category": "students"
+    },
+    {
+      "title": "What drives the cost of Thanksgiving dinner? A UNI economist explains",
+      "url": "https://insideuni.uni.edu/campus-community/what-drives-cost-thanksgiving-dinner-uni-economist-explains",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "Robin Chen, assistant professor in macroeconomics in the Wilson College of Business, explains the forces shaping Thanksgiving prices and what consumers might expect next.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "McLeod Center turns 20",
+      "url": "https://insideuni.uni.edu/campus-community/mcleod-center-turns-20",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "The arena opened on November 18, 2006 with a crowd of 5,522 watching UNI volleyball sweep Bradley. Not only is the facility home to athletics events, but it also hosts commencements and community gatherings.",
+      "source": "UNI News",
+      "category": "general"
+    },
+    {
+      "title": "No major? No problem. These students found their way at UNI",
+      "url": "https://insideuni.uni.edu/campus-community/no-major-no-problem-these-students-found-their-way-uni",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "It's totally OK to not have your major figured out when you first get to college. In fact, it's pretty common. Check out these students' experiences in UNI's Exploratory Program.",
+      "source": "UNI News",
+      "category": "students"
+    }
+  ]
+}

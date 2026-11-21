@@ -1,0 +1,26 @@
+{
+  "source": "Purdue University College of Engineering",
+  "source_url": "https://engineering.purdue.edu/Engr/AboutUs/News/all-news",
+  "crawled_at": "2026-11-20T19:00:16.250392",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Setting his sights on space and service",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Features/2026/2026-1102-my-victory-charles-walker-sights-on-space-and-service",
+      "date": "November 19, 2026",
+      "type": "News",
+      "summary_en": "Charles Walker's dream of becoming an astronaut is rooted in family, perseverance and a desire to give back",
+      "source": "Purdue College of Engineering",
+      "category": "community"
+    },
+    {
+      "title": "Purdue 1 patch designs tell the stories of the university's 2027 mission to space",
+      "url": "https://engineering.purdue.edu/Engr/AboutUs/News/Spotlights/2026/2026-1012-purdue-1-mission-patch-designs-2027-spaceflight",
+      "date": "November 17, 2026",
+      "type": "News",
+      "summary_en": "Purdue 1 patch designs tell the stories of the university's 2027 mission to space",
+      "source": "Purdue College of Engineering",
+      "category": "general"
+    }
+  ]
+}

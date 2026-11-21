@@ -1,0 +1,78 @@
+{
+  "source": "Student Life (WashU)",
+  "source_url": "https://www.studlife.com/news",
+  "crawled_at": "2026-11-20T19:00:14.987227",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "Can you change your personality? New “Lectures on Tap” series kicks off to say ‘yes’",
+      "url": "https://www.studlife.com/news/2026/11/20/can-you-change-your-personality-new-lectures-on-tap-series-kicks-off-to-say-yes",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "",
+      "author": "Flannery Poon",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Bursky School of Public Health announces new scholarships for incoming students",
+      "url": "https://www.studlife.com/news/2026/11/20/bursky-school-of-public-health-announces-new-scholarships-for-incoming-students",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "",
+      "author": "Shrey Kanji",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "Fall 2026 Student Union and ArtSci Council election guide",
+      "url": "https://www.studlife.com/news/2026/11/19/133725",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "",
+      "author": "Macy Ott",
+      "source": "Student Life",
+      "category": "campus"
+    },
+    {
+      "title": "‘A project of public memory’: Journalist Nikole Hannah-Jones speaks on history, citizenship, and education",
+      "url": "https://www.studlife.com/news/2026/11/18/a-project-of-public-memory-journalist-nikole-hannah-jones-speaks-on-history-citizenship-and-education",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "author": "Elizabeth Stump, Ella Meshoulam",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "McKelvey cuts funding for preprofessional organizations, backs design-build teams",
+      "url": "https://www.studlife.com/news/2026/11/18/mckelvey-cuts-funding-for-preprofessional-organizations-backs-design-build-teams",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "author": "Shrey Kanji",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "Q&A with Chancellor Andrew D. Martin, fall 2026",
+      "url": "https://www.studlife.com/news/2026/11/18/qa-with-chancellor-andrew-d-martin-fall-2026",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "author": "Laurel Wang, Lewis Rand",
+      "source": "Student Life",
+      "category": "general"
+    },
+    {
+      "title": "The Trump administration, the Fontbonne campus, and AI in education: a recap of the Q&A with Chancellor Andrew D. Martin",
+      "url": "https://www.studlife.com/news/2026/11/18/the-trump-administration-the-fontbonne-campus-and-ai-in-education-a-recap-of-the-qa-with-chancellor-andrew-d-martin",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "author": "Lewis Rand, Laurel Wang",
+      "source": "Student Life",
+      "category": "ai"
+    }
+  ]
+}

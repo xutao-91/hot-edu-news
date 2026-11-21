@@ -1,0 +1,71 @@
+{
+  "source": "University of Chicago News",
+  "source_url": "https://news.uchicago.edu/lateststories",
+  "crawled_at": "2026-11-20T19:00:14.988225",
+  "total_news": 7,
+  "news": [
+    {
+      "title": "As war drags on, former Ukrainian president asks what’s next",
+      "url": "https://news.uchicago.edu/story/war-drags-former-ukrainian-president-asks-whats-next",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "Viktor Yushchenko discusses the conflict, Russia and possible paths ahead at International House event",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Tiny ‘Pac-Man’ capsules use the power of turbulence to vacuum up particles",
+      "url": "https://news.uchicago.edu/story/tiny-pac-man-capsules-use-power-turbulence-vacuum-particles",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "UChicago, NYU team create capsules that could someday allow precision filtering, drug delivery",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Helping preterm babies survive and thrive, with Erika Claud",
+      "url": "https://news.uchicago.edu/big-brains-podcast-helping-preterm-babies-survive-and-thrive-erika-claud",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "Walter E. Massey awarded University of Chicago Medal",
+      "url": "https://news.uchicago.edu/story/walter-e-massey-awarded-university-chicago-medal",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "‘Visionary’ leader honored for extraordinary, decades-long contributions to the University",
+      "source": "UChicago News",
+      "category": "general"
+    },
+    {
+      "title": "David Booth makes the case for embracing uncertainty in investing and life",
+      "url": "https://news.uchicago.edu/story/david-booth-makes-case-embracing-uncertainty-investing-and-life",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "In his new book, UChicago alum looks back on his career and how academic research shaped his thinking",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "At base of ocean food chain, scientists uncover impacts of a changing atmosphere",
+      "url": "https://news.uchicago.edu/story/base-ocean-food-chain-scientists-uncover-impacts-changing-atmosphere",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "New UChicago research drawing from more 25 years of data finds seawater acidification due to rising CO2 locks away silicon that microscopic algae need to survive",
+      "source": "UChicago News",
+      "category": "ai"
+    },
+    {
+      "title": "Richard A. Posner, influential scholar and judge who pioneered field of law and economics, 1939-2026",
+      "url": "https://news.uchicago.edu/story/richard-posner-influential-scholar-and-judge-who-pioneered-field-law-and-economics-1939-2026",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "‘Leading intellectual light’ remembered for his curiosity, love of literature, and impact on legal thought and the UChicago community",
+      "source": "UChicago News",
+      "category": "general"
+    }
+  ]
+}

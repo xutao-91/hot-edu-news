@@ -1,0 +1,62 @@
+{
+  "source": "Wayne State University News",
+  "source_url": "https://today.wayne.edu/news",
+  "crawled_at": "2026-11-20T19:00:17.372319",
+  "total_news": 6,
+  "news": [
+    {
+      "title": "Wayne State brings Warrior pride — and Big Bird — to America’s Thanksgiving Parade",
+      "url": "https://today.wayne.edu/news/2026/11/20/wayne-state-brings-warrior-pride-and-big-bird-to-americas-thanksgiving-parade-70613",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Show your Warrior pride: Wayne State swag for every style",
+      "url": "https://today.wayne.edu/news/2026/11/20/show-your-warrior-pride-wayne-state-swag-for-every-style-70618",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State’s Dept. of Communication showcases research, national reach at NCA Convention",
+      "url": "https://comm.wayne.edu/news/wayne-states-dept-of-communication-showcases-research-national-reach-at-nca-convention-70610",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "research"
+    },
+    {
+      "title": "Noel Night returns to Midtown Dec. 5 with Wayne State as presenting sponsor",
+      "url": "https://economicdevelopment.wayne.edu/news/noel-night-returns-to-midtown-dec-5-with-wayne-state-as-presenting-sponsor-70588",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State University secures Department of Defense grant to explore new treatment strategy for esophageal cancer",
+      "url": "https://research.wayne.edu/news/wayne-state-university-secures-department-of-defense-grant-to-explore-new-treatment-strategy-for-esophageal-cancer-70596",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "general"
+    },
+    {
+      "title": "Wayne State students build public health careers, serve Detroit",
+      "url": "https://today.wayne.edu/news/2026/11/17/wayne-state-students-build-public-health-careers-serve-detroit-70573",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Wayne State News",
+      "category": "health"
+    }
+  ]
+}

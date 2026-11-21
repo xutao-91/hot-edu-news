@@ -1,0 +1,26 @@
+{
+  "source": "eCampus News",
+  "source_url": "https://www.ecampusnews.com/top-stories/",
+  "crawled_at": "2026-11-20T19:00:08.599317",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Watching test takers isn’t enough anymore",
+      "url": "https://www.ecampusnews.com/teaching-learning/2026/11/20/watching-test-takers-isnt-enough-anymore/",
+      "date": "2026-11-20",
+      "type": "Classroom Innovation",
+      "summary_en": "Assessment programs are operating in a testing environment that looks fundamentally different from the one most security models were designed to support. The expansion of remote delivery, increased access to generative AI tools, organized content sharing and proxy test-taking, and the rapid advances in technology have created new avenues for compromising exam integrity.",
+      "source": "eCampus News",
+      "category": "general"
+    },
+    {
+      "title": "Do you have an employee retention problem?",
+      "url": "https://www.ecampusnews.com/campus-leadership/2026/11/18/do-you-have-an-employee-retention-problem/",
+      "date": "2026-11-18",
+      "type": "Faculty & Staff",
+      "summary_en": "Fall brings a rhythm of change. From the energy of a new semester to the shift in daylight, many parts of life get reorganized in the fall, providing a natural opportunity to consider the past and make a blueprint for success in the future.",
+      "source": "eCampus News",
+      "category": "general"
+    }
+  ]
+}

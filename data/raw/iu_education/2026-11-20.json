@@ -1,0 +1,26 @@
+{
+  "source": "Indiana University School of Education",
+  "source_url": "https://education.indiana.edu/news/index.html",
+  "crawled_at": "2026-11-20T19:00:10.342640",
+  "total_news": 2,
+  "news": [
+    {
+      "title": "Robertson named Executive Director of Development for the School of Education",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-11-19-robertson-named-executive-director-of-development.html",
+      "date": "2026-11-19",
+      "type": "News",
+      "summary_en": "Katy Robertson has joined the IU Foundation as the Executive Director of Development for the School of Education. As Executive Director, Robertson will serve as the lead advancement professional for the School of Education, collaborating closely with the Dean to set the strategic direction for the school’s fundraising and alumni engagement efforts.",
+      "source": "IU School of Education",
+      "category": "education"
+    },
+    {
+      "title": "Dean Robert Berry joins national council shaping how teachers are prepared for the age of AI",
+      "url": "https://education.indiana.edu/news/2026/jul-dec/2026-11-17-dean-berry-joins-epac.html",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "Berry has been named to the Educator Preparation Advisory Council (EPAC), a new national council convened by Ed3 Global and Deans for Impact (DFI) which brings together higher-education and educator-preparation leaders to guide how future teachers are prepared for an education system and workforce being transformed by artificial intelligence (AI).",
+      "source": "IU School of Education",
+      "category": "general"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "source": "Notre Dame College of Science",
+  "source_url": "https://science.nd.edu/news-and-media/news/",
+  "crawled_at": "2026-11-20T19:00:13.213810",
+  "total_news": 3,
+  "news": [
+    {
+      "title": "Postdoc Spotlight: Melissa De Jesus bridges applied math with cellular biology",
+      "url": "https://science.nd.edu/news-and-media/news/postdoc-spotlight-melissa-de-jesus-bridges-applied-math-with-cellular-biology/",
+      "date": "2026-11-20",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
+    {
+      "title": "Protein targeting uncovers new potential for prostate cancer treatment",
+      "url": "https://science.nd.edu/news-and-media/news/protein-targeting-uncovers-new-potential-for-prostate-cancer-treatment/",
+      "date": "2026-11-18",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "general"
+    },
+    {
+      "title": "Ghimire to lead multi-institutional U.S. Army research grant to investigate new types of magnets",
+      "url": "https://science.nd.edu/news-and-media/news/ghimire-to-lead-multi-institutional-u-s-army-research-grant-to-investigate-new-types-of-magnets/",
+      "date": "2026-11-17",
+      "type": "News",
+      "summary_en": "",
+      "source": "Notre Dame College of Science",
+      "category": "science"
+    }
+  ]
+}
